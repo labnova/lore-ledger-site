@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"arte_visiva/affresco",
+"cartografia/proiezioni"
+],
+"epoca_relativa": 0,
+"estrazione": 7,
+"gancio": "Un archivista giura di aver visto, nella proiezione capovolta, una nave che nei registri ufficiali risulta distrutta da tre generazioni.",
+"id": "ELA-INV-0029",
+"nome": "Lo Sguardo dal Polo Opposto",
+"nome_reale": "Proiezione stereografica",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La proiezione stereografica immagina un occhio posto al polo opposto del globo che guarda attraverso di esso; gli archivisti dipingono queste carte capovolte apposta, sostenendo che solo guardando il cielo dal punto più lontano possibile si impara a diffidare della propria posizione.",
+"universo": "elabverse"
+}

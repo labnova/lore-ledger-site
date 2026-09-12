@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"arte_visiva/affresco",
+"cartografia/proiezioni"
+],
+"epoca_relativa": 0,
+"estrazione": 7,
+"gancio": "Un monaco nota che il centro del cerchio dipinto sul pavimento, quest'anno, non coincide più con la posizione reale della nave madre.",
+"id": "ELA-INV-0027",
+"nome": "Il Cerchio che Guarda il Basso",
+"nome_reale": "Proiezione azimutale",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La proiezione azimutale mette un solo punto al centro e distorce tutto il resto in cerchi concentrici; i monaci del vuoto dipingono queste mappe sul pavimento della cappella, con la nave madre al centro, cosicché pregare significhi sempre guardare in basso verso casa.",
+"universo": "elabverse"
+}

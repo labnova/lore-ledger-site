@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"arte_visiva/affresco",
+"cartografia/proiezioni"
+],
+"epoca_relativa": 0,
+"estrazione": 7,
+"gancio": "Un bambino disegna, in un settore mai cartografato, una creatura che corrisponde esattamente a una grottesca dipinta due generazioni prima da un frescante che non ha mai visto il suo disegno.",
+"id": "ELA-INV-0036",
+"nome": "I Mostri ai Margini del Cielo",
+"nome_reale": "Grottesca",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Le grottesche riempivano i margini degli affreschi romani con creature impossibili, dove la pittura ufficiale finiva e l'immaginazione dei decoratori poteva correre libera; ai bordi di ogni carta proiettata, dove la distorsione cresce e le stelle vere diventano irriconoscibili, i frescanti di bordo dipingono le proprie grottesche, mostri che nessuno ha mai visto ma che tutti giurano di riconoscere.",
+"universo": "elabverse"
+}

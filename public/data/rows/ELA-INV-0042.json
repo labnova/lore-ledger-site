@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"acustica/fonetica",
+"ottica/spettroscopia"
+],
+"epoca_relativa": 4,
+"estrazione": 7,
+"gancio": "Un equipaggio festeggia il primo Blu del Ritorno registrato in generazioni, finché un monaco nota che la nave, in realtà, sta ancora accelerando.",
+"id": "ELA-INV-0042",
+"nome": "Il Blu del Ritorno",
+"nome_reale": "Traslazione doppler blu",
+"parent_id": "ELA-INV-0003",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Se il Rosso della Voce misura la fede di chi si allontana, il Blu del Ritorno nasce quando le navi cominciano a decelerare verso una nuova casa; i monaci del vuoto scoprono che le voci si spostano verso l'acuto, e temono che il blu, non il rosso, sia il vero segno di chi sta per tradire la rotta.",
+"universo": "elabverse"
+}

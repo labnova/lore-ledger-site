@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"arte_visiva/affresco",
+"cartografia/proiezioni"
+],
+"epoca_relativa": 0,
+"estrazione": 7,
+"gancio": "Un navigante segue per errore il battito di un pulsar dipinto invece di quello reale, e la nave corregge la rotta verso un punto che esiste solo sul muro.",
+"id": "ELA-INV-0032",
+"nome": "La Carta dei Venti Immobili",
+"nome_reale": "Portolano",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "I portolani medievali intrecciavano rotte e rose dei venti su pergamena; a bordo, dove non esiste vento, gli archivisti dipingono a fresco portolani del vuoto in cui le rose dei venti sono sostituite da rose di pulsar, ciascuna con il proprio battito invece di una direzione.",
+"universo": "elabverse"
+}

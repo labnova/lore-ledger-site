@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"arte_visiva/affresco",
+"cartografia/proiezioni"
+],
+"epoca_relativa": 0,
+"estrazione": 7,
+"gancio": "Il registro di bordo conta ventimila giornate di cielo dipinto, ma il diario di viaggio ne conta ventimila più una.",
+"id": "ELA-INV-0024",
+"nome": "La Giornata di Cielo",
+"nome_reale": "Giornata",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il frescante calcola quanto intonaco riesce a dipingere prima che asciughi e chiama quella porzione una giornata; i cartografi di bordo misurano le distanze percorse non in anni ma in giornate di cielo dipinto, un pannello di proiezione stellare completato prima che il turno finisca.",
+"universo": "elabverse"
+}

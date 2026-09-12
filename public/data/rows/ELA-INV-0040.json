@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"arte_visiva/affresco",
+"cartografia/proiezioni"
+],
+"epoca_relativa": 0,
+"estrazione": 7,
+"gancio": "Una spugna passata per pulizia ordinaria cancella per errore l'unica rotta segreta che avrebbe permesso alla nave di tornare indietro.",
+"id": "ELA-INV-0040",
+"nome": "L'Ultimo Velo",
+"nome_reale": "Velatura",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La velatura si stende a secco sull'affresco già asciutto, un'ultima ombra che il vero fresco non prevede e che un restauratore può sempre rimuovere senza toccare l'opera sottostante; i cartografi la usano per aggiungere alle carte proiettate le rotte segrete, sapendo che basterà una spugna, e non uno scalpello, a farle sparire senza lasciare traccia sull'intonaco.",
+"universo": "elabverse"
+}

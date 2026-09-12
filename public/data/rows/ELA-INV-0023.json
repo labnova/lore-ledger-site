@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"arte_visiva/affresco",
+"cartografia/proiezioni"
+],
+"epoca_relativa": 0,
+"estrazione": 7,
+"gancio": "Un apprendista nota che il cartone tramandato da otto generazioni ha un foro in più, in un punto del cielo che nessuna stella ha mai occupato.",
+"id": "ELA-INV-0023",
+"nome": "Il Cartone delle Rotte",
+"nome_reale": "Cartone preparatorio",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il cartone dell'affresco viene bucherellato lungo i contorni e battuto con sacchetti di polvere di carbone per trasferire il disegno sul muro; i cartografi usano lo stesso spolvero per trasferire una proiezione conica del cielo su ogni nuova sezione di scafo, cucendo insieme generazioni di carte identiche.",
+"universo": "elabverse"
+}

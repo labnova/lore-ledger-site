@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"arte_visiva/affresco",
+"cartografia/proiezioni"
+],
+"epoca_relativa": 0,
+"estrazione": 7,
+"gancio": "Un colono scopre che la rotta dipinta sul muro della sua cabina, ancora umida quando è nato, oggi indica una stella che nessuna nave ha mai raggiunto.",
+"id": "ELA-INV-0021",
+"nome": "La Carta Bagnata",
+"nome_reale": "Buon fresco",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "I cartografi di bordo dipingono le rotte sull'intonaco ancora umido dello scafo, perché il pigmento penetra nella calce e non se ne stacca più; usano la stessa proiezione azimutale con cui i naviganti antichi appiattivano la cupola del cielo su un muro curvo.",
+"universo": "elabverse"
+}

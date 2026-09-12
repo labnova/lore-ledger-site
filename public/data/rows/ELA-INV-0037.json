@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"arte_visiva/affresco",
+"cartografia/proiezioni"
+],
+"epoca_relativa": 0,
+"estrazione": 7,
+"gancio": "Un diplomatico chiede di essere ritratto nella parete della proiezione ortografica, e i monaci gli spiegano che nessuno, in quel muro, ha mai avuto un volto.",
+"id": "ELA-INV-0037",
+"nome": "Lo Sguardo da Nessun Luogo",
+"nome_reale": "Proiezione ortografica",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La proiezione ortografica mostra la sfera come la vedrebbe un occhio infinitamente lontano, con raggi tutti paralleli; i monaci del vuoto la considerano l'unica proiezione onesta, priva di un punto di vista personale, e dipingono così l'unica parete della nave dove nessun colono è mai raffigurato, nemmeno di spalle.",
+"universo": "elabverse"
+}

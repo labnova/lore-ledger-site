@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"acustica/fonetica",
+"ottica/spettroscopia"
+],
+"epoca_relativa": 2,
+"estrazione": 7,
+"gancio": "Il nuovo cifrario, applicato alla sillaba della supernova mai osservata, restituisce non una parola ma una data, un giorno che nel calendario di bordo non è ancora arrivato.",
+"id": "ELA-INV-0043",
+"nome": "Il Dizionario che Non Perde Nulla",
+"nome_reale": "Compressione senza perdita",
+"parent_id": "ELA-INV-0018",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Dove la Scrittura Rapida delle Stelle sacrificava dettaglio per velocità, gli archivisti sviluppano un secondo cifrario che comprime l'intera notte senza perdere un solo fotone d'informazione, e lo usano per riascoltare bit per bit l'ultima sillaba mai decifrata della nave madre, sperando che stavolta il dizionario esatto la riveli per intero.",
+"universo": "elabverse"
+}

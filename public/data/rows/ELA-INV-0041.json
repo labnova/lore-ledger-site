@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"acustica/fonetica",
+"ottica/spettroscopia"
+],
+"epoca_relativa": 3,
+"estrazione": 7,
+"gancio": "Un diplomatico che ha ingannato per anni un solo Specchio Diviso viene scoperto nel giro di una frase, quando il convoglio attiva per la prima volta tutti gli specchi insieme.",
+"id": "ELA-INV-0041",
+"nome": "Il Coro degli Specchi",
+"nome_reale": "Interferometria a lunga base",
+"parent_id": "ELA-INV-0009",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Dove Lo Specchio Diviso confrontava due sole registrazioni, l'interferometria a lunga base mette in rete gli specchi di tutto il convoglio, sommando decine di piccoli sfasamenti in un'unica misura tanto precisa che nessuna voce allenata riesce più a restare coerente con se stessa su più navi contemporaneamente.",
+"universo": "elabverse"
+}

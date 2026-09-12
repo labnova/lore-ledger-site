@@ -348,5 +348,61 @@
 "HAC-INV-0019",
 "HAC-INV-0020"
 ]
+},
+{
+"bibbia_pescata": [
+"<!-- substrato iniziale: vuoto, scritto a mano -->"
+],
+"campi_forzati": [],
+"canone_pescato": [
+"ELA-INV-0009",
+"ELA-INV-0003",
+"ELA-INV-0018"
+],
+"chiavi": {
+"discipline": [
+{
+"macro": "arte_visiva",
+"sotto": "affresco"
+},
+{
+"macro": "cartografia",
+"sotto": "proiezioni"
+}
+],
+"universo": "elabverse"
+},
+"created": "2026-09-12",
+"esito": "ok",
+"espansioni": [
+"ELA-INV-0041",
+"ELA-INV-0042",
+"ELA-INV-0043"
+],
+"estrazione": 7,
+"forzata": false,
+"lotto": "lotto-lore",
+"righe_prodotte": [
+"ELA-INV-0021",
+"ELA-INV-0022",
+"ELA-INV-0023",
+"ELA-INV-0024",
+"ELA-INV-0025",
+"ELA-INV-0026",
+"ELA-INV-0027",
+"ELA-INV-0028",
+"ELA-INV-0029",
+"ELA-INV-0030",
+"ELA-INV-0031",
+"ELA-INV-0032",
+"ELA-INV-0033",
+"ELA-INV-0034",
+"ELA-INV-0035",
+"ELA-INV-0036",
+"ELA-INV-0037",
+"ELA-INV-0038",
+"ELA-INV-0039",
+"ELA-INV-0040"
+]
 }
 ]

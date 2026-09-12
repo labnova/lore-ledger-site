@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"arte_visiva/affresco",
+"cartografia/proiezioni"
+],
+"epoca_relativa": 0,
+"estrazione": 7,
+"gancio": "Un diplomatico rifiuta di mangiare nel refettorio perché non sopporta di vedere la stella di casa deformata insieme a tutte le altre.",
+"id": "ELA-INV-0028",
+"nome": "L'Uovo del Cielo Intero",
+"nome_reale": "Proiezione di Mollweide",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La proiezione di Mollweide comprime l'intero cielo in un'ellisse per mostrarlo tutto insieme, sacrificando gli angoli; i frescanti la dipingono come un unico grande uovo sulla cupola del refettorio, l'unico luogo della nave dove un colono può vedere ogni stella conosciuta in un solo sguardo, per quanto storta.",
+"universo": "elabverse"
+}

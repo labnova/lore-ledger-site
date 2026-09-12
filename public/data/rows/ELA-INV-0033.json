@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"arte_visiva/affresco",
+"cartografia/proiezioni"
+],
+"epoca_relativa": 0,
+"estrazione": 7,
+"gancio": "Un colono scopre che due coordinate del reticolo dipinto puntano nella stessa cella verso due stelle diverse, e nessuno sa quale sia l'errore.",
+"id": "ELA-INV-0033",
+"nome": "La Gabbia che Misura il Cielo",
+"nome_reale": "Reticolo geografico",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il reticolo di paralleli e meridiani permette di dare un indirizzo a ogni punto della sfera; i frescanti lo intonacano come una gabbia dorata sottilissima sotto ogni carta stellare, cosicché anche il colono più giovane possa indicare una stella con due soli numeri, senza mai imparare il suo vero nome.",
+"universo": "elabverse"
+}

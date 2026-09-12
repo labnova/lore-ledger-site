@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"arte_visiva/affresco",
+"cartografia/proiezioni"
+],
+"epoca_relativa": 0,
+"estrazione": 7,
+"gancio": "Un restauratore trova, invece di un fiore-ellisse quasi impercettibile, una regione della carta senza alcuna distorsione segnata, come se lì nessuno avesse mai osato mentire.",
+"id": "ELA-INV-0034",
+"nome": "Le Ellissi della Menzogna",
+"nome_reale": "Indicatrice di Tissot",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "L'indicatrice di Tissot dissemina piccoli cerchi sul globo per mostrare, una volta proiettati, quanto la carta abbia mentito in ogni punto; i frescanti dipingono queste ellissi come fiori nascosti ai margini di ogni murale, un codice segreto che solo i restauratori sanno leggere per capire dove il cielo dipinto si discosta di più dal vero.",
+"universo": "elabverse"
+}

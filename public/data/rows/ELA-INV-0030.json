@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"arte_visiva/affresco",
+"cartografia/proiezioni"
+],
+"epoca_relativa": 0,
+"estrazione": 7,
+"gancio": "Un capitano ordina di intonacare in anticipo la fascia successiva del murale, prima ancora che la rotta per raggiungerla sia stata approvata.",
+"id": "ELA-INV-0030",
+"nome": "Il Cono delle Latitudini Sicure",
+"nome_reale": "Proiezione conica",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La proiezione conica avvolge il globo in un cono tangente a una fascia di latitudine, distorcendo tutto il resto; i cartografi di bordo la usano per dipingere solo la fascia di cielo che la nave attraverserà in questa generazione, lasciando bianco e intonacato di fresco tutto ciò che verrà dopo.",
+"universo": "elabverse"
+}

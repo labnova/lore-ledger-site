@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"arte_visiva/affresco",
+"cartografia/proiezioni"
+],
+"epoca_relativa": 0,
+"estrazione": 7,
+"gancio": "Un restauratore gratta l'ultimo strato di una carta stellare e trova, in sinopia, la rotta verso un sistema che i registri ufficiali dicono di non aver mai cercato.",
+"id": "ELA-INV-0022",
+"nome": "Il Disegno Sepolto",
+"nome_reale": "Sinopia",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Sotto ogni affresco sopravvive un disegno in ocra rossa, tracciato prima che l'intonaco lo copra; gli archivisti hanno scoperto che sotto le carte proiettate del cielo esiste sempre una sinopia più antica, una rotta scartata che qualcuno ha voluto nascondere e non cancellare.",
+"universo": "elabverse"
+}

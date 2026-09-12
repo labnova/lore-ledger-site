@@ -1,6 +1,21 @@
 {
 "edges": [
 {
+"from": "ELA-INV-0009",
+"kind": "parent",
+"to": "ELA-INV-0041"
+},
+{
+"from": "ELA-INV-0003",
+"kind": "parent",
+"to": "ELA-INV-0042"
+},
+{
+"from": "ELA-INV-0018",
+"kind": "parent",
+"to": "ELA-INV-0043"
+},
+{
 "from": "NEO-INV-0001",
 "kind": "regione",
 "to": "NEO-REG-calvenna"
@@ -595,6 +610,144 @@
 "id": "ELA-INV-0020",
 "tipo": "invenzione",
 "titolo": "La Voce Ricostruita",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0021",
+"tipo": "invenzione",
+"titolo": "La Carta Bagnata",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0022",
+"tipo": "invenzione",
+"titolo": "Il Disegno Sepolto",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0023",
+"tipo": "invenzione",
+"titolo": "Il Cartone delle Rotte",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0024",
+"tipo": "invenzione",
+"titolo": "La Giornata di Cielo",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0025",
+"tipo": "invenzione",
+"titolo": "Lo Specchio che Allunga i Poli",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0026",
+"tipo": "invenzione",
+"titolo": "La Carta delle Rotte Dritte",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0027",
+"tipo": "invenzione",
+"titolo": "Il Cerchio che Guarda il Basso",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0028",
+"tipo": "invenzione",
+"titolo": "L'Uovo del Cielo Intero",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0029",
+"tipo": "invenzione",
+"titolo": "Lo Sguardo dal Polo Opposto",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0030",
+"tipo": "invenzione",
+"titolo": "Il Cono delle Latitudini Sicure",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0031",
+"tipo": "invenzione",
+"titolo": "La Linea che Non Cambia Idea",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0032",
+"tipo": "invenzione",
+"titolo": "La Carta dei Venti Immobili",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0033",
+"tipo": "invenzione",
+"titolo": "La Gabbia che Misura il Cielo",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0034",
+"tipo": "invenzione",
+"titolo": "Le Ellissi della Menzogna",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0035",
+"tipo": "invenzione",
+"titolo": "Il Fondo che Nessuno Vede",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0036",
+"tipo": "invenzione",
+"titolo": "I Mostri ai Margini del Cielo",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0037",
+"tipo": "invenzione",
+"titolo": "Lo Sguardo da Nessun Luogo",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0038",
+"tipo": "invenzione",
+"titolo": "La Pelle Staccata del Muro",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0039",
+"tipo": "invenzione",
+"titolo": "I Coni Sovrapposti",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0040",
+"tipo": "invenzione",
+"titolo": "L'Ultimo Velo",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0041",
+"tipo": "invenzione",
+"titolo": "Il Coro degli Specchi",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0042",
+"tipo": "invenzione",
+"titolo": "Il Blu del Ritorno",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0043",
+"tipo": "invenzione",
+"titolo": "Il Dizionario che Non Perde Nulla",
 "universo": "elabverse"
 },
 {

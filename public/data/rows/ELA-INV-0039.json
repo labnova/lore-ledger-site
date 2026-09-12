@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"arte_visiva/affresco",
+"cartografia/proiezioni"
+],
+"epoca_relativa": 0,
+"estrazione": 7,
+"gancio": "Un ispettore misura una discrepanza di pochi gradi esattamente in ogni giuntura tra coni, sempre nella stessa direzione, come se qualcuno correggesse la carta di notte.",
+"id": "ELA-INV-0039",
+"nome": "I Coni Sovrapposti",
+"nome_reale": "Proiezione policonica",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La proiezione policonica usa un cono diverso per ogni parallelo, cucendo insieme più proiezioni parziali in un'unica carta imperfetta; i frescanti di bordo dipingono così i corridoi curvi della nave, un cono di cielo diverso per ogni anello dello scafo, e le giunture tra un cono e l'altro sono l'unico punto dove due frescanti hanno mai dovuto concordare una bugia comune.",
+"universo": "elabverse"
+}

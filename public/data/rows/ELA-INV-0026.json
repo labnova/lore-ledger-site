@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"arte_visiva/affresco",
+"cartografia/proiezioni"
+],
+"epoca_relativa": 0,
+"estrazione": 7,
+"gancio": "Una venatura dorata sul muro della sala macchine punta dritta verso un settore che sulle carte ufficiali è segnato come vuoto.",
+"id": "ELA-INV-0026",
+"nome": "La Carta delle Rotte Dritte",
+"nome_reale": "Proiezione gnomonica",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Nella proiezione gnomonica ogni rotta più breve tra due punti diventa una linea retta sul foglio; i frescanti dipingono queste rette come venature dorate nell'intonaco fresco, cosicché un navigante possa leggere la rotta più breve semplicemente seguendo con un dito la crepa d'oro sul muro.",
+"universo": "elabverse"
+}

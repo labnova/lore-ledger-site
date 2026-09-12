@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"arte_visiva/affresco",
+"cartografia/proiezioni"
+],
+"epoca_relativa": 0,
+"estrazione": 7,
+"gancio": "Un bambino chiede perché la stella dipinta più grande di tutte, vicino al soffitto, sia in realtà la più piccola e la più lontana.",
+"id": "ELA-INV-0025",
+"nome": "Lo Specchio che Allunga i Poli",
+"nome_reale": "Proiezione di Mercatore",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La proiezione di Mercatore mantiene gli angoli ma gonfia le distanze verso i poli; i frescanti di bordo la usano per dipingere la volta della sala comune, sapendo che le stelle vicine ai bordi del murale appariranno più grandi di quanto siano davvero, e i coloni imparano fin da bambini a diffidare dei bordi.",
+"universo": "elabverse"
+}

@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"arte_visiva/affresco",
+"cartografia/proiezioni"
+],
+"epoca_relativa": 0,
+"estrazione": 7,
+"gancio": "Durante una demolizione d'emergenza, un operaio trova sotto l'arriccio coordinate che non corrispondono a nessuna rotta mai dichiarata dalla nave madre.",
+"id": "ELA-INV-0035",
+"nome": "Il Fondo che Nessuno Vede",
+"nome_reale": "Arriccio",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "L'arriccio è lo strato grezzo di intonaco che nessuno vedrà mai, sepolto sotto gli strati finiti; i cartografi vi incidono, prima di ogni murale, le vere coordinate non proiettate della nave, un dato grezzo che nessun colono leggerà mai ma che ogni carta dipinta sopra è costretta, in silenzio, a rispettare.",
+"universo": "elabverse"
+}

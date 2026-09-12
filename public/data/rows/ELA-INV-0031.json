@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"arte_visiva/affresco",
+"cartografia/proiezioni"
+],
+"epoca_relativa": 0,
+"estrazione": 7,
+"gancio": "Un restauratore scopre che la pennellata continua della lossodromia, a un certo punto del corridoio, è stata rifatta da una mano diversa senza che nessuno se ne accorgesse.",
+"id": "ELA-INV-0031",
+"nome": "La Linea che Non Cambia Idea",
+"nome_reale": "Lossodromia",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La lossodromia è la rotta che mantiene sempre lo stesso angolo rispetto ai meridiani, più lunga della via più breve ma più facile da seguire senza correggere la rotta; i frescanti la dipingono come un'unica pennellata continua che attraversa tutti i pannelli del corridoio principale, senza mai un'interruzione tra una giornata di lavoro e l'altra.",
+"universo": "elabverse"
+}
