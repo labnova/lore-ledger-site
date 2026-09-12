@@ -769,9 +769,20 @@
 "from": "NEO-GAD-0010",
 "kind": "regione",
 "to": "NEO-REG-calvenna"
+},
+{
+"from": "ELA-CON-0001",
+"kind": "sorgente",
+"to": "ELA-INV-0002"
 }
 ],
 "nodes": [
+{
+"id": "ELA-CON-0001",
+"tipo": "contenuto",
+"titolo": "Taccuino ritrovato: gli appunti dietro Ritratto di Voce",
+"universo": "elabverse"
+},
 {
 "id": "ELA-GAD-0001",
 "tipo": "gadget",

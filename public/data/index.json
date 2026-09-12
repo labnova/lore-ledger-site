@@ -1836,5 +1836,17 @@
 "tipo": "gadget",
 "titolo": "Orecchio di Cera",
 "universo": "elabverse"
+},
+{
+"created": "2026-09-12",
+"estrazione": 10,
+"id": "ELA-CON-0001",
+"parent_id": null,
+"regione": null,
+"relazione": null,
+"sommario": "Taccuino ritrovato: gli appunti dietro Ritratto di Voce",
+"tipo": "contenuto",
+"titolo": "Taccuino ritrovato: gli appunti dietro Ritratto di Voce",
+"universo": "elabverse"
 }
 ]

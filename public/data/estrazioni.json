@@ -561,5 +561,26 @@
 "ELA-GAD-0009",
 "ELA-GAD-0010"
 ]
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"ELA-INV-0002"
+],
+"chiavi": {
+"canale": "etsy",
+"formato": "documento_ritrovato",
+"medium": "fisico",
+"sorgente_id": "ELA-INV-0002",
+"veridicita": "making_of"
+},
+"created": "2026-09-12",
+"esito": "ok",
+"estrazione": 10,
+"forzata": false,
+"lotto": "lotto-contenuti",
+"righe_prodotte": [
+"ELA-CON-0001"
+]
 }
 ]
