@@ -1,0 +1,30 @@
+{
+"affettivo": null,
+"casta": "clero",
+"ceppo": "turco",
+"cognome": "Dokumacı",
+"contraddizione": "Non crede più che le stelle tengano il registro delle sorti, ma è lui il chierico che ogni notte lo falsifica per farlo tornare.",
+"created": "2026-09-12",
+"difetto": "collerico",
+"epoca_relativa": 0,
+"estrazione": 4,
+"eta_fascia": "adolescente",
+"gancio": "Copista minore della Selva delle Puntate, corregge le quote scritte nel registro astrale prima che i signori le leggano, e nessuno gli ha mai chiesto perché coincidano sempre con la bestia giusta.",
+"id": "NEO-PER-0012",
+"invenzione_id": "NEO-INV-0012",
+"nome": "Kaan",
+"parent_id": null,
+"rapporto": "falsifica",
+"regione": "Vasperdine",
+"relazione": null,
+"schema_version": 1,
+"segno": "gemelli",
+"spirituale": {
+"credenza": "le_stelle_come_registro",
+"rapporto": "apostata"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "devoto_al_lavoro",
+"universo": "neofeudal"
+}

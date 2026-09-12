@@ -1,0 +1,18 @@
+{
+"ceppo_dominante": null,
+"created": "2026-09-12",
+"epoca_relativa": 0,
+"estrazione": 4,
+"id": "NEO-REG-vasperdine",
+"nome": "Vasperdine",
+"note": "Crocevia di pellegrini e scommettitori di ogni stirpe diretti alla Selva delle Puntate; il clero registra le offerte come voti e le quote come grazie, e nessuno sa più distinguerle.",
+"onomastica": "totale",
+"p_cognome_mestiere": 0.45,
+"parent_id": null,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "regione",
+"universo": "neofeudal"
+}

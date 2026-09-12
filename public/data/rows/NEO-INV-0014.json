@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"zoologia",
+"gioco_azzardo"
+],
+"epoca_relativa": 0,
+"estrazione": 1,
+"gancio": "Il pubblico scommette sulla sentenza, e le api pungono il giudice.",
+"id": "NEO-INV-0014",
+"nome": "L'Ordalia delle Api",
+"nome_reale": "Ordalia",
+"parent_id": null,
+"poc": false,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "L'accusato è chiuso con uno sciame dell'era precedente che punge solo chi mente, leggendo marker di stress.",
+"universo": "neofeudal"
+}

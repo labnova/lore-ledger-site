@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"zoologia",
+"gioco_azzardo"
+],
+"epoca_relativa": 0,
+"estrazione": 1,
+"gancio": "Una puntata di duecento anni fa risulta ancora aperta.",
+"id": "NEO-INV-0003",
+"nome": "Il Notaio delle Sorti",
+"nome_reale": "Bookmaker",
+"parent_id": null,
+"poc": true,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Monaco che registra le scommesse su una pergamena che è un ledger append-only; nessuna puntata può essere cancellata, nemmeno dai conti.",
+"universo": "neofeudal"
+}

@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"zoologia",
+"gioco_azzardo"
+],
+"epoca_relativa": 0,
+"estrazione": 1,
+"gancio": "Il libro dice che il cavallo del duca ha una stirpe maledetta.",
+"id": "NEO-INV-0015",
+"nome": "Libro delle Stirpi Benedette",
+"nome_reale": "Genealogia dei purosangue",
+"parent_id": null,
+"poc": true,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Database di pedigree che nasconde un archivio di genoma; le stirpi maledette sono lignaggi con mutazioni sgradite ai signori.",
+"universo": "neofeudal"
+}

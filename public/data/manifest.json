@@ -1,1 +1,5 @@
-{"build":"fixture","commit":"fixture","schema_version":1}
+{
+"build": "2026-09-12T14:22:47+00:00",
+"commit": "53c7d32",
+"schema_version": 1
+}

@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"zoologia",
+"gioco_azzardo"
+],
+"epoca_relativa": 0,
+"estrazione": 1,
+"gancio": "Madre Iselda, con i suoi registri delle nascite, è senza volerlo la più grande insider del feudo.",
+"id": "NEO-INV-0010",
+"nome": "Il Peccato dell'Allevatore",
+"nome_reale": "Insider trading",
+"parent_id": null,
+"poc": false,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Chi conosce la stirpe delle bestie scommette meglio; l'allevamento è conoscenza proibita.",
+"universo": "neofeudal"
+}

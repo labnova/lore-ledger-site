@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Il clero, per la liturgia.",
+"cosa": "Cartiglio arrotolato con le sei facce e sei numeri a fianco.",
+"created": "2026-09-12",
+"epoca_relativa": 0,
+"estrazione": 3,
+"gancio": "Una copia manca dalla sagrestia e Juma ha appena finito di miniarla.",
+"id": "NEO-GAD-0008",
+"invenzione_id": "NEO-INV-0011",
+"nome": "Tabella del Sagrestano",
+"parent_id": null,
+"personaggio_id": "NEO-PER-0001",
+"prod": false,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Sono le probabilità, scritte come versetti.",
+"universo": "neofeudal"
+}

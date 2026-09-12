@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"zoologia",
+"gioco_azzardo"
+],
+"epoca_relativa": 0,
+"estrazione": 1,
+"gancio": "Un giocatore ne calcola la statistica e viene accusato di stregoneria.",
+"id": "NEO-INV-0011",
+"nome": "Ossa del Cinghiale Sacro",
+"nome_reale": "Dado",
+"parent_id": null,
+"poc": true,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Astragali di una specie ingegnerizzata; le facce hanno peso non uniforme e il clero conosce la distribuzione.",
+"universo": "neofeudal"
+}

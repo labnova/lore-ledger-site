@@ -1,1 +1,805 @@
-{"edges":[{"from":"NEO-INV-0001","kind":"regione","to":"NEO-REG-calvenna"},{"from":"NEO-INV-0002","kind":"regione","to":"NEO-REG-calvenna"},{"from":"NEO-PER-0001","kind":"invenzione","to":"NEO-INV-0001"},{"from":"NEO-PER-0001","kind":"regione","to":"NEO-REG-calvenna"},{"from":"NEO-PER-0001","kind":"parent","to":"NEO-PER-0002"},{"from":"NEO-PER-0002","kind":"invenzione","to":"NEO-INV-0001"},{"from":"NEO-PER-0002","kind":"regione","to":"NEO-REG-calvenna"},{"from":"NEO-GAD-0001","kind":"invenzione","to":"NEO-INV-0002"},{"from":"NEO-GAD-0001","kind":"personaggio","to":"NEO-PER-0001"},{"from":"NEO-GAD-0001","kind":"regione","to":"NEO-REG-calvenna"},{"from":"NEO-CON-0001","kind":"sorgente","to":"NEO-GAD-0001"},{"from":"NEO-CON-0001","kind":"regione","to":"NEO-REG-calvenna"},{"from":"CYB-INV-0001","kind":"parent","to":"CYB-INV-0002"},{"from":"CYB-PER-0001","kind":"invenzione","to":"CYB-INV-0001"},{"from":"STE-PER-0001","kind":"invenzione","to":"STE-INV-0001"}],"nodes":[{"id":"CYB-INV-0001","tipo":"invenzione","titolo":"Liturgia del Ping","universo":"cyberverse"},{"id":"CYB-INV-0002","tipo":"invenzione","titolo":"Liturgia del Ping, versione pirata","universo":"cyberverse"},{"id":"CYB-PER-0001","tipo":"personaggio","titolo":"Ilse Varga","universo":"cyberverse"},{"id":"NEO-CON-0001","tipo":"contenuto","titolo":"Avviso ai fedeli sul sacchetto a quattro tasche","universo":"neofeudal"},{"id":"NEO-GAD-0001","tipo":"gadget","titolo":"Sacchetto di Juma","universo":"neofeudal"},{"id":"NEO-INV-0001","tipo":"invenzione","titolo":"Giudizio dei Galli di Calvenna","universo":"neofeudal"},{"id":"NEO-INV-0002","tipo":"invenzione","titolo":"Rosario delle Quote","universo":"neofeudal"},{"id":"NEO-PER-0001","tipo":"personaggio","titolo":"Juma Mwangaza","universo":"neofeudal"},{"id":"NEO-PER-0002","tipo":"personaggio","titolo":"Amani Kiwele","universo":"neofeudal"},{"id":"NEO-REG-calvenna","tipo":"regione","titolo":"Calvenna","universo":"neofeudal"},{"id":"STE-INV-0001","tipo":"invenzione","titolo":"Bilancia dei Cieli","universo":"steamverse"},{"id":"STE-PER-0001","tipo":"personaggio","titolo":"Aurelio Fabbri","universo":"steamverse"}]}
+{
+"edges": [
+{
+"from": "NEO-INV-0001",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-INV-0002",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-INV-0003",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-INV-0004",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-INV-0005",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-INV-0006",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-INV-0007",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-INV-0008",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-INV-0009",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-INV-0010",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-INV-0011",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-INV-0012",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-INV-0013",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-INV-0014",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-INV-0015",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-INV-0016",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-INV-0017",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-INV-0018",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-INV-0019",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-INV-0020",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-INV-0015",
+"kind": "parent",
+"to": "NEO-INV-0021"
+},
+{
+"from": "NEO-INV-0021",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0001",
+"kind": "invenzione",
+"to": "NEO-INV-0009"
+},
+{
+"from": "NEO-PER-0001",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0002",
+"kind": "invenzione",
+"to": "NEO-INV-0009"
+},
+{
+"from": "NEO-PER-0002",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0003",
+"kind": "invenzione",
+"to": "NEO-INV-0009"
+},
+{
+"from": "NEO-PER-0003",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0004",
+"kind": "invenzione",
+"to": "NEO-INV-0009"
+},
+{
+"from": "NEO-PER-0004",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0005",
+"kind": "invenzione",
+"to": "NEO-INV-0009"
+},
+{
+"from": "NEO-PER-0005",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0006",
+"kind": "invenzione",
+"to": "NEO-INV-0009"
+},
+{
+"from": "NEO-PER-0006",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0007",
+"kind": "invenzione",
+"to": "NEO-INV-0009"
+},
+{
+"from": "NEO-PER-0007",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0008",
+"kind": "invenzione",
+"to": "NEO-INV-0009"
+},
+{
+"from": "NEO-PER-0008",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0009",
+"kind": "invenzione",
+"to": "NEO-INV-0009"
+},
+{
+"from": "NEO-PER-0009",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0010",
+"kind": "invenzione",
+"to": "NEO-INV-0009"
+},
+{
+"from": "NEO-PER-0010",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0011",
+"kind": "invenzione",
+"to": "NEO-INV-0012"
+},
+{
+"from": "NEO-PER-0011",
+"kind": "regione",
+"to": "NEO-REG-vasperdine"
+},
+{
+"from": "NEO-PER-0012",
+"kind": "invenzione",
+"to": "NEO-INV-0012"
+},
+{
+"from": "NEO-PER-0012",
+"kind": "regione",
+"to": "NEO-REG-vasperdine"
+},
+{
+"from": "NEO-PER-0013",
+"kind": "invenzione",
+"to": "NEO-INV-0012"
+},
+{
+"from": "NEO-PER-0013",
+"kind": "regione",
+"to": "NEO-REG-vasperdine"
+},
+{
+"from": "NEO-PER-0014",
+"kind": "invenzione",
+"to": "NEO-INV-0012"
+},
+{
+"from": "NEO-PER-0014",
+"kind": "regione",
+"to": "NEO-REG-vasperdine"
+},
+{
+"from": "NEO-PER-0015",
+"kind": "invenzione",
+"to": "NEO-INV-0012"
+},
+{
+"from": "NEO-PER-0015",
+"kind": "regione",
+"to": "NEO-REG-vasperdine"
+},
+{
+"from": "NEO-PER-0016",
+"kind": "invenzione",
+"to": "NEO-INV-0012"
+},
+{
+"from": "NEO-PER-0016",
+"kind": "regione",
+"to": "NEO-REG-vasperdine"
+},
+{
+"from": "NEO-PER-0017",
+"kind": "invenzione",
+"to": "NEO-INV-0012"
+},
+{
+"from": "NEO-PER-0017",
+"kind": "regione",
+"to": "NEO-REG-vasperdine"
+},
+{
+"from": "NEO-PER-0018",
+"kind": "invenzione",
+"to": "NEO-INV-0012"
+},
+{
+"from": "NEO-PER-0018",
+"kind": "regione",
+"to": "NEO-REG-vasperdine"
+},
+{
+"from": "NEO-PER-0019",
+"kind": "invenzione",
+"to": "NEO-INV-0012"
+},
+{
+"from": "NEO-PER-0019",
+"kind": "regione",
+"to": "NEO-REG-vasperdine"
+},
+{
+"from": "NEO-PER-0020",
+"kind": "invenzione",
+"to": "NEO-INV-0012"
+},
+{
+"from": "NEO-PER-0020",
+"kind": "regione",
+"to": "NEO-REG-vasperdine"
+},
+{
+"from": "NEO-PER-0004",
+"kind": "parent",
+"to": "NEO-PER-0021"
+},
+{
+"from": "NEO-PER-0021",
+"kind": "invenzione",
+"to": "NEO-INV-0009"
+},
+{
+"from": "NEO-PER-0021",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-GAD-0001",
+"kind": "invenzione",
+"to": "NEO-INV-0011"
+},
+{
+"from": "NEO-GAD-0001",
+"kind": "personaggio",
+"to": "NEO-PER-0001"
+},
+{
+"from": "NEO-GAD-0001",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-GAD-0002",
+"kind": "invenzione",
+"to": "NEO-INV-0011"
+},
+{
+"from": "NEO-GAD-0002",
+"kind": "personaggio",
+"to": "NEO-PER-0001"
+},
+{
+"from": "NEO-GAD-0002",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-GAD-0003",
+"kind": "invenzione",
+"to": "NEO-INV-0011"
+},
+{
+"from": "NEO-GAD-0003",
+"kind": "personaggio",
+"to": "NEO-PER-0001"
+},
+{
+"from": "NEO-GAD-0003",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-GAD-0004",
+"kind": "invenzione",
+"to": "NEO-INV-0011"
+},
+{
+"from": "NEO-GAD-0004",
+"kind": "personaggio",
+"to": "NEO-PER-0001"
+},
+{
+"from": "NEO-GAD-0004",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-GAD-0005",
+"kind": "invenzione",
+"to": "NEO-INV-0011"
+},
+{
+"from": "NEO-GAD-0005",
+"kind": "personaggio",
+"to": "NEO-PER-0007"
+},
+{
+"from": "NEO-GAD-0005",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-GAD-0006",
+"kind": "invenzione",
+"to": "NEO-INV-0011"
+},
+{
+"from": "NEO-GAD-0006",
+"kind": "personaggio",
+"to": "NEO-PER-0001"
+},
+{
+"from": "NEO-GAD-0006",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-GAD-0007",
+"kind": "invenzione",
+"to": "NEO-INV-0011"
+},
+{
+"from": "NEO-GAD-0007",
+"kind": "personaggio",
+"to": "NEO-PER-0001"
+},
+{
+"from": "NEO-GAD-0007",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-GAD-0008",
+"kind": "invenzione",
+"to": "NEO-INV-0011"
+},
+{
+"from": "NEO-GAD-0008",
+"kind": "personaggio",
+"to": "NEO-PER-0001"
+},
+{
+"from": "NEO-GAD-0008",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-GAD-0009",
+"kind": "invenzione",
+"to": "NEO-INV-0011"
+},
+{
+"from": "NEO-GAD-0009",
+"kind": "personaggio",
+"to": "NEO-PER-0001"
+},
+{
+"from": "NEO-GAD-0009",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-GAD-0010",
+"kind": "invenzione",
+"to": "NEO-INV-0011"
+},
+{
+"from": "NEO-GAD-0010",
+"kind": "personaggio",
+"to": "NEO-PER-0001"
+},
+{
+"from": "NEO-GAD-0010",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+}
+],
+"nodes": [
+{
+"id": "NEO-GAD-0001",
+"tipo": "gadget",
+"titolo": "Sacchetto di Juma",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0002",
+"tipo": "gadget",
+"titolo": "Astragalo di prova",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0003",
+"tipo": "gadget",
+"titolo": "Tavoletta dei Lanci",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0004",
+"tipo": "gadget",
+"titolo": "Anello Contapelo",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0005",
+"tipo": "gadget",
+"titolo": "Dado del Silenzio",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0006",
+"tipo": "gadget",
+"titolo": "Bisaccia d'osso",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0007",
+"tipo": "gadget",
+"titolo": "Pennello di Setola Sacra",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0008",
+"tipo": "gadget",
+"titolo": "Tabella del Sagrestano",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0009",
+"tipo": "gadget",
+"titolo": "Guanto a Tre Dita",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0010",
+"tipo": "gadget",
+"titolo": "Cinghiale Reliquiario",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0001",
+"tipo": "invenzione",
+"titolo": "Giudizio dei Galli di Calvenna",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0002",
+"tipo": "invenzione",
+"titolo": "Palio delle Bestie Docili",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0003",
+"tipo": "invenzione",
+"titolo": "Il Notaio delle Sorti",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0004",
+"tipo": "invenzione",
+"titolo": "Il Campanile delle Sorti",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0005",
+"tipo": "invenzione",
+"titolo": "Estrazione delle Uova",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0006",
+"tipo": "invenzione",
+"titolo": "I Messaggeri Alati del Vescovo",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0007",
+"tipo": "invenzione",
+"titolo": "Sigillo di Ventre",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0008",
+"tipo": "invenzione",
+"titolo": "L'Urna che Conta da Sola",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0009",
+"tipo": "invenzione",
+"titolo": "Bestiario delle Quote",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0010",
+"tipo": "invenzione",
+"titolo": "Il Peccato dell'Allevatore",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0011",
+"tipo": "invenzione",
+"titolo": "Ossa del Cinghiale Sacro",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0012",
+"tipo": "invenzione",
+"titolo": "La Selva delle Puntate",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0013",
+"tipo": "invenzione",
+"titolo": "Falchi Segnaposto",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0014",
+"tipo": "invenzione",
+"titolo": "L'Ordalia delle Api",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0015",
+"tipo": "invenzione",
+"titolo": "Libro delle Stirpi Benedette",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0016",
+"tipo": "invenzione",
+"titolo": "La Corte delle Bestie Immaginate",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0017",
+"tipo": "invenzione",
+"titolo": "Ruota dei Sette Animali",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0018",
+"tipo": "invenzione",
+"titolo": "Le Balene del Lago Cerulo",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0019",
+"tipo": "invenzione",
+"titolo": "Denti di Lupo",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0020",
+"tipo": "invenzione",
+"titolo": "La Confraternita del Pelo e della Piuma",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0021",
+"tipo": "invenzione",
+"titolo": "Le Stirpi Sciolte",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0001",
+"tipo": "personaggio",
+"titolo": "Juma Mwangaza",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0002",
+"tipo": "personaggio",
+"titolo": "Amani Kiwele",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0003",
+"tipo": "personaggio",
+"titolo": "Baraka Nyoka",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0004",
+"tipo": "personaggio",
+"titolo": "Zawadi Mchana",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0005",
+"tipo": "personaggio",
+"titolo": "Hamisi Wa Tatu",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0006",
+"tipo": "personaggio",
+"titolo": "Subira Kitabu",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0007",
+"tipo": "personaggio",
+"titolo": "Kombo Gurudumu",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0008",
+"tipo": "personaggio",
+"titolo": "Imani Rangi",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0009",
+"tipo": "personaggio",
+"titolo": "Tumaini Shamba",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0010",
+"tipo": "personaggio",
+"titolo": "Nina Szabó",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0011",
+"tipo": "personaggio",
+"titolo": "Dóra Tarai",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0012",
+"tipo": "personaggio",
+"titolo": "Kaan Dokumacı",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0013",
+"tipo": "personaggio",
+"titolo": "Halima Bakatu",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0014",
+"tipo": "personaggio",
+"titolo": "Hikaru Kajiya",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0015",
+"tipo": "personaggio",
+"titolo": "Britt Lindstad",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0016",
+"tipo": "personaggio",
+"titolo": "Yusuf Haddad",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0017",
+"tipo": "personaggio",
+"titolo": "Eneko Larranakogaray",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0018",
+"tipo": "personaggio",
+"titolo": "Tomasz Švec",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0019",
+"tipo": "personaggio",
+"titolo": "Ildikó Ryoshi",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0020",
+"tipo": "personaggio",
+"titolo": "Sabine Müller",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0021",
+"tipo": "personaggio",
+"titolo": "Faraji Chuma",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-REG-calvenna",
+"tipo": "regione",
+"titolo": "Calvenna",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-REG-vasperdine",
+"tipo": "regione",
+"titolo": "Vasperdine",
+"universo": "neofeudal"
+}
+]
+}

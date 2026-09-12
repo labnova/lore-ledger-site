@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "bisessuale",
+"situazione": "vedovo"
+},
+"casta": "clero",
+"ceppo": "swahili",
+"cognome": "Bakatu",
+"contraddizione": "Non le importa se il cielo sia davvero amministrato o no, ma vende ogni giorno le grazie che lo garantiscono ai cacciatori.",
+"created": "2026-09-12",
+"difetto": "goloso",
+"epoca_relativa": 0,
+"estrazione": 4,
+"eta_fascia": "giovane",
+"gancio": "Vende alla porta della Selva le grazie contro il maltempo di caccia; da vedova, tiene per sé l'unica che non ha mai venduto, sperando che serva a qualcosa il giorno del rilancio.",
+"id": "NEO-PER-0013",
+"invenzione_id": "NEO-INV-0012",
+"nome": "Halima",
+"parent_id": null,
+"rapporto": "vende",
+"regione": "Vasperdine",
+"relazione": null,
+"schema_version": 1,
+"segno": "scorpione",
+"spirituale": {
+"credenza": "il_cielo_amministrato",
+"rapporto": "indifferente"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "riservato",
+"universo": "neofeudal"
+}

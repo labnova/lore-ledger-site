@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "omosessuale",
+"situazione": "celibe_per_voto"
+},
+"casta": "artigiani_tecno_magi",
+"ceppo": "swahili",
+"cognome": "Kitabu",
+"contraddizione": "La rilegatrice che sa tutto delle quote gioca.",
+"created": "2026-09-12",
+"difetto": "giocatrice",
+"epoca_relativa": 0,
+"estrazione": 2,
+"eta_fascia": "adulto",
+"gancio": "Madre Subira, ex allieva di Madre Iselda; rilega il Bestiario e cuce nel dorso un secondo indice che registra ogni animale nato dopo la stampa. L'indice dice che l'animale a matita è nato tre giorni fa.",
+"id": "NEO-PER-0006",
+"invenzione_id": "NEO-INV-0009",
+"nome": "Subira",
+"parent_id": null,
+"rapporto": "costruita",
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"segno": "balbuzie",
+"spirituale": {
+"credenza": "il clima ha un padrone",
+"rapporto": "devota"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "meticolosa",
+"universo": "neofeudal"
+}

@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"zoologia",
+"gioco_azzardo"
+],
+"epoca_relativa": 0,
+"estrazione": 1,
+"gancio": "La Confraternita sa dove finiscono i vincitori della Ruota, e tace.",
+"id": "NEO-INV-0020",
+"nome": "La Confraternita del Pelo e della Piuma",
+"nome_reale": "Sindacato del gioco",
+"parent_id": null,
+"poc": false,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Gilda di allibratori che controlla anche il vaccaro e il falconiere; l'unica struttura che attraversa tutte le caste.",
+"universo": "neofeudal"
+}

@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"zoologia",
+"gioco_azzardo"
+],
+"epoca_relativa": 0,
+"estrazione": 1,
+"gancio": "Un animale ha la quota scritta a matita, di mano recente.",
+"id": "NEO-INV-0009",
+"nome": "Bestiario delle Quote",
+"nome_reale": "Bestiario medievale",
+"parent_id": null,
+"poc": true,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Catalogo di animali con probabilità di vittoria stampate come versetti.",
+"universo": "neofeudal"
+}

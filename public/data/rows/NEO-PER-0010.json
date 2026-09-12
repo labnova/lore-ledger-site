@@ -1,0 +1,30 @@
+{
+"affettivo": null,
+"casta": "artigiani_tecno_magi",
+"ceppo": "magiaro",
+"cognome": "Szabó",
+"contraddizione": "L'unica che legge il libro come tabella statistica e non come preghiera.",
+"created": "2026-09-12",
+"difetto": "avara",
+"epoca_relativa": 0,
+"estrazione": 2,
+"eta_fascia": "bambino",
+"gancio": "Ragazza di bottega, dodici anni, macina pigmenti; ha imparato a leggere di nascosto sui versetti. Chiede a Juma perché l'animale del sogno abbia la quota più bassa di tutte.",
+"id": "NEO-PER-0010",
+"invenzione_id": "NEO-INV-0009",
+"nome": "Nina",
+"parent_id": null,
+"rapporto": "studia",
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"segno": "balbuzie",
+"spirituale": {
+"credenza": "ogni bestia ha un doppio",
+"rapporto": "mistica"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ironica",
+"universo": "neofeudal"
+}

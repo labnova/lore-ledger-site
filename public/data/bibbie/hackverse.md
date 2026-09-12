@@ -1,3 +1,3 @@
-# Hackverse — bibbia (fixture)
+# hackverse
 
-Bibbia non ancora scritta: il substrato di questo universo arriva dal repo privato.
+<!-- substrato iniziale: vuoto, scritto a mano -->

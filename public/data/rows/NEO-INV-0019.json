@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"zoologia",
+"gioco_azzardo"
+],
+"epoca_relativa": 0,
+"estrazione": 1,
+"gancio": "Un dente proviene da una specie che dovrebbe esistere solo oltre il passo.",
+"id": "NEO-INV-0019",
+"nome": "Denti di Lupo",
+"nome_reale": "Chip da casinò",
+"parent_id": null,
+"poc": true,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Valuta di gioco fatta di denti veri, ognuno con un microtaglio che certifica la bestia d'origine.",
+"universo": "neofeudal"
+}

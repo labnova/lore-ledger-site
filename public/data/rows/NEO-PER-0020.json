@@ -1,0 +1,30 @@
+{
+"affettivo": null,
+"casta": "clero",
+"ceppo": "germanico",
+"cognome": "Müller",
+"contraddizione": "Dice di sentire una voce nella rete che avverte prima che il cielo cambi sopra la Selva; i chierici la chiamano dono, ma se lo ripetesse a un laico sarebbe eresia.",
+"created": "2026-09-12",
+"difetto": "ingenuo",
+"epoca_relativa": 0,
+"estrazione": 4,
+"eta_fascia": "bambino",
+"gancio": "Bambina protettiva verso gli altri chierichetti mandati a leggere i segnali della caccia; giura di sentire una voce nella rete un istante prima che qualcuno lassù rilanci, e finora ha sempre avuto ragione.",
+"id": "NEO-PER-0020",
+"invenzione_id": "NEO-INV-0012",
+"nome": "Sabine",
+"parent_id": null,
+"rapporto": "teme",
+"regione": "Vasperdine",
+"relazione": null,
+"schema_version": 1,
+"segno": "toro",
+"spirituale": {
+"credenza": "la_voce_nella_rete",
+"rapporto": "devoto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "protettivo",
+"universo": "neofeudal"
+}

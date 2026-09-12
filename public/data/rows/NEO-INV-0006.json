@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"zoologia",
+"gioco_azzardo"
+],
+"epoca_relativa": 0,
+"estrazione": 1,
+"gancio": "Un piccione porta la scommessa a un castello che non esiste più.",
+"id": "NEO-INV-0006",
+"nome": "I Messaggeri Alati del Vescovo",
+"nome_reale": "Piccioni da corsa",
+"parent_id": null,
+"poc": false,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Piccioni con memoria genetica modificata che tornano al feudo precedente a quello attuale.",
+"universo": "neofeudal"
+}

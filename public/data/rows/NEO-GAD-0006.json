@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "I contadini, come amuleto contro la sfortuna.",
+"cosa": "Collana di astragali perdenti infilati.",
+"created": "2026-09-12",
+"epoca_relativa": 0,
+"estrazione": 3,
+"gancio": "Nessuno gioca con gli amuleti, quindi nessuno gioca onesto.",
+"id": "NEO-GAD-0006",
+"invenzione_id": "NEO-INV-0011",
+"nome": "Bisaccia d'osso",
+"parent_id": null,
+"personaggio_id": "NEO-PER-0001",
+"prod": false,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Le ossa perdenti sono quelle con distribuzione più uniforme; gli amuleti sono i dadi onesti.",
+"universo": "neofeudal"
+}

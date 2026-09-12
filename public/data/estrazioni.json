@@ -1,1 +1,260 @@
-[{"campi_forzati":[],"chiavi":{"discipline":[{"macro":"zoologia","sotto":"etologia"},{"macro":"gioco_azzardo","sotto":"dadi"}],"universo":"neofeudal"},"created":"2026-09-10","esito":"ok","estrazione":1,"forzata":false,"lotto":"lotto-lore","poc":[2],"righe_prodotte":["NEO-INV-0001","NEO-INV-0002"]},{"campi_forzati":[],"chiavi":{"casta":"artigiani_tecno_magi","ceppo_dominante":"swahili","invenzione_id":"NEO-INV-0001","onomastica":"legata","regione":"NEO-REG-calvenna","universo":"neofeudal"},"created":"2026-09-11","esito":"ok","estrazione":2,"forzata":false,"lotto":"lotto-personaggi","personaggi":[{"ceppo":"swahili","cognome":"Mwangaza","n":1,"nome":"Juma"}],"righe_prodotte":["NEO-PER-0001"]},{"campi_forzati":[],"chiavi":{"invenzione_id":"NEO-INV-0002","n_prod":1,"personaggio_id":"NEO-PER-0001","universo":"neofeudal"},"created":"2026-09-11","esito":"ok","estrazione":3,"forzata":false,"lotto":"lotto-gadget","prod":[1],"righe_prodotte":["NEO-GAD-0001"]},{"campi_forzati":[],"canone_pescato":["NEO-PER-0001","NEO-INV-0002","NEO-GAD-0001"],"chiavi":{"casta":"artigiani_tecno_magi","invenzione_id":"NEO-INV-0001","regione":"NEO-REG-calvenna","universo":"neofeudal"},"created":"2026-09-12","esito":"ok","espansioni":[{"id":"NEO-PER-0002","parent_id":"NEO-PER-0001"}],"estrazione":4,"forzata":false,"lotto":"lotto-personaggi","righe_prodotte":["NEO-PER-0002"]},{"campi_forzati":[],"chiavi":{"canale":"bacheca_parrocchiale","formato":"snippet_300","medium":"testo_breve","sorgente_id":"NEO-GAD-0001","universo":"neofeudal","veridicita":"in_universe"},"created":"2026-09-12","esito":"ok","estrazione":5,"forzata":false,"lotto":"lotto-contenuti","righe_prodotte":["NEO-CON-0001"]},{"campi_forzati":["universo"],"chiavi":{"discipline":[{"macro":"telecomunicazioni","sotto":"protocolli"},{"macro":"liturgia","sotto":"canto"}],"universo":"cyberverse"},"created":"2026-09-11","esito":"ok","estrazione":6,"forzata":true,"lotto":"lotto-lore","poc":[2],"righe_prodotte":["CYB-INV-0001","CYB-INV-0002"]},{"campi_forzati":[],"chiavi":{"casta":"tecnici_di_rete","invenzione_id":"CYB-INV-0001","regione":"Nodo Ferro","universo":"cyberverse"},"created":"2026-09-12","esito":"ok","estrazione":7,"forzata":false,"lotto":"lotto-personaggi","righe_prodotte":["CYB-PER-0001"]},{"campi_forzati":[],"chiavi":{"discipline":[{"macro":"meteorologia","sotto":"pressione"},{"macro":"orologeria","sotto":"carillon"}],"universo":"steamverse"},"created":"2026-09-12","esito":"ok","estrazione":8,"forzata":false,"lotto":"lotto-lore","poc":[],"righe_prodotte":["STE-INV-0001"]},{"campi_forzati":[],"chiavi":{"casta":"orologiai_della_compagnia","invenzione_id":"STE-INV-0001","universo":"steamverse"},"created":"2026-09-12","esito":"ok","estrazione":9,"forzata":false,"lotto":"lotto-personaggi","righe_prodotte":["STE-PER-0001"]}]
+[
+{
+"campi_forzati": [],
+"chiavi": {
+"discipline": [
+{
+"macro": "zoologia",
+"sotto": "etologia"
+},
+{
+"macro": "gioco_azzardo",
+"sotto": "dadi"
+}
+],
+"universo": "neofeudal"
+},
+"created": "2026-09-12",
+"esito": "ok",
+"estrazione": 1,
+"forzata": false,
+"importata": true,
+"lotto": "lotto-lore",
+"note": "testi delle righe in seed/estrazioni-2026-09-12.md (assente al bootstrap, vedi TODO nel README)",
+"poc": [
+3,
+4,
+7,
+9,
+11,
+15,
+17,
+19
+],
+"righe_attese": [
+"NEO-INV-0001",
+"NEO-INV-0020"
+],
+"seed": "seed/estrazioni-2026-09-12.md"
+},
+{
+"campi_forzati": [],
+"chiavi": {
+"casta": "artigiani_tecno_magi",
+"ceppo_dominante": "swahili",
+"invenzione_id": "NEO-INV-0009",
+"onomastica": "legata",
+"regione": "NEO-REG-calvenna",
+"universo": "neofeudal"
+},
+"created": "2026-09-12",
+"esito": "ok",
+"estrazione": 2,
+"forzata": false,
+"importata": true,
+"lotto": "lotto-personaggi",
+"note": "testi delle righe in seed/estrazioni-2026-09-12.md (assente al bootstrap, vedi TODO nel README)",
+"personaggi": [
+{
+"ceppo": "swahili",
+"cognome": "Mwangaza",
+"n": 1,
+"nome": "Juma"
+},
+{
+"ceppo": "swahili",
+"cognome": "Kiwele",
+"n": 2,
+"nome": "Amani"
+},
+{
+"ceppo": "swahili",
+"cognome": "Nyoka",
+"n": 3,
+"nome": "Baraka"
+},
+{
+"ceppo": "swahili",
+"cognome": "Mchana",
+"n": 4,
+"nome": "Zawadi"
+},
+{
+"ceppo": "swahili",
+"cognome": "Wa Tatu",
+"n": 5,
+"nome": "Hamisi"
+},
+{
+"ceppo": "swahili",
+"cognome": "Kitabu",
+"n": 6,
+"nome": "Subira"
+},
+{
+"ceppo": "swahili",
+"cognome": "Gurudumu",
+"n": 7,
+"nome": "Kombo"
+},
+{
+"ceppo": "swahili",
+"cognome": "Rangi",
+"n": 8,
+"nome": "Imani"
+},
+{
+"ceppo": "swahili",
+"cognome": "Shamba",
+"n": 9,
+"nome": "Tumaini"
+},
+{
+"affettivo": null,
+"ceppo": "magiaro",
+"cognome": "Szabó",
+"eta": 12,
+"eta_fascia": "bambino",
+"n": 10,
+"nome": "Nina"
+}
+],
+"righe_attese": [
+"NEO-PER-0001",
+"NEO-PER-0010"
+],
+"seed": "seed/estrazioni-2026-09-12.md"
+},
+{
+"campi_forzati": [],
+"chiavi": {
+"invenzione_id": "NEO-INV-0011",
+"n_prod": 5,
+"personaggio_id": "NEO-PER-0001",
+"universo": "neofeudal"
+},
+"created": "2026-09-12",
+"esito": "ok",
+"estrazione": 3,
+"forzata": false,
+"importata": true,
+"lotto": "lotto-gadget",
+"note": "testi delle righe in seed/estrazioni-2026-09-12.md (assente al bootstrap, vedi TODO nel README)",
+"prod": [
+1,
+2,
+3,
+4,
+7
+],
+"righe_attese": [
+"NEO-GAD-0001",
+"NEO-GAD-0010"
+],
+"seed": "seed/estrazioni-2026-09-12.md"
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"NEO-INV-0015",
+"NEO-GAD-0001",
+"NEO-PER-0004"
+],
+"chiavi": {
+"casta": "clero",
+"invenzione_id": "NEO-INV-0012",
+"regione": "NEO-REG-vasperdine",
+"universo": "neofeudal"
+},
+"created": "2026-09-12",
+"esito": "ok",
+"espansioni": [
+{
+"id": "NEO-INV-0021",
+"parent_id": "NEO-INV-0015"
+},
+{
+"id": "NEO-PER-0021",
+"parent_id": "NEO-PER-0004"
+}
+],
+"estrazione": 4,
+"forzata": false,
+"lotto": "lotto-personaggi",
+"personaggi": [
+{
+"ceppo": "magiaro",
+"cognome": "Tarai",
+"n": 1,
+"nome": "Dóra"
+},
+{
+"ceppo": "turco",
+"cognome": "Dokumacı",
+"n": 2,
+"nome": "Kaan"
+},
+{
+"ceppo": "swahili",
+"cognome": "Bakatu",
+"n": 3,
+"nome": "Halima"
+},
+{
+"ceppo": "giapponese",
+"cognome": "Kajiya",
+"n": 4,
+"nome": "Hikaru"
+},
+{
+"ceppo": "scandinavo",
+"cognome": "Lindstad",
+"n": 5,
+"nome": "Britt"
+},
+{
+"ceppo": "arabo",
+"cognome": "Haddad",
+"n": 6,
+"nome": "Yusuf"
+},
+{
+"ceppo": "basco",
+"cognome": "Larranakogaray",
+"n": 7,
+"nome": "Eneko"
+},
+{
+"ceppo": "slavo",
+"cognome": "Švec",
+"n": 8,
+"nome": "Tomasz"
+},
+{
+"ceppo": "ibrido",
+"cognome": "Ryoshi",
+"n": 9,
+"nome": "Ildikó"
+},
+{
+"ceppo": "germanico",
+"cognome": "Müller",
+"n": 10,
+"nome": "Sabine"
+}
+],
+"righe_prodotte": [
+"NEO-REG-vasperdine",
+"NEO-PER-0011",
+"NEO-PER-0012",
+"NEO-PER-0013",
+"NEO-PER-0014",
+"NEO-PER-0015",
+"NEO-PER-0016",
+"NEO-PER-0017",
+"NEO-PER-0018",
+"NEO-PER-0019",
+"NEO-PER-0020"
+]
+}
+]

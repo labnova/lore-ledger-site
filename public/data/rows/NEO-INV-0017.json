@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"zoologia",
+"gioco_azzardo"
+],
+"epoca_relativa": 0,
+"estrazione": 1,
+"gancio": "Chi fa jackpot viene convocato a corte e non torna.",
+"id": "NEO-INV-0017",
+"nome": "Ruota dei Sette Animali",
+"nome_reale": "Slot machine",
+"parent_id": null,
+"poc": true,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Macchina a manovella con simboli animali; le combinazioni sono un test di allineamento dell'IA del feudo mascherato da gioco.",
+"universo": "neofeudal"
+}

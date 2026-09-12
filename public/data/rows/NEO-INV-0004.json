@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"zoologia",
+"gioco_azzardo"
+],
+"epoca_relativa": 0,
+"estrazione": 1,
+"gancio": "Un rintocco fuori sequenza annuncia un evento che non è ancora accaduto.",
+"id": "NEO-INV-0004",
+"nome": "Il Campanile delle Sorti",
+"nome_reale": "Quote in tempo reale",
+"parent_id": null,
+"poc": true,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "I rintocchi codificano le quote aggiornate dall'IA del feudo; i contadini le leggono senza saperlo.",
+"universo": "neofeudal"
+}

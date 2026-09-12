@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Chi deve barare in un'ordalia.",
+"cosa": "Astragalo cavo che suona diverso.",
+"created": "2026-09-12",
+"epoca_relativa": 0,
+"estrazione": 3,
+"gancio": "L'ha costruito Kombo Gurudumu; Juma lo sa e tace per rancore verso il clero, non per amicizia.",
+"id": "NEO-GAD-0005",
+"invenzione_id": "NEO-INV-0011",
+"nome": "Dado del Silenzio",
+"parent_id": null,
+"personaggio_id": "NEO-PER-0007",
+"prod": false,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Dentro c'è un peso mobile; la faccia si sceglie con un colpo di polso.",
+"universo": "neofeudal"
+}

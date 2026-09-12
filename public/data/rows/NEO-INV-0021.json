@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"zoologia",
+"gioco_azzardo"
+],
+"epoca_relativa": 0,
+"estrazione": 4,
+"gancio": "Una bestia segnata come maledetta ha vinto sette rilanci di fila nella Selva; il chierico che dovrebbe correggere il registro non l'ha ancora fatto.",
+"id": "NEO-INV-0021",
+"nome": "Le Stirpi Sciolte",
+"nome_reale": "Estratto per le bestie da arena",
+"parent_id": "NEO-INV-0015",
+"poc": false,
+"regione": "Calvenna",
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Pagine del Libro delle Stirpi Benedette ricopiate per la Selva delle Puntate; le bestie con stirpe maledetta vengono liberate più spesso, perché perdono nell'arena meno spesso di quanto dichiarato ai signori.",
+"universo": "neofeudal"
+}

@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "omosessuale",
+"situazione": "poliamoroso"
+},
+"casta": "clero",
+"ceppo": "arabo",
+"cognome": "Haddad",
+"contraddizione": "Il più rigoroso censore della dottrina astrale della Diocesi nasconde una tesi eretica sulle stesse stelle che è pagato per difendere.",
+"created": "2026-09-12",
+"difetto": "vanitoso",
+"epoca_relativa": 0,
+"estrazione": 4,
+"eta_fascia": "adulto",
+"gancio": "Studia il meccanismo della Selva delle Puntate per certificarne l'ortodossia; le sue note private, se trovate, proverebbero che il registro delle stelle è stato scritto da un uomo, non dal cielo.",
+"id": "NEO-PER-0016",
+"invenzione_id": "NEO-INV-0012",
+"nome": "Yusuf",
+"parent_id": null,
+"rapporto": "studia",
+"regione": "Vasperdine",
+"relazione": null,
+"schema_version": 1,
+"segno": "bilancia",
+"spirituale": {
+"credenza": "le_stelle_come_registro",
+"rapporto": "eretico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "rigoroso",
+"universo": "neofeudal"
+}

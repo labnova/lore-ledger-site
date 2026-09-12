@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Il clero, per distinguere le ossa autentiche.",
+"cosa": "Anello con un cinghiale inciso e sei tacche interne.",
+"created": "2026-09-12",
+"epoca_relativa": 0,
+"estrazione": 3,
+"gancio": "Juma lo copia in miniatura nelle iniziali del Bestiario, e uno stampatore se ne accorge.",
+"id": "NEO-GAD-0004",
+"invenzione_id": "NEO-INV-0011",
+"nome": "Anello Contapelo",
+"parent_id": null,
+"personaggio_id": "NEO-PER-0001",
+"prod": true,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Le tacche misurano il diametro; è un calibro.",
+"universo": "neofeudal"
+}

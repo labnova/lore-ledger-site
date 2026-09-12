@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"zoologia",
+"gioco_azzardo"
+],
+"epoca_relativa": 0,
+"estrazione": 1,
+"gancio": "Le balene emergono ogni volta che un custode muore.",
+"id": "NEO-INV-0018",
+"nome": "Le Balene del Lago Cerulo",
+"nome_reale": "Caccia alle balene",
+"parent_id": null,
+"poc": false,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Creature enormi in un lago artificiale, alimentate dai custodi di Vermasca; i signori scommettono su quando emergono.",
+"universo": "neofeudal"
+}

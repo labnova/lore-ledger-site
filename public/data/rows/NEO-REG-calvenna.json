@@ -1,1 +1,17 @@
-{"ceppo_dominante":"swahili","created":"2026-09-10","epoca_relativa":0,"estrazione":0,"id":"NEO-REG-calvenna","nome":"Calvenna","note":"borgo chiuso; la bottega mutila e invecchia, i giovani non restano; Madre Iselda tiene registri segreti delle nascite","onomastica":"legata","p_cognome_mestiere":0.3,"parent_id":null,"regione":null,"relazione":null,"status":"canon","tipo":"regione","universo":"neofeudal"}
+{
+"ceppo_dominante": "swahili",
+"created": "2026-09-12",
+"epoca_relativa": 0,
+"estrazione": 0,
+"id": "NEO-REG-calvenna",
+"nome": "Calvenna",
+"note": "borgo chiuso; la bottega mutila e invecchia, i giovani non restano; Madre Iselda tiene registri segreti delle nascite",
+"onomastica": "legata",
+"p_cognome_mestiere": 0.3,
+"parent_id": null,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "regione",
+"universo": "neofeudal"
+}

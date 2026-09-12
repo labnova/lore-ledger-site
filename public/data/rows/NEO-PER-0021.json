@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "fidanzato_segreto"
+},
+"casta": "artigiani_tecno_magi",
+"ceppo": "swahili",
+"cognome": "Chuma",
+"contraddizione": "È tiepido nel credere che le reliquie sognino, eppure il suo mestiere pretende che esegua ogni gesto come se il vetro potesse davvero accorgersene.",
+"created": "2026-09-12",
+"difetto": "ingenuo",
+"epoca_relativa": 0,
+"estrazione": 4,
+"eta_fascia": "giovane",
+"gancio": "Apprendista di Zawadi Mchana; lei gli ha affidato per un giorno la lente non molata che tiene per sé, dicendo solo di non guardarci dentro. Lui l'ha guardata.",
+"id": "NEO-PER-0021",
+"invenzione_id": "NEO-INV-0009",
+"nome": "Faraji",
+"parent_id": "NEO-PER-0004",
+"rapporto": "usa",
+"regione": "Calvenna",
+"relazione": "espansione",
+"schema_version": 1,
+"segno": "vergine",
+"spirituale": {
+"credenza": "le reliquie sognano",
+"rapporto": "praticante_tiepido"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "paziente",
+"universo": "neofeudal"
+}

@@ -1,1 +1,33 @@
-{"affettivo":null,"casta":"artigiani_tecno_magi","ceppo":"swahili","cognome":"Kiwele","contraddizione":"Un apprendista curioso che rifiuta di guardare dentro la bottega.","created":"2026-09-12","difetto":"bugiardo","epoca_relativa":0,"estrazione":4,"eta_fascia":"bambino","gancio":"Apprendista di Juma; gli è stato affidato per un giorno il gallo che non combatte mai, e lo ha lasciato scappare di proposito.","id":"NEO-PER-0002","invenzione_id":"NEO-INV-0001","nome":"Amani","parent_id":"NEO-PER-0001","rapporto":"teme","regione":"Calvenna","relazione":"espansione","schema_version":1,"segno":"voce roca","spirituale":{"credenza":"le campane contano i morti","rapporto":"indifferente"},"status":"canon","tipo":"personaggio","tratto":"curioso","universo":"neofeudal"}
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "celibe_per_voto"
+},
+"casta": "artigiani_tecno_magi",
+"ceppo": "swahili",
+"cognome": "Kiwele",
+"contraddizione": "Un'apostata che compone i versetti sacri ogni giorno.",
+"created": "2026-09-12",
+"difetto": "collerica",
+"epoca_relativa": 0,
+"estrazione": 2,
+"eta_fascia": "adulto",
+"gancio": "Tipografa del clero; compone i versetti con caratteri dell'era precedente che crede santi. Sa che i caratteri si riallineano da soli di notte. Un mattino trova composto un versetto che non ha impaginato.",
+"id": "NEO-PER-0002",
+"invenzione_id": "NEO-INV-0009",
+"nome": "Amani",
+"parent_id": null,
+"rapporto": "costruita",
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"segno": "zoppia",
+"spirituale": {
+"credenza": "il Custode è una donna",
+"rapporto": "apostata"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "generosa",
+"universo": "neofeudal"
+}

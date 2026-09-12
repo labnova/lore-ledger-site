@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "asessuale",
+"situazione": "celibe_per_voto"
+},
+"casta": "artigiani_tecno_magi",
+"ceppo": "swahili",
+"cognome": "Shamba",
+"contraddizione": "L'unico che sa la verità tecnica è un pettegolo.",
+"created": "2026-09-12",
+"difetto": "pettegolo",
+"epoca_relativa": 0,
+"estrazione": 2,
+"eta_fascia": "anziano",
+"gancio": "Fra' Tumaini, tecno-mago di corte addetto alla manutenzione delle reliquie; sa che il Bestiario è un modello predittivo stampato e scrive lui le quote a matita quando il modello sbaglia. La matita è la parte umana di un oracolo che tutti credono divino.",
+"id": "NEO-PER-0009",
+"invenzione_id": "NEO-INV-0009",
+"nome": "Tumaini",
+"parent_id": null,
+"rapporto": "costruita",
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"segno": "dita mancanti",
+"spirituale": {
+"credenza": "ogni bestia ha un doppio",
+"rapporto": "pragmatico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "loquace",
+"universo": "neofeudal"
+}

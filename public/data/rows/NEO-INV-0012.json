@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"zoologia",
+"gioco_azzardo"
+],
+"epoca_relativa": 0,
+"estrazione": 1,
+"gancio": "Il clima cambia a metà caccia perché qualcuno lassù ha rilanciato.",
+"id": "NEO-INV-0012",
+"nome": "La Selva delle Puntate",
+"nome_reale": "Riserva di caccia",
+"parent_id": null,
+"poc": false,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "I signori scommettono su quale bestia ucciderà il cacciatore; la selva è un'arena con fauna gestita dal clima amministrato.",
+"universo": "neofeudal"
+}

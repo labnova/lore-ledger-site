@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Le famiglie di casta artigiana.",
+"cosa": "Statuetta di cinghiale con ventre a sportello che contiene le ossa di famiglia.",
+"created": "2026-09-12",
+"epoca_relativa": 0,
+"estrazione": 3,
+"gancio": "Il reliquiario dei Mwangaza è vuoto da una generazione.",
+"id": "NEO-GAD-0010",
+"invenzione_id": "NEO-INV-0011",
+"nome": "Cinghiale Reliquiario",
+"parent_id": null,
+"personaggio_id": "NEO-PER-0001",
+"prod": false,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Lo sportello si apre solo con l'Anello Contapelo (NEO-GAD-0004); serratura a calibro.",
+"universo": "neofeudal"
+}

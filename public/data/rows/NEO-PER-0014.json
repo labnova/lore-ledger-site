@@ -1,0 +1,30 @@
+{
+"affettivo": null,
+"casta": "clero",
+"ceppo": "giapponese",
+"cognome": "Kajiya",
+"contraddizione": "Invidia i chierici anziani che scommettono di nascosto sulla Selva, mentre lui, che la teme, non può nemmeno avvicinarsi al recinto.",
+"created": "2026-09-12",
+"difetto": "invidioso",
+"epoca_relativa": 0,
+"estrazione": 4,
+"eta_fascia": "adolescente",
+"gancio": "Novizio addetto ai segnali di inizio caccia; teme la Selva delle Puntate più di ogni altra cosa, ma è l'unico a cui è affidato il corno che la apre.",
+"id": "NEO-PER-0014",
+"invenzione_id": "NEO-INV-0012",
+"nome": "Hikaru",
+"parent_id": null,
+"rapporto": "teme",
+"regione": "Vasperdine",
+"relazione": null,
+"schema_version": 1,
+"segno": "acquario",
+"spirituale": {
+"credenza": "il_cielo_amministrato",
+"rapporto": "praticante_tiepido"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "leale",
+"universo": "neofeudal"
+}

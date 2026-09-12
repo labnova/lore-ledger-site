@@ -6,10 +6,10 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 1,
-"gancio": "Un fantino sente il cavallo obbedire a qualcun altro.",
-"id": "NEO-INV-0002",
-"nome": "Palio delle Bestie Docili",
-"nome_reale": "Corsa dei cavalli",
+"gancio": "Due falchi circolano sopra la stessa bestia e uno cade.",
+"id": "NEO-INV-0013",
+"nome": "Falchi Segnaposto",
+"nome_reale": "Falconeria",
 "parent_id": null,
 "poc": false,
 "regione": "Calvenna",
@@ -17,6 +17,6 @@
 "schema_version": 1,
 "status": "canon",
 "tipo": "invenzione",
-"torsione": "I cavalli rispondono a comandi subvocali dei signori tramite impianti creduti benedizioni.",
+"torsione": "Ogni falco è un drone biologico che segna la puntata del padrone circolando sopra la bestia scelta.",
 "universo": "neofeudal"
 }

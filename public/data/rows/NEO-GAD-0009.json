@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Juma.",
+"cosa": "Guanto di cuoio cucito su misura per una mano con dita mancanti.",
+"created": "2026-09-12",
+"epoca_relativa": 0,
+"estrazione": 3,
+"gancio": "Ha perso le dita giocando, o ha scelto di perderle per giocare meglio?",
+"id": "NEO-GAD-0009",
+"invenzione_id": "NEO-INV-0011",
+"nome": "Guanto a Tre Dita",
+"parent_id": null,
+"personaggio_id": "NEO-PER-0001",
+"prod": false,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Il taglio è fatto per lanciare gli astragali con presa fissa; la mutilazione è diventata tecnica.",
+"universo": "neofeudal"
+}

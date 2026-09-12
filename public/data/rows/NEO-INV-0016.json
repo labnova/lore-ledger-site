@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"zoologia",
+"gioco_azzardo"
+],
+"epoca_relativa": 0,
+"estrazione": 1,
+"gancio": "Un contadino compone una scuderia che coincide con gli esemplari veri delle cripte.",
+"id": "NEO-INV-0016",
+"nome": "La Corte delle Bestie Immaginate",
+"nome_reale": "Fantasy sport",
+"parent_id": null,
+"poc": false,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "I contadini compongono scuderie di animali estinti su tavole di cera; il clero premia il miglior sogno.",
+"universo": "neofeudal"
+}

@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Gli apprendisti, per imparare a sentire il lancio.",
+"cosa": "Osso singolo con una faccia limata per correggere il peso.",
+"created": "2026-09-12",
+"epoca_relativa": 0,
+"estrazione": 3,
+"gancio": "Li tiene nel banco dei pigmenti.",
+"id": "NEO-GAD-0002",
+"invenzione_id": "NEO-INV-0011",
+"nome": "Astragalo di prova",
+"parent_id": null,
+"personaggio_id": "NEO-PER-0001",
+"prod": true,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Limare la faccia sacra è sacrilegio, e Juma ne ha tre.",
+"universo": "neofeudal"
+}

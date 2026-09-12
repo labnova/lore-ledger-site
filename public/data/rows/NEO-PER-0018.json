@@ -1,0 +1,30 @@
+{
+"affettivo": null,
+"casta": "clero",
+"ceppo": "slavo",
+"cognome": "Švec",
+"contraddizione": "Ambisce a leggere lui stesso il registro delle stelle da grande, ma è così superstizioso che i chierici anziani lo tengono lontano dalle puntate vere.",
+"created": "2026-09-12",
+"difetto": "superstizioso",
+"epoca_relativa": 0,
+"estrazione": 4,
+"eta_fascia": "bambino",
+"gancio": "Chierichetto che teme la Selva delle Puntate più di ogni castigo; porta tre sassi cuciti nella tonaca contro la sfortuna, e sogna il giorno in cui gli affideranno il corno del rilancio.",
+"id": "NEO-PER-0018",
+"invenzione_id": "NEO-INV-0012",
+"nome": "Tomasz",
+"parent_id": null,
+"rapporto": "teme",
+"regione": "Vasperdine",
+"relazione": null,
+"schema_version": 1,
+"segno": "ariete",
+"spirituale": {
+"credenza": "le_stelle_come_registro",
+"rapporto": "indifferente"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ambizioso",
+"universo": "neofeudal"
+}

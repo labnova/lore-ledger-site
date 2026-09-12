@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "bisessuale",
+"situazione": "celibe_per_voto"
+},
+"casta": "artigiani_tecno_magi",
+"ceppo": "swahili",
+"cognome": "Rangi",
+"contraddizione": "Falsifica perché crede nei doppi; il falso per lei è il vero.",
+"created": "2026-09-12",
+"difetto": "invidiosa",
+"epoca_relativa": 0,
+"estrazione": 2,
+"eta_fascia": "maturo",
+"gancio": "Vende copie del Bestiario con quote inventate ai contadini; le quote inventate cominciano ad avverarsi. La Confraternita del Pelo e della Piuma (NEO-INV-0020) la arruola, o la elimina.",
+"id": "NEO-PER-0008",
+"invenzione_id": "NEO-INV-0009",
+"nome": "Imani",
+"parent_id": null,
+"rapporto": "falsifica",
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"segno": "mani macchiate di pigmento",
+"spirituale": {
+"credenza": "ogni bestia ha un doppio",
+"rapporto": "mistica"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "sospettosa",
+"universo": "neofeudal"
+}

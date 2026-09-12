@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "asessuale",
+"situazione": "amante_segreto"
+},
+"casta": "artigiani_tecno_magi",
+"ceppo": "swahili",
+"cognome": "Wa Tatu",
+"contraddizione": "Un apprendista di settant'anni; a Calvenna apprendista è un grado, non un'età, o una punizione.",
+"created": "2026-09-12",
+"difetto": "distratto",
+"epoca_relativa": 0,
+"estrazione": 2,
+"eta_fascia": "anziano",
+"gancio": "Incaricato di cancellare la quota a matita, non ci riesce; la grafite è conduttiva e il tratto risponde, allungandosi di un millimetro a ogni tentativo.",
+"id": "NEO-PER-0005",
+"invenzione_id": "NEO-INV-0009",
+"nome": "Hamisi",
+"parent_id": null,
+"rapporto": "teme",
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"segno": "dita mancanti",
+"spirituale": {
+"credenza": "la matita è viva",
+"rapporto": "pragmatico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "loquace",
+"universo": "neofeudal"
+}

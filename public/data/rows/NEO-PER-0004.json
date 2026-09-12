@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "omosessuale",
+"situazione": "coppia_mista_di_casta"
+},
+"casta": "artigiani_tecno_magi",
+"ceppo": "swahili",
+"cognome": "Mchana",
+"contraddizione": "Costruisce le lenti della verifica e le mola perché non mostrino la verità.",
+"created": "2026-09-12",
+"difetto": "avara",
+"epoca_relativa": 0,
+"estrazione": 2,
+"eta_fascia": "anziano",
+"gancio": "Soffiatrice di lenti con cui il clero verifica i versetti; le lenti mostrano sotto l'inchiostro un secondo testo. Ne conserva una non molata, per sé.",
+"id": "NEO-PER-0004",
+"invenzione_id": "NEO-INV-0009",
+"nome": "Zawadi",
+"parent_id": null,
+"rapporto": "studia",
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"segno": "altissima",
+"spirituale": {
+"credenza": "le reliquie sognano",
+"rapporto": "mistica"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ostinata",
+"universo": "neofeudal"
+}

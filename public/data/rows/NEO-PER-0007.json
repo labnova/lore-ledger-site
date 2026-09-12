@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "bisessuale",
+"situazione": "sposato"
+},
+"casta": "artigiani_tecno_magi",
+"ceppo": "swahili",
+"cognome": "Gurudumu",
+"contraddizione": "Costruisce la macchina che legge il libro e crede che il libro legga lui.",
+"created": "2026-09-12",
+"difetto": "rancoroso",
+"epoca_relativa": 0,
+"estrazione": 2,
+"eta_fascia": "anziano",
+"gancio": "Costruttore di manovelle per la Ruota dei Sette Animali (NEO-INV-0017); i simboli sono copiati dal Bestiario. Si accorge che la Ruota esce più spesso sugli animali con quote alte nel libro: la macchina sta leggendo il libro, non il contrario.",
+"id": "NEO-PER-0007",
+"invenzione_id": "NEO-INV-0009",
+"nome": "Kombo",
+"parent_id": null,
+"rapporto": "falsifica",
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"segno": "gobba da banco",
+"spirituale": {
+"credenza": "i versetti cambiano se letti al contrario",
+"rapporto": "eretico_silente"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "curioso",
+"universo": "neofeudal"
+}

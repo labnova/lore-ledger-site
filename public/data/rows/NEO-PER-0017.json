@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "sposato"
+},
+"casta": "clero",
+"ceppo": "basco",
+"cognome": "Larranakogaray",
+"contraddizione": "Crede che la Selva sia essa stessa un giudizio del Crollo travestito da scommessa, un'eresia che la Diocesi vieta perché fermerebbe le puntate.",
+"created": "2026-09-12",
+"difetto": "rancoroso",
+"epoca_relativa": 0,
+"estrazione": 4,
+"eta_fascia": "anziano",
+"gancio": "L'ha costruita lui, vent'anni fa, come atto di devozione al lavoro; ora la teme più di chiunque scommetta, e nessuno gli chiede mai il suo parere sul rilancio di oggi.",
+"id": "NEO-PER-0017",
+"invenzione_id": "NEO-INV-0012",
+"nome": "Eneko",
+"parent_id": null,
+"rapporto": "costruita",
+"regione": "Vasperdine",
+"relazione": null,
+"schema_version": 1,
+"segno": "pesci",
+"spirituale": {
+"credenza": "il_crollo_come_giudizio",
+"rapporto": "eretico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "devoto_al_lavoro",
+"universo": "neofeudal"
+}

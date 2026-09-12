@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"zoologia",
+"gioco_azzardo"
+],
+"epoca_relativa": 0,
+"estrazione": 1,
+"gancio": "Qualcuno scopre che l'urna trattiene sempre una quota per il Custode.",
+"id": "NEO-INV-0008",
+"nome": "L'Urna che Conta da Sola",
+"nome_reale": "Totalizzatore",
+"parent_id": null,
+"poc": false,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Macchina dell'era precedente che ripartisce le vincite; considerata reliquia, solo il clero può toccarla.",
+"universo": "neofeudal"
+}

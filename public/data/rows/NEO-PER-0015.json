@@ -1,0 +1,30 @@
+{
+"affettivo": null,
+"casta": "clero",
+"ceppo": "scandinavo",
+"cognome": "Lindstad",
+"contraddizione": "Il suo compito è leggere il vento prima di ogni rilancio della Selva, ma la sua lettura cambia con l'umore, e le quote con lei.",
+"created": "2026-09-12",
+"difetto": "incostante",
+"epoca_relativa": 0,
+"estrazione": 4,
+"eta_fascia": "adolescente",
+"gancio": "Diplomatica tra i cacciatori che si contendono il turno di puntata, invoca il culto degli antenati per calmare le liti; nessuno sa che lo fa a orecchio, cambiando versione ogni volta.",
+"id": "NEO-PER-0015",
+"invenzione_id": "NEO-INV-0012",
+"nome": "Britt",
+"parent_id": null,
+"rapporto": "usa",
+"regione": "Vasperdine",
+"relazione": null,
+"schema_version": 1,
+"segno": "sagittario",
+"spirituale": {
+"credenza": "culto_degli_antenati",
+"rapporto": "praticante_tiepido"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "diplomatico",
+"universo": "neofeudal"
+}

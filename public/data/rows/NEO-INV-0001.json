@@ -1,1 +1,22 @@
-{"created":"2026-09-10","discipline":["zoologia","gioco_azzardo"],"epoca_relativa":0,"estrazione":1,"gancio":"Madre Iselda nota che i galli vincenti nascono tutti nello stesso mese.","id":"NEO-INV-0001","nome":"Giudizio dei Galli di Calvenna","nome_reale":"Combattimento di galli","parent_id":null,"poc":false,"regione":"Calvenna","relazione":null,"schema_version":1,"status":"canon","tipo":"invenzione","torsione":"I galli sono biocostrutti dell'era precedente con esito pre-calcolato; il clero vende le quote sapendo il vincitore.","universo":"neofeudal"}
+{
+"created": "2026-09-12",
+"discipline": [
+"zoologia",
+"gioco_azzardo"
+],
+"epoca_relativa": 0,
+"estrazione": 1,
+"gancio": "Madre Iselda nota che i galli vincenti nascono tutti nello stesso mese.",
+"id": "NEO-INV-0001",
+"nome": "Giudizio dei Galli di Calvenna",
+"nome_reale": "Combattimento di galli",
+"parent_id": null,
+"poc": false,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "I galli sono biocostrutti dell'era precedente con esito pre-calcolato; il clero vende le quote sapendo il vincitore.",
+"universo": "neofeudal"
+}

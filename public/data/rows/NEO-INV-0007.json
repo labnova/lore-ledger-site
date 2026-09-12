@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"zoologia",
+"gioco_azzardo"
+],
+"epoca_relativa": 0,
+"estrazione": 1,
+"gancio": "Il bestiame di Calvenna risponde a un nome che nessuno pronuncia da secoli.",
+"id": "NEO-INV-0007",
+"nome": "Sigillo di Ventre",
+"nome_reale": "Marchiatura del bestiame",
+"parent_id": null,
+"poc": true,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Tag RFID sacralizzato; la bestia risponde al nome a chi ha l'anello giusto.",
+"universo": "neofeudal"
+}

@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Juma, per le miniature dei versetti.",
+"cosa": "Pennello con setole del Cinghiale Sacro.",
+"created": "2026-09-12",
+"epoca_relativa": 0,
+"estrazione": 3,
+"gancio": "Ha lo stesso pennello da cinquant'anni, l'unica cosa del Crollo che ammette di possedere.",
+"id": "NEO-GAD-0007",
+"invenzione_id": "NEO-INV-0011",
+"nome": "Pennello di Setola Sacra",
+"parent_id": null,
+"personaggio_id": "NEO-PER-0001",
+"prod": true,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Le setole sono fibre di polimero e non si consumano mai.",
+"universo": "neofeudal"
+}

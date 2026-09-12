@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "pansessuale",
+"situazione": "promesso_per_contratto"
+},
+"casta": "clero",
+"ceppo": "magiaro",
+"cognome": "Tarai",
+"contraddizione": "Non crede più nel ciclo del ritorno, eppure è lei a benedire ogni bestia che la Diocesi rimette in gioco nella Selva.",
+"created": "2026-09-12",
+"difetto": "rancoroso",
+"epoca_relativa": 0,
+"estrazione": 4,
+"eta_fascia": "anziano",
+"gancio": "Officia la Selva delle Puntate da trent'anni; il contratto che la promette in sposa scade lo stesso giorno del prossimo rilancio, e lei conta i giorni guardando le quote, non il calendario.",
+"id": "NEO-PER-0011",
+"invenzione_id": "NEO-INV-0012",
+"nome": "Dóra",
+"parent_id": null,
+"rapporto": "usa",
+"regione": "Vasperdine",
+"relazione": null,
+"schema_version": 1,
+"segno": "leone",
+"spirituale": {
+"credenza": "ciclo_del_ritorno",
+"rapporto": "apostata"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ostinato",
+"universo": "neofeudal"
+}

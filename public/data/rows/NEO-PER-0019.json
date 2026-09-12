@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "asessuale",
+"situazione": "single"
+},
+"casta": "clero",
+"ceppo": "ibrido",
+"cognome": "Ryoshi",
+"contraddizione": "Crede che le macchine del clima sognino, ed è convinta che i suoi sogni raccontati alla Selva abbiano già deciso quale bestia vincerà oggi.",
+"created": "2026-09-12",
+"difetto": "paranoico",
+"epoca_relativa": 0,
+"estrazione": 4,
+"eta_fascia": "adulto",
+"gancio": "Ha costruito il meccanismo che apre i recinti al mutare del cielo; ospitale con chiunque bussi, tranne che con chi le chiede come fa a sapere sempre l'ora esatta del rilancio.",
+"id": "NEO-PER-0019",
+"invenzione_id": "NEO-INV-0012",
+"nome": "Ildikó",
+"parent_id": null,
+"rapporto": "costruita",
+"regione": "Vasperdine",
+"relazione": null,
+"schema_version": 1,
+"segno": "capricorno",
+"spirituale": {
+"credenza": "le_macchine_sognano",
+"rapporto": "eretico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ospitale",
+"universo": "neofeudal"
+}
