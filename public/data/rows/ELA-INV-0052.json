@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"finanza/valuta",
+"tipografia/calligrafia"
+],
+"epoca_relativa": 0,
+"estrazione": 11,
+"gancio": "Su un registro antico, solo i numeri vergati da una mano non autorizzata stanno svanendo, riga dopo riga, sotto gli occhi dei contabili.",
+"id": "ELA-INV-0052",
+"nome": "L'Inchiostro che Morde",
+"nome_reale": "Inchiostro a base di noce di galla",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "L'inchiostro ferrogallico corrode lentamente la carta su cui è scritto, e gli scribi del Banco lo riservano ai sigilli non autorizzati, lasciando che il tempo stesso cancelli ciò che nessun archivista ha il diritto di firmare.",
+"universo": "elabverse"
+}

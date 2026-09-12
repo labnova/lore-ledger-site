@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"finanza/valuta",
+"tipografia/calligrafia"
+],
+"epoca_relativa": 0,
+"estrazione": 11,
+"gancio": "Una banconota mai emessa viene ritrovata con una filigrana che, in controluce, mostra una stella assente da ogni catalogo di rotta.",
+"id": "ELA-INV-0051",
+"nome": "L'Acqua che Firma",
+"nome_reale": "Filigrana",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La filigrana nasconde nella pasta di carta un disegno visibile solo in controluce, e i cartai di bordo la incidono orientata sempre verso lo stesso settore di cielo, sostenendo che sia l'unica luce autorizzata a certificare il valore della cambusa.",
+"universo": "elabverse"
+}

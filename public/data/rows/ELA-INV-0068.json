@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"finanza/valuta",
+"tipografia/calligrafia"
+],
+"epoca_relativa": 0,
+"estrazione": 11,
+"gancio": "Una genealogista trova lo stesso volto nei registri funebri di tre colonie diverse, ogni volta sotto un nome differente.",
+"id": "ELA-INV-0068",
+"nome": "La Donna che Nessuno ha Mai Visto",
+"nome_reale": "Vignetta calcografica allegorica",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Una figura allegorica incisa una sola volta viene ristampata identica su ogni banconota per generazioni, finché l'equipaggio smette di considerarla un'invenzione e comincia a crederla un'antenata realmente vissuta.",
+"universo": "elabverse"
+}

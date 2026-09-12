@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"finanza/valuta",
+"tipografia/calligrafia"
+],
+"epoca_relativa": 0,
+"estrazione": 11,
+"gancio": "Sotto l'unica lente rimasta a bordo, qualcuno legge in una vecchia banconota un avvertimento microstampato decenni prima del disastro che descrive.",
+"id": "ELA-INV-0061",
+"nome": "La Scrittura che l'Occhio Nudo Non Vede",
+"nome_reale": "Microstampa di sicurezza",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Un testo minuscolo, leggibile solo sotto lente, viene inciso dagli zecchieri di bordo lungo il margine di ogni banconota, e col tempo la pratica scivola dall'uso legale a quello devozionale, diventando il luogo dove nascondere preghiere e avvertimenti.",
+"universo": "elabverse"
+}

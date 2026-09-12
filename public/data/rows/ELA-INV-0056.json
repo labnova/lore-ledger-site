@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"finanza/valuta",
+"tipografia/calligrafia"
+],
+"epoca_relativa": 0,
+"estrazione": 11,
+"gancio": "Un gruppo di bambini scambia scrip al buio secondo un codice tattile che nessun adulto è mai riuscito a decifrare.",
+"id": "ELA-INV-0056",
+"nome": "La Moneta che si Legge al Buio",
+"nome_reale": "Stampa in rilievo per non vedenti",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il rilievo tattile pensato per chi non vede diventa, nei corridoi a luce razionata della Flotta, l'unico modo sicuro per riconoscere il valore di uno scrip al tatto, e i bambini imparano a contarlo prima ancora di saperlo leggere.",
+"universo": "elabverse"
+}

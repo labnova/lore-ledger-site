@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"arte_visiva/affresco",
+"cartografia/proiezioni"
+],
+"epoca_relativa": 2,
+"estrazione": 11,
+"gancio": "Un cadetto giura di essere passato attraverso una di quelle porte durante un blackout, tornando con un frammento di carta di un settore che nessuna proiezione dovrebbe poter disegnare.",
+"id": "ELA-INV-0071",
+"nome": "La Porta Dipinta che si Apre",
+"nome_reale": "Trompe-l'oeil",
+"parent_id": "ELA-INV-0036",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Se I Mostri ai Margini del Cielo abitano i bordi distorti delle carte proiettate, alcuni frescanti dipingono ora, proprio nel punto di massima distorsione della sala mappe, porte in trompe-l'oeil che dall'angolo esatto sembrano aprirsi sul settore abitato dai mostri.",
+"universo": "elabverse"
+}

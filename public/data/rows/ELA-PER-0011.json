@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "single"
+},
+"casta": "navigatori",
+"ceppo": "turco",
+"cognome": "Baysal",
+"contraddizione": "Non crede che le coordinate stellari abbiano alcun potere, eppure falsifica le letture spettrali di Pınar con una cura quasi religiosa, come se il gesto stesso avesse un peso che nega a parole.",
+"created": "2026-09-12",
+"difetto": "invidioso",
+"epoca_relativa": 0,
+"estrazione": 11,
+"eta_fascia": "adulto",
+"gancio": "Da anni sfrutta la smemoratezza di Pınar per rivendere le sue stesse coordinate sotto forma di ricevute contraffatte; ora il cliente del registro dimenticato ha trovato quella vera, e minaccia di far saltare la copertura di entrambi.",
+"id": "ELA-PER-0011",
+"invenzione_id": "ELA-INV-0005",
+"nome": "Kerem",
+"parent_id": "ELA-PER-0004",
+"rapporto": "falsifica",
+"regione": "Konya",
+"relazione": "espansione",
+"schema_version": 1,
+"segno": "scorpione",
+"spirituale": {
+"credenza": "le coordinate stellari sono solo carta",
+"rapporto": "scettico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "meticoloso",
+"universo": "elabverse"
+}

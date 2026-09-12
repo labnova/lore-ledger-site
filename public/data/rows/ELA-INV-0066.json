@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"finanza/valuta",
+"tipografia/calligrafia"
+],
+"epoca_relativa": 0,
+"estrazione": 11,
+"gancio": "Una moneta ritrovata ha un dente in più, impossibile da notare se non con il gioco al buio che i bambini si tramandano da soli.",
+"id": "ELA-INV-0066",
+"nome": "Il Bordo che Conta i Denti",
+"nome_reale": "Bordo zigrinato delle monete",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La zigrinatura precisa sul bordo delle monete impedisce di limare metallo prezioso senza lasciare traccia, e la casta dei conieri tratta il numero esatto di denti come una preghiera matematica che i bambini imparano a contare a occhi chiusi.",
+"universo": "elabverse"
+}

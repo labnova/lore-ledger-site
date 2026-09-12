@@ -46,6 +46,16 @@
 "to": "ELA-INV-0049"
 },
 {
+"from": "ELA-INV-0004",
+"kind": "parent",
+"to": "ELA-INV-0070"
+},
+{
+"from": "ELA-INV-0036",
+"kind": "parent",
+"to": "ELA-INV-0071"
+},
+{
 "from": "NEO-INV-0001",
 "kind": "regione",
 "to": "NEO-REG-calvenna"
@@ -252,6 +262,21 @@
 },
 {
 "from": "ELA-PER-0010",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-PER-0004",
+"kind": "parent",
+"to": "ELA-PER-0011"
+},
+{
+"from": "ELA-PER-0011",
+"kind": "invenzione",
+"to": "ELA-INV-0005"
+},
+{
+"from": "ELA-PER-0011",
 "kind": "regione",
 "to": "ELA-REG-konya"
 },
@@ -1138,6 +1163,138 @@
 "universo": "elabverse"
 },
 {
+"id": "ELA-INV-0050",
+"tipo": "invenzione",
+"titolo": "I Punzoni Gemelli",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0051",
+"tipo": "invenzione",
+"titolo": "L'Acqua che Firma",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0052",
+"tipo": "invenzione",
+"titolo": "L'Inchiostro che Morde",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0053",
+"tipo": "invenzione",
+"titolo": "La Scrittura per Macchine Cieche",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0054",
+"tipo": "invenzione",
+"titolo": "Il Ricciolo che Autentica",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0055",
+"tipo": "invenzione",
+"titolo": "La Rosa che Non si Ripete",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0056",
+"tipo": "invenzione",
+"titolo": "La Moneta che si Legge al Buio",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0057",
+"tipo": "invenzione",
+"titolo": "Il Bastone Diviso",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0058",
+"tipo": "invenzione",
+"titolo": "Il Sigillo Annodato",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0059",
+"tipo": "invenzione",
+"titolo": "Il Marchio della Purezza",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0060",
+"tipo": "invenzione",
+"titolo": "Lo Spazio che Non si Può Aggiungere",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0061",
+"tipo": "invenzione",
+"titolo": "La Scrittura che l'Occhio Nudo Non Vede",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0062",
+"tipo": "invenzione",
+"titolo": "La Lettera Dorata",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0063",
+"tipo": "invenzione",
+"titolo": "Il Timbro che Parla",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0064",
+"tipo": "invenzione",
+"titolo": "Il Divieto del Corsivo",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0065",
+"tipo": "invenzione",
+"titolo": "L'Ordine del Tratto",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0066",
+"tipo": "invenzione",
+"titolo": "Il Bordo che Conta i Denti",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0067",
+"tipo": "invenzione",
+"titolo": "Il Banco delle Molte Mani",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0068",
+"tipo": "invenzione",
+"titolo": "La Donna che Nessuno ha Mai Visto",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0069",
+"tipo": "invenzione",
+"titolo": "I Numeri che il Banco Non Voleva",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0070",
+"tipo": "invenzione",
+"titolo": "Il Volto della Voce",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0071",
+"tipo": "invenzione",
+"titolo": "La Porta Dipinta che si Apre",
+"universo": "elabverse"
+},
+{
 "id": "ELA-PER-0001",
 "tipo": "personaggio",
 "titolo": "Orsolya Pék",
@@ -1195,6 +1352,12 @@
 "id": "ELA-PER-0010",
 "tipo": "personaggio",
 "titolo": "Greta Hoffbrechlichschmidt",
+"universo": "elabverse"
+},
+{
+"id": "ELA-PER-0011",
+"tipo": "personaggio",
+"titolo": "Kerem Baysal",
 "universo": "elabverse"
 },
 {

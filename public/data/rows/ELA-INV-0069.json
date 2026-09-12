@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"finanza/valuta",
+"tipografia/calligrafia"
+],
+"epoca_relativa": 0,
+"estrazione": 11,
+"gancio": "Riemerge un registro tenuto ancora con il sistema proibito, i cui debiti risultano tecnicamente validi e enormi.",
+"id": "ELA-INV-0069",
+"nome": "I Numeri che il Banco Non Voleva",
+"nome_reale": "Numerazione posizionale in contabilità a partita doppia",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La corporazione più antica del Banco resiste per una generazione al passaggio dalle tacche del bastone contabile alle cifre posizionali, temendo che i nuovi numeri permettano agli scribi di nascondere zeri invisibili, e chiama eresia ciò che poi salva l'economia della Flotta.",
+"universo": "elabverse"
+}

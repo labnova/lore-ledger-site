@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"finanza/valuta",
+"tipografia/calligrafia"
+],
+"epoca_relativa": 0,
+"estrazione": 11,
+"gancio": "Un mattino il tabellone appare scritto in una grafia che nessuno scriba vivo ammette di conoscere, eppure i tassi si rivelano esatti per un'intera settimana.",
+"id": "ELA-INV-0067",
+"nome": "Il Banco delle Molte Mani",
+"nome_reale": "Tabellone di cambio valuta multilingue",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Ogni giorno una casta di scribi ricopre a mano il tabellone dei cambi tra le monete delle diverse colonie, in tutte le scritture parlate a bordo, e lo stile calligrafico del giorno diventa esso stesso un segnale di quanto ci si possa fidare di quel cambio.",
+"universo": "elabverse"
+}

@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"finanza/valuta",
+"tipografia/calligrafia"
+],
+"epoca_relativa": 0,
+"estrazione": 11,
+"gancio": "Due firme dal ricciolo identico compaiono su due cambiali emesse lo stesso giorno in due ponti diversi della nave.",
+"id": "ELA-INV-0054",
+"nome": "Il Ricciolo che Autentica",
+"nome_reale": "Corsivo inglese (copperplate) per firme legali",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Un unico svolazzo di penna, impossibile da riprodurre senza decenni di addestramento, diventa la firma legale riconosciuta su ogni cambiale della Flotta, tanto che i notai smettono di verificare il nome e imparano a riconoscere solo il gesto della mano.",
+"universo": "elabverse"
+}

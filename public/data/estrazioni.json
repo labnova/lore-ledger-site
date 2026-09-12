@@ -582,5 +582,61 @@
 "righe_prodotte": [
 "ELA-CON-0001"
 ]
+},
+{
+"bibbia_pescata": [
+"<!-- substrato iniziale: vuoto, scritto a mano -->"
+],
+"campi_forzati": [],
+"canone_pescato": [
+"ELA-PER-0004",
+"ELA-INV-0004",
+"ELA-INV-0036"
+],
+"chiavi": {
+"discipline": [
+{
+"macro": "finanza",
+"sotto": "valuta"
+},
+{
+"macro": "tipografia",
+"sotto": "calligrafia"
+}
+],
+"universo": "elabverse"
+},
+"created": "2026-09-12",
+"esito": "ok",
+"espansioni": [
+"ELA-PER-0011",
+"ELA-INV-0070",
+"ELA-INV-0071"
+],
+"estrazione": 11,
+"forzata": false,
+"lotto": "lotto-lore",
+"righe_prodotte": [
+"ELA-INV-0050",
+"ELA-INV-0051",
+"ELA-INV-0052",
+"ELA-INV-0053",
+"ELA-INV-0054",
+"ELA-INV-0055",
+"ELA-INV-0056",
+"ELA-INV-0057",
+"ELA-INV-0058",
+"ELA-INV-0059",
+"ELA-INV-0060",
+"ELA-INV-0061",
+"ELA-INV-0062",
+"ELA-INV-0063",
+"ELA-INV-0064",
+"ELA-INV-0065",
+"ELA-INV-0066",
+"ELA-INV-0067",
+"ELA-INV-0068",
+"ELA-INV-0069"
+]
 }
 ]

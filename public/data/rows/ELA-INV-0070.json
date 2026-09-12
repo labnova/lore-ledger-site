@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"acustica/fonetica",
+"ottica/spettroscopia"
+],
+"epoca_relativa": 1,
+"estrazione": 11,
+"gancio": "Una cartografa riconosce, sullo scafo di un relitto appena trovato, lo stesso volto spettrografico appeso da bambina nella sua cabina, quello che le avevano detto essere \"casa\".",
+"id": "ELA-INV-0070",
+"nome": "Il Volto della Voce",
+"nome_reale": "Spettrogramma vocale",
+"parent_id": "ELA-INV-0004",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Se il Cifrario delle Bocche traduce il crepitio dei pulsar in consonanti, i tecnici di bordo imparano poi a dipingerne lo spettrogramma su carta come un volto, sostenendo che ogni nave impari a riconoscere la propria stella natale dal disegno della sua voce.",
+"universo": "elabverse"
+}

@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"finanza/valuta",
+"tipografia/calligrafia"
+],
+"epoca_relativa": 0,
+"estrazione": 11,
+"gancio": "Una firma risulta autentica nella forma ma falsa nel ductus, aprendo una frode che nessuno credeva possibile a bordo.",
+"id": "ELA-INV-0065",
+"nome": "L'Ordine del Tratto",
+"nome_reale": "Analisi del ductus calligrafico",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Gli scribi forensi del Banco non verificano più le firme dalla forma ma dall'ordine in cui l'inchiostro si è depositato, ricostruito tratto per tratto sotto lo scanner della nave, chiamando questa tecnica \"leggere la memoria della mano.\"",
+"universo": "elabverse"
+}

@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"finanza/valuta",
+"tipografia/calligrafia"
+],
+"epoca_relativa": 0,
+"estrazione": 11,
+"gancio": "Una moneta contraffatta riemerge dal mercato nero portando impresso un carattere tipografico ritirato due generazioni fa, identico fino alla bava del metallo.",
+"id": "ELA-INV-0050",
+"nome": "I Punzoni Gemelli",
+"nome_reale": "Punzonatura per caratteri mobili",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il taglio dei punzoni per i caratteri da stampa e quello delle matrici per battere moneta di bordo condividono lo stesso acciaio e la stessa mano, così gli incisori della Flotta tagliano un solo punzone per ogni lettera e per ogni cifra, convinti che lettera e moneta nascano dalla stessa forma originaria.",
+"universo": "elabverse"
+}

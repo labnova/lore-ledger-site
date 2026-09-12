@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"finanza/valuta",
+"tipografia/calligrafia"
+],
+"epoca_relativa": 0,
+"estrazione": 11,
+"gancio": "Un mercante trova la metà di un bastone il cui gemello apparteneva a un uomo morto una generazione fa, eppure il debito risulta ancora attivo.",
+"id": "ELA-INV-0057",
+"nome": "Il Bastone Diviso",
+"nome_reale": "Tally stick",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Un unico bastone intagliato di tacche viene spezzato in due metà, una al debitore e una al creditore, e solo il ricongiungersi perfetto delle due parti prova a bordo l'esistenza di un debito, rendendo il legno più affidabile di qualunque registro scritto.",
+"universo": "elabverse"
+}

@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"finanza/valuta",
+"tipografia/calligrafia"
+],
+"epoca_relativa": 0,
+"estrazione": 11,
+"gancio": "La rosetta incisa su una moneta ritrovata alla deriva corrisponde esattamente alla mappa di un sistema stellare che nessuna flotta ha ancora raggiunto.",
+"id": "ELA-INV-0055",
+"nome": "La Rosa che Non si Ripete",
+"nome_reale": "Incisione a guilloché",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Un tornio guida il bulino in spirali matematiche mai identiche a se stesse, incise sul bordo di ogni moneta di bordo, e gli ingegneri del conio sostengono che ogni rosetta tracci, senza saperlo, la rotta esatta percorsa dalla nave nell'anno in cui è stata coniata.",
+"universo": "elabverse"
+}
