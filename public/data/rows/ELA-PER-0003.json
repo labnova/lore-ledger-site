@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "bisessuale",
+"situazione": "separato"
+},
+"casta": "navigatori",
+"ceppo": "turco",
+"cognome": "Aktürk",
+"contraddizione": "È la più rigorosa nel seguire i protocolli di lettura spettrale, eppure giura di sentire una voce nella rete di sensori che nessun protocollo prevede.",
+"created": "2026-09-12",
+"difetto": "invidioso",
+"epoca_relativa": 0,
+"estrazione": 8,
+"eta_fascia": "giovane",
+"gancio": "Teme l'Eco della Materia perché l'ultima volta che l'ha usato la voce nella rete le ha sussurrato un nome che non ha mai detto a nessuno.",
+"id": "ELA-PER-0003",
+"invenzione_id": "ELA-INV-0005",
+"nome": "Tuğba",
+"parent_id": null,
+"rapporto": "teme",
+"regione": "Konya",
+"relazione": null,
+"schema_version": 1,
+"segno": "acquario",
+"spirituale": {
+"credenza": "la_voce_nella_rete",
+"rapporto": "mistico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "rigoroso",
+"universo": "elabverse"
+}

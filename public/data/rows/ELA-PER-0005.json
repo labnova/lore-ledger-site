@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "pansessuale",
+"situazione": "sposato"
+},
+"casta": "navigatori",
+"ceppo": "turco",
+"cognome": "Kunduracı",
+"contraddizione": "Studia gli spettri dei minerali con applicazione quasi maniacale, ma le sue notti di golosità le fanno saltare i turni di lettura più delicati, quelli dell'alba.",
+"created": "2026-09-12",
+"difetto": "goloso",
+"epoca_relativa": 0,
+"estrazione": 8,
+"eta_fascia": "giovane",
+"gancio": "Ha scoperto una firma spettrale ricorrente che compare solo nei turni che salta, e non riesce a smettere di pensarci nemmeno mentre mangia.",
+"id": "ELA-PER-0005",
+"invenzione_id": "ELA-INV-0005",
+"nome": "Fatma",
+"parent_id": null,
+"rapporto": "studia",
+"regione": "Konya",
+"relazione": null,
+"schema_version": 1,
+"segno": "cancro",
+"spirituale": {
+"credenza": "il_cielo_amministrato",
+"rapporto": "indifferente"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "pragmatico",
+"universo": "elabverse"
+}

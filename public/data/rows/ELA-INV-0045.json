@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"acustica/fonetica",
+"ottica/spettroscopia"
+],
+"epoca_relativa": 2,
+"estrazione": 8,
+"gancio": "Il Rammendo applicato ai vecchi archivi corrotti restituisce un'infanzia intera a un archivista che giura di non averla mai vissuta.",
+"id": "ELA-INV-0045",
+"nome": "Il Rammendo del Cielo",
+"nome_reale": "Codici a correzione d'errore",
+"parent_id": "ELA-INV-0018",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Dove la Scrittura Rapida delle Stelle comprime rischiando di perdere frammenti, il Rammendo del Cielo li ricostruisce per induzione statistica quando il segnale si corrompe; gli archivisti si sono accorti troppo tardi che il rammendo non recupera solo l'informazione perduta, ma inventa, quando serve, quella che si aspetta di trovare.",
+"universo": "elabverse"
+}

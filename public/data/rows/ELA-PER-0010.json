@@ -1,0 +1,30 @@
+{
+"affettivo": null,
+"casta": "navigatori",
+"ceppo": "germanico",
+"cognome": "Hoffbrechlichschmidt",
+"contraddizione": "È così pedante da correggere chiunque sbagli anche una virgola nei log ufficiali, eppure è lei stessa a falsificare le letture che non tornano come dovrebbero.",
+"created": "2026-09-12",
+"difetto": "pedante",
+"epoca_relativa": 0,
+"estrazione": 8,
+"eta_fascia": "adolescente",
+"gancio": "Il suo prossimo rapporto falsificato deve coprire una lettura che, se autentica, dimostrerebbe che l'invenzione non funziona come il convoglio crede.",
+"id": "ELA-PER-0010",
+"invenzione_id": "ELA-INV-0005",
+"nome": "Greta",
+"parent_id": null,
+"rapporto": "falsifica",
+"regione": "Konya",
+"relazione": null,
+"schema_version": 1,
+"segno": "leone",
+"spirituale": {
+"credenza": "il_cielo_amministrato",
+"rapporto": "eretico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "leale",
+"universo": "elabverse"
+}

@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "asessuale",
+"situazione": "separato"
+},
+"casta": "navigatori",
+"ceppo": "turco",
+"cognome": "Kotürk",
+"contraddizione": "Ha costruito con le proprie mani il rilevatore che i colleghi trattano quasi come un altare, ma per lei il sacro è solo una bugia utile per farli lavorare più in fretta.",
+"created": "2026-09-12",
+"difetto": "vanitoso",
+"epoca_relativa": 0,
+"estrazione": 8,
+"eta_fascia": "giovane",
+"gancio": "Nessuno sa che l'ultimo modello costruito da Nazlı registra frequenze che lei stessa si rifiuta di ascoltare.",
+"id": "ELA-PER-0002",
+"invenzione_id": "ELA-INV-0005",
+"nome": "Nazlı",
+"parent_id": null,
+"rapporto": "costruita",
+"regione": "Konya",
+"relazione": null,
+"schema_version": 1,
+"segno": "ariete",
+"spirituale": {
+"credenza": "il_sacro_e_una_bugia_utile",
+"rapporto": "praticante_tiepido"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "pragmatico",
+"universo": "elabverse"
+}

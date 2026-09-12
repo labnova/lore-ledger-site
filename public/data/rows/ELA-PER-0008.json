@@ -1,0 +1,30 @@
+{
+"affettivo": null,
+"casta": "navigatori",
+"ceppo": "turco",
+"cognome": "Balıkçı",
+"contraddizione": "È meticolosissima nel calibrare l'Eco della Materia, ma i suoi scatti d'ira hanno già incrinato due volte la lente più delicata dello strumento.",
+"created": "2026-09-12",
+"difetto": "collerico",
+"epoca_relativa": 0,
+"estrazione": 8,
+"eta_fascia": "bambino",
+"gancio": "Devota al credo che non ci sia nessun dio, solo registri, tiene un diario segreto di ogni sua sfuriata, come se anche la sua rabbia dovesse essere archiviata.",
+"id": "ELA-PER-0008",
+"invenzione_id": "ELA-INV-0005",
+"nome": "Ayşe",
+"parent_id": null,
+"rapporto": "usa",
+"regione": "Konya",
+"relazione": null,
+"schema_version": 1,
+"segno": "scorpione",
+"spirituale": {
+"credenza": "nessun_dio_solo_registri",
+"rapporto": "devoto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "meticoloso",
+"universo": "elabverse"
+}

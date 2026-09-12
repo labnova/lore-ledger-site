@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "asessuale",
+"situazione": "vedovo"
+},
+"casta": "navigatori",
+"ceppo": "turco",
+"cognome": "Değirmenci",
+"contraddizione": "Da vedovo, studia gli spettri con una lealtà quasi ossessiva alla routine che condivideva con la moglie, ma dimentica sempre più spesso di trascrivere i risultati prima che svaniscano dallo schermo.",
+"created": "2026-09-12",
+"difetto": "smemorato",
+"epoca_relativa": 0,
+"estrazione": 8,
+"eta_fascia": "maturo",
+"gancio": "Le ultime tre letture che ha smesso di trascrivere corrispondono, per chi le ha recuperate dai log grezzi, a tre notti in cui avrebbe dovuto essere di turno con lei.",
+"id": "ELA-PER-0009",
+"invenzione_id": "ELA-INV-0005",
+"nome": "Okan",
+"parent_id": null,
+"rapporto": "studia",
+"regione": "Konya",
+"relazione": null,
+"schema_version": 1,
+"segno": "sagittario",
+"spirituale": {
+"credenza": "il_cielo_amministrato",
+"rapporto": "indifferente"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "leale",
+"universo": "elabverse"
+}

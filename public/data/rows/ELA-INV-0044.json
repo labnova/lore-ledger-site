@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"arte_visiva/affresco",
+"cartografia/proiezioni"
+],
+"epoca_relativa": 2,
+"estrazione": 8,
+"gancio": "Un cadetto, chino per raccogliere qualcosa caduto a terra, si ritrova per caso nell'unico punto da cui l'affresco del refettorio smette di essere un paesaggio e diventa la rotta segreta della nave scomparsa da tre generazioni.",
+"id": "ELA-INV-0044",
+"nome": "L'Angolo che Non Mente",
+"nome_reale": "Anamorfosi",
+"parent_id": "ELA-INV-0029",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Se Lo Sguardo dal Polo Opposto insegna a diffidare della propria posizione capovolgendo il mondo, l'anamorfosi nasconde un secondo affresco dentro il primo, visibile solo da un unico punto della nave; gli archivisti la usano per cifrare messaggi che sembrano decorazione a chiunque non stia esattamente lì dove serve stare.",
+"universo": "elabverse"
+}

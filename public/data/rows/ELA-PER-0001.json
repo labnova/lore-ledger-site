@@ -1,0 +1,30 @@
+{
+"affettivo": null,
+"casta": "navigatori",
+"ceppo": "magiaro",
+"cognome": "Pék",
+"contraddizione": "Naviga leggendo il canto dei minerali nelle rocce che incontra, eppure non crede che le stelle tengano un registro di nulla, e dice che il cielo mente quanto i suoi superiori.",
+"created": "2026-09-12",
+"difetto": "rancoroso",
+"epoca_relativa": 0,
+"estrazione": 8,
+"eta_fascia": "adolescente",
+"gancio": "Da quando l'Eco della Materia ha rivelato che lo scafo su cui è nata contiene tracce di un metallo mai estratto da nessun giacimento conosciuto, Orsolya rifiuta di calibrare lo strumento e nessuno sa perché.",
+"id": "ELA-PER-0001",
+"invenzione_id": "ELA-INV-0005",
+"nome": "Orsolya",
+"parent_id": null,
+"rapporto": "teme",
+"regione": "Konya",
+"relazione": null,
+"schema_version": 1,
+"segno": "capricorno",
+"spirituale": {
+"credenza": "le_stelle_come_registro",
+"rapporto": "scettico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "coraggioso",
+"universo": "elabverse"
+}

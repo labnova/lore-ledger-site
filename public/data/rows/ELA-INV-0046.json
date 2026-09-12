@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"acustica/fonetica",
+"ottica/spettroscopia"
+],
+"epoca_relativa": 2,
+"estrazione": 8,
+"gancio": "Quei sette secondi di scarto, sommati generazione dopo generazione, non si accumulano mai: spariscono sempre nello stesso punto del calendario di bordo, come se qualcosa, una volta all'anno, li recuperasse.",
+"id": "ELA-INV-0046",
+"nome": "Il Battito Comune",
+"nome_reale": "Sincronizzazione degli orologi atomici",
+"parent_id": "ELA-INV-0041",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Perché il Coro degli Specchi funzioni, ogni nave del convoglio deve battere lo stesso istante fino alla frazione più piccola; gli ingegneri sincronizzano orologi atomici lungo tutta la flotta, e scoprono che una sola nave, per sette secondi ogni anno, batte un tempo tutto suo che nessuno riesce a spiegare.",
+"universo": "elabverse"
+}

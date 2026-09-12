@@ -1,0 +1,30 @@
+{
+"affettivo": null,
+"casta": "navigatori",
+"ceppo": "scandinavo",
+"cognome": "Åsdestad",
+"contraddizione": "Vende dati spettrali presentandoli come sacri registri stellari ai compratori più devoti, sapendo bene, da apostata dichiarata, che non è vero.",
+"created": "2026-09-12",
+"difetto": "indolente",
+"epoca_relativa": 0,
+"estrazione": 8,
+"eta_fascia": "adolescente",
+"gancio": "Un acquirente scopre per caso che Johanna non crede a una parola di quello che vende, e minaccia di dirlo a tutto il convoglio.",
+"id": "ELA-PER-0007",
+"invenzione_id": "ELA-INV-0005",
+"nome": "Johanna",
+"parent_id": null,
+"rapporto": "vende",
+"regione": "Konya",
+"relazione": null,
+"schema_version": 1,
+"segno": "pesci",
+"spirituale": {
+"credenza": "le_stelle_come_registro",
+"rapporto": "apostata"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "diplomatico",
+"universo": "elabverse"
+}

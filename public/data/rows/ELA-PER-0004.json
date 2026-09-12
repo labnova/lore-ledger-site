@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "asessuale",
+"situazione": "sposato"
+},
+"casta": "navigatori",
+"ceppo": "turco",
+"cognome": "Çömlekçi",
+"contraddizione": "Vende letture spettrali come fossero merce rara e infallibile, ma dimentica sistematicamente a chi ha già venduto le stesse coordinate.",
+"created": "2026-09-12",
+"difetto": "smemorato",
+"epoca_relativa": 0,
+"estrazione": 8,
+"eta_fascia": "maturo",
+"gancio": "Un cliente si presenta con una ricevuta firmata da Pınar per una vendita che lei giura di non aver mai fatto.",
+"id": "ELA-PER-0004",
+"invenzione_id": "ELA-INV-0005",
+"nome": "Pınar",
+"parent_id": null,
+"rapporto": "vende",
+"regione": "Konya",
+"relazione": null,
+"schema_version": 1,
+"segno": "gemelli",
+"spirituale": {
+"credenza": "le_stelle_come_registro",
+"rapporto": "indifferente"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "curioso",
+"universo": "elabverse"
+}

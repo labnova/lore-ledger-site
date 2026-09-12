@@ -16,6 +16,21 @@
 "to": "ELA-INV-0043"
 },
 {
+"from": "ELA-INV-0029",
+"kind": "parent",
+"to": "ELA-INV-0044"
+},
+{
+"from": "ELA-INV-0018",
+"kind": "parent",
+"to": "ELA-INV-0045"
+},
+{
+"from": "ELA-INV-0041",
+"kind": "parent",
+"to": "ELA-INV-0046"
+},
+{
 "from": "NEO-INV-0001",
 "kind": "regione",
 "to": "NEO-REG-calvenna"
@@ -124,6 +139,106 @@
 "from": "NEO-INV-0021",
 "kind": "regione",
 "to": "NEO-REG-calvenna"
+},
+{
+"from": "ELA-PER-0001",
+"kind": "invenzione",
+"to": "ELA-INV-0005"
+},
+{
+"from": "ELA-PER-0001",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-PER-0002",
+"kind": "invenzione",
+"to": "ELA-INV-0005"
+},
+{
+"from": "ELA-PER-0002",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-PER-0003",
+"kind": "invenzione",
+"to": "ELA-INV-0005"
+},
+{
+"from": "ELA-PER-0003",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-PER-0004",
+"kind": "invenzione",
+"to": "ELA-INV-0005"
+},
+{
+"from": "ELA-PER-0004",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-PER-0005",
+"kind": "invenzione",
+"to": "ELA-INV-0005"
+},
+{
+"from": "ELA-PER-0005",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-PER-0006",
+"kind": "invenzione",
+"to": "ELA-INV-0005"
+},
+{
+"from": "ELA-PER-0006",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-PER-0007",
+"kind": "invenzione",
+"to": "ELA-INV-0005"
+},
+{
+"from": "ELA-PER-0007",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-PER-0008",
+"kind": "invenzione",
+"to": "ELA-INV-0005"
+},
+{
+"from": "ELA-PER-0008",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-PER-0009",
+"kind": "invenzione",
+"to": "ELA-INV-0005"
+},
+{
+"from": "ELA-PER-0009",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-PER-0010",
+"kind": "invenzione",
+"to": "ELA-INV-0005"
+},
+{
+"from": "ELA-PER-0010",
+"kind": "regione",
+"to": "ELA-REG-konya"
 },
 {
 "from": "NEO-PER-0001",
@@ -748,6 +863,90 @@
 "id": "ELA-INV-0043",
 "tipo": "invenzione",
 "titolo": "Il Dizionario che Non Perde Nulla",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0044",
+"tipo": "invenzione",
+"titolo": "L'Angolo che Non Mente",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0045",
+"tipo": "invenzione",
+"titolo": "Il Rammendo del Cielo",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0046",
+"tipo": "invenzione",
+"titolo": "Il Battito Comune",
+"universo": "elabverse"
+},
+{
+"id": "ELA-PER-0001",
+"tipo": "personaggio",
+"titolo": "Orsolya Pék",
+"universo": "elabverse"
+},
+{
+"id": "ELA-PER-0002",
+"tipo": "personaggio",
+"titolo": "Nazlı Kotürk",
+"universo": "elabverse"
+},
+{
+"id": "ELA-PER-0003",
+"tipo": "personaggio",
+"titolo": "Tuğba Aktürk",
+"universo": "elabverse"
+},
+{
+"id": "ELA-PER-0004",
+"tipo": "personaggio",
+"titolo": "Pınar Çömlekçi",
+"universo": "elabverse"
+},
+{
+"id": "ELA-PER-0005",
+"tipo": "personaggio",
+"titolo": "Fatma Kunduracı",
+"universo": "elabverse"
+},
+{
+"id": "ELA-PER-0006",
+"tipo": "personaggio",
+"titolo": "Leyla Çoban",
+"universo": "elabverse"
+},
+{
+"id": "ELA-PER-0007",
+"tipo": "personaggio",
+"titolo": "Johanna Åsdestad",
+"universo": "elabverse"
+},
+{
+"id": "ELA-PER-0008",
+"tipo": "personaggio",
+"titolo": "Ayşe Balıkçı",
+"universo": "elabverse"
+},
+{
+"id": "ELA-PER-0009",
+"tipo": "personaggio",
+"titolo": "Okan Değirmenci",
+"universo": "elabverse"
+},
+{
+"id": "ELA-PER-0010",
+"tipo": "personaggio",
+"titolo": "Greta Hoffbrechlichschmidt",
+"universo": "elabverse"
+},
+{
+"id": "ELA-REG-konya",
+"tipo": "regione",
+"titolo": "Konya",
 "universo": "elabverse"
 },
 {

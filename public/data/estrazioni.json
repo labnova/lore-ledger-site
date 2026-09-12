@@ -404,5 +404,113 @@
 "ELA-INV-0039",
 "ELA-INV-0040"
 ]
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"ELA-INV-0029",
+"ELA-INV-0018",
+"ELA-INV-0041"
+],
+"chiavi": {
+"casta": "navigatori",
+"invenzione_id": "ELA-INV-0005",
+"regione": "ELA-REG-konya",
+"universo": "elabverse"
+},
+"created": "2026-09-12",
+"esito": "ok",
+"espansioni": [
+{
+"id": "ELA-INV-0044",
+"parent_id": "ELA-INV-0029"
+},
+{
+"id": "ELA-INV-0045",
+"parent_id": "ELA-INV-0018"
+},
+{
+"id": "ELA-INV-0046",
+"parent_id": "ELA-INV-0041"
+}
+],
+"estrazione": 8,
+"forzata": false,
+"lotto": "lotto-personaggi",
+"personaggi": [
+{
+"ceppo": "magiaro",
+"cognome": "Pék",
+"n": 1,
+"nome": "Orsolya"
+},
+{
+"ceppo": "turco",
+"cognome": "Kotürk",
+"n": 2,
+"nome": "Nazlı"
+},
+{
+"ceppo": "turco",
+"cognome": "Aktürk",
+"n": 3,
+"nome": "Tuğba"
+},
+{
+"ceppo": "turco",
+"cognome": "Çömlekçi",
+"n": 4,
+"nome": "Pınar"
+},
+{
+"ceppo": "turco",
+"cognome": "Kunduracı",
+"n": 5,
+"nome": "Fatma"
+},
+{
+"ceppo": "turco",
+"cognome": "Çoban",
+"n": 6,
+"nome": "Leyla"
+},
+{
+"ceppo": "scandinavo",
+"cognome": "Åsdestad",
+"n": 7,
+"nome": "Johanna"
+},
+{
+"ceppo": "turco",
+"cognome": "Balıkçı",
+"n": 8,
+"nome": "Ayşe"
+},
+{
+"ceppo": "turco",
+"cognome": "Değirmenci",
+"n": 9,
+"nome": "Okan"
+},
+{
+"ceppo": "germanico",
+"cognome": "Hoffbrechlichschmidt",
+"n": 10,
+"nome": "Greta"
+}
+],
+"righe_prodotte": [
+"ELA-REG-konya",
+"ELA-PER-0001",
+"ELA-PER-0002",
+"ELA-PER-0003",
+"ELA-PER-0004",
+"ELA-PER-0005",
+"ELA-PER-0006",
+"ELA-PER-0007",
+"ELA-PER-0008",
+"ELA-PER-0009",
+"ELA-PER-0010"
+]
 }
 ]

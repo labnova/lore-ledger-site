@@ -1,0 +1,18 @@
+{
+"ceppo_dominante": "turco",
+"created": "2026-09-12",
+"epoca_relativa": 0,
+"estrazione": 8,
+"id": "ELA-REG-konya",
+"nome": "Konya",
+"note": "Anello d'attracco del convoglio popolato in prevalenza da discendenti anatolici; i nomi restano legati alla città d'origine perché i registri d'imbarco, generazioni fa, assegnarono le cabine per città natale e nessuno li ha più aggiornati.",
+"onomastica": "legata",
+"p_cognome_mestiere": 0.45,
+"parent_id": null,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "regione",
+"universo": "elabverse"
+}
