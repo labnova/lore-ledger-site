@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Lo tiene chiuso con un laccio nella tasca interna della giacca e lo apre solo quando è sola.",
+"cosa": "Taccuino di carta cucita a mano, le pagine rigate a bande orizzontali come uno spettro stampato in bianco e nero.",
+"created": "2026-09-12",
+"epoca_relativa": 0,
+"estrazione": 9,
+"gancio": "Un archivista anziano le chiede di vedere il quaderno, convinto che sia un diario di bordo ufficiale.",
+"id": "ELA-GAD-0002",
+"invenzione_id": "ELA-INV-0001",
+"nome": "Quaderno delle Sfuriate",
+"parent_id": null,
+"personaggio_id": "ELA-PER-0008",
+"prod": false,
+"regione": "Konya",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Le bande non sono decorative, segnano un trattino sulla riga corrispondente all'intensità di ogni sfuriata, esattamente come farebbe uno spettrografo con la luce di una stella.",
+"universo": "elabverse"
+}

@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Lo tiene in una scatola foderata di stoffa e lo estrae per scomporre la luce di qualunque lampada quando è nervosa.",
+"cosa": "Piccolo prisma di resina trasparente incastonato in un supporto di legno tornito.",
+"created": "2026-09-12",
+"epoca_relativa": 0,
+"estrazione": 9,
+"gancio": "Le viene confiscato durante un'ispezione perché nessun apprendista dovrebbe possedere un prisma calibrato a quella precisione.",
+"id": "ELA-GAD-0005",
+"invenzione_id": "ELA-INV-0001",
+"nome": "Prisma da Tasca",
+"parent_id": null,
+"personaggio_id": "ELA-PER-0008",
+"prod": true,
+"regione": "Konya",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Sembra un giocattolo da apprendista, ma la sua angolazione è calibrata esattamente come il prisma dello spettrografo maggiore, un addestramento nascosto a leggere le righe nere anche senza lo strumento vero.",
+"universo": "elabverse"
+}

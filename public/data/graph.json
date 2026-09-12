@@ -31,6 +31,21 @@
 "to": "ELA-INV-0046"
 },
 {
+"from": "ELA-INV-0040",
+"kind": "parent",
+"to": "ELA-INV-0047"
+},
+{
+"from": "ELA-INV-0046",
+"kind": "parent",
+"to": "ELA-INV-0048"
+},
+{
+"from": "ELA-INV-0020",
+"kind": "parent",
+"to": "ELA-INV-0049"
+},
+{
 "from": "NEO-INV-0001",
 "kind": "regione",
 "to": "NEO-REG-calvenna"
@@ -456,6 +471,156 @@
 "to": "NEO-REG-calvenna"
 },
 {
+"from": "ELA-GAD-0001",
+"kind": "invenzione",
+"to": "ELA-INV-0001"
+},
+{
+"from": "ELA-GAD-0001",
+"kind": "personaggio",
+"to": "ELA-PER-0008"
+},
+{
+"from": "ELA-GAD-0001",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-GAD-0002",
+"kind": "invenzione",
+"to": "ELA-INV-0001"
+},
+{
+"from": "ELA-GAD-0002",
+"kind": "personaggio",
+"to": "ELA-PER-0008"
+},
+{
+"from": "ELA-GAD-0002",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-GAD-0003",
+"kind": "invenzione",
+"to": "ELA-INV-0001"
+},
+{
+"from": "ELA-GAD-0003",
+"kind": "personaggio",
+"to": "ELA-PER-0008"
+},
+{
+"from": "ELA-GAD-0003",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-GAD-0004",
+"kind": "invenzione",
+"to": "ELA-INV-0001"
+},
+{
+"from": "ELA-GAD-0004",
+"kind": "personaggio",
+"to": "ELA-PER-0008"
+},
+{
+"from": "ELA-GAD-0004",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-GAD-0005",
+"kind": "invenzione",
+"to": "ELA-INV-0001"
+},
+{
+"from": "ELA-GAD-0005",
+"kind": "personaggio",
+"to": "ELA-PER-0008"
+},
+{
+"from": "ELA-GAD-0005",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-GAD-0006",
+"kind": "invenzione",
+"to": "ELA-INV-0001"
+},
+{
+"from": "ELA-GAD-0006",
+"kind": "personaggio",
+"to": "ELA-PER-0008"
+},
+{
+"from": "ELA-GAD-0006",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-GAD-0007",
+"kind": "invenzione",
+"to": "ELA-INV-0001"
+},
+{
+"from": "ELA-GAD-0007",
+"kind": "personaggio",
+"to": "ELA-PER-0008"
+},
+{
+"from": "ELA-GAD-0007",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-GAD-0008",
+"kind": "invenzione",
+"to": "ELA-INV-0001"
+},
+{
+"from": "ELA-GAD-0008",
+"kind": "personaggio",
+"to": "ELA-PER-0008"
+},
+{
+"from": "ELA-GAD-0008",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-GAD-0009",
+"kind": "invenzione",
+"to": "ELA-INV-0001"
+},
+{
+"from": "ELA-GAD-0009",
+"kind": "personaggio",
+"to": "ELA-PER-0008"
+},
+{
+"from": "ELA-GAD-0009",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-GAD-0010",
+"kind": "invenzione",
+"to": "ELA-INV-0001"
+},
+{
+"from": "ELA-GAD-0010",
+"kind": "personaggio",
+"to": "ELA-PER-0008"
+},
+{
+"from": "ELA-GAD-0010",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
 "from": "NEO-GAD-0001",
 "kind": "invenzione",
 "to": "NEO-INV-0011"
@@ -607,6 +772,66 @@
 }
 ],
 "nodes": [
+{
+"id": "ELA-GAD-0001",
+"tipo": "gadget",
+"titolo": "Orecchio di Cera",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0002",
+"tipo": "gadget",
+"titolo": "Quaderno delle Sfuriate",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0003",
+"tipo": "gadget",
+"titolo": "Lente di Ricambio",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0004",
+"tipo": "gadget",
+"titolo": "Registro Tascabile",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0005",
+"tipo": "gadget",
+"titolo": "Prisma da Tasca",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0006",
+"tipo": "gadget",
+"titolo": "Fascia da Polso a Bande",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0007",
+"tipo": "gadget",
+"titolo": "Sigillo di Cera Nera",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0008",
+"tipo": "gadget",
+"titolo": "Para-orecchie Imbottiti",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0009",
+"tipo": "gadget",
+"titolo": "Bussola di Carta",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0010",
+"tipo": "gadget",
+"titolo": "Gettone Inciso",
+"universo": "elabverse"
+},
 {
 "id": "ELA-INV-0001",
 "tipo": "invenzione",
@@ -881,6 +1106,24 @@
 "id": "ELA-INV-0046",
 "tipo": "invenzione",
 "titolo": "Il Battito Comune",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0047",
+"tipo": "invenzione",
+"titolo": "Il Ripensamento Sotto il Velo",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0048",
+"tipo": "invenzione",
+"titolo": "Il Diario dei Sette Secondi",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0049",
+"tipo": "invenzione",
+"titolo": "Il Confronto delle Voci",
 "universo": "elabverse"
 },
 {

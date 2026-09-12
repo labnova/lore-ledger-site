@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"acustica/fonetica",
+"ottica/spettroscopia"
+],
+"epoca_relativa": 1,
+"estrazione": 9,
+"gancio": "Il registro, riletto tutto insieme dopo generazioni, non mostra sette secondi persi ogni anno ma un'unica settimana intera, ancora da qualche parte, che nessuna nave ha mai vissuto.",
+"id": "ELA-INV-0048",
+"nome": "Il Diario dei Sette Secondi",
+"nome_reale": "Registro di deriva degli orologi",
+"parent_id": "ELA-INV-0046",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Dove il Battito Comune si limita a sincronizzare gli orologi atomici della flotta, gli ingegneri cominciano a tenere un registro separato dei sette secondi che ogni anno spariscono sempre nello stesso punto del calendario, sperando che scrivendoli abbastanza a lungo il registro riveli da solo dove vanno a finire.",
+"universo": "elabverse"
+}

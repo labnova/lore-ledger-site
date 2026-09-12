@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Lo tiene piegato in quattro nella tasca del petto e lo consulta di nascosto durante i turni ufficiali.",
+"cosa": "Disco di carta pieghevole con due ruote concentriche disegnate a mano.",
+"created": "2026-09-12",
+"epoca_relativa": 0,
+"estrazione": 9,
+"gancio": "Se un archivista vedesse quella tavola, capirebbe che qualcuno gliel'ha copiata da un registro che nessuna bambina dovrebbe poter leggere.",
+"id": "ELA-GAD-0009",
+"invenzione_id": "ELA-INV-0001",
+"nome": "Bussola di Carta",
+"parent_id": null,
+"personaggio_id": "ELA-PER-0008",
+"prod": false,
+"regione": "Konya",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Le due ruote non sono un gioco ma una tavola di conversione non autorizzata tra righe spettrali e fonemi, la stessa che la casta degli archivisti tiene sotto chiave da trent'anni.",
+"universo": "elabverse"
+}

@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Lo fa scorrere tra le dita mentre aspetta il proprio turno allo strumento, per calmarsi prima di toccare le manopole.",
+"cosa": "Gettone di legno tornito, inciso con tacche irregolari lungo il bordo.",
+"created": "2026-09-12",
+"epoca_relativa": 0,
+"estrazione": 9,
+"gancio": "Un archivista le chiede di prestargli il gettone solo per sentirlo, e non glielo restituisce più.",
+"id": "ELA-GAD-0010",
+"invenzione_id": "ELA-INV-0001",
+"nome": "Gettone Inciso",
+"parent_id": null,
+"personaggio_id": "ELA-PER-0008",
+"prod": false,
+"regione": "Konya",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Le tacche non sono casuali, riproducono al tatto la sequenza esatta delle righe nere dell'ultimo messaggio stellare mai tradotto, così le sue dita ripetono senza saperlo la cifratura che gli archivisti cercano da trent'anni di risolvere.",
+"universo": "elabverse"
+}

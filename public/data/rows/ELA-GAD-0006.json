@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "La porta sempre al polso sinistro, quello con cui regola le manopole dello strumento.",
+"cosa": "Fascia di cuoio da polso con file di piccoli fori bruciati a fuoco.",
+"created": "2026-09-12",
+"epoca_relativa": 0,
+"estrazione": 9,
+"gancio": "Un giorno i fori risultano tutti bruciati nello stesso turno, e nessuno sa cosa sia successo quel giorno sulla nave.",
+"id": "ELA-GAD-0006",
+"invenzione_id": "ELA-INV-0001",
+"nome": "Fascia da Polso a Bande",
+"parent_id": null,
+"personaggio_id": "ELA-PER-0008",
+"prod": false,
+"regione": "Konya",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Ogni foro segna una sfuriata contenuta e non sfogata, un dispositivo di autocontrollo disegnato sulla stessa logica a soglie dello spettrografo che scatta solo oltre una certa intensità di luce.",
+"universo": "elabverse"
+}

@@ -512,5 +512,54 @@
 "ELA-PER-0009",
 "ELA-PER-0010"
 ]
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"ELA-INV-0040",
+"ELA-INV-0046",
+"ELA-INV-0020"
+],
+"chiavi": {
+"invenzione_id": "ELA-INV-0001",
+"n_prod": 2,
+"personaggio_id": "ELA-PER-0008",
+"universo": "elabverse"
+},
+"created": "2026-09-12",
+"esito": "ok",
+"espansioni": [
+{
+"id": "ELA-INV-0047",
+"parent_id": "ELA-INV-0040"
+},
+{
+"id": "ELA-INV-0048",
+"parent_id": "ELA-INV-0046"
+},
+{
+"id": "ELA-INV-0049",
+"parent_id": "ELA-INV-0020"
+}
+],
+"estrazione": 9,
+"forzata": false,
+"lotto": "lotto-gadget",
+"prod": [
+"ELA-GAD-0001",
+"ELA-GAD-0005"
+],
+"righe_prodotte": [
+"ELA-GAD-0001",
+"ELA-GAD-0002",
+"ELA-GAD-0003",
+"ELA-GAD-0004",
+"ELA-GAD-0005",
+"ELA-GAD-0006",
+"ELA-GAD-0007",
+"ELA-GAD-0008",
+"ELA-GAD-0009",
+"ELA-GAD-0010"
+]
 }
 ]

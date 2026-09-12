@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Se li mette prima di ogni sessione di calibrazione, per non sentire il proprio respiro alterare la lettura.",
+"cosa": "Para-orecchie di cuoio imbottiti di stoffa, allacciati con una fibbia d'osso sotto il mento.",
+"created": "2026-09-12",
+"epoca_relativa": 0,
+"estrazione": 9,
+"gancio": "Un giorno sente attraverso i para-orecchie una sillaba che nessun registro ufficiale ha mai catalogato.",
+"id": "ELA-GAD-0008",
+"invenzione_id": "ELA-INV-0001",
+"nome": "Para-orecchie Imbottiti",
+"parent_id": null,
+"personaggio_id": "ELA-PER-0008",
+"prod": false,
+"regione": "Konya",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "L'imbottitura non serve a isolare dal rumore ma incanala il suono verso due piccoli fori tarati sulla stessa frequenza dei fonemi stellari, un ricevitore passivo travestito da protezione.",
+"universo": "elabverse"
+}

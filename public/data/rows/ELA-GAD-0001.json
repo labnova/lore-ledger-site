@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Ayşe lo porta al collo sotto la divisa da apprendista e lo preme contro il vetro dell'oblò quando vuole ascoltare le stelle.",
+"cosa": "Ciondolo di cera colata a forma d'orecchio cavo, con un canale interno a spirale.",
+"created": "2026-09-12",
+"epoca_relativa": 0,
+"estrazione": 9,
+"gancio": "Una notte lo preme contro l'oblò sbagliato e giura di aver sentito una frase che nessun registro ufficiale ha mai catalogato.",
+"id": "ELA-GAD-0001",
+"invenzione_id": "ELA-INV-0001",
+"nome": "Orecchio di Cera",
+"parent_id": null,
+"personaggio_id": "ELA-PER-0008",
+"prod": true,
+"regione": "Konya",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "La spirale interna riproduce in scala il percorso ottico dello spettrografo, un fonema silenzioso scolpito nella cera che tradisce l'idea che la Lettura delle Righe Nere non legga la luce ma la ascolti.",
+"universo": "elabverse"
+}

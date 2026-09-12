@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Lo usa per sigillare il quaderno delle sfuriate prima di riporlo.",
+"cosa": "Timbro di cera nera scolpito con un motivo a righe parallele.",
+"created": "2026-09-12",
+"epoca_relativa": 0,
+"estrazione": 9,
+"gancio": "Un cartografo riconosce lo spettro sul sigillo e le chiede come faccia una bambina a possedere i dati di quella stella.",
+"id": "ELA-GAD-0007",
+"invenzione_id": "ELA-INV-0001",
+"nome": "Sigillo di Cera Nera",
+"parent_id": null,
+"personaggio_id": "ELA-PER-0008",
+"prod": false,
+"regione": "Konya",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Il motivo a righe non è decorativo, riproduce in miniatura lo spettro d'assorbimento della sua stella natale, così ogni sigillo è di fatto una firma stellare.",
+"universo": "elabverse"
+}

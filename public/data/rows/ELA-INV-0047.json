@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"arte_visiva/affresco",
+"cartografia/proiezioni"
+],
+"epoca_relativa": 1,
+"estrazione": 9,
+"gancio": "Un restauratore toglie il velo per pulizia ordinaria e si ritrova davanti a una rotta più vecchia di trent'anni, tracciata verso una destinazione che il convoglio non ha mai raggiunto.",
+"id": "ELA-INV-0047",
+"nome": "Il Ripensamento Sotto il Velo",
+"nome_reale": "Pentimento pittorico",
+"parent_id": "ELA-INV-0040",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Se l'Ultimo Velo nasconde le rotte segrete in un'ombra rimovibile con una spugna, i restauratori scoprono sotto quel velo un secondo strato più antico, un pentimento che il primo cartografo aveva dipinto e poi coperto di proposito, come se la vera rotta non fosse mai stata quella scritta sopra.",
+"universo": "elabverse"
+}

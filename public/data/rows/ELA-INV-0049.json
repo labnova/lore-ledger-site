@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"acustica/fonetica",
+"ottica/spettroscopia"
+],
+"epoca_relativa": 1,
+"estrazione": 9,
+"gancio": "Due stelle a distanze incolmabili pronunciano, correlate, la stessa identica ultima parola, nello stesso istante del calendario di bordo.",
+"id": "ELA-INV-0049",
+"nome": "Il Confronto delle Voci",
+"nome_reale": "Correlazione incrociata di spettri",
+"parent_id": "ELA-INV-0020",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Dove la Voce Ricostruita fa parlare una stella alla volta, i monaci del vuoto sovrappongono ora le voci sintetiche di più stelle vicine per trovare le frasi che si somigliano, convinti che una lingua condivisa tra stelle diverse sia la prova che qualcuno, un tempo, viaggiava tra loro.",
+"universo": "elabverse"
+}
