@@ -1,0 +1,21 @@
+import { RenderMode, ServerRoute } from '@angular/ssr';
+import { UNIVERSI } from './models/ledger';
+
+/**
+ * Prerender delle route statiche: `/`, `/u/<universo>` per i cinque universi, `/g`, `/e`, `/m`.
+ * `/r/:id` e le pagine sconosciute si rendono sul client (`index.csr.html`, vedi
+ * `staticwebapp.config.json`).
+ */
+export const serverRoutes: ServerRoute[] = [
+  { path: '', renderMode: RenderMode.Prerender },
+  {
+    path: 'u/:universo',
+    renderMode: RenderMode.Prerender,
+    getPrerenderParams: async () => UNIVERSI.map((universo) => ({ universo })),
+  },
+  { path: 'g', renderMode: RenderMode.Prerender },
+  { path: 'e', renderMode: RenderMode.Prerender },
+  { path: 'm', renderMode: RenderMode.Prerender },
+  { path: 'r/:id', renderMode: RenderMode.Client },
+  { path: '**', renderMode: RenderMode.Client },
+];

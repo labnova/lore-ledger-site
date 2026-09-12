@@ -1,0 +1,34 @@
+<h1>Grafo del ledger</h1>
+<p class="muted">
+  Ogni nodo è una riga; il colore è l'universo, la forma è il tipo. Gli archi sono i riferimenti
+  tra righe. Clic su un nodo apre la scheda.
+</p>
+
+<form class="filtri" (submit)="$event.preventDefault()" aria-label="Filtri del grafo">
+  <label>
+    universo
+    <select [value]="universo()" (change)="setUniverso($event)">
+      <option value="">tutti</option>
+      @for (u of universi; track u) {
+        <option [value]="u">{{ universoLabel[u] }}</option>
+      }
+    </select>
+  </label>
+  <fieldset class="riga-intera kinds">
+    <legend>archi</legend>
+    @for (k of kinds; track k) {
+      <label class="check">
+        <input type="checkbox" [checked]="attivi().has(k)" (change)="toggleKind(k, $event)" />
+        <span class="mono">{{ k }}</span> <span class="muted">{{ kindLabel[k] }}</span>
+      </label>
+    }
+  </fieldset>
+</form>
+
+@defer (on viewport) {
+  <app-grafo-canvas [universo]="universo()" [kinds]="kindsAttivi()" />
+} @placeholder {
+  <div class="grafo-placeholder" aria-hidden="true">Il grafo si carica quando entra nello schermo.</div>
+} @loading {
+  <p class="muted">Caricamento del grafo…</p>
+}

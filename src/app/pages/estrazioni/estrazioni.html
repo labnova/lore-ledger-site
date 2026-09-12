@@ -1,0 +1,118 @@
+<h1>Estrazioni</h1>
+<p class="muted">
+  Log cronologico delle estrazioni CSPRNG, dalla più recente. Ogni lotto parte da qui: le chiavi
+  uscite vengono registrate prima che venga scritta una riga. «Forzata» segna i campi fissati a
+  mano dal curatore.
+</p>
+<p class="muted mono" aria-live="polite">
+  {{ visibili().length }} di {{ totale() }} estrazioni
+  @if (!tutte.hasValue() && righe().length) {
+    · log parziale, scaricamento in corso
+  }
+</p>
+
+@if (visibili().length) {
+  <div class="tabella-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">n</th>
+          <th scope="col">lotto</th>
+          <th scope="col">universo</th>
+          <th scope="col">chiavi uscite</th>
+          <th scope="col">esito</th>
+          <th scope="col">forzata</th>
+          <th scope="col">data</th>
+          <th scope="col">righe</th>
+        </tr>
+      </thead>
+      <tbody>
+        @for (e of visibili(); track e.estrazione) {
+          @let u = universoDi(e);
+          <tr [id]="'e-' + e.estrazione">
+            <td class="mono">#{{ e.estrazione }}</td>
+            <td class="mono">{{ e.lotto }}</td>
+            <td>
+              @if (u && isUniverso(u)) {
+                <app-badge-universo [universo]="u" />
+              } @else {
+                <span class="muted">—</span>
+              }
+            </td>
+            <td class="mono">
+              @for (c of chiaviPiatte(e.chiavi); track c.k) {
+                <div><span class="muted">{{ c.k }}:</span> {{ c.v }}</div>
+              }
+            </td>
+            <td class="mono">{{ e.esito }}</td>
+            <td class="mono">
+              @if (e.forzata) {
+                sì
+                @if (e.campi_forzati.length) {
+                  <span class="muted">({{ e.campi_forzati.join(', ') }})</span>
+                }
+              } @else {
+                no
+              }
+            </td>
+            <td class="mono">{{ e.created }}</td>
+            <td>
+              <button
+                type="button"
+                class="bottone-link"
+                (click)="toggle(e.estrazione)"
+                [attr.aria-expanded]="aperta() === e.estrazione"
+                [attr.aria-controls]="'righe-' + e.estrazione"
+              >
+                @if (e.righe_prodotte?.length) {
+                  {{ e.righe_prodotte!.length }} righe
+                } @else if (e.righe_attese) {
+                  {{ e.righe_attese[0] }} … {{ e.righe_attese[1] }}
+                } @else {
+                  righe
+                }
+              </button>
+            </td>
+          </tr>
+          @if (aperta() === e.estrazione) {
+            <tr class="dettaglio" [id]="'righe-' + e.estrazione">
+              <td colspan="8">
+                @if (e.canone_pescato?.length) {
+                  <p class="mono">
+                    <span class="muted">canone pescato:</span>
+                    @for (id of e.canone_pescato; track id) {
+                      <a [routerLink]="['/r', id]">{{ id }}</a>{{ $last ? '' : ', ' }}
+                    }
+                  </p>
+                }
+                @if (righeAperte().length) {
+                  <div class="griglia tre">
+                    @for (r of righeAperte(); track r.id) {
+                      <app-riga-card [riga]="r" />
+                    }
+                  </div>
+                } @else if (indice.isLoading()) {
+                  <p class="muted">Caricamento dell'indice…</p>
+                } @else if (indice.error()) {
+                  <p role="alert">Indice non disponibile: {{ indice.error() }}</p>
+                } @else {
+                  <p class="muted">Nessuna riga pubblicata per questa estrazione.</p>
+                }
+              </td>
+            </tr>
+          }
+        }
+      </tbody>
+    </table>
+  </div>
+} @else if (tutte.isLoading()) {
+  <p class="muted">Caricamento del log…</p>
+} @else if (tutte.error()) {
+  <p role="alert">Log non disponibile: {{ tutte.error() }}</p>
+} @else {
+  <p class="muted">Nessuna estrazione registrata.</p>
+}
+
+@if (altre() > 0) {
+  <p><button type="button" (click)="caricaAltre()">carica altre ({{ altre() }})</button></p>
+}

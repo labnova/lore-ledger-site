@@ -1,0 +1,112 @@
+<h1>Feed del ledger</h1>
+<p class="muted">
+  Ultime righe generate, dalla più recente. Ogni riga è canone dalla nascita: qui si legge, non si
+  modifica.
+</p>
+
+@if (stats.hasValue()) {
+  @let s = stats.value();
+  <dl class="stats" aria-label="Stato del ledger">
+    <div class="stat">
+      <dt>righe totali</dt>
+      <dd>{{ totaleRighe() }}</dd>
+    </div>
+    <div class="stat">
+      <dt>ultima generazione</dt>
+      <dd>{{ s.ultima_generazione ?? '—' }}</dd>
+    </div>
+    <div class="stat">
+      <dt>estrazioni</dt>
+      <dd>{{ s.estrazioni_totali }}</dd>
+    </div>
+    @for (u of universi; track u) {
+      @if (s.righe_per_universo[u]; as n) {
+        <div class="stat">
+          <dt>{{ universoLabel[u] }}</dt>
+          <dd>
+            {{ n }}
+            @if (s.regioni_per_universo[u]; as r) {
+              <small>· {{ r }} regioni</small>
+            }
+          </dd>
+        </div>
+      }
+    }
+  </dl>
+}
+
+<form class="filtri" (submit)="$event.preventDefault()" aria-label="Filtri del feed">
+  <label>
+    tipo
+    <select [value]="tipo()" (change)="set('tipo', $event)">
+      <option value="">tutti</option>
+      @for (t of tipi; track t) {
+        <option [value]="t">{{ tipoLabel[t] }}</option>
+      }
+    </select>
+  </label>
+  <label>
+    universo
+    <select [value]="universo()" (change)="set('universo', $event)">
+      <option value="">tutti</option>
+      @for (u of universi; track u) {
+        <option [value]="u">{{ universoLabel[u] }}</option>
+      }
+    </select>
+  </label>
+  <label>
+    regione
+    <select [value]="regione()" (change)="set('regione', $event)">
+      <option value="">tutte</option>
+      @for (r of regioni(); track r) {
+        <option [value]="r">{{ r }}</option>
+      }
+    </select>
+  </label>
+  <label>
+    relazione
+    <select [value]="relazione()" (change)="set('relazione', $event)">
+      <option value="">tutte</option>
+      <option value="nessuna">radice (senza madre)</option>
+      @for (r of relazioni; track r) {
+        <option [value]="r">{{ relazioneLabel[r] }}</option>
+      }
+    </select>
+  </label>
+  <label class="riga-intera">
+    testo (id, titolo, sommario)
+    <input type="search" [value]="testo()" (input)="set('testo', $event)" autocomplete="off" />
+  </label>
+  <label class="check">
+    <input type="checkbox" [checked]="soloPocProd()" (change)="toggleSoloPocProd($event)" />
+    solo poc / prod
+  </label>
+  <div class="check">
+    <button type="button" (click)="azzera()" [disabled]="!filtroAttivo()">azzera filtri</button>
+  </div>
+</form>
+
+<p class="muted mono" aria-live="polite">
+  {{ visibili().length }} di {{ filtrate().length }} righe
+  @if (!completo()) {
+    · indice parziale ({{ righe().length }} di {{ totale() }}), scaricamento in corso
+  }
+</p>
+
+@if (visibili().length) {
+  <div class="griglia due">
+    @for (r of visibili(); track r.id) {
+      <app-riga-card [riga]="r" />
+    }
+  </div>
+} @else if (indice.isLoading() && !righe().length) {
+  <p class="muted">Caricamento dell'indice…</p>
+} @else if (indice.error()) {
+  <p role="alert">Indice non disponibile: {{ indice.error() }}</p>
+} @else {
+  <p class="muted">Nessuna riga corrisponde ai filtri.</p>
+}
+
+@if (altre() > 0) {
+  <p><button type="button" (click)="caricaAltre()">carica altre ({{ altre() }})</button></p>
+}

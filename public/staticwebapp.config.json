@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json.schemastore.org/staticwebapp.config.json",
+  "routes": [
+    {
+      "route": "/data/rows/*",
+      "headers": { "Cache-Control": "public, max-age=31536000, immutable" }
+    },
+    {
+      "route": "/data/*",
+      "headers": { "Cache-Control": "public, max-age=300" }
+    },
+    {
+      "route": "/r/*",
+      "rewrite": "/index.csr.html"
+    }
+  ],
+  "navigationFallback": {
+    "rewrite": "/index.csr.html",
+    "exclude": ["/data/*", "/*.{css,js,mjs,map,ico,png,svg,txt,json,md,woff,woff2}"]
+  },
+  "mimeTypes": {
+    ".json": "application/json; charset=utf-8",
+    ".md": "text/markdown; charset=utf-8"
+  },
+  "globalHeaders": {
+    "X-Content-Type-Options": "nosniff",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  }
+}

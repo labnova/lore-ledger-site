@@ -1,0 +1,209 @@
+@if (nonTrovata()) {
+  <h1>Riga non trovata</h1>
+  <p>
+    Nessuna riga con id <span class="mono">{{ id() }}</span> nel ledger pubblicato. Può essere un
+    id sbagliato, oppure una riga saltata dal compilatore perché non valida contro lo schema.
+  </p>
+  <p><a routerLink="/">Torna al feed</a></p>
+} @else if (dati.error()) {
+  <h1>Riga non disponibile</h1>
+  <p role="alert">{{ dati.error() }}</p>
+  <p><a routerLink="/">Torna al feed</a></p>
+} @else if (vista(); as v) {
+  <article class="scheda">
+    <header>
+      <div class="card-top">
+        <span class="mono">{{ v.riga.id }}</span>
+        <app-badge-tipo [tipo]="v.riga.tipo" />
+        <app-badge-universo [universo]="v.riga.universo" />
+        <app-badge-relazione [relazione]="v.riga.relazione" />
+        @if (v.riga.tipo === 'invenzione') {
+          <app-badge-flag [poc]="v.riga.poc" />
+        }
+        @if (v.riga.tipo === 'gadget') {
+          <app-badge-flag [prod]="v.riga.prod" />
+        }
+      </div>
+      <h1>{{ v.titolo || v.riga.id }}</h1>
+      <p class="muted">
+        <a [routerLink]="['/u', v.riga.universo]">{{ universoLabel[v.riga.universo] }}</a>
+        @if (v.regione) {
+          · regione <a [routerLink]="['/r', v.regione.id]">{{ v.regione.titolo }}</a>
+        } @else if (v.riga.regione) {
+          · regione {{ v.riga.regione }}
+        }
+        · creata il <span class="mono">{{ v.riga.created }}</span>
+      </p>
+    </header>
+
+    @if (v.lineage.madre || v.lineage.madreMancante) {
+      <section class="blocco" aria-labelledby="madre">
+        <h2 id="madre">
+          Madre
+          @if (v.riga.relazione) {
+            <span class="muted">— questa riga ne è {{ relazioneLabel[v.riga.relazione] }}</span>
+          }
+        </h2>
+        @if (v.lineage.madre; as m) {
+          <app-riga-card [riga]="m" />
+        } @else {
+          <p>
+            <span class="mono">{{ v.lineage.madreMancante }}</span>
+            <span class="muted">(non presente nell'indice pubblicato)</span>
+          </p>
+        }
+      </section>
+    }
+
+    <section class="blocco" aria-labelledby="campi">
+      <h2 id="campi">Campi</h2>
+      <dl class="campi">
+        @for (c of campi(); track c.k) {
+          <dt>{{ c.label }}</dt>
+          <dd [class.mono]="c.mono" [class.corpo]="c.k === 'corpo'">
+            @if (c.link) {
+              <a [routerLink]="c.link" [fragment]="c.fragment">{{ c.testo }}</a>
+              @if (c.titoloLink && c.titoloLink !== c.testo) {
+                <span class="muted"> — {{ c.titoloLink }}</span>
+              }
+            } @else {
+              {{ c.testo }}
+            }
+          </dd>
+        }
+      </dl>
+    </section>
+
+    @if (personaggio(); as p) {
+      <section class="blocco" aria-labelledby="assi">
+        <h2 id="assi">I quattro assi</h2>
+        <p class="muted">
+          Uno dei quattro fa attrito con la casta: è la contraddizione del personaggio.
+        </p>
+        <div class="assi">
+          <dl class="asse">
+            <dt>{{ campoLabel['tratto'] }}</dt>
+            <dd>{{ p.tratto }}</dd>
+          </dl>
+          <dl class="asse">
+            <dt>{{ campoLabel['difetto'] }}</dt>
+            <dd>{{ p.difetto }}</dd>
+          </dl>
+          <dl class="asse">
+            <dt>{{ campoLabel['affettivo'] }}</dt>
+            @if (p.affettivo; as a) {
+              <dd>{{ a.orientamento }} · {{ a.situazione }}</dd>
+            } @else {
+              <dd class="muted">non definito (minorenne)</dd>
+            }
+          </dl>
+          <dl class="asse">
+            <dt>{{ campoLabel['spirituale'] }}</dt>
+            <dd>{{ p.spirituale.rapporto }} · {{ p.spirituale.credenza }}</dd>
+          </dl>
+        </div>
+        <p><strong>{{ campoLabel['contraddizione'] }}:</strong> {{ p.contraddizione }}</p>
+      </section>
+    }
+
+    @if (v.riga.tipo === 'personaggio' && v.coll.gadget.length) {
+      <section class="blocco" aria-labelledby="gadget">
+        <h2 id="gadget">Gadget di questo personaggio</h2>
+        <div class="griglia due">
+          @for (g of v.coll.gadget; track g.id) {
+            <app-riga-card [riga]="g" />
+          }
+        </div>
+      </section>
+    }
+
+    @if (v.riga.tipo === 'invenzione') {
+      <section class="blocco" aria-labelledby="usano">
+        <h2 id="usano">Chi la usa</h2>
+        @if (v.coll.personaggi.length) {
+          <h3>Personaggi</h3>
+          <div class="griglia due">
+            @for (p of v.coll.personaggi; track p.id) {
+              <app-riga-card [riga]="p" />
+            }
+          </div>
+        }
+        @if (v.coll.gadget.length) {
+          <h3>Gadget</h3>
+          <div class="griglia due">
+            @for (g of v.coll.gadget; track g.id) {
+              <app-riga-card [riga]="g" />
+            }
+          </div>
+        }
+        @if (!v.coll.personaggi.length && !v.coll.gadget.length) {
+          <p class="muted">Nessun personaggio o gadget la usa ancora.</p>
+        }
+      </section>
+    }
+
+    @if (v.riga.tipo === 'regione') {
+      <section class="blocco" aria-labelledby="abitanti">
+        <h2 id="abitanti">Chi vi abita</h2>
+        @if (v.coll.personaggi.length) {
+          <div class="griglia due">
+            @for (p of v.coll.personaggi; track p.id) {
+              <app-riga-card [riga]="p" />
+            }
+          </div>
+        } @else {
+          <p class="muted">Nessun personaggio registrato in questa regione.</p>
+        }
+      </section>
+    }
+
+    @if (v.coll.contenuti.length) {
+      <section class="blocco" aria-labelledby="contenuti">
+        <h2 id="contenuti">Contenuti che partono da qui</h2>
+        <div class="griglia due">
+          @for (c of v.coll.contenuti; track c.id) {
+            <app-riga-card [riga]="c" />
+          }
+        </div>
+      </section>
+    }
+
+    <section class="blocco" aria-labelledby="figlie">
+      <h2 id="figlie">Figlie</h2>
+      @if (v.lineage.figlie.length) {
+        <ul class="lista-righe">
+          @for (f of v.lineage.figlie; track f.id) {
+            <li>
+              <app-badge-relazione [relazione]="f.relazione" />
+              <a class="mono" [routerLink]="['/r', f.id]">{{ f.id }}</a>
+              <span>{{ f.titolo }}</span>
+              <app-badge-tipo [tipo]="f.tipo" />
+            </li>
+          }
+        </ul>
+      } @else {
+        <p class="muted">Nessuna figlia ancora.</p>
+      }
+    </section>
+
+    <section class="blocco" aria-labelledby="pescata">
+      <h2 id="pescata">Pescata come canone in</h2>
+      @if (v.pescata.length) {
+        <ul class="lista-righe">
+          @for (e of v.pescata; track e.estrazione) {
+            <li>
+              <a class="mono" routerLink="/e" [fragment]="'e-' + e.estrazione"
+                >estrazione #{{ e.estrazione }}</a
+              >
+              <span class="mono muted">{{ e.lotto }} · {{ e.created }}</span>
+            </li>
+          }
+        </ul>
+      } @else {
+        <p class="muted">Mai pescata finora.</p>
+      }
+    </section>
+  </article>
+} @else {
+  <p class="muted" aria-live="polite">Caricamento della riga <span class="mono">{{ id() }}</span>…</p>
+}

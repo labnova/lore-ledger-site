@@ -1,0 +1,43 @@
+<a class="skip" href="#main">Vai al contenuto</a>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" routerLink="/" aria-label="lore-ledger, feed">
+      <span class="brand-name">lore-ledger</span>
+      <span class="brand-sub">casa editrice agentica</span>
+    </a>
+    <nav class="nav" aria-label="Sezioni">
+      <a routerLink="/" routerLinkActive="attivo" [routerLinkActiveOptions]="{ exact: true }">feed</a>
+      <a routerLink="/g" routerLinkActive="attivo">grafo</a>
+      <a routerLink="/e" routerLinkActive="attivo">estrazioni</a>
+      <a routerLink="/m" routerLinkActive="attivo">macchina</a>
+    </nav>
+    <nav class="nav nav-universi" aria-label="Universi">
+      @for (u of universi; track u) {
+        <a [routerLink]="['/u', u]" routerLinkActive="attivo" class="uni-link uni-{{ u }}">
+          <span class="uni-dot" aria-hidden="true"></span>{{ universoLabel[u] }}
+        </a>
+      }
+    </nav>
+  </div>
+</header>
+
+<main id="main" class="wrap" tabindex="-1">
+  <router-outlet />
+</main>
+
+<footer class="site-footer wrap">
+  <p>
+    Sola lettura. Ogni riga è canone alla nascita; il ledger è append-only.
+    @if (manifest.hasValue()) {
+      <span class="mono">
+        build {{ manifest.value().build }} · commit {{ manifest.value().commit }} · schema v{{
+          manifest.value().schema_version
+        }}
+      </span>
+    }
+  </p>
+  <p>
+    <a href="https://github.com/labnova/lore-ledger-site">sorgente del sito</a> ·
+    <a routerLink="/m">come funziona la macchina</a>
+  </p>
+</footer>

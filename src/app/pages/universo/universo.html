@@ -1,0 +1,69 @@
+@if (!valido()) {
+  <h1>Universo sconosciuto</h1>
+  <p>
+    <span class="mono">{{ universo() }}</span> non è tra gli universi del ledger.
+    <a routerLink="/">Torna al feed</a>.
+  </p>
+} @else {
+  <div class="pagina-testa">
+    <h1>{{ label() }}</h1>
+    <app-badge-universo [universo]="uni()" />
+    @if (vista(); as v) {
+      <span class="mono muted">{{ v.totale }} righe</span>
+    }
+  </div>
+
+  @if (vista(); as v) {
+    <dl class="stats" aria-label="Righe per tipo">
+      @for (c of v.conteggi; track c.tipo) {
+        <div class="stat">
+          <dt>{{ tipoPlurale[c.tipo] }}</dt>
+          <dd>{{ c.n }}</dd>
+        </div>
+      }
+    </dl>
+  }
+
+  <section aria-labelledby="bibbia">
+    <h2 id="bibbia">Bibbia</h2>
+    @if (bibbia.hasValue() && bibbia.value()) {
+      <div class="prosa" [innerHTML]="bibbia.value()"></div>
+    } @else if (bibbia.isLoading()) {
+      <p class="muted">Caricamento…</p>
+    } @else {
+      <p class="muted">Bibbia non ancora scritta per questo universo.</p>
+    }
+  </section>
+
+  @if (vista(); as v) {
+    <section aria-labelledby="regioni">
+      <h2 id="regioni">Regioni</h2>
+      @if (v.regioni.length) {
+        <div class="griglia due">
+          @for (r of v.regioni; track r.id) {
+            <app-riga-card [riga]="r" />
+          }
+        </div>
+      } @else {
+        <p class="muted">Nessuna regione ancora.</p>
+      }
+    </section>
+
+    <section aria-labelledby="ultime">
+      <h2 id="ultime">Ultime righe</h2>
+      @if (v.ultime.length) {
+        <div class="griglia due">
+          @for (r of v.ultime; track r.id) {
+            <app-riga-card [riga]="r" />
+          }
+        </div>
+      } @else {
+        <p class="muted">Nessuna riga ancora in questo universo.</p>
+      }
+    </section>
+  } @else if (dati.isLoading()) {
+    <p class="muted">Caricamento dell'indice…</p>
+  } @else if (dati.error()) {
+    <p role="alert">Indice non disponibile: {{ dati.error() }}</p>
+  }
+}

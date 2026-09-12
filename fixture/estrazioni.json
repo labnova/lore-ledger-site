@@ -1,0 +1,150 @@
+[
+  {
+    "estrazione": 1,
+    "lotto": "lotto-lore",
+    "created": "2026-09-10",
+    "esito": "ok",
+    "forzata": false,
+    "campi_forzati": [],
+    "chiavi": {
+      "universo": "neofeudal",
+      "discipline": [
+        { "macro": "zoologia", "sotto": "etologia" },
+        { "macro": "gioco_azzardo", "sotto": "dadi" }
+      ]
+    },
+    "poc": [2],
+    "righe_prodotte": ["NEO-INV-0001", "NEO-INV-0002"]
+  },
+  {
+    "estrazione": 2,
+    "lotto": "lotto-personaggi",
+    "created": "2026-09-11",
+    "esito": "ok",
+    "forzata": false,
+    "campi_forzati": [],
+    "chiavi": {
+      "universo": "neofeudal",
+      "casta": "artigiani_tecno_magi",
+      "invenzione_id": "NEO-INV-0001",
+      "regione": "NEO-REG-calvenna",
+      "onomastica": "legata",
+      "ceppo_dominante": "swahili"
+    },
+    "personaggi": [{ "n": 1, "nome": "Juma", "cognome": "Mwangaza", "ceppo": "swahili" }],
+    "righe_prodotte": ["NEO-PER-0001"]
+  },
+  {
+    "estrazione": 3,
+    "lotto": "lotto-gadget",
+    "created": "2026-09-11",
+    "esito": "ok",
+    "forzata": false,
+    "campi_forzati": [],
+    "chiavi": {
+      "universo": "neofeudal",
+      "invenzione_id": "NEO-INV-0002",
+      "personaggio_id": "NEO-PER-0001",
+      "n_prod": 1
+    },
+    "prod": [1],
+    "righe_prodotte": ["NEO-GAD-0001"]
+  },
+  {
+    "estrazione": 4,
+    "lotto": "lotto-personaggi",
+    "created": "2026-09-12",
+    "esito": "ok",
+    "forzata": false,
+    "campi_forzati": [],
+    "chiavi": {
+      "universo": "neofeudal",
+      "casta": "artigiani_tecno_magi",
+      "invenzione_id": "NEO-INV-0001",
+      "regione": "NEO-REG-calvenna"
+    },
+    "canone_pescato": ["NEO-PER-0001", "NEO-INV-0002", "NEO-GAD-0001"],
+    "espansioni": [{ "id": "NEO-PER-0002", "parent_id": "NEO-PER-0001" }],
+    "righe_prodotte": ["NEO-PER-0002"]
+  },
+  {
+    "estrazione": 5,
+    "lotto": "lotto-contenuti",
+    "created": "2026-09-12",
+    "esito": "ok",
+    "forzata": false,
+    "campi_forzati": [],
+    "chiavi": {
+      "universo": "neofeudal",
+      "sorgente_id": "NEO-GAD-0001",
+      "medium": "testo_breve",
+      "canale": "bacheca_parrocchiale",
+      "formato": "snippet_300",
+      "veridicita": "in_universe"
+    },
+    "righe_prodotte": ["NEO-CON-0001"]
+  },
+  {
+    "estrazione": 6,
+    "lotto": "lotto-lore",
+    "created": "2026-09-11",
+    "esito": "ok",
+    "forzata": true,
+    "campi_forzati": ["universo"],
+    "chiavi": {
+      "universo": "cyberverse",
+      "discipline": [
+        { "macro": "telecomunicazioni", "sotto": "protocolli" },
+        { "macro": "liturgia", "sotto": "canto" }
+      ]
+    },
+    "poc": [2],
+    "righe_prodotte": ["CYB-INV-0001", "CYB-INV-0002"]
+  },
+  {
+    "estrazione": 7,
+    "lotto": "lotto-personaggi",
+    "created": "2026-09-12",
+    "esito": "ok",
+    "forzata": false,
+    "campi_forzati": [],
+    "chiavi": {
+      "universo": "cyberverse",
+      "casta": "tecnici_di_rete",
+      "invenzione_id": "CYB-INV-0001",
+      "regione": "Nodo Ferro"
+    },
+    "righe_prodotte": ["CYB-PER-0001"]
+  },
+  {
+    "estrazione": 8,
+    "lotto": "lotto-lore",
+    "created": "2026-09-12",
+    "esito": "ok",
+    "forzata": false,
+    "campi_forzati": [],
+    "chiavi": {
+      "universo": "steamverse",
+      "discipline": [
+        { "macro": "meteorologia", "sotto": "pressione" },
+        { "macro": "orologeria", "sotto": "carillon" }
+      ]
+    },
+    "poc": [],
+    "righe_prodotte": ["STE-INV-0001"]
+  },
+  {
+    "estrazione": 9,
+    "lotto": "lotto-personaggi",
+    "created": "2026-09-12",
+    "esito": "ok",
+    "forzata": false,
+    "campi_forzati": [],
+    "chiavi": {
+      "universo": "steamverse",
+      "casta": "orologiai_della_compagnia",
+      "invenzione_id": "STE-INV-0001"
+    },
+    "righe_prodotte": ["STE-PER-0001"]
+  }
+]
