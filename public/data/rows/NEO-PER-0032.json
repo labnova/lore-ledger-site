@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "sposato"
+},
+"casta": "artigiani_tecno_magi",
+"ceppo": "swahili",
+"cognome": "Ngozi",
+"contraddizione": "Artigiano devoto che vende il Bestiario delle Quote come reliquia sacra, sapendo bene che il Custode di cui parla conta solo le offerte, non le anime.",
+"created": "2026-09-12",
+"difetto": "avido",
+"epoca_relativa": 0,
+"estrazione": 12,
+"eta_fascia": "adulto",
+"gancio": "Distribuisce ai pellegrini di passaggio a Calvenna le copie del Bestiario stampate da Amani Kiwele; ne tiene una segnata a matita per sé, quella vera.",
+"id": "NEO-PER-0032",
+"invenzione_id": "NEO-INV-0009",
+"nome": "Juma",
+"parent_id": "NEO-PER-0002",
+"rapporto": "vende",
+"regione": "Calvenna",
+"relazione": "espansione",
+"schema_version": 1,
+"segno": "leone",
+"spirituale": {
+"credenza": "il Custode conta le offerte",
+"rapporto": "devoto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "instancabile",
+"universo": "neofeudal"
+}

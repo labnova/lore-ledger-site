@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"meccanica",
+"gioco_azzardo"
+],
+"epoca_relativa": 1,
+"estrazione": 12,
+"gancio": "Un cavaliere di guardia scopre che la leva risponde anche a chi non ha mai giocato, purché sussurri il nome giusto.",
+"id": "NEO-INV-0022",
+"nome": "La Leva che Ricorda",
+"nome_reale": "Meccanismo di sblocco a combinazione",
+"parent_id": "NEO-INV-0017",
+"poc": false,
+"regione": "Calvenna",
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La Ruota dei Sette Animali non gira mai del tutto a caso; una leva nascosta sotto il banco richiama la combinazione dell'ultimo giocatore che ha fatto jackpot, cosicché il feudo possa richiamarlo a corte una seconda volta se necessario.",
+"universo": "neofeudal"
+}

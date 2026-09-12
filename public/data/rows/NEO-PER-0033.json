@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "asessuale",
+"situazione": "single"
+},
+"casta": "artigiani_tecno_magi",
+"ceppo": "swahili",
+"cognome": "Otieno",
+"contraddizione": "Apprendista meccanica che monta gli ingranaggi della Ruota con precisione assoluta, ma teme di toccare a mani nude il Bestiario da cui copia i simboli.",
+"created": "2026-09-12",
+"difetto": "superstiziosa",
+"epoca_relativa": 0,
+"estrazione": 12,
+"eta_fascia": "giovane",
+"gancio": "Lavora accanto a Kombo Gurudumu alla Ruota dei Sette Animali; ha iniziato a indossare guanti dopo aver sognato tre notti di fila lo stesso animale vincente.",
+"id": "NEO-PER-0033",
+"invenzione_id": "NEO-INV-0009",
+"nome": "Halima",
+"parent_id": "NEO-PER-0007",
+"rapporto": "teme",
+"regione": "Calvenna",
+"relazione": "espansione",
+"schema_version": 1,
+"segno": "capricorno",
+"spirituale": {
+"credenza": "il libro legge chi lo tocca",
+"rapporto": "praticante"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "precisa",
+"universo": "neofeudal"
+}

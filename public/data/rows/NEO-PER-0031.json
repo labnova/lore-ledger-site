@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "poliamoroso"
+},
+"casta": "cavalieri",
+"ceppo": "swahili",
+"cognome": "Ndumbo",
+"contraddizione": "Devoto al lavoro del culto che amministra il cielo per il feudo, ma invidia ogni compagno d'arme che ottiene una quota migliore nel Bestiario.",
+"created": "2026-09-12",
+"difetto": "invidioso",
+"epoca_relativa": 0,
+"estrazione": 12,
+"eta_fascia": "adulto",
+"gancio": "Usa il Bestiario delle Quote per decidere quali cavalieri mandare in pattuglia rischiosa; sceglie sempre, per invidia, quelli che lo hanno superato in grado.",
+"id": "NEO-PER-0031",
+"invenzione_id": "NEO-INV-0009",
+"nome": "Furaha",
+"parent_id": null,
+"rapporto": "usa",
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"segno": "gemelli",
+"spirituale": {
+"credenza": "il cielo amministrato",
+"rapporto": "funzionario_del_culto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "devoto_al_lavoro",
+"universo": "neofeudal"
+}

@@ -166,6 +166,16 @@
 "to": "NEO-REG-calvenna"
 },
 {
+"from": "NEO-INV-0017",
+"kind": "parent",
+"to": "NEO-INV-0022"
+},
+{
+"from": "NEO-INV-0022",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
 "from": "ELA-PER-0001",
 "kind": "invenzione",
 "to": "ELA-INV-0005"
@@ -492,6 +502,136 @@
 },
 {
 "from": "NEO-PER-0021",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0022",
+"kind": "invenzione",
+"to": "NEO-INV-0009"
+},
+{
+"from": "NEO-PER-0022",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0023",
+"kind": "invenzione",
+"to": "NEO-INV-0009"
+},
+{
+"from": "NEO-PER-0023",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0024",
+"kind": "invenzione",
+"to": "NEO-INV-0009"
+},
+{
+"from": "NEO-PER-0024",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0025",
+"kind": "invenzione",
+"to": "NEO-INV-0009"
+},
+{
+"from": "NEO-PER-0025",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0026",
+"kind": "invenzione",
+"to": "NEO-INV-0009"
+},
+{
+"from": "NEO-PER-0026",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0027",
+"kind": "invenzione",
+"to": "NEO-INV-0009"
+},
+{
+"from": "NEO-PER-0027",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0028",
+"kind": "invenzione",
+"to": "NEO-INV-0009"
+},
+{
+"from": "NEO-PER-0028",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0029",
+"kind": "invenzione",
+"to": "NEO-INV-0009"
+},
+{
+"from": "NEO-PER-0029",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0030",
+"kind": "invenzione",
+"to": "NEO-INV-0009"
+},
+{
+"from": "NEO-PER-0030",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0031",
+"kind": "invenzione",
+"to": "NEO-INV-0009"
+},
+{
+"from": "NEO-PER-0031",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0002",
+"kind": "parent",
+"to": "NEO-PER-0032"
+},
+{
+"from": "NEO-PER-0032",
+"kind": "invenzione",
+"to": "NEO-INV-0009"
+},
+{
+"from": "NEO-PER-0032",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0007",
+"kind": "parent",
+"to": "NEO-PER-0033"
+},
+{
+"from": "NEO-PER-0033",
+"kind": "invenzione",
+"to": "NEO-INV-0009"
+},
+{
+"from": "NEO-PER-0033",
 "kind": "regione",
 "to": "NEO-REG-calvenna"
 },
@@ -1673,6 +1813,12 @@
 "universo": "neofeudal"
 },
 {
+"id": "NEO-INV-0022",
+"tipo": "invenzione",
+"titolo": "La Leva che Ricorda",
+"universo": "neofeudal"
+},
+{
 "id": "NEO-PER-0001",
 "tipo": "personaggio",
 "titolo": "Juma Mwangaza",
@@ -1796,6 +1942,78 @@
 "id": "NEO-PER-0021",
 "tipo": "personaggio",
 "titolo": "Faraji Chuma",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0022",
+"tipo": "personaggio",
+"titolo": "Zuberi Mfinyanzi",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0023",
+"tipo": "personaggio",
+"titolo": "Mwangi Shamanga",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0024",
+"tipo": "personaggio",
+"titolo": "Dalila Harasili",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0025",
+"tipo": "personaggio",
+"titolo": "Yui Manasaguchi",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0026",
+"tipo": "personaggio",
+"titolo": "Baraka Mwasindi",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0027",
+"tipo": "personaggio",
+"titolo": "Klaus Falkelwald",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0028",
+"tipo": "personaggio",
+"titolo": "Aleksandr Tesar",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0029",
+"tipo": "personaggio",
+"titolo": "Nia Kimambura",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0030",
+"tipo": "personaggio",
+"titolo": "Zuri Bani",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0031",
+"tipo": "personaggio",
+"titolo": "Furaha Ndumbo",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0032",
+"tipo": "personaggio",
+"titolo": "Juma Ngozi",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0033",
+"tipo": "personaggio",
+"titolo": "Halima Otieno",
 "universo": "neofeudal"
 },
 {

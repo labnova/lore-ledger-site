@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "pansessuale",
+"situazione": "vedovo"
+},
+"casta": "cavalieri",
+"ceppo": "germanico",
+"cognome": "Falkelwald",
+"contraddizione": "Ha negoziato tregue tra casate di cavalieri usando le quote del Bestiario come oracolo, ingenuamente convinto che il ciclo del ritorno non possa essere truccato.",
+"created": "2026-09-12",
+"difetto": "ingenuo",
+"epoca_relativa": 0,
+"estrazione": 12,
+"eta_fascia": "anziano",
+"gancio": "Vedovo, usa il Bestiario delle Quote per placare le dispute d'onore tra cavalieri; non ha mai sospettato che l'ultima quota corretta a matita fosse opera del suo stesso scudiero.",
+"id": "NEO-PER-0027",
+"invenzione_id": "NEO-INV-0009",
+"nome": "Klaus",
+"parent_id": null,
+"rapporto": "usa",
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"segno": "pesci",
+"spirituale": {
+"credenza": "ciclo del ritorno",
+"rapporto": "funzionario_del_culto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "diplomatico",
+"universo": "neofeudal"
+}

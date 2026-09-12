@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "sposato"
+},
+"casta": "cavalieri",
+"ceppo": "slavo",
+"cognome": "Tesar",
+"contraddizione": "Ostinato nel difendere il proprio onore di cavaliere, ma troppo indolente per adempiere ai doveri del culto che il suo grado gli impone.",
+"created": "2026-09-12",
+"difetto": "indolente",
+"epoca_relativa": 0,
+"estrazione": 12,
+"eta_fascia": "giovane",
+"gancio": "Ha fatto costruire su misura una propria copia del Bestiario delle Quote per non dover leggere i versetti originali; sua moglie glieli legge lei, ogni sera, senza che lui se ne accorga.",
+"id": "NEO-PER-0028",
+"invenzione_id": "NEO-INV-0009",
+"nome": "Aleksandr",
+"parent_id": null,
+"rapporto": "costruita",
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"segno": "acquario",
+"spirituale": {
+"credenza": "ciclo del ritorno",
+"rapporto": "funzionario_del_culto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ostinato",
+"universo": "neofeudal"
+}

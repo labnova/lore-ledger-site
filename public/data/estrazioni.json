@@ -638,5 +638,112 @@
 "ELA-INV-0068",
 "ELA-INV-0069"
 ]
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"NEO-PER-0002",
+"NEO-PER-0007",
+"NEO-INV-0017"
+],
+"chiavi": {
+"casta": "cavalieri",
+"invenzione_id": "NEO-INV-0009",
+"regione": "NEO-REG-calvenna",
+"universo": "neofeudal"
+},
+"created": "2026-09-12",
+"esito": "ok",
+"espansioni": [
+{
+"id": "NEO-PER-0032",
+"parent_id": "NEO-PER-0002"
+},
+{
+"id": "NEO-PER-0033",
+"parent_id": "NEO-PER-0007"
+},
+{
+"id": "NEO-INV-0022",
+"parent_id": "NEO-INV-0017"
+}
+],
+"estrazione": 12,
+"forzata": false,
+"lotto": "lotto-personaggi",
+"personaggi": [
+{
+"ceppo": "swahili",
+"cognome": "Mfinyanzi",
+"n": 1,
+"nome": "Zuberi"
+},
+{
+"ceppo": "swahili",
+"cognome": "Shamanga",
+"n": 2,
+"nome": "Mwangi"
+},
+{
+"ceppo": "swahili",
+"cognome": "Harasili",
+"n": 3,
+"nome": "Dalila"
+},
+{
+"ceppo": "giapponese",
+"cognome": "Manasaguchi",
+"n": 4,
+"nome": "Yui"
+},
+{
+"ceppo": "swahili",
+"cognome": "Mwasindi",
+"n": 5,
+"nome": "Baraka"
+},
+{
+"ceppo": "germanico",
+"cognome": "Falkelwald",
+"n": 6,
+"nome": "Klaus"
+},
+{
+"ceppo": "slavo",
+"cognome": "Tesar",
+"n": 7,
+"nome": "Aleksandr"
+},
+{
+"ceppo": "swahili",
+"cognome": "Kimambura",
+"n": 8,
+"nome": "Nia"
+},
+{
+"ceppo": "swahili",
+"cognome": "Bani",
+"n": 9,
+"nome": "Zuri"
+},
+{
+"ceppo": "swahili",
+"cognome": "Ndumbo",
+"n": 10,
+"nome": "Furaha"
+}
+],
+"righe_prodotte": [
+"NEO-PER-0022",
+"NEO-PER-0023",
+"NEO-PER-0024",
+"NEO-PER-0025",
+"NEO-PER-0026",
+"NEO-PER-0027",
+"NEO-PER-0028",
+"NEO-PER-0029",
+"NEO-PER-0030",
+"NEO-PER-0031"
+]
 }
 ]

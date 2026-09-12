@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "bisessuale",
+"situazione": "promesso_per_contratto"
+},
+"casta": "cavalieri",
+"ceppo": "swahili",
+"cognome": "Mwasindi",
+"contraddizione": "Cavaliere curioso in un ordine che pretende obbedienza cieca, insonne a forza di chiedersi perché il Bestiario delle Quote sia stato fatto costruire proprio a lui.",
+"created": "2026-09-12",
+"difetto": "insonne",
+"epoca_relativa": 0,
+"estrazione": 12,
+"eta_fascia": "giovane",
+"gancio": "Promesso per contratto a una casata di cavalieri, ha costruito con le proprie mani la cassa del Bestiario delle Quote; non dorme da quando vi ha trovato la sua prima domanda scritta a matita tra i versetti.",
+"id": "NEO-PER-0026",
+"invenzione_id": "NEO-INV-0009",
+"nome": "Baraka",
+"parent_id": null,
+"rapporto": "costruita",
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"segno": "vergine",
+"spirituale": {
+"credenza": "il crollo come giudizio",
+"rapporto": "eretico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "curioso",
+"universo": "neofeudal"
+}

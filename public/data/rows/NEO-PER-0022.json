@@ -1,0 +1,30 @@
+{
+"affettivo": null,
+"casta": "cavalieri",
+"ceppo": "swahili",
+"cognome": "Mfinyanzi",
+"contraddizione": "Amministra il culto sapendo che il sacro è un'utile bugia, ma presta comunque il giuramento cavalleresco sulle stesse pagine che sa false.",
+"created": "2026-09-12",
+"difetto": "goloso",
+"epoca_relativa": 0,
+"estrazione": 12,
+"eta_fascia": "adolescente",
+"gancio": "Paggio destinato all'armatura, tiene i registri del culto nella bottega del Bestiario delle Quote; sa quali versetti sono quote truccate, ma non ha ancora deciso se dirlo al suo cavaliere.",
+"id": "NEO-PER-0022",
+"invenzione_id": "NEO-INV-0009",
+"nome": "Zuberi",
+"parent_id": null,
+"rapporto": "costruita",
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"segno": "toro",
+"spirituale": {
+"credenza": "il sacro è una bugia utile",
+"rapporto": "funzionario_del_culto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "riservato",
+"universo": "neofeudal"
+}

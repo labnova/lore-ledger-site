@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "omosessuale",
+"situazione": "sposato"
+},
+"casta": "cavalieri",
+"ceppo": "swahili",
+"cognome": "Bani",
+"contraddizione": "Meticoloso nello studiare ogni quota del Bestiario per l'ordine dei cavalieri, ma paranoico al punto da sospettare tradimento in ogni compagno d'arme.",
+"created": "2026-09-12",
+"difetto": "paranoico",
+"epoca_relativa": 0,
+"estrazione": 12,
+"eta_fascia": "giovane",
+"gancio": "Sposato con un altro cavaliere della stessa guarnigione, studia il Bestiario delle Quote convinto che il ciclo del ritorno vi sia scritto in codice; ha smesso di condividere le sue note con chiunque.",
+"id": "NEO-PER-0030",
+"invenzione_id": "NEO-INV-0009",
+"nome": "Zuri",
+"parent_id": null,
+"rapporto": "studia",
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"segno": "bilancia",
+"spirituale": {
+"credenza": "ciclo del ritorno",
+"rapporto": "devoto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "meticoloso",
+"universo": "neofeudal"
+}

@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "omosessuale",
+"situazione": "single"
+},
+"casta": "cavalieri",
+"ceppo": "swahili",
+"cognome": "Shamanga",
+"contraddizione": "Porta la spada come un cavaliere anziano dovrebbe portare un ordine, ma resta servile davanti a chiunque gli chieda di correggere le quote del Bestiario.",
+"created": "2026-09-12",
+"difetto": "servile",
+"epoca_relativa": 0,
+"estrazione": 12,
+"eta_fascia": "anziano",
+"gancio": "Scudiero promosso a cavaliere per anzianità, corregge di nascosto le quote del Bestiario delle Quote per conto di chi lo intimidisce; teme che la voce nella rete abbia già contato le sue falsificazioni.",
+"id": "NEO-PER-0023",
+"invenzione_id": "NEO-INV-0009",
+"nome": "Mwangi",
+"parent_id": null,
+"rapporto": "falsifica",
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"segno": "sagittario",
+"spirituale": {
+"credenza": "la voce nella rete",
+"rapporto": "scettico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "generoso",
+"universo": "neofeudal"
+}

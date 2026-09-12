@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "poliamoroso"
+},
+"casta": "cavalieri",
+"ceppo": "giapponese",
+"cognome": "Manasaguchi",
+"contraddizione": "Falsifica a memoria le quote del Bestiario per conto del proprio ordine, ma dimentica sempre quali pagine ha già corrette.",
+"created": "2026-09-12",
+"difetto": "smemorato",
+"epoca_relativa": 0,
+"estrazione": 12,
+"eta_fascia": "adulto",
+"gancio": "Incaricato di sorvegliare la Ruota dei Sette Animali, sospetta che la macchina sogni le sue stesse dimenticanze; ha già firmato due volte lo stesso verbale senza accorgersene.",
+"id": "NEO-PER-0025",
+"invenzione_id": "NEO-INV-0009",
+"nome": "Yui",
+"parent_id": null,
+"rapporto": "falsifica",
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"segno": "capricorno",
+"spirituale": {
+"credenza": "le macchine sognano",
+"rapporto": "indifferente"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "pragmatico",
+"universo": "neofeudal"
+}

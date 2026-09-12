@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "pansessuale",
+"situazione": "vedovo"
+},
+"casta": "cavalieri",
+"ceppo": "swahili",
+"cognome": "Harasili",
+"contraddizione": "Ha giurato fedeltà al culto del feudo insieme a tutti i cavalieri, eppure crede in segreto che siano le stelle, non i versetti, a tenere il vero registro delle quote.",
+"created": "2026-09-12",
+"difetto": "servile",
+"epoca_relativa": 0,
+"estrazione": 12,
+"eta_fascia": "anziano",
+"gancio": "Studia il Bestiario delle Quote di notte, cercando nelle costellazioni la conferma che i versetti mentano; vedova di un cavaliere caduto in un duello deciso da una quota sbagliata.",
+"id": "NEO-PER-0024",
+"invenzione_id": "NEO-INV-0009",
+"nome": "Dalila",
+"parent_id": null,
+"rapporto": "studia",
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"segno": "scorpione",
+"spirituale": {
+"credenza": "le stelle come registro",
+"rapporto": "eretico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "silenzioso",
+"universo": "neofeudal"
+}
