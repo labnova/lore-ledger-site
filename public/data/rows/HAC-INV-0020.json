@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"agricoltura/irrigazione",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 6,
+"gancio": "Un drone agricolo sorvola un campo di notte e segnala, invece di piante assetate, tre corpi sdraiati che aspettano.",
+"id": "HAC-INV-0020",
+"nome": "Goccia dall'Alto",
+"nome_reale": "Droni per l'irrigazione di precisione (spot spraying su stress idrico)",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "L'algoritmo che localizza solo le piante in stress idrico per irrigarle viene riconvertito per localizzare, dal calore corporeo, pazienti in attesa di un trapianto d'urgenza fuori rete ospedaliera.",
+"universo": "hackverse"
+}

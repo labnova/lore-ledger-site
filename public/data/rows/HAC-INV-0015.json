@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"agricoltura/irrigazione",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 6,
+"gancio": "Un ingegnere agrario, prestato per una consulenza, disegna senza saperlo l'impalcatura che terrà insieme la pelle di un ustionato.",
+"id": "HAC-INV-0015",
+"nome": "Terrazza Interna",
+"nome_reale": "Terrazzamento e controllo dell'erosione",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "I principi del terrazzamento che trattengono il suolo su un pendio vengono applicati a un'impalcatura biodegradabile che trattiene un innesto di tessuto finché non attecchisce.",
+"universo": "hackverse"
+}

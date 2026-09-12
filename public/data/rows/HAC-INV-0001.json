@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"agricoltura/irrigazione",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 6,
+"gancio": "Un tecnico nota che il log delle valvole segna un impulso ogni volta che in un ospedale a chilometri di distanza si apre un espianto.",
+"id": "HAC-INV-0001",
+"nome": "Goccia Cieca",
+"nome_reale": "Irrigazione a goccia con controllo remoto (SCADA agricolo)",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il protocollo che apre le valvole dei canali è lo stesso, riscritto a mano, che regola le pompe dei perfusori d'organo in sala operatoria da campo.",
+"universo": "hackverse"
+}

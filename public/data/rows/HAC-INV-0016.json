@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"agricoltura/irrigazione",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 6,
+"gancio": "Due furgoni partono nello stesso minuto calcolato dallo stesso foglio elettronico, uno pieno d'acqua, uno pieno di ghiaccio.",
+"id": "HAC-INV-0016",
+"nome": "Finestra di Notte",
+"nome_reale": "Irrigazione notturna per ridurre l'evaporazione",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La finestra oraria calcolata per irrigare con il minimo spreco diventa la finestra calcolata per trasportare un organo con la minima perdita di vitalità.",
+"universo": "hackverse"
+}

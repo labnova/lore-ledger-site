@@ -302,5 +302,51 @@
 "ELA-INV-0019",
 "ELA-INV-0020"
 ]
+},
+{
+"bibbia_pescata": [],
+"campi_forzati": [],
+"canone_pescato": [],
+"chiavi": {
+"discipline": [
+{
+"macro": "agricoltura",
+"sotto": "irrigazione"
+},
+{
+"macro": "chirurgia",
+"sotto": "trapiantologia"
+}
+],
+"universo": "hackverse"
+},
+"created": "2026-09-12",
+"esito": "ok",
+"espansioni": [],
+"estrazione": 6,
+"forzata": false,
+"lotto": "lotto-lore",
+"righe_prodotte": [
+"HAC-INV-0001",
+"HAC-INV-0002",
+"HAC-INV-0003",
+"HAC-INV-0004",
+"HAC-INV-0005",
+"HAC-INV-0006",
+"HAC-INV-0007",
+"HAC-INV-0008",
+"HAC-INV-0009",
+"HAC-INV-0010",
+"HAC-INV-0011",
+"HAC-INV-0012",
+"HAC-INV-0013",
+"HAC-INV-0014",
+"HAC-INV-0015",
+"HAC-INV-0016",
+"HAC-INV-0017",
+"HAC-INV-0018",
+"HAC-INV-0019",
+"HAC-INV-0020"
+]
 }
 ]

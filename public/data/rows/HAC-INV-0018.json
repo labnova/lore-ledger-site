@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"agricoltura/irrigazione",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 6,
+"gancio": "Un vecchio contadino spiega un sifone a un chirurgo giovane, che capisce solo dopo cosa gli ha appena regalato.",
+"id": "HAC-INV-0018",
+"nome": "Il Sifone",
+"nome_reale": "Sifoni nei canali d'irrigazione",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il principio del sifone che sposta l'acqua oltre un dislivello senza pompe viene riusato in un dispositivo passivo che devia il flusso sanguigno attorno a un innesto durante l'anastomosi.",
+"universo": "hackverse"
+}

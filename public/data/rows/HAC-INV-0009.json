@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"agricoltura/irrigazione",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 6,
+"gancio": "Un magazziniere di sementi riceve una chiamata notturna in cui gli chiedono di prestare il suo congelatore, \"solo per una notte\".",
+"id": "HAC-INV-0009",
+"nome": "Freddo Prestato",
+"nome_reale": "Crioconservazione di semi",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La tecnica di raffreddamento controllato usata per conservare i semi in un granaio viene riscalata per allungare la finestra di vitalità di un organo espiantato.",
+"universo": "hackverse"
+}

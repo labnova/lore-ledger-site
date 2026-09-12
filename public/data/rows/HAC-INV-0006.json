@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"agricoltura/irrigazione",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 6,
+"gancio": "Un registro agricolo e una cartella clinica usano la stessa parola sospetta, \"riposo\", per lo stesso concetto.",
+"id": "HAC-INV-0006",
+"nome": "Turno del Corpo",
+"nome_reale": "Rotazione delle colture",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il calendario che alterna i campi per non esaurire il suolo viene applicato ai prelievi da un unico donatore vivente, per non esaurirlo.",
+"universo": "hackverse"
+}

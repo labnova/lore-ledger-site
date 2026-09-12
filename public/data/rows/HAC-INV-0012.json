@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"agricoltura/irrigazione",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 6,
+"gancio": "Per un guasto al gateway, un contadino e un trapiantato ricevono, la stessa notte, le notifiche l'uno dell'altro.",
+"id": "HAC-INV-0012",
+"nome": "Maglia Sotto Pelle",
+"nome_reale": "Rete di sensori dell'umidità del suolo (mesh IoT agricola)",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La rete a bassa potenza che misura l'umidità del terreno campo per campo viene miniaturizzata in una maglia di biosensori sottocutanei per seguire un innesto a distanza.",
+"universo": "hackverse"
+}

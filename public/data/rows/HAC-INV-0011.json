@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"agricoltura/irrigazione",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 6,
+"gancio": "Un broker rivende per errore lo stesso lotto due volte, un campo e un fegato.",
+"id": "HAC-INV-0011",
+"nome": "Borsa della Sete",
+"nome_reale": "Mercato dei diritti d'acqua",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La piattaforma dove si comprano e vendono diritti d'acqua viene copiata pari pari per far girare una borsa nera di slot di sala operatoria per trapianti urgenti.",
+"universo": "hackverse"
+}

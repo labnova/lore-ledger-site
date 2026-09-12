@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"agricoltura/irrigazione",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 6,
+"gancio": "Il sensore che salva un raccolto arriva in ospedale due giorni prima che qualcuno pensi a usarlo su un paziente.",
+"id": "HAC-INV-0007",
+"nome": "Pellicola Viva",
+"nome_reale": "Rilevamento del biofilm nelle tubature d'irrigazione",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il metodo che rileva il biofilm che ostruisce i tubi d'irrigazione viene riusato per individuare in anticipo il rigetto cronico nei vasi di un innesto.",
+"universo": "hackverse"
+}

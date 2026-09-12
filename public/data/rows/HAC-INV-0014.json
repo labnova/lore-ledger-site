@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"agricoltura/irrigazione",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 6,
+"gancio": "Un agronomo riconosce nel referto medico di uno sconosciuto la stessa curva a campana che usa per i suoi silos.",
+"id": "HAC-INV-0014",
+"nome": "Raccolto Previsto",
+"nome_reale": "Modello predittivo della resa del raccolto",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il modello che predice quanto grano darà un campo viene riaddestrato sugli stessi dati per stimare quanto a lungo reggerà un organo prima del rigetto.",
+"universo": "hackverse"
+}

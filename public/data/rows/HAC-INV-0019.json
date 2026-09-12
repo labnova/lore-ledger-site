@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"agricoltura/irrigazione",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 6,
+"gancio": "Nel database ci sono due colonne identiche, \"germinazione prevista\" e \"vitalità prevista\", e nessuno ha mai cambiato l'etichetta.",
+"id": "HAC-INV-0019",
+"nome": "Deposito Sordo",
+"nome_reale": "Catalogazione di una banca dei semi",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il protocollo di catalogazione e conservazione a lungo termine di una banca dei semi viene copiato per gestire una banca di tessuti e organi non tracciata dai registri ufficiali.",
+"universo": "hackverse"
+}

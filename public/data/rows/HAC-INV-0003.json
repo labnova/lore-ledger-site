@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"agricoltura/irrigazione",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 6,
+"gancio": "Un paziente giura di sentire, nel sonno, lo stesso ronzio che i sensori facevano sotto il campo di suo padre.",
+"id": "HAC-INV-0003",
+"nome": "Falda Sorda",
+"nome_reale": "Monitoraggio piezometrico della falda acquifera",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "I sensori piezometrici usati per misurare il livello dell'acqua sotterranea vengono miniaturizzati e impiantati per misurare la pressione dei fluidi attorno a un innesto.",
+"universo": "hackverse"
+}

@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"agricoltura/irrigazione",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 6,
+"gancio": "Nella stessa notte, in due luoghi diversi, suona lo stesso identico allarme di sovradosaggio.",
+"id": "HAC-INV-0005",
+"nome": "Infusione di Campo",
+"nome_reale": "Fertirrigazione (dosaggio automatico di fertilizzante nell'acqua irrigua)",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Le pompe che dosano il fertilizzante nell'acqua di irrigazione vengono riprogrammate per dosare l'immunosoppressore su una linea di perfusione portatile.",
+"universo": "hackverse"
+}

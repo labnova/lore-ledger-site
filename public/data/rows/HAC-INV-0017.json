@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"agricoltura/irrigazione",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 6,
+"gancio": "Un ispettore idrico e un ispettore sanitario, per due bug identici, trovano la stessa identica backdoor.",
+"id": "HAC-INV-0017",
+"nome": "Contatore Zitto",
+"nome_reale": "Falsificazione dei consumi su contatori idrici intelligenti",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "L'exploit che falsifica i consumi su un contatore idrico intelligente viene riadattato per falsificare i parametri vitali trasmessi da un monitor di perfusione, coprendo un espianto illegale.",
+"universo": "hackverse"
+}

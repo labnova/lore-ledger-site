@@ -598,6 +598,126 @@
 "universo": "elabverse"
 },
 {
+"id": "HAC-INV-0001",
+"tipo": "invenzione",
+"titolo": "Goccia Cieca",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0002",
+"tipo": "invenzione",
+"titolo": "Marza Zero",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0003",
+"tipo": "invenzione",
+"titolo": "Falda Sorda",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0004",
+"tipo": "invenzione",
+"titolo": "Coda Sommersa",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0005",
+"tipo": "invenzione",
+"titolo": "Infusione di Campo",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0006",
+"tipo": "invenzione",
+"titolo": "Turno del Corpo",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0007",
+"tipo": "invenzione",
+"titolo": "Pellicola Viva",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0008",
+"tipo": "invenzione",
+"titolo": "Il Perno che Gira",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0009",
+"tipo": "invenzione",
+"titolo": "Freddo Prestato",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0010",
+"tipo": "invenzione",
+"titolo": "Innesto Straniero",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0011",
+"tipo": "invenzione",
+"titolo": "Borsa della Sete",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0012",
+"tipo": "invenzione",
+"titolo": "Maglia Sotto Pelle",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0013",
+"tipo": "invenzione",
+"titolo": "Sale Tolto",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0014",
+"tipo": "invenzione",
+"titolo": "Raccolto Previsto",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0015",
+"tipo": "invenzione",
+"titolo": "Terrazza Interna",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0016",
+"tipo": "invenzione",
+"titolo": "Finestra di Notte",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0017",
+"tipo": "invenzione",
+"titolo": "Contatore Zitto",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0018",
+"tipo": "invenzione",
+"titolo": "Il Sifone",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0019",
+"tipo": "invenzione",
+"titolo": "Deposito Sordo",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0020",
+"tipo": "invenzione",
+"titolo": "Goccia dall'Alto",
+"universo": "hackverse"
+},
+{
 "id": "NEO-GAD-0001",
 "tipo": "gadget",
 "titolo": "Sacchetto di Juma",

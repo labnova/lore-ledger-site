@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"agricoltura/irrigazione",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 6,
+"gancio": "Il chirurgo scopre che il software gli sta proponendo un donatore già scartato altrove come \"portainnesto instabile\".",
+"id": "HAC-INV-0002",
+"nome": "Marza Zero",
+"nome_reale": "Innesto agricolo (marza su portainnesto)",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "L'algoritmo che calcola la compatibilità tra marza e portainnesto viene riadattato per stimare in tempo reale la compatibilità immunologica tra organo e ricevente.",
+"universo": "hackverse"
+}

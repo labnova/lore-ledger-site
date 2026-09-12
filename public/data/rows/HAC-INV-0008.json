@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"agricoltura/irrigazione",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 6,
+"gancio": "Da satellite, il cerchio verde nel deserto e il tondo di luce sopra la sala operatoria hanno esattamente la stessa forma.",
+"id": "HAC-INV-0008",
+"nome": "Il Perno che Gira",
+"nome_reale": "Irrigatore a perno centrale (pivot irrigation)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il braccio meccanico che ruota per irrigare un campo circolare viene ridotto in scala nel braccio robotico che ruota attorno al tavolo per un trapianto multiorgano.",
+"universo": "hackverse"
+}

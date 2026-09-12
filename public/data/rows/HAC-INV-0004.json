@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"agricoltura/irrigazione",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 6,
+"gancio": "Un contadino scopre di essere in cima a due liste diverse, per l'acqua e per un rene, e non sa quale delle due lo sta già uccidendo.",
+"id": "HAC-INV-0004",
+"nome": "Coda Sommersa",
+"nome_reale": "Allocazione delle liste d'attesa per trapianto",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "L'algoritmo che decide quali campi ricevono acqua per primi in tempo di siccità viene clonato per gestire, di nascosto, una seconda coda di priorità per gli organi.",
+"universo": "hackverse"
+}
