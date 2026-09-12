@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"acustica/fonetica",
+"ottica/spettroscopia"
+],
+"epoca_relativa": 0,
+"estrazione": 5,
+"gancio": "Un ingegnere di scafo costruisce un rilevatore di menzogne basato solo su queste emissioni vocali, e lo tiene nascosto ai diplomatici.",
+"id": "ELA-INV-0011",
+"nome": "Il Canto che Sfugge",
+"nome_reale": "Spettroscopia di emissione",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Un gas eccitato emette luce a lunghezze d'onda precise come una firma; a bordo la associano al modo in cui una voce, sotto sforzo, emette armoniche che tradiscono ciò che il parlante vuole tacere.",
+"universo": "elabverse"
+}

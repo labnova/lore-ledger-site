@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"acustica/fonetica",
+"ottica/spettroscopia"
+],
+"epoca_relativa": 0,
+"estrazione": 5,
+"gancio": "Una diplomatica viene accusata di tradimento sulla base della sola riflettanza del suo viso durante un negoziato, prima ancora che parli.",
+"id": "ELA-INV-0019",
+"nome": "Lo Specchio della Roccia",
+"nome_reale": "Spettroscopia di riflettanza",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Misura come una superficie riflette la luce per identificarne la composizione; i cartografi stellari la applicano ai volti degli equipaggi durante i lunghi silenzi, sostenendo che il modo in cui la pelle riflette la luce di bordo cambi con ciò che una persona sta per dire.",
+"universo": "elabverse"
+}

@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"acustica/fonetica",
+"ottica/spettroscopia"
+],
+"epoca_relativa": 0,
+"estrazione": 5,
+"gancio": "Un archivista trova la propria voce già segnata sulla tavola in una casella riservata alle giganti rosse, anni prima di ammalarsi.",
+"id": "ELA-INV-0010",
+"nome": "La Tavola dei Timbri",
+"nome_reale": "Diagramma di Hertzsprung-Russell",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Classifica le stelle per colore e luminosità; i monaci del vuoto vi hanno affiancato una tavola gemella che classifica le voci umane per timbro ed età, sostenendo che ogni voce, come ogni stella, percorra una sequenza principale verso lo stesso destino.",
+"universo": "elabverse"
+}

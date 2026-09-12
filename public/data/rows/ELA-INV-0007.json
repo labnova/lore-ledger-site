@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"acustica/fonetica",
+"ottica/spettroscopia"
+],
+"epoca_relativa": 0,
+"estrazione": 5,
+"gancio": "Un archivista costruisce un intero dizionario basato solo sulle pause di un segnale, mai sulle sue parole.",
+"id": "ELA-INV-0007",
+"nome": "Le Assenze di Fraunhofer",
+"nome_reale": "Righe di Fraunhofer",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Le righe scure nello spettro solare sono luce mancante, assorbita da qualcosa; i coloni hanno imparato a leggere il silenzio tra le parole di un messaggio radio nello stesso modo, come assenze che dicono più delle presenze.",
+"universo": "elabverse"
+}

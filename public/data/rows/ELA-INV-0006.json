@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"acustica/fonetica",
+"ottica/spettroscopia"
+],
+"epoca_relativa": 0,
+"estrazione": 5,
+"gancio": "Una diplomatica scopre di avere gli stessi formanti di una voce registrata in un archivio precedente alla sua nascita, che nessuno ammette di aver creato.",
+"id": "ELA-INV-0006",
+"nome": "Le Camere della Gola",
+"nome_reale": "Analisi dei formanti",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Ogni voce ha risonanze uniche come le righe spettrali di una stella; i monaci del vuoto catalogano i formanti dei coloni come si cataloga la luce, in cerca di un tipo spettrale della voce perfetta.",
+"universo": "elabverse"
+}

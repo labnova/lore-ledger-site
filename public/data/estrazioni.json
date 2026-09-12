@@ -256,5 +256,51 @@
 "NEO-PER-0019",
 "NEO-PER-0020"
 ]
+},
+{
+"bibbia_pescata": [],
+"campi_forzati": [],
+"canone_pescato": [],
+"chiavi": {
+"discipline": [
+{
+"macro": "acustica",
+"sotto": "fonetica"
+},
+{
+"macro": "ottica",
+"sotto": "spettroscopia"
+}
+],
+"universo": "elabverse"
+},
+"created": "2026-09-12",
+"esito": "ok",
+"espansioni": [],
+"estrazione": 5,
+"forzata": false,
+"lotto": "lotto-lore",
+"righe_prodotte": [
+"ELA-INV-0001",
+"ELA-INV-0002",
+"ELA-INV-0003",
+"ELA-INV-0004",
+"ELA-INV-0005",
+"ELA-INV-0006",
+"ELA-INV-0007",
+"ELA-INV-0008",
+"ELA-INV-0009",
+"ELA-INV-0010",
+"ELA-INV-0011",
+"ELA-INV-0012",
+"ELA-INV-0013",
+"ELA-INV-0014",
+"ELA-INV-0015",
+"ELA-INV-0016",
+"ELA-INV-0017",
+"ELA-INV-0018",
+"ELA-INV-0019",
+"ELA-INV-0020"
+]
 }
 ]

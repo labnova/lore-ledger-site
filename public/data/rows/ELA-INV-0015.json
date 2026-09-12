@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"acustica/fonetica",
+"ottica/spettroscopia"
+],
+"epoca_relativa": 0,
+"estrazione": 5,
+"gancio": "Un diplomatico riceve un messaggio di conforto con la voce del padre defunto e non riesce a smettere di chiedersi quale stella lo abbia firmato.",
+"id": "ELA-INV-0015",
+"nome": "La Maschera di Voce",
+"nome_reale": "Vocoder",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Scompone la voce in bande di frequenza per poi ricostruirla; a bordo lo usano per sintetizzare messaggi con la voce di naviganti morti, sovrapponendo alle bande vocali le righe spettrali della stella sotto cui sono morti.",
+"universo": "elabverse"
+}

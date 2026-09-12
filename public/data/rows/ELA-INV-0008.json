@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"acustica/fonetica",
+"ottica/spettroscopia"
+],
+"epoca_relativa": 0,
+"estrazione": 5,
+"gancio": "Un ingegnere di scafo nota che il dialetto dei nati in viaggio perde una vocale ogni generazione, misurabile come un isotopo.",
+"id": "ELA-INV-0008",
+"nome": "Bilancia delle Ombre",
+"nome_reale": "Spettrometro di massa",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Lo strumento pesa le molecole misurandone la deviazione in un campo magnetico; a bordo lo hanno riadattato per pesare le vocali di un dialetto e scoprire quali si stanno estinguendo.",
+"universo": "elabverse"
+}

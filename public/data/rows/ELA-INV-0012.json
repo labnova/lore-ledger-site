@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"acustica/fonetica",
+"ottica/spettroscopia"
+],
+"epoca_relativa": 0,
+"estrazione": 5,
+"gancio": "I coloni raccontano che un'eco è tornata con un colore che nessun materiale conosciuto dovrebbe produrre.",
+"id": "ELA-INV-0012",
+"nome": "L'Orecchio dello Scafo",
+"nome_reale": "Sonar",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Manda impulsi acustici per misurare distanze nel buio; sullo scafo lo hanno accoppiato a un sensore ottico che ne colora l'eco secondo lo spettro del materiale colpito, così il buio restituisce sia una forma sia un colore.",
+"universo": "elabverse"
+}

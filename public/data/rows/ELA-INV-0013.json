@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"acustica/fonetica",
+"ottica/spettroscopia"
+],
+"epoca_relativa": 0,
+"estrazione": 5,
+"gancio": "Filtrando un vecchio messaggio di emergenza, un archivista isola un fonema che si ripete esattamente al ritmo del battito cardiaco di chi lo pronunciava.",
+"id": "ELA-INV-0013",
+"nome": "Il Setaccio di Luce",
+"nome_reale": "Fotometria a banda stretta",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Filtra la luce di una stella in bande sottilissime per isolare un solo elemento chimico; i cartografi stellari usano lo stesso principio per filtrare una voce registrata e isolare un solo fonema ripetuto, cercando pattern nascosti.",
+"universo": "elabverse"
+}

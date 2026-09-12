@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"acustica/fonetica",
+"ottica/spettroscopia"
+],
+"epoca_relativa": 0,
+"estrazione": 5,
+"gancio": "Un diplomatico supera ogni interrogatorio finché qualcuno non confronta la sua voce con quella registrata all'imbarco, e le due onde non coincidono più.",
+"id": "ELA-INV-0009",
+"nome": "Lo Specchio Diviso",
+"nome_reale": "Interferometro di Michelson",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Divide un fascio di luce in due cammini per misurarne l'interferenza al ritorno; i cartografi stellari lo usano per confrontare due registrazioni della stessa voce a distanza di anni, cercando lo sfasamento che rivela la menzogna.",
+"universo": "elabverse"
+}

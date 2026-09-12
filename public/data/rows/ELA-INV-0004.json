@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"acustica/fonetica",
+"ottica/spettroscopia"
+],
+"epoca_relativa": 0,
+"estrazione": 5,
+"gancio": "Un derelitto trovato alla deriva porta incisa sullo scafo una trascrizione fonetica che nessun catalogo stellare riconosce.",
+"id": "ELA-INV-0004",
+"nome": "Cifrario delle Bocche",
+"nome_reale": "Alfabeto fonetico internazionale",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "I cartografi stellari hanno adattato l'alfabeto fonetico per trascrivere non le lingue umane ma il crepitio radio dei pulsar, sostenendo che ogni impulso sia una consonante di una grammatica cosmica.",
+"universo": "elabverse"
+}

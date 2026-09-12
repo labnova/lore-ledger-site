@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"acustica/fonetica",
+"ottica/spettroscopia"
+],
+"epoca_relativa": 0,
+"estrazione": 5,
+"gancio": "Un diplomatico rifiuta di riascoltare i propri messaggi di addio perché teme di sentirli già arrossati.",
+"id": "ELA-INV-0003",
+"nome": "Il Rosso della Voce",
+"nome_reale": "Traslazione doppler vocale",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Sulle navi che accelerano a lungo, le voci registrate si spostano verso il grave come una stella che si allontana, e i monaci del vuoto misurano la fede di un equipaggio dal suo arrossamento collettivo.",
+"universo": "elabverse"
+}

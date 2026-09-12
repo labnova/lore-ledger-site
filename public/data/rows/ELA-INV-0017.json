@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"acustica/fonetica",
+"ottica/spettroscopia"
+],
+"epoca_relativa": 0,
+"estrazione": 5,
+"gancio": "Un messaggio dei derelitti resta indecifrabile finché qualcuno non nota che la chiave cambia ogni notte con la costellazione visibile dal boccaporto.",
+"id": "ELA-INV-0017",
+"nome": "Il Dialetto Cifrato",
+"nome_reale": "Cifrario fonetico per sostituzione",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Sostituisce suoni con altri suoni secondo una chiave; i derelitti di scafo lo hanno fuso con le righe spettrali delle stelle di rotta, così che ogni consonante cifrata corrisponde a un elemento chimico osservato quella notte, illeggibile senza il cielo giusto.",
+"universo": "elabverse"
+}

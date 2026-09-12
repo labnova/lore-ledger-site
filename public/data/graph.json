@@ -478,6 +478,126 @@
 ],
 "nodes": [
 {
+"id": "ELA-INV-0001",
+"tipo": "invenzione",
+"titolo": "Lettura delle Righe Nere",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0002",
+"tipo": "invenzione",
+"titolo": "Ritratto di Voce",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0003",
+"tipo": "invenzione",
+"titolo": "Il Rosso della Voce",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0004",
+"tipo": "invenzione",
+"titolo": "Cifrario delle Bocche",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0005",
+"tipo": "invenzione",
+"titolo": "Eco della Materia",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0006",
+"tipo": "invenzione",
+"titolo": "Le Camere della Gola",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0007",
+"tipo": "invenzione",
+"titolo": "Le Assenze di Fraunhofer",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0008",
+"tipo": "invenzione",
+"titolo": "Bilancia delle Ombre",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0009",
+"tipo": "invenzione",
+"titolo": "Lo Specchio Diviso",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0010",
+"tipo": "invenzione",
+"titolo": "La Tavola dei Timbri",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0011",
+"tipo": "invenzione",
+"titolo": "Il Canto che Sfugge",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0012",
+"tipo": "invenzione",
+"titolo": "L'Orecchio dello Scafo",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0013",
+"tipo": "invenzione",
+"titolo": "Il Setaccio di Luce",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0014",
+"tipo": "invenzione",
+"titolo": "La Lama di Vetro",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0015",
+"tipo": "invenzione",
+"titolo": "La Maschera di Voce",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0016",
+"tipo": "invenzione",
+"titolo": "Il Calore che Parla",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0017",
+"tipo": "invenzione",
+"titolo": "Il Dialetto Cifrato",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0018",
+"tipo": "invenzione",
+"titolo": "La Scrittura Rapida delle Stelle",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0019",
+"tipo": "invenzione",
+"titolo": "Lo Specchio della Roccia",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0020",
+"tipo": "invenzione",
+"titolo": "La Voce Ricostruita",
+"universo": "elabverse"
+},
+{
 "id": "NEO-GAD-0001",
 "tipo": "gadget",
 "titolo": "Sacchetto di Juma",

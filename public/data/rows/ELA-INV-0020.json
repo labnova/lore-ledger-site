@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"acustica/fonetica",
+"ottica/spettroscopia"
+],
+"epoca_relativa": 0,
+"estrazione": 5,
+"gancio": "Un colono chiede ai monaci di far parlare la stella sotto cui è nato suo figlio, e non gli piace ciò che sente.",
+"id": "ELA-INV-0020",
+"nome": "La Voce Ricostruita",
+"nome_reale": "Sintesi vocale a formanti",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Ricrea la voce umana sommando formanti sintetici; i monaci del vuoto la usano per far parlare lo spettro di una stella, traducendone le righe di assorbimento in una voce sintetica che pronuncia l'ultima frase di chi è morto sotto quella luce.",
+"universo": "elabverse"
+}

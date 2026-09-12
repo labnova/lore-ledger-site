@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"acustica/fonetica",
+"ottica/spettroscopia"
+],
+"epoca_relativa": 0,
+"estrazione": 5,
+"gancio": "Un ingegnere di scafo cataloga da mesi gli spettri infrarossi lasciati dalle urla d'allarme, convinto che formino un alfabeto di emergenza.",
+"id": "ELA-INV-0016",
+"nome": "Il Calore che Parla",
+"nome_reale": "Spettroscopia infrarossa",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Rivela legami molecolari tramite la luce infrarossa invisibile; i coloni hanno scoperto che il calore residuo lasciato da una voce urlata contro uno scafo gelato, letto in infrarosso, disegna uno spettro tanto regolare da sembrare linguaggio.",
+"universo": "elabverse"
+}

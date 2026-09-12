@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"acustica/fonetica",
+"ottica/spettroscopia"
+],
+"epoca_relativa": 0,
+"estrazione": 5,
+"gancio": "Gli ingegneri di scafo giurano di riconoscere un giacimento dal canto del suo spettro prima ancora di analizzarlo.",
+"id": "ELA-INV-0005",
+"nome": "Eco della Materia",
+"nome_reale": "Spettroscopia Raman",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La tecnica rivela la composizione chimica di una superficie dal modo in cui la luce vi rimbalza cambiando colore; a bordo la usano per ascoltare il colore dei minerali come se ogni molecola avesse un timbro di voce.",
+"universo": "elabverse"
+}

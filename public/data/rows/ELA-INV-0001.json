@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"acustica/fonetica",
+"ottica/spettroscopia"
+],
+"epoca_relativa": 0,
+"estrazione": 5,
+"gancio": "Gli archivisti del convoglio traducono da trent'anni un unico messaggio stellare senza mai arrivare alla fine della frase.",
+"id": "ELA-INV-0001",
+"nome": "Lettura delle Righe Nere",
+"nome_reale": "Spettrografia ad assorbimento",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il vuoto tra le stelle non è silenzio ma sintassi: ogni riga di assorbimento nello spettro stellare corrisponde a un fonema di una lingua che nessuno ha mai parlato ad alta voce.",
+"universo": "elabverse"
+}

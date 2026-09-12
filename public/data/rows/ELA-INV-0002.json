@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"acustica/fonetica",
+"ottica/spettroscopia"
+],
+"epoca_relativa": 0,
+"estrazione": 5,
+"gancio": "Un ingegnere di scafo scopre che il proprio sonogramma coincide con una stella la cui luce ha impiegato quattrocento anni ad arrivare.",
+"id": "ELA-INV-0002",
+"nome": "Ritratto di Voce",
+"nome_reale": "Sonogramma vocale",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Ogni sonogramma registrato a bordo viene sovrapposto allo spettro di una stella catalogata, e i naviganti giurano che le voci più amate coincidono sempre con stelle già spente.",
+"universo": "elabverse"
+}

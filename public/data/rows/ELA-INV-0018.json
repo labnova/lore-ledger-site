@@ -1,0 +1,22 @@
+{
+"created": "2026-09-12",
+"discipline": [
+"acustica/fonetica",
+"ottica/spettroscopia"
+],
+"epoca_relativa": 0,
+"estrazione": 5,
+"gancio": "Un archivista scopre che l'ultima sillaba trasmessa dalla nave madre, mai decifrata, corrisponde esattamente allo spettro di una supernova mai osservata prima.",
+"id": "ELA-INV-0018",
+"nome": "La Scrittura Rapida delle Stelle",
+"nome_reale": "Stenografia",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La stenografia comprime il parlato in simboli veloci; gli archivisti hanno creato una stenografia stellare che comprime lo spettro di un'intera notte di osservazione in un'unica sillaba cifrata, per risparmiare tempo di trasmissione.",
+"universo": "elabverse"
+}
