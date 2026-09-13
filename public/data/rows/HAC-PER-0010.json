@@ -1,0 +1,35 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "single"
+},
+"appare_in": [],
+"casta": "broker_di_dati",
+"ceppo": "basco",
+"cognome": "Otxobelauria",
+"contraddizione": "Come funzionario del culto crede davvero che ogni dato tornerà un giorno a chi appartiene, ed è generoso nel ridistribuire parte dei guadagni ai suoi contatti; ma è sordo a chiunque gli suggerisca che vendere quei dati oggi è l'esatto opposto di restituirli.",
+"created": "2026-09-13",
+"difetto": "sordo_ai_consigli",
+"epoca_relativa": 0,
+"estrazione": 32,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Ha promesso pubblicamente, nel suo tempio, che il lotto di Goccia Cieca sarà \"l'ultimo\", la stessa promessa che ha già fatto tre volte quest'anno.",
+"id": "HAC-PER-0010",
+"invenzione_id": "HAC-INV-0001",
+"nome": "Xabier",
+"parent_id": null,
+"rapporto": "vende",
+"regione": "HAC-REG-tallinn",
+"relazione": null,
+"schema_version": 1,
+"segno": "scorpione",
+"spirituale": {
+"credenza": "ciclo del ritorno",
+"rapporto": "funzionario_del_culto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "generoso",
+"universo": "hackverse"
+}

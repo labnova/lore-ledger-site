@@ -101,6 +101,21 @@
 "to": "HAC-INV-0043"
 },
 {
+"from": "HAC-INV-0002",
+"kind": "parent",
+"to": "HAC-INV-0044"
+},
+{
+"from": "HAC-INV-0034",
+"kind": "parent",
+"to": "HAC-INV-0045"
+},
+{
+"from": "HAC-INV-0020",
+"kind": "parent",
+"to": "HAC-INV-0046"
+},
+{
 "from": "NEO-INV-0001",
 "kind": "regione",
 "to": "NEO-REG-calvenna"
@@ -474,6 +489,106 @@
 "from": "ELA-PER-0011",
 "kind": "regione",
 "to": "ELA-REG-konya"
+},
+{
+"from": "HAC-PER-0001",
+"kind": "invenzione",
+"to": "HAC-INV-0001"
+},
+{
+"from": "HAC-PER-0001",
+"kind": "regione",
+"to": "HAC-REG-tallinn"
+},
+{
+"from": "HAC-PER-0002",
+"kind": "invenzione",
+"to": "HAC-INV-0001"
+},
+{
+"from": "HAC-PER-0002",
+"kind": "regione",
+"to": "HAC-REG-tallinn"
+},
+{
+"from": "HAC-PER-0003",
+"kind": "invenzione",
+"to": "HAC-INV-0001"
+},
+{
+"from": "HAC-PER-0003",
+"kind": "regione",
+"to": "HAC-REG-tallinn"
+},
+{
+"from": "HAC-PER-0004",
+"kind": "invenzione",
+"to": "HAC-INV-0001"
+},
+{
+"from": "HAC-PER-0004",
+"kind": "regione",
+"to": "HAC-REG-tallinn"
+},
+{
+"from": "HAC-PER-0005",
+"kind": "invenzione",
+"to": "HAC-INV-0001"
+},
+{
+"from": "HAC-PER-0005",
+"kind": "regione",
+"to": "HAC-REG-tallinn"
+},
+{
+"from": "HAC-PER-0006",
+"kind": "invenzione",
+"to": "HAC-INV-0001"
+},
+{
+"from": "HAC-PER-0006",
+"kind": "regione",
+"to": "HAC-REG-tallinn"
+},
+{
+"from": "HAC-PER-0007",
+"kind": "invenzione",
+"to": "HAC-INV-0001"
+},
+{
+"from": "HAC-PER-0007",
+"kind": "regione",
+"to": "HAC-REG-tallinn"
+},
+{
+"from": "HAC-PER-0008",
+"kind": "invenzione",
+"to": "HAC-INV-0001"
+},
+{
+"from": "HAC-PER-0008",
+"kind": "regione",
+"to": "HAC-REG-tallinn"
+},
+{
+"from": "HAC-PER-0009",
+"kind": "invenzione",
+"to": "HAC-INV-0001"
+},
+{
+"from": "HAC-PER-0009",
+"kind": "regione",
+"to": "HAC-REG-tallinn"
+},
+{
+"from": "HAC-PER-0010",
+"kind": "invenzione",
+"to": "HAC-INV-0001"
+},
+{
+"from": "HAC-PER-0010",
+"kind": "regione",
+"to": "HAC-REG-tallinn"
 },
 {
 "from": "NEO-PER-0001",
@@ -3403,6 +3518,90 @@
 "id": "HAC-INV-0043",
 "tipo": "invenzione",
 "titolo": "Il Campo Che Non Si Ferma Mai",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0044",
+"tipo": "invenzione",
+"titolo": "Il Listino delle Marze",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0045",
+"tipo": "invenzione",
+"titolo": "Taratura in Abbonamento",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0046",
+"tipo": "invenzione",
+"titolo": "La Mappa dei Corpi Caldi",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0001",
+"tipo": "personaggio",
+"titolo": "Misaki Ikaguchi",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0002",
+"tipo": "personaggio",
+"titolo": "Vladimir Kovač",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0003",
+"tipo": "personaggio",
+"titolo": "Bashir Radani",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0004",
+"tipo": "personaggio",
+"titolo": "Elif Makamilil",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0005",
+"tipo": "personaggio",
+"titolo": "Signe Holdesen",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0006",
+"tipo": "personaggio",
+"titolo": "Balázs Tamabossy",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0007",
+"tipo": "personaggio",
+"titolo": "Burak Avcı",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0008",
+"tipo": "personaggio",
+"titolo": "Nyota Seremala",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0009",
+"tipo": "personaggio",
+"titolo": "Otto Falkeringhardt",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0010",
+"tipo": "personaggio",
+"titolo": "Xabier Otxobelauria",
+"universo": "hackverse"
+},
+{
+"id": "HAC-REG-tallinn",
+"tipo": "regione",
+"titolo": "Tallinn",
 "universo": "hackverse"
 },
 {

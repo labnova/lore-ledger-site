@@ -1,0 +1,24 @@
+{
+"appare_in": [],
+"created": "2026-09-13",
+"discipline": [
+"agricoltura/irrigazione",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 1,
+"estrazione": 32,
+"fatti": [],
+"gancio": "Un tecnico di laboratorio nota che due cliniche in città diverse hanno scartato lo stesso donatore nello stesso minuto, prima ancora che l'ospedale comunichi l'esito.",
+"id": "HAC-INV-0044",
+"nome": "Il Listino delle Marze",
+"nome_reale": "Rivendita del dataset di compatibilità marza-organo a cliniche di trapianto non accreditate",
+"parent_id": "HAC-INV-0002",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Un broker copia il database di compatibilità immunologica del software di innesto agricolo e lo rivende, etichettato come \"dataset botanico anonimo\", a una rete di cliniche private senza accesso ai registri ufficiali dei trapianti.",
+"universo": "hackverse"
+}

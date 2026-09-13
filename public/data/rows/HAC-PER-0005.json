@@ -1,0 +1,35 @@
+{
+"affettivo": {
+"orientamento": "pansessuale",
+"situazione": "separato"
+},
+"appare_in": [],
+"casta": "broker_di_dati",
+"ceppo": "scandinavo",
+"cognome": "Holdesen",
+"contraddizione": "Il coraggio che un tempo la spingeva a esporre pubblicamente i dati sporchi dei concorrenti ora lo usa, in modo incostante, per truccare i propri log quando un lotto va male.",
+"created": "2026-09-13",
+"difetto": "incostante",
+"epoca_relativa": 0,
+"estrazione": 32,
+"eta_fascia": "anziano",
+"fatti": [],
+"gancio": "Un giovane broker le chiede di insegnargli a \"essere coraggiosi come lei una volta\", proprio mentre Signe sta finendo di falsificare l'ultimo timestamp della notte.",
+"id": "HAC-PER-0005",
+"invenzione_id": "HAC-INV-0001",
+"nome": "Signe",
+"parent_id": null,
+"rapporto": "falsifica",
+"regione": "HAC-REG-tallinn",
+"relazione": null,
+"schema_version": 1,
+"segno": "cancro",
+"spirituale": {
+"credenza": "la voce nella rete",
+"rapporto": "praticante_tiepido"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "coraggioso",
+"universo": "hackverse"
+}

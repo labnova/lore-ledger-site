@@ -1,0 +1,35 @@
+{
+"affettivo": {
+"orientamento": "pansessuale",
+"situazione": "single"
+},
+"appare_in": [],
+"casta": "broker_di_dati",
+"ceppo": "giapponese",
+"cognome": "Ikaguchi",
+"contraddizione": "Crede che le stelle siano l'unico registro che nessuno può falsificare, eppure passa le notti a Tallinn a corrompere quello dei perfusori d'organo per rivenderne l'ordine di priorità.",
+"created": "2026-09-13",
+"difetto": "avaro",
+"epoca_relativa": 0,
+"estrazione": 32,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Ha iniziato a tenere un secondo quaderno, scritto a mano, dove annota le posizioni astrali di ogni transazione, come se qualcosa lassù dovesse un giorno chiederle i conti.",
+"id": "HAC-PER-0001",
+"invenzione_id": "HAC-INV-0001",
+"nome": "Misaki",
+"parent_id": null,
+"rapporto": "usa",
+"regione": "HAC-REG-tallinn",
+"relazione": null,
+"schema_version": 1,
+"segno": "gemelli",
+"spirituale": {
+"credenza": "le stelle come registro",
+"rapporto": "devoto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ambizioso",
+"universo": "hackverse"
+}

@@ -1,0 +1,35 @@
+{
+"affettivo": {
+"orientamento": "omosessuale",
+"situazione": "poliamoroso"
+},
+"appare_in": [],
+"casta": "broker_di_dati",
+"ceppo": "magiaro",
+"cognome": "Tamabossy",
+"contraddizione": "È il più inventivo del giro nel trovare nuovi usi per i log rubati, ma l'invidia per chi ha scoperto per primo il canale tra le valvole e i perfusori gli impedisce di ammettere che sta solo copiando l'idea di un altro.",
+"created": "2026-09-13",
+"difetto": "invidioso",
+"epoca_relativa": 0,
+"estrazione": 32,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "Sta preparando una variante del lotto Goccia Cieca da presentare come sua, e ha già scelto a chi venderla per primo pur di battere sul tempo chi l'ha ispirato.",
+"id": "HAC-PER-0006",
+"invenzione_id": "HAC-INV-0001",
+"nome": "Balázs",
+"parent_id": null,
+"rapporto": "studia",
+"regione": "HAC-REG-tallinn",
+"relazione": null,
+"schema_version": 1,
+"segno": "ariete",
+"spirituale": {
+"credenza": "il cielo amministrato",
+"rapporto": "praticante_tiepido"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "inventivo",
+"universo": "hackverse"
+}

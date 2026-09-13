@@ -1,0 +1,24 @@
+{
+"appare_in": [],
+"created": "2026-09-13",
+"discipline": [
+"agricoltura/irrigazione",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 1,
+"estrazione": 32,
+"fatti": [],
+"gancio": "Un broker si accorge che le coordinate più richieste del suo listino coincidono sempre con i parcheggi degli ospedali che hanno appena dichiarato la lista d'attesa piena.",
+"id": "HAC-INV-0046",
+"nome": "La Mappa dei Corpi Caldi",
+"nome_reale": "Aggregazione dei log di volo notturno dei droni agricoli in una mappa di domanda di trapianto fuori rete",
+"parent_id": "HAC-INV-0020",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "I log dei droni agricoli, che segnano ogni corpo caldo rilevato di notte, vengono aggregati e rivenduti come mappa della domanda di trapianto fuori rete a chi vuole saltare la lista d'attesa, trasformando un dato agricolo in un indice di disperazione.",
+"universo": "hackverse"
+}

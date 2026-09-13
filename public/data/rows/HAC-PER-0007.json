@@ -1,0 +1,32 @@
+{
+"affettivo": null,
+"appare_in": [],
+"casta": "broker_di_dati",
+"ceppo": "turco",
+"cognome": "Avcı",
+"contraddizione": "Ha scritto con precisione quasi ossessiva lo script che aggancia le valvole ai perfusori, ma la sua vanità lo spinge a vantarsene nei forum con dettagli sufficienti a farlo tracciare.",
+"created": "2026-09-13",
+"difetto": "vanitoso",
+"epoca_relativa": 0,
+"estrazione": 32,
+"eta_fascia": "adolescente",
+"fatti": [],
+"gancio": "Un moderatore anonimo gli scrive in privato una sola riga, con lo stesso timestamp del suo primo commit, per dirgli di cancellare tutto prima che sia troppo tardi.",
+"id": "HAC-PER-0007",
+"invenzione_id": "HAC-INV-0001",
+"nome": "Burak",
+"parent_id": null,
+"rapporto": "costruita",
+"regione": "HAC-REG-tallinn",
+"relazione": null,
+"schema_version": 1,
+"segno": "pesci",
+"spirituale": {
+"credenza": "il crollo come giudizio",
+"rapporto": "praticante_tiepido"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "rigoroso",
+"universo": "hackverse"
+}

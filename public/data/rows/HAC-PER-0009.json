@@ -1,0 +1,32 @@
+{
+"affettivo": null,
+"appare_in": [],
+"casta": "broker_di_dati",
+"ceppo": "germanico",
+"cognome": "Falkeringhardt",
+"contraddizione": "È ambizioso quanto un adulto del giro, ma la sua invidia verso i broker che si prendono il merito del suo codice lo rende disposto a passare le chiavi del sistema a chiunque prometta di riconoscerlo per primo.",
+"created": "2026-09-13",
+"difetto": "invidioso",
+"epoca_relativa": 0,
+"estrazione": 32,
+"eta_fascia": "bambino",
+"fatti": [],
+"gancio": "Ha già mandato lo schema del ponte tra le valvole e i perfusori a uno sconosciuto in chat, solo perché quello gli ha detto \"sei stato tu, vero, il vero autore\".",
+"id": "HAC-PER-0009",
+"invenzione_id": "HAC-INV-0001",
+"nome": "Otto",
+"parent_id": null,
+"rapporto": "costruita",
+"regione": "HAC-REG-tallinn",
+"relazione": null,
+"schema_version": 1,
+"segno": "vergine",
+"spirituale": {
+"credenza": "le macchine sognano",
+"rapporto": "eretico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ambizioso",
+"universo": "hackverse"
+}

@@ -1,0 +1,24 @@
+{
+"appare_in": [],
+"created": "2026-09-13",
+"discipline": [
+"moda/cosmesi",
+"ottica/lenti"
+],
+"epoca_relativa": 1,
+"estrazione": 32,
+"fatti": [],
+"gancio": "Un analista scopre che l'elenco dei \"modelli calibrati\" di un solo abbonato coincide, telecamera per telecamera, con il perimetro di sicurezza di un unico edificio.",
+"id": "HAC-INV-0045",
+"nome": "Taratura in Abbonamento",
+"nome_reale": "Servizio di abbonamento per pattern di trucco a bande calibrati sul modello di telecamera del cliente",
+"parent_id": "HAC-INV-0034",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il trucco a tre fuochi funziona solo se calibrato sul modello esatto della telecamera da eludere, così il venditore lo trasforma in un abbonamento che si aggiorna a ogni cambio di bersaglio, e il registro degli aggiornamenti finisce per rivelare esattamente quali telecamere il cliente sta evitando.",
+"universo": "hackverse"
+}

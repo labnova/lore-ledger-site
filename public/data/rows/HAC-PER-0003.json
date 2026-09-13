@@ -1,0 +1,35 @@
+{
+"affettivo": {
+"orientamento": "omosessuale",
+"situazione": "relazione_segreta"
+},
+"appare_in": [],
+"casta": "broker_di_dati",
+"ceppo": "arabo",
+"cognome": "Radani",
+"contraddizione": "È meticoloso fino all'ossessione nel tracciare ogni transazione del suo listino, ma ha ignorato tre avvisi di fila di chi gli diceva che il lotto agricolo-chirurgico di Goccia Cieca era già bruciato altrove.",
+"created": "2026-09-13",
+"difetto": "sordo_ai_consigli",
+"epoca_relativa": 0,
+"estrazione": 32,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "Solo il suo compagno segreto sa che Bashir ha continuato a vendere quel lotto anche dopo il terzo avviso, e ora è l'unico che potrebbe denunciarlo.",
+"id": "HAC-PER-0003",
+"invenzione_id": "HAC-INV-0001",
+"nome": "Bashir",
+"parent_id": null,
+"rapporto": "teme",
+"regione": "HAC-REG-tallinn",
+"relazione": null,
+"schema_version": 1,
+"segno": "toro",
+"spirituale": {
+"credenza": "dottrina del debito",
+"rapporto": "eretico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "meticoloso",
+"universo": "hackverse"
+}

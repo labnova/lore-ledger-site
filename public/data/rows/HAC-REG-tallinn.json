@@ -1,0 +1,20 @@
+{
+"appare_in": [],
+"ceppo_dominante": null,
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 32,
+"fatti": [],
+"id": "HAC-REG-tallinn",
+"nome": "Tallinn",
+"note": "Hub baltico dell'e-residency e dei registri digitali statali, attira broker di dati da ogni continente: nessun ceppo prevale, i cognomi restano quelli d'origine perché qui si arriva già adulti, con una identità digitale costruita altrove.",
+"onomastica": "totale",
+"p_cognome_mestiere": 0.18,
+"parent_id": null,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "regione",
+"universo": "hackverse"
+}

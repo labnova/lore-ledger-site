@@ -1,0 +1,35 @@
+{
+"affettivo": {
+"orientamento": "pansessuale",
+"situazione": "vedovo"
+},
+"appare_in": [],
+"casta": "broker_di_dati",
+"ceppo": "swahili",
+"cognome": "Seremala",
+"contraddizione": "Dice di non credere in nulla tranne i registri, ma è sognatrice al punto da inventarsi una storia per ogni riga anonima di dati che maneggia, incapace di trattarle come i semplici numeri che professa di rispettare.",
+"created": "2026-09-13",
+"difetto": "goloso",
+"epoca_relativa": 0,
+"estrazione": 32,
+"eta_fascia": "adulto",
+"fatti": [],
+"gancio": "Ha iniziato a rifiutare i lotti in cui riconosce, dai pattern delle valvole, la stessa storia che si era immaginata per un cliente scomparso il mese prima.",
+"id": "HAC-PER-0008",
+"invenzione_id": "HAC-INV-0001",
+"nome": "Nyota",
+"parent_id": null,
+"rapporto": "teme",
+"regione": "HAC-REG-tallinn",
+"relazione": null,
+"schema_version": 1,
+"segno": "acquario",
+"spirituale": {
+"credenza": "nessun dio, solo registri",
+"rapporto": "praticante_tiepido"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "sognatore",
+"universo": "hackverse"
+}

@@ -1,0 +1,35 @@
+{
+"affettivo": {
+"orientamento": "pansessuale",
+"situazione": "sposato"
+},
+"appare_in": [],
+"casta": "broker_di_dati",
+"ceppo": "slavo",
+"cognome": "Kovač",
+"contraddizione": "Pretende contratti rigorosi e clausole verificabili da ogni cliente che compra i suoi dataset, ma non ha mai chiesto una volta da quale valvola o da quale sala operatoria arrivino davvero i log che rivende.",
+"created": "2026-09-13",
+"difetto": "avaro",
+"epoca_relativa": 0,
+"estrazione": 32,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "Quando un cliente gli chiede la provenienza esatta del lotto di Goccia Cieca, per la prima volta in anni Vladimir non ha una risposta pronta.",
+"id": "HAC-PER-0002",
+"invenzione_id": "HAC-INV-0001",
+"nome": "Vladimir",
+"parent_id": null,
+"rapporto": "teme",
+"regione": "HAC-REG-tallinn",
+"relazione": null,
+"schema_version": 1,
+"segno": "bilancia",
+"spirituale": {
+"credenza": "il cielo amministrato",
+"rapporto": "apostata"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "rigoroso",
+"universo": "hackverse"
+}

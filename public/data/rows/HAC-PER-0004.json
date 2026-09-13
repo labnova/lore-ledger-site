@@ -1,0 +1,35 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "sposato"
+},
+"appare_in": [],
+"casta": "broker_di_dati",
+"ceppo": "ibrido",
+"cognome": "Makamilil",
+"contraddizione": "Ha scritto lei stessa il ponte che collega le valvole del canale ai perfusori, devota al proprio lavoro come a un culto, ma è troppo incostante nel manutenerlo perché nessuno, incluso lei, sappia più chi lo stia usando adesso.",
+"created": "2026-09-13",
+"difetto": "incostante",
+"epoca_relativa": 0,
+"estrazione": 32,
+"eta_fascia": "adulto",
+"fatti": [],
+"gancio": "Un giorno apre il log delle modifiche e trova una patch che non ha scritto lei, ma firmata con il suo stesso stile di codice.",
+"id": "HAC-PER-0004",
+"invenzione_id": "HAC-INV-0001",
+"nome": "Elif",
+"parent_id": null,
+"rapporto": "costruita",
+"regione": "HAC-REG-tallinn",
+"relazione": null,
+"schema_version": 1,
+"segno": "capricorno",
+"spirituale": {
+"credenza": "la voce nella rete",
+"rapporto": "apostata"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "devoto_al_lavoro",
+"universo": "hackverse"
+}

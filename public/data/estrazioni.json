@@ -1471,5 +1471,117 @@
 "ELA-SEM-0001",
 "NEO-SEM-0003"
 ]
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"HAC-INV-0002",
+"HAC-INV-0034",
+"HAC-INV-0020"
+],
+"chiavi": {
+"casta": "broker_di_dati",
+"invenzione_id": "HAC-INV-0001",
+"regione": "HAC-REG-tallinn",
+"universo": "hackverse"
+},
+"created": "2026-09-13",
+"esito": "ok",
+"espansioni": [
+{
+"id": "HAC-INV-0044",
+"parent_id": "HAC-INV-0002"
+},
+{
+"id": "HAC-INV-0045",
+"parent_id": "HAC-INV-0034"
+},
+{
+"id": "HAC-INV-0046",
+"parent_id": "HAC-INV-0020"
+}
+],
+"estrazione": 32,
+"forzata": false,
+"lotto": "lotto-personaggi",
+"modello": "claude-sonnet-5",
+"personaggi": [
+{
+"ceppo": "giapponese",
+"cognome": "Ikaguchi",
+"n": 1,
+"nome": "Misaki"
+},
+{
+"ceppo": "slavo",
+"cognome": "Kovač",
+"n": 2,
+"nome": "Vladimir"
+},
+{
+"ceppo": "arabo",
+"cognome": "Radani",
+"n": 3,
+"nome": "Bashir"
+},
+{
+"ceppo": "ibrido",
+"cognome": "Makamilil",
+"n": 4,
+"nome": "Elif"
+},
+{
+"ceppo": "scandinavo",
+"cognome": "Holdesen",
+"n": 5,
+"nome": "Signe"
+},
+{
+"ceppo": "magiaro",
+"cognome": "Tamabossy",
+"n": 6,
+"nome": "Balázs"
+},
+{
+"ceppo": "turco",
+"cognome": "Avcı",
+"n": 7,
+"nome": "Burak"
+},
+{
+"ceppo": "swahili",
+"cognome": "Seremala",
+"n": 8,
+"nome": "Nyota"
+},
+{
+"ceppo": "germanico",
+"cognome": "Falkeringhardt",
+"n": 9,
+"nome": "Otto"
+},
+{
+"ceppo": "basco",
+"cognome": "Otxobelauria",
+"n": 10,
+"nome": "Xabier"
+}
+],
+"righe_prodotte": [
+"HAC-REG-tallinn",
+"HAC-PER-0001",
+"HAC-PER-0002",
+"HAC-PER-0003",
+"HAC-PER-0004",
+"HAC-PER-0005",
+"HAC-PER-0006",
+"HAC-PER-0007",
+"HAC-PER-0008",
+"HAC-PER-0009",
+"HAC-PER-0010",
+"HAC-INV-0044",
+"HAC-INV-0045",
+"HAC-INV-0046"
+]
 }
 ]
