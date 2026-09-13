@@ -1,7 +1,14 @@
 import { describe, expect, it } from 'vitest';
 import {
   FILTRO_VUOTO,
+  TRONCA,
   chiaviPiatte,
+  chiaviRiga,
+  raggruppaPerEstrazione,
+  raggruppaPerTipo,
+  testataEstrazione,
+  testoCard,
+  tronca,
   filterFeed,
   parseEstrazioni,
   parseGraph,
@@ -224,6 +231,107 @@ describe('madre e figlie', () => {
     );
     expect(resolveRegione({ universo: 'cyberverse', regione: 'Calvenna' }, INDEX)).toBeNull();
     expect(resolveRegione({ universo: 'neofeudal', regione: null }, INDEX)).toBeNull();
+  });
+});
+
+describe('vista per estrazione', () => {
+  it('raggruppa per estrazione, dalla più recente, con righe di tipo diverso dentro per tipo', () => {
+    const g = raggruppaPerEstrazione(INDEX);
+    expect(g.map((x) => x.n)).toEqual([6, 4, 3, 2, 1, 0]);
+    const e1 = g.find((x) => x.n === 1)!;
+    expect(e1.righe.length).toBe(2);
+    expect(e1.perTipo.map((p) => p.tipo)).toEqual(['invenzione']);
+    const misto = raggruppaPerEstrazione([
+      entry({ id: 'X-REG-a', tipo: 'regione', estrazione: 9, titolo: 'A' }),
+      entry({ id: 'X-PER-0001', tipo: 'personaggio', estrazione: 9 }),
+      entry({ id: 'X-GAD-0001', tipo: 'gadget', estrazione: 9 }),
+      entry({ id: 'X-PER-0002', tipo: 'personaggio', estrazione: 9 }),
+      entry({ id: 'X-INV-0001', estrazione: 8 }),
+    ]);
+    expect(misto.map((x) => x.n)).toEqual([9, 8]);
+    expect(misto[0].perTipo.map((p) => [p.tipo, p.righe.length])).toEqual([
+      ['personaggio', 2],
+      ['gadget', 1],
+      ['regione', 1],
+    ]);
+    expect(raggruppaPerTipo([])).toEqual([]);
+  });
+
+  it('costruisce la testata: universo, regione (per id o nome), invenzione madre', () => {
+    const e = parseEstrazioni([
+      {
+        estrazione: 4,
+        chiavi: { universo: 'neofeudal', regione: 'NEO-REG-calvenna', invenzione_id: 'NEO-INV-0001', casta: 'clero' },
+      },
+      { estrazione: 5, chiavi: { universo: 'neofeudal', regione: 'Calvenna' } },
+      { estrazione: 6, chiavi: { universo: 'marte', regione: 'Altrove', invenzione_id: 'X' } },
+    ]);
+    const t4 = testataEstrazione(e[2], INDEX);
+    expect(t4.universo).toBe('neofeudal');
+    expect(t4.regione?.id).toBe('NEO-REG-calvenna');
+    expect(t4.regioneNome).toBe('Calvenna');
+    expect(t4.invenzione?.titolo).toBe('Giudizio dei Galli');
+    expect(testataEstrazione(e[1], INDEX).regione?.id).toBe('NEO-REG-calvenna');
+    const t6 = testataEstrazione(e[0], INDEX);
+    expect(t6.universo).toBeNull();
+    expect(t6.regione).toBeNull();
+    expect(t6.regioneNome).toBe('Altrove');
+    expect(t6.invenzione).toBeNull();
+  });
+});
+
+describe('chiavi in chiaro e testi della card', () => {
+  const base = {
+    id: 'NEO-INV-0001',
+    universo: 'neofeudal',
+    estrazione: 1,
+    created: '2026-09-12',
+    parent_id: null,
+    relazione: null,
+    epoca_relativa: 0,
+    regione: null,
+    status: 'canon',
+  } as const;
+
+  it('mostra le chiavi solo se i campi ci sono', () => {
+    expect(chiaviRiga(parseRow({ ...base, tipo: 'invenzione', discipline: ['idraulica', 'funerario'] })!)).toBe(
+      'idraulica × funerario',
+    );
+    expect(chiaviRiga(parseRow({ ...base, tipo: 'invenzione' })!)).toBeNull();
+    expect(
+      chiaviRiga(
+        parseRow({ ...base, tipo: 'personaggio', casta: 'clero', segno: 'zoppo', tratto: 'mite', difetto: 'avaro' })!,
+      ),
+    ).toBe('clero · zoppo · mite · avaro');
+    expect(chiaviRiga(parseRow({ ...base, tipo: 'personaggio', casta: 'clero', difetto: 'avaro' })!)).toBe(
+      'clero · avaro',
+    );
+    expect(chiaviRiga(parseRow({ ...base, tipo: 'personaggio', casta: '' })!)).toBeNull();
+    expect(chiaviRiga(parseRow({ ...base, tipo: 'gadget', chi_lo_porta: 'Juma, alla cintola.' })!)).toBe(
+      'Juma, alla cintola.',
+    );
+    expect(chiaviRiga(parseRow({ ...base, tipo: 'gadget' })!)).toBeNull();
+    expect(
+      chiaviRiga(parseRow({ ...base, tipo: 'contenuto', medium: 'audio', canale: 'radio_libera', formato: 'podcast_3min' })!),
+    ).toBe('audio · radio_libera · podcast_3min');
+    expect(chiaviRiga(parseRow({ ...base, tipo: 'contenuto', medium: 'audio' })!)).toBe('audio');
+    expect(chiaviRiga(parseRow({ ...base, tipo: 'regione', nome: 'Calvenna' })!)).toBeNull();
+  });
+
+  it('non tronca mai il gancio e tronca il secondario a 160', () => {
+    const lungo = 'g'.repeat(400);
+    const torsione = 't'.repeat(400);
+    const t = testoCard(parseRow({ ...base, tipo: 'invenzione', gancio: lungo, torsione })!);
+    expect(t.gancio).toBe(lungo);
+    expect(t.gancio!.length).toBe(400);
+    expect(t.secondario!.length).toBe(TRONCA);
+    expect(t.secondario!.endsWith('…')).toBe(true);
+    const g = testoCard(parseRow({ ...base, tipo: 'gadget', gancio: lungo, cosa: 'corta' })!);
+    expect(g.gancio).toBe(lungo);
+    expect(g.secondario).toBe('corta');
+    const c = testoCard(parseRow({ ...base, tipo: 'contenuto', titolo: 'x', corpo: 'y' })!);
+    expect(c).toEqual({ gancio: null, secondario: null });
+    expect(tronca('  breve  ')).toBe('breve');
   });
 });
 

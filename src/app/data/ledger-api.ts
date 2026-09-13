@@ -74,6 +74,15 @@ export class Ledger {
     return this.json('manifest.json', parseManifest);
   }
 
+  /** Righe complete per id; le mancanti (404 o non valide) vengono omesse. */
+  async rows(ids: readonly string[]): Promise<Map<string, Riga>> {
+    const unici = [...new Set(ids)];
+    const righe = await Promise.all(unici.map((id) => this.row(id)));
+    const out = new Map<string, Riga>();
+    for (const r of righe) if (r) out.set(r.id, r);
+    return out;
+  }
+
   bibbia(universo: Universo): Promise<string> {
     const key = `bibbie/${universo}.md`;
     let p = this.cache.get(key) as Promise<string> | undefined;

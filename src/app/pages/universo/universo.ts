@@ -5,7 +5,7 @@ import { Ledger } from '../../data/ledger-api';
 import { conteggiPerTipo, sortByCreatedDesc } from '../../data/ledger-logic';
 import { renderMarkdown } from '../../data/markdown';
 import { TIPO_PLURALE, UNIVERSO_LABEL } from '../../data/labels';
-import { IndexEntry, Tipo, Universo, isUniverso } from '../../models/ledger';
+import { IndexEntry, Riga, Tipo, Universo, isUniverso } from '../../models/ledger';
 import { RigaCard } from '../../components/riga-card';
 import { BadgeUniverso } from '../../components/badges';
 
@@ -16,6 +16,8 @@ interface UniversoSnapshot {
   conteggi: { tipo: Tipo; n: number }[];
   ultime: IndexEntry[];
   totale: number;
+  /** Righe complete di regioni e ultime: gancio intero e chiavi in chiaro nelle card. */
+  dettagli: Riga[];
 }
 
 @Component({
@@ -50,11 +52,15 @@ export class UniversoPage {
     params: () => (this.valido() ? this.uni() : undefined),
     loader: async ({ params }) => {
       const idx = (await this.ledger.index()).filter((r) => r.universo === params);
+      const regioni = sortByCreatedDesc(idx.filter((r) => r.tipo === 'regione'));
+      const ultime = idx.slice(0, ULTIME);
+      const dett = await this.ledger.rows([...regioni, ...ultime].map((r) => r.id));
       const snap: UniversoSnapshot = {
-        regioni: sortByCreatedDesc(idx.filter((r) => r.tipo === 'regione')),
+        regioni,
         conteggi: conteggiPerTipo(idx),
-        ultime: idx.slice(0, ULTIME),
+        ultime,
         totale: idx.length,
+        dettagli: [...dett.values()],
       };
       this.ledger.saveSnapshot(`u:${params}`, snap);
       return snap;
@@ -64,6 +70,7 @@ export class UniversoPage {
   readonly vista = computed<UniversoSnapshot | null>(() =>
     this.dati.hasValue() ? this.dati.value() : this.snap(),
   );
+  readonly dettagli = computed(() => new Map((this.vista()?.dettagli ?? []).map((r) => [r.id, r])));
 
   constructor() {
     effect(() => {

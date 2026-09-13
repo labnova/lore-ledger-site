@@ -26,6 +26,10 @@ export const routes: Routes = [
     loadComponent: () => import('./pages/estrazioni/estrazioni').then((m) => m.EstrazioniPage),
   },
   {
+    path: 'e/:n',
+    loadComponent: () => import('./pages/estrazione/estrazione').then((m) => m.EstrazionePage),
+  },
+  {
     path: 'm',
     title: 'lore-ledger · macchina',
     loadComponent: () => import('./pages/macchina/macchina').then((m) => m.MacchinaPage),

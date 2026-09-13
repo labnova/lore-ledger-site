@@ -41,7 +41,7 @@
       @if (v.regioni.length) {
         <div class="griglia due">
           @for (r of v.regioni; track r.id) {
-            <app-riga-card [riga]="r" />
+            <app-riga-card [riga]="r" [dettaglio]="dettagli().get(r.id) ?? null" />
           }
         </div>
       } @else {
@@ -54,7 +54,7 @@
       @if (v.ultime.length) {
         <div class="griglia due">
           @for (r of v.ultime; track r.id) {
-            <app-riga-card [riga]="r" />
+            <app-riga-card [riga]="r" [dettaglio]="dettagli().get(r.id) ?? null" />
           }
         </div>
       } @else {

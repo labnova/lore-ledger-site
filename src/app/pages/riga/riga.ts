@@ -5,6 +5,7 @@ import { Ledger } from '../../data/ledger-api';
 import {
   Collegamenti,
   Lineage,
+  chiaviRiga,
   pescataIn,
   resolveCollegamenti,
   resolveLineage,
@@ -45,6 +46,10 @@ interface Vista {
   coll: Collegamenti;
   pescata: Estrazione[];
   byId: Map<string, IndexEntry>;
+  /** Chiavi in chiaro della riga (discipline, casta·segno·tratto·difetto, …), se presenti. */
+  chiavi: string | null;
+  /** Righe complete delle card collegate: gancio intero, nessun troncamento nella scheda. */
+  dettagli: Map<string, Riga>;
 }
 
 function titoloDi(r: Riga): string {
@@ -90,14 +95,26 @@ export class RigaPage {
         this.ledger.estrazioni(),
       ]);
       if (!riga) return null;
+      const lineage = resolveLineage(riga, index);
+      const coll = resolveCollegamenti(riga.id, graph, index);
+      const collegate = [
+        ...(lineage.madre ? [lineage.madre] : []),
+        ...lineage.figlie,
+        ...coll.personaggi,
+        ...coll.gadget,
+        ...coll.contenuti,
+      ].map((e) => e.id);
+      const dettagli = await this.ledger.rows(collegate);
       return {
         riga,
         titolo: titoloDi(riga),
-        lineage: resolveLineage(riga, index),
+        lineage,
         regione: resolveRegione(riga, index),
-        coll: resolveCollegamenti(riga.id, graph, index),
+        coll,
         pescata: pescataIn(riga.id, estrazioni),
         byId: new Map(index.map((e) => [e.id, e])),
+        chiavi: chiaviRiga(riga),
+        dettagli,
       };
     },
   });

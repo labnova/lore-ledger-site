@@ -1,0 +1,57 @@
+@if (nonTrovata()) {
+  <h1>Estrazione non trovata</h1>
+  <p>
+    Nessuna estrazione <span class="mono">#{{ n() }}</span> nel log pubblicato.
+    <a routerLink="/e">Tutte le estrazioni</a>.
+  </p>
+} @else if (dati.error()) {
+  <h1>Estrazione non disponibile</h1>
+  <p role="alert">{{ dati.error() }}</p>
+} @else if (vista(); as v) {
+  <p class="muted"><a routerLink="/e">← tutte le estrazioni</a></p>
+  <app-estrazione-blocco
+    [estrazione]="v.estrazione"
+    [testata]="v.testata"
+    [gruppi]="v.gruppi"
+    [dettagli]="dettagli()"
+    [titolo]="true"
+  />
+
+  @if (v.pescato.length) {
+    <section class="blocco" aria-labelledby="pescato">
+      <h2 id="pescato">Canone pescato</h2>
+      <p class="muted">Righe già canoniche lette dal lotto; se tra queste c'è un'invenzione o un personaggio, il lotto deve produrre una figlia «espansione».</p>
+      <ul class="lista-righe">
+        @for (p of v.pescato; track p.id) {
+          <li>
+            <a class="mono" [routerLink]="['/r', p.id]">{{ p.id }}</a>
+            @if (p.voce) {
+              <span>{{ p.voce.titolo }}</span>
+              <app-badge-tipo [tipo]="p.voce.tipo" />
+            }
+          </li>
+        }
+      </ul>
+    </section>
+  }
+
+  @if (v.espansioni.length) {
+    <section class="blocco" aria-labelledby="espansioni">
+      <h2 id="espansioni">Espansioni</h2>
+      <ul class="lista-righe">
+        @for (x of v.espansioni; track x.id) {
+          <li>
+            <a class="mono" [routerLink]="['/r', x.id]">{{ x.id }}</a>
+            @if (x.voce) {
+              <span>{{ x.voce.titolo }}</span>
+            }
+            <span class="muted">figlia di</span>
+            <a class="mono" [routerLink]="['/r', x.parent_id]">{{ x.parent_id }}</a>
+          </li>
+        }
+      </ul>
+    </section>
+  }
+} @else {
+  <p class="muted" aria-live="polite">Caricamento dell'estrazione <span class="mono">#{{ n() }}</span>…</p>
+}

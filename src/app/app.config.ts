@@ -15,7 +15,7 @@ import {
 import { routes } from './app.routes';
 
 /** File che crescono con il ledger: mai incorporati nell'HTML, il client li scarica da sé. */
-const GRANDI = /\/data\/(index|graph|estrazioni)\.json$/;
+const GRANDI = /\/data\/(index|graph|estrazioni)\.json$|\/data\/rows\//;
 
 export const appConfig: ApplicationConfig = {
   providers: [

@@ -25,6 +25,9 @@
         }
       </div>
       <h1>{{ v.titolo || v.riga.id }}</h1>
+      @if (v.chiavi) {
+        <p class="card-chiavi">{{ v.chiavi }}</p>
+      }
       <p class="muted">
         <a [routerLink]="['/u', v.riga.universo]">{{ universoLabel[v.riga.universo] }}</a>
         @if (v.regione) {
@@ -45,7 +48,7 @@
           }
         </h2>
         @if (v.lineage.madre; as m) {
-          <app-riga-card [riga]="m" />
+          <app-riga-card [riga]="m" [dettaglio]="v.dettagli.get(m.id) ?? null" />
         } @else {
           <p>
             <span class="mono">{{ v.lineage.madreMancante }}</span>
@@ -111,7 +114,7 @@
         <h2 id="gadget">Gadget di questo personaggio</h2>
         <div class="griglia due">
           @for (g of v.coll.gadget; track g.id) {
-            <app-riga-card [riga]="g" />
+            <app-riga-card [riga]="g" [dettaglio]="v.dettagli.get(g.id) ?? null" />
           }
         </div>
       </section>
@@ -124,7 +127,7 @@
           <h3>Personaggi</h3>
           <div class="griglia due">
             @for (p of v.coll.personaggi; track p.id) {
-              <app-riga-card [riga]="p" />
+              <app-riga-card [riga]="p" [dettaglio]="v.dettagli.get(p.id) ?? null" />
             }
           </div>
         }
@@ -132,7 +135,7 @@
           <h3>Gadget</h3>
           <div class="griglia due">
             @for (g of v.coll.gadget; track g.id) {
-              <app-riga-card [riga]="g" />
+              <app-riga-card [riga]="g" [dettaglio]="v.dettagli.get(g.id) ?? null" />
             }
           </div>
         }
@@ -148,7 +151,7 @@
         @if (v.coll.personaggi.length) {
           <div class="griglia due">
             @for (p of v.coll.personaggi; track p.id) {
-              <app-riga-card [riga]="p" />
+              <app-riga-card [riga]="p" [dettaglio]="v.dettagli.get(p.id) ?? null" />
             }
           </div>
         } @else {
@@ -162,7 +165,7 @@
         <h2 id="contenuti">Contenuti che partono da qui</h2>
         <div class="griglia due">
           @for (c of v.coll.contenuti; track c.id) {
-            <app-riga-card [riga]="c" />
+            <app-riga-card [riga]="c" [dettaglio]="v.dettagli.get(c.id) ?? null" />
           }
         </div>
       </section>

@@ -36,6 +36,18 @@
 }
 
 <form class="filtri" (submit)="$event.preventDefault()" aria-label="Filtri del feed">
+  <div class="riga-intera vista-toggle" role="group" aria-label="Vista">
+    <button type="button" [attr.aria-pressed]="vista() === 'righe'" (click)="setVista('righe')">
+      righe
+    </button>
+    <button
+      type="button"
+      [attr.aria-pressed]="vista() === 'estrazioni'"
+      (click)="setVista('estrazioni')"
+    >
+      estrazioni
+    </button>
+  </div>
   <label>
     tipo
     <select [value]="tipo()" (change)="set('tipo', $event)">
@@ -87,26 +99,55 @@
 </form>
 
 <p class="muted mono" aria-live="polite">
-  {{ visibili().length }} di {{ filtrate().length }} righe
+  @if (vista() === 'righe') {
+    {{ visibili().length }} di {{ filtrate().length }} righe
+  } @else {
+    {{ gruppi().length }} di {{ gruppiTutti().length }} estrazioni · {{ filtrate().length }} righe
+  }
   @if (!completo()) {
     · indice parziale ({{ righe().length }} di {{ totale() }}), scaricamento in corso
   }
 </p>
 
-@if (visibili().length) {
-  <div class="griglia due">
-    @for (r of visibili(); track r.id) {
-      <app-riga-card [riga]="r" />
-    }
-  </div>
-} @else if (indice.isLoading() && !righe().length) {
-  <p class="muted">Caricamento dell'indice…</p>
-} @else if (indice.error()) {
-  <p role="alert">Indice non disponibile: {{ indice.error() }}</p>
+@if (vista() === 'righe') {
+  @if (visibili().length) {
+    <div class="griglia due">
+      @for (r of visibili(); track r.id) {
+        <app-riga-card [riga]="r" [dettaglio]="dettagli().get(r.id) ?? null" />
+      }
+    </div>
+  } @else if (base.isLoading() && !righe().length) {
+    <p class="muted">Caricamento dell'indice…</p>
+  } @else if (base.error()) {
+    <p role="alert">Indice non disponibile: {{ base.error() }}</p>
+  } @else {
+    <p class="muted">Nessuna riga corrisponde ai filtri.</p>
+  }
+  @if (altre() > 0) {
+    <p><button type="button" (click)="caricaAltre()">carica altre ({{ altre() }})</button></p>
+  }
 } @else {
-  <p class="muted">Nessuna riga corrisponde ai filtri.</p>
-}
-
-@if (altre() > 0) {
-  <p><button type="button" (click)="caricaAltre()">carica altre ({{ altre() }})</button></p>
+  @if (gruppi().length) {
+    @for (g of gruppi(); track g.n) {
+      <app-estrazione-blocco
+        [estrazione]="estrazioneOVuota(g.n)"
+        [testata]="testate().get(g.n)!"
+        [gruppi]="g.perTipo"
+        [dettagli]="dettagli()"
+      />
+    }
+  } @else if (base.isLoading() && !righe().length) {
+    <p class="muted">Caricamento dell'indice…</p>
+  } @else if (base.error()) {
+    <p role="alert">Indice non disponibile: {{ base.error() }}</p>
+  } @else {
+    <p class="muted">Nessuna riga corrisponde ai filtri.</p>
+  }
+  @if (altriGruppi() > 0) {
+    <p>
+      <button type="button" (click)="caricaAltriGruppi()">
+        carica altre estrazioni ({{ altriGruppi() }})
+      </button>
+    </p>
+  }
 }

@@ -341,6 +341,70 @@ pre {
   margin: 0;
   color: var(--fg-2);
 }
+.card-chiavi {
+  margin: 0;
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  color: var(--fg-2);
+  overflow-wrap: anywhere;
+}
+.card-gancio {
+  margin: 0;
+}
+
+/* ---- vista per estrazione ------------------------------------------- */
+
+.vista-toggle {
+  display: flex;
+  gap: 0;
+}
+.vista-toggle button {
+  border-radius: 0;
+}
+.vista-toggle button:first-child {
+  border-radius: var(--radius) 0 0 var(--radius);
+}
+.vista-toggle button:last-child {
+  border-radius: 0 var(--radius) var(--radius) 0;
+  border-left: 0;
+}
+.vista-toggle button[aria-pressed='true'] {
+  background: var(--fg);
+  color: var(--bg);
+  border-color: var(--fg);
+}
+.blocco-estrazione {
+  margin-top: 1.75rem;
+  padding-top: 0.75rem;
+  border-top: 2px solid var(--line);
+}
+.blocco-testa h2 {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem;
+  margin: 0;
+  font-size: 1.15rem;
+}
+.blocco-testa h2.h1 {
+  font-size: 1.5rem;
+}
+.blocco-meta,
+.blocco-chiavi {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 1rem;
+  font-size: 0.8rem;
+  color: var(--fg-2);
+  margin: 0.35rem 0 0;
+}
+.blocco-chiavi {
+  color: var(--fg);
+}
+.blocco-estrazione h3 {
+  margin: 1rem 0 0.4rem;
+}
+
 .card-meta {
   display: flex;
   flex-wrap: wrap;

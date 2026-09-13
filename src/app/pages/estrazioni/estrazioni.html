@@ -30,7 +30,7 @@
         @for (e of visibili(); track e.estrazione) {
           @let u = universoDi(e);
           <tr [id]="'e-' + e.estrazione">
-            <td class="mono">#{{ e.estrazione }}</td>
+            <td class="mono"><a [routerLink]="['/e', e.estrazione]">#{{ e.estrazione }}</a></td>
             <td class="mono">{{ e.lotto }}</td>
             <td>
               @if (u && isUniverso(u)) {

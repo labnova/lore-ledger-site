@@ -282,6 +282,125 @@ export function chiaviPiatte(chiavi: Record<string, unknown>): { k: string; v: s
     .map(([k, v]) => ({ k, v: flat(v) }));
 }
 
+// ---------------------------------------------------------------------------
+// Card: chiavi in chiaro, gancio intero, secondario troncato
+// ---------------------------------------------------------------------------
+
+export const TRONCA = 160;
+
+export function tronca(s: string, n = TRONCA): string {
+  const t = s.trim();
+  return t.length <= n ? t : t.slice(0, n - 1).trimEnd() + '…';
+}
+
+function campoTesto(r: Riga, k: string): string | null {
+  const v = (r as unknown as Record<string, unknown>)[k];
+  return typeof v === 'string' && v.trim() ? v.trim() : null;
+}
+
+/**
+ * Chiavi in chiaro della riga, solo campi presenti nel JSON:
+ * invenzione `discipline` (`a × b`), personaggio `casta · segno · tratto · difetto`,
+ * gadget `chi_lo_porta`, contenuto `medium · canale · formato`.
+ */
+export function chiaviRiga(r: Riga): string | null {
+  let parti: string[] = [];
+  switch (r.tipo) {
+    case 'invenzione':
+      parti = Array.isArray(r.discipline) ? r.discipline.filter((d) => typeof d === 'string' && d) : [];
+      return parti.length ? parti.join(' × ') : null;
+    case 'personaggio':
+      parti = ['casta', 'segno', 'tratto', 'difetto'].map((k) => campoTesto(r, k)).filter((x): x is string => !!x);
+      break;
+    case 'gadget':
+      parti = [campoTesto(r, 'chi_lo_porta')].filter((x): x is string => !!x);
+      break;
+    case 'contenuto':
+      parti = ['medium', 'canale', 'formato'].map((k) => campoTesto(r, k)).filter((x): x is string => !!x);
+      break;
+    default:
+      return null;
+  }
+  return parti.length ? parti.join(' · ') : null;
+}
+
+export interface TestoCard {
+  /** Il gancio, mai troncato. */
+  gancio: string | null;
+  /** Torsione (invenzione), cosa (gadget) o note (regione), troncato a TRONCA. */
+  secondario: string | null;
+}
+
+export function testoCard(r: Riga): TestoCard {
+  const gancio = campoTesto(r, 'gancio');
+  const sec =
+    r.tipo === 'invenzione'
+      ? campoTesto(r, 'torsione')
+      : r.tipo === 'gadget'
+        ? campoTesto(r, 'cosa')
+        : r.tipo === 'regione'
+          ? campoTesto(r, 'note')
+          : null;
+  return { gancio, secondario: sec ? tronca(sec) : null };
+}
+
+// ---------------------------------------------------------------------------
+// Vista per estrazione
+// ---------------------------------------------------------------------------
+
+export const ORDINE_TIPI: Tipo[] = ['invenzione', 'personaggio', 'gadget', 'contenuto', 'regione'];
+
+export interface GruppoTipo {
+  tipo: Tipo;
+  righe: IndexEntry[];
+}
+
+export interface GruppoEstrazione {
+  n: number;
+  righe: IndexEntry[];
+  perTipo: GruppoTipo[];
+}
+
+export function raggruppaPerTipo(righe: IndexEntry[]): GruppoTipo[] {
+  return ORDINE_TIPI.map((tipo) => ({ tipo, righe: righe.filter((r) => r.tipo === tipo) })).filter(
+    (g) => g.righe.length > 0,
+  );
+}
+
+/** Raggruppa le voci dell'indice per campo `estrazione`, dalla più recente, e dentro per tipo. */
+export function raggruppaPerEstrazione(rows: IndexEntry[]): GruppoEstrazione[] {
+  const m = new Map<number, IndexEntry[]>();
+  for (const r of rows) {
+    const a = m.get(r.estrazione) ?? [];
+    a.push(r);
+    m.set(r.estrazione, a);
+  }
+  return [...m.entries()]
+    .sort((a, b) => b[0] - a[0])
+    .map(([n, righe]) => ({ n, righe, perTipo: raggruppaPerTipo(righe) }));
+}
+
+export interface TestataEstrazione {
+  n: number;
+  universo: Universo | null;
+  /** Regione risolta nell'indice (per id o nome), se c'è. */
+  regione: IndexEntry | null;
+  /** Nome da mostrare: titolo della regione risolta, altrimenti la chiave grezza. */
+  regioneNome: string | null;
+  /** Invenzione madre del lotto (`chiavi.invenzione_id`), se nell'indice. */
+  invenzione: IndexEntry | null;
+}
+
+export function testataEstrazione(e: Estrazione, index: IndexEntry[]): TestataEstrazione {
+  const u = e.chiavi['universo'];
+  const universo = isUniverso(u) ? u : null;
+  const reg = typeof e.chiavi['regione'] === 'string' && e.chiavi['regione'] ? e.chiavi['regione'] : null;
+  const regione = universo && reg ? resolveRegione({ universo, regione: reg }, index) : null;
+  const invId = e.chiavi['invenzione_id'];
+  const invenzione = typeof invId === 'string' ? (index.find((x) => x.id === invId) ?? null) : null;
+  return { n: e.estrazione, universo, regione, regioneNome: regione?.titolo ?? reg, invenzione };
+}
+
 export function conteggiPerTipo(rows: IndexEntry[]): { tipo: Tipo; n: number }[] {
   const m = new Map<Tipo, number>();
   for (const r of rows) m.set(r.tipo, (m.get(r.tipo) ?? 0) + 1);
