@@ -1,0 +1,30 @@
+{
+"affettivo": null,
+"casta": "cavalieri",
+"ceppo": "swahili",
+"cognome": "Chege",
+"contraddizione": "Scettico che non crede in nessun giudizio scritto nelle stelle, eppure controlla ogni sera le pagine del Bestiario delle Quote convinto che almeno i numeri dicano il vero.",
+"created": "2026-09-13",
+"difetto": "rigido",
+"epoca_relativa": 0,
+"estrazione": 26,
+"eta_fascia": "giovane",
+"gancio": "Ha iniziato a segnare a margine le pagine che non tornano con i suoi calcoli, senza sapere che è proprio la mano di Nia Kimambura a correggerle di notte.",
+"id": "NEO-PER-0046",
+"invenzione_id": "NEO-INV-0009",
+"nome": "Bahati",
+"parent_id": "NEO-PER-0029",
+"rapporto": "studia",
+"regione": "Calvenna",
+"relazione": "espansione",
+"schema_version": 1,
+"segno": "scorpione",
+"spirituale": {
+"credenza": "solo i numeri non mentono",
+"rapporto": "agnostico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "scettico",
+"universo": "neofeudal"
+}

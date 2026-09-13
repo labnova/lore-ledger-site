@@ -1322,5 +1322,47 @@
 "CYB-INV-0025",
 "CYB-INV-0026"
 ]
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"NEO-GAD-0011",
+"NEO-PER-0029",
+"NEO-PER-0030"
+],
+"chiavi": {
+"invenzione_id": "NEO-INV-0021",
+"n_prod": 3,
+"personaggio_id": "NEO-PER-0003",
+"universo": "neofeudal"
+},
+"created": "2026-09-13",
+"esito": "ok",
+"espansioni": [
+"NEO-PER-0046",
+"NEO-PER-0047"
+],
+"estrazione": 26,
+"forzata": false,
+"lotto": "lotto-gadget",
+"prod": [
+"NEO-GAD-0031",
+"NEO-GAD-0032",
+"NEO-GAD-0033"
+],
+"righe_prodotte": [
+"NEO-GAD-0031",
+"NEO-GAD-0032",
+"NEO-GAD-0033",
+"NEO-GAD-0034",
+"NEO-GAD-0035",
+"NEO-GAD-0036",
+"NEO-GAD-0037",
+"NEO-GAD-0038",
+"NEO-GAD-0039",
+"NEO-GAD-0040",
+"NEO-PER-0046",
+"NEO-PER-0047"
+]
 }
 ]

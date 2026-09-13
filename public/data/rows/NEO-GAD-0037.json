@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "I cavalieri che scommettono alla Selva delle Puntate la portano come portafortuna, comprata a peso d'oro da Baraka.",
+"cosa": "Fibbia da cintura fusa in resina scura, sagomata come la bestia araldica di una stirpe liberata dal registro.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 26,
+"gancio": "Un vecchio cavaliere giura di aver visto la stessa bestia perdere tre volte, sotto tre nomi diversi.",
+"id": "NEO-GAD-0037",
+"invenzione_id": "NEO-INV-0021",
+"nome": "Fibbia a Forma di Stirpe Sciolta",
+"parent_id": null,
+"personaggio_id": "NEO-PER-0003",
+"prod": false,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "La sagoma non corrisponde a nessuna bestia mai esistita, Baraka l'ha inventata copiando un disegno a margine del Libro delle Stirpi.",
+"universo": "neofeudal"
+}

@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Baraka lo tiene nascosto sotto il banco di concia, tra le pelli non ancora vendute.",
+"cosa": "Quaderno cucito con ritagli di pergamena rifiutata dai copisti, rilegato in un lembo di cuoio grezzo.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 26,
+"gancio": "Baraka non ha mai avuto il coraggio di bruciarlo, anche se sa che potrebbe bastare a farlo impiccare.",
+"id": "NEO-GAD-0033",
+"invenzione_id": "NEO-INV-0021",
+"nome": "Taccuino di Ritagli Scartati",
+"parent_id": null,
+"personaggio_id": "NEO-PER-0003",
+"prod": true,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "In controluce, le pagine scartate mostrano ancora le correzioni cancellate del registro ufficiale.",
+"universo": "neofeudal"
+}

@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "I banditori della Selva delle Puntate lo mostrano ai giocatori come garanzia d'origine della bestia in gara.",
+"cosa": "Disco di cera scura impresso con lo stemma sbiadito di una stirpe ancora dichiarata maledetta dal Libro.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 26,
+"gancio": "Un giocatore ha notato lo stesso sigillo su due bestie diverse nello stesso pomeriggio.",
+"id": "NEO-GAD-0032",
+"invenzione_id": "NEO-INV-0021",
+"nome": "Sigillo di Cera delle Stirpi Sciolte",
+"parent_id": null,
+"personaggio_id": "NEO-PER-0003",
+"prod": true,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "È la stessa cera che Baraka usa per sigillare le sue lettere segrete, nessuna certificazione, solo abitudine bottegaia.",
+"universo": "neofeudal"
+}

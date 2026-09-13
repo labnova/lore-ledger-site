@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Baraka lo porta cucito nella fodera del grembiule, mai lontano dal corpo.",
+"cosa": "Libriccino tascabile dove Baraka annota, con inchiostro di concia, quale bestia ha davvero perso e quale davvero vinto.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 26,
+"gancio": "Baraka ha scoperto che una pergamena venduta come pelle di una bestia perdente porta in realtà il marchio di una bestia che il Libro dà per vincitrice.",
+"id": "NEO-GAD-0040",
+"invenzione_id": "NEO-INV-0021",
+"nome": "Registro Tascabile delle Pelli Perdenti",
+"parent_id": null,
+"personaggio_id": "NEO-PER-0003",
+"prod": false,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "È l'unico registro vero rimasto a Calvenna, contraddice pagina per pagina il Libro delle Stirpi Benedette che i chierici mostrano ai signori.",
+"universo": "neofeudal"
+}

@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Baraka lo porta appeso al collo con uno spago, più come promemoria che come attrezzo.",
+"cosa": "Ditale di cuoio indurito, forato dove dovrebbero esserci le due dita che a Baraka mancano.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 26,
+"gancio": "Il suo amante segreto è l'unico a sapere che Baraka lo bacia ogni sera, prima di posarlo sul banco di concia.",
+"id": "NEO-GAD-0039",
+"invenzione_id": "NEO-INV-0021",
+"nome": "Ditale Bucato di Baraka",
+"parent_id": null,
+"personaggio_id": "NEO-PER-0003",
+"prod": false,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Non protegge nulla, i due fori ricordano a Baraka quale pagina del Libro gli è costata le dita, e quale bugia l'ha ripagata.",
+"universo": "neofeudal"
+}

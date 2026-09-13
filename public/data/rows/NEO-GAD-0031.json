@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Baraka la cuce lui stesso su ogni pelle prima di consegnarla ai copisti del Libro delle Stirpi Benedette.",
+"cosa": "Piccola bolla ovale di cuoio ribattuto, cucita all'angolo di ogni pelle che Baraka concia, con un numero impresso a fuoco.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 26,
+"gancio": "Un copista ha iniziato a raccogliere le bolle scartate, convinto che insieme formino il vero registro delle Stirpi Sciolte.",
+"id": "NEO-GAD-0031",
+"invenzione_id": "NEO-INV-0021",
+"nome": "Bolla di Cuoio Ribattuta",
+"parent_id": null,
+"personaggio_id": "NEO-PER-0003",
+"prod": true,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Il numero impresso non segue il conteggio delle vittorie d'arena, ma un contatore segreto che solo Baraka sa leggere.",
+"universo": "neofeudal"
+}

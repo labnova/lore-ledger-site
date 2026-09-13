@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Baraka lo indossa ogni giorno in bottega e non lo lava mai, per superstizione o per pigrizia.",
+"cosa": "Grembiule da conciatore chiazzato di tinture diverse, una per ogni stirpe che è passata sul suo banco.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 26,
+"gancio": "Un conciatore rivale ha iniziato a disegnare lo schema delle macchie, convinto di poterne dedurre il vero registro delle Stirpi Sciolte.",
+"id": "NEO-GAD-0034",
+"invenzione_id": "NEO-INV-0021",
+"nome": "Grembiule Macchiato delle Sette Pelli",
+"parent_id": null,
+"personaggio_id": "NEO-PER-0003",
+"prod": false,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Le macchie non seguono l'ordine delle vittorie dichiarate, Baraka le sovrappone apposta per confondere chi provasse a contarle.",
+"universo": "neofeudal"
+}

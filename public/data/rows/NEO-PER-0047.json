@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "vedova"
+},
+"casta": "cavalieri",
+"ceppo": "swahili",
+"cognome": "Sokoni",
+"contraddizione": "Paziente con le reclute e gelosa di ogni segreto, usa il Bestiario delle Quote ogni giorno per addestrare i cavalieri più giovani, ma nasconde le proprie pagine di appunti persino a Zuri Bani, che considera un allievo troppo ambizioso.",
+"created": "2026-09-13",
+"difetto": "geloso",
+"epoca_relativa": 0,
+"estrazione": 26,
+"eta_fascia": "maturo",
+"gancio": "Zuri Bani ha iniziato a copiare di nascosto gli appunti di Rehema durante l'addestramento, convinto che custodiscano la chiave del ciclo del ritorno.",
+"id": "NEO-PER-0047",
+"invenzione_id": "NEO-INV-0009",
+"nome": "Rehema",
+"parent_id": "NEO-PER-0030",
+"rapporto": "usa",
+"regione": "Calvenna",
+"relazione": "espansione",
+"schema_version": 1,
+"segno": "toro",
+"spirituale": {
+"credenza": "il ciclo del ritorno",
+"rapporto": "devota"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "paziente",
+"universo": "neofeudal"
+}

@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "I bambini di Calvenna la comprano da Baraka, convinti che porti fortuna alle scommesse dei genitori.",
+"cosa": "Collana di finti denti di bestia, intagliati nel legno di scarto e tinti con gli stessi bagni della concia.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 26,
+"gancio": "Un chierico si chiede perché nessuna di quelle collane marcisca mai come farebbe l'osso vero.",
+"id": "NEO-GAD-0035",
+"invenzione_id": "NEO-INV-0021",
+"nome": "Collana di Denti Intagliati",
+"parent_id": null,
+"personaggio_id": "NEO-PER-0003",
+"prod": false,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Nessun dente è vero, sono intagli di legno, ma Baraka non lo dice mai a chi paga.",
+"universo": "neofeudal"
+}
