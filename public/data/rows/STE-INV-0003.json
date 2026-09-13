@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"logistica/catena_del_freddo",
+"geografia/idrografia"
+],
+"epoca_relativa": 0,
+"estrazione": 19,
+"gancio": "Un giovane fuochista comincia a segnare di nascosto il peso reale, convinto che qualcuno stia rubando acqua dal fiume un litro alla volta.",
+"id": "STE-INV-0003",
+"nome": "Il Polmone di Rame",
+"nome_reale": "Compressori a vapore per la produzione di ghiaccio installati su battelli fluviali",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il ghiaccio prodotto a bordo pesa sistematicamente più di quanto la fisica preveda, e nessun ingegnere ammette di aver ritarato le bilance.",
+"universo": "steamverse"
+}

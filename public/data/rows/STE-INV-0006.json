@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"logistica/catena_del_freddo",
+"geografia/idrografia"
+],
+"epoca_relativa": 0,
+"estrazione": 19,
+"gancio": "Un cartografo riceve l'ordine di \"semplificare\" una mappa proprio nel punto dove il fiume attraversa la proprietà del suo committente.",
+"id": "STE-INV-0006",
+"nome": "L'Atlante delle Colpe",
+"nome_reale": "Cartografia dei bacini idrografici applicata a tracciare la contaminazione delle derrate",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "L'atlante non segna solo dove l'acqua si sporca, ma anche quale famiglia di mercanti possiede il tratto di fiume a monte del guasto.",
+"universo": "steamverse"
+}

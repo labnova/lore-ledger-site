@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"logistica/catena_del_freddo",
+"geografia/idrografia"
+],
+"epoca_relativa": 0,
+"estrazione": 19,
+"gancio": "Un calcolatore scopre che le tavole sono state copiate da un quaderno di sessant'anni prima, mai aggiornato ma sempre esatto.",
+"id": "STE-INV-0005",
+"nome": "Le Tavole della Sete",
+"nome_reale": "Modelli di portata fluviale usati per calcolare la velocità di fusione del ghiaccio nei depositi",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Le tavole prevedono la fusione con un anticipo sospetto, come se conoscessero il clima prima che il cielo si decida.",
+"universo": "steamverse"
+}

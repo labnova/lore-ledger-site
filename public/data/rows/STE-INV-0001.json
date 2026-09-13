@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"logistica/catena_del_freddo",
+"geografia/idrografia"
+],
+"epoca_relativa": 0,
+"estrazione": 19,
+"gancio": "Un capobarca scopre una bara supplementare non segnata nel manifesto, refrigerata come le altre casse.",
+"id": "STE-INV-0001",
+"nome": "Le Barche Bianche",
+"nome_reale": "Chiatte refrigerate per il trasporto fluviale di derrate deperibili",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Le chiatte non trasportano solo carne e latte, ma anche i corpi dei notabili che vogliono arrivare intatti al proprio funerale di città.",
+"universo": "steamverse"
+}

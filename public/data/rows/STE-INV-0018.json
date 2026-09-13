@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"logistica/catena_del_freddo",
+"geografia/idrografia"
+],
+"epoca_relativa": 0,
+"estrazione": 19,
+"gancio": "Un capitano scambia di nascosto una cisterna \"nuova\" con una vecchia prima dell'ispezione della gilda, convinto che la superstizione dell'equipaggio valga più del regolamento.",
+"id": "STE-INV-0018",
+"nome": "I Ventri di Latta",
+"nome_reale": "Cisterne di bordo a temperatura regolata per le derrate durante i lunghi viaggi fluviali",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Le cisterne più affidabili sono quelle costruite con il rame recuperato dalle vecchie campane di chiesa, e i marinai si rifiutano di fidarsi di quelle nuove.",
+"universo": "steamverse"
+}

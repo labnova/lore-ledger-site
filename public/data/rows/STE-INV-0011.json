@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"logistica/catena_del_freddo",
+"geografia/idrografia"
+],
+"epoca_relativa": 0,
+"estrazione": 19,
+"gancio": "Un funzionario del catasto trova nei vecchi disegni un delta che il fiume non ha ancora scavato, e comincia a chiedersi chi lo sapesse già.",
+"id": "STE-INV-0011",
+"nome": "Il Ventaglio dei Ghiacciai",
+"nome_reale": "Mappatura dei delta fluviali usata per pianificare la rete dei depositi del freddo",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il ventaglio dei depositi segue la forma del delta con una precisione che precede di decenni i rilievi ufficiali del fiume.",
+"universo": "steamverse"
+}

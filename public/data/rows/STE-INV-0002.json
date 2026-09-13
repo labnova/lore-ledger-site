@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"logistica/catena_del_freddo",
+"geografia/idrografia"
+],
+"epoca_relativa": 0,
+"estrazione": 19,
+"gancio": "Un ghiacciaio giura di aver sentito il fiume \"cambiare voce\" la notte prima di un'alluvione mai prevista dai tecnici.",
+"id": "STE-INV-0002",
+"nome": "La Casa del Fiato Freddo",
+"nome_reale": "Ghiacciaie cittadine raffreddate dalla corrente del fiume tramite ruote idrauliche",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il ghiaccio si forma più in fretta nelle notti in cui la città consuma più carbone, come se il fiume rispondesse al respiro delle ciminiere.",
+"universo": "steamverse"
+}

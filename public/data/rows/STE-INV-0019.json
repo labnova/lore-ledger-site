@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"logistica/catena_del_freddo",
+"geografia/idrografia"
+],
+"epoca_relativa": 0,
+"estrazione": 19,
+"gancio": "Un giovane rilevatore rifà di nascosto la misurazione e trova un numero che smentisce trent'anni di turni.",
+"id": "STE-INV-0019",
+"nome": "Il Passo del Fiume",
+"nome_reale": "Rilievo idrografico dei tempi di corrente usato per calcolare i turni di consegna del ghiaccio ai quartieri",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "I quartieri più poveri ricevono sempre l'ultimo turno di consegna, giustificato dai rilievi come \"il più lento per natura del fiume\", anche quando la corrente lì è la più rapida di tutte.",
+"universo": "steamverse"
+}

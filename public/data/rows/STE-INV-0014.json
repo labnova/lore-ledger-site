@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"logistica/catena_del_freddo",
+"geografia/idrografia"
+],
+"epoca_relativa": 0,
+"estrazione": 19,
+"gancio": "Un tagliatore di ghiaccio giovane annega in uno specchio che tutti dicevano sicuro perché \"era il più fotografato\".",
+"id": "STE-INV-0014",
+"nome": "Gli Specchi Fermi",
+"nome_reale": "Dighe costruite per creare bacini controllati di raccolta del ghiaccio invernale",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "I bacini più belli, quelli scelti per le fotografie dei notabili, sono anche i più superficiali e i primi a rompersi sotto il peso dei tagliatori.",
+"universo": "steamverse"
+}

@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"logistica/catena_del_freddo",
+"geografia/idrografia"
+],
+"epoca_relativa": 0,
+"estrazione": 19,
+"gancio": "Un mercante scopre che la sua \"finestra di marea\" si è misteriosamente ristretta da quando ha rifiutato un prestito della gilda.",
+"id": "STE-INV-0007",
+"nome": "L'Orologio Salmastro",
+"nome_reale": "Tavole di marea usate per programmare le spedizioni di merci refrigerate negli estuari",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "L'orologio non misura la marea del mare ma quella, più lenta, del debito accumulato dai mercanti presso la gilda dei ghiacciai.",
+"universo": "steamverse"
+}

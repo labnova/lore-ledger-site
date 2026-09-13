@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"logistica/catena_del_freddo",
+"geografia/idrografia"
+],
+"epoca_relativa": 0,
+"estrazione": 19,
+"gancio": "Un pilota d'aratro annota su un taccuino personale ogni rotta \"dimenticata\" apposta, temendo di doverlo mostrare un giorno a un giudice.",
+"id": "STE-INV-0008",
+"nome": "Gli Aratri d'Inverno",
+"nome_reale": "Battelli rompighiaccio per mantenere aperte le rotte fluviali del carico refrigerato",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Gli aratri rompono il ghiaccio più volentieri sulle rotte dei concorrenti che su quelle della propria compagnia, con una regolarità che nessuno vuole notare.",
+"universo": "steamverse"
+}

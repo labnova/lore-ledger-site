@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"logistica/catena_del_freddo",
+"geografia/idrografia"
+],
+"epoca_relativa": 0,
+"estrazione": 19,
+"gancio": "Un operaio scopre nei registri i propri passi segnati per settimane, senza aver mai firmato alcun consenso.",
+"id": "STE-INV-0017",
+"nome": "L'Orecchio di Terra",
+"nome_reale": "Monitoraggio della falda acquifera per mantenere le cantine di ghiaccio alla profondità e temperatura corrette",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Lo strumento che ascolta la falda registra anche i passi sopra di essa, e la gilda ha iniziato a usarlo per sapere chi cammina di notte vicino alle cantine.",
+"universo": "steamverse"
+}

@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"logistica/catena_del_freddo",
+"geografia/idrografia"
+],
+"epoca_relativa": 0,
+"estrazione": 19,
+"gancio": "Un sommozzatore incaricato di un'ispezione trova una cassa con la data di domani.",
+"id": "STE-INV-0009",
+"nome": "Le Cantine Annegate",
+"nome_reale": "Cantine frigorifere sommerse nel letto del fiume per sfruttarne la temperatura costante",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Le cantine più antiche custodiscono ancora casse mai reclamate, sigillate con nomi di famiglie che in città nessuno ricorda più.",
+"universo": "steamverse"
+}

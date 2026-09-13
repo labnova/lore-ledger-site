@@ -976,5 +976,47 @@
 "righe_prodotte": [
 "NEO-CON-0001"
 ]
+},
+{
+"bibbia_pescata": [
+"<!-- substrato iniziale: vuoto, scritto a mano -->"
+],
+"campi_forzati": [],
+"canone_pescato": [],
+"chiavi": {
+"discipline": [
+"logistica/catena_del_freddo",
+"geografia/idrografia"
+],
+"universo": "steamverse"
+},
+"created": "2026-09-13",
+"esito": "ok",
+"espansioni": [],
+"estrazione": 19,
+"forzata": false,
+"lotto": "lotto-lore",
+"righe_prodotte": [
+"STE-INV-0001",
+"STE-INV-0002",
+"STE-INV-0003",
+"STE-INV-0004",
+"STE-INV-0005",
+"STE-INV-0006",
+"STE-INV-0007",
+"STE-INV-0008",
+"STE-INV-0009",
+"STE-INV-0010",
+"STE-INV-0011",
+"STE-INV-0012",
+"STE-INV-0013",
+"STE-INV-0014",
+"STE-INV-0015",
+"STE-INV-0016",
+"STE-INV-0017",
+"STE-INV-0018",
+"STE-INV-0019",
+"STE-INV-0020"
+]
 }
 ]

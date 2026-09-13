@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"logistica/catena_del_freddo",
+"geografia/idrografia"
+],
+"epoca_relativa": 0,
+"estrazione": 19,
+"gancio": "Un ispettore trova tagli freschi in un mattino in cui nessun turno era stato registrato.",
+"id": "STE-INV-0015",
+"nome": "I Denti del Fiume",
+"nome_reale": "Seghe da ghiaccio azionate da ruote idrauliche lungo gli argini",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Le seghe si muovono anche di notte, senza operai, finché qualcuno non ha capito che la corrente da sola basta a farle girare a vuoto.",
+"universo": "steamverse"
+}

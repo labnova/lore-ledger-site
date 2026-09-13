@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"logistica/catena_del_freddo",
+"geografia/idrografia"
+],
+"epoca_relativa": 0,
+"estrazione": 19,
+"gancio": "Un chimico della gilda scopre che le sue misurazioni di salinità sono usate come pretesto ufficiale per una discriminazione già decisa altrove.",
+"id": "STE-INV-0013",
+"nome": "Il Sale della Purezza",
+"nome_reale": "Misurazione della salinità dell'estuario per preservare la qualità del ghiaccio destinato alla conservazione",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il ghiaccio \"puro\" venduto ai notabili viene tagliato più a monte non per la salinità ma perché lì il fiume passa lontano dai quartieri poveri.",
+"universo": "steamverse"
+}

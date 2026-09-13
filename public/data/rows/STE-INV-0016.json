@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"logistica/catena_del_freddo",
+"geografia/idrografia"
+],
+"epoca_relativa": 0,
+"estrazione": 19,
+"gancio": "Un nuovo impiegato viene licenziato il giorno dopo aver chiesto, ingenuamente, cosa significhi il simbolo del \"vortice doppio\".",
+"id": "STE-INV-0016",
+"nome": "Il Diario delle Correnti",
+"nome_reale": "Registro meccanico di tracciamento delle spedizioni refrigerate basato su simboli cartografici fluviali",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il diario usa simboli di fiume per indicare non le rotte ma i favori dovuti tra i capitani, un linguaggio che nessun ispettore ha mai decifrato del tutto.",
+"universo": "steamverse"
+}

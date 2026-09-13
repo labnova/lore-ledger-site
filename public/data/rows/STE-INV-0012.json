@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"logistica/catena_del_freddo",
+"geografia/idrografia"
+],
+"epoca_relativa": 0,
+"estrazione": 19,
+"gancio": "Un custode smette di fidarsi del proprio barometro il giorno in cui questo tace mentre l'acqua gli bagna già gli stivali.",
+"id": "STE-INV-0012",
+"nome": "Il Barometro delle Cantine",
+"nome_reale": "Strumenti di previsione delle piene usati per proteggere i depositi di ghiaccio dalle esondazioni",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Lo strumento suona l'allarme non quando il fiume sale, ma un'ora prima, come se misurasse l'intenzione più che l'acqua.",
+"universo": "steamverse"
+}

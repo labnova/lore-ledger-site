@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"logistica/catena_del_freddo",
+"geografia/idrografia"
+],
+"epoca_relativa": 0,
+"estrazione": 19,
+"gancio": "Un ingegnere idraulico nota che il fiume secondo ha una piena proprio nei giorni in cui il fiume vero è insolitamente basso.",
+"id": "STE-INV-0010",
+"nome": "Il Fiume Secondo",
+"nome_reale": "Acquedotto cittadino riadattato per trasportare salamoia refrigerante tra i quartieri",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il fiume secondo scorre sotto le vie principali seguendo esattamente il tracciato del fiume vero, come se qualcuno avesse voluto costruirne una copia da controllare meglio.",
+"universo": "steamverse"
+}
