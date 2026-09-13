@@ -1,0 +1,21 @@
+{
+"canale": "youtube",
+"corpo": "[PROMPT DI PRODUZIONE — video lungo, canale YouTube \"Archivio Anello Konya\"]\n[Voce: non la casa editrice. Il video si presenta come un filmato di\naddestramento tecnico girato dagli archivisti del convoglio, poi trafugato\ne ripubblicato dal canale. Nessuna sigla reale, nessun marchio: solo il\nsigillo disegnato a mano dell'Anello di Konya in apertura e chiusura.]\n\nDURATA: 9-11 minuti.\n\nCOLD OPEN (0:00-0:40)\nInquadratura fissa su un banco da lavoro foderato di stoffa scura. Una\nscatola si apre in campo: dentro, il Prisma da Tasca, supporto di legno\ntornito, resina che scompone la luce di una lampada da tavolo in righe\npallide sul muro. Voce fuori campo, tono da manuale, non da spot:\n\"Questo non è un giocattolo da apprendista. È tarato.\"\n\nSEZIONE 1 — IL BANCO DI CALIBRAZIONE (0:40-3:00)\nRiprese ravvicinate delle mani di un tecnico (non nominato, si vede solo\nil polso con il bracciale dell'anello Konya) che allinea il prisma su un\ngoniometro da banco, confrontando l'angolo di rifrazione con un secondo\nstrumento più grande, coperto da un telo — riconoscibile a chi conosce\nil convoglio come lo spettrografo maggiore, mai inquadrato per intero.\nSottotitoli tecnici a schermo: gradi, decimi di grado, tolleranze. Nessuna\nspiegazione esplicita del perché la tolleranza sia così stretta per \"un\noggetto da apprendisti\".\n\nSEZIONE 2 — L'ISPEZIONE (3:00-6:20)\nMateriale di repertorio, granuloso, apparentemente girato con un altro\ndispositivo: un'ispezione di cabina. Un'apprendista viene fermata, il\nprisma le viene tolto dalle mani e misurato sul posto con uno strumento\nportatile. La sua voce, tremante, fuori campo: \"Non sapevo che fosse\ntarato. Lo tengo solo quando sono nervosa.\" L'ispettore non risponde,\nannota qualcosa e il prisma torna nella scatola foderata — ma la scena\ntaglia prima che si veda se le viene restituito.\n\nSEZIONE 3 — PERCHÉ TARARLO COSÌ (6:20-8:30)\nRitorno al banco. La voce del tecnico, più bassa, quasi confidenziale:\nspiega — senza mai nominare l'addestramento nascosto — che \"certi oggetti\nvengono lasciati circolare come giocattoli perché nessuno sospetta un\ngiocattolo\". Inquadratura del prisma affiancato, angolo su angolo, alla\nfenditura dello strumento maggiore scoperto per un solo fotogramma prima\nche il telo ricada.\n\nCHIUSURA (8:30-fine)\nIl prisma torna nella scatola. Testo a schermo, stile modulo d'archivio:\n\"Registrato. Non restituito.\" Sigillo dell'Anello di Konya, dissolvenza\nal nero. Nessun logo, nessun credito di produzione: solo un numero di\nprotocollo scritto a mano che scorre in basso, troppo veloce per essere\nletto in tempo reale.\n\nNOTE DI REGIA: girare le sezioni 1 e 3 con luce costante da lampada\nsingola, per far leggere allo spettatore le stesse righe di rifrazione\nche il prisma produce nella storia. La sezione 2 deve restare granulosa\ne instabile, in contrasto netto, per marcare la differenza tra \"materiale\nufficiale\" e \"materiale confiscato che non doveva uscire\".\n",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 14,
+"formato": "making_of",
+"id": "ELA-CON-0002",
+"madre_id": null,
+"medium": "video_lungo",
+"parent_id": null,
+"regione": "Konya",
+"relazione": null,
+"schema_version": 1,
+"sorgente_id": "ELA-GAD-0005",
+"status": "canon",
+"tipo": "contenuto",
+"titolo": "Come si tara un prisma da apprendista (archivio interno, anello di Konya)",
+"universo": "elabverse",
+"veridicita": "in_universe"
+}

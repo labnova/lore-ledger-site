@@ -154,6 +154,18 @@
 "universo": "neofeudal"
 },
 {
+"created": "2026-09-13",
+"estrazione": 14,
+"id": "ELA-CON-0002",
+"parent_id": null,
+"regione": "Konya",
+"relazione": null,
+"sommario": "Come si tara un prisma da apprendista (archivio interno, anello di Konya)",
+"tipo": "contenuto",
+"titolo": "Come si tara un prisma da apprendista (archivio interno, anello di Konya)",
+"universo": "elabverse"
+},
+{
 "created": "2026-09-12",
 "estrazione": 4,
 "id": "NEO-REG-vasperdine",

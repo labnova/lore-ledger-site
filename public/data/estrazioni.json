@@ -792,5 +792,28 @@
 "NEO-GAD-0019",
 "NEO-GAD-0020"
 ]
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"ELA-GAD-0005",
+"ELA-INV-0001",
+"ELA-PER-0008"
+],
+"chiavi": {
+"canale": "youtube",
+"formato": "making_of",
+"medium": "video_lungo",
+"sorgente_id": "ELA-GAD-0005",
+"veridicita": "in_universe"
+},
+"created": "2026-09-13",
+"esito": "ok",
+"estrazione": 14,
+"forzata": false,
+"lotto": "lotto-contenuti",
+"righe_prodotte": [
+"ELA-CON-0002"
+]
 }
 ]
