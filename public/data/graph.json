@@ -201,6 +201,21 @@
 "to": "NEO-INV-0024"
 },
 {
+"from": "STE-INV-0013",
+"kind": "parent",
+"to": "STE-INV-0021"
+},
+{
+"from": "STE-INV-0017",
+"kind": "parent",
+"to": "STE-INV-0022"
+},
+{
+"from": "STE-INV-0011",
+"kind": "parent",
+"to": "STE-INV-0023"
+},
+{
 "from": "CYB-PER-0001",
 "kind": "invenzione",
 "to": "CYB-INV-0015"
@@ -789,6 +804,106 @@
 "from": "NEO-PER-0035",
 "kind": "regione",
 "to": "NEO-REG-vasperdine"
+},
+{
+"from": "STE-PER-0001",
+"kind": "invenzione",
+"to": "STE-INV-0012"
+},
+{
+"from": "STE-PER-0001",
+"kind": "regione",
+"to": "STE-REG-ledoskol"
+},
+{
+"from": "STE-PER-0002",
+"kind": "invenzione",
+"to": "STE-INV-0012"
+},
+{
+"from": "STE-PER-0002",
+"kind": "regione",
+"to": "STE-REG-ledoskol"
+},
+{
+"from": "STE-PER-0003",
+"kind": "invenzione",
+"to": "STE-INV-0012"
+},
+{
+"from": "STE-PER-0003",
+"kind": "regione",
+"to": "STE-REG-ledoskol"
+},
+{
+"from": "STE-PER-0004",
+"kind": "invenzione",
+"to": "STE-INV-0012"
+},
+{
+"from": "STE-PER-0004",
+"kind": "regione",
+"to": "STE-REG-ledoskol"
+},
+{
+"from": "STE-PER-0005",
+"kind": "invenzione",
+"to": "STE-INV-0012"
+},
+{
+"from": "STE-PER-0005",
+"kind": "regione",
+"to": "STE-REG-ledoskol"
+},
+{
+"from": "STE-PER-0006",
+"kind": "invenzione",
+"to": "STE-INV-0012"
+},
+{
+"from": "STE-PER-0006",
+"kind": "regione",
+"to": "STE-REG-ledoskol"
+},
+{
+"from": "STE-PER-0007",
+"kind": "invenzione",
+"to": "STE-INV-0012"
+},
+{
+"from": "STE-PER-0007",
+"kind": "regione",
+"to": "STE-REG-ledoskol"
+},
+{
+"from": "STE-PER-0008",
+"kind": "invenzione",
+"to": "STE-INV-0012"
+},
+{
+"from": "STE-PER-0008",
+"kind": "regione",
+"to": "STE-REG-ledoskol"
+},
+{
+"from": "STE-PER-0009",
+"kind": "invenzione",
+"to": "STE-INV-0012"
+},
+{
+"from": "STE-PER-0009",
+"kind": "regione",
+"to": "STE-REG-ledoskol"
+},
+{
+"from": "STE-PER-0010",
+"kind": "invenzione",
+"to": "STE-INV-0012"
+},
+{
+"from": "STE-PER-0010",
+"kind": "regione",
+"to": "STE-REG-ledoskol"
 },
 {
 "from": "ELA-GAD-0001",
@@ -2981,6 +3096,90 @@
 "id": "STE-INV-0020",
 "tipo": "invenzione",
 "titolo": "Le Campane Basse",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0021",
+"tipo": "invenzione",
+"titolo": "Il Bollo della Purezza",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0022",
+"tipo": "invenzione",
+"titolo": "Il Coro Sotterraneo",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0023",
+"tipo": "invenzione",
+"titolo": "Il Delta Riscoperto",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0001",
+"tipo": "personaggio",
+"titolo": "Tatiana Gomiin",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0002",
+"tipo": "personaggio",
+"titolo": "Marina Švec",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0003",
+"tipo": "personaggio",
+"titolo": "Nadezhda Leova",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0004",
+"tipo": "personaggio",
+"titolo": "Lyudmila Krawiec",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0005",
+"tipo": "personaggio",
+"titolo": "Zaid Nymanestrand",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0006",
+"tipo": "personaggio",
+"titolo": "Svetlana Kolar",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0007",
+"tipo": "personaggio",
+"titolo": "Serkan Kunduracı",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0008",
+"tipo": "personaggio",
+"titolo": "Friedrich Lindinwald",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0009",
+"tipo": "personaggio",
+"titolo": "Layla Iskafi",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0010",
+"tipo": "personaggio",
+"titolo": "Irina Gotonoović",
+"universo": "steamverse"
+},
+{
+"id": "STE-REG-ledoskol",
+"tipo": "regione",
+"titolo": "Ledoskol",
 "universo": "steamverse"
 }
 ]

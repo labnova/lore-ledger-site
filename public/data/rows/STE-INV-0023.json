@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"logistica/catena_del_freddo",
+"geografia/idrografia"
+],
+"epoca_relativa": 1,
+"estrazione": 20,
+"gancio": "Il funzionario che trovò per primo il delta non ancora scavato ora guida la squadra del nuovo rilievo, e sa già, prima di misurare, dove il fiume andrà a scavare fra vent'anni.",
+"id": "STE-INV-0023",
+"nome": "Il Delta Riscoperto",
+"nome_reale": "Nuovo rilievo ufficiale del delta commissionato per verificare l'esattezza dei vecchi disegni della rete dei depositi",
+"parent_id": "STE-INV-0011",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il nuovo rilievo, pagato per smentire la leggenda dei vecchi disegni, finisce invece per confermarli linea per linea, e nessuno nell'ufficio del catasto vuole essere quello che lo firma.",
+"universo": "steamverse"
+}

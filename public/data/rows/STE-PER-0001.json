@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "omosessuale",
+"situazione": "poliamoroso"
+},
+"casta": "aeronauti",
+"ceppo": "slavo",
+"cognome": "Gomiin",
+"contraddizione": "Pragmatica fino all'osso, si fida solo dei propri calcoli di quota e ha ignorato tre segnalazioni di deriva del suo timoniere prima che il vento le desse ragione per un pelo.",
+"created": "2026-09-13",
+"difetto": "sordo_ai_consigli",
+"epoca_relativa": 0,
+"estrazione": 20,
+"eta_fascia": "giovane",
+"gancio": "Teme il Barometro delle Cantine perché una volta lo lesse mezz'ora troppo tardi, e il custode sotto la sua rotta si bagnò gli stivali prima che suonasse l'allarme.",
+"id": "STE-PER-0001",
+"invenzione_id": "STE-INV-0012",
+"nome": "Tatiana",
+"parent_id": null,
+"rapporto": "teme",
+"regione": "Ledoskol",
+"relazione": null,
+"schema_version": 1,
+"segno": "capricorno",
+"spirituale": {
+"credenza": "dottrina_del_debito",
+"rapporto": "scettico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "pragmatico",
+"universo": "steamverse"
+}

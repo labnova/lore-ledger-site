@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "relazione_segreta"
+},
+"casta": "aeronauti",
+"ceppo": "slavo",
+"cognome": "Kolar",
+"contraddizione": "Ambiziosa abbastanza da voler firmare il prossimo miglioramento del Barometro con il proprio nome, non riesce a rinunciare a scorte di cibo che appesantiscono la cesta ben oltre il limite consentito in quota.",
+"created": "2026-09-13",
+"difetto": "goloso",
+"epoca_relativa": 0,
+"estrazione": 20,
+"eta_fascia": "anziano",
+"gancio": "Studia il meccanismo dello strumento per un brevetto che la renderebbe finalmente qualcuno alla gilda, mentre nasconde una relazione con l'ispettore che dovrebbe approvarlo.",
+"id": "STE-PER-0006",
+"invenzione_id": "STE-INV-0012",
+"nome": "Svetlana",
+"parent_id": null,
+"rapporto": "studia",
+"regione": "Ledoskol",
+"relazione": null,
+"schema_version": 1,
+"segno": "vergine",
+"spirituale": {
+"credenza": "il_sacro_e_una_bugia_utile",
+"rapporto": "indifferente"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ambizioso",
+"universo": "steamverse"
+}

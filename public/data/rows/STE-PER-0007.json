@@ -1,0 +1,30 @@
+{
+"affettivo": null,
+"casta": "aeronauti",
+"ceppo": "turco",
+"cognome": "Kunduracı",
+"contraddizione": "Ostinato nello studiare ogni ingranaggio del Barometro finché non lo conosce a memoria, non resiste a mostrare quanto ne sa sporgendosi oltre la ringhiera della gondola per farsi vedere dai passanti sotto.",
+"created": "2026-09-13",
+"difetto": "vanitoso",
+"epoca_relativa": 0,
+"estrazione": 20,
+"eta_fascia": "adolescente",
+"gancio": "Studia lo strumento per superare l'esame da timoniere, convinto che i suoi antenati aeronauti lo stiano giudicando da qualche nuvola sopra di lui.",
+"id": "STE-PER-0007",
+"invenzione_id": "STE-INV-0012",
+"nome": "Serkan",
+"parent_id": null,
+"rapporto": "studia",
+"regione": "Ledoskol",
+"relazione": null,
+"schema_version": 1,
+"segno": "sagittario",
+"spirituale": {
+"credenza": "culto_degli_antenati",
+"rapporto": "indifferente"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ostinato",
+"universo": "steamverse"
+}

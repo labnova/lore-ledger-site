@@ -1,0 +1,30 @@
+{
+"affettivo": null,
+"casta": "aeronauti",
+"ceppo": "slavo",
+"cognome": "Leova",
+"contraddizione": "Pragmatica per sopravvivere a bordo, esplode di rabbia quando le chiedono di ripetere le procedure, e l'ultima volta ha graffiato il quadrante invece di correggerne il numero.",
+"created": "2026-09-13",
+"difetto": "collerico",
+"epoca_relativa": 0,
+"estrazione": 20,
+"eta_fascia": "bambino",
+"gancio": "Falsifica le cifre del Barometro delle Cantine per far tornare i turni di volo di sua sorella maggiore, convinta che le macchine sognino i numeri giusti anche quando lei ne scrive di sbagliati.",
+"id": "STE-PER-0003",
+"invenzione_id": "STE-INV-0012",
+"nome": "Nadezhda",
+"parent_id": null,
+"rapporto": "falsifica",
+"regione": "Ledoskol",
+"relazione": null,
+"schema_version": 1,
+"segno": "toro",
+"spirituale": {
+"credenza": "le_macchine_sognano",
+"rapporto": "apostata"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "pragmatico",
+"universo": "steamverse"
+}

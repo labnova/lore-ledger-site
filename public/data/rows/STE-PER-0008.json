@@ -1,0 +1,30 @@
+{
+"affettivo": null,
+"casta": "aeronauti",
+"ceppo": "germanico",
+"cognome": "Lindinwald",
+"contraddizione": "Diplomatico al punto da calmare ogni lite in cabina di pilotaggio, diventa taccagno con le proprie razioni di corda e carburante, contate una a una anche quando un compagno ne avrebbe bisogno subito.",
+"created": "2026-09-13",
+"difetto": "avaro",
+"epoca_relativa": 0,
+"estrazione": 20,
+"eta_fascia": "bambino",
+"gancio": "Falsifica le cifre del Barometro delle Cantine per risparmiare un giro di manutenzione che costerebbe alla sua famiglia una parte del carico di ghiaccio.",
+"id": "STE-PER-0008",
+"invenzione_id": "STE-INV-0012",
+"nome": "Friedrich",
+"parent_id": null,
+"rapporto": "falsifica",
+"regione": "Ledoskol",
+"relazione": null,
+"schema_version": 1,
+"segno": "leone",
+"spirituale": {
+"credenza": "culto_degli_antenati",
+"rapporto": "eretico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "diplomatico",
+"universo": "steamverse"
+}

@@ -1,0 +1,30 @@
+{
+"affettivo": null,
+"casta": "aeronauti",
+"ceppo": "ibrido",
+"cognome": "Nymanestrand",
+"contraddizione": "Paziente per ore davanti a un quadrante, può abbandonare lo stesso compito a metà se qualcosa lo distrae, lasciando le letture del Barometro corrette solo a metà.",
+"created": "2026-09-13",
+"difetto": "incostante",
+"epoca_relativa": 0,
+"estrazione": 20,
+"eta_fascia": "bambino",
+"gancio": "Falsifica i numeri dello strumento perché crede che un crollo vero sarebbe un giudizio meritato, e non vuole essere lui a fermarlo con un allarme in tempo.",
+"id": "STE-PER-0005",
+"invenzione_id": "STE-INV-0012",
+"nome": "Zaid",
+"parent_id": null,
+"rapporto": "falsifica",
+"regione": "Ledoskol",
+"relazione": null,
+"schema_version": 1,
+"segno": "gemelli",
+"spirituale": {
+"credenza": "il_crollo_come_giudizio",
+"rapporto": "devoto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "paziente",
+"universo": "steamverse"
+}

@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"logistica/catena_del_freddo",
+"geografia/idrografia"
+],
+"epoca_relativa": 1,
+"estrazione": 20,
+"gancio": "Il chimico che scoprì la vera funzione delle misurazioni si ritrova ora a firmare lui stesso i bolli, e non sa più se la sua firma protegge la purezza o la disuguaglianza che l'ha resa legge.",
+"id": "STE-INV-0021",
+"nome": "Il Bollo della Purezza",
+"nome_reale": "Registro di salinità esteso a permesso di taglio, richiesto per legge a ogni gilda del ghiaccio",
+"parent_id": "STE-INV-0013",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il permesso di taglio, nato per certificare dove il ghiaccio è \"puro\", è diventato l'unico documento che stabilisce quali quartieri possono comprarlo a prezzo di gilda e quali solo al mercato nero.",
+"universo": "steamverse"
+}

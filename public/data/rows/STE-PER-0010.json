@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "asessuale",
+"situazione": "single"
+},
+"casta": "aeronauti",
+"ceppo": "slavo",
+"cognome": "Gotonoović",
+"contraddizione": "Riservata al punto da non dividere mai la cabina con nessuno, la sua insonnia cronica la fa restare di guardia notti intere finché le cifre del Barometro iniziano a confondersi sotto i suoi occhi stanchi.",
+"created": "2026-09-13",
+"difetto": "insonne",
+"epoca_relativa": 0,
+"estrazione": 20,
+"eta_fascia": "adulto",
+"gancio": "Falsifica i registri notturni dello strumento per nascondere quanto poco dorme, temendo che la gilda la tolga dall'unico turno che le dà una scusa per non dormire.",
+"id": "STE-PER-0010",
+"invenzione_id": "STE-INV-0012",
+"nome": "Irina",
+"parent_id": null,
+"rapporto": "falsifica",
+"regione": "Ledoskol",
+"relazione": null,
+"schema_version": 1,
+"segno": "ariete",
+"spirituale": {
+"credenza": "nessun_dio_solo_registri",
+"rapporto": "indifferente"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "riservato",
+"universo": "steamverse"
+}

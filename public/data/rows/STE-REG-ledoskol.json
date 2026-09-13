@@ -1,0 +1,18 @@
+{
+"ceppo_dominante": "slavo",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 20,
+"id": "STE-REG-ledoskol",
+"nome": "Ledoskol",
+"note": "Città-scalo aggrappata alle chiuse dell'estuario, dove la gilda del freddo governa le cantine di ghiaccio e gli aeronauti ne sorvegliano dall'alto le piene; quasi un cognome su due nasce ancora dal mestiere di chi lo porta.",
+"onomastica": "legata",
+"p_cognome_mestiere": 0.48,
+"parent_id": null,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "regione",
+"universo": "steamverse"
+}

@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "fidanzato"
+},
+"casta": "aeronauti",
+"ceppo": "slavo",
+"cognome": "Švec",
+"contraddizione": "Ha costruito lei stessa il meccanismo del Barometro, eppure si inchina davanti a chiunque porti la divisa della gilda, anche i più incompetenti che le correggono il lavoro.",
+"created": "2026-09-13",
+"difetto": "servile",
+"epoca_relativa": 0,
+"estrazione": 20,
+"eta_fascia": "anziano",
+"gancio": "Sa che lo strumento suona un'ora prima non per talento ma per un trucco che lei stessa ha nascosto negli ingranaggi, ma tacere davanti alla gilda le riesce naturale.",
+"id": "STE-PER-0002",
+"invenzione_id": "STE-INV-0012",
+"nome": "Marina",
+"parent_id": null,
+"rapporto": "costruita",
+"regione": "Ledoskol",
+"relazione": null,
+"schema_version": 1,
+"segno": "cancro",
+"spirituale": {
+"credenza": "il_sacro_e_una_bugia_utile",
+"rapporto": "eretico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "pragmatico",
+"universo": "steamverse"
+}

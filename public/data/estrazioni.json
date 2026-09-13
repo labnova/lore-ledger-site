@@ -1018,5 +1018,57 @@
 "STE-INV-0019",
 "STE-INV-0020"
 ]
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"STE-INV-0013",
+"STE-INV-0017",
+"STE-INV-0011"
+],
+"chiavi": {
+"casta": "aeronauti",
+"invenzione_id": "STE-INV-0012",
+"personaggi": [
+"Tatiana Gomiin",
+"Marina Švec",
+"Nadezhda Leova",
+"Lyudmila Krawiec",
+"Zaid Nymanestrand",
+"Svetlana Kolar",
+"Serkan Kunduracı",
+"Friedrich Lindinwald",
+"Layla Iskafi",
+"Irina Gotonoović"
+],
+"regione": "Ledoskol",
+"universo": "steamverse"
+},
+"created": "2026-09-13",
+"esito": "ok",
+"espansioni": [
+"STE-INV-0021",
+"STE-INV-0022",
+"STE-INV-0023"
+],
+"estrazione": 20,
+"forzata": false,
+"lotto": "lotto-personaggi",
+"righe_prodotte": [
+"STE-REG-ledoskol",
+"STE-PER-0001",
+"STE-PER-0002",
+"STE-PER-0003",
+"STE-PER-0004",
+"STE-PER-0005",
+"STE-PER-0006",
+"STE-PER-0007",
+"STE-PER-0008",
+"STE-PER-0009",
+"STE-PER-0010",
+"STE-INV-0021",
+"STE-INV-0022",
+"STE-INV-0023"
+]
 }
 ]

@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"logistica/catena_del_freddo",
+"geografia/idrografia"
+],
+"epoca_relativa": 1,
+"estrazione": 20,
+"gancio": "L'operaio che scoprì i propri passi nei registri trova ora anche il proprio intero tragitto notturno tracciato su una mappa affissa nell'ufficio della gilda, con una domanda scritta a mano accanto al suo nome.",
+"id": "STE-INV-0022",
+"nome": "Il Coro Sotterraneo",
+"nome_reale": "Rete di orecchi di terra collegati fra le cantine per correlare i passi registrati in punti diversi della città",
+"parent_id": "STE-INV-0017",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Collegando gli strumenti da una cantina all'altra, la gilda non ascolta più solo la falda ma ricostruisce i percorsi di chi cammina di notte da un quartiere all'altro, un passo alla volta.",
+"universo": "steamverse"
+}

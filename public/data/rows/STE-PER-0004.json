@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "pansessuale",
+"situazione": "vedovo"
+},
+"casta": "aeronauti",
+"ceppo": "slavo",
+"cognome": "Krawiec",
+"contraddizione": "Accoglie ogni recluta a bordo con caffè caldo e più coperte del dovuto, ma la stessa ospitalità si spegne in un attimo se qualcuno tocca i suoi strumenti, e l'ultimo apprendista è sceso a terra in anticipo per questo.",
+"created": "2026-09-13",
+"difetto": "collerico",
+"epoca_relativa": 0,
+"estrazione": 20,
+"eta_fascia": "anziano",
+"gancio": "Ha costruito lei il telaio che regge il Barometro delle Cantine nella gondola di comando; da vedova, dice che è l'unica cosa che le resta da tenere in equilibrio.",
+"id": "STE-PER-0004",
+"invenzione_id": "STE-INV-0012",
+"nome": "Lyudmila",
+"parent_id": null,
+"rapporto": "costruita",
+"regione": "Ledoskol",
+"relazione": null,
+"schema_version": 1,
+"segno": "scorpione",
+"spirituale": {
+"credenza": "nessun_dio_solo_registri",
+"rapporto": "indifferente"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ospitale",
+"universo": "steamverse"
+}

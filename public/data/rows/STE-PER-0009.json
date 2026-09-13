@@ -1,0 +1,30 @@
+{
+"affettivo": null,
+"casta": "aeronauti",
+"ceppo": "arabo",
+"cognome": "Iskafi",
+"contraddizione": "Ostinata a restare di vedetta anche oltre il proprio turno, non dimentica un torto nemmeno tra le nuvole, e porta ancora rancore al collega che una volta ignorò il suo primo allarme sul Barometro.",
+"created": "2026-09-13",
+"difetto": "rancoroso",
+"epoca_relativa": 0,
+"estrazione": 20,
+"eta_fascia": "adolescente",
+"gancio": "Teme lo strumento perché fu lei a suonarlo per prima l'anno del grande allagamento, e nessuno le crede più quando dice che stavolta il pericolo è reale.",
+"id": "STE-PER-0009",
+"invenzione_id": "STE-INV-0012",
+"nome": "Layla",
+"parent_id": null,
+"rapporto": "teme",
+"regione": "Ledoskol",
+"relazione": null,
+"schema_version": 1,
+"segno": "pesci",
+"spirituale": {
+"credenza": "il_cielo_amministrato",
+"rapporto": "praticante_tiepido"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ostinato",
+"universo": "steamverse"
+}
