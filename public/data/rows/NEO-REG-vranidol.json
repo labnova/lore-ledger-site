@@ -1,0 +1,17 @@
+{
+"ceppo_dominante": "slavo",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 24,
+"id": "NEO-REG-vranidol",
+"nome": "Vranidol",
+"note": "Marca di confine lungo le piste di caccia dei cavalieri, dove le famiglie vivono a cavallo tra il debito e l'onore; il registro dei falchi è tenuto più stretto di quello delle nascite.",
+"onomastica": "legata",
+"p_cognome_mestiere": 0.25,
+"parent_id": null,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "regione",
+"universo": "neofeudal"
+}

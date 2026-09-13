@@ -1,0 +1,29 @@
+{
+"affettivo": null,
+"casta": "cavalieri",
+"ceppo": "slavo",
+"cognome": "Jain",
+"contraddizione": "È il più meticoloso tra gli scudieri che studiano il volo dei falchi, ma la sua servilità verso i cavalieri più anziani lo rende incapace di segnalare a voce alta gli errori che lui stesso meticolosamente registra.",
+"created": "2026-09-13",
+"difetto": "servile",
+"epoca_relativa": 0,
+"estrazione": 24,
+"eta_fascia": "adolescente",
+"gancio": "Ha scritto tre volte lo stesso errore nel registro del maestro senza mai osare correggerlo ad alta voce.",
+"id": "NEO-PER-0044",
+"invenzione_id": "NEO-INV-0013",
+"nome": "Ivan",
+"parent_id": null,
+"rapporto": "studia",
+"regione": "Vranidol",
+"relazione": null,
+"segno": "pesci",
+"spirituale": {
+"credenza": "il crollo come giudizio",
+"rapporto": "funzionario_del_culto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "meticoloso",
+"universo": "neofeudal"
+}

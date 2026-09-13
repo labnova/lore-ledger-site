@@ -1,0 +1,29 @@
+{
+"affettivo": null,
+"casta": "cavalieri",
+"ceppo": "slavo",
+"cognome": "Krawiec",
+"contraddizione": "Il suo rigore da scudiero è leggendario, ma ruba il mangime destinato ai falchi segnaposto per placare la fame, e i falchi malnutriti sbagliano bersaglio.",
+"created": "2026-09-13",
+"difetto": "goloso",
+"epoca_relativa": 0,
+"estrazione": 24,
+"eta_fascia": "adolescente",
+"gancio": "Ha notato che il falco che segna le puntate di suo padre perde quota ogni volta che lui ha rubato il mangime, e non sa se sia colpa sua o un segno.",
+"id": "NEO-PER-0036",
+"invenzione_id": "NEO-INV-0013",
+"nome": "Aleksandr",
+"parent_id": null,
+"rapporto": "usa",
+"regione": "Vranidol",
+"relazione": null,
+"segno": "leone",
+"spirituale": {
+"credenza": "il cielo amministrato",
+"rapporto": "funzionario_del_culto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "rigoroso",
+"universo": "neofeudal"
+}

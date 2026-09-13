@@ -836,6 +836,106 @@
 "to": "NEO-REG-vasperdine"
 },
 {
+"from": "NEO-PER-0036",
+"kind": "invenzione",
+"to": "NEO-INV-0013"
+},
+{
+"from": "NEO-PER-0036",
+"kind": "regione",
+"to": "NEO-REG-vranidol"
+},
+{
+"from": "NEO-PER-0037",
+"kind": "invenzione",
+"to": "NEO-INV-0013"
+},
+{
+"from": "NEO-PER-0037",
+"kind": "regione",
+"to": "NEO-REG-vranidol"
+},
+{
+"from": "NEO-PER-0038",
+"kind": "invenzione",
+"to": "NEO-INV-0013"
+},
+{
+"from": "NEO-PER-0038",
+"kind": "regione",
+"to": "NEO-REG-vranidol"
+},
+{
+"from": "NEO-PER-0039",
+"kind": "invenzione",
+"to": "NEO-INV-0013"
+},
+{
+"from": "NEO-PER-0039",
+"kind": "regione",
+"to": "NEO-REG-vranidol"
+},
+{
+"from": "NEO-PER-0040",
+"kind": "invenzione",
+"to": "NEO-INV-0013"
+},
+{
+"from": "NEO-PER-0040",
+"kind": "regione",
+"to": "NEO-REG-vranidol"
+},
+{
+"from": "NEO-PER-0041",
+"kind": "invenzione",
+"to": "NEO-INV-0013"
+},
+{
+"from": "NEO-PER-0041",
+"kind": "regione",
+"to": "NEO-REG-vranidol"
+},
+{
+"from": "NEO-PER-0042",
+"kind": "invenzione",
+"to": "NEO-INV-0013"
+},
+{
+"from": "NEO-PER-0042",
+"kind": "regione",
+"to": "NEO-REG-vranidol"
+},
+{
+"from": "NEO-PER-0043",
+"kind": "invenzione",
+"to": "NEO-INV-0013"
+},
+{
+"from": "NEO-PER-0043",
+"kind": "regione",
+"to": "NEO-REG-vranidol"
+},
+{
+"from": "NEO-PER-0044",
+"kind": "invenzione",
+"to": "NEO-INV-0013"
+},
+{
+"from": "NEO-PER-0044",
+"kind": "regione",
+"to": "NEO-REG-vranidol"
+},
+{
+"from": "NEO-PER-0045",
+"kind": "invenzione",
+"to": "NEO-INV-0013"
+},
+{
+"from": "NEO-PER-0045",
+"kind": "regione",
+"to": "NEO-REG-vranidol"
+},
+{
 "from": "STE-PER-0001",
 "kind": "invenzione",
 "to": "STE-INV-0012"
@@ -3296,6 +3396,66 @@
 "universo": "neofeudal"
 },
 {
+"id": "NEO-PER-0036",
+"tipo": "personaggio",
+"titolo": "Aleksandr Krawiec",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0037",
+"tipo": "personaggio",
+"titolo": "Ekaterina Stavaliić",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0038",
+"tipo": "personaggio",
+"titolo": "Vladimir Pekar",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0039",
+"tipo": "personaggio",
+"titolo": "Iñaki Okin",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0040",
+"tipo": "personaggio",
+"titolo": "Kazuki Nimushima",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0041",
+"tipo": "personaggio",
+"titolo": "Tatiana Peroczyk",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0042",
+"tipo": "personaggio",
+"titolo": "Zuri Mchungaji",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0043",
+"tipo": "personaggio",
+"titolo": "Bogdan Rybar",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0044",
+"tipo": "personaggio",
+"titolo": "Ivan Jain",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0045",
+"tipo": "personaggio",
+"titolo": "Piotr Bomitoczyk",
+"universo": "neofeudal"
+},
+{
 "id": "NEO-REG-calvenna",
 "tipo": "regione",
 "titolo": "Calvenna",
@@ -3305,6 +3465,12 @@
 "id": "NEO-REG-vasperdine",
 "tipo": "regione",
 "titolo": "Vasperdine",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-REG-vranidol",
+"tipo": "regione",
+"titolo": "Vranidol",
 "universo": "neofeudal"
 },
 {

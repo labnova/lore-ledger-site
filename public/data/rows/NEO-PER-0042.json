@@ -1,0 +1,32 @@
+{
+"affettivo": {
+"orientamento": "pansessuale",
+"situazione": "sposato"
+},
+"casta": "cavalieri",
+"ceppo": "swahili",
+"cognome": "Mchungaji",
+"contraddizione": "La sua ambizione la spingerebbe a comandare l'intera voliera dei falchi segnaposto, ma la sua pedanteria nel ricontrollare ogni puntata la rende troppo lenta per il ritmo delle scommesse in pista.",
+"created": "2026-09-13",
+"difetto": "pedante",
+"epoca_relativa": 0,
+"estrazione": 24,
+"eta_fascia": "maturo",
+"gancio": "Ha ricontrollato tre volte lo stesso volo prima di firmarlo, e nel farlo ha trovato una cifra che qualcuno sperava restasse sepolta.",
+"id": "NEO-PER-0042",
+"invenzione_id": "NEO-INV-0013",
+"nome": "Zuri",
+"parent_id": null,
+"rapporto": "costruita",
+"regione": "Vranidol",
+"relazione": null,
+"segno": "sagittario",
+"spirituale": {
+"credenza": "le stelle come registro",
+"rapporto": "funzionario_del_culto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ambizioso",
+"universo": "neofeudal"
+}

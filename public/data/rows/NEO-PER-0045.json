@@ -1,0 +1,32 @@
+{
+"affettivo": {
+"orientamento": "bisessuale",
+"situazione": "promesso_per_contratto"
+},
+"casta": "cavalieri",
+"ceppo": "slavo",
+"cognome": "Bomitoczyk",
+"contraddizione": "Falsifica i voli dei falchi segnaposto per pagare il contratto del matrimonio promesso, ma è talmente superstizioso da temere che ogni cifra alterata gli venga richiesta indietro dal cielo, con gli interessi.",
+"created": "2026-09-13",
+"difetto": "superstizioso",
+"epoca_relativa": 0,
+"estrazione": 24,
+"eta_fascia": "adulto",
+"gancio": "Ha promesso alla famiglia della sua promessa sposa un falco che non è mai esistito, e ora deve inventarne il volo prima della cerimonia.",
+"id": "NEO-PER-0045",
+"invenzione_id": "NEO-INV-0013",
+"nome": "Piotr",
+"parent_id": null,
+"rapporto": "falsifica",
+"regione": "Vranidol",
+"relazione": null,
+"segno": "gemelli",
+"spirituale": {
+"credenza": "il crollo come giudizio",
+"rapporto": "devoto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "sognatore",
+"universo": "neofeudal"
+}

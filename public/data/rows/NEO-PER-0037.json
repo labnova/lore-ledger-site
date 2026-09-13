@@ -1,0 +1,29 @@
+{
+"affettivo": null,
+"casta": "cavalieri",
+"ceppo": "slavo",
+"cognome": "Stavaliić",
+"contraddizione": "Studia per diventare cavaliere sotto il vessillo della Diocesi del Cielo, ma crede in segreto che siano le stelle, non i falchi, a tenere il vero registro delle puntate, un'eresia che nessun maestro d'armi le perdonerebbe.",
+"created": "2026-09-13",
+"difetto": "ingenuo",
+"epoca_relativa": 0,
+"estrazione": 24,
+"eta_fascia": "adolescente",
+"gancio": "Ha iniziato a segnare le sue previsioni astrali a margine del registro ufficiale, e le sue cifre coincidono troppo spesso con quelle dei falchi per essere solo fede.",
+"id": "NEO-PER-0037",
+"invenzione_id": "NEO-INV-0013",
+"nome": "Ekaterina",
+"parent_id": null,
+"rapporto": "studia",
+"regione": "Vranidol",
+"relazione": null,
+"segno": "toro",
+"spirituale": {
+"credenza": "le stelle come registro",
+"rapporto": "eretico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ostinato",
+"universo": "neofeudal"
+}

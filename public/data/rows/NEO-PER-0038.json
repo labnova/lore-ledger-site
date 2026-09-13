@@ -1,0 +1,32 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "vedovo"
+},
+"casta": "cavalieri",
+"ceppo": "slavo",
+"cognome": "Pekar",
+"contraddizione": "Un cavaliere deve scommettere in pubblico per onorare il proprio nome, ma da quando è vedovo non stacca una moneta dalla borsa, e i suoi silenzi vengono letti come disonore.",
+"created": "2026-09-13",
+"difetto": "avaro",
+"epoca_relativa": 0,
+"estrazione": 24,
+"eta_fascia": "giovane",
+"gancio": "Tiene ancora l'anello della moglie cucito nella sella, e qualcuno ha iniziato a chiedersi se non sia quello il vero pegno che rifiuta di scommettere.",
+"id": "NEO-PER-0038",
+"invenzione_id": "NEO-INV-0013",
+"nome": "Vladimir",
+"parent_id": null,
+"rapporto": "studia",
+"regione": "Vranidol",
+"relazione": null,
+"segno": "scorpione",
+"spirituale": {
+"credenza": "ciclo del ritorno",
+"rapporto": "praticante_tiepido"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "silenzioso",
+"universo": "neofeudal"
+}

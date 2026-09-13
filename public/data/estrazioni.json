@@ -1185,5 +1185,98 @@
 "HAC-INV-0039",
 "HAC-INV-0040"
 ]
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"NEO-INV-0013"
+],
+"chiavi": {
+"casta": "cavalieri",
+"invenzione_id": "NEO-INV-0013",
+"regione": "NEO-REG-vranidol",
+"universo": "neofeudal"
+},
+"created": "2026-09-13",
+"esito": "ok",
+"espansioni": [],
+"estrazione": 24,
+"forzata": false,
+"lotto": "lotto-personaggi",
+"personaggi": [
+{
+"ceppo": "slavo",
+"cognome": "Krawiec",
+"n": 1,
+"nome": "Aleksandr"
+},
+{
+"ceppo": "slavo",
+"cognome": "Stavaliić",
+"n": 2,
+"nome": "Ekaterina"
+},
+{
+"ceppo": "slavo",
+"cognome": "Pekar",
+"n": 3,
+"nome": "Vladimir"
+},
+{
+"ceppo": "basco",
+"cognome": "Okin",
+"n": 4,
+"nome": "Iñaki"
+},
+{
+"ceppo": "giapponese",
+"cognome": "Nimushima",
+"n": 5,
+"nome": "Kazuki"
+},
+{
+"ceppo": "slavo",
+"cognome": "Peroczyk",
+"n": 6,
+"nome": "Tatiana"
+},
+{
+"ceppo": "swahili",
+"cognome": "Mchungaji",
+"n": 7,
+"nome": "Zuri"
+},
+{
+"ceppo": "slavo",
+"cognome": "Rybar",
+"n": 8,
+"nome": "Bogdan"
+},
+{
+"ceppo": "slavo",
+"cognome": "Jain",
+"n": 9,
+"nome": "Ivan"
+},
+{
+"ceppo": "slavo",
+"cognome": "Bomitoczyk",
+"n": 10,
+"nome": "Piotr"
+}
+],
+"regione_creata": "NEO-REG-vranidol",
+"righe_prodotte": [
+"NEO-PER-0036",
+"NEO-PER-0037",
+"NEO-PER-0038",
+"NEO-PER-0039",
+"NEO-PER-0040",
+"NEO-PER-0041",
+"NEO-PER-0042",
+"NEO-PER-0043",
+"NEO-PER-0044",
+"NEO-PER-0045"
+]
 }
 ]

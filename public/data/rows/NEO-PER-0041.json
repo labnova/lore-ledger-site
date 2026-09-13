@@ -1,0 +1,29 @@
+{
+"affettivo": null,
+"casta": "cavalieri",
+"ceppo": "slavo",
+"cognome": "Peroczyk",
+"contraddizione": "È stata costruita come erede della torsione dei falchi fin dalla nascita del registro, ma sogna a occhi aperti durante l'addestramento e legge presagi ovunque, mentre un cavaliere dovrebbe leggere solo i voli.",
+"created": "2026-09-13",
+"difetto": "superstizioso",
+"epoca_relativa": 0,
+"estrazione": 24,
+"eta_fascia": "bambino",
+"gancio": "Giura di aver sognato, tre notti prima che accadesse, i due falchi che circolavano sulla stessa bestia.",
+"id": "NEO-PER-0041",
+"invenzione_id": "NEO-INV-0013",
+"nome": "Tatiana",
+"parent_id": null,
+"rapporto": "costruita",
+"regione": "Vranidol",
+"relazione": null,
+"segno": "bilancia",
+"spirituale": {
+"credenza": "dottrina del debito",
+"rapporto": "devoto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "sognatore",
+"universo": "neofeudal"
+}

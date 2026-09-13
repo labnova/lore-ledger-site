@@ -1,0 +1,32 @@
+{
+"affettivo": {
+"orientamento": "bisessuale",
+"situazione": "sposato"
+},
+"casta": "cavalieri",
+"ceppo": "slavo",
+"cognome": "Rybar",
+"contraddizione": "Ha costruito metà delle voliere di Vranidol con le sue mani, ma è indifferente ai riti con cui la Diocesi benedice ogni falco prima del volo, e i più giovani mormorano che i suoi falchi volano storti proprio per questo.",
+"created": "2026-09-13",
+"difetto": "pedante",
+"epoca_relativa": 0,
+"estrazione": 24,
+"eta_fascia": "anziano",
+"gancio": "Sua moglie ha smesso di chiedergli di pregare sui falchi, ma continua a cucire lei stessa gli amuleti che lui finge di non vedere infilati nelle gabbie.",
+"id": "NEO-PER-0043",
+"invenzione_id": "NEO-INV-0013",
+"nome": "Bogdan",
+"parent_id": null,
+"rapporto": "costruita",
+"regione": "Vranidol",
+"relazione": null,
+"segno": "ariete",
+"spirituale": {
+"credenza": "il crollo come giudizio",
+"rapporto": "indifferente"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "sognatore",
+"universo": "neofeudal"
+}

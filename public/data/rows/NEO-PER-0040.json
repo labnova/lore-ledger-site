@@ -1,0 +1,32 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "relazione_segreta"
+},
+"casta": "cavalieri",
+"ceppo": "giapponese",
+"cognome": "Nimushima",
+"contraddizione": "È il cavaliere che ha costruito il sistema dei falchi segnaposto proprio per stanare i bari delle scommesse, ma nasconde una relazione che, se scoperta, lo renderebbe il primo bugiardo che i suoi stessi falchi tradirebbero.",
+"created": "2026-09-13",
+"difetto": "bugiardo",
+"epoca_relativa": 0,
+"estrazione": 24,
+"eta_fascia": "maturo",
+"gancio": "Un falco ha iniziato a circolare sopra la sua casa ogni notte, e lui non sa dire ai superiori perché, senza confessare cosa protegge davvero.",
+"id": "NEO-PER-0040",
+"invenzione_id": "NEO-INV-0013",
+"nome": "Kazuki",
+"parent_id": null,
+"rapporto": "costruita",
+"regione": "Vranidol",
+"relazione": null,
+"segno": "capricorno",
+"spirituale": {
+"credenza": "le stelle come registro",
+"rapporto": "devoto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "vigile",
+"universo": "neofeudal"
+}

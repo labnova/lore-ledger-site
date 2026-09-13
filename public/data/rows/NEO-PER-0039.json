@@ -1,0 +1,29 @@
+{
+"affettivo": null,
+"casta": "cavalieri",
+"ceppo": "basco",
+"cognome": "Okin",
+"contraddizione": "È il più diplomatico degli scudieri in addestramento, ma un solo scatto d'ira davanti alle voliere basta a far levare in volo i falchi fuori tempo, vanificando settimane di puntate.",
+"created": "2026-09-13",
+"difetto": "collerico",
+"epoca_relativa": 0,
+"estrazione": 24,
+"eta_fascia": "bambino",
+"gancio": "Il maestro dei falchi gli ha proibito di avvicinarsi alle voliere dopo l'ultimo scatto, ma è l'unico che i falchi seguono senza esitare.",
+"id": "NEO-PER-0039",
+"invenzione_id": "NEO-INV-0013",
+"nome": "Iñaki",
+"parent_id": null,
+"rapporto": "studia",
+"regione": "Vranidol",
+"relazione": null,
+"segno": "acquario",
+"spirituale": {
+"credenza": "dottrina del debito",
+"rapporto": "devoto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "diplomatico",
+"universo": "neofeudal"
+}
