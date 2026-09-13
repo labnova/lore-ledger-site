@@ -1404,6 +1404,16 @@
 "from": "ELA-CON-0002",
 "kind": "regione",
 "to": "ELA-REG-konya"
+},
+{
+"from": "NEO-CON-0001",
+"kind": "sorgente",
+"to": "NEO-PER-0010"
+},
+{
+"from": "NEO-CON-0001",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
 }
 ],
 "nodes": [
@@ -2300,6 +2310,12 @@
 "tipo": "invenzione",
 "titolo": "Goccia dall'Alto",
 "universo": "hackverse"
+},
+{
+"id": "NEO-CON-0001",
+"tipo": "contenuto",
+"titolo": "Come nasce una che non ci crede: il making-of di Nina Szabó",
+"universo": "neofeudal"
 },
 {
 "id": "NEO-GAD-0001",

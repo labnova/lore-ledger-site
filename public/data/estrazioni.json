@@ -954,5 +954,27 @@
 "NEO-INV-0023",
 "NEO-INV-0024"
 ]
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"NEO-PER-0010",
+"NEO-INV-0009"
+],
+"chiavi": {
+"canale": "twitch",
+"formato": "making_of",
+"medium": "video_lungo",
+"sorgente_id": "NEO-PER-0010",
+"veridicita": "making_of"
+},
+"created": "2026-09-13",
+"esito": "ok",
+"estrazione": 18,
+"forzata": false,
+"lotto": "lotto-contenuti",
+"righe_prodotte": [
+"NEO-CON-0001"
+]
 }
 ]

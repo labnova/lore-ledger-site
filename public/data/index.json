@@ -311,6 +311,18 @@
 },
 {
 "created": "2026-09-13",
+"estrazione": 18,
+"id": "NEO-CON-0001",
+"parent_id": null,
+"regione": "Calvenna",
+"relazione": null,
+"sommario": "Come nasce una che non ci crede: il making-of di Nina Szabó",
+"tipo": "contenuto",
+"titolo": "Come nasce una che non ci crede: il making-of di Nina Szabó",
+"universo": "neofeudal"
+},
+{
+"created": "2026-09-13",
 "estrazione": 14,
 "id": "ELA-CON-0002",
 "parent_id": null,
