@@ -1,0 +1,21 @@
+{
+"appare_in": [],
+"cluster": "ELA-INV-0005",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 31,
+"fatti": [],
+"id": "ELA-SEM-0001",
+"origine": "arricchimento",
+"ostacolo": "Nazlı Kotürk, che ha costruito quel rilevatore con le proprie mani, si oppone perché sa che l'ultimo modello registra frequenze che nemmeno lei osa ascoltare, e non vuole che Orsolya scopra perché.",
+"parent_id": null,
+"premessa": "Orsolya Pék, che non crede che le stelle tengano un registro di nulla, vuole comunque scoprire da sola cosa significhi il metallo mai censito che l'Eco della Materia ha trovato nello scafo dov'è nata, e per farlo ruba di notte l'accesso al rilevatore di Nazlı Kotürk.",
+"regione": "Konya",
+"relazione": null,
+"rottura": "Se lo strumento viene calibrato fino in fondo, confermerà che il metallo nello scafo di Orsolya risponde alla stessa voce nella rete che Tuğba Aktürk sente e teme — un fatto che nessuno a bordo potrà più negare.",
+"schema_version": 1,
+"status": "canon",
+"tipo": "seme",
+"tono": "tecnico-lirico, freddo, presago",
+"universo": "elabverse"
+}

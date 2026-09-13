@@ -1452,5 +1452,24 @@
 "righe_prodotte": [
 "NEO-GAD-0041"
 ]
+},
+{
+"campi_forzati": [],
+"chiavi": {
+"cluster": [
+"ELA-INV-0005",
+"NEO-INV-0013"
+]
+},
+"created": "2026-09-13",
+"esito": "ok",
+"estrazione": 31,
+"forzata": false,
+"lotto": "lotto-semi",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"ELA-SEM-0001",
+"NEO-SEM-0003"
+]
 }
 ]

@@ -1,0 +1,21 @@
+{
+"appare_in": [],
+"cluster": "NEO-INV-0013",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 31,
+"fatti": [],
+"id": "NEO-SEM-0003",
+"origine": "arricchimento",
+"ostacolo": "Zuri Mchungaji, che ricontrolla ogni volo tre volte prima di firmarlo, sta esaminando proprio il registro dei falchi di Vranidol e ha già trovato una cifra che non torna.",
+"parent_id": null,
+"premessa": "Piotr Bomitoczyk deve dimostrare al prete che benedirà le sue nozze che il falco segnaposto promesso alla famiglia della sposa sia davvero esistito e abbia volato, e per farlo falsifica il sigillo di volo sul registro con la Piuma Marchiata a Freddo.",
+"regione": "Vranidol",
+"relazione": null,
+"rottura": "Se Zuri risale al volo falsificato di Piotr, la Piuma Marchiata a Freddo si rivelerà per quello che è — un residuo dei vecchi marchiatori automatici della Diocesi — e le nozze di Piotr salteranno insieme alla fede di Vranidol nei sigilli benedetti.",
+"schema_version": 1,
+"status": "canon",
+"tipo": "seme",
+"tono": "liturgico, teso, contabile",
+"universo": "neofeudal"
+}

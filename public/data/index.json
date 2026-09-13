@@ -778,6 +778,21 @@
 },
 {
 "appare_in": [],
+"cluster": "NEO-INV-0013",
+"created": "2026-09-13",
+"estrazione": 31,
+"id": "NEO-SEM-0003",
+"origine": "arricchimento",
+"parent_id": null,
+"regione": "Vranidol",
+"relazione": null,
+"sommario": "Piotr Bomitoczyk deve dimostrare al prete che benedirà le sue nozze che il falco segnaposto promesso alla famiglia della sposa sia davvero esistito e abbia vol…",
+"tipo": "seme",
+"titolo": "seme NEO-INV-0013",
+"universo": "neofeudal"
+},
+{
+"appare_in": [],
 "cluster": "NEO-INV-0012",
 "created": "2026-09-13",
 "estrazione": 29,
@@ -1942,6 +1957,21 @@
 "tipo": "invenzione",
 "titolo": "Tonalità Zero",
 "universo": "hackverse"
+},
+{
+"appare_in": [],
+"cluster": "ELA-INV-0005",
+"created": "2026-09-13",
+"estrazione": 31,
+"id": "ELA-SEM-0001",
+"origine": "arricchimento",
+"parent_id": null,
+"regione": "Konya",
+"relazione": null,
+"sommario": "Orsolya Pék, che non crede che le stelle tengano un registro di nulla, vuole comunque scoprire da sola cosa significhi il metallo mai censito che l'Eco della M…",
+"tipo": "seme",
+"titolo": "seme ELA-INV-0005",
+"universo": "elabverse"
 },
 {
 "appare_in": [],
