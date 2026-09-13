@@ -1,0 +1,23 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Bertha vi incide ogni sera la rata versata, ma la cera si ammorbidisce durante il giorno al calore del corpo, e il mattino dopo trova la tavoletta liscia e deve ricominciare a contare.",
+"cosa": "Tavoletta di cera incorniciata in legno, con uno stilo di legno duro legato a un cordino.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 33,
+"fatti": [],
+"gancio": "Bertha giura di aver segnato la rata di ieri e non ne trova traccia, e comincia a sospettare che la tavoletta sia fatta apposta per farla sembrare più indebitata di quanto sia davvero.",
+"id": "CYB-GAD-0013",
+"invenzione_id": "CYB-INV-0011",
+"nome": "Taccuino di Cera del Nomade",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0005",
+"prod": false,
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "La cera non si scioglie per caso, è formulata per restare leggibile solo dal registro clericale che la fotografa ogni notte, e per chiunque altro, Bertha compresa, il conto sparisce sempre entro l'alba.",
+"universo": "cyberverse"
+}

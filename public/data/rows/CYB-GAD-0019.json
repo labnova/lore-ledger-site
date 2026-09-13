@@ -1,0 +1,23 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Bertha vi tiene i documenti di indulgenza di tutto il campo, non solo i propri, perché \"è la più protettiva e nessuno controlla se lei dimentica qualcosa\".",
+"cosa": "Bisaccia di cuoio spesso con un fondo rialzato che nasconde un piccolo vano.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 33,
+"fatti": [],
+"gancio": "Bertha si accorge che i documenti di un nipote sono spariti dal fondo doppio, e non ricorda se li ha consegnati lei stessa o se qualcuno li ha presi mentre dormiva.",
+"id": "CYB-GAD-0019",
+"invenzione_id": "CYB-INV-0011",
+"nome": "Borsa da Nomade a Doppio Fondo",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0005",
+"prod": true,
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Il vano nascosto è foderato di un materiale che impedisce al registro della curia di leggere a distanza i documenti che contiene, così i debiti di chi Bertha protegge restano invisibili al sistema finché non li porta lei stessa allo sportello.",
+"universo": "cyberverse"
+}

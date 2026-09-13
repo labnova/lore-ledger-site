@@ -1,0 +1,23 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Bertha lo porta legato alla cintura e vi infila un sassolino ogni volta che pensa di aver pagato una rata, per contarli poi la sera.",
+"cosa": "Sacchetto di cuoio con coulisse, abbastanza piccolo da stare in un pugno.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 33,
+"fatti": [],
+"gancio": "Bertha svuota il sacchetto per contare e si accorge di non ricordare più quale sassolino avesse messo per davvero.",
+"id": "CYB-GAD-0015",
+"invenzione_id": "CYB-INV-0011",
+"nome": "Sacchetto delle Rate",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0005",
+"prod": true,
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Solo il numero di sassolini infilati in un ordine preciso corrisponde a una rata reale registrata dalla curia, gli altri sono solo pietre, e nessuno le ha mai detto quale conta e quale no.",
+"universo": "cyberverse"
+}

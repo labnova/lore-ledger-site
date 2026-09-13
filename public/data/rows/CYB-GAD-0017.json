@@ -1,0 +1,23 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Bertha la suona una volta ogni sera prima di controllare la propria anima di scorta, come rituale che apre la sua verifica notturna.",
+"cosa": "Piccola campana con un batacchio di legno, appesa a un cordino fuori dal vagone.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 33,
+"fatti": [],
+"gancio": "Bertha trova nel registro due controlli nella stessa sera che giura di ricordare come uno solo, e non sa più se la campana suona per lei o al posto suo.",
+"id": "CYB-GAD-0017",
+"invenzione_id": "CYB-INV-0011",
+"nome": "Campanella da Campo",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0005",
+"prod": false,
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Il rintocco non è solo un rituale, la sua vibrazione viene captata da un ricevitore nascosto nello snodo ferroviario e usata per segnare l'orario esatto in cui Bertha ha controllato la propria copia, cosicché il registro sa sempre se lei ha davvero verificato o solo creduto di averlo fatto.",
+"universo": "cyberverse"
+}

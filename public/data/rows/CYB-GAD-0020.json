@@ -1,0 +1,23 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Bertha lo tiene sotto il cuscino e lo tocca ogni sera per \"sentire\" che la propria anima di scorta è ancora catalogata, prima di addormentarsi.",
+"cosa": "Ciondolo piatto di metallo opaco, con una superficie che si scalda lievemente al tatto.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 33,
+"fatti": [],
+"gancio": "Bertha sente il ciondolo scaldarsi una sera in cui giura di non averlo ancora toccato, e non sa se è la memoria a tradirla o il ciondolo a mentirle.",
+"id": "CYB-GAD-0020",
+"invenzione_id": "CYB-INV-0011",
+"nome": "Ciondolo del Controllo Notturno",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0005",
+"prod": false,
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Il calore non conferma nulla di per sé, è generato da un piccolo processo che si attiva solo se il registro ha ricevuto un accesso quella sera, che sia stato Bertha a farlo o un controllo automatico della curia, e il ciondolo non distingue i due casi.",
+"universo": "cyberverse"
+}

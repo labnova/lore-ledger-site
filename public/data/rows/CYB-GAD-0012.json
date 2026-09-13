@@ -1,0 +1,23 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Bertha lo tiene stretto al polso sinistro sotto la manica e lo tocca con il pollice ogni volta che dimentica un nome o un numero, come per riancorarsi a qualcosa di certo.",
+"cosa": "Bracciale di cuoio grezzo con una fila di piccole tacche incise lungo il bordo.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 33,
+"fatti": [],
+"gancio": "Un chierico saluta Bertha per nome prima ancora che lei si presenti, e lei capisce che il bracciale la sta segnalando a chi legge da lontano.",
+"id": "CYB-GAD-0012",
+"invenzione_id": "CYB-INV-0011",
+"nome": "Fascia Contabile da Polso",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0005",
+"prod": true,
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Le tacche non sono un conto personale ma un codice che la curia legge a distanza ogni volta che Bertha entra nel distretto trapianti, aggiornando il suo debito residuo senza che lei debba mai dichiararlo a nessuno sportello.",
+"universo": "cyberverse"
+}

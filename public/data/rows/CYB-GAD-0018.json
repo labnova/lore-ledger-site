@@ -1,0 +1,23 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Bertha lo indossa quando maneggia i certificati di donazione altrui, per \"non lasciare impronte sul debito di nessun altro\".",
+"cosa": "Guanto singolo di cuoio rinforzato, indossato solo sulla mano destra.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 33,
+"fatti": [],
+"gancio": "Bertha scopre che un certificato che ricorda di aver solo guardato risulta \"verificato di suo pugno\" nel registro, come se il guanto avesse deciso al posto suo.",
+"id": "CYB-GAD-0018",
+"invenzione_id": "CYB-INV-0011",
+"nome": "Guanto del Contabile Itinerante",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0005",
+"prod": false,
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Il rinforzo del palmo contiene un sensore che registra ogni certificato toccato, e la curia usa quei tocchi per ricostruire chi ha davvero verificato una donazione e chi si è solo fidato di guardare.",
+"universo": "cyberverse"
+}

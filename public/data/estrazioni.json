@@ -1583,5 +1583,50 @@
 "HAC-INV-0045",
 "HAC-INV-0046"
 ]
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"CYB-GAD-0009",
+"CYB-GAD-0004",
+"CYB-INV-0019"
+],
+"chiavi": {
+"invenzione_id": "CYB-INV-0011",
+"n_prod": 4,
+"personaggio_id": "CYB-PER-0005",
+"universo": "cyberverse"
+},
+"created": "2026-09-13",
+"esito": "ok",
+"espansioni": [
+{
+"id": "CYB-INV-0027",
+"parent_id": "CYB-INV-0019"
+}
+],
+"estrazione": 33,
+"forzata": false,
+"lotto": "lotto-gadget",
+"modello": "claude-sonnet-5",
+"prod": [
+"CYB-GAD-0011",
+"CYB-GAD-0012",
+"CYB-GAD-0015",
+"CYB-GAD-0019"
+],
+"righe_prodotte": [
+"CYB-GAD-0011",
+"CYB-GAD-0012",
+"CYB-GAD-0013",
+"CYB-GAD-0014",
+"CYB-GAD-0015",
+"CYB-GAD-0016",
+"CYB-GAD-0017",
+"CYB-GAD-0018",
+"CYB-GAD-0019",
+"CYB-GAD-0020",
+"CYB-INV-0027"
+]
 }
 ]

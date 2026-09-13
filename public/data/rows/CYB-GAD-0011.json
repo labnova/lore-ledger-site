@@ -1,0 +1,23 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Bertha lo passa tra le dita ogni sera prima di dormire, contando i grani come si contano le pecore, per ricordarsi quante rate dell'indulgenza ha ancora da versare.",
+"cosa": "Filo di grani lignei intervallati da grani di resina traslucida, portato come un rosario da lavoro.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 33,
+"fatti": [],
+"gancio": "Bertha si sveglia una notte con il rosario tiepido in mano e nessun ricordo di aver pagato nulla, e comincia a temere che qualcuno stia saldando le sue rate al posto suo.",
+"id": "CYB-GAD-0011",
+"invenzione_id": "CYB-INV-0011",
+"nome": "Rosario dei Saldi",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0005",
+"prod": true,
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "I grani di resina non sono decorativi, ognuno contiene un filamento che si scalda appena quando la curia registra una nuova rata pagata, e il rosario si scalda da solo nella notte in cui salda un debito che Bertha non ricorda di aver versato.",
+"universo": "cyberverse"
+}

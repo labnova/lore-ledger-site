@@ -31,6 +31,11 @@
 "to": "CYB-INV-0026"
 },
 {
+"from": "CYB-INV-0019",
+"kind": "parent",
+"to": "CYB-INV-0027"
+},
+{
 "from": "ELA-INV-0009",
 "kind": "parent",
 "to": "ELA-INV-0041"
@@ -1361,6 +1366,156 @@
 "to": "CYB-REG-rostkirche"
 },
 {
+"from": "CYB-GAD-0011",
+"kind": "invenzione",
+"to": "CYB-INV-0011"
+},
+{
+"from": "CYB-GAD-0011",
+"kind": "personaggio",
+"to": "CYB-PER-0005"
+},
+{
+"from": "CYB-GAD-0011",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0012",
+"kind": "invenzione",
+"to": "CYB-INV-0011"
+},
+{
+"from": "CYB-GAD-0012",
+"kind": "personaggio",
+"to": "CYB-PER-0005"
+},
+{
+"from": "CYB-GAD-0012",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0013",
+"kind": "invenzione",
+"to": "CYB-INV-0011"
+},
+{
+"from": "CYB-GAD-0013",
+"kind": "personaggio",
+"to": "CYB-PER-0005"
+},
+{
+"from": "CYB-GAD-0013",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0014",
+"kind": "invenzione",
+"to": "CYB-INV-0011"
+},
+{
+"from": "CYB-GAD-0014",
+"kind": "personaggio",
+"to": "CYB-PER-0005"
+},
+{
+"from": "CYB-GAD-0014",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0015",
+"kind": "invenzione",
+"to": "CYB-INV-0011"
+},
+{
+"from": "CYB-GAD-0015",
+"kind": "personaggio",
+"to": "CYB-PER-0005"
+},
+{
+"from": "CYB-GAD-0015",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0016",
+"kind": "invenzione",
+"to": "CYB-INV-0011"
+},
+{
+"from": "CYB-GAD-0016",
+"kind": "personaggio",
+"to": "CYB-PER-0005"
+},
+{
+"from": "CYB-GAD-0016",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0017",
+"kind": "invenzione",
+"to": "CYB-INV-0011"
+},
+{
+"from": "CYB-GAD-0017",
+"kind": "personaggio",
+"to": "CYB-PER-0005"
+},
+{
+"from": "CYB-GAD-0017",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0018",
+"kind": "invenzione",
+"to": "CYB-INV-0011"
+},
+{
+"from": "CYB-GAD-0018",
+"kind": "personaggio",
+"to": "CYB-PER-0005"
+},
+{
+"from": "CYB-GAD-0018",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0019",
+"kind": "invenzione",
+"to": "CYB-INV-0011"
+},
+{
+"from": "CYB-GAD-0019",
+"kind": "personaggio",
+"to": "CYB-PER-0005"
+},
+{
+"from": "CYB-GAD-0019",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0020",
+"kind": "invenzione",
+"to": "CYB-INV-0011"
+},
+{
+"from": "CYB-GAD-0020",
+"kind": "personaggio",
+"to": "CYB-PER-0005"
+},
+{
+"from": "CYB-GAD-0020",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
 "from": "ELA-GAD-0001",
 "kind": "invenzione",
 "to": "ELA-INV-0001"
@@ -2459,6 +2614,66 @@
 "universo": "cyberverse"
 },
 {
+"id": "CYB-GAD-0011",
+"tipo": "gadget",
+"titolo": "Rosario dei Saldi",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0012",
+"tipo": "gadget",
+"titolo": "Fascia Contabile da Polso",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0013",
+"tipo": "gadget",
+"titolo": "Taccuino di Cera del Nomade",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0014",
+"tipo": "gadget",
+"titolo": "Medaglia del Crollo Giusto",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0015",
+"tipo": "gadget",
+"titolo": "Sacchetto delle Rate",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0016",
+"tipo": "gadget",
+"titolo": "Nastro dei Nipoti Scoperti",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0017",
+"tipo": "gadget",
+"titolo": "Campanella da Campo",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0018",
+"tipo": "gadget",
+"titolo": "Guanto del Contabile Itinerante",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0019",
+"tipo": "gadget",
+"titolo": "Borsa da Nomade a Doppio Fondo",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0020",
+"tipo": "gadget",
+"titolo": "Ciondolo del Controllo Notturno",
+"universo": "cyberverse"
+},
+{
 "id": "CYB-INV-0001",
 "tipo": "invenzione",
 "titolo": "Il Libro della Grazia",
@@ -2612,6 +2827,12 @@
 "id": "CYB-INV-0026",
 "tipo": "invenzione",
 "titolo": "Il Concilio dei Riceventi Affezionati",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0027",
+"tipo": "invenzione",
+"titolo": "Il Tariffario dei Miracoli",
 "universo": "cyberverse"
 },
 {

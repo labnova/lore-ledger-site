@@ -1,0 +1,23 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Bertha li tiene in una tasca interna, mai al collo, perché dice che portarli addosso \"sarebbe fingere che siano al sicuro\".",
+"cosa": "Due nastri di stoffa grezza, annodati insieme, ciascuno con un nome ricamato a mano.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 33,
+"fatti": [],
+"gancio": "Un chierico le chiede perché porti addosso i nomi di due persone senza fascicolo, e Bertha non sa rispondere se è per proteggerli o per ricordarsi che non l'ha fatto.",
+"id": "CYB-GAD-0016",
+"invenzione_id": "CYB-INV-0011",
+"nome": "Nastro dei Nipoti Scoperti",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0005",
+"prod": false,
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "I nastri sono lo scarto del processo di catalogazione dell'anima di scorta, i nomi ricamati sono quelli dei nipoti che non hanno mai avuto un'anima registrata, e tenerli è l'unico modo in cui Bertha può \"cercarli\" nel sistema senza attivare una vera richiesta.",
+"universo": "cyberverse"
+}

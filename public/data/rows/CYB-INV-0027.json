@@ -1,0 +1,24 @@
+{
+"appare_in": [],
+"created": "2026-09-13",
+"discipline": [
+"religione/teologia",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 1,
+"estrazione": 33,
+"fatti": [],
+"gancio": "Una famiglia povera nota che l'omelia del proprio caro riusa frasi già sentite ad altri funerali, e capisce di aver ricevuto senza saperlo la fascia più economica.",
+"id": "CYB-INV-0027",
+"nome": "Il Tariffario dei Miracoli",
+"nome_reale": "Listino a cottimo delle metafore funebri per fascia di originalità",
+"parent_id": "CYB-INV-0019",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il programma che compone le omelie tiene un conto di quali frasi sono già state usate altrove, e la curia vende alle famiglie fasce di prezzo in base a quante metafore inedite si acquistano per il funerale del proprio donatore.",
+"universo": "cyberverse"
+}
