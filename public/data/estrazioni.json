@@ -1278,5 +1278,49 @@
 "NEO-PER-0044",
 "NEO-PER-0045"
 ]
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"CYB-INV-0005",
+"CYB-INV-0019",
+"CYB-INV-0016"
+],
+"chiavi": {
+"invenzione_id": "CYB-INV-0013",
+"n_prod": 3,
+"personaggio_id": "CYB-PER-0004",
+"universo": "cyberverse"
+},
+"created": "2026-09-13",
+"esito": "ok",
+"espansioni": [
+"CYB-INV-0024",
+"CYB-INV-0025",
+"CYB-INV-0026"
+],
+"estrazione": 25,
+"forzata": false,
+"lotto": "lotto-gadget",
+"prod": [
+"CYB-GAD-0001",
+"CYB-GAD-0002",
+"CYB-GAD-0008"
+],
+"righe_prodotte": [
+"CYB-GAD-0001",
+"CYB-GAD-0002",
+"CYB-GAD-0003",
+"CYB-GAD-0004",
+"CYB-GAD-0005",
+"CYB-GAD-0006",
+"CYB-GAD-0007",
+"CYB-GAD-0008",
+"CYB-GAD-0009",
+"CYB-GAD-0010",
+"CYB-INV-0024",
+"CYB-INV-0025",
+"CYB-INV-0026"
+]
 }
 ]

@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Stefan la indossa solo durante il Sacramento del Donatore Vivente e la ripone subito dopo in una cassa di cedro perché \"non si consumi il rito insieme al tessuto\".",
+"cosa": "Fascia di tessuto pesante ricamata con simboli del culto degli antenati, da portare sulle spalle durante le funzioni.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 25,
+"gancio": "Stefan nota che le funzioni più brevi producono donatori con priorità più alta in lista, e comincia a sospettare che il culto sia pagato per andare di fretta.",
+"id": "CYB-GAD-0009",
+"invenzione_id": "CYB-INV-0013",
+"nome": "Stola del Funzionario",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0004",
+"prod": false,
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Il ricamo pesante nasconde una trama conduttiva che registra la durata esatta della funzione e la carica, secondo per secondo, nello stesso registro che alimenta l'algoritmo di scoring per la lista d'attesa.",
+"universo": "cyberverse"
+}

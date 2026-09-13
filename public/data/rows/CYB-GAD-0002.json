@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Stefan lo tiene in una tasca interna della stola e lo preme sul contratto notarile subito dopo la funzione, mentre l'incenso è ancora acceso.",
+"cosa": "Timbro a mano con impugnatura in legno tornito e testa in ottone che imprime nella cera un sigillo a doppia spirale.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 25,
+"gancio": "Un notaio nota che i sigilli di due donatori diversi combaciano perfettamente se sovrapposti, come se il timbro conoscesse in anticipo dove tagliare.",
+"id": "CYB-GAD-0002",
+"invenzione_id": "CYB-INV-0013",
+"nome": "Sigillo di Cera del Consenso",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0004",
+"prod": true,
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "La doppia spirale del sigillo riproduce in scala il diagramma del prelievo, cosicché ogni contratto sigillato porta già impressa la mappa dell'organo che verrà tolto.",
+"universo": "cyberverse"
+}

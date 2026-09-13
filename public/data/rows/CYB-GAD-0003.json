@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Stefan lo porta sempre con sé e lo consulta ossessivamente, riscrivendo negli stessi margini le note che teme di aver già perso.",
+"cosa": "Taccuino rilegato in cuoio con fibbia in ottone e linguette numerate cucite a mano sul bordo delle pagine.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 25,
+"gancio": "Trova una linguetta completamente consumata su una pagina che giurerebbe di non aver mai letto prima.",
+"id": "CYB-GAD-0003",
+"invenzione_id": "CYB-INV-0013",
+"nome": "Registro dei Ricordi Smarriti",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0004",
+"prod": false,
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Le linguette non sono un indice ma un contatore meccanico, che si consuma un poco ogni volta che la pagina corrispondente viene riaperta, e Stefan non sa che il taccuino conta quante volte ha già dimenticato la stessa cosa.",
+"universo": "cyberverse"
+}

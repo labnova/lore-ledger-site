@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"religione/teologia",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 1,
+"estrazione": 25,
+"gancio": "Un tecnico si accorge che il donatore \"più amato\" del sistema non è mai esistito, è un composito ottimizzato dalle preferenze aggregate di centinaia di riceventi.",
+"id": "CYB-INV-0026",
+"nome": "Il Concilio dei Riceventi Affezionati",
+"nome_reale": "Modulo di raccolta feedback dei riceventi per addestrare l'agiografia sintetica dell'app",
+"parent_id": "CYB-INV-0016",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "L'app registra quali dettagli inventati sul donatore fanno affezionare di più i riceventi e li rende canonici nelle versioni successive, trasformando la menzogna più gradita in agiografia ufficiale del culto.",
+"universo": "cyberverse"
+}

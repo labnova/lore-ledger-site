@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Stefan lo suona un'unica volta alla fine di ogni funzione, per \"annunciare agli antenati\" che il consenso è stato raccolto.",
+"cosa": "Piccola campana in lega chiara, montata su un manico corto in legno intagliato con motivi a spirale.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 25,
+"gancio": "Stefan si accorge che il suono del campanello, quel giorno, era identico a quello di una funzione di tre anni prima di cui non ricorda nulla, e nel suo registro non ne trova traccia.",
+"id": "CYB-GAD-0006",
+"invenzione_id": "CYB-INV-0013",
+"nome": "Campanello degli Antenati",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0004",
+"prod": false,
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Il suono del campanello non è mai identico, la lega vibra secondo un pattern minimo diverso ogni volta, funzione dello stato biometrico del donatore rilevato durante la cerimonia, ma nessuno tranne Stefan sa leggere la differenza.",
+"universo": "cyberverse"
+}

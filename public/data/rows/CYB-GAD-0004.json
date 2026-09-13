@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Le famiglie dei donatori lo ricevono da Stefan al termine della funzione e lo portano al collo come pegno che l'anima di scorta del proprio caro resti catalogata dal culto.",
+"cosa": "Ciondolo di resina traslucida a forma di goccia, con all'interno una sagoma capillare che ricorda un filamento nervoso.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 25,
+"gancio": "Una madre nota che il filamento del proprio ciondolo cambia leggermente forma nel tempo, come se qualcosa dentro venisse ancora aggiornato.",
+"id": "CYB-GAD-0004",
+"invenzione_id": "CYB-INV-0013",
+"nome": "Amuleto dell'Anima di Scorta",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0004",
+"prod": false,
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Il filamento interno non è decorativo, è lo stampo esatto del tracciato che il sistema usa per indicizzare la copia dell'anima nel registro del culto, colato in resina perché nessuno lo riconosca per quello che è.",
+"universo": "cyberverse"
+}

@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Stefan la porta al collo insieme all'amuleto, ed è l'unica chiave che apre la teca dove il culto conserva i registri di consenso non ancora archiviati.",
+"cosa": "Piccola chiave in ottone brunito, dentellatura irregolare, con un anello inciso di simboli del culto.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 25,
+"gancio": "Stefan perde la chiave per una settimana e nessuno se ne accorge, perché un'altra copia di cui non sapeva l'esistenza ha continuato ad aprire la teca al posto suo.",
+"id": "CYB-GAD-0010",
+"invenzione_id": "CYB-INV-0013",
+"nome": "Chiave della Teca Vuota",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0004",
+"prod": false,
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "La dentellatura irregolare non è decorativa, codifica il seriale della cartuccia filtrante del turibolo in uso quel giorno, così la chiave apre la teca solo se la funzione è stata davvero celebrata con quel turibolo.",
+"universo": "cyberverse"
+}

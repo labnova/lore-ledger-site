@@ -16,6 +16,21 @@
 "to": "CYB-INV-0023"
 },
 {
+"from": "CYB-INV-0005",
+"kind": "parent",
+"to": "CYB-INV-0024"
+},
+{
+"from": "CYB-INV-0019",
+"kind": "parent",
+"to": "CYB-INV-0025"
+},
+{
+"from": "CYB-INV-0016",
+"kind": "parent",
+"to": "CYB-INV-0026"
+},
+{
 "from": "ELA-INV-0009",
 "kind": "parent",
 "to": "ELA-INV-0041"
@@ -1036,6 +1051,156 @@
 "to": "STE-REG-ledoskol"
 },
 {
+"from": "CYB-GAD-0001",
+"kind": "invenzione",
+"to": "CYB-INV-0013"
+},
+{
+"from": "CYB-GAD-0001",
+"kind": "personaggio",
+"to": "CYB-PER-0004"
+},
+{
+"from": "CYB-GAD-0001",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0002",
+"kind": "invenzione",
+"to": "CYB-INV-0013"
+},
+{
+"from": "CYB-GAD-0002",
+"kind": "personaggio",
+"to": "CYB-PER-0004"
+},
+{
+"from": "CYB-GAD-0002",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0003",
+"kind": "invenzione",
+"to": "CYB-INV-0013"
+},
+{
+"from": "CYB-GAD-0003",
+"kind": "personaggio",
+"to": "CYB-PER-0004"
+},
+{
+"from": "CYB-GAD-0003",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0004",
+"kind": "invenzione",
+"to": "CYB-INV-0013"
+},
+{
+"from": "CYB-GAD-0004",
+"kind": "personaggio",
+"to": "CYB-PER-0004"
+},
+{
+"from": "CYB-GAD-0004",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0005",
+"kind": "invenzione",
+"to": "CYB-INV-0013"
+},
+{
+"from": "CYB-GAD-0005",
+"kind": "personaggio",
+"to": "CYB-PER-0004"
+},
+{
+"from": "CYB-GAD-0005",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0006",
+"kind": "invenzione",
+"to": "CYB-INV-0013"
+},
+{
+"from": "CYB-GAD-0006",
+"kind": "personaggio",
+"to": "CYB-PER-0004"
+},
+{
+"from": "CYB-GAD-0006",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0007",
+"kind": "invenzione",
+"to": "CYB-INV-0013"
+},
+{
+"from": "CYB-GAD-0007",
+"kind": "personaggio",
+"to": "CYB-PER-0004"
+},
+{
+"from": "CYB-GAD-0007",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0008",
+"kind": "invenzione",
+"to": "CYB-INV-0013"
+},
+{
+"from": "CYB-GAD-0008",
+"kind": "personaggio",
+"to": "CYB-PER-0004"
+},
+{
+"from": "CYB-GAD-0008",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0009",
+"kind": "invenzione",
+"to": "CYB-INV-0013"
+},
+{
+"from": "CYB-GAD-0009",
+"kind": "personaggio",
+"to": "CYB-PER-0004"
+},
+{
+"from": "CYB-GAD-0009",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0010",
+"kind": "invenzione",
+"to": "CYB-INV-0013"
+},
+{
+"from": "CYB-GAD-0010",
+"kind": "personaggio",
+"to": "CYB-PER-0004"
+},
+{
+"from": "CYB-GAD-0010",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
 "from": "ELA-GAD-0001",
 "kind": "invenzione",
 "to": "ELA-INV-0001"
@@ -1824,6 +1989,66 @@
 "universo": "cyberverse"
 },
 {
+"id": "CYB-GAD-0001",
+"tipo": "gadget",
+"titolo": "Turibolo a Filtro Clinico",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0002",
+"tipo": "gadget",
+"titolo": "Sigillo di Cera del Consenso",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0003",
+"tipo": "gadget",
+"titolo": "Registro dei Ricordi Smarriti",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0004",
+"tipo": "gadget",
+"titolo": "Amuleto dell'Anima di Scorta",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0005",
+"tipo": "gadget",
+"titolo": "Velo delle Testimonianze",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0006",
+"tipo": "gadget",
+"titolo": "Campanello degli Antenati",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0007",
+"tipo": "gadget",
+"titolo": "Icona Portatile del Donatore Vivente",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0008",
+"tipo": "gadget",
+"titolo": "Rosario dei Consensi",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0009",
+"tipo": "gadget",
+"titolo": "Stola del Funzionario",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0010",
+"tipo": "gadget",
+"titolo": "Chiave della Teca Vuota",
+"universo": "cyberverse"
+},
+{
 "id": "CYB-INV-0001",
 "tipo": "invenzione",
 "titolo": "Il Libro della Grazia",
@@ -1959,6 +2184,24 @@
 "id": "CYB-INV-0023",
 "tipo": "invenzione",
 "titolo": "Il Baratto delle Rate",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0024",
+"tipo": "invenzione",
+"titolo": "Il Libro delle Recidive",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0025",
+"tipo": "invenzione",
+"titolo": "Il Concordanziere delle Parabole",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0026",
+"tipo": "invenzione",
+"titolo": "Il Concilio dei Riceventi Affezionati",
 "universo": "cyberverse"
 },
 {

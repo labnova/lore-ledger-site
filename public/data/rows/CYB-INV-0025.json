@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"religione/teologia",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 1,
+"estrazione": 25,
+"gancio": "Un prete del culto scopre il modulo per caso e comincia a scegliere di proposito le frasi più riciclate, convinto che la ripetizione le renda più vere, non meno.",
+"id": "CYB-INV-0025",
+"nome": "Il Concordanziere delle Parabole",
+"nome_reale": "Modulo di verifica plagio liturgico tra omelie generate per donatori diversi",
+"parent_id": "CYB-INV-0019",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Un modulo separato confronta ogni nuova omelia generata con l'archivio di quelle già lette ai funerali precedenti, segnalando come \"miracolo\" ogni frase che si ripete abbastanza da sembrare provvidenziale invece che riciclata.",
+"universo": "cyberverse"
+}

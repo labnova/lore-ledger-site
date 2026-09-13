@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"religione/teologia",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 1,
+"estrazione": 25,
+"gancio": "Una donna scopre che la sua seconda richiesta di trapianto è stata respinta per una frase detta anni prima, in una confessione che credeva dimenticata da tutti tranne che da lei.",
+"id": "CYB-INV-0024",
+"nome": "Il Libro delle Recidive",
+"nome_reale": "Archivio delle recidive vocali per il ricalcolo dello scoring dopo il rigetto",
+"parent_id": "CYB-INV-0005",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Ogni volta che un trapianto fallisce, il sistema riascolta la confessione originale del ricevente cercando increspature di tono che \"avrebbero dovuto\" prevedere il rigetto, e le aggiunge come prova retroattiva contro future richieste.",
+"universo": "cyberverse"
+}
