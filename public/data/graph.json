@@ -2159,6 +2159,11 @@
 "from": "NEO-CON-0001",
 "kind": "regione",
 "to": "NEO-REG-calvenna"
+},
+{
+"from": "STE-CON-0001",
+"kind": "sorgente",
+"to": "STE-INV-0008"
 }
 ],
 "nodes": [
@@ -3967,6 +3972,12 @@
 "tipo": "regione",
 "titolo": "Vranidol",
 "universo": "neofeudal"
+},
+{
+"id": "STE-CON-0001",
+"tipo": "contenuto",
+"titolo": "Come si traccia la rotta d'inverno (archivio d'istruzione, Compagnia degli Aratri)",
+"universo": "steamverse"
 },
 {
 "id": "STE-GAD-0001",

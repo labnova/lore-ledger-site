@@ -601,6 +601,18 @@
 },
 {
 "created": "2026-09-13",
+"estrazione": 27,
+"id": "STE-CON-0001",
+"parent_id": null,
+"regione": null,
+"relazione": null,
+"sommario": "Come si traccia la rotta d'inverno (archivio d'istruzione, Compagnia degli Aratri)",
+"tipo": "contenuto",
+"titolo": "Come si traccia la rotta d'inverno (archivio d'istruzione, Compagnia degli Aratri)",
+"universo": "steamverse"
+},
+{
+"created": "2026-09-13",
 "estrazione": 24,
 "id": "NEO-REG-vranidol",
 "parent_id": null,
