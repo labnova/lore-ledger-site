@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "single"
+},
+"casta": "cavalieri",
+"ceppo": "swahili",
+"cognome": "Ngonyani",
+"contraddizione": "È stato affidato a Dalila come scudiero per onorare la memoria del marito caduto in duello, ma è suo padre l'uomo che vinse quel duello con una quota sbagliata.",
+"created": "2026-09-13",
+"difetto": "ingenuo",
+"epoca_relativa": 0,
+"estrazione": 13,
+"eta_fascia": "giovane",
+"gancio": "Ogni notte la segue di nascosto fino al Bestiario delle Quote, temendo che scopra chi era davvero suo padre prima che lo scopra lui stesso.",
+"id": "NEO-PER-0034",
+"invenzione_id": "NEO-INV-0009",
+"nome": "Juma",
+"parent_id": "NEO-PER-0024",
+"rapporto": "teme",
+"regione": "Calvenna",
+"relazione": "espansione",
+"schema_version": 1,
+"segno": "capricorno",
+"spirituale": {
+"credenza": "i versetti del culto del feudo",
+"rapporto": "dubbioso"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "leale",
+"universo": "neofeudal"
+}

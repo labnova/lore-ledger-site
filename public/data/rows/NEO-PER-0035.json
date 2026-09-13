@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "vedova"
+},
+"casta": "clero",
+"ceppo": "turco",
+"cognome": "Kutlu",
+"contraddizione": "È stata lei a insegnare a Kaan come correggere il registro astrale, eppure ora prega ogni notte che le stelle si vendichino di quella bugia.",
+"created": "2026-09-13",
+"difetto": "bugiarda",
+"epoca_relativa": 0,
+"estrazione": 13,
+"eta_fascia": "anziano",
+"gancio": "Kaan ha smesso di chiederle il permesso prima di correggere le quote, e le correzioni sono diventate più esatte di quanto lei gli abbia mai insegnato.",
+"id": "NEO-PER-0035",
+"invenzione_id": "NEO-INV-0012",
+"nome": "Elmas",
+"parent_id": "NEO-PER-0012",
+"rapporto": "teme",
+"regione": "Vasperdine",
+"relazione": "espansione",
+"schema_version": 1,
+"segno": "vergine",
+"spirituale": {
+"credenza": "le stelle come registro",
+"rapporto": "devota"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "cauta",
+"universo": "neofeudal"
+}

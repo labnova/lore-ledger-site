@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Ogni giocatore che si siede al tavolo della Selva del Branco.",
+"cosa": "Piccola borsa in cuoio grezzo con laccio, cucita per contenere fino a dieci fiche.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 13,
+"gancio": "Il sacchetto di Imani non contiene mai lo stesso numero di fiche che dichiara.",
+"id": "NEO-GAD-0013",
+"invenzione_id": "NEO-INV-0019",
+"nome": "Sacchetto della Posta",
+"parent_id": null,
+"personaggio_id": "NEO-PER-0008",
+"prod": true,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Il cuoio è concio con lo stesso pigmento che Imani usa per marcare i falsi, ma nessuno lo controlla mai da fuori.",
+"universo": "neofeudal"
+}

@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "I banconieri della Selva del Branco, che lo maneggiano al posto dell'originale osseo.",
+"cosa": "Chip da gioco in cera dura, sagomato a forma di zanna, con microtaglio impresso a caldo.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 13,
+"gancio": "Chi lo scambia per un Dente di Lupo vero perde la mano e la faccia.",
+"id": "NEO-GAD-0011",
+"invenzione_id": "NEO-INV-0019",
+"nome": "Fiche di Cera del Branco",
+"parent_id": null,
+"personaggio_id": "NEO-PER-0008",
+"prod": true,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "La cera non porta memoria della bestia; il microtaglio è solo disegno, non certificato.",
+"universo": "neofeudal"
+}

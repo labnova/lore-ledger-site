@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Il richiamatore, che sta in piedi accanto al banco per tutta la partita.",
+"cosa": "Piccolo fischietto ricavato da un osso cavo, usato per segnalare il cambio delle quote al tavolo.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 13,
+"gancio": "Nessuno ha mai chiesto chi insegna al richiamatore quando fischiare.",
+"id": "NEO-GAD-0018",
+"invenzione_id": "NEO-INV-0019",
+"nome": "Fischietto d'Osso del Cambio",
+"parent_id": null,
+"personaggio_id": "NEO-PER-0008",
+"prod": false,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Il fischio giusto arriva sempre un istante prima che la quota cambi davvero, come se qualcuno lo sapesse in anticipo.",
+"universo": "neofeudal"
+}

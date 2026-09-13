@@ -745,5 +745,52 @@
 "NEO-PER-0030",
 "NEO-PER-0031"
 ]
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"NEO-PER-0024",
+"NEO-PER-0012"
+],
+"chiavi": {
+"invenzione_id": "NEO-INV-0019",
+"n_prod": 5,
+"personaggio_id": "NEO-PER-0008",
+"universo": "neofeudal"
+},
+"created": "2026-09-13",
+"esito": "ok",
+"espansioni": [
+{
+"id": "NEO-PER-0034",
+"parent_id": "NEO-PER-0024"
+},
+{
+"id": "NEO-PER-0035",
+"parent_id": "NEO-PER-0012"
+}
+],
+"estrazione": 13,
+"forzata": false,
+"lotto": "lotto-gadget",
+"prod": [
+"NEO-GAD-0011",
+"NEO-GAD-0013",
+"NEO-GAD-0015",
+"NEO-GAD-0016",
+"NEO-GAD-0019"
+],
+"righe_prodotte": [
+"NEO-GAD-0011",
+"NEO-GAD-0012",
+"NEO-GAD-0013",
+"NEO-GAD-0014",
+"NEO-GAD-0015",
+"NEO-GAD-0016",
+"NEO-GAD-0017",
+"NEO-GAD-0018",
+"NEO-GAD-0019",
+"NEO-GAD-0020"
+]
 }
 ]

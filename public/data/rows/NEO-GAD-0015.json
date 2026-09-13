@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Il tenutario del tavolo, che lo aggiorna a ogni partita.",
+"cosa": "Quaderno di carta ruvida legato con spago, dove si annota quale dente ha vinto quale mano.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 13,
+"gancio": "Le pagine più vecchie sono state strappate, e nessuno vuole dire da chi.",
+"id": "NEO-GAD-0015",
+"invenzione_id": "NEO-INV-0019",
+"nome": "Registro delle Bestie Vinte",
+"parent_id": null,
+"personaggio_id": "NEO-PER-0008",
+"prod": true,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Le voci scritte da Imani coincidono sempre con le quote del suo Bestiario falsificato, come se lei sapesse già chi vincerà.",
+"universo": "neofeudal"
+}

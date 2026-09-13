@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Il banconiere capo, unico autorizzato a certificare un lotto di Denti di Lupo.",
+"cosa": "Anello in resina dura con impresso lo stemma della Selva, usato per sigillare con la cera i sacchetti di fiche.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 13,
+"gancio": "Due sigilli identici hanno certificato lo stesso lotto in due tavoli diversi la stessa notte.",
+"id": "NEO-GAD-0016",
+"invenzione_id": "NEO-INV-0019",
+"nome": "Sigillo del Banco",
+"parent_id": null,
+"personaggio_id": "NEO-PER-0008",
+"prod": true,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Imani ne possiede una copia identica, fusa da un calco rubato una notte di festa.",
+"universo": "neofeudal"
+}
