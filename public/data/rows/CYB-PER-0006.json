@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "bisessuale",
+"situazione": "relazione_segreta"
+},
+"casta": "nomadi_urbani",
+"ceppo": "germanico",
+"cognome": "Falkstein",
+"contraddizione": "Ha contribuito a costruire l'anima di scorta ascoltando per anni le paure dei pazienti, ma ora è sordo ai consigli di chiunque provi a dirgli che il protocollo andrebbe aggiornato.",
+"created": "2026-09-13",
+"difetto": "sordo_ai_consigli",
+"epoca_relativa": 0,
+"estrazione": 16,
+"eta_fascia": "anziano",
+"gancio": "Friedrich rifiuta ogni richiesta di modifica al protocollo che ha scritto lui stesso, anche quando gli mostrano i casi in cui la copia sopravvive più a lungo del previsto.",
+"id": "CYB-PER-0006",
+"invenzione_id": "CYB-INV-0015",
+"nome": "Friedrich",
+"parent_id": null,
+"rapporto": "costruita",
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"segno": "sagittario",
+"spirituale": {
+"credenza": "il_cielo_amministrato",
+"rapporto": "scettico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "vigile",
+"universo": "cyberverse"
+}

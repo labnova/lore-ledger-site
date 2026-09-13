@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "pansessuale",
+"situazione": "sposato"
+},
+"casta": "nomadi_urbani",
+"ceppo": "ibrido",
+"cognome": "Etxeondo",
+"contraddizione": "Vende l'anima di scorta come un gesto di conforto per i parenti in attesa, ma la sua crudeltà per distrazione le fa dimenticare il nome del cliente prima ancora di consegnare la copia.",
+"created": "2026-09-13",
+"difetto": "crudele_per_distrazione",
+"epoca_relativa": 0,
+"estrazione": 16,
+"eta_fascia": "anziano",
+"gancio": "Eszter tiene un registro a parte, scritto a mano, delle anime che ha venduto senza ricordare a chi, e qualcuno ha iniziato a reclamarle indietro.",
+"id": "CYB-PER-0001",
+"invenzione_id": "CYB-INV-0015",
+"nome": "Eszter",
+"parent_id": null,
+"rapporto": "vende",
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"segno": "scorpione",
+"spirituale": {
+"credenza": "le_macchine_sognano",
+"rapporto": "scettico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "protettivo",
+"universo": "cyberverse"
+}

@@ -1,0 +1,30 @@
+{
+"affettivo": null,
+"casta": "nomadi_urbani",
+"ceppo": "germanico",
+"cognome": "Schwarzhauhardt",
+"contraddizione": "Crede che il cielo sia amministrato come un ufficio a moduli e code, eppure vende copie di anime fuori da ogni registro, nel mercato che quell'ufficio dovrebbe controllare.",
+"created": "2026-09-13",
+"difetto": "indolente",
+"epoca_relativa": 0,
+"estrazione": 16,
+"eta_fascia": "adolescente",
+"gancio": "Lotte segna ogni copia venduta su un quaderno, come se fosse una pratica da presentare un giorno a uno sportello celeste, convinta che prima o poi qualcuno gliela farà pagare.",
+"id": "CYB-PER-0002",
+"invenzione_id": "CYB-INV-0015",
+"nome": "Lotte",
+"parent_id": null,
+"rapporto": "vende",
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"segno": "pesci",
+"spirituale": {
+"credenza": "il_cielo_amministrato",
+"rapporto": "mistico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ironico",
+"universo": "cyberverse"
+}

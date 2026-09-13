@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"religione/teologia",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 1,
+"estrazione": 16,
+"gancio": "Una teca resta vuota per mesi perché il tribunale non riesce a mettersi d'accordo se il grado di santità dell'organo giustifichi il costo della vetrina.",
+"id": "CYB-INV-0022",
+"nome": "La Teca dei Rigettati",
+"nome_reale": "Registro delle reliquie post-rigetto per i canonizzati dal tribunale",
+"parent_id": "CYB-INV-0017",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Ogni donatore canonizzato dal Concilio ottiene una teca nel corridoio della clinica con un frammento dell'organo rifiutato, catalogato dall'algoritmo come reliquia di grado variabile.",
+"universo": "cyberverse"
+}

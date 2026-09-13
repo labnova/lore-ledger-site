@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "bisessuale",
+"situazione": "separato"
+},
+"casta": "nomadi_urbani",
+"ceppo": "germanico",
+"cognome": "Schäfer",
+"contraddizione": "Studia l'anima di scorta per conto del culto degli antenati, catalogando ricordi altrui, ma è talmente smemorato da aver perso il proprio registro di note tre volte quest'anno.",
+"created": "2026-09-13",
+"difetto": "smemorato",
+"epoca_relativa": 0,
+"estrazione": 16,
+"eta_fascia": "adulto",
+"gancio": "Stefan sospetta di aver già capito, in una delle note perse, perché certe copie di scorta sopravvivono più a lungo del corpo che dovrebbero servire, ma non ricorda dove l'ha scritto.",
+"id": "CYB-PER-0004",
+"invenzione_id": "CYB-INV-0015",
+"nome": "Stefan",
+"parent_id": null,
+"rapporto": "studia",
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"segno": "cancro",
+"spirituale": {
+"credenza": "culto_degli_antenati",
+"rapporto": "funzionario_del_culto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "sognatore",
+"universo": "cyberverse"
+}

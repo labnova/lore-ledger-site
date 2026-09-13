@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "fidanzato"
+},
+"casta": "nomadi_urbani",
+"ceppo": "germanico",
+"cognome": "Lindinfeld",
+"contraddizione": "Usa l'anima di scorta con la devozione di chi crede che il ciclo del ritorno lo riporterà comunque, ma è così ingenuo da aver firmato senza leggerlo un contratto che cede la copia alla clinica in caso di mancato pagamento.",
+"created": "2026-09-13",
+"difetto": "ingenuo",
+"epoca_relativa": 0,
+"estrazione": 16,
+"eta_fascia": "anziano",
+"gancio": "Markus scopre solo dopo l'intervento che la sua copia di scorta appartiene ora alla clinica, e continua a fidarsi che gliela restituiranno.",
+"id": "CYB-PER-0007",
+"invenzione_id": "CYB-INV-0015",
+"nome": "Markus",
+"parent_id": null,
+"rapporto": "usa",
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"segno": "vergine",
+"spirituale": {
+"credenza": "ciclo_del_ritorno",
+"rapporto": "devoto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "leale",
+"universo": "cyberverse"
+}

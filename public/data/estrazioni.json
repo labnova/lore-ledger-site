@@ -857,5 +857,58 @@
 "CYB-INV-0019",
 "CYB-INV-0020"
 ]
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"CYB-INV-0014",
+"CYB-INV-0017",
+"CYB-INV-0011",
+"CYB-INV-0015"
+],
+"chiavi": {
+"casta": "nomadi_urbani",
+"invenzione_id": "CYB-INV-0015",
+"personaggi": [
+"Eszter Etxeondo",
+"Lotte Schwarzhauhardt",
+"Ksenia Rybar",
+"Stefan Schäfer",
+"Bertha Zimmermann",
+"Friedrich Falkstein",
+"Markus Lindinfeld",
+"Renate Steinelbach",
+"Detlef Hoffinberg",
+"Greta Hartinghoff"
+],
+"regione": "Rostkirche",
+"universo": "cyberverse"
+},
+"created": "2026-09-13",
+"esito": "ok",
+"espansioni": [
+"CYB-INV-0021",
+"CYB-INV-0022",
+"CYB-INV-0023"
+],
+"estrazione": 16,
+"forzata": false,
+"lotto": "lotto-personaggi",
+"righe_prodotte": [
+"CYB-REG-rostkirche",
+"CYB-PER-0001",
+"CYB-PER-0002",
+"CYB-PER-0003",
+"CYB-PER-0004",
+"CYB-PER-0005",
+"CYB-PER-0006",
+"CYB-PER-0007",
+"CYB-PER-0008",
+"CYB-PER-0009",
+"CYB-PER-0010",
+"CYB-INV-0021",
+"CYB-INV-0022",
+"CYB-INV-0023"
+]
 }
 ]

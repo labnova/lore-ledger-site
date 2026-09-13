@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "bisessuale",
+"situazione": "vedovo"
+},
+"casta": "nomadi_urbani",
+"ceppo": "slavo",
+"cognome": "Rybar",
+"contraddizione": "Teme l'anima di scorta come un furto di ciò che resta di una persona, ma è troppo avara per rifiutare i crediti che i nomadi guadagnano trasportando le copie che dice di temere.",
+"created": "2026-09-13",
+"difetto": "avaro",
+"epoca_relativa": 0,
+"estrazione": 16,
+"eta_fascia": "giovane",
+"gancio": "Ksenia porta sempre con sé una copia di backup mai reclamata, quella di suo marito morto, perché costa meno lasciarla dov'è che pagare per cancellarla.",
+"id": "CYB-PER-0003",
+"invenzione_id": "CYB-INV-0015",
+"nome": "Ksenia",
+"parent_id": null,
+"rapporto": "teme",
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"segno": "bilancia",
+"spirituale": {
+"credenza": "ciclo_del_ritorno",
+"rapporto": "indifferente"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "protettivo",
+"universo": "cyberverse"
+}

@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"religione/teologia",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 1,
+"estrazione": 16,
+"gancio": "Un'infermiera scopre che le preghiere più costose vengono sempre esaudite entro la notte, e che a pagarle è sempre la stessa fondazione, mai un parente.",
+"id": "CYB-INV-0021",
+"nome": "Le Offerte del Purgatorio",
+"nome_reale": "Sistema di indulgenze a pagamento per l'avanzamento in coda trapianti",
+"parent_id": "CYB-INV-0014",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il purgatorio dello schermo permette ai parenti di comprare \"preghiere\", crediti che spostano l'icona di qualche gradino, ufficialmente donazioni alla clinica, ufficiosamente scorciatoie.",
+"universo": "cyberverse"
+}

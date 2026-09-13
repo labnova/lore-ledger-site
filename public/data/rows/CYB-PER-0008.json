@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "bisessuale",
+"situazione": "separato"
+},
+"casta": "nomadi_urbani",
+"ceppo": "germanico",
+"cognome": "Steinelbach",
+"contraddizione": "Teme l'anima di scorta come un furto dell'anima vera, ma è così superstiziosa da portarne sempre con sé una copia di riserva \"per sicurezza\".",
+"created": "2026-09-13",
+"difetto": "superstizioso",
+"epoca_relativa": 0,
+"estrazione": 16,
+"eta_fascia": "anziano",
+"gancio": "Renate ha fatto fare tre copie di scorta negli anni, una per ogni disgrazia che potrebbe capitare, e ora nessuno sa quale sia quella valida.",
+"id": "CYB-PER-0008",
+"invenzione_id": "CYB-INV-0015",
+"nome": "Renate",
+"parent_id": null,
+"rapporto": "teme",
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"segno": "gemelli",
+"spirituale": {
+"credenza": "le_macchine_sognano",
+"rapporto": "mistico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "pragmatico",
+"universo": "cyberverse"
+}

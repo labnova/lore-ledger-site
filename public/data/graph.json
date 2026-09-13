@@ -1,6 +1,21 @@
 {
 "edges": [
 {
+"from": "CYB-INV-0014",
+"kind": "parent",
+"to": "CYB-INV-0021"
+},
+{
+"from": "CYB-INV-0017",
+"kind": "parent",
+"to": "CYB-INV-0022"
+},
+{
+"from": "CYB-INV-0011",
+"kind": "parent",
+"to": "CYB-INV-0023"
+},
+{
 "from": "ELA-INV-0009",
 "kind": "parent",
 "to": "ELA-INV-0041"
@@ -174,6 +189,106 @@
 "from": "NEO-INV-0022",
 "kind": "regione",
 "to": "NEO-REG-calvenna"
+},
+{
+"from": "CYB-PER-0001",
+"kind": "invenzione",
+"to": "CYB-INV-0015"
+},
+{
+"from": "CYB-PER-0001",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-PER-0002",
+"kind": "invenzione",
+"to": "CYB-INV-0015"
+},
+{
+"from": "CYB-PER-0002",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-PER-0003",
+"kind": "invenzione",
+"to": "CYB-INV-0015"
+},
+{
+"from": "CYB-PER-0003",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-PER-0004",
+"kind": "invenzione",
+"to": "CYB-INV-0015"
+},
+{
+"from": "CYB-PER-0004",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-PER-0005",
+"kind": "invenzione",
+"to": "CYB-INV-0015"
+},
+{
+"from": "CYB-PER-0005",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-PER-0006",
+"kind": "invenzione",
+"to": "CYB-INV-0015"
+},
+{
+"from": "CYB-PER-0006",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-PER-0007",
+"kind": "invenzione",
+"to": "CYB-INV-0015"
+},
+{
+"from": "CYB-PER-0007",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-PER-0008",
+"kind": "invenzione",
+"to": "CYB-INV-0015"
+},
+{
+"from": "CYB-PER-0008",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-PER-0009",
+"kind": "invenzione",
+"to": "CYB-INV-0015"
+},
+{
+"from": "CYB-PER-0009",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-PER-0010",
+"kind": "invenzione",
+"to": "CYB-INV-0015"
+},
+{
+"from": "CYB-PER-0010",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
 },
 {
 "from": "ELA-PER-0001",
@@ -1250,6 +1365,90 @@
 "id": "CYB-INV-0020",
 "tipo": "invenzione",
 "titolo": "Il Martirio Differito",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0021",
+"tipo": "invenzione",
+"titolo": "Le Offerte del Purgatorio",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0022",
+"tipo": "invenzione",
+"titolo": "La Teca dei Rigettati",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0023",
+"tipo": "invenzione",
+"titolo": "Il Baratto delle Rate",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0001",
+"tipo": "personaggio",
+"titolo": "Eszter Etxeondo",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0002",
+"tipo": "personaggio",
+"titolo": "Lotte Schwarzhauhardt",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0003",
+"tipo": "personaggio",
+"titolo": "Ksenia Rybar",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0004",
+"tipo": "personaggio",
+"titolo": "Stefan Schäfer",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0005",
+"tipo": "personaggio",
+"titolo": "Bertha Zimmermann",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0006",
+"tipo": "personaggio",
+"titolo": "Friedrich Falkstein",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0007",
+"tipo": "personaggio",
+"titolo": "Markus Lindinfeld",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0008",
+"tipo": "personaggio",
+"titolo": "Renate Steinelbach",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0009",
+"tipo": "personaggio",
+"titolo": "Detlef Hoffinberg",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0010",
+"tipo": "personaggio",
+"titolo": "Greta Hartinghoff",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-REG-rostkirche",
+"tipo": "regione",
+"titolo": "Rostkirche",
 "universo": "cyberverse"
 },
 {

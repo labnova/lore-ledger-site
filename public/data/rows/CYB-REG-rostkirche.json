@@ -1,0 +1,18 @@
+{
+"ceppo_dominante": "germanico",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 16,
+"id": "CYB-REG-rostkirche",
+"nome": "Rostkirche",
+"note": "Accampamento di nomadi urbani cresciuto attorno a uno snodo ferroviario dismesso ai margini del distretto trapianti; i cognomi restano legati ai mestieri di chi ci transitava prima del collasso della linea, e se ne guadagna uno nuovo solo restando abbastanza a lungo.",
+"onomastica": "legata",
+"p_cognome_mestiere": 0.26,
+"parent_id": null,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "regione",
+"universo": "cyberverse"
+}

@@ -1,0 +1,33 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "single"
+},
+"casta": "nomadi_urbani",
+"ceppo": "germanico",
+"cognome": "Zimmermann",
+"contraddizione": "È la più protettiva del campo, eppure ha fatto l'anima di scorta solo per sé, lasciando senza copia i due nipoti che dice di proteggere.",
+"created": "2026-09-13",
+"difetto": "smemorato",
+"epoca_relativa": 0,
+"estrazione": 16,
+"eta_fascia": "maturo",
+"gancio": "Bertha controlla la propria copia di scorta ogni sera come un rituale, ma non ricorda più se l'ha già controllata o se sta solo ricordando di averlo fatto ieri.",
+"id": "CYB-PER-0005",
+"invenzione_id": "CYB-INV-0015",
+"nome": "Bertha",
+"parent_id": null,
+"rapporto": "usa",
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"segno": "leone",
+"spirituale": {
+"credenza": "il_crollo_come_giudizio",
+"rapporto": "indifferente"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "protettivo",
+"universo": "cyberverse"
+}

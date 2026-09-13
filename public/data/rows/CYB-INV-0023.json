@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"religione/teologia",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 1,
+"estrazione": 16,
+"gancio": "Un broker di rate scopre che una rata rivenduta tre volte porta ancora il nome del primo debitore, morto due anni prima, e nessuno l'ha mai cancellato dal registro.",
+"id": "CYB-INV-0023",
+"nome": "Il Baratto delle Rate",
+"nome_reale": "Mercato parallelo di crediti d'indulgenza rivenduti dai debitori",
+"parent_id": "CYB-INV-0011",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Chi non riesce a pagare le rate dell'indulgenza le rivende sottocosto a chi vuole scontare il proprio debito più in fretta, in un mercato tollerato dalla curia perché tiene comunque il registro pieno di nomi.",
+"universo": "cyberverse"
+}
