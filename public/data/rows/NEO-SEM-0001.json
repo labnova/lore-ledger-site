@@ -1,0 +1,19 @@
+{
+"cluster": "NEO-INV-0009",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 29,
+"id": "NEO-SEM-0001",
+"origine": "arricchimento",
+"ostacolo": "Fra' Tumaini Shamba sa che il Bestiario è un modello predittivo e che è lui a scrivere a matita le quote quando il modello sbaglia, ma è un pettegolo: nessuno sa se userà quella verità per proteggere Nina o per farsi notare dal clero.",
+"parent_id": null,
+"premessa": "Nina Szabó, dodici anni, ha imparato a leggere di nascosto i versetti del Bestiario delle Quote e vuole sapere perché l'animale che Juma Mwangaza sta dipingendo a memoria di un sogno ha la quota più bassa di tutte.",
+"regione": "Calvenna",
+"relazione": null,
+"rottura": "Se Nina scopre che la quota a matita è stata scritta da Tumaini la stessa notte del sogno di Juma, il Bestiario smette di essere un oracolo e diventa un uomo stanco che corregge i propri errori — e i contadini che ci scommettono sopra non possono più non saperlo.",
+"schema_version": 1,
+"status": "canon",
+"tipo": "seme",
+"tono": "sacro contabile, ironia amara",
+"universo": "neofeudal"
+}

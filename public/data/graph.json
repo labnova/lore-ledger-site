@@ -981,6 +981,21 @@
 "to": "NEO-REG-calvenna"
 },
 {
+"from": "NEO-PER-0046",
+"kind": "parent",
+"to": "NEO-PER-0048"
+},
+{
+"from": "NEO-PER-0048",
+"kind": "invenzione",
+"to": "NEO-INV-0009"
+},
+{
+"from": "NEO-PER-0048",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
 "from": "STE-PER-0001",
 "kind": "invenzione",
 "to": "STE-INV-0012"
@@ -2164,6 +2179,36 @@
 "from": "STE-CON-0001",
 "kind": "sorgente",
 "to": "STE-INV-0008"
+},
+{
+"from": "CYB-SEM-0001",
+"kind": "cluster",
+"to": "CYB-INV-0015"
+},
+{
+"from": "CYB-SEM-0001",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "NEO-SEM-0001",
+"kind": "cluster",
+"to": "NEO-INV-0009"
+},
+{
+"from": "NEO-SEM-0001",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-SEM-0002",
+"kind": "cluster",
+"to": "NEO-INV-0012"
+},
+{
+"from": "NEO-SEM-0002",
+"kind": "regione",
+"to": "NEO-REG-vasperdine"
 }
 ],
 "nodes": [
@@ -2453,6 +2498,12 @@
 "id": "CYB-REG-rostkirche",
 "tipo": "regione",
 "titolo": "Rostkirche",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-SEM-0001",
+"tipo": "seme",
+"titolo": "seme CYB-INV-0015",
 "universo": "cyberverse"
 },
 {
@@ -3956,6 +4007,12 @@
 "universo": "neofeudal"
 },
 {
+"id": "NEO-PER-0048",
+"tipo": "personaggio",
+"titolo": "Bahati Chege",
+"universo": "neofeudal"
+},
+{
 "id": "NEO-REG-calvenna",
 "tipo": "regione",
 "titolo": "Calvenna",
@@ -3971,6 +4028,18 @@
 "id": "NEO-REG-vranidol",
 "tipo": "regione",
 "titolo": "Vranidol",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-SEM-0001",
+"tipo": "seme",
+"titolo": "seme NEO-INV-0009",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-SEM-0002",
+"tipo": "seme",
+"titolo": "seme NEO-INV-0012",
 "universo": "neofeudal"
 },
 {

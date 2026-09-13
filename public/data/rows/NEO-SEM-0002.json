@@ -1,0 +1,19 @@
+{
+"cluster": "NEO-INV-0012",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 29,
+"id": "NEO-SEM-0002",
+"origine": "arricchimento",
+"ostacolo": "Elmas Kutlu, che gli ha insegnato lei stessa a falsificare il registro, ora prega ogni notte che le stelle si vendichino di quella bugia e teme quanto Kaan sia diventato bravo a mentire.",
+"parent_id": null,
+"premessa": "Kaan Dokumacı vuole che le quote del registro astrale della Selva delle Puntate tornino sempre esatte prima che i signori le leggano, come gli ha insegnato Elmas Kutlu — ma ha smesso di chiederle il permesso prima di correggerle.",
+"regione": "Vasperdine",
+"relazione": null,
+"rottura": "Le correzioni di Kaan sono diventate più esatte di quanto Elmas gli abbia mai insegnato: qualcosa, o qualcuno, sta guidando la sua mano, e il prossimo rilancio della Selva rischia di non essere più deciso da nessun umano.",
+"schema_version": 1,
+"status": "canon",
+"tipo": "seme",
+"tono": "liturgico, ansioso, presago",
+"universo": "neofeudal"
+}

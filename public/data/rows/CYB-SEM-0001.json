@@ -1,0 +1,19 @@
+{
+"cluster": "CYB-INV-0015",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 29,
+"id": "CYB-SEM-0001",
+"origine": "arricchimento",
+"ostacolo": "Friedrich Falkstein ha scritto lui stesso il protocollo dell'anima di scorta e rifiuta ogni richiesta di modifica, anche quando gli si mostra il caso di Markus tra quelli in cui la copia sopravvive più a lungo del previsto.",
+"parent_id": null,
+"premessa": "Markus Lindinfeld vuole indietro la sua anima di scorta: scopre solo dopo l'intervento che il contratto firmato senza leggerlo l'ha ceduta alla clinica per un pagamento mancato, e continua a fidarsi, ingenuamente, che gliela restituiranno.",
+"regione": "Rostkirche",
+"relazione": null,
+"rottura": "Markus scopre che il proprio Sigillo di Cera del Consenso riproduce in scala esatta, nella doppia spirale, la mappa del prelievo: aveva firmato la propria sorte prima ancora che gliela spiegassero.",
+"schema_version": 1,
+"status": "canon",
+"tipo": "seme",
+"tono": "noir clinico, freddo, liturgico",
+"universo": "cyberverse"
+}

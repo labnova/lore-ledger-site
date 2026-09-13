@@ -612,6 +612,34 @@
 "universo": "steamverse"
 },
 {
+"cluster": "NEO-INV-0012",
+"created": "2026-09-13",
+"estrazione": 29,
+"id": "NEO-SEM-0002",
+"origine": "arricchimento",
+"parent_id": null,
+"regione": "Vasperdine",
+"relazione": null,
+"sommario": "Kaan Dokumacı vuole che le quote del registro astrale della Selva delle Puntate tornino sempre esatte prima che i signori le leggano, come gli ha insegnato Elm…",
+"tipo": "seme",
+"titolo": "seme NEO-INV-0012",
+"universo": "neofeudal"
+},
+{
+"cluster": "NEO-INV-0009",
+"created": "2026-09-13",
+"estrazione": 29,
+"id": "NEO-SEM-0001",
+"origine": "arricchimento",
+"parent_id": null,
+"regione": "Calvenna",
+"relazione": null,
+"sommario": "Nina Szabó, dodici anni, ha imparato a leggere di nascosto i versetti del Bestiario delle Quote e vuole sapere perché l'animale che Juma Mwangaza sta dipingend…",
+"tipo": "seme",
+"titolo": "seme NEO-INV-0009",
+"universo": "neofeudal"
+},
+{
 "created": "2026-09-13",
 "estrazione": 24,
 "id": "NEO-REG-vranidol",
@@ -636,6 +664,9 @@
 "universo": "neofeudal"
 },
 {
+"completamenti": [
+"NEO-PER-0048"
+],
 "created": "2026-09-13",
 "estrazione": 26,
 "id": "NEO-PER-0046",
@@ -1529,6 +1560,20 @@
 "tipo": "contenuto",
 "titolo": "Come si tara un prisma da apprendista (archivio interno, anello di Konya)",
 "universo": "elabverse"
+},
+{
+"cluster": "CYB-INV-0015",
+"created": "2026-09-13",
+"estrazione": 29,
+"id": "CYB-SEM-0001",
+"origine": "arricchimento",
+"parent_id": null,
+"regione": "Rostkirche",
+"relazione": null,
+"sommario": "Markus Lindinfeld vuole indietro la sua anima di scorta: scopre solo dopo l'intervento che il contratto firmato senza leggerlo l'ha ceduta alla clinica per un…",
+"tipo": "seme",
+"titolo": "seme CYB-INV-0015",
+"universo": "cyberverse"
 },
 {
 "created": "2026-09-13",

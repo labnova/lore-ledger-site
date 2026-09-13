@@ -1386,5 +1386,49 @@
 "righe_prodotte": [
 "STE-CON-0001"
 ]
+},
+{
+"campi_forzati": [],
+"chiavi": {
+"campi_completati": {
+"NEO-PER-0046": [
+"affettivo"
+]
+},
+"madri": [
+"NEO-PER-0046"
+]
+},
+"created": "2026-09-13",
+"esito": "ok",
+"estrazione": 28,
+"forzata": false,
+"lotto": "lotto-completamento",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"NEO-PER-0048"
+]
+},
+{
+"campi_forzati": [],
+"chiavi": {
+"cluster": [
+"CYB-INV-0015",
+"NEO-INV-0009",
+"NEO-INV-0012"
+]
+},
+"created": "2026-09-13",
+"esito": "ok",
+"estrazione": 29,
+"forzata": false,
+"lotto": "lotto-semi",
+"modello": "claude-sonnet-5",
+"recuperato_da_run": 34763976196,
+"righe_prodotte": [
+"CYB-SEM-0001",
+"NEO-SEM-0001",
+"NEO-SEM-0002"
+]
 }
 ]
