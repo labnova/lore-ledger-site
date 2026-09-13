@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"moda/cosmesi",
+"ottica/lenti"
+],
+"epoca_relativa": 0,
+"estrazione": 23,
+"gancio": "Un varco doganale segnala una \"corrispondenza sospetta\" su un passeggero che, secondo il sistema, ha due iridi leggermente diverse tra loro.",
+"id": "HAC-INV-0021",
+"nome": "Tonalità Zero",
+"nome_reale": "Algoritmo di color-matching del fondotinta al tono di pelle",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "L'algoritmo che trova la tonalità di fondotinta più vicina a un incarnato viene riaddestrato per stimare, in tempo reale, quanto una lente a contatto cosmetica si discosta dal colore naturale di un'iride.",
+"universo": "hackverse"
+}

@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"moda/cosmesi",
+"ottica/lenti"
+],
+"epoca_relativa": 0,
+"estrazione": 23,
+"gancio": "Un istituto di sicurezza scopre che tre dipendenti diversi risultano avere, secondo il sistema, la stessa identica iride.",
+"id": "HAC-INV-0025",
+"nome": "Iride Prestata",
+"nome_reale": "Scansione biometrica dell'iride per il riconoscimento d'accesso",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il sensore che mappa i solchi dell'iride per aprire una porta blindata viene invertito e addestrato a certificare come autentica una stampa cosmetica dell'iride di un altro.",
+"universo": "hackverse"
+}

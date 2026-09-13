@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"moda/cosmesi",
+"ottica/lenti"
+],
+"epoca_relativa": 0,
+"estrazione": 23,
+"gancio": "Un sistema di identificazione digitale segnala come morto un uomo che, tre giorni dopo, cammina davanti alla stessa telecamera.",
+"id": "HAC-INV-0028",
+"nome": "L'Occhio che Guarda Ancora",
+"nome_reale": "Ocularistica (pittura a mano di protesi oculari)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La tecnica dell'ocularista che dipinge iride e vasi sanguigni su una protesi oculare viene usata per truccare, strato su strato, un volto vivo perché un algoritmo forense lo classifichi come cadavere.",
+"universo": "hackverse"
+}

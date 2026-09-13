@@ -1135,5 +1135,55 @@
 "righe_prodotte": [
 "CYB-CON-0001"
 ]
+},
+{
+"bibbia_pescata": [
+"<!-- substrato iniziale: vuoto, scritto a mano -->"
+],
+"campi_forzati": [],
+"canone_pescato": [
+"HAC-INV-0002",
+"HAC-INV-0007",
+"HAC-INV-0006"
+],
+"chiavi": {
+"discipline": [
+"moda/cosmesi",
+"ottica/lenti"
+],
+"universo": "hackverse"
+},
+"created": "2026-09-13",
+"esito": "ok",
+"espansioni": [
+"HAC-INV-0041",
+"HAC-INV-0042",
+"HAC-INV-0043"
+],
+"estrazione": 23,
+"forzata": false,
+"lotto": "lotto-lore",
+"righe_prodotte": [
+"HAC-INV-0021",
+"HAC-INV-0022",
+"HAC-INV-0023",
+"HAC-INV-0024",
+"HAC-INV-0025",
+"HAC-INV-0026",
+"HAC-INV-0027",
+"HAC-INV-0028",
+"HAC-INV-0029",
+"HAC-INV-0030",
+"HAC-INV-0031",
+"HAC-INV-0032",
+"HAC-INV-0033",
+"HAC-INV-0034",
+"HAC-INV-0035",
+"HAC-INV-0036",
+"HAC-INV-0037",
+"HAC-INV-0038",
+"HAC-INV-0039",
+"HAC-INV-0040"
+]
 }
 ]

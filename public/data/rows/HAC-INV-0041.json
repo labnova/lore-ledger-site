@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"agricoltura/irrigazione",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 1,
+"estrazione": 23,
+"gancio": "Un innesto attecchisce per settimane prima che qualcuno si accorga che il sistema lo aveva segnato, fin dall'inizio, come \"approssimato\".",
+"id": "HAC-INV-0041",
+"nome": "Il Quasi Giusto",
+"nome_reale": "Innesto per approssimazione (portainnesto \"abbastanza vicino\" quando manca quello ideale)",
+"parent_id": "HAC-INV-0002",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il modulo che, in mancanza della marza perfetta, suggerisce il portainnesto \"abbastanza vicino\" resta attivo di default nel sistema di compatibilità immunologica, e comincia a proporre donatori solo abbastanza compatibili.",
+"universo": "hackverse"
+}

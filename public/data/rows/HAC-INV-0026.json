@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"moda/cosmesi",
+"ottica/lenti"
+],
+"epoca_relativa": 0,
+"estrazione": 23,
+"gancio": "Un chirurgo plastico riconosce la propria formula di correttore nel referto di un occhiale sequestrato durante un'indagine.",
+"id": "HAC-INV-0026",
+"nome": "Seconda Pelle",
+"nome_reale": "Trucco mimetico per cicatrici e ustioni",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Le tecniche che nascondono una cicatrice sotto strati di correttore vengono applicate a una montatura d'occhiali trattata perché, davanti a una telecamera, sembri pelle e non vetro.",
+"universo": "hackverse"
+}

@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"moda/cosmesi",
+"ottica/lenti"
+],
+"epoca_relativa": 0,
+"estrazione": 23,
+"gancio": "Un testimone giura di aver visto un occhio \"cadere\" da solo dal volto di un uomo in fuga.",
+"id": "HAC-INV-0036",
+"nome": "Tenuta a Tempo",
+"nome_reale": "Adesivo per ciglia finte a cianoacrilato a bassa irritazione",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La colla che tiene ciglia finte per un'intera serata e poi si stacca da sola viene usata per fissare temporaneamente una lente sclerale cosmetica programmata per staccarsi passato un tempo prestabilito.",
+"universo": "hackverse"
+}

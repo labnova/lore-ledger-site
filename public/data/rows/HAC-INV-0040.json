@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"moda/cosmesi",
+"ottica/lenti"
+],
+"epoca_relativa": 0,
+"estrazione": 23,
+"gancio": "Un negozio di ottica scopre che il suo specchio virtuale è stato usato, nell'ultimo mese, soprattutto da persone che non hanno mai comprato nulla.",
+"id": "HAC-INV-0040",
+"nome": "Lo Specchio che Consiglia",
+"nome_reale": "Algoritmo di raccomandazione della montatura in base al volto (try-on virtuale)",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il software che consiglia in negozio la montatura più adatta al proprio viso viene invertito per suggerire, a chi deve sparire, la forma di montatura che meno si adatta al proprio volto secondo gli stessi modelli di riconoscimento.",
+"universo": "hackverse"
+}

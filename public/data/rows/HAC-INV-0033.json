@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"moda/cosmesi",
+"ottica/lenti"
+],
+"epoca_relativa": 0,
+"estrazione": 23,
+"gancio": "Un sistema di sicurezza dichiara \"vivo e autentico\" un occhio che, in laboratorio, risulta stampato su un substrato di due giorni prima.",
+"id": "HAC-INV-0033",
+"nome": "Il Sigillo che Mente",
+"nome_reale": "Software di verifica ottica degli ologrammi anticontraffazione sul packaging cosmetico",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il software che verifica, tramite riflessi calibrati, l'autenticità di un ologramma su una confezione di cosmetici viene invertito per generare il pattern di riflessi che convince un sistema di liveness detection che una lente a contatto stampata è un occhio vivo.",
+"universo": "hackverse"
+}

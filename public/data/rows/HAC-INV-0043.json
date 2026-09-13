@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"agricoltura/irrigazione",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 2,
+"estrazione": 23,
+"gancio": "Un'ispezione sanitaria trova un registro con dodici nomi e un solo calendario, tutti in \"riposo\" a turno, mai nello stesso giorno.",
+"id": "HAC-INV-0043",
+"nome": "Il Campo Che Non Si Ferma Mai",
+"nome_reale": "Rotazione coordinata su più appezzamenti (mai tutti in riposo insieme)",
+"parent_id": "HAC-INV-0006",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il calendario che fa riposare più appezzamenti a turno, così che uno sia sempre pronto mentre gli altri recuperano, viene applicato a un gruppo di donatori viventi gestiti come un unico \"campo\" che non deve mai risultare del tutto esaurito.",
+"universo": "hackverse"
+}

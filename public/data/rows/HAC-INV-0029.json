@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"moda/cosmesi",
+"ottica/lenti"
+],
+"epoca_relativa": 0,
+"estrazione": 23,
+"gancio": "Un salone di bellezza diventa il posto più veloce in città per cambiare colore agli occhi prima di un controllo.",
+"id": "HAC-INV-0029",
+"nome": "Presa Istantanea",
+"nome_reale": "Smalto gel a fotopolimerizzazione UV",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La resina che indurisce sotto lampada UV in pochi secondi per fissare uno smalto viene colata in stampi per lenti a contatto usa e getta, pronte in cabina in meno di un minuto.",
+"universo": "hackverse"
+}

@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"moda/cosmesi",
+"ottica/lenti"
+],
+"epoca_relativa": 0,
+"estrazione": 23,
+"gancio": "Un'ottica di quartiere diventa, senza saperlo, il posto dove ci si fa \"tagliare\" il volto prima di un lavoro.",
+"id": "HAC-INV-0027",
+"nome": "Il Taglio Giusto",
+"nome_reale": "Calcolo di centratura della lente sull'asse visivo del paziente",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il calcolo che centra una lente oftalmica sull'asse visivo del paziente viene riadattato per individuare, su un volto truccato, il punto esatto in cui il contouring inganna il software di riconoscimento facciale.",
+"universo": "hackverse"
+}

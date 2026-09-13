@@ -71,6 +71,21 @@
 "to": "ELA-INV-0071"
 },
 {
+"from": "HAC-INV-0002",
+"kind": "parent",
+"to": "HAC-INV-0041"
+},
+{
+"from": "HAC-INV-0007",
+"kind": "parent",
+"to": "HAC-INV-0042"
+},
+{
+"from": "HAC-INV-0006",
+"kind": "parent",
+"to": "HAC-INV-0043"
+},
+{
 "from": "NEO-INV-0001",
 "kind": "regione",
 "to": "NEO-REG-calvenna"
@@ -2600,6 +2615,144 @@
 "id": "HAC-INV-0020",
 "tipo": "invenzione",
 "titolo": "Goccia dall'Alto",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0021",
+"tipo": "invenzione",
+"titolo": "Tonalità Zero",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0022",
+"tipo": "invenzione",
+"titolo": "Pelle Opaca",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0023",
+"tipo": "invenzione",
+"titolo": "Tratto Fantasma",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0024",
+"tipo": "invenzione",
+"titolo": "Ombra Ritardata",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0025",
+"tipo": "invenzione",
+"titolo": "Iride Prestata",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0026",
+"tipo": "invenzione",
+"titolo": "Seconda Pelle",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0027",
+"tipo": "invenzione",
+"titolo": "Il Taglio Giusto",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0028",
+"tipo": "invenzione",
+"titolo": "L'Occhio che Guarda Ancora",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0029",
+"tipo": "invenzione",
+"titolo": "Presa Istantanea",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0030",
+"tipo": "invenzione",
+"titolo": "Luce Filtrata",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0031",
+"tipo": "invenzione",
+"titolo": "Taglio di Precisione",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0032",
+"tipo": "invenzione",
+"titolo": "Colore che Nasce da Sé",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0033",
+"tipo": "invenzione",
+"titolo": "Il Sigillo che Mente",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0034",
+"tipo": "invenzione",
+"titolo": "Tre Fuochi",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0035",
+"tipo": "invenzione",
+"titolo": "Bianco che Brucia",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0036",
+"tipo": "invenzione",
+"titolo": "Tenuta a Tempo",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0037",
+"tipo": "invenzione",
+"titolo": "Rilascio Lento",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0038",
+"tipo": "invenzione",
+"titolo": "Doppio Specchio",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0039",
+"tipo": "invenzione",
+"titolo": "Cancellatura Morbida",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0040",
+"tipo": "invenzione",
+"titolo": "Lo Specchio che Consiglia",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0041",
+"tipo": "invenzione",
+"titolo": "Il Quasi Giusto",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0042",
+"tipo": "invenzione",
+"titolo": "Il Rumore di Fondo",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0043",
+"tipo": "invenzione",
+"titolo": "Il Campo Che Non Si Ferma Mai",
 "universo": "hackverse"
 },
 {

@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"moda/cosmesi",
+"ottica/lenti"
+],
+"epoca_relativa": 0,
+"estrazione": 23,
+"gancio": "Un archivio di foto segnaletiche mostra la stessa persona con occhi sempre un filo più chiari, settimana dopo settimana.",
+"id": "HAC-INV-0037",
+"nome": "Rilascio Lento",
+"nome_reale": "Microcapsule di profumo a rilascio graduale nei tessuti",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La capsula che rilascia profumo goccia a goccia per ore viene riempita di un colorante che tinge una lente a contatto un poco alla volta, per invecchiare un'identità falsa nell'arco di una settimana.",
+"universo": "hackverse"
+}

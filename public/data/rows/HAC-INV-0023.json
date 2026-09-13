@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"moda/cosmesi",
+"ottica/lenti"
+],
+"epoca_relativa": 0,
+"estrazione": 23,
+"gancio": "Un'oculista riconosce il proprio tratto a mano libera nell'occhio finto di uno sconosciuto, su una foto segnaletica.",
+"id": "HAC-INV-0023",
+"nome": "Tratto Fantasma",
+"nome_reale": "Microblading (tatuaggio semipermanente delle sopracciglia)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "L'ago che deposita pigmento a strati sottilissimi per disegnare sopracciglia naturali viene ricalibrato per incidere, sulla sclera di una lente cosmetica, i micro-difetti che rendono unica un'iride vera.",
+"universo": "hackverse"
+}

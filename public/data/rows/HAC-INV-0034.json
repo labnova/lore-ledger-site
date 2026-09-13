@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"moda/cosmesi",
+"ottica/lenti"
+],
+"epoca_relativa": 0,
+"estrazione": 23,
+"gancio": "Tre telecamere alla stessa festa fotografano tre volti leggermente diversi della stessa persona.",
+"id": "HAC-INV-0034",
+"nome": "Tre Fuochi",
+"nome_reale": "Zonizzazione del fuoco in una lente progressiva multifocale",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il software che calcola le tre fasce di fuoco di una lente progressiva viene riusato per disegnare un trucco a bande che appare diverso a seconda della distanza da cui lo riprende una telecamera.",
+"universo": "hackverse"
+}

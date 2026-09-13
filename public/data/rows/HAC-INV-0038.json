@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"moda/cosmesi",
+"ottica/lenti"
+],
+"epoca_relativa": 0,
+"estrazione": 23,
+"gancio": "Un operatore di sicurezza giura di aver visto qualcuno rimpicciolirsi camminando verso l'uscita.",
+"id": "HAC-INV-0038",
+"nome": "Doppio Specchio",
+"nome_reale": "Specchio ingranditore da trucco a doppia curvatura",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La curvatura che ingrandisce il volto in uno specchietto da trucco viene invertita e montata in un visore, per rimpicciolire otticamente un volto fino a farlo sparire dal quadro di una telecamera a riconoscimento facciale.",
+"universo": "hackverse"
+}

@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"moda/cosmesi",
+"ottica/lenti"
+],
+"epoca_relativa": 0,
+"estrazione": 23,
+"gancio": "Un'indagine si blocca perché, sul filmato, il sospetto sembra non indossare occhiali che invece indossa.",
+"id": "HAC-INV-0039",
+"nome": "Cancellatura Morbida",
+"nome_reale": "Correttore ad alta coprenza per occultare tatuaggi",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Lo strato di correttore che copre un tatuaggio per un servizio fotografico viene steso su una montatura trasparente, per eliminare il riflesso a infrarossi con cui una telecamera individua il vetro delle lenti.",
+"universo": "hackverse"
+}

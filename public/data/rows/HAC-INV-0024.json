@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"moda/cosmesi",
+"ottica/lenti"
+],
+"epoca_relativa": 0,
+"estrazione": 23,
+"gancio": "Una guardia giura che il sospetto era pallido un secondo prima e scuro in volto un secondo dopo, senza che nessuno si sia mosso.",
+"id": "HAC-INV-0024",
+"nome": "Ombra Ritardata",
+"nome_reale": "Lenti fotocromatiche a scurimento automatico",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il pigmento che scurisce una lente all'esposizione UV viene incapsulato in una cipria che si attiva allo stesso modo, rendendo il volto illeggibile solo sotto i riflettori di un controllo.",
+"universo": "hackverse"
+}
