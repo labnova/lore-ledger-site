@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Yusuf Haddad, che lo consulta insieme alle sue tavole astrali per certificarne l'ortodossia.",
+"cosa": "Volume di carta rilegata in cuoio dove si annota il giorno di schiusa, l'aspetto del pulcino e il rango assegnato.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 17,
+"gancio": "Yusuf ha notato che le pagine più vecchie del registro sono state riscritte, non solo consultate.",
+"id": "NEO-GAD-0024",
+"invenzione_id": "NEO-INV-0005",
+"nome": "Registro dei Pulcini",
+"parent_id": null,
+"personaggio_id": "NEO-PER-0016",
+"prod": true,
+"regione": "Vasperdine",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Le colonne del registro replicano esattamente lo schema di un catasto agricolo, non quello di un libro sacro.",
+"universo": "neofeudal"
+}

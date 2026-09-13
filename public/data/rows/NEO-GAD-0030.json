@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Le levatrici della cripta, durante la cerimonia di schiusa.",
+"cosa": "Velo di stoffa pesante indossato dalle levatrici durante la schiusa, per non vedere la creatura prima del sacerdote.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 17,
+"gancio": "Yusuf sa che le levatrici sbirciano lo stesso, e il registro ne tiene conto con un margine d'errore già previsto.",
+"id": "NEO-GAD-0030",
+"invenzione_id": "NEO-INV-0005",
+"nome": "Velo delle Levatrici",
+"parent_id": null,
+"personaggio_id": "NEO-PER-0016",
+"prod": false,
+"regione": "Vasperdine",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Il velo è un protocollo di catena di custodia contro la contaminazione dei dati, spacciato per pudore rituale.",
+"universo": "neofeudal"
+}

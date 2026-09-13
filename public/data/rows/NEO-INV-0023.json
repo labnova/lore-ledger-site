@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"zoologia",
+"araldica"
+],
+"epoca_relativa": 1,
+"estrazione": 17,
+"gancio": "Un pastore scopre che il nome segreto del suo toro è lo stesso di un antenato che la famiglia giura di non aver mai avuto.",
+"id": "NEO-INV-0023",
+"nome": "Il Libro dei Nomi Muti",
+"nome_reale": "Registro anagrafico del bestiame per nome segreto",
+"parent_id": "NEO-INV-0007",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Ogni capo di bestiame ha un nome doppio, uno pubblico inciso sul marchio e uno segreto noto solo al registro, ed è quest'ultimo l'unico a far rispondere davvero l'animale.",
+"universo": "neofeudal"
+}

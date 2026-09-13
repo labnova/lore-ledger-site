@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Il vincitore dell'estrazione, portato al dito fino alla successiva cova.",
+"cosa": "Anello di metallo battuto, forgiato nella forma del becco della creatura schiusa.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 17,
+"gancio": "Yusuf nota che tre anelli di rango diverso condividono lo stesso stampo, un dettaglio che smentirebbe la sacralità del giudizio.",
+"id": "NEO-GAD-0029",
+"invenzione_id": "NEO-INV-0005",
+"nome": "Anello dei Ranghi",
+"parent_id": null,
+"personaggio_id": "NEO-PER-0016",
+"prod": false,
+"regione": "Vasperdine",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "La forma del becco è uno stampo standardizzato, ogni rango produce lo stesso anello, non importa cosa sia davvero uscito dall'uovo.",
+"universo": "neofeudal"
+}

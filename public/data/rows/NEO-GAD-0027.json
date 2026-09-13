@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Chiunque tenga il turno di guardia accanto alla cripta delle uova.",
+"cosa": "Lanterna a olio con un disco graduato che segna le ore di veglia rimaste prima del cambio turno.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 17,
+"gancio": "Il disco di Yusuf gira sempre un poco più lento di quello degli altri turnisti, e lui lo sa.",
+"id": "NEO-GAD-0027",
+"invenzione_id": "NEO-INV-0005",
+"nome": "Lanterna dei Turni",
+"parent_id": null,
+"personaggio_id": "NEO-PER-0016",
+"prod": false,
+"regione": "Vasperdine",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Il disco graduato è un timer meccanico che scandisce i turni con una precisione che nessun sacerdote ammetterebbe di conoscere.",
+"universo": "neofeudal"
+}

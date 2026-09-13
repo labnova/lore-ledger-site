@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Yusuf Haddad, che la consulta per certificare l'ortodossia di ogni cova.",
+"cosa": "Tavola di legno incisa con le costellazioni sopra ogni nicchia dell'uovo, aggiornata a ogni estrazione.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 17,
+"gancio": "Le costellazioni di Yusuf non corrispondono più al cielo reale da almeno una generazione, ed è lui il primo ad accorgersene.",
+"id": "NEO-GAD-0028",
+"invenzione_id": "NEO-INV-0005",
+"nome": "Tavola Astrale della Cripta",
+"parent_id": null,
+"personaggio_id": "NEO-PER-0016",
+"prod": false,
+"regione": "Vasperdine",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "La tavola è un registro statistico delle nascite mascherato da mappa celeste.",
+"universo": "neofeudal"
+}

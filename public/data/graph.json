@@ -191,6 +191,16 @@
 "to": "NEO-REG-calvenna"
 },
 {
+"from": "NEO-INV-0007",
+"kind": "parent",
+"to": "NEO-INV-0023"
+},
+{
+"from": "NEO-INV-0001",
+"kind": "parent",
+"to": "NEO-INV-0024"
+},
+{
 "from": "CYB-PER-0001",
 "kind": "invenzione",
 "to": "CYB-INV-0015"
@@ -1231,6 +1241,156 @@
 "to": "NEO-REG-calvenna"
 },
 {
+"from": "NEO-GAD-0021",
+"kind": "invenzione",
+"to": "NEO-INV-0005"
+},
+{
+"from": "NEO-GAD-0021",
+"kind": "personaggio",
+"to": "NEO-PER-0016"
+},
+{
+"from": "NEO-GAD-0021",
+"kind": "regione",
+"to": "NEO-REG-vasperdine"
+},
+{
+"from": "NEO-GAD-0022",
+"kind": "invenzione",
+"to": "NEO-INV-0005"
+},
+{
+"from": "NEO-GAD-0022",
+"kind": "personaggio",
+"to": "NEO-PER-0016"
+},
+{
+"from": "NEO-GAD-0022",
+"kind": "regione",
+"to": "NEO-REG-vasperdine"
+},
+{
+"from": "NEO-GAD-0023",
+"kind": "invenzione",
+"to": "NEO-INV-0005"
+},
+{
+"from": "NEO-GAD-0023",
+"kind": "personaggio",
+"to": "NEO-PER-0016"
+},
+{
+"from": "NEO-GAD-0023",
+"kind": "regione",
+"to": "NEO-REG-vasperdine"
+},
+{
+"from": "NEO-GAD-0024",
+"kind": "invenzione",
+"to": "NEO-INV-0005"
+},
+{
+"from": "NEO-GAD-0024",
+"kind": "personaggio",
+"to": "NEO-PER-0016"
+},
+{
+"from": "NEO-GAD-0024",
+"kind": "regione",
+"to": "NEO-REG-vasperdine"
+},
+{
+"from": "NEO-GAD-0025",
+"kind": "invenzione",
+"to": "NEO-INV-0005"
+},
+{
+"from": "NEO-GAD-0025",
+"kind": "personaggio",
+"to": "NEO-PER-0016"
+},
+{
+"from": "NEO-GAD-0025",
+"kind": "regione",
+"to": "NEO-REG-vasperdine"
+},
+{
+"from": "NEO-GAD-0026",
+"kind": "invenzione",
+"to": "NEO-INV-0005"
+},
+{
+"from": "NEO-GAD-0026",
+"kind": "personaggio",
+"to": "NEO-PER-0016"
+},
+{
+"from": "NEO-GAD-0026",
+"kind": "regione",
+"to": "NEO-REG-vasperdine"
+},
+{
+"from": "NEO-GAD-0027",
+"kind": "invenzione",
+"to": "NEO-INV-0005"
+},
+{
+"from": "NEO-GAD-0027",
+"kind": "personaggio",
+"to": "NEO-PER-0016"
+},
+{
+"from": "NEO-GAD-0027",
+"kind": "regione",
+"to": "NEO-REG-vasperdine"
+},
+{
+"from": "NEO-GAD-0028",
+"kind": "invenzione",
+"to": "NEO-INV-0005"
+},
+{
+"from": "NEO-GAD-0028",
+"kind": "personaggio",
+"to": "NEO-PER-0016"
+},
+{
+"from": "NEO-GAD-0028",
+"kind": "regione",
+"to": "NEO-REG-vasperdine"
+},
+{
+"from": "NEO-GAD-0029",
+"kind": "invenzione",
+"to": "NEO-INV-0005"
+},
+{
+"from": "NEO-GAD-0029",
+"kind": "personaggio",
+"to": "NEO-PER-0016"
+},
+{
+"from": "NEO-GAD-0029",
+"kind": "regione",
+"to": "NEO-REG-vasperdine"
+},
+{
+"from": "NEO-GAD-0030",
+"kind": "invenzione",
+"to": "NEO-INV-0005"
+},
+{
+"from": "NEO-GAD-0030",
+"kind": "personaggio",
+"to": "NEO-PER-0016"
+},
+{
+"from": "NEO-GAD-0030",
+"kind": "regione",
+"to": "NEO-REG-vasperdine"
+},
+{
 "from": "ELA-CON-0001",
 "kind": "sorgente",
 "to": "ELA-INV-0002"
@@ -2262,6 +2422,66 @@
 "universo": "neofeudal"
 },
 {
+"id": "NEO-GAD-0021",
+"tipo": "gadget",
+"titolo": "Incubatore Votivo",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0022",
+"tipo": "gadget",
+"titolo": "Sigillo di Cova",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0023",
+"tipo": "gadget",
+"titolo": "Bilancia dei Gusci",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0024",
+"tipo": "gadget",
+"titolo": "Registro dei Pulcini",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0025",
+"tipo": "gadget",
+"titolo": "Uovo di Prova",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0026",
+"tipo": "gadget",
+"titolo": "Manto di Cova",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0027",
+"tipo": "gadget",
+"titolo": "Lanterna dei Turni",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0028",
+"tipo": "gadget",
+"titolo": "Tavola Astrale della Cripta",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0029",
+"tipo": "gadget",
+"titolo": "Anello dei Ranghi",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0030",
+"tipo": "gadget",
+"titolo": "Velo delle Levatrici",
+"universo": "neofeudal"
+},
+{
 "id": "NEO-INV-0001",
 "tipo": "invenzione",
 "titolo": "Giudizio dei Galli di Calvenna",
@@ -2391,6 +2611,18 @@
 "id": "NEO-INV-0022",
 "tipo": "invenzione",
 "titolo": "La Leva che Ricorda",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0023",
+"tipo": "invenzione",
+"titolo": "Il Libro dei Nomi Muti",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0024",
+"tipo": "invenzione",
+"titolo": "La Cova del Giudizio Anticipato",
 "universo": "neofeudal"
 },
 {

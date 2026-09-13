@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"zoologia",
+"gioco_azzardo"
+],
+"epoca_relativa": 1,
+"estrazione": 17,
+"gancio": "Madre Iselda trova un pulcino marcato con un numero di quota che ancora non è stato annunciato.",
+"id": "NEO-INV-0024",
+"nome": "La Cova del Giudizio Anticipato",
+"nome_reale": "Selezione genetica anticipata dei galli da combattimento",
+"parent_id": "NEO-INV-0001",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il clero alleva in segreto la covata successiva mesi prima dell'estrazione ufficiale, così il giudizio dei galli è già scritto quando la gente scommette.",
+"universo": "neofeudal"
+}

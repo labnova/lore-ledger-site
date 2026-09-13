@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Le levatrici novizie, durante l'addestramento nella cripta.",
+"cosa": "Replica in resina di un uovo, del peso e della grana esatta di quelli custoditi, usata per addestrare le levatrici prima della cerimonia vera.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 17,
+"gancio": "Yusuf ha scoperto per caso che l'uovo di prova pesa un grammo in più di quelli veri, e si chiede quale dei due sia la menzogna.",
+"id": "NEO-GAD-0025",
+"invenzione_id": "NEO-INV-0005",
+"nome": "Uovo di Prova",
+"parent_id": null,
+"personaggio_id": "NEO-PER-0016",
+"prod": true,
+"regione": "Vasperdine",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "La replica è uno strumento di controllo qualità industriale, tarato affinché nessuna levatrice riconosca la differenza al tatto.",
+"universo": "neofeudal"
+}

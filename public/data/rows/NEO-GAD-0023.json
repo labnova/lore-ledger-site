@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Le levatrici della cripta, in una sacca di cuoio legata alla cintura.",
+"cosa": "Bilancia a bracci di legno con pesi di cera calibrati sul peso medio delle uova custodite in cripta.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 17,
+"gancio": "Uno scarto di pochi grammi ha già deciso il rango di tre generazioni, e nessuno ha mai chiesto perché la bilancia sia tarata così.",
+"id": "NEO-GAD-0023",
+"invenzione_id": "NEO-INV-0005",
+"nome": "Bilancia dei Gusci",
+"parent_id": null,
+"personaggio_id": "NEO-PER-0016",
+"prod": true,
+"regione": "Vasperdine",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "È un controllo qualità da magazzino spacciato per giudizio divino sul peso dell'anima racchiusa nel guscio.",
+"universo": "neofeudal"
+}
