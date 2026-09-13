@@ -1070,5 +1070,49 @@
 "STE-INV-0022",
 "STE-INV-0023"
 ]
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"STE-INV-0009",
+"STE-INV-0015",
+"STE-INV-0023"
+],
+"chiavi": {
+"invenzione_id": "STE-INV-0001",
+"n_prod": 3,
+"personaggio_id": "STE-PER-0005",
+"universo": "steamverse"
+},
+"created": "2026-09-13",
+"esito": "ok",
+"espansioni": [
+"STE-INV-0024",
+"STE-INV-0025",
+"STE-INV-0026"
+],
+"estrazione": 21,
+"forzata": false,
+"lotto": "lotto-gadget",
+"prod": [
+"STE-GAD-0001",
+"STE-GAD-0002",
+"STE-GAD-0003"
+],
+"righe_prodotte": [
+"STE-GAD-0001",
+"STE-GAD-0002",
+"STE-GAD-0003",
+"STE-GAD-0004",
+"STE-GAD-0005",
+"STE-GAD-0006",
+"STE-GAD-0007",
+"STE-GAD-0008",
+"STE-GAD-0009",
+"STE-GAD-0010",
+"STE-INV-0024",
+"STE-INV-0025",
+"STE-INV-0026"
+]
 }
 ]

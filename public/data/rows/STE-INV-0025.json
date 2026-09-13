@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"logistica/catena_del_freddo",
+"geografia/idrografia"
+],
+"epoca_relativa": 1,
+"estrazione": 21,
+"gancio": "L'ispettore che doveva certificare il freno lo trova già bloccato in posizione aperta, con la vernice ancora fresca sopra la leva.",
+"id": "STE-INV-0025",
+"nome": "La Leva del Silenzio",
+"nome_reale": "Freno a leva installato su ogni ruota idraulica dopo i tagli notturni non registrati",
+"parent_id": "STE-INV-0015",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il freno non blocca mai la ruota per davvero, perché chi lo installa ha scoperto che i tagli notturni tenevano libero un canale che di giorno nessuno avrebbe il coraggio di scavare.",
+"universo": "steamverse"
+}

@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"logistica/catena_del_freddo",
+"geografia/idrografia"
+],
+"epoca_relativa": 2,
+"estrazione": 21,
+"gancio": "Il funzionario che ha firmato il rilievo trova la propria copia rispedita indietro senza spiegazioni, tre volte, dallo stesso ufficio.",
+"id": "STE-INV-0026",
+"nome": "Le Carte Confermate",
+"nome_reale": "Copia del nuovo rilievo del delta distribuita alle gilde per aggiornare i disegni della rete dei depositi",
+"parent_id": "STE-INV-0023",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Nessuna gilda vuole essere la prima ad archiviare la copia, perché farlo significa ammettere per iscritto che i vecchi disegni sapevano già dove il fiume sarebbe andato a scavare.",
+"universo": "steamverse"
+}

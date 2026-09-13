@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Zaid lo tiene cucito nella fodera della giacca, mai negli zaini regolamentari degli aeronauti.",
+"cosa": "Taccuino di carta grezza dove, sotto le letture ufficiali del Barometro, compaiono piccoli disegni di chiatte.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 21,
+"gancio": "Se qualcuno contasse i disegni e li confrontasse con il registro ufficiale, scoprirebbe che combaciano esattamente con gli errori del Barometro.",
+"id": "STE-GAD-0005",
+"invenzione_id": "STE-INV-0001",
+"nome": "Il Quaderno delle Letture Sporche",
+"parent_id": null,
+"personaggio_id": "STE-PER-0005",
+"prod": false,
+"regione": "Ledoskol",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Ogni disegno di chiatta corrisponde in realtà a una lettura falsificata, un diario cifrato delle volte in cui ha coperto il passaggio delle Barche Bianche.",
+"universo": "steamverse"
+}

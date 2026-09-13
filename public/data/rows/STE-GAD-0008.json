@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Zaid la indossa sotto l'uniforme da aeronauta, nascosta dal colletto alto della giacca.",
+"cosa": "Sciarpa di lana a righe bianche e blu, distintivo non ufficiale dei facchini della gilda del freddo.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 21,
+"gancio": "Un giorno Zaid la indossa con una riga in più del solito, e nessuno al molo osa chiedergli perché.",
+"id": "STE-GAD-0008",
+"invenzione_id": "STE-INV-0001",
+"nome": "La Sciarpa a Righe della Gilda del Freddo",
+"parent_id": null,
+"personaggio_id": "STE-PER-0005",
+"prod": false,
+"regione": "Ledoskol",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Il numero e l'ordine delle righe non sono decorativi ma un segnale al molo di quante casse in più viaggiano quel giorno sulle Barche Bianche.",
+"universo": "steamverse"
+}

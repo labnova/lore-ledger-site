@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Zaid la tiene appuntata sotto il colletto della divisa da cadetto, dove il regolamento vieta ornamenti personali.",
+"cosa": "Spilla di resina colata, venduta come souvenir agli aeronauti di guardia sull'estuario.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 21,
+"gancio": "Un ufficiale in ispezione l'ha già scambiata due volte per un semplice gingillo da bambino.",
+"id": "STE-GAD-0004",
+"invenzione_id": "STE-INV-0001",
+"nome": "La Spilla a Forma di Chiatta",
+"parent_id": null,
+"personaggio_id": "STE-PER-0005",
+"prod": false,
+"regione": "Ledoskol",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Lo scafo miniaturizzato riproduce fedelmente il doppio fondo refrigerato delle chiatte, compresa la linea di saldatura che nasconde il vano delle casse non dichiarate.",
+"universo": "steamverse"
+}

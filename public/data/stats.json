@@ -1,5 +1,5 @@
 {
-"estrazioni_totali": 20,
+"estrazioni_totali": 21,
 "regioni_per_universo": {
 "cyberverse": 1,
 "elabverse": 1,
@@ -8,8 +8,8 @@
 },
 "righe_per_tipo": {
 "contenuto": 3,
-"gadget": 40,
-"invenzione": 161,
+"gadget": 50,
+"invenzione": 164,
 "personaggio": 66,
 "regione": 5
 },
@@ -18,8 +18,8 @@
 "elabverse": 95,
 "hackverse": 20,
 "neofeudal": 92,
-"steamverse": 34
+"steamverse": 47
 },
 "ultima_generazione": "2026-09-13",
-"ultimo_build": "2026-09-13T07:41:55+00:00"
+"ultimo_build": "2026-09-13T08:17:11+00:00"
 }

@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Zaid la tiene appesa bene in vista al cinturone, come un gioco da bambino.",
+"cosa": "Chiave di scarto, spuntata, identica nella forma a quelle usate per le stive delle chiatte ma incapace di aprire alcunché.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 21,
+"gancio": "Un ispettore l'ha già esaminata due volte, ridendo della chiave giocattolo del cadetto più giovane del molo.",
+"id": "STE-GAD-0010",
+"invenzione_id": "STE-INV-0001",
+"nome": "La Chiave Fittizia della Stiva",
+"parent_id": null,
+"personaggio_id": "STE-PER-0005",
+"prod": false,
+"regione": "Ledoskol",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Proprio perché è palesemente inutile, nessuno sospetta che la vera chiave sia nascosta cucita nella stessa fettuccia che la tiene appesa.",
+"universo": "steamverse"
+}

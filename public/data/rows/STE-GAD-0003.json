@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Zaid li indossa quando scende al molo a controllare le chiatte, anche se il suo unico compito assegnato è leggere il Barometro dall'alto.",
+"cosa": "Guanti di cuoio a doppio strato, foderati, normalmente in dotazione ai facchini delle cantine per maneggiare il ghiaccio senza ustionarsi.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 21,
+"gancio": "Un istruttore si chiede perché un cadetto che lavora solo con strumenti ottici abbia le mani sempre più consumate di un facchino.",
+"id": "STE-GAD-0003",
+"invenzione_id": "STE-INV-0001",
+"nome": "I Guanti da Ghiacciaio",
+"parent_id": null,
+"personaggio_id": "STE-PER-0005",
+"prod": true,
+"regione": "Ledoskol",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Il doppio strato di cuoio non serve contro il freddo del ghiaccio, ma a non far sentire attraverso le mani la rigidità di ciò che le chiatte trasportano davvero sotto le derrate.",
+"universo": "steamverse"
+}

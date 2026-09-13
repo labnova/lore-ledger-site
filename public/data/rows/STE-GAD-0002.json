@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Zaid lo tiene in una scatola di latta sotto il letto della caserma aeronautica, retaggio di uno zio imbarcato sulle Barche Bianche.",
+"cosa": "Timbro di cera dura, inciso con il profilo di una chiatta, usato per marcare documenti di carico non ufficiali.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 21,
+"gancio": "Quando gli chiedono da dove venga, Zaid dice solo che suo zio gliel'ha lasciato per quando servirà mentire bene.",
+"id": "STE-GAD-0002",
+"invenzione_id": "STE-INV-0001",
+"nome": "Il Sigillo di Cera del Capobarca",
+"parent_id": null,
+"personaggio_id": "STE-PER-0005",
+"prod": true,
+"regione": "Ledoskol",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Il profilo inciso corrisponde esattamente al marchio usato per segnalare le casse supplementari non registrate nel manifesto ufficiale.",
+"universo": "steamverse"
+}

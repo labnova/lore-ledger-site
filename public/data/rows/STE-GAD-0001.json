@@ -1,0 +1,21 @@
+{
+"chi_lo_porta": "Zaid lo porta appeso al collo sotto la giacca da cadetto aeronauta, e lo tocca ogni volta che deve firmare una lettura del Barometro.",
+"cosa": "Piccolo ciondolo di legno intagliato a forma di cassa da trasporto, con un coperchio che si apre a scatto.",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 21,
+"gancio": "Un compagno di corso nota che Zaid apre e richiude il ciondolo esattamente il numero di volte in cui ha mentito quel giorno.",
+"id": "STE-GAD-0001",
+"invenzione_id": "STE-INV-0001",
+"nome": "Il Ciondolo della Cassa Vuota",
+"parent_id": null,
+"personaggio_id": "STE-PER-0005",
+"prod": true,
+"regione": "Ledoskol",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"tradimento_tech": "Il coperchio a scatto riproduce in miniatura la serratura a doppio fondo delle chiatte refrigerate, pensata per aprirsi solo con la chiave del capobarca.",
+"universo": "steamverse"
+}

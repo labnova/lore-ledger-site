@@ -216,6 +216,21 @@
 "to": "STE-INV-0023"
 },
 {
+"from": "STE-INV-0009",
+"kind": "parent",
+"to": "STE-INV-0024"
+},
+{
+"from": "STE-INV-0015",
+"kind": "parent",
+"to": "STE-INV-0025"
+},
+{
+"from": "STE-INV-0023",
+"kind": "parent",
+"to": "STE-INV-0026"
+},
+{
 "from": "CYB-PER-0001",
 "kind": "invenzione",
 "to": "CYB-INV-0015"
@@ -1504,6 +1519,156 @@
 "from": "NEO-GAD-0030",
 "kind": "regione",
 "to": "NEO-REG-vasperdine"
+},
+{
+"from": "STE-GAD-0001",
+"kind": "invenzione",
+"to": "STE-INV-0001"
+},
+{
+"from": "STE-GAD-0001",
+"kind": "personaggio",
+"to": "STE-PER-0005"
+},
+{
+"from": "STE-GAD-0001",
+"kind": "regione",
+"to": "STE-REG-ledoskol"
+},
+{
+"from": "STE-GAD-0002",
+"kind": "invenzione",
+"to": "STE-INV-0001"
+},
+{
+"from": "STE-GAD-0002",
+"kind": "personaggio",
+"to": "STE-PER-0005"
+},
+{
+"from": "STE-GAD-0002",
+"kind": "regione",
+"to": "STE-REG-ledoskol"
+},
+{
+"from": "STE-GAD-0003",
+"kind": "invenzione",
+"to": "STE-INV-0001"
+},
+{
+"from": "STE-GAD-0003",
+"kind": "personaggio",
+"to": "STE-PER-0005"
+},
+{
+"from": "STE-GAD-0003",
+"kind": "regione",
+"to": "STE-REG-ledoskol"
+},
+{
+"from": "STE-GAD-0004",
+"kind": "invenzione",
+"to": "STE-INV-0001"
+},
+{
+"from": "STE-GAD-0004",
+"kind": "personaggio",
+"to": "STE-PER-0005"
+},
+{
+"from": "STE-GAD-0004",
+"kind": "regione",
+"to": "STE-REG-ledoskol"
+},
+{
+"from": "STE-GAD-0005",
+"kind": "invenzione",
+"to": "STE-INV-0001"
+},
+{
+"from": "STE-GAD-0005",
+"kind": "personaggio",
+"to": "STE-PER-0005"
+},
+{
+"from": "STE-GAD-0005",
+"kind": "regione",
+"to": "STE-REG-ledoskol"
+},
+{
+"from": "STE-GAD-0006",
+"kind": "invenzione",
+"to": "STE-INV-0001"
+},
+{
+"from": "STE-GAD-0006",
+"kind": "personaggio",
+"to": "STE-PER-0005"
+},
+{
+"from": "STE-GAD-0006",
+"kind": "regione",
+"to": "STE-REG-ledoskol"
+},
+{
+"from": "STE-GAD-0007",
+"kind": "invenzione",
+"to": "STE-INV-0001"
+},
+{
+"from": "STE-GAD-0007",
+"kind": "personaggio",
+"to": "STE-PER-0005"
+},
+{
+"from": "STE-GAD-0007",
+"kind": "regione",
+"to": "STE-REG-ledoskol"
+},
+{
+"from": "STE-GAD-0008",
+"kind": "invenzione",
+"to": "STE-INV-0001"
+},
+{
+"from": "STE-GAD-0008",
+"kind": "personaggio",
+"to": "STE-PER-0005"
+},
+{
+"from": "STE-GAD-0008",
+"kind": "regione",
+"to": "STE-REG-ledoskol"
+},
+{
+"from": "STE-GAD-0009",
+"kind": "invenzione",
+"to": "STE-INV-0001"
+},
+{
+"from": "STE-GAD-0009",
+"kind": "personaggio",
+"to": "STE-PER-0005"
+},
+{
+"from": "STE-GAD-0009",
+"kind": "regione",
+"to": "STE-REG-ledoskol"
+},
+{
+"from": "STE-GAD-0010",
+"kind": "invenzione",
+"to": "STE-INV-0001"
+},
+{
+"from": "STE-GAD-0010",
+"kind": "personaggio",
+"to": "STE-PER-0005"
+},
+{
+"from": "STE-GAD-0010",
+"kind": "regione",
+"to": "STE-REG-ledoskol"
 },
 {
 "from": "ELA-CON-0001",
@@ -2979,6 +3144,66 @@
 "universo": "neofeudal"
 },
 {
+"id": "STE-GAD-0001",
+"tipo": "gadget",
+"titolo": "Il Ciondolo della Cassa Vuota",
+"universo": "steamverse"
+},
+{
+"id": "STE-GAD-0002",
+"tipo": "gadget",
+"titolo": "Il Sigillo di Cera del Capobarca",
+"universo": "steamverse"
+},
+{
+"id": "STE-GAD-0003",
+"tipo": "gadget",
+"titolo": "I Guanti da Ghiacciaio",
+"universo": "steamverse"
+},
+{
+"id": "STE-GAD-0004",
+"tipo": "gadget",
+"titolo": "La Spilla a Forma di Chiatta",
+"universo": "steamverse"
+},
+{
+"id": "STE-GAD-0005",
+"tipo": "gadget",
+"titolo": "Il Quaderno delle Letture Sporche",
+"universo": "steamverse"
+},
+{
+"id": "STE-GAD-0006",
+"tipo": "gadget",
+"titolo": "Il Fischietto Appannato",
+"universo": "steamverse"
+},
+{
+"id": "STE-GAD-0007",
+"tipo": "gadget",
+"titolo": "La Lente Appannata",
+"universo": "steamverse"
+},
+{
+"id": "STE-GAD-0008",
+"tipo": "gadget",
+"titolo": "La Sciarpa a Righe della Gilda del Freddo",
+"universo": "steamverse"
+},
+{
+"id": "STE-GAD-0009",
+"tipo": "gadget",
+"titolo": "La Moneta Forata",
+"universo": "steamverse"
+},
+{
+"id": "STE-GAD-0010",
+"tipo": "gadget",
+"titolo": "La Chiave Fittizia della Stiva",
+"universo": "steamverse"
+},
+{
 "id": "STE-INV-0001",
 "tipo": "invenzione",
 "titolo": "Le Barche Bianche",
@@ -3114,6 +3339,24 @@
 "id": "STE-INV-0023",
 "tipo": "invenzione",
 "titolo": "Il Delta Riscoperto",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0024",
+"tipo": "invenzione",
+"titolo": "Il Libro degli Annegati",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0025",
+"tipo": "invenzione",
+"titolo": "La Leva del Silenzio",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0026",
+"tipo": "invenzione",
+"titolo": "Le Carte Confermate",
 "universo": "steamverse"
 },
 {

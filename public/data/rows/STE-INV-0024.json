@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"logistica/catena_del_freddo",
+"geografia/idrografia"
+],
+"epoca_relativa": 1,
+"estrazione": 21,
+"gancio": "Un archivista nota che il numero delle casse non reclamate diminuisce ogni anno di una sola unità, sempre la stessa data del ritrovamento del sommozzatore.",
+"id": "STE-INV-0024",
+"nome": "Il Libro degli Annegati",
+"nome_reale": "Registro delle casse non reclamate aggiornato dalla gilda del freddo ogni volta che una cantina sommersa viene ispezionata",
+"parent_id": "STE-INV-0009",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il registro non serve a restituire le casse ai proprietari, ma a contare quante ne restano prima che la cantina più vecchia sia dichiarata piena e sigillata per sempre.",
+"universo": "steamverse"
+}
