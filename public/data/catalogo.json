@@ -1,0 +1,47 @@
+[
+{
+"battute": 16434,
+"branch": "main",
+"canali": [],
+"cluster": "STE-INV-0012",
+"creato": "2026-09-13",
+"fatti_stabiliti": [
+"STE-FAT-m20260913-1",
+"STE-FAT-m20260913-2",
+"STE-FAT-m20260913-3",
+"STE-FAT-m20260913-4",
+"STE-FAT-m20260913-5"
+],
+"id": "2026-09-13-l-ora-di-anticipo",
+"numero": null,
+"personaggi": [
+"STE-PER-0002",
+"STE-PER-0004",
+"STE-PER-0005",
+"STE-PER-0006",
+"STE-PER-0007",
+"STE-PER-0009",
+"STE-PER-0010"
+],
+"regione": "Ledoskol",
+"righe_usate": [
+"STE-INV-0012",
+"STE-PER-0002",
+"STE-PER-0004",
+"STE-PER-0005",
+"STE-PER-0006",
+"STE-PER-0007",
+"STE-PER-0009",
+"STE-PER-0010",
+"STE-GAD-0001",
+"STE-GAD-0005",
+"STE-GAD-0007",
+"STE-REG-ledoskol"
+],
+"stato": "approvato",
+"testata": null,
+"tipo": "racconto",
+"titolo": "L'Ora di Anticipo",
+"universo": "steamverse"
+}
+]

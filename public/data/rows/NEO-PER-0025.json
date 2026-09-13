@@ -3,6 +3,7 @@
 "orientamento": "eterosessuale",
 "situazione": "poliamoroso"
 },
+"appare_in": [],
 "casta": "cavalieri",
 "ceppo": "giapponese",
 "cognome": "Manasaguchi",
@@ -12,6 +13,7 @@
 "epoca_relativa": 0,
 "estrazione": 12,
 "eta_fascia": "adulto",
+"fatti": [],
 "gancio": "Incaricato di sorvegliare la Ruota dei Sette Animali, sospetta che la macchina sogni le sue stesse dimenticanze; ha già firmato due volte lo stesso verbale senza accorgersene.",
 "id": "NEO-PER-0025",
 "invenzione_id": "NEO-INV-0009",

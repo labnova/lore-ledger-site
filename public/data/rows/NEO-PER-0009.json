@@ -3,6 +3,7 @@
 "orientamento": "asessuale",
 "situazione": "celibe_per_voto"
 },
+"appare_in": [],
 "casta": "artigiani_tecno_magi",
 "ceppo": "swahili",
 "cognome": "Shamba",
@@ -12,6 +13,7 @@
 "epoca_relativa": 0,
 "estrazione": 2,
 "eta_fascia": "anziano",
+"fatti": [],
 "gancio": "Fra' Tumaini, tecno-mago di corte addetto alla manutenzione delle reliquie; sa che il Bestiario è un modello predittivo stampato e scrive lui le quote a matita quando il modello sbaglia. La matita è la parte umana di un oracolo che tutti credono divino.",
 "id": "NEO-PER-0009",
 "invenzione_id": "NEO-INV-0009",

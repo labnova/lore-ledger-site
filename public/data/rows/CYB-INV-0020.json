@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-13",
 "discipline": [
 "religione/teologia",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 15,
+"fatti": [],
 "gancio": "Un uomo tenta di ritirare il proprio voto dopo una crisi di fede, e scopre che il registro è stato progettato apposta per non permetterlo.",
 "id": "CYB-INV-0020",
 "nome": "Il Martirio Differito",

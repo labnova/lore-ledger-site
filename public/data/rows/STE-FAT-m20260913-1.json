@@ -1,0 +1,18 @@
+{
+"branch": "main",
+"cluster": "STE-INV-0012",
+"created": "2026-09-13",
+"id": "STE-FAT-m20260913-1",
+"momento": 1,
+"reversibile": true,
+"schema_version": 1,
+"soggetti": [
+"STE-REG-ledoskol"
+],
+"stabilito_da": "2026-09-13-l-ora-di-anticipo",
+"status": "canon",
+"testo": "La Chiusa Terza è la più bassa delle chiuse dell'estuario di Ledoskol e serve direttamente le cantine di ghiaccio.",
+"tipo": "fatto",
+"tipo_fatto": "stato",
+"universo": "steamverse"
+}

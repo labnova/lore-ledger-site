@@ -1,0 +1,18 @@
+{
+"branch": "main",
+"cluster": "STE-INV-0012",
+"created": "2026-09-13",
+"id": "STE-FAT-m20260913-4",
+"momento": 4,
+"reversibile": false,
+"schema_version": 1,
+"soggetti": [
+"STE-REG-ledoskol"
+],
+"stabilito_da": "2026-09-13-l-ora-di-anticipo",
+"status": "canon",
+"testo": "L'iscrizione all'albo degli inventori a Ledoskol costa duecento gettoni-vapore, la rinuncia al turno di volo e la firma di un ispettore della gilda.",
+"tipo": "fatto",
+"tipo_fatto": "regola_del_mondo",
+"universo": "steamverse"
+}

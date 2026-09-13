@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "agricoltura/irrigazione",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 6,
+"fatti": [],
 "gancio": "Lo stesso fornitore vende membrane identiche a un consorzio agricolo di giorno e a una clinica clandestina di notte, fatture separate, stesso magazzino.",
 "id": "HAC-INV-0013",
 "nome": "Sale Tolto",

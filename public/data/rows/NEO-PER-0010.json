@@ -1,5 +1,6 @@
 {
 "affettivo": null,
+"appare_in": [],
 "casta": "artigiani_tecno_magi",
 "ceppo": "magiaro",
 "cognome": "Szabó",
@@ -9,6 +10,7 @@
 "epoca_relativa": 0,
 "estrazione": 2,
 "eta_fascia": "bambino",
+"fatti": [],
 "gancio": "Ragazza di bottega, dodici anni, macina pigmenti; ha imparato a leggere di nascosto sui versetti. Chiede a Juma perché l'animale del sogno abbia la quota più bassa di tutte.",
 "id": "NEO-PER-0010",
 "invenzione_id": "NEO-INV-0009",

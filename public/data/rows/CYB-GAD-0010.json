@@ -1,9 +1,11 @@
 {
+"appare_in": [],
 "chi_lo_porta": "Stefan la porta al collo insieme all'amuleto, ed è l'unica chiave che apre la teca dove il culto conserva i registri di consenso non ancora archiviati.",
 "cosa": "Piccola chiave in ottone brunito, dentellatura irregolare, con un anello inciso di simboli del culto.",
 "created": "2026-09-13",
 "epoca_relativa": 0,
 "estrazione": 25,
+"fatti": [],
 "gancio": "Stefan perde la chiave per una settimana e nessuno se ne accorge, perché un'altra copia di cui non sapeva l'esistenza ha continuato ad aprire la teca al posto suo.",
 "id": "CYB-GAD-0010",
 "invenzione_id": "CYB-INV-0013",

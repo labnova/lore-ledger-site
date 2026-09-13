@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "acustica/fonetica",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 5,
+"fatti": [],
 "gancio": "Un archivista trova la propria voce già segnata sulla tavola in una casella riservata alle giganti rosse, anni prima di ammalarsi.",
 "id": "ELA-INV-0010",
 "nome": "La Tavola dei Timbri",

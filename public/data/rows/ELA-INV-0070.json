@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "acustica/fonetica",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 1,
 "estrazione": 11,
+"fatti": [],
 "gancio": "Una cartografa riconosce, sullo scafo di un relitto appena trovato, lo stesso volto spettrografico appeso da bambina nella sua cabina, quello che le avevano detto essere \"casa\".",
 "id": "ELA-INV-0070",
 "nome": "Il Volto della Voce",

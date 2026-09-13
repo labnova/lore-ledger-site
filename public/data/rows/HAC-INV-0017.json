@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "agricoltura/irrigazione",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 6,
+"fatti": [],
 "gancio": "Un ispettore idrico e un ispettore sanitario, per due bug identici, trovano la stessa identica backdoor.",
 "id": "HAC-INV-0017",
 "nome": "Contatore Zitto",

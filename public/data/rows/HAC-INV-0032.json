@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-13",
 "discipline": [
 "moda/cosmesi",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 23,
+"fatti": [],
 "gancio": "Un'analisi forense nota che la pelle intorno agli occhiali di un sospetto \"invecchia\" di un colore diverso ogni ora.",
 "id": "HAC-INV-0032",
 "nome": "Colore che Nasce da Sé",

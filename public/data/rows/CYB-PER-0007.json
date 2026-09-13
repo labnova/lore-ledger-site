@@ -3,6 +3,7 @@
 "orientamento": "eterosessuale",
 "situazione": "fidanzato"
 },
+"appare_in": [],
 "casta": "nomadi_urbani",
 "ceppo": "germanico",
 "cognome": "Lindinfeld",
@@ -12,6 +13,7 @@
 "epoca_relativa": 0,
 "estrazione": 16,
 "eta_fascia": "anziano",
+"fatti": [],
 "gancio": "Markus scopre solo dopo l'intervento che la sua copia di scorta appartiene ora alla clinica, e continua a fidarsi che gliela restituiranno.",
 "id": "CYB-PER-0007",
 "invenzione_id": "CYB-INV-0015",

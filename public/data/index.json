@@ -850,6 +850,20 @@
 },
 {
 "created": "2026-09-13",
+"estrazione": 30,
+"id": "NEO-GAD-0041",
+"origine": "maturazione",
+"parent_id": null,
+"prod": false,
+"regione": "Vranidol",
+"relazione": null,
+"sommario": "Il prete che deve benedire il falco prima delle nozze ha chiesto di vederlo volare, e Piotr ha solo la piuma per convincerlo che sia mai esistito.",
+"tipo": "gadget",
+"titolo": "La Piuma Marchiata a Freddo",
+"universo": "neofeudal"
+},
+{
+"created": "2026-09-13",
 "estrazione": 26,
 "id": "NEO-GAD-0040",
 "parent_id": null,

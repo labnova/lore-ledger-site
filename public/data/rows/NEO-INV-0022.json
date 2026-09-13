@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "meccanica",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 1,
 "estrazione": 12,
+"fatti": [],
 "gancio": "Un cavaliere di guardia scopre che la leva risponde anche a chi non ha mai giocato, purché sussurri il nome giusto.",
 "id": "NEO-INV-0022",
 "nome": "La Leva che Ricorda",

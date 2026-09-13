@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "acustica/fonetica",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 5,
+"fatti": [],
 "gancio": "Un ingegnere di scafo nota che il dialetto dei nati in viaggio perde una vocale ogni generazione, misurabile come un isotopo.",
 "id": "ELA-INV-0008",
 "nome": "Bilancia delle Ombre",

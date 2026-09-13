@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "finanza/valuta",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 11,
+"fatti": [],
 "gancio": "Sotto l'unica lente rimasta a bordo, qualcuno legge in una vecchia banconota un avvertimento microstampato decenni prima del disastro che descrive.",
 "id": "ELA-INV-0061",
 "nome": "La Scrittura che l'Occhio Nudo Non Vede",

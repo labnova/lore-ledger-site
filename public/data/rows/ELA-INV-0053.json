@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "finanza/valuta",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 11,
+"fatti": [],
 "gancio": "Un contabile automatico interrompe la lettura di una serie di numeri di serie e ne stampa uno che non è mai stato emesso da nessun banco.",
 "id": "ELA-INV-0053",
 "nome": "La Scrittura per Macchine Cieche",

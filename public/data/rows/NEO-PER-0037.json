@@ -1,5 +1,6 @@
 {
 "affettivo": null,
+"appare_in": [],
 "casta": "cavalieri",
 "ceppo": "slavo",
 "cognome": "Stavaliić",
@@ -9,6 +10,7 @@
 "epoca_relativa": 0,
 "estrazione": 24,
 "eta_fascia": "adolescente",
+"fatti": [],
 "gancio": "Ha iniziato a segnare le sue previsioni astrali a margine del registro ufficiale, e le sue cifre coincidono troppo spesso con quelle dei falchi per essere solo fede.",
 "id": "NEO-PER-0037",
 "invenzione_id": "NEO-INV-0013",

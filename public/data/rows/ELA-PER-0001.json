@@ -1,5 +1,6 @@
 {
 "affettivo": null,
+"appare_in": [],
 "casta": "navigatori",
 "ceppo": "magiaro",
 "cognome": "Pék",
@@ -9,6 +10,7 @@
 "epoca_relativa": 0,
 "estrazione": 8,
 "eta_fascia": "adolescente",
+"fatti": [],
 "gancio": "Da quando l'Eco della Materia ha rivelato che lo scafo su cui è nata contiene tracce di un metallo mai estratto da nessun giacimento conosciuto, Orsolya rifiuta di calibrare lo strumento e nessuno sa perché.",
 "id": "ELA-PER-0001",
 "invenzione_id": "ELA-INV-0005",

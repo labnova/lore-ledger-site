@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "acustica/fonetica",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 2,
 "estrazione": 8,
+"fatti": [],
 "gancio": "Quei sette secondi di scarto, sommati generazione dopo generazione, non si accumulano mai: spariscono sempre nello stesso punto del calendario di bordo, come se qualcosa, una volta all'anno, li recuperasse.",
 "id": "ELA-INV-0046",
 "nome": "Il Battito Comune",

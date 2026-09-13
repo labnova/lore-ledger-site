@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "zoologia",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 1,
+"fatti": [],
 "gancio": "Madre Iselda, con i suoi registri delle nascite, è senza volerlo la più grande insider del feudo.",
 "id": "NEO-INV-0010",
 "nome": "Il Peccato dell'Allevatore",

@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "arte_visiva/affresco",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 7,
+"fatti": [],
 "gancio": "Un archivista conta più carte stellari strappate e reincollate di quante sezioni la nave abbia mai avuto, come se qualcuna fosse stata strappata da un muro che nessuno ricorda.",
 "id": "ELA-INV-0038",
 "nome": "La Pelle Staccata del Muro",

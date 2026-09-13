@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-13",
 "discipline": [
 "religione/teologia",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 15,
+"fatti": [],
 "gancio": "Un ricevente comincia a pregare davanti alla teca del proprio donatore ogni volta che gli esami del sangue peggiorano, e giura che la fiala si scalda quando lui sta per rigettare.",
 "id": "CYB-INV-0007",
 "nome": "Il Reliquiario Immunitario",

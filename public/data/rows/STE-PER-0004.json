@@ -3,6 +3,9 @@
 "orientamento": "pansessuale",
 "situazione": "vedovo"
 },
+"appare_in": [
+"2026-09-13-l-ora-di-anticipo"
+],
 "casta": "aeronauti",
 "ceppo": "slavo",
 "cognome": "Krawiec",
@@ -12,6 +15,7 @@
 "epoca_relativa": 0,
 "estrazione": 20,
 "eta_fascia": "anziano",
+"fatti": [],
 "gancio": "Ha costruito lei il telaio che regge il Barometro delle Cantine nella gondola di comando; da vedova, dice che è l'unica cosa che le resta da tenere in equilibrio.",
 "id": "STE-PER-0004",
 "invenzione_id": "STE-INV-0012",

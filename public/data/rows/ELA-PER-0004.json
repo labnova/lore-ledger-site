@@ -3,6 +3,7 @@
 "orientamento": "asessuale",
 "situazione": "sposato"
 },
+"appare_in": [],
 "casta": "navigatori",
 "ceppo": "turco",
 "cognome": "Çömlekçi",
@@ -12,6 +13,7 @@
 "epoca_relativa": 0,
 "estrazione": 8,
 "eta_fascia": "maturo",
+"fatti": [],
 "gancio": "Un cliente si presenta con una ricevuta firmata da Pınar per una vendita che lei giura di non aver mai fatto.",
 "id": "ELA-PER-0004",
 "invenzione_id": "ELA-INV-0005",

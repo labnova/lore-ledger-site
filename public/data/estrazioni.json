@@ -1430,5 +1430,27 @@
 "NEO-SEM-0001",
 "NEO-SEM-0002"
 ]
+},
+{
+"campi_forzati": [],
+"chiavi": {
+"manca": {
+"gadget": 1,
+"personaggi": 0,
+"regione": false
+},
+"regione": "Vranidol",
+"universo": "neofeudal"
+},
+"cluster_target": "NEO-INV-0013",
+"created": "2026-09-13",
+"esito": "ok",
+"estrazione": 30,
+"forzata": false,
+"lotto": "lotto-maturazione",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"NEO-GAD-0041"
+]
 }
 ]

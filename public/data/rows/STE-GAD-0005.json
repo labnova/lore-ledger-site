@@ -1,9 +1,13 @@
 {
+"appare_in": [
+"2026-09-13-l-ora-di-anticipo"
+],
 "chi_lo_porta": "Zaid lo tiene cucito nella fodera della giacca, mai negli zaini regolamentari degli aeronauti.",
 "cosa": "Taccuino di carta grezza dove, sotto le letture ufficiali del Barometro, compaiono piccoli disegni di chiatte.",
 "created": "2026-09-13",
 "epoca_relativa": 0,
 "estrazione": 21,
+"fatti": [],
 "gancio": "Se qualcuno contasse i disegni e li confrontasse con il registro ufficiale, scoprirebbe che combaciano esattamente con gli errori del Barometro.",
 "id": "STE-GAD-0005",
 "invenzione_id": "STE-INV-0001",

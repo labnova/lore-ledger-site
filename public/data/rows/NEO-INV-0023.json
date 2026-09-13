@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-13",
 "discipline": [
 "zoologia",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 1,
 "estrazione": 17,
+"fatti": [],
 "gancio": "Un pastore scopre che il nome segreto del suo toro è lo stesso di un antenato che la famiglia giura di non aver mai avuto.",
 "id": "NEO-INV-0023",
 "nome": "Il Libro dei Nomi Muti",

@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-13",
 "discipline": [
 "moda/cosmesi",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 23,
+"fatti": [],
 "gancio": "Un sistema di sicurezza dichiara \"vivo e autentico\" un occhio che, in laboratorio, risulta stampato su un substrato di due giorni prima.",
 "id": "HAC-INV-0033",
 "nome": "Il Sigillo che Mente",

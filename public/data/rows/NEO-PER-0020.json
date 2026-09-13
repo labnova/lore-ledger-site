@@ -1,5 +1,6 @@
 {
 "affettivo": null,
+"appare_in": [],
 "casta": "clero",
 "ceppo": "germanico",
 "cognome": "Müller",
@@ -9,6 +10,7 @@
 "epoca_relativa": 0,
 "estrazione": 4,
 "eta_fascia": "bambino",
+"fatti": [],
 "gancio": "Bambina protettiva verso gli altri chierichetti mandati a leggere i segnali della caccia; giura di sentire una voce nella rete un istante prima che qualcuno lassù rilanci, e finora ha sempre avuto ragione.",
 "id": "NEO-PER-0020",
 "invenzione_id": "NEO-INV-0012",

@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-13",
 "discipline": [
 "religione/teologia",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 1,
 "estrazione": 16,
+"fatti": [],
 "gancio": "Un broker di rate scopre che una rata rivenduta tre volte porta ancora il nome del primo debitore, morto due anni prima, e nessuno l'ha mai cancellato dal registro.",
 "id": "CYB-INV-0023",
 "nome": "Il Baratto delle Rate",

@@ -3,6 +3,7 @@
 "orientamento": "bisessuale",
 "situazione": "promesso_per_contratto"
 },
+"appare_in": [],
 "casta": "cavalieri",
 "ceppo": "slavo",
 "cognome": "Bomitoczyk",
@@ -12,6 +13,7 @@
 "epoca_relativa": 0,
 "estrazione": 24,
 "eta_fascia": "adulto",
+"fatti": [],
 "gancio": "Ha promesso alla famiglia della sua promessa sposa un falco che non è mai esistito, e ora deve inventarne il volo prima della cerimonia.",
 "id": "NEO-PER-0045",
 "invenzione_id": "NEO-INV-0013",

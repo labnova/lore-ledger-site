@@ -1,5 +1,6 @@
 {
 "affettivo": null,
+"appare_in": [],
 "casta": "navigatori",
 "ceppo": "turco",
 "cognome": "Balıkçı",
@@ -9,6 +10,7 @@
 "epoca_relativa": 0,
 "estrazione": 8,
 "eta_fascia": "bambino",
+"fatti": [],
 "gancio": "Devota al credo che non ci sia nessun dio, solo registri, tiene un diario segreto di ogni sua sfuriata, come se anche la sua rabbia dovesse essere archiviata.",
 "id": "ELA-PER-0008",
 "invenzione_id": "ELA-INV-0005",

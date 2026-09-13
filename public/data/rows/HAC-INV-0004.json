@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "agricoltura/irrigazione",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 6,
+"fatti": [],
 "gancio": "Un contadino scopre di essere in cima a due liste diverse, per l'acqua e per un rene, e non sa quale delle due lo sta già uccidendo.",
 "id": "HAC-INV-0004",
 "nome": "Coda Sommersa",

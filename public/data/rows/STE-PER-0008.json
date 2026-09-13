@@ -1,5 +1,6 @@
 {
 "affettivo": null,
+"appare_in": [],
 "casta": "aeronauti",
 "ceppo": "germanico",
 "cognome": "Lindinwald",
@@ -9,6 +10,7 @@
 "epoca_relativa": 0,
 "estrazione": 20,
 "eta_fascia": "bambino",
+"fatti": [],
 "gancio": "Falsifica le cifre del Barometro delle Cantine per risparmiare un giro di manutenzione che costerebbe alla sua famiglia una parte del carico di ghiaccio.",
 "id": "STE-PER-0008",
 "invenzione_id": "STE-INV-0012",

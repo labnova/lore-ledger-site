@@ -3,6 +3,7 @@
 "orientamento": "asessuale",
 "situazione": "single"
 },
+"appare_in": [],
 "casta": "clero",
 "ceppo": "ibrido",
 "cognome": "Ryoshi",
@@ -12,6 +13,7 @@
 "epoca_relativa": 0,
 "estrazione": 4,
 "eta_fascia": "adulto",
+"fatti": [],
 "gancio": "Ha costruito il meccanismo che apre i recinti al mutare del cielo; ospitale con chiunque bussi, tranne che con chi le chiede come fa a sapere sempre l'ora esatta del rilancio.",
 "id": "NEO-PER-0019",
 "invenzione_id": "NEO-INV-0012",

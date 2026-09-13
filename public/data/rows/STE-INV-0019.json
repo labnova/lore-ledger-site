@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-13",
 "discipline": [
 "logistica/catena_del_freddo",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 19,
+"fatti": [],
 "gancio": "Un giovane rilevatore rifà di nascosto la misurazione e trova un numero che smentisce trent'anni di turni.",
 "id": "STE-INV-0019",
 "nome": "Il Passo del Fiume",

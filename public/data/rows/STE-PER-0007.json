@@ -1,5 +1,8 @@
 {
 "affettivo": null,
+"appare_in": [
+"2026-09-13-l-ora-di-anticipo"
+],
 "casta": "aeronauti",
 "ceppo": "turco",
 "cognome": "Kunduracı",
@@ -9,6 +12,7 @@
 "epoca_relativa": 0,
 "estrazione": 20,
 "eta_fascia": "adolescente",
+"fatti": [],
 "gancio": "Studia lo strumento per superare l'esame da timoniere, convinto che i suoi antenati aeronauti lo stiano giudicando da qualche nuvola sopra di lui.",
 "id": "STE-PER-0007",
 "invenzione_id": "STE-INV-0012",

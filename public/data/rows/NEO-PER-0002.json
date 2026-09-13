@@ -3,6 +3,7 @@
 "orientamento": "eterosessuale",
 "situazione": "celibe_per_voto"
 },
+"appare_in": [],
 "casta": "artigiani_tecno_magi",
 "ceppo": "swahili",
 "cognome": "Kiwele",
@@ -12,6 +13,7 @@
 "epoca_relativa": 0,
 "estrazione": 2,
 "eta_fascia": "adulto",
+"fatti": [],
 "gancio": "Tipografa del clero; compone i versetti con caratteri dell'era precedente che crede santi. Sa che i caratteri si riallineano da soli di notte. Un mattino trova composto un versetto che non ha impaginato.",
 "id": "NEO-PER-0002",
 "invenzione_id": "NEO-INV-0009",

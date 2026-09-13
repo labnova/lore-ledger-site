@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "acustica/fonetica",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 5,
+"fatti": [],
 "gancio": "Un ingegnere di scafo scopre che il proprio sonogramma coincide con una stella la cui luce ha impiegato quattrocento anni ad arrivare.",
 "id": "ELA-INV-0002",
 "nome": "Ritratto di Voce",

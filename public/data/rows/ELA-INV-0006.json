@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "acustica/fonetica",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 5,
+"fatti": [],
 "gancio": "Una diplomatica scopre di avere gli stessi formanti di una voce registrata in un archivio precedente alla sua nascita, che nessuno ammette di aver creato.",
 "id": "ELA-INV-0006",
 "nome": "Le Camere della Gola",

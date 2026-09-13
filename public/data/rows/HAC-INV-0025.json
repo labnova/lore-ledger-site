@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-13",
 "discipline": [
 "moda/cosmesi",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 23,
+"fatti": [],
 "gancio": "Un istituto di sicurezza scopre che tre dipendenti diversi risultano avere, secondo il sistema, la stessa identica iride.",
 "id": "HAC-INV-0025",
 "nome": "Iride Prestata",

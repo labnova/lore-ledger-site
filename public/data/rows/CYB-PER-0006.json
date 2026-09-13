@@ -3,6 +3,7 @@
 "orientamento": "bisessuale",
 "situazione": "relazione_segreta"
 },
+"appare_in": [],
 "casta": "nomadi_urbani",
 "ceppo": "germanico",
 "cognome": "Falkstein",
@@ -12,6 +13,7 @@
 "epoca_relativa": 0,
 "estrazione": 16,
 "eta_fascia": "anziano",
+"fatti": [],
 "gancio": "Friedrich rifiuta ogni richiesta di modifica al protocollo che ha scritto lui stesso, anche quando gli mostrano i casi in cui la copia sopravvive più a lungo del previsto.",
 "id": "CYB-PER-0006",
 "invenzione_id": "CYB-INV-0015",

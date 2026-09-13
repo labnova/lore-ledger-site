@@ -3,6 +3,7 @@
 "orientamento": "bisessuale",
 "situazione": "separato"
 },
+"appare_in": [],
 "casta": "nomadi_urbani",
 "ceppo": "germanico",
 "cognome": "Schäfer",
@@ -12,6 +13,7 @@
 "epoca_relativa": 0,
 "estrazione": 16,
 "eta_fascia": "adulto",
+"fatti": [],
 "gancio": "Stefan sospetta di aver già capito, in una delle note perse, perché certe copie di scorta sopravvivono più a lungo del corpo che dovrebbero servire, ma non ricorda dove l'ha scritto.",
 "id": "CYB-PER-0004",
 "invenzione_id": "CYB-INV-0015",

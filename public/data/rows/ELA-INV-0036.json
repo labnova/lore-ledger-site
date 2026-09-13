@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "arte_visiva/affresco",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 7,
+"fatti": [],
 "gancio": "Un bambino disegna, in un settore mai cartografato, una creatura che corrisponde esattamente a una grottesca dipinta due generazioni prima da un frescante che non ha mai visto il suo disegno.",
 "id": "ELA-INV-0036",
 "nome": "I Mostri ai Margini del Cielo",

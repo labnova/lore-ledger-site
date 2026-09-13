@@ -1,9 +1,13 @@
 {
+"appare_in": [
+"2026-09-13-l-ora-di-anticipo"
+],
 "chi_lo_porta": "Zaid lo porta appeso al collo sotto la giacca da cadetto aeronauta, e lo tocca ogni volta che deve firmare una lettura del Barometro.",
 "cosa": "Piccolo ciondolo di legno intagliato a forma di cassa da trasporto, con un coperchio che si apre a scatto.",
 "created": "2026-09-13",
 "epoca_relativa": 0,
 "estrazione": 21,
+"fatti": [],
 "gancio": "Un compagno di corso nota che Zaid apre e richiude il ciondolo esattamente il numero di volte in cui ha mentito quel giorno.",
 "id": "STE-GAD-0001",
 "invenzione_id": "STE-INV-0001",

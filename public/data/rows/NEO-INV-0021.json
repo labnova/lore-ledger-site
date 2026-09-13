@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "zoologia",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 4,
+"fatti": [],
 "gancio": "Una bestia segnata come maledetta ha vinto sette rilanci di fila nella Selva; il chierico che dovrebbe correggere il registro non l'ha ancora fatto.",
 "id": "NEO-INV-0021",
 "nome": "Le Stirpi Sciolte",

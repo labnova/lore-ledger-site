@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-13",
 "discipline": [
 "moda/cosmesi",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 23,
+"fatti": [],
 "gancio": "Un varco doganale segnala una \"corrispondenza sospetta\" su un passeggero che, secondo il sistema, ha due iridi leggermente diverse tra loro.",
 "id": "HAC-INV-0021",
 "nome": "Tonalità Zero",

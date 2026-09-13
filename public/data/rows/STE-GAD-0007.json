@@ -1,9 +1,13 @@
 {
+"appare_in": [
+"2026-09-13-l-ora-di-anticipo"
+],
 "chi_lo_porta": "Zaid la tiene nella tasca interna della giacca, pronta a scambiarla con quella buona quando serve una lettura più morbida.",
 "cosa": "Lente di ricambio per il Barometro, leggermente più opaca delle altre e mai sostituita.",
 "created": "2026-09-13",
 "epoca_relativa": 0,
 "estrazione": 21,
+"fatti": [],
 "gancio": "Nessun tecnico ha mai controllato quella lente, perché sulla carta di magazzino risulta identica a tutte le altre in dotazione.",
 "id": "STE-GAD-0007",
 "invenzione_id": "STE-INV-0001",

@@ -3,6 +3,7 @@
 "orientamento": "asessuale",
 "situazione": "single"
 },
+"appare_in": [],
 "casta": "artigiani_tecno_magi",
 "ceppo": "swahili",
 "cognome": "Otieno",
@@ -12,6 +13,7 @@
 "epoca_relativa": 0,
 "estrazione": 12,
 "eta_fascia": "giovane",
+"fatti": [],
 "gancio": "Lavora accanto a Kombo Gurudumu alla Ruota dei Sette Animali; ha iniziato a indossare guanti dopo aver sognato tre notti di fila lo stesso animale vincente.",
 "id": "NEO-PER-0033",
 "invenzione_id": "NEO-INV-0009",

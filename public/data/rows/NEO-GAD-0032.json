@@ -1,9 +1,11 @@
 {
+"appare_in": [],
 "chi_lo_porta": "I banditori della Selva delle Puntate lo mostrano ai giocatori come garanzia d'origine della bestia in gara.",
 "cosa": "Disco di cera scura impresso con lo stemma sbiadito di una stirpe ancora dichiarata maledetta dal Libro.",
 "created": "2026-09-13",
 "epoca_relativa": 0,
 "estrazione": 26,
+"fatti": [],
 "gancio": "Un giocatore ha notato lo stesso sigillo su due bestie diverse nello stesso pomeriggio.",
 "id": "NEO-GAD-0032",
 "invenzione_id": "NEO-INV-0021",

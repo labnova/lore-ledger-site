@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "acustica/fonetica",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 5,
+"fatti": [],
 "gancio": "Un colono chiede ai monaci di far parlare la stella sotto cui è nato suo figlio, e non gli piace ciò che sente.",
 "id": "ELA-INV-0020",
 "nome": "La Voce Ricostruita",

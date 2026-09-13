@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-13",
 "discipline": [
 "logistica/catena_del_freddo",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 2,
 "estrazione": 21,
+"fatti": [],
 "gancio": "Il funzionario che ha firmato il rilievo trova la propria copia rispedita indietro senza spiegazioni, tre volte, dallo stesso ufficio.",
 "id": "STE-INV-0026",
 "nome": "Le Carte Confermate",

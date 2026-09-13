@@ -3,6 +3,7 @@
 "orientamento": "eterosessuale",
 "situazione": "amante_segreto"
 },
+"appare_in": [],
 "casta": "artigiani_tecno_magi",
 "ceppo": "swahili",
 "cognome": "Mwangaza",
@@ -12,6 +13,7 @@
 "epoca_relativa": 0,
 "estrazione": 2,
 "eta_fascia": "anziano",
+"fatti": [],
 "gancio": "Miniaturista da vent'anni senza saper leggere i versetti; riconosce ogni animale dalla forma, e quello scritto a matita non l'ha mai visto. Decide di dipingerlo lo stesso, a memoria di un sogno.",
 "id": "NEO-PER-0001",
 "invenzione_id": "NEO-INV-0009",

@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "agricoltura/irrigazione",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 6,
+"fatti": [],
 "gancio": "Nello stesso capannone crescono alberi impossibili e valvole cardiache che non dovrebbero battere.",
 "id": "HAC-INV-0010",
 "nome": "Innesto Straniero",

@@ -1,5 +1,6 @@
 {
 "affettivo": null,
+"appare_in": [],
 "casta": "cavalieri",
 "ceppo": "swahili",
 "cognome": "Kimambura",
@@ -9,6 +10,7 @@
 "epoca_relativa": 0,
 "estrazione": 12,
 "eta_fascia": "adolescente",
+"fatti": [],
 "gancio": "Devota convinta che il crollo del feudo sarà il giudizio finale, corregge di nascosto le pagine del Bestiario delle Quote per anticiparlo; nessun cavaliere anziano si è ancora accorto delle sue bugie.",
 "id": "NEO-PER-0029",
 "invenzione_id": "NEO-INV-0009",

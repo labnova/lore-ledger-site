@@ -1,5 +1,6 @@
 {
 "affettivo": null,
+"appare_in": [],
 "casta": "cavalieri",
 "ceppo": "basco",
 "cognome": "Okin",
@@ -9,6 +10,7 @@
 "epoca_relativa": 0,
 "estrazione": 24,
 "eta_fascia": "bambino",
+"fatti": [],
 "gancio": "Il maestro dei falchi gli ha proibito di avvicinarsi alle voliere dopo l'ultimo scatto, ma è l'unico che i falchi seguono senza esitare.",
 "id": "NEO-PER-0039",
 "invenzione_id": "NEO-INV-0013",

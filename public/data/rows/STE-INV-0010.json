@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-13",
 "discipline": [
 "logistica/catena_del_freddo",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 19,
+"fatti": [],
 "gancio": "Un ingegnere idraulico nota che il fiume secondo ha una piena proprio nei giorni in cui il fiume vero è insolitamente basso.",
 "id": "STE-INV-0010",
 "nome": "Il Fiume Secondo",

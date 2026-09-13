@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "zoologia",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 1,
+"fatti": [],
 "gancio": "Un uovo si schiude con una creatura che non compare in nessun bestiario.",
 "id": "NEO-INV-0005",
 "nome": "Estrazione delle Uova",

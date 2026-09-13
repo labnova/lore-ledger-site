@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-13",
 "discipline": [
 "religione/teologia",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 1,
 "estrazione": 25,
+"fatti": [],
 "gancio": "Un prete del culto scopre il modulo per caso e comincia a scegliere di proposito le frasi più riciclate, convinto che la ripetizione le renda più vere, non meno.",
 "id": "CYB-INV-0025",
 "nome": "Il Concordanziere delle Parabole",

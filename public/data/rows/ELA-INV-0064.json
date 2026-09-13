@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "finanza/valuta",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 11,
+"fatti": [],
 "gancio": "Un controllo contabile scopre che uno scriba nasconde, sotto una luce radente, una firma personale invisibile dentro lettere identiche a tutte le altre.",
 "id": "ELA-INV-0064",
 "nome": "Il Divieto del Corsivo",

@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-13",
 "discipline": [
 "agricoltura/irrigazione",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 1,
 "estrazione": 23,
+"fatti": [],
 "gancio": "Un paziente riceve una notifica sul telefono due giorni prima che il suo stesso corpo gli dia un sintomo.",
 "id": "HAC-INV-0042",
 "nome": "Il Rumore di Fondo",

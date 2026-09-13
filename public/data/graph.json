@@ -1996,6 +1996,21 @@
 "to": "NEO-REG-calvenna"
 },
 {
+"from": "NEO-GAD-0041",
+"kind": "invenzione",
+"to": "NEO-INV-0013"
+},
+{
+"from": "NEO-GAD-0041",
+"kind": "personaggio",
+"to": "NEO-PER-0045"
+},
+{
+"from": "NEO-GAD-0041",
+"kind": "regione",
+"to": "NEO-REG-vranidol"
+},
+{
 "from": "STE-GAD-0001",
 "kind": "invenzione",
 "to": "STE-INV-0001"
@@ -2209,6 +2224,36 @@
 "from": "NEO-SEM-0002",
 "kind": "regione",
 "to": "NEO-REG-vasperdine"
+},
+{
+"from": "STE-FAT-m20260913-1",
+"kind": "soggetto",
+"to": "STE-REG-ledoskol"
+},
+{
+"from": "STE-FAT-m20260913-2",
+"kind": "soggetto",
+"to": "STE-INV-0012"
+},
+{
+"from": "STE-FAT-m20260913-3",
+"kind": "soggetto",
+"to": "STE-INV-0012"
+},
+{
+"from": "STE-FAT-m20260913-4",
+"kind": "soggetto",
+"to": "STE-REG-ledoskol"
+},
+{
+"from": "STE-FAT-m20260913-5",
+"kind": "soggetto",
+"to": "STE-INV-0012"
+},
+{
+"from": "STE-FAT-m20260913-5",
+"kind": "soggetto",
+"to": "STE-PER-0002"
 }
 ],
 "nodes": [
@@ -3581,6 +3626,12 @@
 "universo": "neofeudal"
 },
 {
+"id": "NEO-GAD-0041",
+"tipo": "gadget",
+"titolo": "La Piuma Marchiata a Freddo",
+"universo": "neofeudal"
+},
+{
 "id": "NEO-INV-0001",
 "tipo": "invenzione",
 "titolo": "Giudizio dei Galli di Calvenna",
@@ -4046,6 +4097,36 @@
 "id": "STE-CON-0001",
 "tipo": "contenuto",
 "titolo": "Come si traccia la rotta d'inverno (archivio d'istruzione, Compagnia degli Aratri)",
+"universo": "steamverse"
+},
+{
+"id": "STE-FAT-m20260913-1",
+"tipo": "fatto",
+"titolo": "La Chiusa Terza è la più bassa delle chiuse dell'estuario di Ledoskol e serve di",
+"universo": "steamverse"
+},
+{
+"id": "STE-FAT-m20260913-2",
+"tipo": "fatto",
+"titolo": "La campana del Barometro delle Cantine non scatta da sola: l'uomo di guardia la ",
+"universo": "steamverse"
+},
+{
+"id": "STE-FAT-m20260913-3",
+"tipo": "fatto",
+"titolo": "Le lenti di ricambio del Barometro escono dal magazzino della gilda del freddo c",
+"universo": "steamverse"
+},
+{
+"id": "STE-FAT-m20260913-4",
+"tipo": "fatto",
+"titolo": "L'iscrizione all'albo degli inventori a Ledoskol costa duecento gettoni-vapore, ",
+"universo": "steamverse"
+},
+{
+"id": "STE-FAT-m20260913-5",
+"tipo": "fatto",
+"titolo": "Marina ha collegato la lamina del Barometro a un secondo tubo assente dai disegn",
 "universo": "steamverse"
 },
 {

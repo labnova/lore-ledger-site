@@ -3,6 +3,7 @@
 "orientamento": "eterosessuale",
 "situazione": "single"
 },
+"appare_in": [],
 "casta": "nomadi_urbani",
 "ceppo": "germanico",
 "cognome": "Zimmermann",
@@ -12,6 +13,7 @@
 "epoca_relativa": 0,
 "estrazione": 16,
 "eta_fascia": "maturo",
+"fatti": [],
 "gancio": "Bertha controlla la propria copia di scorta ogni sera come un rituale, ma non ricorda più se l'ha già controllata o se sta solo ricordando di averlo fatto ieri.",
 "id": "CYB-PER-0005",
 "invenzione_id": "CYB-INV-0015",

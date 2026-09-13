@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-13",
 "discipline": [
 "logistica/catena_del_freddo",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 19,
+"fatti": [],
 "gancio": "Un pilota d'aratro annota su un taccuino personale ogni rotta \"dimenticata\" apposta, temendo di doverlo mostrare un giorno a un giudice.",
 "id": "STE-INV-0008",
 "nome": "Gli Aratri d'Inverno",

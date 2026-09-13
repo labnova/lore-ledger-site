@@ -1,5 +1,8 @@
 {
 "affettivo": null,
+"appare_in": [
+"2026-09-13-l-ora-di-anticipo"
+],
 "casta": "aeronauti",
 "ceppo": "arabo",
 "cognome": "Iskafi",
@@ -9,6 +12,7 @@
 "epoca_relativa": 0,
 "estrazione": 20,
 "eta_fascia": "adolescente",
+"fatti": [],
 "gancio": "Teme lo strumento perché fu lei a suonarlo per prima l'anno del grande allagamento, e nessuno le crede più quando dice che stavolta il pericolo è reale.",
 "id": "STE-PER-0009",
 "invenzione_id": "STE-INV-0012",

@@ -1,5 +1,6 @@
 {
 "affettivo": null,
+"appare_in": [],
 "casta": "cavalieri",
 "ceppo": "slavo",
 "cognome": "Krawiec",
@@ -9,6 +10,7 @@
 "epoca_relativa": 0,
 "estrazione": 24,
 "eta_fascia": "adolescente",
+"fatti": [],
 "gancio": "Ha notato che il falco che segna le puntate di suo padre perde quota ogni volta che lui ha rubato il mangime, e non sa se sia colpa sua o un segno.",
 "id": "NEO-PER-0036",
 "invenzione_id": "NEO-INV-0013",

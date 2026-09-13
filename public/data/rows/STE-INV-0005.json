@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-13",
 "discipline": [
 "logistica/catena_del_freddo",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 19,
+"fatti": [],
 "gancio": "Un calcolatore scopre che le tavole sono state copiate da un quaderno di sessant'anni prima, mai aggiornato ma sempre esatto.",
 "id": "STE-INV-0005",
 "nome": "Le Tavole della Sete",

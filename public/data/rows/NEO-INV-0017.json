@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "zoologia",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 1,
+"fatti": [],
 "gancio": "Chi fa jackpot viene convocato a corte e non torna.",
 "id": "NEO-INV-0017",
 "nome": "Ruota dei Sette Animali",

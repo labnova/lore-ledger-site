@@ -3,6 +3,7 @@
 "orientamento": "bisessuale",
 "situazione": "promesso_per_contratto"
 },
+"appare_in": [],
 "casta": "cavalieri",
 "ceppo": "swahili",
 "cognome": "Mwasindi",
@@ -12,6 +13,7 @@
 "epoca_relativa": 0,
 "estrazione": 12,
 "eta_fascia": "giovane",
+"fatti": [],
 "gancio": "Promesso per contratto a una casata di cavalieri, ha costruito con le proprie mani la cassa del Bestiario delle Quote; non dorme da quando vi ha trovato la sua prima domanda scritta a matita tra i versetti.",
 "id": "NEO-PER-0026",
 "invenzione_id": "NEO-INV-0009",

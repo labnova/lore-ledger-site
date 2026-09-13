@@ -1,5 +1,6 @@
 {
 "affettivo": null,
+"appare_in": [],
 "casta": "navigatori",
 "ceppo": "germanico",
 "cognome": "Hoffbrechlichschmidt",
@@ -9,6 +10,7 @@
 "epoca_relativa": 0,
 "estrazione": 8,
 "eta_fascia": "adolescente",
+"fatti": [],
 "gancio": "Il suo prossimo rapporto falsificato deve coprire una lettura che, se autentica, dimostrerebbe che l'invenzione non funziona come il convoglio crede.",
 "id": "ELA-PER-0010",
 "invenzione_id": "ELA-INV-0005",

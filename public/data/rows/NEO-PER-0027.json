@@ -3,6 +3,7 @@
 "orientamento": "pansessuale",
 "situazione": "vedovo"
 },
+"appare_in": [],
 "casta": "cavalieri",
 "ceppo": "germanico",
 "cognome": "Falkelwald",
@@ -12,6 +13,7 @@
 "epoca_relativa": 0,
 "estrazione": 12,
 "eta_fascia": "anziano",
+"fatti": [],
 "gancio": "Vedovo, usa il Bestiario delle Quote per placare le dispute d'onore tra cavalieri; non ha mai sospettato che l'ultima quota corretta a matita fosse opera del suo stesso scudiero.",
 "id": "NEO-PER-0027",
 "invenzione_id": "NEO-INV-0009",

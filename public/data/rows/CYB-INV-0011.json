@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-13",
 "discipline": [
 "religione/teologia",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 15,
+"fatti": [],
 "gancio": "Un uomo scopre di dover ancora due rate della sua indulgenza il giorno in cui il figlio entra in lista per lo stesso tipo di trapianto.",
 "id": "CYB-INV-0011",
 "nome": "L'Indulgenza Posticipata",

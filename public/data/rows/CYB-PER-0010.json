@@ -3,6 +3,7 @@
 "orientamento": "asessuale",
 "situazione": "poliamoroso"
 },
+"appare_in": [],
 "casta": "nomadi_urbani",
 "ceppo": "germanico",
 "cognome": "Hartinghoff",
@@ -12,6 +13,7 @@
 "epoca_relativa": 0,
 "estrazione": 16,
 "eta_fascia": "maturo",
+"fatti": [],
 "gancio": "Greta deve un'altra puntata alla casa che tiene il banco nel campo nomade, e questa volta la posta è la sua anima di scorta.",
 "id": "CYB-PER-0010",
 "invenzione_id": "CYB-INV-0015",

@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "arte_visiva/affresco",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 7,
+"fatti": [],
 "gancio": "Un capitano ordina di intonacare in anticipo la fascia successiva del murale, prima ancora che la rotta per raggiungerla sia stata approvata.",
 "id": "ELA-INV-0030",
 "nome": "Il Cono delle Latitudini Sicure",

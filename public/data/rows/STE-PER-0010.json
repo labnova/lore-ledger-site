@@ -3,6 +3,9 @@
 "orientamento": "asessuale",
 "situazione": "single"
 },
+"appare_in": [
+"2026-09-13-l-ora-di-anticipo"
+],
 "casta": "aeronauti",
 "ceppo": "slavo",
 "cognome": "Gotonoović",
@@ -12,6 +15,7 @@
 "epoca_relativa": 0,
 "estrazione": 20,
 "eta_fascia": "adulto",
+"fatti": [],
 "gancio": "Falsifica i registri notturni dello strumento per nascondere quanto poco dorme, temendo che la gilda la tolga dall'unico turno che le dà una scusa per non dormire.",
 "id": "STE-PER-0010",
 "invenzione_id": "STE-INV-0012",

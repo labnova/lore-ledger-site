@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "finanza/valuta",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 11,
+"fatti": [],
 "gancio": "Su un registro antico, solo i numeri vergati da una mano non autorizzata stanno svanendo, riga dopo riga, sotto gli occhi dei contabili.",
 "id": "ELA-INV-0052",
 "nome": "L'Inchiostro che Morde",

@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "finanza/valuta",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 11,
+"fatti": [],
 "gancio": "Un documento di trasferimento porta impresso un timbro il cui incisore risulta morto prima della data della transazione.",
 "id": "ELA-INV-0063",
 "nome": "Il Timbro che Parla",

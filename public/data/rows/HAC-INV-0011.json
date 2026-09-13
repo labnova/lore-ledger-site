@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "agricoltura/irrigazione",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 6,
+"fatti": [],
 "gancio": "Un broker rivende per errore lo stesso lotto due volte, un campo e un fegato.",
 "id": "HAC-INV-0011",
 "nome": "Borsa della Sete",

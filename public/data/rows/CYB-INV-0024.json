@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-13",
 "discipline": [
 "religione/teologia",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 1,
 "estrazione": 25,
+"fatti": [],
 "gancio": "Una donna scopre che la sua seconda richiesta di trapianto è stata respinta per una frase detta anni prima, in una confessione che credeva dimenticata da tutti tranne che da lei.",
 "id": "CYB-INV-0024",
 "nome": "Il Libro delle Recidive",

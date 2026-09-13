@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-13",
 "discipline": [
 "logistica/catena_del_freddo",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 19,
+"fatti": [],
 "gancio": "Un nuovo impiegato viene licenziato il giorno dopo aver chiesto, ingenuamente, cosa significhi il simbolo del \"vortice doppio\".",
 "id": "STE-INV-0016",
 "nome": "Il Diario delle Correnti",

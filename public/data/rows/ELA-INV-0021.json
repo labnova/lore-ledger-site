@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "arte_visiva/affresco",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 7,
+"fatti": [],
 "gancio": "Un colono scopre che la rotta dipinta sul muro della sua cabina, ancora umida quando è nato, oggi indica una stella che nessuna nave ha mai raggiunto.",
 "id": "ELA-INV-0021",
 "nome": "La Carta Bagnata",

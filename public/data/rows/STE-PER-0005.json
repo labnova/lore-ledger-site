@@ -1,5 +1,8 @@
 {
 "affettivo": null,
+"appare_in": [
+"2026-09-13-l-ora-di-anticipo"
+],
 "casta": "aeronauti",
 "ceppo": "ibrido",
 "cognome": "Nymanestrand",
@@ -9,6 +12,7 @@
 "epoca_relativa": 0,
 "estrazione": 20,
 "eta_fascia": "bambino",
+"fatti": [],
 "gancio": "Falsifica i numeri dello strumento perché crede che un crollo vero sarebbe un giudizio meritato, e non vuole essere lui a fermarlo con un allarme in tempo.",
 "id": "STE-PER-0005",
 "invenzione_id": "STE-INV-0012",

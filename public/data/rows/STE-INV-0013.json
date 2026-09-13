@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-13",
 "discipline": [
 "logistica/catena_del_freddo",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 19,
+"fatti": [],
 "gancio": "Un chimico della gilda scopre che le sue misurazioni di salinità sono usate come pretesto ufficiale per una discriminazione già decisa altrove.",
 "id": "STE-INV-0013",
 "nome": "Il Sale della Purezza",

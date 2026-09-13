@@ -1,4 +1,7 @@
 {
+"appare_in": [
+"2026-09-13-l-ora-di-anticipo"
+],
 "created": "2026-09-13",
 "discipline": [
 "logistica/catena_del_freddo",
@@ -6,6 +9,43 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 19,
+"fatti": [
+{
+"id": "STE-FAT-m20260913-1",
+"momento": 1,
+"stabilito_da": "2026-09-13-l-ora-di-anticipo",
+"testo": "La Chiusa Terza è la più bassa delle chiuse dell'estuario di Ledoskol e serve direttamente le cantine di ghiaccio.",
+"tipo_fatto": "stato"
+},
+{
+"id": "STE-FAT-m20260913-2",
+"momento": 2,
+"stabilito_da": "2026-09-13-l-ora-di-anticipo",
+"testo": "La campana del Barometro delle Cantine non scatta da sola: l'uomo di guardia la arma a mano sul numero che ha letto all'oculare.",
+"tipo_fatto": "evento"
+},
+{
+"id": "STE-FAT-m20260913-3",
+"momento": 3,
+"stabilito_da": "2026-09-13-l-ora-di-anticipo",
+"testo": "Le lenti di ricambio del Barometro escono dal magazzino della gilda del freddo con una scheda unica per tutto il lotto di dodici, senza distinzione fra i pezzi.",
+"tipo_fatto": "stato"
+},
+{
+"id": "STE-FAT-m20260913-4",
+"momento": 4,
+"stabilito_da": "2026-09-13-l-ora-di-anticipo",
+"testo": "L'iscrizione all'albo degli inventori a Ledoskol costa duecento gettoni-vapore, la rinuncia al turno di volo e la firma di un ispettore della gilda.",
+"tipo_fatto": "regola_del_mondo"
+},
+{
+"id": "STE-FAT-m20260913-5",
+"momento": 5,
+"stabilito_da": "2026-09-13-l-ora-di-anticipo",
+"testo": "Marina ha collegato la lamina del Barometro a un secondo tubo assente dai disegni depositati, che non pesca nel fiume.",
+"tipo_fatto": "evento"
+}
+],
 "gancio": "Un custode smette di fidarsi del proprio barometro il giorno in cui questo tace mentre l'acqua gli bagna già gli stivali.",
 "id": "STE-INV-0012",
 "nome": "Il Barometro delle Cantine",

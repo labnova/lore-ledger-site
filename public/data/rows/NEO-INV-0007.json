@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "zoologia",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 1,
+"fatti": [],
 "gancio": "Il bestiame di Calvenna risponde a un nome che nessuno pronuncia da secoli.",
 "id": "NEO-INV-0007",
 "nome": "Sigillo di Ventre",

@@ -1,5 +1,6 @@
 {
 "affettivo": null,
+"appare_in": [],
 "casta": "clero",
 "ceppo": "slavo",
 "cognome": "Švec",
@@ -9,6 +10,7 @@
 "epoca_relativa": 0,
 "estrazione": 4,
 "eta_fascia": "bambino",
+"fatti": [],
 "gancio": "Chierichetto che teme la Selva delle Puntate più di ogni castigo; porta tre sassi cuciti nella tonaca contro la sfortuna, e sogna il giorno in cui gli affideranno il corno del rilancio.",
 "id": "NEO-PER-0018",
 "invenzione_id": "NEO-INV-0012",

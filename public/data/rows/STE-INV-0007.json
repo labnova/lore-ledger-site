@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-13",
 "discipline": [
 "logistica/catena_del_freddo",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 19,
+"fatti": [],
 "gancio": "Un mercante scopre che la sua \"finestra di marea\" si è misteriosamente ristretta da quando ha rifiutato un prestito della gilda.",
 "id": "STE-INV-0007",
 "nome": "L'Orologio Salmastro",

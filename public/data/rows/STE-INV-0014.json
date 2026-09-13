@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-13",
 "discipline": [
 "logistica/catena_del_freddo",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 19,
+"fatti": [],
 "gancio": "Un tagliatore di ghiaccio giovane annega in uno specchio che tutti dicevano sicuro perché \"era il più fotografato\".",
 "id": "STE-INV-0014",
 "nome": "Gli Specchi Fermi",

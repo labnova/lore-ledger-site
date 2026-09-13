@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-13",
 "discipline": [
 "religione/teologia",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 15,
+"fatti": [],
 "gancio": "Un fedele riconosce nel proprio certificato lo stesso numero di lotto del fegato impiantato nell'uomo che lo aveva fatto pestare due mesi prima.",
 "id": "CYB-INV-0004",
 "nome": "Miracolo di Turno",

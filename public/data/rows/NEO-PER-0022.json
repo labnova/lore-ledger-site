@@ -1,5 +1,6 @@
 {
 "affettivo": null,
+"appare_in": [],
 "casta": "cavalieri",
 "ceppo": "swahili",
 "cognome": "Mfinyanzi",
@@ -9,6 +10,7 @@
 "epoca_relativa": 0,
 "estrazione": 12,
 "eta_fascia": "adolescente",
+"fatti": [],
 "gancio": "Paggio destinato all'armatura, tiene i registri del culto nella bottega del Bestiario delle Quote; sa quali versetti sono quote truccate, ma non ha ancora deciso se dirlo al suo cavaliere.",
 "id": "NEO-PER-0022",
 "invenzione_id": "NEO-INV-0009",

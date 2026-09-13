@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-13",
 "discipline": [
 "moda/cosmesi",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 23,
+"fatti": [],
 "gancio": "Una lente sequestrata risulta perfettamente pulita, troppo pulita per essere stata indossata davvero.",
 "id": "HAC-INV-0035",
 "nome": "Bianco che Brucia",

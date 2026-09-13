@@ -1,8 +1,27 @@
 {
+"appare_in": [
+"2026-09-13-l-ora-di-anticipo"
+],
 "ceppo_dominante": "slavo",
 "created": "2026-09-13",
 "epoca_relativa": 0,
 "estrazione": 20,
+"fatti": [
+{
+"id": "STE-FAT-m20260913-1",
+"momento": 1,
+"stabilito_da": "2026-09-13-l-ora-di-anticipo",
+"testo": "La Chiusa Terza è la più bassa delle chiuse dell'estuario di Ledoskol e serve direttamente le cantine di ghiaccio.",
+"tipo_fatto": "stato"
+},
+{
+"id": "STE-FAT-m20260913-4",
+"momento": 4,
+"stabilito_da": "2026-09-13-l-ora-di-anticipo",
+"testo": "L'iscrizione all'albo degli inventori a Ledoskol costa duecento gettoni-vapore, la rinuncia al turno di volo e la firma di un ispettore della gilda.",
+"tipo_fatto": "regola_del_mondo"
+}
+],
 "id": "STE-REG-ledoskol",
 "nome": "Ledoskol",
 "note": "Città-scalo aggrappata alle chiuse dell'estuario, dove la gilda del freddo governa le cantine di ghiaccio e gli aeronauti ne sorvegliano dall'alto le piene; quasi un cognome su due nasce ancora dal mestiere di chi lo porta.",

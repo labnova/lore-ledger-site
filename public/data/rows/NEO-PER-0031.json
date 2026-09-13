@@ -3,6 +3,7 @@
 "orientamento": "eterosessuale",
 "situazione": "poliamoroso"
 },
+"appare_in": [],
 "casta": "cavalieri",
 "ceppo": "swahili",
 "cognome": "Ndumbo",
@@ -12,6 +13,7 @@
 "epoca_relativa": 0,
 "estrazione": 12,
 "eta_fascia": "adulto",
+"fatti": [],
 "gancio": "Usa il Bestiario delle Quote per decidere quali cavalieri mandare in pattuglia rischiosa; sceglie sempre, per invidia, quelli che lo hanno superato in grado.",
 "id": "NEO-PER-0031",
 "invenzione_id": "NEO-INV-0009",

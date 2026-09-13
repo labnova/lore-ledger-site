@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "zoologia",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 1,
+"fatti": [],
 "gancio": "La Confraternita sa dove finiscono i vincitori della Ruota, e tace.",
 "id": "NEO-INV-0020",
 "nome": "La Confraternita del Pelo e della Piuma",

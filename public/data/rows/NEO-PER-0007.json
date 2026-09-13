@@ -3,6 +3,7 @@
 "orientamento": "bisessuale",
 "situazione": "sposato"
 },
+"appare_in": [],
 "casta": "artigiani_tecno_magi",
 "ceppo": "swahili",
 "cognome": "Gurudumu",
@@ -12,6 +13,7 @@
 "epoca_relativa": 0,
 "estrazione": 2,
 "eta_fascia": "anziano",
+"fatti": [],
 "gancio": "Costruttore di manovelle per la Ruota dei Sette Animali (NEO-INV-0017); i simboli sono copiati dal Bestiario. Si accorge che la Ruota esce più spesso sugli animali con quote alte nel libro: la macchina sta leggendo il libro, non il contrario.",
 "id": "NEO-PER-0007",
 "invenzione_id": "NEO-INV-0009",

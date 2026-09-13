@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-13",
 "discipline": [
 "logistica/catena_del_freddo",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 19,
+"fatti": [],
 "gancio": "Un giovane fuochista comincia a segnare di nascosto il peso reale, convinto che qualcuno stia rubando acqua dal fiume un litro alla volta.",
 "id": "STE-INV-0003",
 "nome": "Il Polmone di Rame",

@@ -3,6 +3,7 @@
 "orientamento": "asessuale",
 "situazione": "vedovo"
 },
+"appare_in": [],
 "casta": "navigatori",
 "ceppo": "turco",
 "cognome": "Değirmenci",
@@ -12,6 +13,7 @@
 "epoca_relativa": 0,
 "estrazione": 8,
 "eta_fascia": "maturo",
+"fatti": [],
 "gancio": "Le ultime tre letture che ha smesso di trascrivere corrispondono, per chi le ha recuperate dai log grezzi, a tre notti in cui avrebbe dovuto essere di turno con lei.",
 "id": "ELA-PER-0009",
 "invenzione_id": "ELA-INV-0005",

@@ -3,6 +3,7 @@
 "orientamento": "asessuale",
 "situazione": "amante_segreto"
 },
+"appare_in": [],
 "casta": "artigiani_tecno_magi",
 "ceppo": "swahili",
 "cognome": "Wa Tatu",
@@ -12,6 +13,7 @@
 "epoca_relativa": 0,
 "estrazione": 2,
 "eta_fascia": "anziano",
+"fatti": [],
 "gancio": "Incaricato di cancellare la quota a matita, non ci riesce; la grafite è conduttiva e il tratto risponde, allungandosi di un millimetro a ogni tentativo.",
 "id": "NEO-PER-0005",
 "invenzione_id": "NEO-INV-0009",

@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-13",
 "discipline": [
 "logistica/catena_del_freddo",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 1,
 "estrazione": 20,
+"fatti": [],
 "gancio": "L'operaio che scoprì i propri passi nei registri trova ora anche il proprio intero tragitto notturno tracciato su una mappa affissa nell'ufficio della gilda, con una domanda scritta a mano accanto al suo nome.",
 "id": "STE-INV-0022",
 "nome": "Il Coro Sotterraneo",

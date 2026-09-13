@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-13",
 "discipline": [
 "moda/cosmesi",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 23,
+"fatti": [],
 "gancio": "Un centro oculistico risulta, nei log, l'unico software al mondo capace di calcolare come \"invecchia\" un'iride finta.",
 "id": "HAC-INV-0031",
 "nome": "Taglio di Precisione",

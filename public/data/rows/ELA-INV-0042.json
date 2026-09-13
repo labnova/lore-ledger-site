@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "acustica/fonetica",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 4,
 "estrazione": 7,
+"fatti": [],
 "gancio": "Un equipaggio festeggia il primo Blu del Ritorno registrato in generazioni, finché un monaco nota che la nave, in realtà, sta ancora accelerando.",
 "id": "ELA-INV-0042",
 "nome": "Il Blu del Ritorno",

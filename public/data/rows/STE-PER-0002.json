@@ -3,6 +3,9 @@
 "orientamento": "eterosessuale",
 "situazione": "fidanzato"
 },
+"appare_in": [
+"2026-09-13-l-ora-di-anticipo"
+],
 "casta": "aeronauti",
 "ceppo": "slavo",
 "cognome": "Švec",
@@ -12,6 +15,15 @@
 "epoca_relativa": 0,
 "estrazione": 20,
 "eta_fascia": "anziano",
+"fatti": [
+{
+"id": "STE-FAT-m20260913-5",
+"momento": 5,
+"stabilito_da": "2026-09-13-l-ora-di-anticipo",
+"testo": "Marina ha collegato la lamina del Barometro a un secondo tubo assente dai disegni depositati, che non pesca nel fiume.",
+"tipo_fatto": "evento"
+}
+],
 "gancio": "Sa che lo strumento suona un'ora prima non per talento ma per un trucco che lei stessa ha nascosto negli ingranaggi, ma tacere davanti alla gilda le riesce naturale.",
 "id": "STE-PER-0002",
 "invenzione_id": "STE-INV-0012",

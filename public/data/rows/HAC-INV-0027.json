@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-13",
 "discipline": [
 "moda/cosmesi",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 23,
+"fatti": [],
 "gancio": "Un'ottica di quartiere diventa, senza saperlo, il posto dove ci si fa \"tagliare\" il volto prima di un lavoro.",
 "id": "HAC-INV-0027",
 "nome": "Il Taglio Giusto",

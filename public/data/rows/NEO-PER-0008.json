@@ -3,6 +3,7 @@
 "orientamento": "bisessuale",
 "situazione": "celibe_per_voto"
 },
+"appare_in": [],
 "casta": "artigiani_tecno_magi",
 "ceppo": "swahili",
 "cognome": "Rangi",
@@ -12,6 +13,7 @@
 "epoca_relativa": 0,
 "estrazione": 2,
 "eta_fascia": "maturo",
+"fatti": [],
 "gancio": "Vende copie del Bestiario con quote inventate ai contadini; le quote inventate cominciano ad avverarsi. La Confraternita del Pelo e della Piuma (NEO-INV-0020) la arruola, o la elimina.",
 "id": "NEO-PER-0008",
 "invenzione_id": "NEO-INV-0009",

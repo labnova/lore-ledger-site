@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "acustica/fonetica",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 5,
+"fatti": [],
 "gancio": "Un diplomatico rifiuta di riascoltare i propri messaggi di addio perché teme di sentirli già arrossati.",
 "id": "ELA-INV-0003",
 "nome": "Il Rosso della Voce",

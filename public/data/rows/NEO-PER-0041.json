@@ -1,5 +1,6 @@
 {
 "affettivo": null,
+"appare_in": [],
 "casta": "cavalieri",
 "ceppo": "slavo",
 "cognome": "Peroczyk",
@@ -9,6 +10,7 @@
 "epoca_relativa": 0,
 "estrazione": 24,
 "eta_fascia": "bambino",
+"fatti": [],
 "gancio": "Giura di aver sognato, tre notti prima che accadesse, i due falchi che circolavano sulla stessa bestia.",
 "id": "NEO-PER-0041",
 "invenzione_id": "NEO-INV-0013",

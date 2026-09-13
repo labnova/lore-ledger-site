@@ -1,0 +1,18 @@
+{
+"branch": "main",
+"cluster": "STE-INV-0012",
+"created": "2026-09-13",
+"id": "STE-FAT-m20260913-3",
+"momento": 3,
+"reversibile": true,
+"schema_version": 1,
+"soggetti": [
+"STE-INV-0012"
+],
+"stabilito_da": "2026-09-13-l-ora-di-anticipo",
+"status": "canon",
+"testo": "Le lenti di ricambio del Barometro escono dal magazzino della gilda del freddo con una scheda unica per tutto il lotto di dodici, senza distinzione fra i pezzi.",
+"tipo": "fatto",
+"tipo_fatto": "stato",
+"universo": "steamverse"
+}

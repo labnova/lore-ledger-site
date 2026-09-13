@@ -1,0 +1,18 @@
+{
+"branch": "main",
+"cluster": "STE-INV-0012",
+"created": "2026-09-13",
+"id": "STE-FAT-m20260913-2",
+"momento": 2,
+"reversibile": true,
+"schema_version": 1,
+"soggetti": [
+"STE-INV-0012"
+],
+"stabilito_da": "2026-09-13-l-ora-di-anticipo",
+"status": "canon",
+"testo": "La campana del Barometro delle Cantine non scatta da sola: l'uomo di guardia la arma a mano sul numero che ha letto all'oculare.",
+"tipo": "fatto",
+"tipo_fatto": "evento",
+"universo": "steamverse"
+}

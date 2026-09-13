@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "zoologia",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 1,
+"fatti": [],
 "gancio": "Un giocatore ne calcola la statistica e viene accusato di stregoneria.",
 "id": "NEO-INV-0011",
 "nome": "Ossa del Cinghiale Sacro",

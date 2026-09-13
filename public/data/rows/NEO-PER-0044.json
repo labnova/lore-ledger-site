@@ -1,5 +1,6 @@
 {
 "affettivo": null,
+"appare_in": [],
 "casta": "cavalieri",
 "ceppo": "slavo",
 "cognome": "Jain",
@@ -9,6 +10,7 @@
 "epoca_relativa": 0,
 "estrazione": 24,
 "eta_fascia": "adolescente",
+"fatti": [],
 "gancio": "Ha scritto tre volte lo stesso errore nel registro del maestro senza mai osare correggerlo ad alta voce.",
 "id": "NEO-PER-0044",
 "invenzione_id": "NEO-INV-0013",

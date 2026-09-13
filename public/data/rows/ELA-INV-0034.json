@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "arte_visiva/affresco",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 7,
+"fatti": [],
 "gancio": "Un restauratore trova, invece di un fiore-ellisse quasi impercettibile, una regione della carta senza alcuna distorsione segnata, come se lì nessuno avesse mai osato mentire.",
 "id": "ELA-INV-0034",
 "nome": "Le Ellissi della Menzogna",

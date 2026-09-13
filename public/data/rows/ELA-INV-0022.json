@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "arte_visiva/affresco",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 7,
+"fatti": [],
 "gancio": "Un restauratore gratta l'ultimo strato di una carta stellare e trova, in sinopia, la rotta verso un sistema che i registri ufficiali dicono di non aver mai cercato.",
 "id": "ELA-INV-0022",
 "nome": "Il Disegno Sepolto",

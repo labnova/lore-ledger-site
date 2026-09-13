@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-13",
 "discipline": [
 "logistica/catena_del_freddo",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 1,
 "estrazione": 20,
+"fatti": [],
 "gancio": "Il funzionario che trovò per primo il delta non ancora scavato ora guida la squadra del nuovo rilievo, e sa già, prima di misurare, dove il fiume andrà a scavare fra vent'anni.",
 "id": "STE-INV-0023",
 "nome": "Il Delta Riscoperto",

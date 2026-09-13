@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "acustica/fonetica",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 5,
+"fatti": [],
 "gancio": "Un archivista scopre che l'ultima sillaba trasmessa dalla nave madre, mai decifrata, corrisponde esattamente allo spettro di una supernova mai osservata prima.",
 "id": "ELA-INV-0018",
 "nome": "La Scrittura Rapida delle Stelle",

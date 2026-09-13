@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "acustica/fonetica",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 5,
+"fatti": [],
 "gancio": "I coloni raccontano che un'eco è tornata con un colore che nessun materiale conosciuto dovrebbe produrre.",
 "id": "ELA-INV-0012",
 "nome": "L'Orecchio dello Scafo",

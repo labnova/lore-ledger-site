@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-13",
 "discipline": [
 "moda/cosmesi",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 23,
+"fatti": [],
 "gancio": "Una telecamera nuova di zecca continua a fotografare un buco scuro dove dovrebbe esserci un volto.",
 "id": "HAC-INV-0022",
 "nome": "Pelle Opaca",

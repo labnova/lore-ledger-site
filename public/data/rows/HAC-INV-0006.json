@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "agricoltura/irrigazione",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 6,
+"fatti": [],
 "gancio": "Un registro agricolo e una cartella clinica usano la stessa parola sospetta, \"riposo\", per lo stesso concetto.",
 "id": "HAC-INV-0006",
 "nome": "Turno del Corpo",

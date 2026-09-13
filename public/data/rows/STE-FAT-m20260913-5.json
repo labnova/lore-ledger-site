@@ -1,0 +1,19 @@
+{
+"branch": "main",
+"cluster": "STE-INV-0012",
+"created": "2026-09-13",
+"id": "STE-FAT-m20260913-5",
+"momento": 5,
+"reversibile": true,
+"schema_version": 1,
+"soggetti": [
+"STE-INV-0012",
+"STE-PER-0002"
+],
+"stabilito_da": "2026-09-13-l-ora-di-anticipo",
+"status": "canon",
+"testo": "Marina ha collegato la lamina del Barometro a un secondo tubo assente dai disegni depositati, che non pesca nel fiume.",
+"tipo": "fatto",
+"tipo_fatto": "evento",
+"universo": "steamverse"
+}

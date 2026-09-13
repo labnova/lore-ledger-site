@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "arte_visiva/affresco",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 7,
+"fatti": [],
 "gancio": "Una spugna passata per pulizia ordinaria cancella per errore l'unica rotta segreta che avrebbe permesso alla nave di tornare indietro.",
 "id": "ELA-INV-0040",
 "nome": "L'Ultimo Velo",

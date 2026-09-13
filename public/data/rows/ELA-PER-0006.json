@@ -1,5 +1,6 @@
 {
 "affettivo": null,
+"appare_in": [],
 "casta": "navigatori",
 "ceppo": "turco",
 "cognome": "Çoban",
@@ -9,6 +10,7 @@
 "epoca_relativa": 0,
 "estrazione": 8,
 "eta_fascia": "bambino",
+"fatti": [],
 "gancio": "Continua a costruirne uno tutto suo, di nascosto, solo per dimostrare che aveva ragione a non crederci.",
 "id": "ELA-PER-0006",
 "invenzione_id": "ELA-INV-0005",

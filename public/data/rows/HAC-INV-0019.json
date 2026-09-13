@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "agricoltura/irrigazione",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 6,
+"fatti": [],
 "gancio": "Nel database ci sono due colonne identiche, \"germinazione prevista\" e \"vitalità prevista\", e nessuno ha mai cambiato l'etichetta.",
 "id": "HAC-INV-0019",
 "nome": "Deposito Sordo",

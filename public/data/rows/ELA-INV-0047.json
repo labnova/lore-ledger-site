@@ -1,4 +1,5 @@
 {
+"appare_in": [],
 "created": "2026-09-12",
 "discipline": [
 "arte_visiva/affresco",
@@ -6,6 +7,7 @@
 ],
 "epoca_relativa": 1,
 "estrazione": 9,
+"fatti": [],
 "gancio": "Un restauratore toglie il velo per pulizia ordinaria e si ritrova davanti a una rotta più vecchia di trent'anni, tracciata verso una destinazione che il convoglio non ha mai raggiunto.",
 "id": "ELA-INV-0047",
 "nome": "Il Ripensamento Sotto il Velo",

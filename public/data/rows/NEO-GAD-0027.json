@@ -1,9 +1,11 @@
 {
+"appare_in": [],
 "chi_lo_porta": "Chiunque tenga il turno di guardia accanto alla cripta delle uova.",
 "cosa": "Lanterna a olio con un disco graduato che segna le ore di veglia rimaste prima del cambio turno.",
 "created": "2026-09-13",
 "epoca_relativa": 0,
 "estrazione": 17,
+"fatti": [],
 "gancio": "Il disco di Yusuf gira sempre un poco più lento di quello degli altri turnisti, e lui lo sa.",
 "id": "NEO-GAD-0027",
 "invenzione_id": "NEO-INV-0005",

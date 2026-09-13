@@ -3,6 +3,9 @@
 "orientamento": "eterosessuale",
 "situazione": "relazione_segreta"
 },
+"appare_in": [
+"2026-09-13-l-ora-di-anticipo"
+],
 "casta": "aeronauti",
 "ceppo": "slavo",
 "cognome": "Kolar",
@@ -12,6 +15,7 @@
 "epoca_relativa": 0,
 "estrazione": 20,
 "eta_fascia": "anziano",
+"fatti": [],
 "gancio": "Studia il meccanismo dello strumento per un brevetto che la renderebbe finalmente qualcuno alla gilda, mentre nasconde una relazione con l'ispettore che dovrebbe approvarlo.",
 "id": "STE-PER-0006",
 "invenzione_id": "STE-INV-0012",

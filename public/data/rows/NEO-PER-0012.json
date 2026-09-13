@@ -1,5 +1,6 @@
 {
 "affettivo": null,
+"appare_in": [],
 "casta": "clero",
 "ceppo": "turco",
 "cognome": "Dokumacı",
@@ -9,6 +10,7 @@
 "epoca_relativa": 0,
 "estrazione": 4,
 "eta_fascia": "adolescente",
+"fatti": [],
 "gancio": "Copista minore della Selva delle Puntate, corregge le quote scritte nel registro astrale prima che i signori le leggano, e nessuno gli ha mai chiesto perché coincidano sempre con la bestia giusta.",
 "id": "NEO-PER-0012",
 "invenzione_id": "NEO-INV-0012",

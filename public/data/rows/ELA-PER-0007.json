@@ -1,5 +1,6 @@
 {
 "affettivo": null,
+"appare_in": [],
 "casta": "navigatori",
 "ceppo": "scandinavo",
 "cognome": "Åsdestad",
@@ -9,6 +10,7 @@
 "epoca_relativa": 0,
 "estrazione": 8,
 "eta_fascia": "adolescente",
+"fatti": [],
 "gancio": "Un acquirente scopre per caso che Johanna non crede a una parola di quello che vende, e minaccia di dirlo a tutto il convoglio.",
 "id": "ELA-PER-0007",
 "invenzione_id": "ELA-INV-0005",
