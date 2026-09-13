@@ -1,5 +1,8 @@
 [
 {
+"appare_in": [
+"2026-09-13-l-ora-di-anticipo"
+],
 "created": "2026-09-13",
 "estrazione": 20,
 "id": "STE-REG-ledoskol",
@@ -12,8 +15,13 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [
+"2026-09-13-l-ora-di-anticipo"
+],
+"chiavi": "aeronauti · ariete · riservato · insonne",
 "created": "2026-09-13",
 "estrazione": 20,
+"gancio": "Falsifica i registri notturni dello strumento per nascondere quanto poco dorme, temendo che la gilda la tolga dall'unico turno che le dà una scusa per non dormire.",
 "id": "STE-PER-0010",
 "parent_id": null,
 "regione": "Ledoskol",
@@ -24,8 +32,13 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [
+"2026-09-13-l-ora-di-anticipo"
+],
+"chiavi": "aeronauti · pesci · ostinato · rancoroso",
 "created": "2026-09-13",
 "estrazione": 20,
+"gancio": "Teme lo strumento perché fu lei a suonarlo per prima l'anno del grande allagamento, e nessuno le crede più quando dice che stavolta il pericolo è reale.",
 "id": "STE-PER-0009",
 "parent_id": null,
 "regione": "Ledoskol",
@@ -36,8 +49,11 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
+"chiavi": "aeronauti · leone · diplomatico · avaro",
 "created": "2026-09-13",
 "estrazione": 20,
+"gancio": "Falsifica le cifre del Barometro delle Cantine per risparmiare un giro di manutenzione che costerebbe alla sua famiglia una parte del carico di ghiaccio.",
 "id": "STE-PER-0008",
 "parent_id": null,
 "regione": "Ledoskol",
@@ -48,8 +64,13 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [
+"2026-09-13-l-ora-di-anticipo"
+],
+"chiavi": "aeronauti · sagittario · ostinato · vanitoso",
 "created": "2026-09-13",
 "estrazione": 20,
+"gancio": "Studia lo strumento per superare l'esame da timoniere, convinto che i suoi antenati aeronauti lo stiano giudicando da qualche nuvola sopra di lui.",
 "id": "STE-PER-0007",
 "parent_id": null,
 "regione": "Ledoskol",
@@ -60,8 +81,13 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [
+"2026-09-13-l-ora-di-anticipo"
+],
+"chiavi": "aeronauti · vergine · ambizioso · goloso",
 "created": "2026-09-13",
 "estrazione": 20,
+"gancio": "Studia il meccanismo dello strumento per un brevetto che la renderebbe finalmente qualcuno alla gilda, mentre nasconde una relazione con l'ispettore che dovrebbe approvarlo.",
 "id": "STE-PER-0006",
 "parent_id": null,
 "regione": "Ledoskol",
@@ -72,8 +98,13 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [
+"2026-09-13-l-ora-di-anticipo"
+],
+"chiavi": "aeronauti · gemelli · paziente · incostante",
 "created": "2026-09-13",
 "estrazione": 20,
+"gancio": "Falsifica i numeri dello strumento perché crede che un crollo vero sarebbe un giudizio meritato, e non vuole essere lui a fermarlo con un allarme in tempo.",
 "id": "STE-PER-0005",
 "parent_id": null,
 "regione": "Ledoskol",
@@ -84,8 +115,13 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [
+"2026-09-13-l-ora-di-anticipo"
+],
+"chiavi": "aeronauti · scorpione · ospitale · collerico",
 "created": "2026-09-13",
 "estrazione": 20,
+"gancio": "Ha costruito lei il telaio che regge il Barometro delle Cantine nella gondola di comando; da vedova, dice che è l'unica cosa che le resta da tenere in equilibrio.",
 "id": "STE-PER-0004",
 "parent_id": null,
 "regione": "Ledoskol",
@@ -96,8 +132,11 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
+"chiavi": "aeronauti · toro · pragmatico · collerico",
 "created": "2026-09-13",
 "estrazione": 20,
+"gancio": "Falsifica le cifre del Barometro delle Cantine per far tornare i turni di volo di sua sorella maggiore, convinta che le macchine sognino i numeri giusti anche quando lei ne scrive di sbagliati.",
 "id": "STE-PER-0003",
 "parent_id": null,
 "regione": "Ledoskol",
@@ -108,8 +147,13 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [
+"2026-09-13-l-ora-di-anticipo"
+],
+"chiavi": "aeronauti · cancro · pragmatico · servile",
 "created": "2026-09-13",
 "estrazione": 20,
+"gancio": "Sa che lo strumento suona un'ora prima non per talento ma per un trucco che lei stessa ha nascosto negli ingranaggi, ma tacere davanti alla gilda le riesce naturale.",
 "id": "STE-PER-0002",
 "parent_id": null,
 "regione": "Ledoskol",
@@ -120,8 +164,11 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
+"chiavi": "aeronauti · capricorno · pragmatico · sordo_ai_consigli",
 "created": "2026-09-13",
 "estrazione": 20,
+"gancio": "Teme il Barometro delle Cantine perché una volta lo lesse mezz'ora troppo tardi, e il custode sotto la sua rotta si bagnò gli stivali prima che suonasse l'allarme.",
 "id": "STE-PER-0001",
 "parent_id": null,
 "regione": "Ledoskol",
@@ -132,8 +179,11 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
+"chiavi": "logistica/catena_del_freddo × geografia/idrografia",
 "created": "2026-09-13",
 "estrazione": 21,
+"gancio": "Il funzionario che ha firmato il rilievo trova la propria copia rispedita indietro senza spiegazioni, tre volte, dallo stesso ufficio.",
 "id": "STE-INV-0026",
 "parent_id": "STE-INV-0023",
 "poc": false,
@@ -145,8 +195,11 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
+"chiavi": "logistica/catena_del_freddo × geografia/idrografia",
 "created": "2026-09-13",
 "estrazione": 21,
+"gancio": "L'ispettore che doveva certificare il freno lo trova già bloccato in posizione aperta, con la vernice ancora fresca sopra la leva.",
 "id": "STE-INV-0025",
 "parent_id": "STE-INV-0015",
 "poc": false,
@@ -158,8 +211,11 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
+"chiavi": "logistica/catena_del_freddo × geografia/idrografia",
 "created": "2026-09-13",
 "estrazione": 21,
+"gancio": "Un archivista nota che il numero delle casse non reclamate diminuisce ogni anno di una sola unità, sempre la stessa data del ritrovamento del sommozzatore.",
 "id": "STE-INV-0024",
 "parent_id": "STE-INV-0009",
 "poc": false,
@@ -171,8 +227,11 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
+"chiavi": "logistica/catena_del_freddo × geografia/idrografia",
 "created": "2026-09-13",
 "estrazione": 20,
+"gancio": "Il funzionario che trovò per primo il delta non ancora scavato ora guida la squadra del nuovo rilievo, e sa già, prima di misurare, dove il fiume andrà a scavare fra vent'anni.",
 "id": "STE-INV-0023",
 "parent_id": "STE-INV-0011",
 "poc": false,
@@ -184,8 +243,11 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
+"chiavi": "logistica/catena_del_freddo × geografia/idrografia",
 "created": "2026-09-13",
 "estrazione": 20,
+"gancio": "L'operaio che scoprì i propri passi nei registri trova ora anche il proprio intero tragitto notturno tracciato su una mappa affissa nell'ufficio della gilda, con una domanda scritta a mano accanto al suo nome.",
 "id": "STE-INV-0022",
 "parent_id": "STE-INV-0017",
 "poc": true,
@@ -197,8 +259,11 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
+"chiavi": "logistica/catena_del_freddo × geografia/idrografia",
 "created": "2026-09-13",
 "estrazione": 20,
+"gancio": "Il chimico che scoprì la vera funzione delle misurazioni si ritrova ora a firmare lui stesso i bolli, e non sa più se la sua firma protegge la purezza o la disuguaglianza che l'ha resa legge.",
 "id": "STE-INV-0021",
 "parent_id": "STE-INV-0013",
 "poc": false,
@@ -210,8 +275,11 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
+"chiavi": "logistica/catena_del_freddo × geografia/idrografia",
 "created": "2026-09-13",
 "estrazione": 19,
+"gancio": "Una guardiana ossessionata dai numeri comincia a segnare ogni rintocco di troppo, e i suoi conti non tornano mai con i registri ufficiali.",
 "id": "STE-INV-0020",
 "parent_id": null,
 "poc": false,
@@ -223,8 +291,11 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
+"chiavi": "logistica/catena_del_freddo × geografia/idrografia",
 "created": "2026-09-13",
 "estrazione": 19,
+"gancio": "Un giovane rilevatore rifà di nascosto la misurazione e trova un numero che smentisce trent'anni di turni.",
 "id": "STE-INV-0019",
 "parent_id": null,
 "poc": false,
@@ -236,8 +307,11 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
+"chiavi": "logistica/catena_del_freddo × geografia/idrografia",
 "created": "2026-09-13",
 "estrazione": 19,
+"gancio": "Un capitano scambia di nascosto una cisterna \"nuova\" con una vecchia prima dell'ispezione della gilda, convinto che la superstizione dell'equipaggio valga più del regolamento.",
 "id": "STE-INV-0018",
 "parent_id": null,
 "poc": false,
@@ -249,8 +323,11 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
+"chiavi": "logistica/catena_del_freddo × geografia/idrografia",
 "created": "2026-09-13",
 "estrazione": 19,
+"gancio": "Un operaio scopre nei registri i propri passi segnati per settimane, senza aver mai firmato alcun consenso.",
 "id": "STE-INV-0017",
 "parent_id": null,
 "poc": false,
@@ -262,8 +339,11 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
+"chiavi": "logistica/catena_del_freddo × geografia/idrografia",
 "created": "2026-09-13",
 "estrazione": 19,
+"gancio": "Un nuovo impiegato viene licenziato il giorno dopo aver chiesto, ingenuamente, cosa significhi il simbolo del \"vortice doppio\".",
 "id": "STE-INV-0016",
 "parent_id": null,
 "poc": true,
@@ -275,8 +355,11 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
+"chiavi": "logistica/catena_del_freddo × geografia/idrografia",
 "created": "2026-09-13",
 "estrazione": 19,
+"gancio": "Un ispettore trova tagli freschi in un mattino in cui nessun turno era stato registrato.",
 "id": "STE-INV-0015",
 "parent_id": null,
 "poc": false,
@@ -288,8 +371,11 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
+"chiavi": "logistica/catena_del_freddo × geografia/idrografia",
 "created": "2026-09-13",
 "estrazione": 19,
+"gancio": "Un tagliatore di ghiaccio giovane annega in uno specchio che tutti dicevano sicuro perché \"era il più fotografato\".",
 "id": "STE-INV-0014",
 "parent_id": null,
 "poc": false,
@@ -301,8 +387,11 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
+"chiavi": "logistica/catena_del_freddo × geografia/idrografia",
 "created": "2026-09-13",
 "estrazione": 19,
+"gancio": "Un chimico della gilda scopre che le sue misurazioni di salinità sono usate come pretesto ufficiale per una discriminazione già decisa altrove.",
 "id": "STE-INV-0013",
 "parent_id": null,
 "poc": false,
@@ -314,8 +403,13 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [
+"2026-09-13-l-ora-di-anticipo"
+],
+"chiavi": "logistica/catena_del_freddo × geografia/idrografia",
 "created": "2026-09-13",
 "estrazione": 19,
+"gancio": "Un custode smette di fidarsi del proprio barometro il giorno in cui questo tace mentre l'acqua gli bagna già gli stivali.",
 "id": "STE-INV-0012",
 "parent_id": null,
 "poc": false,
@@ -327,8 +421,11 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
+"chiavi": "logistica/catena_del_freddo × geografia/idrografia",
 "created": "2026-09-13",
 "estrazione": 19,
+"gancio": "Un funzionario del catasto trova nei vecchi disegni un delta che il fiume non ha ancora scavato, e comincia a chiedersi chi lo sapesse già.",
 "id": "STE-INV-0011",
 "parent_id": null,
 "poc": false,
@@ -340,8 +437,11 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
+"chiavi": "logistica/catena_del_freddo × geografia/idrografia",
 "created": "2026-09-13",
 "estrazione": 19,
+"gancio": "Un ingegnere idraulico nota che il fiume secondo ha una piena proprio nei giorni in cui il fiume vero è insolitamente basso.",
 "id": "STE-INV-0010",
 "parent_id": null,
 "poc": false,
@@ -353,8 +453,11 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
+"chiavi": "logistica/catena_del_freddo × geografia/idrografia",
 "created": "2026-09-13",
 "estrazione": 19,
+"gancio": "Un sommozzatore incaricato di un'ispezione trova una cassa con la data di domani.",
 "id": "STE-INV-0009",
 "parent_id": null,
 "poc": false,
@@ -366,8 +469,11 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
+"chiavi": "logistica/catena_del_freddo × geografia/idrografia",
 "created": "2026-09-13",
 "estrazione": 19,
+"gancio": "Un pilota d'aratro annota su un taccuino personale ogni rotta \"dimenticata\" apposta, temendo di doverlo mostrare un giorno a un giudice.",
 "id": "STE-INV-0008",
 "parent_id": null,
 "poc": false,
@@ -379,8 +485,11 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
+"chiavi": "logistica/catena_del_freddo × geografia/idrografia",
 "created": "2026-09-13",
 "estrazione": 19,
+"gancio": "Un mercante scopre che la sua \"finestra di marea\" si è misteriosamente ristretta da quando ha rifiutato un prestito della gilda.",
 "id": "STE-INV-0007",
 "parent_id": null,
 "poc": false,
@@ -392,8 +501,11 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
+"chiavi": "logistica/catena_del_freddo × geografia/idrografia",
 "created": "2026-09-13",
 "estrazione": 19,
+"gancio": "Un cartografo riceve l'ordine di \"semplificare\" una mappa proprio nel punto dove il fiume attraversa la proprietà del suo committente.",
 "id": "STE-INV-0006",
 "parent_id": null,
 "poc": false,
@@ -405,8 +517,11 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
+"chiavi": "logistica/catena_del_freddo × geografia/idrografia",
 "created": "2026-09-13",
 "estrazione": 19,
+"gancio": "Un calcolatore scopre che le tavole sono state copiate da un quaderno di sessant'anni prima, mai aggiornato ma sempre esatto.",
 "id": "STE-INV-0005",
 "parent_id": null,
 "poc": true,
@@ -418,8 +533,11 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
+"chiavi": "logistica/catena_del_freddo × geografia/idrografia",
 "created": "2026-09-13",
 "estrazione": 19,
+"gancio": "Un guardiano di chiusa tiene un secondo registro, quello vero, nascosto sotto l'asse del pavimento della garitta.",
 "id": "STE-INV-0004",
 "parent_id": null,
 "poc": false,
@@ -431,8 +549,11 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
+"chiavi": "logistica/catena_del_freddo × geografia/idrografia",
 "created": "2026-09-13",
 "estrazione": 19,
+"gancio": "Un giovane fuochista comincia a segnare di nascosto il peso reale, convinto che qualcuno stia rubando acqua dal fiume un litro alla volta.",
 "id": "STE-INV-0003",
 "parent_id": null,
 "poc": false,
@@ -444,8 +565,11 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
+"chiavi": "logistica/catena_del_freddo × geografia/idrografia",
 "created": "2026-09-13",
 "estrazione": 19,
+"gancio": "Un ghiacciaio giura di aver sentito il fiume \"cambiare voce\" la notte prima di un'alluvione mai prevista dai tecnici.",
 "id": "STE-INV-0002",
 "parent_id": null,
 "poc": false,
@@ -457,8 +581,11 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
+"chiavi": "logistica/catena_del_freddo × geografia/idrografia",
 "created": "2026-09-13",
 "estrazione": 19,
+"gancio": "Un capobarca scopre una bara supplementare non segnata nel manifesto, refrigerata come le altre casse.",
 "id": "STE-INV-0001",
 "parent_id": null,
 "poc": false,
@@ -470,8 +597,11 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
+"chiavi": "Zaid la tiene appesa bene in vista al cinturone, come un gioco da bambino.",
 "created": "2026-09-13",
 "estrazione": 21,
+"gancio": "Un ispettore l'ha già esaminata due volte, ridendo della chiave giocattolo del cadetto più giovane del molo.",
 "id": "STE-GAD-0010",
 "parent_id": null,
 "prod": false,
@@ -483,8 +613,11 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
+"chiavi": "Zaid la porta legata a un laccio al polso, nascosta sotto il guanto di servizio.",
 "created": "2026-09-13",
 "estrazione": 21,
+"gancio": "Zaid non ha mai preso il traghetto in vita sua, eppure la moneta è consumata come se l'avesse usata cento volte.",
 "id": "STE-GAD-0009",
 "parent_id": null,
 "prod": false,
@@ -496,8 +629,11 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
+"chiavi": "Zaid la indossa sotto l'uniforme da aeronauta, nascosta dal colletto alto della giacca.",
 "created": "2026-09-13",
 "estrazione": 21,
+"gancio": "Un giorno Zaid la indossa con una riga in più del solito, e nessuno al molo osa chiedergli perché.",
 "id": "STE-GAD-0008",
 "parent_id": null,
 "prod": false,
@@ -509,8 +645,13 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [
+"2026-09-13-l-ora-di-anticipo"
+],
+"chiavi": "Zaid la tiene nella tasca interna della giacca, pronta a scambiarla con quella buona quando serve una lettura più morbida.",
 "created": "2026-09-13",
 "estrazione": 21,
+"gancio": "Nessun tecnico ha mai controllato quella lente, perché sulla carta di magazzino risulta identica a tutte le altre in dotazione.",
 "id": "STE-GAD-0007",
 "parent_id": null,
 "prod": false,
@@ -522,8 +663,11 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
+"chiavi": "Zaid lo tiene senza permesso, sottratto durante un turno di ispezione alle chiatte.",
 "created": "2026-09-13",
 "estrazione": 21,
+"gancio": "Zaid conosce tutte e tre le note, ma giura a chiunque glielo chieda di non aver mai sentito nessuno fischiare la terza.",
 "id": "STE-GAD-0006",
 "parent_id": null,
 "prod": false,
@@ -535,8 +679,13 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [
+"2026-09-13-l-ora-di-anticipo"
+],
+"chiavi": "Zaid lo tiene cucito nella fodera della giacca, mai negli zaini regolamentari degli aeronauti.",
 "created": "2026-09-13",
 "estrazione": 21,
+"gancio": "Se qualcuno contasse i disegni e li confrontasse con il registro ufficiale, scoprirebbe che combaciano esattamente con gli errori del Barometro.",
 "id": "STE-GAD-0005",
 "parent_id": null,
 "prod": false,
@@ -548,8 +697,11 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
+"chiavi": "Zaid la tiene appuntata sotto il colletto della divisa da cadetto, dove il regolamento vieta ornamenti personali.",
 "created": "2026-09-13",
 "estrazione": 21,
+"gancio": "Un ufficiale in ispezione l'ha già scambiata due volte per un semplice gingillo da bambino.",
 "id": "STE-GAD-0004",
 "parent_id": null,
 "prod": false,
@@ -561,8 +713,11 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
+"chiavi": "Zaid li indossa quando scende al molo a controllare le chiatte, anche se il suo unico compito assegnato è leggere il Barometro dall'alto.",
 "created": "2026-09-13",
 "estrazione": 21,
+"gancio": "Un istruttore si chiede perché un cadetto che lavora solo con strumenti ottici abbia le mani sempre più consumate di un facchino.",
 "id": "STE-GAD-0003",
 "parent_id": null,
 "prod": true,
@@ -574,8 +729,11 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
+"chiavi": "Zaid lo tiene in una scatola di latta sotto il letto della caserma aeronautica, retaggio di uno zio imbarcato sulle Barche Bianche.",
 "created": "2026-09-13",
 "estrazione": 21,
+"gancio": "Quando gli chiedono da dove venga, Zaid dice solo che suo zio gliel'ha lasciato per quando servirà mentire bene.",
 "id": "STE-GAD-0002",
 "parent_id": null,
 "prod": true,
@@ -587,8 +745,13 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [
+"2026-09-13-l-ora-di-anticipo"
+],
+"chiavi": "Zaid lo porta appeso al collo sotto la giacca da cadetto aeronauta, e lo tocca ogni volta che deve firmare una lettura del Barometro.",
 "created": "2026-09-13",
 "estrazione": 21,
+"gancio": "Un compagno di corso nota che Zaid apre e richiude il ciondolo esattamente il numero di volte in cui ha mentito quel giorno.",
 "id": "STE-GAD-0001",
 "parent_id": null,
 "prod": true,
@@ -600,6 +763,8 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
+"chiavi": "video_lungo · vimeo · making_of",
 "created": "2026-09-13",
 "estrazione": 27,
 "id": "STE-CON-0001",
@@ -612,6 +777,7 @@
 "universo": "steamverse"
 },
 {
+"appare_in": [],
 "cluster": "NEO-INV-0012",
 "created": "2026-09-13",
 "estrazione": 29,
@@ -626,6 +792,7 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
 "cluster": "NEO-INV-0009",
 "created": "2026-09-13",
 "estrazione": 29,
@@ -640,6 +807,7 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
 "created": "2026-09-13",
 "estrazione": 24,
 "id": "NEO-REG-vranidol",
@@ -652,8 +820,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "cavalieri · toro · paziente · geloso",
 "created": "2026-09-13",
 "estrazione": 26,
+"gancio": "Zuri Bani ha iniziato a copiare di nascosto gli appunti di Rehema durante l'addestramento, convinto che custodiscano la chiave del ciclo del ritorno.",
 "id": "NEO-PER-0047",
 "parent_id": "NEO-PER-0030",
 "regione": "Calvenna",
@@ -664,11 +835,14 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "cavalieri · scorpione · scettico · rigido",
 "completamenti": [
 "NEO-PER-0048"
 ],
 "created": "2026-09-13",
 "estrazione": 26,
+"gancio": "Ha iniziato a segnare a margine le pagine che non tornano con i suoi calcoli, senza sapere che è proprio la mano di Nia Kimambura a correggerle di notte.",
 "id": "NEO-PER-0046",
 "parent_id": "NEO-PER-0029",
 "regione": "Calvenna",
@@ -679,8 +853,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "cavalieri · gemelli · sognatore · superstizioso",
 "created": "2026-09-13",
 "estrazione": 24,
+"gancio": "Ha promesso alla famiglia della sua promessa sposa un falco che non è mai esistito, e ora deve inventarne il volo prima della cerimonia.",
 "id": "NEO-PER-0045",
 "parent_id": null,
 "regione": "Vranidol",
@@ -691,8 +868,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "cavalieri · pesci · meticoloso · servile",
 "created": "2026-09-13",
 "estrazione": 24,
+"gancio": "Ha scritto tre volte lo stesso errore nel registro del maestro senza mai osare correggerlo ad alta voce.",
 "id": "NEO-PER-0044",
 "parent_id": null,
 "regione": "Vranidol",
@@ -703,8 +883,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "cavalieri · ariete · sognatore · pedante",
 "created": "2026-09-13",
 "estrazione": 24,
+"gancio": "Sua moglie ha smesso di chiedergli di pregare sui falchi, ma continua a cucire lei stessa gli amuleti che lui finge di non vedere infilati nelle gabbie.",
 "id": "NEO-PER-0043",
 "parent_id": null,
 "regione": "Vranidol",
@@ -715,8 +898,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "cavalieri · sagittario · ambizioso · pedante",
 "created": "2026-09-13",
 "estrazione": 24,
+"gancio": "Ha ricontrollato tre volte lo stesso volo prima di firmarlo, e nel farlo ha trovato una cifra che qualcuno sperava restasse sepolta.",
 "id": "NEO-PER-0042",
 "parent_id": null,
 "regione": "Vranidol",
@@ -727,8 +913,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "cavalieri · bilancia · sognatore · superstizioso",
 "created": "2026-09-13",
 "estrazione": 24,
+"gancio": "Giura di aver sognato, tre notti prima che accadesse, i due falchi che circolavano sulla stessa bestia.",
 "id": "NEO-PER-0041",
 "parent_id": null,
 "regione": "Vranidol",
@@ -739,8 +928,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "cavalieri · capricorno · vigile · bugiardo",
 "created": "2026-09-13",
 "estrazione": 24,
+"gancio": "Un falco ha iniziato a circolare sopra la sua casa ogni notte, e lui non sa dire ai superiori perché, senza confessare cosa protegge davvero.",
 "id": "NEO-PER-0040",
 "parent_id": null,
 "regione": "Vranidol",
@@ -751,8 +943,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "cavalieri · acquario · diplomatico · collerico",
 "created": "2026-09-13",
 "estrazione": 24,
+"gancio": "Il maestro dei falchi gli ha proibito di avvicinarsi alle voliere dopo l'ultimo scatto, ma è l'unico che i falchi seguono senza esitare.",
 "id": "NEO-PER-0039",
 "parent_id": null,
 "regione": "Vranidol",
@@ -763,8 +958,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "cavalieri · scorpione · silenzioso · avaro",
 "created": "2026-09-13",
 "estrazione": 24,
+"gancio": "Tiene ancora l'anello della moglie cucito nella sella, e qualcuno ha iniziato a chiedersi se non sia quello il vero pegno che rifiuta di scommettere.",
 "id": "NEO-PER-0038",
 "parent_id": null,
 "regione": "Vranidol",
@@ -775,8 +973,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "cavalieri · toro · ostinato · ingenuo",
 "created": "2026-09-13",
 "estrazione": 24,
+"gancio": "Ha iniziato a segnare le sue previsioni astrali a margine del registro ufficiale, e le sue cifre coincidono troppo spesso con quelle dei falchi per essere solo fede.",
 "id": "NEO-PER-0037",
 "parent_id": null,
 "regione": "Vranidol",
@@ -787,8 +988,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "cavalieri · leone · rigoroso · goloso",
 "created": "2026-09-13",
 "estrazione": 24,
+"gancio": "Ha notato che il falco che segna le puntate di suo padre perde quota ogni volta che lui ha rubato il mangime, e non sa se sia colpa sua o un segno.",
 "id": "NEO-PER-0036",
 "parent_id": null,
 "regione": "Vranidol",
@@ -799,8 +1003,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "clero · vergine · cauta · bugiarda",
 "created": "2026-09-13",
 "estrazione": 13,
+"gancio": "Kaan ha smesso di chiederle il permesso prima di correggere le quote, e le correzioni sono diventate più esatte di quanto lei gli abbia mai insegnato.",
 "id": "NEO-PER-0035",
 "parent_id": "NEO-PER-0012",
 "regione": "Vasperdine",
@@ -811,8 +1018,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "cavalieri · capricorno · leale · ingenuo",
 "created": "2026-09-13",
 "estrazione": 13,
+"gancio": "Ogni notte la segue di nascosto fino al Bestiario delle Quote, temendo che scopra chi era davvero suo padre prima che lo scopra lui stesso.",
 "id": "NEO-PER-0034",
 "parent_id": "NEO-PER-0024",
 "regione": "Calvenna",
@@ -823,8 +1033,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "zoologia × gioco_azzardo",
 "created": "2026-09-13",
 "estrazione": 17,
+"gancio": "Madre Iselda trova un pulcino marcato con un numero di quota che ancora non è stato annunciato.",
 "id": "NEO-INV-0024",
 "parent_id": "NEO-INV-0001",
 "poc": true,
@@ -836,8 +1049,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "zoologia × araldica",
 "created": "2026-09-13",
 "estrazione": 17,
+"gancio": "Un pastore scopre che il nome segreto del suo toro è lo stesso di un antenato che la famiglia giura di non aver mai avuto.",
 "id": "NEO-INV-0023",
 "parent_id": "NEO-INV-0007",
 "poc": true,
@@ -849,8 +1065,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "Piotr la tiene infilata nel risvolto della manica sinistra, contro il polso, così da non doverla mai estrarre davanti a testimoni.",
 "created": "2026-09-13",
 "estrazione": 30,
+"gancio": "Il prete che deve benedire il falco prima delle nozze ha chiesto di vederlo volare, e Piotr ha solo la piuma per convincerlo che sia mai esistito.",
 "id": "NEO-GAD-0041",
 "origine": "maturazione",
 "parent_id": null,
@@ -863,8 +1082,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "Baraka lo porta cucito nella fodera del grembiule, mai lontano dal corpo.",
 "created": "2026-09-13",
 "estrazione": 26,
+"gancio": "Baraka ha scoperto che una pergamena venduta come pelle di una bestia perdente porta in realtà il marchio di una bestia che il Libro dà per vincitrice.",
 "id": "NEO-GAD-0040",
 "parent_id": null,
 "prod": false,
@@ -876,8 +1098,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "Baraka lo porta appeso al collo con uno spago, più come promemoria che come attrezzo.",
 "created": "2026-09-13",
 "estrazione": 26,
+"gancio": "Il suo amante segreto è l'unico a sapere che Baraka lo bacia ogni sera, prima di posarlo sul banco di concia.",
 "id": "NEO-GAD-0039",
 "parent_id": null,
 "prod": false,
@@ -889,8 +1114,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "I pellegrini diretti a Vasperdine la comprano da Baraka per portare offerte e quote senza distinguerle.",
 "created": "2026-09-13",
 "estrazione": 26,
+"gancio": "Un pellegrino l'ha aperta per errore davanti a un chierico, e ora Baraka aspetta che qualcuno bussi alla sua porta.",
 "id": "NEO-GAD-0038",
 "parent_id": null,
 "prod": false,
@@ -902,8 +1130,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "I cavalieri che scommettono alla Selva delle Puntate la portano come portafortuna, comprata a peso d'oro da Baraka.",
 "created": "2026-09-13",
 "estrazione": 26,
+"gancio": "Un vecchio cavaliere giura di aver visto la stessa bestia perdere tre volte, sotto tre nomi diversi.",
 "id": "NEO-GAD-0037",
 "parent_id": null,
 "prod": false,
@@ -915,8 +1146,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "Baraka lo indossa solo sulla mano mutilata, lasciando l'altra nuda per sentire meglio la grana delle pelli.",
 "created": "2026-09-13",
 "estrazione": 26,
+"gancio": "Nessuno ha mai chiesto a Baraka come ha perso le dita, lui lascia credere fosse un incidente di bottega, non un debito pagato.",
 "id": "NEO-GAD-0036",
 "parent_id": null,
 "prod": false,
@@ -928,8 +1162,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "I bambini di Calvenna la comprano da Baraka, convinti che porti fortuna alle scommesse dei genitori.",
 "created": "2026-09-13",
 "estrazione": 26,
+"gancio": "Un chierico si chiede perché nessuna di quelle collane marcisca mai come farebbe l'osso vero.",
 "id": "NEO-GAD-0035",
 "parent_id": null,
 "prod": false,
@@ -941,8 +1178,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "Baraka lo indossa ogni giorno in bottega e non lo lava mai, per superstizione o per pigrizia.",
 "created": "2026-09-13",
 "estrazione": 26,
+"gancio": "Un conciatore rivale ha iniziato a disegnare lo schema delle macchie, convinto di poterne dedurre il vero registro delle Stirpi Sciolte.",
 "id": "NEO-GAD-0034",
 "parent_id": null,
 "prod": false,
@@ -954,8 +1194,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "Baraka lo tiene nascosto sotto il banco di concia, tra le pelli non ancora vendute.",
 "created": "2026-09-13",
 "estrazione": 26,
+"gancio": "Baraka non ha mai avuto il coraggio di bruciarlo, anche se sa che potrebbe bastare a farlo impiccare.",
 "id": "NEO-GAD-0033",
 "parent_id": null,
 "prod": true,
@@ -967,8 +1210,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "I banditori della Selva delle Puntate lo mostrano ai giocatori come garanzia d'origine della bestia in gara.",
 "created": "2026-09-13",
 "estrazione": 26,
+"gancio": "Un giocatore ha notato lo stesso sigillo su due bestie diverse nello stesso pomeriggio.",
 "id": "NEO-GAD-0032",
 "parent_id": null,
 "prod": true,
@@ -980,8 +1226,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "Baraka la cuce lui stesso su ogni pelle prima di consegnarla ai copisti del Libro delle Stirpi Benedette.",
 "created": "2026-09-13",
 "estrazione": 26,
+"gancio": "Un copista ha iniziato a raccogliere le bolle scartate, convinto che insieme formino il vero registro delle Stirpi Sciolte.",
 "id": "NEO-GAD-0031",
 "parent_id": null,
 "prod": true,
@@ -993,8 +1242,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "Le levatrici della cripta, durante la cerimonia di schiusa.",
 "created": "2026-09-13",
 "estrazione": 17,
+"gancio": "Yusuf sa che le levatrici sbirciano lo stesso, e il registro ne tiene conto con un margine d'errore già previsto.",
 "id": "NEO-GAD-0030",
 "parent_id": null,
 "prod": false,
@@ -1006,8 +1258,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "Il vincitore dell'estrazione, portato al dito fino alla successiva cova.",
 "created": "2026-09-13",
 "estrazione": 17,
+"gancio": "Yusuf nota che tre anelli di rango diverso condividono lo stesso stampo, un dettaglio che smentirebbe la sacralità del giudizio.",
 "id": "NEO-GAD-0029",
 "parent_id": null,
 "prod": false,
@@ -1019,8 +1274,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "Yusuf Haddad, che la consulta per certificare l'ortodossia di ogni cova.",
 "created": "2026-09-13",
 "estrazione": 17,
+"gancio": "Le costellazioni di Yusuf non corrispondono più al cielo reale da almeno una generazione, ed è lui il primo ad accorgersene.",
 "id": "NEO-GAD-0028",
 "parent_id": null,
 "prod": false,
@@ -1032,8 +1290,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "Chiunque tenga il turno di guardia accanto alla cripta delle uova.",
 "created": "2026-09-13",
 "estrazione": 17,
+"gancio": "Il disco di Yusuf gira sempre un poco più lento di quello degli altri turnisti, e lui lo sa.",
 "id": "NEO-GAD-0027",
 "parent_id": null,
 "prod": false,
@@ -1045,8 +1306,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "I turnisti notturni della cripta, a rotazione di tre ore.",
 "created": "2026-09-13",
 "estrazione": 17,
+"gancio": "Yusuf ha vegliato un turno di troppo e ha sentito il pulcino muoversi prima del tempo previsto dal registro.",
 "id": "NEO-GAD-0026",
 "parent_id": null,
 "prod": false,
@@ -1058,8 +1322,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "Le levatrici novizie, durante l'addestramento nella cripta.",
 "created": "2026-09-13",
 "estrazione": 17,
+"gancio": "Yusuf ha scoperto per caso che l'uovo di prova pesa un grammo in più di quelli veri, e si chiede quale dei due sia la menzogna.",
 "id": "NEO-GAD-0025",
 "parent_id": null,
 "prod": true,
@@ -1071,8 +1338,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "Yusuf Haddad, che lo consulta insieme alle sue tavole astrali per certificarne l'ortodossia.",
 "created": "2026-09-13",
 "estrazione": 17,
+"gancio": "Yusuf ha notato che le pagine più vecchie del registro sono state riscritte, non solo consultate.",
 "id": "NEO-GAD-0024",
 "parent_id": null,
 "prod": true,
@@ -1084,8 +1354,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "Le levatrici della cripta, in una sacca di cuoio legata alla cintura.",
 "created": "2026-09-13",
 "estrazione": 17,
+"gancio": "Uno scarto di pochi grammi ha già deciso il rango di tre generazioni, e nessuno ha mai chiesto perché la bilancia sia tarata così.",
 "id": "NEO-GAD-0023",
 "parent_id": null,
 "prod": true,
@@ -1097,8 +1370,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "Il chierico che sovrintende l'estrazione, appeso al collo con un laccio di cuoio.",
 "created": "2026-09-13",
 "estrazione": 17,
+"gancio": "Yusuf riconosce nella grammatica del sigillo la stessa sintassi che usa per catalogare le stelle, e la cosa lo inquieta più della sua stessa eresia.",
 "id": "NEO-GAD-0022",
 "parent_id": null,
 "prod": true,
@@ -1110,8 +1386,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "Il vincitore dell'Estrazione, che la porta a spalla fino alla propria soglia in processione.",
 "created": "2026-09-13",
 "estrazione": 17,
+"gancio": "Yusuf Haddad ha misurato la cera di tre incubatori diversi e trovato lo stesso spessore, sigillo di un'unica officina.",
 "id": "NEO-GAD-0021",
 "parent_id": null,
 "prod": true,
@@ -1123,8 +1402,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "Steso sul tavolo grande a ogni apertura della Selva del Branco.",
 "created": "2026-09-13",
 "estrazione": 13,
+"gancio": "Solo Imani sa quali bestie ha aggiunto, e perché continuano ad avverarsi.",
 "id": "NEO-GAD-0020",
 "parent_id": null,
 "prod": false,
@@ -1136,8 +1418,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "I giocatori che hanno battuto il banco almeno una volta e vogliono che si sappia.",
 "created": "2026-09-13",
 "estrazione": 13,
+"gancio": "Una collana con dodici denti gira per il borgo, e il banco non ricorda di aver mai perso dodici volte con lo stesso giocatore.",
 "id": "NEO-GAD-0019",
 "parent_id": null,
 "prod": true,
@@ -1149,8 +1434,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "Il richiamatore, che sta in piedi accanto al banco per tutta la partita.",
 "created": "2026-09-13",
 "estrazione": 13,
+"gancio": "Nessuno ha mai chiesto chi insegna al richiamatore quando fischiare.",
 "id": "NEO-GAD-0018",
 "parent_id": null,
 "prod": false,
@@ -1162,8 +1450,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "Imani, nascosta nel doppio fondo della sua cassa dei pigmenti.",
 "created": "2026-09-13",
 "estrazione": 13,
+"gancio": "La Confraternita del Pelo e della Piuma ha giurato di trovare lo stampo prima di trovare lei.",
 "id": "NEO-GAD-0017",
 "parent_id": null,
 "prod": false,
@@ -1175,8 +1466,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "Il banconiere capo, unico autorizzato a certificare un lotto di Denti di Lupo.",
 "created": "2026-09-13",
 "estrazione": 13,
+"gancio": "Due sigilli identici hanno certificato lo stesso lotto in due tavoli diversi la stessa notte.",
 "id": "NEO-GAD-0016",
 "parent_id": null,
 "prod": true,
@@ -1188,8 +1482,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "Il tenutario del tavolo, che lo aggiorna a ogni partita.",
 "created": "2026-09-13",
 "estrazione": 13,
+"gancio": "Le pagine più vecchie sono state strappate, e nessuno vuole dire da chi.",
 "id": "NEO-GAD-0015",
 "parent_id": null,
 "prod": true,
@@ -1201,8 +1498,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "I verificatori di banco, incaricati di certificare le fiche prima delle grandi puntate.",
 "created": "2026-09-13",
 "estrazione": 13,
+"gancio": "Una lente rubata alla Confraternita del Pelo e della Piuma gira ora nelle mani sbagliate.",
 "id": "NEO-GAD-0014",
 "parent_id": null,
 "prod": false,
@@ -1214,8 +1514,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "Ogni giocatore che si siede al tavolo della Selva del Branco.",
 "created": "2026-09-13",
 "estrazione": 13,
+"gancio": "Il sacchetto di Imani non contiene mai lo stesso numero di fiche che dichiara.",
 "id": "NEO-GAD-0013",
 "parent_id": null,
 "prod": true,
@@ -1227,8 +1530,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "I cambiavalute che verificano le fiche prima di accettarle al banco.",
 "created": "2026-09-13",
 "estrazione": 13,
+"gancio": "Imani ne ha manomessa una perché anche i suoi falsi pesino giusto.",
 "id": "NEO-GAD-0012",
 "parent_id": null,
 "prod": false,
@@ -1240,8 +1546,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "I banconieri della Selva del Branco, che lo maneggiano al posto dell'originale osseo.",
 "created": "2026-09-13",
 "estrazione": 13,
+"gancio": "Chi lo scambia per un Dente di Lupo vero perde la mano e la faccia.",
 "id": "NEO-GAD-0011",
 "parent_id": null,
 "prod": true,
@@ -1253,6 +1562,8 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "video_lungo · twitch · making_of",
 "created": "2026-09-13",
 "estrazione": 18,
 "id": "NEO-CON-0001",
@@ -1265,8 +1576,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "agricoltura/irrigazione × chirurgia/trapiantologia",
 "created": "2026-09-13",
 "estrazione": 23,
+"gancio": "Un'ispezione sanitaria trova un registro con dodici nomi e un solo calendario, tutti in \"riposo\" a turno, mai nello stesso giorno.",
 "id": "HAC-INV-0043",
 "parent_id": "HAC-INV-0006",
 "poc": true,
@@ -1278,8 +1592,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "agricoltura/irrigazione × chirurgia/trapiantologia",
 "created": "2026-09-13",
 "estrazione": 23,
+"gancio": "Un paziente riceve una notifica sul telefono due giorni prima che il suo stesso corpo gli dia un sintomo.",
 "id": "HAC-INV-0042",
 "parent_id": "HAC-INV-0007",
 "poc": true,
@@ -1291,8 +1608,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "agricoltura/irrigazione × chirurgia/trapiantologia",
 "created": "2026-09-13",
 "estrazione": 23,
+"gancio": "Un innesto attecchisce per settimane prima che qualcuno si accorga che il sistema lo aveva segnato, fin dall'inizio, come \"approssimato\".",
 "id": "HAC-INV-0041",
 "parent_id": "HAC-INV-0002",
 "poc": true,
@@ -1304,8 +1624,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "moda/cosmesi × ottica/lenti",
 "created": "2026-09-13",
 "estrazione": 23,
+"gancio": "Un negozio di ottica scopre che il suo specchio virtuale è stato usato, nell'ultimo mese, soprattutto da persone che non hanno mai comprato nulla.",
 "id": "HAC-INV-0040",
 "parent_id": null,
 "poc": true,
@@ -1317,8 +1640,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "moda/cosmesi × ottica/lenti",
 "created": "2026-09-13",
 "estrazione": 23,
+"gancio": "Un'indagine si blocca perché, sul filmato, il sospetto sembra non indossare occhiali che invece indossa.",
 "id": "HAC-INV-0039",
 "parent_id": null,
 "poc": false,
@@ -1330,8 +1656,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "moda/cosmesi × ottica/lenti",
 "created": "2026-09-13",
 "estrazione": 23,
+"gancio": "Un operatore di sicurezza giura di aver visto qualcuno rimpicciolirsi camminando verso l'uscita.",
 "id": "HAC-INV-0038",
 "parent_id": null,
 "poc": false,
@@ -1343,8 +1672,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "moda/cosmesi × ottica/lenti",
 "created": "2026-09-13",
 "estrazione": 23,
+"gancio": "Un archivio di foto segnaletiche mostra la stessa persona con occhi sempre un filo più chiari, settimana dopo settimana.",
 "id": "HAC-INV-0037",
 "parent_id": null,
 "poc": false,
@@ -1356,8 +1688,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "moda/cosmesi × ottica/lenti",
 "created": "2026-09-13",
 "estrazione": 23,
+"gancio": "Un testimone giura di aver visto un occhio \"cadere\" da solo dal volto di un uomo in fuga.",
 "id": "HAC-INV-0036",
 "parent_id": null,
 "poc": false,
@@ -1369,8 +1704,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "moda/cosmesi × ottica/lenti",
 "created": "2026-09-13",
 "estrazione": 23,
+"gancio": "Una lente sequestrata risulta perfettamente pulita, troppo pulita per essere stata indossata davvero.",
 "id": "HAC-INV-0035",
 "parent_id": null,
 "poc": false,
@@ -1382,8 +1720,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "moda/cosmesi × ottica/lenti",
 "created": "2026-09-13",
 "estrazione": 23,
+"gancio": "Tre telecamere alla stessa festa fotografano tre volti leggermente diversi della stessa persona.",
 "id": "HAC-INV-0034",
 "parent_id": null,
 "poc": true,
@@ -1395,8 +1736,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "moda/cosmesi × ottica/lenti",
 "created": "2026-09-13",
 "estrazione": 23,
+"gancio": "Un sistema di sicurezza dichiara \"vivo e autentico\" un occhio che, in laboratorio, risulta stampato su un substrato di due giorni prima.",
 "id": "HAC-INV-0033",
 "parent_id": null,
 "poc": true,
@@ -1408,8 +1752,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "moda/cosmesi × ottica/lenti",
 "created": "2026-09-13",
 "estrazione": 23,
+"gancio": "Un'analisi forense nota che la pelle intorno agli occhiali di un sospetto \"invecchia\" di un colore diverso ogni ora.",
 "id": "HAC-INV-0032",
 "parent_id": null,
 "poc": false,
@@ -1421,8 +1768,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "moda/cosmesi × ottica/lenti",
 "created": "2026-09-13",
 "estrazione": 23,
+"gancio": "Un centro oculistico risulta, nei log, l'unico software al mondo capace di calcolare come \"invecchia\" un'iride finta.",
 "id": "HAC-INV-0031",
 "parent_id": null,
 "poc": true,
@@ -1434,8 +1784,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "moda/cosmesi × ottica/lenti",
 "created": "2026-09-13",
 "estrazione": 23,
+"gancio": "Una squadra con visori notturni perde un bersaglio che, a occhio nudo, è ancora fermo lì, truccato.",
 "id": "HAC-INV-0030",
 "parent_id": null,
 "poc": false,
@@ -1447,8 +1800,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "moda/cosmesi × ottica/lenti",
 "created": "2026-09-13",
 "estrazione": 23,
+"gancio": "Un salone di bellezza diventa il posto più veloce in città per cambiare colore agli occhi prima di un controllo.",
 "id": "HAC-INV-0029",
 "parent_id": null,
 "poc": false,
@@ -1460,8 +1816,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "moda/cosmesi × ottica/lenti",
 "created": "2026-09-13",
 "estrazione": 23,
+"gancio": "Un sistema di identificazione digitale segnala come morto un uomo che, tre giorni dopo, cammina davanti alla stessa telecamera.",
 "id": "HAC-INV-0028",
 "parent_id": null,
 "poc": false,
@@ -1473,8 +1832,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "moda/cosmesi × ottica/lenti",
 "created": "2026-09-13",
 "estrazione": 23,
+"gancio": "Un'ottica di quartiere diventa, senza saperlo, il posto dove ci si fa \"tagliare\" il volto prima di un lavoro.",
 "id": "HAC-INV-0027",
 "parent_id": null,
 "poc": true,
@@ -1486,8 +1848,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "moda/cosmesi × ottica/lenti",
 "created": "2026-09-13",
 "estrazione": 23,
+"gancio": "Un chirurgo plastico riconosce la propria formula di correttore nel referto di un occhiale sequestrato durante un'indagine.",
 "id": "HAC-INV-0026",
 "parent_id": null,
 "poc": false,
@@ -1499,8 +1864,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "moda/cosmesi × ottica/lenti",
 "created": "2026-09-13",
 "estrazione": 23,
+"gancio": "Un istituto di sicurezza scopre che tre dipendenti diversi risultano avere, secondo il sistema, la stessa identica iride.",
 "id": "HAC-INV-0025",
 "parent_id": null,
 "poc": true,
@@ -1512,8 +1880,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "moda/cosmesi × ottica/lenti",
 "created": "2026-09-13",
 "estrazione": 23,
+"gancio": "Una guardia giura che il sospetto era pallido un secondo prima e scuro in volto un secondo dopo, senza che nessuno si sia mosso.",
 "id": "HAC-INV-0024",
 "parent_id": null,
 "poc": false,
@@ -1525,8 +1896,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "moda/cosmesi × ottica/lenti",
 "created": "2026-09-13",
 "estrazione": 23,
+"gancio": "Un'oculista riconosce il proprio tratto a mano libera nell'occhio finto di uno sconosciuto, su una foto segnaletica.",
 "id": "HAC-INV-0023",
 "parent_id": null,
 "poc": false,
@@ -1538,8 +1912,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "moda/cosmesi × ottica/lenti",
 "created": "2026-09-13",
 "estrazione": 23,
+"gancio": "Una telecamera nuova di zecca continua a fotografare un buco scuro dove dovrebbe esserci un volto.",
 "id": "HAC-INV-0022",
 "parent_id": null,
 "poc": false,
@@ -1551,8 +1928,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "moda/cosmesi × ottica/lenti",
 "created": "2026-09-13",
 "estrazione": 23,
+"gancio": "Un varco doganale segnala una \"corrispondenza sospetta\" su un passeggero che, secondo il sistema, ha due iridi leggermente diverse tra loro.",
 "id": "HAC-INV-0021",
 "parent_id": null,
 "poc": true,
@@ -1564,6 +1944,8 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "video_lungo · youtube · making_of",
 "created": "2026-09-13",
 "estrazione": 14,
 "id": "ELA-CON-0002",
@@ -1576,6 +1958,7 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
 "cluster": "CYB-INV-0015",
 "created": "2026-09-13",
 "estrazione": 29,
@@ -1590,6 +1973,7 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
 "created": "2026-09-13",
 "estrazione": 16,
 "id": "CYB-REG-rostkirche",
@@ -1602,8 +1986,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "nomadi_urbani · capricorno · ostinato · giocatore",
 "created": "2026-09-13",
 "estrazione": 16,
+"gancio": "Greta deve un'altra puntata alla casa che tiene il banco nel campo nomade, e questa volta la posta è la sua anima di scorta.",
 "id": "CYB-PER-0010",
 "parent_id": null,
 "regione": "Rostkirche",
@@ -1614,8 +2001,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "nomadi_urbani · ariete · riservato · paranoico",
 "created": "2026-09-13",
 "estrazione": 16,
+"gancio": "Detlef controlla ogni notte che nessuno abbia clonato le copie che vende, ma non ha mai controllato se qualcuno ha clonato la sua, perché non ne ha mai fatta una.",
 "id": "CYB-PER-0009",
 "parent_id": null,
 "regione": "Rostkirche",
@@ -1626,8 +2016,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "nomadi_urbani · gemelli · pragmatico · superstizioso",
 "created": "2026-09-13",
 "estrazione": 16,
+"gancio": "Renate ha fatto fare tre copie di scorta negli anni, una per ogni disgrazia che potrebbe capitare, e ora nessuno sa quale sia quella valida.",
 "id": "CYB-PER-0008",
 "parent_id": null,
 "regione": "Rostkirche",
@@ -1638,8 +2031,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "nomadi_urbani · vergine · leale · ingenuo",
 "created": "2026-09-13",
 "estrazione": 16,
+"gancio": "Markus scopre solo dopo l'intervento che la sua copia di scorta appartiene ora alla clinica, e continua a fidarsi che gliela restituiranno.",
 "id": "CYB-PER-0007",
 "parent_id": null,
 "regione": "Rostkirche",
@@ -1650,8 +2046,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "nomadi_urbani · sagittario · vigile · sordo_ai_consigli",
 "created": "2026-09-13",
 "estrazione": 16,
+"gancio": "Friedrich rifiuta ogni richiesta di modifica al protocollo che ha scritto lui stesso, anche quando gli mostrano i casi in cui la copia sopravvive più a lungo del previsto.",
 "id": "CYB-PER-0006",
 "parent_id": null,
 "regione": "Rostkirche",
@@ -1662,8 +2061,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "nomadi_urbani · leone · protettivo · smemorato",
 "created": "2026-09-13",
 "estrazione": 16,
+"gancio": "Bertha controlla la propria copia di scorta ogni sera come un rituale, ma non ricorda più se l'ha già controllata o se sta solo ricordando di averlo fatto ieri.",
 "id": "CYB-PER-0005",
 "parent_id": null,
 "regione": "Rostkirche",
@@ -1674,8 +2076,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "nomadi_urbani · cancro · sognatore · smemorato",
 "created": "2026-09-13",
 "estrazione": 16,
+"gancio": "Stefan sospetta di aver già capito, in una delle note perse, perché certe copie di scorta sopravvivono più a lungo del corpo che dovrebbero servire, ma non ricorda dove l'ha scritto.",
 "id": "CYB-PER-0004",
 "parent_id": null,
 "regione": "Rostkirche",
@@ -1686,8 +2091,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "nomadi_urbani · bilancia · protettivo · avaro",
 "created": "2026-09-13",
 "estrazione": 16,
+"gancio": "Ksenia porta sempre con sé una copia di backup mai reclamata, quella di suo marito morto, perché costa meno lasciarla dov'è che pagare per cancellarla.",
 "id": "CYB-PER-0003",
 "parent_id": null,
 "regione": "Rostkirche",
@@ -1698,8 +2106,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "nomadi_urbani · pesci · ironico · indolente",
 "created": "2026-09-13",
 "estrazione": 16,
+"gancio": "Lotte segna ogni copia venduta su un quaderno, come se fosse una pratica da presentare un giorno a uno sportello celeste, convinta che prima o poi qualcuno gliela farà pagare.",
 "id": "CYB-PER-0002",
 "parent_id": null,
 "regione": "Rostkirche",
@@ -1710,8 +2121,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "nomadi_urbani · scorpione · protettivo · crudele_per_distrazione",
 "created": "2026-09-13",
 "estrazione": 16,
+"gancio": "Eszter tiene un registro a parte, scritto a mano, delle anime che ha venduto senza ricordare a chi, e qualcuno ha iniziato a reclamarle indietro.",
 "id": "CYB-PER-0001",
 "parent_id": null,
 "regione": "Rostkirche",
@@ -1722,8 +2136,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "religione/teologia × chirurgia/trapiantologia",
 "created": "2026-09-13",
 "estrazione": 25,
+"gancio": "Un tecnico si accorge che il donatore \"più amato\" del sistema non è mai esistito, è un composito ottimizzato dalle preferenze aggregate di centinaia di riceventi.",
 "id": "CYB-INV-0026",
 "parent_id": "CYB-INV-0016",
 "poc": true,
@@ -1735,8 +2152,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "religione/teologia × chirurgia/trapiantologia",
 "created": "2026-09-13",
 "estrazione": 25,
+"gancio": "Un prete del culto scopre il modulo per caso e comincia a scegliere di proposito le frasi più riciclate, convinto che la ripetizione le renda più vere, non meno.",
 "id": "CYB-INV-0025",
 "parent_id": "CYB-INV-0019",
 "poc": true,
@@ -1748,8 +2168,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "religione/teologia × chirurgia/trapiantologia",
 "created": "2026-09-13",
 "estrazione": 25,
+"gancio": "Una donna scopre che la sua seconda richiesta di trapianto è stata respinta per una frase detta anni prima, in una confessione che credeva dimenticata da tutti tranne che da lei.",
 "id": "CYB-INV-0024",
 "parent_id": "CYB-INV-0005",
 "poc": true,
@@ -1761,8 +2184,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "religione/teologia × chirurgia/trapiantologia",
 "created": "2026-09-13",
 "estrazione": 16,
+"gancio": "Un broker di rate scopre che una rata rivenduta tre volte porta ancora il nome del primo debitore, morto due anni prima, e nessuno l'ha mai cancellato dal registro.",
 "id": "CYB-INV-0023",
 "parent_id": "CYB-INV-0011",
 "poc": true,
@@ -1774,8 +2200,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "religione/teologia × chirurgia/trapiantologia",
 "created": "2026-09-13",
 "estrazione": 16,
+"gancio": "Una teca resta vuota per mesi perché il tribunale non riesce a mettersi d'accordo se il grado di santità dell'organo giustifichi il costo della vetrina.",
 "id": "CYB-INV-0022",
 "parent_id": "CYB-INV-0017",
 "poc": true,
@@ -1787,8 +2216,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "religione/teologia × chirurgia/trapiantologia",
 "created": "2026-09-13",
 "estrazione": 16,
+"gancio": "Un'infermiera scopre che le preghiere più costose vengono sempre esaudite entro la notte, e che a pagarle è sempre la stessa fondazione, mai un parente.",
 "id": "CYB-INV-0021",
 "parent_id": "CYB-INV-0014",
 "poc": true,
@@ -1800,8 +2232,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "religione/teologia × chirurgia/trapiantologia",
 "created": "2026-09-13",
 "estrazione": 15,
+"gancio": "Un uomo tenta di ritirare il proprio voto dopo una crisi di fede, e scopre che il registro è stato progettato apposta per non permetterlo.",
 "id": "CYB-INV-0020",
 "parent_id": null,
 "poc": true,
@@ -1813,8 +2248,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "religione/teologia × chirurgia/trapiantologia",
 "created": "2026-09-13",
 "estrazione": 15,
+"gancio": "Una famiglia riconosce nell'omelia generata frasi identiche a quelle lette al funerale di un altro donatore, e capisce che il programma riusa gli stessi miracoli per corpi diversi.",
 "id": "CYB-INV-0019",
 "parent_id": null,
 "poc": true,
@@ -1826,8 +2264,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "religione/teologia × chirurgia/trapiantologia",
 "created": "2026-09-13",
 "estrazione": 15,
+"gancio": "Un infermiere scambia per errore il flacone benedetto con quello sterile, e per settimane nessuno nota la differenza nei tassi di guarigione.",
 "id": "CYB-INV-0018",
 "parent_id": null,
 "poc": false,
@@ -1839,8 +2280,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "religione/teologia × chirurgia/trapiantologia",
 "created": "2026-09-13",
 "estrazione": 15,
+"gancio": "Un algoritmo del tribunale vota per la canonizzazione tre volte di fila prima che qualcuno si accorga che è stato addestrato solo su casi già approvati.",
 "id": "CYB-INV-0017",
 "parent_id": null,
 "poc": true,
@@ -1852,8 +2296,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "religione/teologia × chirurgia/trapiantologia",
 "created": "2026-09-13",
 "estrazione": 15,
+"gancio": "Un ricevente si affeziona a un donatore che l'app ha in gran parte inventato, e rifiuta di credere ai parenti veri quando gli mostrano una foto diversa.",
 "id": "CYB-INV-0016",
 "parent_id": null,
 "poc": true,
@@ -1865,8 +2312,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "religione/teologia × chirurgia/trapiantologia",
 "created": "2026-09-13",
 "estrazione": 15,
+"gancio": "Una donna sopravvive all'intervento ma pretende indietro anche la copia, convinta che due anime nello stesso corpo aumentino le sue probabilità con qualunque dio stia ascoltando.",
 "id": "CYB-INV-0015",
 "parent_id": null,
 "poc": true,
@@ -1878,8 +2328,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "religione/teologia × chirurgia/trapiantologia",
 "created": "2026-09-13",
 "estrazione": 15,
+"gancio": "Un paziente smette di controllare lo schermo dopo che la sua anima digitale è scesa di dieci gradini in una notte, e da allora aspetta le notizie solo dagli infermieri, mai dal purgatorio.",
 "id": "CYB-INV-0014",
 "parent_id": null,
 "poc": true,
@@ -1891,8 +2344,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "religione/teologia × chirurgia/trapiantologia",
 "created": "2026-09-13",
 "estrazione": 15,
+"gancio": "Un donatore si ritira dopo la funzione, convinto che l'incenso gli avesse rivelato una controindicazione che gli esami non avevano trovato.",
 "id": "CYB-INV-0013",
 "parent_id": null,
 "poc": false,
@@ -1904,8 +2360,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "religione/teologia × chirurgia/trapiantologia",
 "created": "2026-09-13",
 "estrazione": 15,
+"gancio": "Il bracciale di un fedele smette di trasmettere due giorni prima del funerale, e nessuno sa dire se la fede gli sia bastata o se avesse solo staccato la batteria.",
 "id": "CYB-INV-0012",
 "parent_id": null,
 "poc": true,
@@ -1917,8 +2376,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "religione/teologia × chirurgia/trapiantologia",
 "created": "2026-09-13",
 "estrazione": 15,
+"gancio": "Un uomo scopre di dover ancora due rate della sua indulgenza il giorno in cui il figlio entra in lista per lo stesso tipo di trapianto.",
 "id": "CYB-INV-0011",
 "parent_id": null,
 "poc": true,
@@ -1930,8 +2392,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "religione/teologia × chirurgia/trapiantologia",
 "created": "2026-09-13",
 "estrazione": 15,
+"gancio": "Una tecnica di laboratorio comincia a piangere ogni volta che deve scartare una coltura contaminata, perché nel registro quella coltura aveva già un nome e una data di battesimo.",
 "id": "CYB-INV-0010",
 "parent_id": null,
 "poc": false,
@@ -1943,8 +2408,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "religione/teologia × chirurgia/trapiantologia",
 "created": "2026-09-13",
 "estrazione": 15,
+"gancio": "Un innesto viene respinto per un solo voto contrario, e il paziente muore in lista d'attesa mentre i sette continuano a discutere se il rifiuto fosse dottrina o rancore personale.",
 "id": "CYB-INV-0009",
 "parent_id": null,
 "poc": false,
@@ -1956,8 +2424,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "religione/teologia × chirurgia/trapiantologia",
 "created": "2026-09-13",
 "estrazione": 15,
+"gancio": "Un uomo scopre di essere scomunicato tre settimane prima di sapere che il suo corpo stava rigettando, perché il sistema della parrocchia era più veloce di quello dell'ospedale.",
 "id": "CYB-INV-0008",
 "parent_id": null,
 "poc": true,
@@ -1969,8 +2440,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "religione/teologia × chirurgia/trapiantologia",
 "created": "2026-09-13",
 "estrazione": 15,
+"gancio": "Un ricevente comincia a pregare davanti alla teca del proprio donatore ogni volta che gli esami del sangue peggiorano, e giura che la fiala si scalda quando lui sta per rigettare.",
 "id": "CYB-INV-0007",
 "parent_id": null,
 "poc": false,
@@ -1982,8 +2456,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "religione/teologia × chirurgia/trapiantologia",
 "created": "2026-09-13",
 "estrazione": 15,
+"gancio": "Un chirurgo comincia a tagliare prima che la benedizione finisca di caricare, e da allora nessuno nel reparto vuole più operare durante un buffering.",
 "id": "CYB-INV-0006",
 "parent_id": null,
 "poc": true,
@@ -1995,8 +2472,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "religione/teologia × chirurgia/trapiantologia",
 "created": "2026-09-13",
 "estrazione": 15,
+"gancio": "Un uomo mente bene davanti al microfono e ottiene un fegato nuovo, ma il sistema registra la menzogna e la restituisce, mesi dopo, come base per negargli l'antirigetto.",
 "id": "CYB-INV-0005",
 "parent_id": null,
 "poc": true,
@@ -2008,8 +2488,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "religione/teologia × chirurgia/trapiantologia",
 "created": "2026-09-13",
 "estrazione": 15,
+"gancio": "Un fedele riconosce nel proprio certificato lo stesso numero di lotto del fegato impiantato nell'uomo che lo aveva fatto pestare due mesi prima.",
 "id": "CYB-INV-0004",
 "parent_id": null,
 "poc": false,
@@ -2021,8 +2504,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "religione/teologia × chirurgia/trapiantologia",
 "created": "2026-09-13",
 "estrazione": 15,
+"gancio": "Un chierico anziano scopre solo dopo l'intervento che il documento firmato copriva anche i due trapianti precedenti, mai confessati a nessuno.",
 "id": "CYB-INV-0003",
 "parent_id": null,
 "poc": false,
@@ -2034,8 +2520,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "religione/teologia × chirurgia/trapiantologia",
 "created": "2026-09-13",
 "estrazione": 15,
+"gancio": "Un paziente perde la voce per un'infezione e per tre giorni resta senza farmaco, mentre il corpo comincia a rigettare in silenzio quello che la gola non può più chiedere.",
 "id": "CYB-INV-0002",
 "parent_id": null,
 "poc": true,
@@ -2047,8 +2536,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "religione/teologia × chirurgia/trapiantologia",
 "created": "2026-09-13",
 "estrazione": 15,
+"gancio": "Un chirurgo di turno scopre che il sistema lo ha ribattezzato d'ufficio la notte prima, solo per far quadrare la priorità di un paziente ateo.",
 "id": "CYB-INV-0001",
 "parent_id": null,
 "poc": true,
@@ -2060,8 +2552,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "Stefan la porta al collo insieme all'amuleto, ed è l'unica chiave che apre la teca dove il culto conserva i registri di consenso non ancora archiviati.",
 "created": "2026-09-13",
 "estrazione": 25,
+"gancio": "Stefan perde la chiave per una settimana e nessuno se ne accorge, perché un'altra copia di cui non sapeva l'esistenza ha continuato ad aprire la teca al posto suo.",
 "id": "CYB-GAD-0010",
 "parent_id": null,
 "prod": false,
@@ -2073,8 +2568,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "Stefan la indossa solo durante il Sacramento del Donatore Vivente e la ripone subito dopo in una cassa di cedro perché \"non si consumi il rito insieme al tessuto\".",
 "created": "2026-09-13",
 "estrazione": 25,
+"gancio": "Stefan nota che le funzioni più brevi producono donatori con priorità più alta in lista, e comincia a sospettare che il culto sia pagato per andare di fretta.",
 "id": "CYB-GAD-0009",
 "parent_id": null,
 "prod": false,
@@ -2086,8 +2584,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "Stefan lo fa scorrere tra le dita mentre recita, una clausola del contratto per ogni grano, davanti al donatore prima della firma.",
 "created": "2026-09-13",
 "estrazione": 25,
+"gancio": "Un giorno recita il rosario nell'ordine sbagliato senza accorgersene, e il contratto che ne risulta contiene una clausola che nessuno ha mai autorizzato.",
 "id": "CYB-GAD-0008",
 "parent_id": null,
 "prod": true,
@@ -2099,8 +2600,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "Stefan la consegna al donatore prima della funzione, perché la tenga stretta durante il prelievo \"per non sentirsi solo\".",
 "created": "2026-09-13",
 "estrazione": 25,
+"gancio": "Un donatore giura di aver riconosciuto in quel volto generico i tratti di un parente morto anni prima, e nessuno riesce a spiegargli come sia possibile.",
 "id": "CYB-GAD-0007",
 "parent_id": null,
 "prod": false,
@@ -2112,8 +2616,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "Stefan lo suona un'unica volta alla fine di ogni funzione, per \"annunciare agli antenati\" che il consenso è stato raccolto.",
 "created": "2026-09-13",
 "estrazione": 25,
+"gancio": "Stefan si accorge che il suono del campanello, quel giorno, era identico a quello di una funzione di tre anni prima di cui non ricorda nulla, e nel suo registro non ne trova traccia.",
 "id": "CYB-GAD-0006",
 "parent_id": null,
 "prod": false,
@@ -2125,8 +2632,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "Il donatore lo indossa sul volto durante la funzione del Sacramento, su indicazione di Stefan, \"per non distogliere l'anima con lo sguardo\".",
 "created": "2026-09-13",
 "estrazione": 25,
+"gancio": "Un donatore scopre, anni dopo, che la trascrizione delle sue \"microespressioni di dubbio\" durante la funzione è stata usata contro di lui in una causa civile.",
 "id": "CYB-GAD-0005",
 "parent_id": null,
 "prod": false,
@@ -2138,8 +2648,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "Le famiglie dei donatori lo ricevono da Stefan al termine della funzione e lo portano al collo come pegno che l'anima di scorta del proprio caro resti catalogata dal culto.",
 "created": "2026-09-13",
 "estrazione": 25,
+"gancio": "Una madre nota che il filamento del proprio ciondolo cambia leggermente forma nel tempo, come se qualcosa dentro venisse ancora aggiornato.",
 "id": "CYB-GAD-0004",
 "parent_id": null,
 "prod": false,
@@ -2151,8 +2664,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "Stefan lo porta sempre con sé e lo consulta ossessivamente, riscrivendo negli stessi margini le note che teme di aver già perso.",
 "created": "2026-09-13",
 "estrazione": 25,
+"gancio": "Trova una linguetta completamente consumata su una pagina che giurerebbe di non aver mai letto prima.",
 "id": "CYB-GAD-0003",
 "parent_id": null,
 "prod": false,
@@ -2164,8 +2680,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "Stefan lo tiene in una tasca interna della stola e lo preme sul contratto notarile subito dopo la funzione, mentre l'incenso è ancora acceso.",
 "created": "2026-09-13",
 "estrazione": 25,
+"gancio": "Un notaio nota che i sigilli di due donatori diversi combaciano perfettamente se sovrapposti, come se il timbro conoscesse in anticipo dove tagliare.",
 "id": "CYB-GAD-0002",
 "parent_id": null,
 "prod": true,
@@ -2177,8 +2696,11 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "Stefan lo porta appeso alla cintura durante ogni funzione del Sacramento del Donatore Vivente e lo scuote tre volte prima di recitare la formula di consenso.",
 "created": "2026-09-13",
 "estrazione": 25,
+"gancio": "Una volta la cartuccia si esaurisce a metà funzione e il fumo si dirada di colpo, e il donatore giura di aver visto in quell'istante il proprio contratto sparire dalla teca notarile.",
 "id": "CYB-GAD-0001",
 "parent_id": null,
 "prod": true,
@@ -2190,6 +2712,8 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
+"chiavi": "fisico · redbubble · locandina",
 "created": "2026-09-13",
 "estrazione": 22,
 "id": "CYB-CON-0001",
@@ -2202,6 +2726,7 @@
 "universo": "cyberverse"
 },
 {
+"appare_in": [],
 "created": "2026-09-12",
 "estrazione": 4,
 "id": "NEO-REG-vasperdine",
@@ -2214,6 +2739,7 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
 "created": "2026-09-12",
 "estrazione": 0,
 "id": "NEO-REG-calvenna",
@@ -2226,8 +2752,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "artigiani_tecno_magi · capricorno · precisa · superstiziosa",
 "created": "2026-09-12",
 "estrazione": 12,
+"gancio": "Lavora accanto a Kombo Gurudumu alla Ruota dei Sette Animali; ha iniziato a indossare guanti dopo aver sognato tre notti di fila lo stesso animale vincente.",
 "id": "NEO-PER-0033",
 "parent_id": "NEO-PER-0007",
 "regione": "Calvenna",
@@ -2238,8 +2767,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "artigiani_tecno_magi · leone · instancabile · avido",
 "created": "2026-09-12",
 "estrazione": 12,
+"gancio": "Distribuisce ai pellegrini di passaggio a Calvenna le copie del Bestiario stampate da Amani Kiwele; ne tiene una segnata a matita per sé, quella vera.",
 "id": "NEO-PER-0032",
 "parent_id": "NEO-PER-0002",
 "regione": "Calvenna",
@@ -2250,8 +2782,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "cavalieri · gemelli · devoto_al_lavoro · invidioso",
 "created": "2026-09-12",
 "estrazione": 12,
+"gancio": "Usa il Bestiario delle Quote per decidere quali cavalieri mandare in pattuglia rischiosa; sceglie sempre, per invidia, quelli che lo hanno superato in grado.",
 "id": "NEO-PER-0031",
 "parent_id": null,
 "regione": "Calvenna",
@@ -2262,8 +2797,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "cavalieri · bilancia · meticoloso · paranoico",
 "created": "2026-09-12",
 "estrazione": 12,
+"gancio": "Sposato con un altro cavaliere della stessa guarnigione, studia il Bestiario delle Quote convinto che il ciclo del ritorno vi sia scritto in codice; ha smesso di condividere le sue note con chiunque.",
 "id": "NEO-PER-0030",
 "parent_id": null,
 "regione": "Calvenna",
@@ -2274,8 +2812,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "cavalieri · ariete · curioso · bugiardo",
 "created": "2026-09-12",
 "estrazione": 12,
+"gancio": "Devota convinta che il crollo del feudo sarà il giudizio finale, corregge di nascosto le pagine del Bestiario delle Quote per anticiparlo; nessun cavaliere anziano si è ancora accorto delle sue bugie.",
 "id": "NEO-PER-0029",
 "parent_id": null,
 "regione": "Calvenna",
@@ -2286,8 +2827,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "cavalieri · acquario · ostinato · indolente",
 "created": "2026-09-12",
 "estrazione": 12,
+"gancio": "Ha fatto costruire su misura una propria copia del Bestiario delle Quote per non dover leggere i versetti originali; sua moglie glieli legge lei, ogni sera, senza che lui se ne accorga.",
 "id": "NEO-PER-0028",
 "parent_id": null,
 "regione": "Calvenna",
@@ -2298,8 +2842,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "cavalieri · pesci · diplomatico · ingenuo",
 "created": "2026-09-12",
 "estrazione": 12,
+"gancio": "Vedovo, usa il Bestiario delle Quote per placare le dispute d'onore tra cavalieri; non ha mai sospettato che l'ultima quota corretta a matita fosse opera del suo stesso scudiero.",
 "id": "NEO-PER-0027",
 "parent_id": null,
 "regione": "Calvenna",
@@ -2310,8 +2857,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "cavalieri · vergine · curioso · insonne",
 "created": "2026-09-12",
 "estrazione": 12,
+"gancio": "Promesso per contratto a una casata di cavalieri, ha costruito con le proprie mani la cassa del Bestiario delle Quote; non dorme da quando vi ha trovato la sua prima domanda scritta a matita tra i versetti.",
 "id": "NEO-PER-0026",
 "parent_id": null,
 "regione": "Calvenna",
@@ -2322,8 +2872,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "cavalieri · capricorno · pragmatico · smemorato",
 "created": "2026-09-12",
 "estrazione": 12,
+"gancio": "Incaricato di sorvegliare la Ruota dei Sette Animali, sospetta che la macchina sogni le sue stesse dimenticanze; ha già firmato due volte lo stesso verbale senza accorgersene.",
 "id": "NEO-PER-0025",
 "parent_id": null,
 "regione": "Calvenna",
@@ -2334,8 +2887,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "cavalieri · scorpione · silenzioso · servile",
 "created": "2026-09-12",
 "estrazione": 12,
+"gancio": "Studia il Bestiario delle Quote di notte, cercando nelle costellazioni la conferma che i versetti mentano; vedova di un cavaliere caduto in un duello deciso da una quota sbagliata.",
 "id": "NEO-PER-0024",
 "parent_id": null,
 "regione": "Calvenna",
@@ -2346,8 +2902,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "cavalieri · sagittario · generoso · servile",
 "created": "2026-09-12",
 "estrazione": 12,
+"gancio": "Scudiero promosso a cavaliere per anzianità, corregge di nascosto le quote del Bestiario delle Quote per conto di chi lo intimidisce; teme che la voce nella rete abbia già contato le sue falsificazioni.",
 "id": "NEO-PER-0023",
 "parent_id": null,
 "regione": "Calvenna",
@@ -2358,8 +2917,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "cavalieri · toro · riservato · goloso",
 "created": "2026-09-12",
 "estrazione": 12,
+"gancio": "Paggio destinato all'armatura, tiene i registri del culto nella bottega del Bestiario delle Quote; sa quali versetti sono quote truccate, ma non ha ancora deciso se dirlo al suo cavaliere.",
 "id": "NEO-PER-0022",
 "parent_id": null,
 "regione": "Calvenna",
@@ -2370,8 +2932,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "artigiani_tecno_magi · vergine · paziente · ingenuo",
 "created": "2026-09-12",
 "estrazione": 4,
+"gancio": "Apprendista di Zawadi Mchana; lei gli ha affidato per un giorno la lente non molata che tiene per sé, dicendo solo di non guardarci dentro. Lui l'ha guardata.",
 "id": "NEO-PER-0021",
 "parent_id": "NEO-PER-0004",
 "regione": "Calvenna",
@@ -2382,8 +2947,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "clero · toro · protettivo · ingenuo",
 "created": "2026-09-12",
 "estrazione": 4,
+"gancio": "Bambina protettiva verso gli altri chierichetti mandati a leggere i segnali della caccia; giura di sentire una voce nella rete un istante prima che qualcuno lassù rilanci, e finora ha sempre avuto ragione.",
 "id": "NEO-PER-0020",
 "parent_id": null,
 "regione": "Vasperdine",
@@ -2394,8 +2962,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "clero · capricorno · ospitale · paranoico",
 "created": "2026-09-12",
 "estrazione": 4,
+"gancio": "Ha costruito il meccanismo che apre i recinti al mutare del cielo; ospitale con chiunque bussi, tranne che con chi le chiede come fa a sapere sempre l'ora esatta del rilancio.",
 "id": "NEO-PER-0019",
 "parent_id": null,
 "regione": "Vasperdine",
@@ -2406,8 +2977,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "clero · ariete · ambizioso · superstizioso",
 "created": "2026-09-12",
 "estrazione": 4,
+"gancio": "Chierichetto che teme la Selva delle Puntate più di ogni castigo; porta tre sassi cuciti nella tonaca contro la sfortuna, e sogna il giorno in cui gli affideranno il corno del rilancio.",
 "id": "NEO-PER-0018",
 "parent_id": null,
 "regione": "Vasperdine",
@@ -2418,8 +2992,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "clero · pesci · devoto_al_lavoro · rancoroso",
 "created": "2026-09-12",
 "estrazione": 4,
+"gancio": "L'ha costruita lui, vent'anni fa, come atto di devozione al lavoro; ora la teme più di chiunque scommetta, e nessuno gli chiede mai il suo parere sul rilancio di oggi.",
 "id": "NEO-PER-0017",
 "parent_id": null,
 "regione": "Vasperdine",
@@ -2430,8 +3007,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "clero · bilancia · rigoroso · vanitoso",
 "created": "2026-09-12",
 "estrazione": 4,
+"gancio": "Studia il meccanismo della Selva delle Puntate per certificarne l'ortodossia; le sue note private, se trovate, proverebbero che il registro delle stelle è stato scritto da un uomo, non dal cielo.",
 "id": "NEO-PER-0016",
 "parent_id": null,
 "regione": "Vasperdine",
@@ -2442,8 +3022,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "clero · sagittario · diplomatico · incostante",
 "created": "2026-09-12",
 "estrazione": 4,
+"gancio": "Diplomatica tra i cacciatori che si contendono il turno di puntata, invoca il culto degli antenati per calmare le liti; nessuno sa che lo fa a orecchio, cambiando versione ogni volta.",
 "id": "NEO-PER-0015",
 "parent_id": null,
 "regione": "Vasperdine",
@@ -2454,8 +3037,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "clero · acquario · leale · invidioso",
 "created": "2026-09-12",
 "estrazione": 4,
+"gancio": "Novizio addetto ai segnali di inizio caccia; teme la Selva delle Puntate più di ogni altra cosa, ma è l'unico a cui è affidato il corno che la apre.",
 "id": "NEO-PER-0014",
 "parent_id": null,
 "regione": "Vasperdine",
@@ -2466,8 +3052,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "clero · scorpione · riservato · goloso",
 "created": "2026-09-12",
 "estrazione": 4,
+"gancio": "Vende alla porta della Selva le grazie contro il maltempo di caccia; da vedova, tiene per sé l'unica che non ha mai venduto, sperando che serva a qualcosa il giorno del rilancio.",
 "id": "NEO-PER-0013",
 "parent_id": null,
 "regione": "Vasperdine",
@@ -2478,8 +3067,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "clero · gemelli · devoto_al_lavoro · collerico",
 "created": "2026-09-12",
 "estrazione": 4,
+"gancio": "Copista minore della Selva delle Puntate, corregge le quote scritte nel registro astrale prima che i signori le leggano, e nessuno gli ha mai chiesto perché coincidano sempre con la bestia giusta.",
 "id": "NEO-PER-0012",
 "parent_id": null,
 "regione": "Vasperdine",
@@ -2490,8 +3082,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "clero · leone · ostinato · rancoroso",
 "created": "2026-09-12",
 "estrazione": 4,
+"gancio": "Officia la Selva delle Puntate da trent'anni; il contratto che la promette in sposa scade lo stesso giorno del prossimo rilancio, e lei conta i giorni guardando le quote, non il calendario.",
 "id": "NEO-PER-0011",
 "parent_id": null,
 "regione": "Vasperdine",
@@ -2502,8 +3097,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "artigiani_tecno_magi · balbuzie · ironica · avara",
 "created": "2026-09-12",
 "estrazione": 2,
+"gancio": "Ragazza di bottega, dodici anni, macina pigmenti; ha imparato a leggere di nascosto sui versetti. Chiede a Juma perché l'animale del sogno abbia la quota più bassa di tutte.",
 "id": "NEO-PER-0010",
 "parent_id": null,
 "regione": "Calvenna",
@@ -2514,8 +3112,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "artigiani_tecno_magi · dita mancanti · loquace · pettegolo",
 "created": "2026-09-12",
 "estrazione": 2,
+"gancio": "Fra' Tumaini, tecno-mago di corte addetto alla manutenzione delle reliquie; sa che il Bestiario è un modello predittivo stampato e scrive lui le quote a matita quando il modello sbaglia. La matita è la parte umana di un oracolo che tutti credono divino.",
 "id": "NEO-PER-0009",
 "parent_id": null,
 "regione": "Calvenna",
@@ -2526,8 +3127,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "artigiani_tecno_magi · mani macchiate di pigmento · sospettosa · invidiosa",
 "created": "2026-09-12",
 "estrazione": 2,
+"gancio": "Vende copie del Bestiario con quote inventate ai contadini; le quote inventate cominciano ad avverarsi. La Confraternita del Pelo e della Piuma (NEO-INV-0020) la arruola, o la elimina.",
 "id": "NEO-PER-0008",
 "parent_id": null,
 "regione": "Calvenna",
@@ -2538,8 +3142,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "artigiani_tecno_magi · gobba da banco · curioso · rancoroso",
 "created": "2026-09-12",
 "estrazione": 2,
+"gancio": "Costruttore di manovelle per la Ruota dei Sette Animali (NEO-INV-0017); i simboli sono copiati dal Bestiario. Si accorge che la Ruota esce più spesso sugli animali con quote alte nel libro: la macchina sta leggendo il libro, non il contrario.",
 "id": "NEO-PER-0007",
 "parent_id": null,
 "regione": "Calvenna",
@@ -2550,8 +3157,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "artigiani_tecno_magi · balbuzie · meticolosa · giocatrice",
 "created": "2026-09-12",
 "estrazione": 2,
+"gancio": "Madre Subira, ex allieva di Madre Iselda; rilega il Bestiario e cuce nel dorso un secondo indice che registra ogni animale nato dopo la stampa. L'indice dice che l'animale a matita è nato tre giorni fa.",
 "id": "NEO-PER-0006",
 "parent_id": null,
 "regione": "Calvenna",
@@ -2562,8 +3172,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "artigiani_tecno_magi · dita mancanti · loquace · distratto",
 "created": "2026-09-12",
 "estrazione": 2,
+"gancio": "Incaricato di cancellare la quota a matita, non ci riesce; la grafite è conduttiva e il tratto risponde, allungandosi di un millimetro a ogni tentativo.",
 "id": "NEO-PER-0005",
 "parent_id": null,
 "regione": "Calvenna",
@@ -2574,8 +3187,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "artigiani_tecno_magi · altissima · ostinata · avara",
 "created": "2026-09-12",
 "estrazione": 2,
+"gancio": "Soffiatrice di lenti con cui il clero verifica i versetti; le lenti mostrano sotto l'inchiostro un secondo testo. Ne conserva una non molata, per sé.",
 "id": "NEO-PER-0004",
 "parent_id": null,
 "regione": "Calvenna",
@@ -2586,8 +3202,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "artigiani_tecno_magi · dita mancanti · ironico · avaro",
 "created": "2026-09-12",
 "estrazione": 2,
+"gancio": "Conciatore; fornisce la pergamena, pelle di bestie perdenti comprate ai combattimenti. Scopre che una pagina è fatta con una bestia che secondo il libro doveva vincere.",
 "id": "NEO-PER-0003",
 "parent_id": null,
 "regione": "Calvenna",
@@ -2598,8 +3217,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "artigiani_tecno_magi · zoppia · generosa · collerica",
 "created": "2026-09-12",
 "estrazione": 2,
+"gancio": "Tipografa del clero; compone i versetti con caratteri dell'era precedente che crede santi. Sa che i caratteri si riallineano da soli di notte. Un mattino trova composto un versetto che non ha impaginato.",
 "id": "NEO-PER-0002",
 "parent_id": null,
 "regione": "Calvenna",
@@ -2610,8 +3232,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "artigiani_tecno_magi · dita mancanti · ironico · collerico",
 "created": "2026-09-12",
 "estrazione": 2,
+"gancio": "Miniaturista da vent'anni senza saper leggere i versetti; riconosce ogni animale dalla forma, e quello scritto a matita non l'ha mai visto. Decide di dipingerlo lo stesso, a memoria di un sogno.",
 "id": "NEO-PER-0001",
 "parent_id": null,
 "regione": "Calvenna",
@@ -2622,8 +3247,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "meccanica × gioco_azzardo",
 "created": "2026-09-12",
 "estrazione": 12,
+"gancio": "Un cavaliere di guardia scopre che la leva risponde anche a chi non ha mai giocato, purché sussurri il nome giusto.",
 "id": "NEO-INV-0022",
 "parent_id": "NEO-INV-0017",
 "poc": false,
@@ -2635,8 +3263,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "zoologia × gioco_azzardo",
 "created": "2026-09-12",
 "estrazione": 4,
+"gancio": "Una bestia segnata come maledetta ha vinto sette rilanci di fila nella Selva; il chierico che dovrebbe correggere il registro non l'ha ancora fatto.",
 "id": "NEO-INV-0021",
 "parent_id": "NEO-INV-0015",
 "poc": false,
@@ -2648,8 +3279,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "zoologia × gioco_azzardo",
 "created": "2026-09-12",
 "estrazione": 1,
+"gancio": "La Confraternita sa dove finiscono i vincitori della Ruota, e tace.",
 "id": "NEO-INV-0020",
 "parent_id": null,
 "poc": false,
@@ -2661,8 +3295,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "zoologia × gioco_azzardo",
 "created": "2026-09-12",
 "estrazione": 1,
+"gancio": "Un dente proviene da una specie che dovrebbe esistere solo oltre il passo.",
 "id": "NEO-INV-0019",
 "parent_id": null,
 "poc": true,
@@ -2674,8 +3311,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "zoologia × gioco_azzardo",
 "created": "2026-09-12",
 "estrazione": 1,
+"gancio": "Le balene emergono ogni volta che un custode muore.",
 "id": "NEO-INV-0018",
 "parent_id": null,
 "poc": false,
@@ -2687,8 +3327,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "zoologia × gioco_azzardo",
 "created": "2026-09-12",
 "estrazione": 1,
+"gancio": "Chi fa jackpot viene convocato a corte e non torna.",
 "id": "NEO-INV-0017",
 "parent_id": null,
 "poc": true,
@@ -2700,8 +3343,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "zoologia × gioco_azzardo",
 "created": "2026-09-12",
 "estrazione": 1,
+"gancio": "Un contadino compone una scuderia che coincide con gli esemplari veri delle cripte.",
 "id": "NEO-INV-0016",
 "parent_id": null,
 "poc": false,
@@ -2713,8 +3359,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "zoologia × gioco_azzardo",
 "created": "2026-09-12",
 "estrazione": 1,
+"gancio": "Il libro dice che il cavallo del duca ha una stirpe maledetta.",
 "id": "NEO-INV-0015",
 "parent_id": null,
 "poc": true,
@@ -2726,8 +3375,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "zoologia × gioco_azzardo",
 "created": "2026-09-12",
 "estrazione": 1,
+"gancio": "Il pubblico scommette sulla sentenza, e le api pungono il giudice.",
 "id": "NEO-INV-0014",
 "parent_id": null,
 "poc": false,
@@ -2739,8 +3391,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "zoologia × gioco_azzardo",
 "created": "2026-09-12",
 "estrazione": 1,
+"gancio": "Due falchi circolano sopra la stessa bestia e uno cade.",
 "id": "NEO-INV-0013",
 "parent_id": null,
 "poc": false,
@@ -2752,8 +3407,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "zoologia × gioco_azzardo",
 "created": "2026-09-12",
 "estrazione": 1,
+"gancio": "Il clima cambia a metà caccia perché qualcuno lassù ha rilanciato.",
 "id": "NEO-INV-0012",
 "parent_id": null,
 "poc": false,
@@ -2765,8 +3423,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "zoologia × gioco_azzardo",
 "created": "2026-09-12",
 "estrazione": 1,
+"gancio": "Un giocatore ne calcola la statistica e viene accusato di stregoneria.",
 "id": "NEO-INV-0011",
 "parent_id": null,
 "poc": true,
@@ -2778,8 +3439,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "zoologia × gioco_azzardo",
 "created": "2026-09-12",
 "estrazione": 1,
+"gancio": "Madre Iselda, con i suoi registri delle nascite, è senza volerlo la più grande insider del feudo.",
 "id": "NEO-INV-0010",
 "parent_id": null,
 "poc": false,
@@ -2791,8 +3455,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "zoologia × gioco_azzardo",
 "created": "2026-09-12",
 "estrazione": 1,
+"gancio": "Un animale ha la quota scritta a matita, di mano recente.",
 "id": "NEO-INV-0009",
 "parent_id": null,
 "poc": true,
@@ -2804,8 +3471,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "zoologia × gioco_azzardo",
 "created": "2026-09-12",
 "estrazione": 1,
+"gancio": "Qualcuno scopre che l'urna trattiene sempre una quota per il Custode.",
 "id": "NEO-INV-0008",
 "parent_id": null,
 "poc": false,
@@ -2817,8 +3487,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "zoologia × gioco_azzardo",
 "created": "2026-09-12",
 "estrazione": 1,
+"gancio": "Il bestiame di Calvenna risponde a un nome che nessuno pronuncia da secoli.",
 "id": "NEO-INV-0007",
 "parent_id": null,
 "poc": true,
@@ -2830,8 +3503,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "zoologia × gioco_azzardo",
 "created": "2026-09-12",
 "estrazione": 1,
+"gancio": "Un piccione porta la scommessa a un castello che non esiste più.",
 "id": "NEO-INV-0006",
 "parent_id": null,
 "poc": false,
@@ -2843,8 +3519,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "zoologia × gioco_azzardo",
 "created": "2026-09-12",
 "estrazione": 1,
+"gancio": "Un uovo si schiude con una creatura che non compare in nessun bestiario.",
 "id": "NEO-INV-0005",
 "parent_id": null,
 "poc": false,
@@ -2856,8 +3535,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "zoologia × gioco_azzardo",
 "created": "2026-09-12",
 "estrazione": 1,
+"gancio": "Un rintocco fuori sequenza annuncia un evento che non è ancora accaduto.",
 "id": "NEO-INV-0004",
 "parent_id": null,
 "poc": true,
@@ -2869,8 +3551,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "zoologia × gioco_azzardo",
 "created": "2026-09-12",
 "estrazione": 1,
+"gancio": "Una puntata di duecento anni fa risulta ancora aperta.",
 "id": "NEO-INV-0003",
 "parent_id": null,
 "poc": true,
@@ -2882,8 +3567,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "zoologia × gioco_azzardo",
 "created": "2026-09-12",
 "estrazione": 1,
+"gancio": "Un fantino sente il cavallo obbedire a qualcun altro.",
 "id": "NEO-INV-0002",
 "parent_id": null,
 "poc": false,
@@ -2895,8 +3583,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "zoologia × gioco_azzardo",
 "created": "2026-09-12",
 "estrazione": 1,
+"gancio": "Madre Iselda nota che i galli vincenti nascono tutti nello stesso mese.",
 "id": "NEO-INV-0001",
 "parent_id": null,
 "poc": false,
@@ -2908,8 +3599,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "Le famiglie di casta artigiana.",
 "created": "2026-09-12",
 "estrazione": 3,
+"gancio": "Il reliquiario dei Mwangaza è vuoto da una generazione.",
 "id": "NEO-GAD-0010",
 "parent_id": null,
 "prod": false,
@@ -2921,8 +3615,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "Juma.",
 "created": "2026-09-12",
 "estrazione": 3,
+"gancio": "Ha perso le dita giocando, o ha scelto di perderle per giocare meglio?",
 "id": "NEO-GAD-0009",
 "parent_id": null,
 "prod": false,
@@ -2934,8 +3631,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "Il clero, per la liturgia.",
 "created": "2026-09-12",
 "estrazione": 3,
+"gancio": "Una copia manca dalla sagrestia e Juma ha appena finito di miniarla.",
 "id": "NEO-GAD-0008",
 "parent_id": null,
 "prod": false,
@@ -2947,8 +3647,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "Juma, per le miniature dei versetti.",
 "created": "2026-09-12",
 "estrazione": 3,
+"gancio": "Ha lo stesso pennello da cinquant'anni, l'unica cosa del Crollo che ammette di possedere.",
 "id": "NEO-GAD-0007",
 "parent_id": null,
 "prod": true,
@@ -2960,8 +3663,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "I contadini, come amuleto contro la sfortuna.",
 "created": "2026-09-12",
 "estrazione": 3,
+"gancio": "Nessuno gioca con gli amuleti, quindi nessuno gioca onesto.",
 "id": "NEO-GAD-0006",
 "parent_id": null,
 "prod": false,
@@ -2973,8 +3679,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "Chi deve barare in un'ordalia.",
 "created": "2026-09-12",
 "estrazione": 3,
+"gancio": "L'ha costruito Kombo Gurudumu; Juma lo sa e tace per rancore verso il clero, non per amicizia.",
 "id": "NEO-GAD-0005",
 "parent_id": null,
 "prod": false,
@@ -2986,8 +3695,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "Il clero, per distinguere le ossa autentiche.",
 "created": "2026-09-12",
 "estrazione": 3,
+"gancio": "Juma lo copia in miniatura nelle iniziali del Bestiario, e uno stampatore se ne accorge.",
 "id": "NEO-GAD-0004",
 "parent_id": null,
 "prod": true,
@@ -2999,8 +3711,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "I giocatori seri.",
 "created": "2026-09-12",
 "estrazione": 3,
+"gancio": "Juma ne ha una piena, iniziata prima del Crollo che non c'è stato.",
 "id": "NEO-GAD-0003",
 "parent_id": null,
 "prod": true,
@@ -3012,8 +3727,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "Gli apprendisti, per imparare a sentire il lancio.",
 "created": "2026-09-12",
 "estrazione": 3,
+"gancio": "Li tiene nel banco dei pigmenti.",
 "id": "NEO-GAD-0002",
 "parent_id": null,
 "prod": true,
@@ -3025,8 +3743,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "Juma, alla cintola.",
 "created": "2026-09-12",
 "estrazione": 3,
+"gancio": "È un regalo dell'amante segreto.",
 "id": "NEO-GAD-0001",
 "parent_id": null,
 "prod": true,
@@ -3038,8 +3759,11 @@
 "universo": "neofeudal"
 },
 {
+"appare_in": [],
+"chiavi": "agricoltura/irrigazione × chirurgia/trapiantologia",
 "created": "2026-09-12",
 "estrazione": 6,
+"gancio": "Un drone agricolo sorvola un campo di notte e segnala, invece di piante assetate, tre corpi sdraiati che aspettano.",
 "id": "HAC-INV-0020",
 "parent_id": null,
 "poc": true,
@@ -3051,8 +3775,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "agricoltura/irrigazione × chirurgia/trapiantologia",
 "created": "2026-09-12",
 "estrazione": 6,
+"gancio": "Nel database ci sono due colonne identiche, \"germinazione prevista\" e \"vitalità prevista\", e nessuno ha mai cambiato l'etichetta.",
 "id": "HAC-INV-0019",
 "parent_id": null,
 "poc": true,
@@ -3064,8 +3791,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "agricoltura/irrigazione × chirurgia/trapiantologia",
 "created": "2026-09-12",
 "estrazione": 6,
+"gancio": "Un vecchio contadino spiega un sifone a un chirurgo giovane, che capisce solo dopo cosa gli ha appena regalato.",
 "id": "HAC-INV-0018",
 "parent_id": null,
 "poc": false,
@@ -3077,8 +3807,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "agricoltura/irrigazione × chirurgia/trapiantologia",
 "created": "2026-09-12",
 "estrazione": 6,
+"gancio": "Un ispettore idrico e un ispettore sanitario, per due bug identici, trovano la stessa identica backdoor.",
 "id": "HAC-INV-0017",
 "parent_id": null,
 "poc": true,
@@ -3090,8 +3823,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "agricoltura/irrigazione × chirurgia/trapiantologia",
 "created": "2026-09-12",
 "estrazione": 6,
+"gancio": "Due furgoni partono nello stesso minuto calcolato dallo stesso foglio elettronico, uno pieno d'acqua, uno pieno di ghiaccio.",
 "id": "HAC-INV-0016",
 "parent_id": null,
 "poc": true,
@@ -3103,8 +3839,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "agricoltura/irrigazione × chirurgia/trapiantologia",
 "created": "2026-09-12",
 "estrazione": 6,
+"gancio": "Un ingegnere agrario, prestato per una consulenza, disegna senza saperlo l'impalcatura che terrà insieme la pelle di un ustionato.",
 "id": "HAC-INV-0015",
 "parent_id": null,
 "poc": false,
@@ -3116,8 +3855,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "agricoltura/irrigazione × chirurgia/trapiantologia",
 "created": "2026-09-12",
 "estrazione": 6,
+"gancio": "Un agronomo riconosce nel referto medico di uno sconosciuto la stessa curva a campana che usa per i suoi silos.",
 "id": "HAC-INV-0014",
 "parent_id": null,
 "poc": true,
@@ -3129,8 +3871,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "agricoltura/irrigazione × chirurgia/trapiantologia",
 "created": "2026-09-12",
 "estrazione": 6,
+"gancio": "Lo stesso fornitore vende membrane identiche a un consorzio agricolo di giorno e a una clinica clandestina di notte, fatture separate, stesso magazzino.",
 "id": "HAC-INV-0013",
 "parent_id": null,
 "poc": false,
@@ -3142,8 +3887,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "agricoltura/irrigazione × chirurgia/trapiantologia",
 "created": "2026-09-12",
 "estrazione": 6,
+"gancio": "Per un guasto al gateway, un contadino e un trapiantato ricevono, la stessa notte, le notifiche l'uno dell'altro.",
 "id": "HAC-INV-0012",
 "parent_id": null,
 "poc": true,
@@ -3155,8 +3903,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "agricoltura/irrigazione × chirurgia/trapiantologia",
 "created": "2026-09-12",
 "estrazione": 6,
+"gancio": "Un broker rivende per errore lo stesso lotto due volte, un campo e un fegato.",
 "id": "HAC-INV-0011",
 "parent_id": null,
 "poc": true,
@@ -3168,8 +3919,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "agricoltura/irrigazione × chirurgia/trapiantologia",
 "created": "2026-09-12",
 "estrazione": 6,
+"gancio": "Nello stesso capannone crescono alberi impossibili e valvole cardiache che non dovrebbero battere.",
 "id": "HAC-INV-0010",
 "parent_id": null,
 "poc": false,
@@ -3181,8 +3935,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "agricoltura/irrigazione × chirurgia/trapiantologia",
 "created": "2026-09-12",
 "estrazione": 6,
+"gancio": "Un magazziniere di sementi riceve una chiamata notturna in cui gli chiedono di prestare il suo congelatore, \"solo per una notte\".",
 "id": "HAC-INV-0009",
 "parent_id": null,
 "poc": false,
@@ -3194,8 +3951,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "agricoltura/irrigazione × chirurgia/trapiantologia",
 "created": "2026-09-12",
 "estrazione": 6,
+"gancio": "Da satellite, il cerchio verde nel deserto e il tondo di luce sopra la sala operatoria hanno esattamente la stessa forma.",
 "id": "HAC-INV-0008",
 "parent_id": null,
 "poc": false,
@@ -3207,8 +3967,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "agricoltura/irrigazione × chirurgia/trapiantologia",
 "created": "2026-09-12",
 "estrazione": 6,
+"gancio": "Il sensore che salva un raccolto arriva in ospedale due giorni prima che qualcuno pensi a usarlo su un paziente.",
 "id": "HAC-INV-0007",
 "parent_id": null,
 "poc": true,
@@ -3220,8 +3983,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "agricoltura/irrigazione × chirurgia/trapiantologia",
 "created": "2026-09-12",
 "estrazione": 6,
+"gancio": "Un registro agricolo e una cartella clinica usano la stessa parola sospetta, \"riposo\", per lo stesso concetto.",
 "id": "HAC-INV-0006",
 "parent_id": null,
 "poc": true,
@@ -3233,8 +3999,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "agricoltura/irrigazione × chirurgia/trapiantologia",
 "created": "2026-09-12",
 "estrazione": 6,
+"gancio": "Nella stessa notte, in due luoghi diversi, suona lo stesso identico allarme di sovradosaggio.",
 "id": "HAC-INV-0005",
 "parent_id": null,
 "poc": true,
@@ -3246,8 +4015,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "agricoltura/irrigazione × chirurgia/trapiantologia",
 "created": "2026-09-12",
 "estrazione": 6,
+"gancio": "Un contadino scopre di essere in cima a due liste diverse, per l'acqua e per un rene, e non sa quale delle due lo sta già uccidendo.",
 "id": "HAC-INV-0004",
 "parent_id": null,
 "poc": true,
@@ -3259,8 +4031,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "agricoltura/irrigazione × chirurgia/trapiantologia",
 "created": "2026-09-12",
 "estrazione": 6,
+"gancio": "Un paziente giura di sentire, nel sonno, lo stesso ronzio che i sensori facevano sotto il campo di suo padre.",
 "id": "HAC-INV-0003",
 "parent_id": null,
 "poc": false,
@@ -3272,8 +4047,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "agricoltura/irrigazione × chirurgia/trapiantologia",
 "created": "2026-09-12",
 "estrazione": 6,
+"gancio": "Il chirurgo scopre che il software gli sta proponendo un donatore già scartato altrove come \"portainnesto instabile\".",
 "id": "HAC-INV-0002",
 "parent_id": null,
 "poc": true,
@@ -3285,8 +4063,11 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
+"chiavi": "agricoltura/irrigazione × chirurgia/trapiantologia",
 "created": "2026-09-12",
 "estrazione": 6,
+"gancio": "Un tecnico nota che il log delle valvole segna un impulso ogni volta che in un ospedale a chilometri di distanza si apre un espianto.",
 "id": "HAC-INV-0001",
 "parent_id": null,
 "poc": true,
@@ -3298,6 +4079,7 @@
 "universo": "hackverse"
 },
 {
+"appare_in": [],
 "created": "2026-09-12",
 "estrazione": 8,
 "id": "ELA-REG-konya",
@@ -3310,8 +4092,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "navigatori · scorpione · meticoloso · invidioso",
 "created": "2026-09-12",
 "estrazione": 11,
+"gancio": "Da anni sfrutta la smemoratezza di Pınar per rivendere le sue stesse coordinate sotto forma di ricevute contraffatte; ora il cliente del registro dimenticato ha trovato quella vera, e minaccia di far saltare la copertura di entrambi.",
 "id": "ELA-PER-0011",
 "parent_id": "ELA-PER-0004",
 "regione": "Konya",
@@ -3322,8 +4107,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "navigatori · leone · leale · pedante",
 "created": "2026-09-12",
 "estrazione": 8,
+"gancio": "Il suo prossimo rapporto falsificato deve coprire una lettura che, se autentica, dimostrerebbe che l'invenzione non funziona come il convoglio crede.",
 "id": "ELA-PER-0010",
 "parent_id": null,
 "regione": "Konya",
@@ -3334,8 +4122,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "navigatori · sagittario · leale · smemorato",
 "created": "2026-09-12",
 "estrazione": 8,
+"gancio": "Le ultime tre letture che ha smesso di trascrivere corrispondono, per chi le ha recuperate dai log grezzi, a tre notti in cui avrebbe dovuto essere di turno con lei.",
 "id": "ELA-PER-0009",
 "parent_id": null,
 "regione": "Konya",
@@ -3346,8 +4137,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "navigatori · scorpione · meticoloso · collerico",
 "created": "2026-09-12",
 "estrazione": 8,
+"gancio": "Devota al credo che non ci sia nessun dio, solo registri, tiene un diario segreto di ogni sua sfuriata, come se anche la sua rabbia dovesse essere archiviata.",
 "id": "ELA-PER-0008",
 "parent_id": null,
 "regione": "Konya",
@@ -3358,8 +4152,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "navigatori · pesci · diplomatico · indolente",
 "created": "2026-09-12",
 "estrazione": 8,
+"gancio": "Un acquirente scopre per caso che Johanna non crede a una parola di quello che vende, e minaccia di dirlo a tutto il convoglio.",
 "id": "ELA-PER-0007",
 "parent_id": null,
 "regione": "Konya",
@@ -3370,8 +4167,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "navigatori · toro · vigile · indolente",
 "created": "2026-09-12",
 "estrazione": 8,
+"gancio": "Continua a costruirne uno tutto suo, di nascosto, solo per dimostrare che aveva ragione a non crederci.",
 "id": "ELA-PER-0006",
 "parent_id": null,
 "regione": "Konya",
@@ -3382,8 +4182,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "navigatori · cancro · pragmatico · goloso",
 "created": "2026-09-12",
 "estrazione": 8,
+"gancio": "Ha scoperto una firma spettrale ricorrente che compare solo nei turni che salta, e non riesce a smettere di pensarci nemmeno mentre mangia.",
 "id": "ELA-PER-0005",
 "parent_id": null,
 "regione": "Konya",
@@ -3394,8 +4197,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "navigatori · gemelli · curioso · smemorato",
 "created": "2026-09-12",
 "estrazione": 8,
+"gancio": "Un cliente si presenta con una ricevuta firmata da Pınar per una vendita che lei giura di non aver mai fatto.",
 "id": "ELA-PER-0004",
 "parent_id": null,
 "regione": "Konya",
@@ -3406,8 +4212,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "navigatori · acquario · rigoroso · invidioso",
 "created": "2026-09-12",
 "estrazione": 8,
+"gancio": "Teme l'Eco della Materia perché l'ultima volta che l'ha usato la voce nella rete le ha sussurrato un nome che non ha mai detto a nessuno.",
 "id": "ELA-PER-0003",
 "parent_id": null,
 "regione": "Konya",
@@ -3418,8 +4227,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "navigatori · ariete · pragmatico · vanitoso",
 "created": "2026-09-12",
 "estrazione": 8,
+"gancio": "Nessuno sa che l'ultimo modello costruito da Nazlı registra frequenze che lei stessa si rifiuta di ascoltare.",
 "id": "ELA-PER-0002",
 "parent_id": null,
 "regione": "Konya",
@@ -3430,8 +4242,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "navigatori · capricorno · coraggioso · rancoroso",
 "created": "2026-09-12",
 "estrazione": 8,
+"gancio": "Da quando l'Eco della Materia ha rivelato che lo scafo su cui è nata contiene tracce di un metallo mai estratto da nessun giacimento conosciuto, Orsolya rifiuta di calibrare lo strumento e nessuno sa perché.",
 "id": "ELA-PER-0001",
 "parent_id": null,
 "regione": "Konya",
@@ -3442,8 +4257,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "arte_visiva/affresco × cartografia/proiezioni",
 "created": "2026-09-12",
 "estrazione": 11,
+"gancio": "Un cadetto giura di essere passato attraverso una di quelle porte durante un blackout, tornando con un frammento di carta di un settore che nessuna proiezione dovrebbe poter disegnare.",
 "id": "ELA-INV-0071",
 "parent_id": "ELA-INV-0036",
 "poc": false,
@@ -3455,8 +4273,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "acustica/fonetica × ottica/spettroscopia",
 "created": "2026-09-12",
 "estrazione": 11,
+"gancio": "Una cartografa riconosce, sullo scafo di un relitto appena trovato, lo stesso volto spettrografico appeso da bambina nella sua cabina, quello che le avevano detto essere \"casa\".",
 "id": "ELA-INV-0070",
 "parent_id": "ELA-INV-0004",
 "poc": true,
@@ -3468,8 +4289,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "finanza/valuta × tipografia/calligrafia",
 "created": "2026-09-12",
 "estrazione": 11,
+"gancio": "Riemerge un registro tenuto ancora con il sistema proibito, i cui debiti risultano tecnicamente validi e enormi.",
 "id": "ELA-INV-0069",
 "parent_id": null,
 "poc": true,
@@ -3481,8 +4305,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "finanza/valuta × tipografia/calligrafia",
 "created": "2026-09-12",
 "estrazione": 11,
+"gancio": "Una genealogista trova lo stesso volto nei registri funebri di tre colonie diverse, ogni volta sotto un nome differente.",
 "id": "ELA-INV-0068",
 "parent_id": null,
 "poc": false,
@@ -3494,8 +4321,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "finanza/valuta × tipografia/calligrafia",
 "created": "2026-09-12",
 "estrazione": 11,
+"gancio": "Un mattino il tabellone appare scritto in una grafia che nessuno scriba vivo ammette di conoscere, eppure i tassi si rivelano esatti per un'intera settimana.",
 "id": "ELA-INV-0067",
 "parent_id": null,
 "poc": true,
@@ -3507,8 +4337,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "finanza/valuta × tipografia/calligrafia",
 "created": "2026-09-12",
 "estrazione": 11,
+"gancio": "Una moneta ritrovata ha un dente in più, impossibile da notare se non con il gioco al buio che i bambini si tramandano da soli.",
 "id": "ELA-INV-0066",
 "parent_id": null,
 "poc": false,
@@ -3520,8 +4353,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "finanza/valuta × tipografia/calligrafia",
 "created": "2026-09-12",
 "estrazione": 11,
+"gancio": "Una firma risulta autentica nella forma ma falsa nel ductus, aprendo una frode che nessuno credeva possibile a bordo.",
 "id": "ELA-INV-0065",
 "parent_id": null,
 "poc": true,
@@ -3533,8 +4369,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "finanza/valuta × tipografia/calligrafia",
 "created": "2026-09-12",
 "estrazione": 11,
+"gancio": "Un controllo contabile scopre che uno scriba nasconde, sotto una luce radente, una firma personale invisibile dentro lettere identiche a tutte le altre.",
 "id": "ELA-INV-0064",
 "parent_id": null,
 "poc": false,
@@ -3546,8 +4385,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "finanza/valuta × tipografia/calligrafia",
 "created": "2026-09-12",
 "estrazione": 11,
+"gancio": "Un documento di trasferimento porta impresso un timbro il cui incisore risulta morto prima della data della transazione.",
 "id": "ELA-INV-0063",
 "parent_id": null,
 "poc": false,
@@ -3559,8 +4401,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "finanza/valuta × tipografia/calligrafia",
 "created": "2026-09-12",
 "estrazione": 11,
+"gancio": "Uno scrip del taglio più basso viene ritrovato con la lettera dorata, un valore che nessun registro sa spiegare.",
 "id": "ELA-INV-0062",
 "parent_id": null,
 "poc": false,
@@ -3572,8 +4417,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "finanza/valuta × tipografia/calligrafia",
 "created": "2026-09-12",
 "estrazione": 11,
+"gancio": "Sotto l'unica lente rimasta a bordo, qualcuno legge in una vecchia banconota un avvertimento microstampato decenni prima del disastro che descrive.",
 "id": "ELA-INV-0061",
 "parent_id": null,
 "poc": true,
@@ -3585,8 +4433,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "finanza/valuta × tipografia/calligrafia",
 "created": "2026-09-12",
 "estrazione": 11,
+"gancio": "Viene ritrovata una cambiale in cui la regola di spaziatura è stata violata con una perfezione che solo uno scriba ormai in pensione saprebbe riconoscere.",
 "id": "ELA-INV-0060",
 "parent_id": null,
 "poc": true,
@@ -3598,8 +4449,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "finanza/valuta × tipografia/calligrafia",
 "created": "2026-09-12",
 "estrazione": 11,
+"gancio": "Un ispettore di saggio trova lo stesso marchio di purezza su rottami recuperati da due relitti che non avrebbero mai potuto condividere la stessa fucina.",
 "id": "ELA-INV-0059",
 "parent_id": null,
 "poc": false,
@@ -3611,8 +4465,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "finanza/valuta × tipografia/calligrafia",
 "created": "2026-09-12",
 "estrazione": 11,
+"gancio": "Riemerge una moneta con il nodo di un Ammiraglio il cui comando è stato cancellato da ogni registro della Flotta.",
 "id": "ELA-INV-0058",
 "parent_id": null,
 "poc": false,
@@ -3624,8 +4481,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "finanza/valuta × tipografia/calligrafia",
 "created": "2026-09-12",
 "estrazione": 11,
+"gancio": "Un mercante trova la metà di un bastone il cui gemello apparteneva a un uomo morto una generazione fa, eppure il debito risulta ancora attivo.",
 "id": "ELA-INV-0057",
 "parent_id": null,
 "poc": false,
@@ -3637,8 +4497,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "finanza/valuta × tipografia/calligrafia",
 "created": "2026-09-12",
 "estrazione": 11,
+"gancio": "Un gruppo di bambini scambia scrip al buio secondo un codice tattile che nessun adulto è mai riuscito a decifrare.",
 "id": "ELA-INV-0056",
 "parent_id": null,
 "poc": false,
@@ -3650,8 +4513,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "finanza/valuta × tipografia/calligrafia",
 "created": "2026-09-12",
 "estrazione": 11,
+"gancio": "La rosetta incisa su una moneta ritrovata alla deriva corrisponde esattamente alla mappa di un sistema stellare che nessuna flotta ha ancora raggiunto.",
 "id": "ELA-INV-0055",
 "parent_id": null,
 "poc": true,
@@ -3663,8 +4529,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "finanza/valuta × tipografia/calligrafia",
 "created": "2026-09-12",
 "estrazione": 11,
+"gancio": "Due firme dal ricciolo identico compaiono su due cambiali emesse lo stesso giorno in due ponti diversi della nave.",
 "id": "ELA-INV-0054",
 "parent_id": null,
 "poc": true,
@@ -3676,8 +4545,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "finanza/valuta × tipografia/calligrafia",
 "created": "2026-09-12",
 "estrazione": 11,
+"gancio": "Un contabile automatico interrompe la lettura di una serie di numeri di serie e ne stampa uno che non è mai stato emesso da nessun banco.",
 "id": "ELA-INV-0053",
 "parent_id": null,
 "poc": true,
@@ -3689,8 +4561,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "finanza/valuta × tipografia/calligrafia",
 "created": "2026-09-12",
 "estrazione": 11,
+"gancio": "Su un registro antico, solo i numeri vergati da una mano non autorizzata stanno svanendo, riga dopo riga, sotto gli occhi dei contabili.",
 "id": "ELA-INV-0052",
 "parent_id": null,
 "poc": false,
@@ -3702,8 +4577,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "finanza/valuta × tipografia/calligrafia",
 "created": "2026-09-12",
 "estrazione": 11,
+"gancio": "Una banconota mai emessa viene ritrovata con una filigrana che, in controluce, mostra una stella assente da ogni catalogo di rotta.",
 "id": "ELA-INV-0051",
 "parent_id": null,
 "poc": true,
@@ -3715,8 +4593,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "finanza/valuta × tipografia/calligrafia",
 "created": "2026-09-12",
 "estrazione": 11,
+"gancio": "Una moneta contraffatta riemerge dal mercato nero portando impresso un carattere tipografico ritirato due generazioni fa, identico fino alla bava del metallo.",
 "id": "ELA-INV-0050",
 "parent_id": null,
 "poc": false,
@@ -3728,8 +4609,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "acustica/fonetica × ottica/spettroscopia",
 "created": "2026-09-12",
 "estrazione": 9,
+"gancio": "Due stelle a distanze incolmabili pronunciano, correlate, la stessa identica ultima parola, nello stesso istante del calendario di bordo.",
 "id": "ELA-INV-0049",
 "parent_id": "ELA-INV-0020",
 "poc": true,
@@ -3741,8 +4625,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "acustica/fonetica × ottica/spettroscopia",
 "created": "2026-09-12",
 "estrazione": 9,
+"gancio": "Il registro, riletto tutto insieme dopo generazioni, non mostra sette secondi persi ogni anno ma un'unica settimana intera, ancora da qualche parte, che nessuna nave ha mai vissuto.",
 "id": "ELA-INV-0048",
 "parent_id": "ELA-INV-0046",
 "poc": true,
@@ -3754,8 +4641,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "arte_visiva/affresco × cartografia/proiezioni",
 "created": "2026-09-12",
 "estrazione": 9,
+"gancio": "Un restauratore toglie il velo per pulizia ordinaria e si ritrova davanti a una rotta più vecchia di trent'anni, tracciata verso una destinazione che il convoglio non ha mai raggiunto.",
 "id": "ELA-INV-0047",
 "parent_id": "ELA-INV-0040",
 "poc": false,
@@ -3767,8 +4657,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "acustica/fonetica × ottica/spettroscopia",
 "created": "2026-09-12",
 "estrazione": 8,
+"gancio": "Quei sette secondi di scarto, sommati generazione dopo generazione, non si accumulano mai: spariscono sempre nello stesso punto del calendario di bordo, come se qualcosa, una volta all'anno, li recuperasse.",
 "id": "ELA-INV-0046",
 "parent_id": "ELA-INV-0041",
 "poc": true,
@@ -3780,8 +4673,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "acustica/fonetica × ottica/spettroscopia",
 "created": "2026-09-12",
 "estrazione": 8,
+"gancio": "Il Rammendo applicato ai vecchi archivi corrotti restituisce un'infanzia intera a un archivista che giura di non averla mai vissuta.",
 "id": "ELA-INV-0045",
 "parent_id": "ELA-INV-0018",
 "poc": true,
@@ -3793,8 +4689,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "arte_visiva/affresco × cartografia/proiezioni",
 "created": "2026-09-12",
 "estrazione": 8,
+"gancio": "Un cadetto, chino per raccogliere qualcosa caduto a terra, si ritrova per caso nell'unico punto da cui l'affresco del refettorio smette di essere un paesaggio e diventa la rotta segreta della nave scomparsa da tre generazioni.",
 "id": "ELA-INV-0044",
 "parent_id": "ELA-INV-0029",
 "poc": true,
@@ -3806,8 +4705,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "acustica/fonetica × ottica/spettroscopia",
 "created": "2026-09-12",
 "estrazione": 7,
+"gancio": "Il nuovo cifrario, applicato alla sillaba della supernova mai osservata, restituisce non una parola ma una data, un giorno che nel calendario di bordo non è ancora arrivato.",
 "id": "ELA-INV-0043",
 "parent_id": "ELA-INV-0018",
 "poc": true,
@@ -3819,8 +4721,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "acustica/fonetica × ottica/spettroscopia",
 "created": "2026-09-12",
 "estrazione": 7,
+"gancio": "Un equipaggio festeggia il primo Blu del Ritorno registrato in generazioni, finché un monaco nota che la nave, in realtà, sta ancora accelerando.",
 "id": "ELA-INV-0042",
 "parent_id": "ELA-INV-0003",
 "poc": true,
@@ -3832,8 +4737,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "acustica/fonetica × ottica/spettroscopia",
 "created": "2026-09-12",
 "estrazione": 7,
+"gancio": "Un diplomatico che ha ingannato per anni un solo Specchio Diviso viene scoperto nel giro di una frase, quando il convoglio attiva per la prima volta tutti gli specchi insieme.",
 "id": "ELA-INV-0041",
 "parent_id": "ELA-INV-0009",
 "poc": true,
@@ -3845,8 +4753,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "arte_visiva/affresco × cartografia/proiezioni",
 "created": "2026-09-12",
 "estrazione": 7,
+"gancio": "Una spugna passata per pulizia ordinaria cancella per errore l'unica rotta segreta che avrebbe permesso alla nave di tornare indietro.",
 "id": "ELA-INV-0040",
 "parent_id": null,
 "poc": false,
@@ -3858,8 +4769,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "arte_visiva/affresco × cartografia/proiezioni",
 "created": "2026-09-12",
 "estrazione": 7,
+"gancio": "Un ispettore misura una discrepanza di pochi gradi esattamente in ogni giuntura tra coni, sempre nella stessa direzione, come se qualcuno correggesse la carta di notte.",
 "id": "ELA-INV-0039",
 "parent_id": null,
 "poc": true,
@@ -3871,8 +4785,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "arte_visiva/affresco × cartografia/proiezioni",
 "created": "2026-09-12",
 "estrazione": 7,
+"gancio": "Un archivista conta più carte stellari strappate e reincollate di quante sezioni la nave abbia mai avuto, come se qualcuna fosse stata strappata da un muro che nessuno ricorda.",
 "id": "ELA-INV-0038",
 "parent_id": null,
 "poc": false,
@@ -3884,8 +4801,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "arte_visiva/affresco × cartografia/proiezioni",
 "created": "2026-09-12",
 "estrazione": 7,
+"gancio": "Un diplomatico chiede di essere ritratto nella parete della proiezione ortografica, e i monaci gli spiegano che nessuno, in quel muro, ha mai avuto un volto.",
 "id": "ELA-INV-0037",
 "parent_id": null,
 "poc": false,
@@ -3897,8 +4817,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "arte_visiva/affresco × cartografia/proiezioni",
 "created": "2026-09-12",
 "estrazione": 7,
+"gancio": "Un bambino disegna, in un settore mai cartografato, una creatura che corrisponde esattamente a una grottesca dipinta due generazioni prima da un frescante che non ha mai visto il suo disegno.",
 "id": "ELA-INV-0036",
 "parent_id": null,
 "poc": false,
@@ -3910,8 +4833,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "arte_visiva/affresco × cartografia/proiezioni",
 "created": "2026-09-12",
 "estrazione": 7,
+"gancio": "Durante una demolizione d'emergenza, un operaio trova sotto l'arriccio coordinate che non corrispondono a nessuna rotta mai dichiarata dalla nave madre.",
 "id": "ELA-INV-0035",
 "parent_id": null,
 "poc": false,
@@ -3923,8 +4849,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "arte_visiva/affresco × cartografia/proiezioni",
 "created": "2026-09-12",
 "estrazione": 7,
+"gancio": "Un restauratore trova, invece di un fiore-ellisse quasi impercettibile, una regione della carta senza alcuna distorsione segnata, come se lì nessuno avesse mai osato mentire.",
 "id": "ELA-INV-0034",
 "parent_id": null,
 "poc": true,
@@ -3936,8 +4865,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "arte_visiva/affresco × cartografia/proiezioni",
 "created": "2026-09-12",
 "estrazione": 7,
+"gancio": "Un colono scopre che due coordinate del reticolo dipinto puntano nella stessa cella verso due stelle diverse, e nessuno sa quale sia l'errore.",
 "id": "ELA-INV-0033",
 "parent_id": null,
 "poc": true,
@@ -3949,8 +4881,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "arte_visiva/affresco × cartografia/proiezioni",
 "created": "2026-09-12",
 "estrazione": 7,
+"gancio": "Un navigante segue per errore il battito di un pulsar dipinto invece di quello reale, e la nave corregge la rotta verso un punto che esiste solo sul muro.",
 "id": "ELA-INV-0032",
 "parent_id": null,
 "poc": true,
@@ -3962,8 +4897,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "arte_visiva/affresco × cartografia/proiezioni",
 "created": "2026-09-12",
 "estrazione": 7,
+"gancio": "Un restauratore scopre che la pennellata continua della lossodromia, a un certo punto del corridoio, è stata rifatta da una mano diversa senza che nessuno se ne accorgesse.",
 "id": "ELA-INV-0031",
 "parent_id": null,
 "poc": false,
@@ -3975,8 +4913,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "arte_visiva/affresco × cartografia/proiezioni",
 "created": "2026-09-12",
 "estrazione": 7,
+"gancio": "Un capitano ordina di intonacare in anticipo la fascia successiva del murale, prima ancora che la rotta per raggiungerla sia stata approvata.",
 "id": "ELA-INV-0030",
 "parent_id": null,
 "poc": false,
@@ -3988,8 +4929,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "arte_visiva/affresco × cartografia/proiezioni",
 "created": "2026-09-12",
 "estrazione": 7,
+"gancio": "Un archivista giura di aver visto, nella proiezione capovolta, una nave che nei registri ufficiali risulta distrutta da tre generazioni.",
 "id": "ELA-INV-0029",
 "parent_id": null,
 "poc": false,
@@ -4001,8 +4945,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "arte_visiva/affresco × cartografia/proiezioni",
 "created": "2026-09-12",
 "estrazione": 7,
+"gancio": "Un diplomatico rifiuta di mangiare nel refettorio perché non sopporta di vedere la stella di casa deformata insieme a tutte le altre.",
 "id": "ELA-INV-0028",
 "parent_id": null,
 "poc": false,
@@ -4014,8 +4961,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "arte_visiva/affresco × cartografia/proiezioni",
 "created": "2026-09-12",
 "estrazione": 7,
+"gancio": "Un monaco nota che il centro del cerchio dipinto sul pavimento, quest'anno, non coincide più con la posizione reale della nave madre.",
 "id": "ELA-INV-0027",
 "parent_id": null,
 "poc": false,
@@ -4027,8 +4977,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "arte_visiva/affresco × cartografia/proiezioni",
 "created": "2026-09-12",
 "estrazione": 7,
+"gancio": "Una venatura dorata sul muro della sala macchine punta dritta verso un settore che sulle carte ufficiali è segnato come vuoto.",
 "id": "ELA-INV-0026",
 "parent_id": null,
 "poc": true,
@@ -4040,8 +4993,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "arte_visiva/affresco × cartografia/proiezioni",
 "created": "2026-09-12",
 "estrazione": 7,
+"gancio": "Un bambino chiede perché la stella dipinta più grande di tutte, vicino al soffitto, sia in realtà la più piccola e la più lontana.",
 "id": "ELA-INV-0025",
 "parent_id": null,
 "poc": false,
@@ -4053,8 +5009,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "arte_visiva/affresco × cartografia/proiezioni",
 "created": "2026-09-12",
 "estrazione": 7,
+"gancio": "Il registro di bordo conta ventimila giornate di cielo dipinto, ma il diario di viaggio ne conta ventimila più una.",
 "id": "ELA-INV-0024",
 "parent_id": null,
 "poc": false,
@@ -4066,8 +5025,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "arte_visiva/affresco × cartografia/proiezioni",
 "created": "2026-09-12",
 "estrazione": 7,
+"gancio": "Un apprendista nota che il cartone tramandato da otto generazioni ha un foro in più, in un punto del cielo che nessuna stella ha mai occupato.",
 "id": "ELA-INV-0023",
 "parent_id": null,
 "poc": true,
@@ -4079,8 +5041,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "arte_visiva/affresco × cartografia/proiezioni",
 "created": "2026-09-12",
 "estrazione": 7,
+"gancio": "Un restauratore gratta l'ultimo strato di una carta stellare e trova, in sinopia, la rotta verso un sistema che i registri ufficiali dicono di non aver mai cercato.",
 "id": "ELA-INV-0022",
 "parent_id": null,
 "poc": false,
@@ -4092,8 +5057,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "arte_visiva/affresco × cartografia/proiezioni",
 "created": "2026-09-12",
 "estrazione": 7,
+"gancio": "Un colono scopre che la rotta dipinta sul muro della sua cabina, ancora umida quando è nato, oggi indica una stella che nessuna nave ha mai raggiunto.",
 "id": "ELA-INV-0021",
 "parent_id": null,
 "poc": false,
@@ -4105,8 +5073,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "acustica/fonetica × ottica/spettroscopia",
 "created": "2026-09-12",
 "estrazione": 5,
+"gancio": "Un colono chiede ai monaci di far parlare la stella sotto cui è nato suo figlio, e non gli piace ciò che sente.",
 "id": "ELA-INV-0020",
 "parent_id": null,
 "poc": true,
@@ -4118,8 +5089,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "acustica/fonetica × ottica/spettroscopia",
 "created": "2026-09-12",
 "estrazione": 5,
+"gancio": "Una diplomatica viene accusata di tradimento sulla base della sola riflettanza del suo viso durante un negoziato, prima ancora che parli.",
 "id": "ELA-INV-0019",
 "parent_id": null,
 "poc": false,
@@ -4131,8 +5105,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "acustica/fonetica × ottica/spettroscopia",
 "created": "2026-09-12",
 "estrazione": 5,
+"gancio": "Un archivista scopre che l'ultima sillaba trasmessa dalla nave madre, mai decifrata, corrisponde esattamente allo spettro di una supernova mai osservata prima.",
 "id": "ELA-INV-0018",
 "parent_id": null,
 "poc": true,
@@ -4144,8 +5121,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "acustica/fonetica × ottica/spettroscopia",
 "created": "2026-09-12",
 "estrazione": 5,
+"gancio": "Un messaggio dei derelitti resta indecifrabile finché qualcuno non nota che la chiave cambia ogni notte con la costellazione visibile dal boccaporto.",
 "id": "ELA-INV-0017",
 "parent_id": null,
 "poc": true,
@@ -4157,8 +5137,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "acustica/fonetica × ottica/spettroscopia",
 "created": "2026-09-12",
 "estrazione": 5,
+"gancio": "Un ingegnere di scafo cataloga da mesi gli spettri infrarossi lasciati dalle urla d'allarme, convinto che formino un alfabeto di emergenza.",
 "id": "ELA-INV-0016",
 "parent_id": null,
 "poc": false,
@@ -4170,8 +5153,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "acustica/fonetica × ottica/spettroscopia",
 "created": "2026-09-12",
 "estrazione": 5,
+"gancio": "Un diplomatico riceve un messaggio di conforto con la voce del padre defunto e non riesce a smettere di chiedersi quale stella lo abbia firmato.",
 "id": "ELA-INV-0015",
 "parent_id": null,
 "poc": true,
@@ -4183,8 +5169,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "acustica/fonetica × ottica/spettroscopia",
 "created": "2026-09-12",
 "estrazione": 5,
+"gancio": "Un monaco del vuoto giura di aver visto, nella luce scomposta di un prisma, la fine di una frase pronunciata prima ancora che iniziasse.",
 "id": "ELA-INV-0014",
 "parent_id": null,
 "poc": false,
@@ -4196,8 +5185,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "acustica/fonetica × ottica/spettroscopia",
 "created": "2026-09-12",
 "estrazione": 5,
+"gancio": "Filtrando un vecchio messaggio di emergenza, un archivista isola un fonema che si ripete esattamente al ritmo del battito cardiaco di chi lo pronunciava.",
 "id": "ELA-INV-0013",
 "parent_id": null,
 "poc": true,
@@ -4209,8 +5201,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "acustica/fonetica × ottica/spettroscopia",
 "created": "2026-09-12",
 "estrazione": 5,
+"gancio": "I coloni raccontano che un'eco è tornata con un colore che nessun materiale conosciuto dovrebbe produrre.",
 "id": "ELA-INV-0012",
 "parent_id": null,
 "poc": true,
@@ -4222,8 +5217,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "acustica/fonetica × ottica/spettroscopia",
 "created": "2026-09-12",
 "estrazione": 5,
+"gancio": "Un ingegnere di scafo costruisce un rilevatore di menzogne basato solo su queste emissioni vocali, e lo tiene nascosto ai diplomatici.",
 "id": "ELA-INV-0011",
 "parent_id": null,
 "poc": true,
@@ -4235,8 +5233,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "acustica/fonetica × ottica/spettroscopia",
 "created": "2026-09-12",
 "estrazione": 5,
+"gancio": "Un archivista trova la propria voce già segnata sulla tavola in una casella riservata alle giganti rosse, anni prima di ammalarsi.",
 "id": "ELA-INV-0010",
 "parent_id": null,
 "poc": true,
@@ -4248,8 +5249,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "acustica/fonetica × ottica/spettroscopia",
 "created": "2026-09-12",
 "estrazione": 5,
+"gancio": "Un diplomatico supera ogni interrogatorio finché qualcuno non confronta la sua voce con quella registrata all'imbarco, e le due onde non coincidono più.",
 "id": "ELA-INV-0009",
 "parent_id": null,
 "poc": true,
@@ -4261,8 +5265,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "acustica/fonetica × ottica/spettroscopia",
 "created": "2026-09-12",
 "estrazione": 5,
+"gancio": "Un ingegnere di scafo nota che il dialetto dei nati in viaggio perde una vocale ogni generazione, misurabile come un isotopo.",
 "id": "ELA-INV-0008",
 "parent_id": null,
 "poc": false,
@@ -4274,8 +5281,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "acustica/fonetica × ottica/spettroscopia",
 "created": "2026-09-12",
 "estrazione": 5,
+"gancio": "Un archivista costruisce un intero dizionario basato solo sulle pause di un segnale, mai sulle sue parole.",
 "id": "ELA-INV-0007",
 "parent_id": null,
 "poc": false,
@@ -4287,8 +5297,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "acustica/fonetica × ottica/spettroscopia",
 "created": "2026-09-12",
 "estrazione": 5,
+"gancio": "Una diplomatica scopre di avere gli stessi formanti di una voce registrata in un archivio precedente alla sua nascita, che nessuno ammette di aver creato.",
 "id": "ELA-INV-0006",
 "parent_id": null,
 "poc": true,
@@ -4300,8 +5313,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "acustica/fonetica × ottica/spettroscopia",
 "created": "2026-09-12",
 "estrazione": 5,
+"gancio": "Gli ingegneri di scafo giurano di riconoscere un giacimento dal canto del suo spettro prima ancora di analizzarlo.",
 "id": "ELA-INV-0005",
 "parent_id": null,
 "poc": false,
@@ -4313,8 +5329,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "acustica/fonetica × ottica/spettroscopia",
 "created": "2026-09-12",
 "estrazione": 5,
+"gancio": "Un derelitto trovato alla deriva porta incisa sullo scafo una trascrizione fonetica che nessun catalogo stellare riconosce.",
 "id": "ELA-INV-0004",
 "parent_id": null,
 "poc": true,
@@ -4326,8 +5345,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "acustica/fonetica × ottica/spettroscopia",
 "created": "2026-09-12",
 "estrazione": 5,
+"gancio": "Un diplomatico rifiuta di riascoltare i propri messaggi di addio perché teme di sentirli già arrossati.",
 "id": "ELA-INV-0003",
 "parent_id": null,
 "poc": true,
@@ -4339,8 +5361,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "acustica/fonetica × ottica/spettroscopia",
 "created": "2026-09-12",
 "estrazione": 5,
+"gancio": "Un ingegnere di scafo scopre che il proprio sonogramma coincide con una stella la cui luce ha impiegato quattrocento anni ad arrivare.",
 "id": "ELA-INV-0002",
 "parent_id": null,
 "poc": true,
@@ -4352,8 +5377,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "acustica/fonetica × ottica/spettroscopia",
 "created": "2026-09-12",
 "estrazione": 5,
+"gancio": "Gli archivisti del convoglio traducono da trent'anni un unico messaggio stellare senza mai arrivare alla fine della frase.",
 "id": "ELA-INV-0001",
 "parent_id": null,
 "poc": false,
@@ -4365,8 +5393,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "Lo fa scorrere tra le dita mentre aspetta il proprio turno allo strumento, per calmarsi prima di toccare le manopole.",
 "created": "2026-09-12",
 "estrazione": 9,
+"gancio": "Un archivista le chiede di prestargli il gettone solo per sentirlo, e non glielo restituisce più.",
 "id": "ELA-GAD-0010",
 "parent_id": null,
 "prod": false,
@@ -4378,8 +5409,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "Lo tiene piegato in quattro nella tasca del petto e lo consulta di nascosto durante i turni ufficiali.",
 "created": "2026-09-12",
 "estrazione": 9,
+"gancio": "Se un archivista vedesse quella tavola, capirebbe che qualcuno gliel'ha copiata da un registro che nessuna bambina dovrebbe poter leggere.",
 "id": "ELA-GAD-0009",
 "parent_id": null,
 "prod": false,
@@ -4391,8 +5425,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "Se li mette prima di ogni sessione di calibrazione, per non sentire il proprio respiro alterare la lettura.",
 "created": "2026-09-12",
 "estrazione": 9,
+"gancio": "Un giorno sente attraverso i para-orecchie una sillaba che nessun registro ufficiale ha mai catalogato.",
 "id": "ELA-GAD-0008",
 "parent_id": null,
 "prod": false,
@@ -4404,8 +5441,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "Lo usa per sigillare il quaderno delle sfuriate prima di riporlo.",
 "created": "2026-09-12",
 "estrazione": 9,
+"gancio": "Un cartografo riconosce lo spettro sul sigillo e le chiede come faccia una bambina a possedere i dati di quella stella.",
 "id": "ELA-GAD-0007",
 "parent_id": null,
 "prod": false,
@@ -4417,8 +5457,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "La porta sempre al polso sinistro, quello con cui regola le manopole dello strumento.",
 "created": "2026-09-12",
 "estrazione": 9,
+"gancio": "Un giorno i fori risultano tutti bruciati nello stesso turno, e nessuno sa cosa sia successo quel giorno sulla nave.",
 "id": "ELA-GAD-0006",
 "parent_id": null,
 "prod": false,
@@ -4430,8 +5473,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "Lo tiene in una scatola foderata di stoffa e lo estrae per scomporre la luce di qualunque lampada quando è nervosa.",
 "created": "2026-09-12",
 "estrazione": 9,
+"gancio": "Le viene confiscato durante un'ispezione perché nessun apprendista dovrebbe possedere un prisma calibrato a quella precisione.",
 "id": "ELA-GAD-0005",
 "parent_id": null,
 "prod": true,
@@ -4443,8 +5489,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "Lo porta legato alla cintola con uno spago, sempre a portata di mano per annotare.",
 "created": "2026-09-12",
 "estrazione": 9,
+"gancio": "Se qualcuno leggesse davvero il codice, scoprirebbe che sta cercando di decifrare da sola il messaggio stellare che gli archivisti non hanno mai finito di tradurre.",
 "id": "ELA-GAD-0004",
 "parent_id": null,
 "prod": false,
@@ -4456,8 +5505,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "La porta cucita in una tasca segreta della manica, pronta a sostituire quella che rompe nei suoi scatti d'ira.",
 "created": "2026-09-12",
 "estrazione": 9,
+"gancio": "Il vetraio si rifiuta di tagliarne una quarta, dicendo che la casta dei navigatori si accorgerà del furto di forma.",
 "id": "ELA-GAD-0003",
 "parent_id": null,
 "prod": false,
@@ -4469,8 +5521,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "Lo tiene chiuso con un laccio nella tasca interna della giacca e lo apre solo quando è sola.",
 "created": "2026-09-12",
 "estrazione": 9,
+"gancio": "Un archivista anziano le chiede di vedere il quaderno, convinto che sia un diario di bordo ufficiale.",
 "id": "ELA-GAD-0002",
 "parent_id": null,
 "prod": false,
@@ -4482,8 +5537,11 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "Ayşe lo porta al collo sotto la divisa da apprendista e lo preme contro il vetro dell'oblò quando vuole ascoltare le stelle.",
 "created": "2026-09-12",
 "estrazione": 9,
+"gancio": "Una notte lo preme contro l'oblò sbagliato e giura di aver sentito una frase che nessun registro ufficiale ha mai catalogato.",
 "id": "ELA-GAD-0001",
 "parent_id": null,
 "prod": true,
@@ -4495,6 +5553,8 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "fisico · etsy · documento_ritrovato",
 "created": "2026-09-12",
 "estrazione": 10,
 "id": "ELA-CON-0001",
