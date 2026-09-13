@@ -7,7 +7,9 @@
     "build": "ng build",
     "test": "ng test",
     "watch": "ng build --watch --configuration development",
-    "data:fixture": "node scripts/fixture.mjs"
+    "data:fixture": "node scripts/fixture.mjs",
+    "feed": "node scripts/feed.mjs",
+    "prebuild": "node scripts/feed.mjs"
   },
   "prettier": {
     "printWidth": 100,

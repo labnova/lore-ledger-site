@@ -171,6 +171,22 @@
       </section>
     }
 
+    <section class="blocco" aria-labelledby="appare">
+      <h2 id="appare">Appare in</h2>
+      @if (v.appareIn.length) {
+        <ul class="lista-righe">
+          @for (o of v.appareIn; track o.slug) {
+            <li>
+              <a [routerLink]="['/racconto', o.slug]">{{ o.titolo }}</a>
+              <span class="mono muted">{{ o.creato }}</span>
+            </li>
+          }
+        </ul>
+      } @else {
+        <p class="muted">In nessun racconto approvato, finora.</p>
+      }
+    </section>
+
     <section class="blocco" aria-labelledby="figlie">
       <h2 id="figlie">Figlie</h2>
       @if (v.lineage.figlie.length) {

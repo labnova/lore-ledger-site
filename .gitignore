@@ -42,3 +42,6 @@ __screenshots__/
 # System files
 .DS_Store
 Thumbs.db
+
+# Feed Atom generato da scripts/feed.mjs (prebuild)
+/public/feed.xml

@@ -5,6 +5,7 @@ import { Ledger } from '../../data/ledger-api';
 import {
   Collegamenti,
   Lineage,
+  appareIn,
   chiaviRiga,
   pescataIn,
   resolveCollegamenti,
@@ -22,7 +23,7 @@ import {
   UNIVERSO_LABEL,
   snake,
 } from '../../data/labels';
-import { Estrazione, IndexEntry, Personaggio, Riga } from '../../models/ledger';
+import { Estrazione, IndexEntry, Personaggio, RaccontoIndex, Riga } from '../../models/ledger';
 import { BadgeFlag, BadgeRelazione, BadgeTipo, BadgeUniverso } from '../../components/badges';
 import { RigaCard } from '../../components/riga-card';
 
@@ -50,6 +51,8 @@ interface Vista {
   chiavi: string | null;
   /** Righe complete delle card collegate: gancio intero, nessun troncamento nella scheda. */
   dettagli: Map<string, Riga>;
+  /** Racconti approvati che usano questa riga (`appare_in` dai dati, altrimenti da `righe_usate`). */
+  appareIn: RaccontoIndex[];
 }
 
 function titoloDi(r: Riga): string {
@@ -88,11 +91,12 @@ export class RigaPage {
   readonly dati = resource({
     params: () => this.id(),
     loader: async ({ params: id }): Promise<Vista | null> => {
-      const [riga, index, graph, estrazioni] = await Promise.all([
+      const [riga, index, graph, estrazioni, racconti] = await Promise.all([
         this.ledger.row(id),
         this.ledger.index(),
         this.ledger.graph(),
         this.ledger.estrazioni(),
+        this.ledger.racconti(),
       ]);
       if (!riga) return null;
       const lineage = resolveLineage(riga, index);
@@ -115,6 +119,7 @@ export class RigaPage {
         byId: new Map(index.map((e) => [e.id, e])),
         chiavi: chiaviRiga(riga),
         dettagli,
+        appareIn: appareIn(riga.id, racconti, (riga as unknown as { appare_in?: string[] }).appare_in ?? null),
       };
     },
   });

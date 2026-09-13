@@ -16,6 +16,15 @@ export const routes: Routes = [
     loadComponent: () => import('./pages/riga/riga').then((m) => m.RigaPage),
   },
   {
+    path: 'racconti',
+    title: 'lore-ledger · racconti',
+    loadComponent: () => import('./pages/racconti/racconti').then((m) => m.RaccontiPage),
+  },
+  {
+    path: 'racconto/:slug',
+    loadComponent: () => import('./pages/racconto/racconto').then((m) => m.RaccontoPage),
+  },
+  {
     path: 'g',
     title: 'lore-ledger · grafo',
     loadComponent: () => import('./pages/grafo/grafo').then((m) => m.GrafoPage),

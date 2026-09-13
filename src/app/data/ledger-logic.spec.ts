@@ -2,6 +2,11 @@ import { describe, expect, it } from 'vitest';
 import {
   FILTRO_VUOTO,
   TRONCA,
+  appareIn,
+  filtraRacconti,
+  parseRacconti,
+  parseRacconto,
+  sceneDelTesto,
   chiaviPiatte,
   chiaviRiga,
   raggruppaPerEstrazione,
@@ -373,5 +378,46 @@ describe('collegamenti ed estrazioni', () => {
     expect(righeDiEstrazione(estr[0], INDEX).map((e) => e.id)).toEqual(['NEO-PER-0002']);
     expect(righeDiEstrazione(estr[1], INDEX).map((e) => e.id)).toEqual(['NEO-INV-0001', 'NEO-INV-0002']);
     expect(chiaviPiatte(estr[1].chiavi)).toEqual([{ k: 'discipline', v: 'zoologia/etologia' }]);
+  });
+});
+
+describe('racconti', () => {
+  const base = { titolo: 'T', universo: 'steamverse', branch: 'main', cluster: 'STE-INV-0012', regione: 'Ledoskol', testata: null, numero: null,
+    personaggi: ['STE-PER-0002'], righe_usate: ['STE-INV-0012', 'STE-PER-0002'], battute: 16000, n_scene: 5, sinossi: 's' };
+  const raw = [
+    { ...base, id: 'a', slug: '2026-09-10-a', creato: '2026-09-10', stato: 'approvato' },
+    { ...base, id: 'b', slug: '2026-09-13-b', creato: '2026-09-13', stato: 'approvato', universo: 'neofeudal', righe_usate: ['NEO-INV-0001'] },
+    { ...base, id: 'c', slug: '2026-09-12-c', creato: '2026-09-12', stato: 'bozza' },
+    { ...base, id: 'd', slug: '2026-09-11-d', creato: '2026-09-11', stato: 'archiviato' },
+    { ...base, id: 'e', slug: '2026-09-11-e', creato: '2026-09-11' },
+    { slug: 'rotto' },
+  ];
+
+  it('elenco: solo approvati, dal più recente, filtrabile per universo', () => {
+    const r = parseRacconti(raw);
+    expect(r.map((x) => x.slug)).toEqual(['2026-09-13-b', '2026-09-11-e', '2026-09-10-a']);
+    expect(filtraRacconti(r, 'steamverse').map((x) => x.slug)).toEqual(['2026-09-11-e', '2026-09-10-a']);
+    expect(filtraRacconti(r, '')).toEqual(r);
+    expect(r.some((x) => x.slug.endsWith('-c') || x.slug.endsWith('-d'))).toBe(false);
+  });
+
+  it('racconto: mai una bozza, mai la scaletta nei dati letti', () => {
+    expect(parseRacconto({ ...raw[2], corpo: 'x' })).toBeNull();
+    expect(parseRacconto({ ...raw[0] })).toBeNull();
+    const r = parseRacconto({ ...raw[0], corpo: 'Uno.\n\n* * *\n\nDue.', scaletta: 'racconti/scalette/x.yaml', fatti_nuovi: ['f'], fatti_stabiliti: [{ id: 'STE-FAT-x-1', testo: 't', momento: 1, tipo_fatto: 'stato' }, { id: 'no' }] })!;
+    expect(r).not.toBeNull();
+    expect('scaletta' in r).toBe(false);
+    expect(r.fatti_stabiliti.map((f) => f.id)).toEqual(['STE-FAT-x-1']);
+    expect(sceneDelTesto(r.corpo)).toEqual(['Uno.', 'Due.']);
+    expect(sceneDelTesto('Solo una scena.')).toEqual(['Solo una scena.']);
+  });
+
+  it('appare in: dai dati se ci sono, altrimenti da righe_usate', () => {
+    const r = parseRacconti(raw);
+    expect(appareIn('STE-PER-0002', r).map((x) => x.slug)).toEqual(['2026-09-11-e', '2026-09-10-a']);
+    expect(appareIn('NEO-INV-0001', r).map((x) => x.slug)).toEqual(['2026-09-13-b']);
+    expect(appareIn('STE-PER-0002', r, ['2026-09-10-a', 'inesistente']).map((x) => x.slug)).toEqual(['2026-09-10-a']);
+    expect(appareIn('STE-PER-0002', r, [])).toEqual([]);
+    expect(appareIn('XXX', r)).toEqual([]);
   });
 });

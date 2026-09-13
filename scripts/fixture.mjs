@@ -12,6 +12,8 @@ const OUT = join(ROOT, 'public', 'data');
 const SOMMARIO_MAX = 160;
 
 const rows = JSON.parse(readFileSync(join(FIX, 'rows.json'), 'utf8'));
+// Nessun racconto nella fixture: racconti.json vuoto (la pagina /racconti mostra lo stato vuoto).
+const raccontiFixture = [];
 const estrazioni = JSON.parse(readFileSync(join(FIX, 'estrazioni.json'), 'utf8'));
 
 const dump = (obj, rel) => {
@@ -100,3 +102,4 @@ mkdirSync(join(OUT, 'bibbie'), { recursive: true });
 for (const f of readdirSync(join(FIX, 'bibbie'))) copyFileSync(join(FIX, 'bibbie', f), join(OUT, 'bibbie', f));
 
 console.log(`fixture → public/data: ${rows.length} righe, ${edges.length} archi, ${estrazioni.length} estrazioni`);
+dump(raccontiFixture, 'racconti.json');

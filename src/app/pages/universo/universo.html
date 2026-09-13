@@ -27,7 +27,10 @@
   <section aria-labelledby="bibbia">
     <h2 id="bibbia">Bibbia</h2>
     @if (bibbia.hasValue() && bibbia.value()) {
-      <div class="prosa" [innerHTML]="bibbia.value()"></div>
+      <details class="bibbia">
+        <summary>Leggi la bibbia dell'universo (testo intero)</summary>
+        <div class="prosa" [innerHTML]="bibbia.value()"></div>
+      </details>
     } @else if (bibbia.isLoading()) {
       <p class="muted">Caricamento…</p>
     } @else {

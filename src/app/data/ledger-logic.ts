@@ -8,6 +8,8 @@ import {
   GraphEdge,
   IndexEntry,
   Manifest,
+  Racconto,
+  RaccontoIndex,
   Relazione,
   Riga,
   Stats,
@@ -60,6 +62,85 @@ export function parseRow(raw: unknown): Riga | null {
   return raw as unknown as Riga;
 }
 
+const STATI_RACCONTO = new Set(['approvato', 'pubblicato']);
+
+function isRaccontoIndex(v: unknown): v is RaccontoIndex {
+  return (
+    isRecord(v) &&
+    typeof v['slug'] === 'string' &&
+    typeof v['titolo'] === 'string' &&
+    isUniverso(v['universo']) &&
+    typeof v['creato'] === 'string' &&
+    (v['stato'] === undefined || STATI_RACCONTO.has(String(v['stato'])))
+  );
+}
+
+function normalizzaRacconto<T extends RaccontoIndex>(e: T): T {
+  return {
+    ...e,
+    id: e.id ?? e.slug,
+    sinossi: typeof e.sinossi === 'string' ? e.sinossi : null,
+    branch: e.branch ?? 'main',
+    cluster: e.cluster ?? null,
+    regione: e.regione ?? null,
+    testata: e.testata ?? null,
+    numero: typeof e.numero === 'number' ? e.numero : null,
+    personaggi: Array.isArray(e.personaggi) ? e.personaggi.map(String) : [],
+    righe_usate: Array.isArray(e.righe_usate) ? e.righe_usate.map(String) : [],
+    battute: typeof e.battute === 'number' ? e.battute : 0,
+    n_scene: typeof e.n_scene === 'number' ? e.n_scene : null,
+  };
+}
+
+/** Legge `racconti.json`: solo racconti approvati (una bozza o un archiviato, se mai arrivassero, sono scartati). Ordine: `creato` desc. */
+export function parseRacconti(raw: unknown): RaccontoIndex[] {
+  if (!Array.isArray(raw)) return [];
+  return ordinaRacconti(raw.filter(isRaccontoIndex).map(normalizzaRacconto));
+}
+
+export function ordinaRacconti<T extends { creato: string; slug: string }>(rows: T[]): T[] {
+  return [...rows].sort((a, b) => {
+    if (a.creato !== b.creato) return a.creato < b.creato ? 1 : -1;
+    return a.slug < b.slug ? 1 : a.slug > b.slug ? -1 : 0;
+  });
+}
+
+export function filtraRacconti(rows: RaccontoIndex[], universo: Universo | ''): RaccontoIndex[] {
+  return universo ? rows.filter((r) => r.universo === universo) : rows;
+}
+
+/** Legge `racconti/<slug>.json`; `null` se non ha la forma minima o non è approvato. La scaletta, se mai presente, viene tolta. */
+export function parseRacconto(raw: unknown): Racconto | null {
+  if (!isRaccontoIndex(raw) || typeof (raw as unknown as Record<string, unknown>)['corpo'] !== 'string') return null;
+  const { scaletta: _scaletta, ...resto } = raw as unknown as Record<string, unknown>;
+  void _scaletta;
+  const r = normalizzaRacconto(resto as unknown as Racconto);
+  return {
+    ...r,
+    fatti_nuovi: Array.isArray(r.fatti_nuovi) ? r.fatti_nuovi.map(String) : [],
+    fatti_stabiliti: Array.isArray(r.fatti_stabiliti)
+      ? r.fatti_stabiliti.filter((f) => isRecord(f) && typeof f['id'] === 'string' && typeof f['testo'] === 'string')
+      : [],
+  };
+}
+
+/** Scene del testo narrativo: segmenti separati da una riga `* * *`. */
+export function sceneDelTesto(corpo: string): string[] {
+  return corpo
+    .split(/^[ \t]*\*[ \t]*\*[ \t]*\*[ \t]*$/m)
+    .map((s) => s.trim())
+    .filter((s) => s.length > 0);
+}
+
+/** Racconti che usano la riga: `appare_in` della riga se c'è, altrimenti calcolato da `righe_usate` dei racconti. */
+export function appareIn(id: string, racconti: RaccontoIndex[], appare?: string[] | null): RaccontoIndex[] {
+  const bySlug = new Map(racconti.map((r) => [r.slug, r]));
+  if (Array.isArray(appare)) {
+    return ordinaRacconti(appare.map((s) => bySlug.get(s)).filter((r): r is RaccontoIndex => !!r));
+  }
+  return ordinaRacconti(racconti.filter((r) => r.righe_usate.includes(id)));
+}
+
 export function parseGraph(raw: unknown): Graph {
   if (!isRecord(raw)) return { nodes: [], edges: [] };
   const nodes = Array.isArray(raw['nodes'])
@@ -107,6 +188,8 @@ export function parseStats(raw: unknown): Stats {
     regioni_per_universo: rec('regioni_per_universo'),
     ultima_generazione: typeof r['ultima_generazione'] === 'string' ? r['ultima_generazione'] : null,
     estrazioni_totali: typeof r['estrazioni_totali'] === 'number' ? r['estrazioni_totali'] : 0,
+    racconti_totali: typeof r['racconti_totali'] === 'number' ? r['racconti_totali'] : 0,
+    ultimo_racconto: typeof r['ultimo_racconto'] === 'string' ? r['ultimo_racconto'] : null,
     ultimo_build: typeof r['ultimo_build'] === 'string' ? r['ultimo_build'] : '',
   };
 }

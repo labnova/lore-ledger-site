@@ -1,0 +1,68 @@
+@if (nonTrovato()) {
+  <h1>Racconto non trovato</h1>
+  <p>
+    Nessun racconto approvato con slug <span class="mono">{{ slug() }}</span>.
+    <a routerLink="/racconti">Torna ai racconti</a>.
+  </p>
+} @else if (dati.error()) {
+  <h1>Racconto non disponibile</h1>
+  <p role="alert">{{ dati.error() }}</p>
+  <p><a routerLink="/racconti">Torna ai racconti</a></p>
+} @else if (vista(); as v) {
+  @let r = v.racconto;
+  <article class="racconto">
+    <header class="racconto-testa">
+      <p class="card-top">
+        <a routerLink="/racconti" class="muted">racconti</a>
+        <app-badge-universo [universo]="r.universo" />
+        @if (r.testata) {
+          <span class="mono muted">{{ r.testata }} n. {{ r.numero }}</span>
+        }
+      </p>
+      <h1>{{ r.titolo }}</h1>
+      <p class="muted">
+        <a [routerLink]="['/u', r.universo]">{{ universoLabel[r.universo] }}</a>
+        @if (r.regione) {
+          · {{ r.regione }}
+        }
+        · {{ r.creato }} · {{ r.battute }} battute
+      </p>
+      @if (r.sinossi) {
+        <p class="sinossi">{{ r.sinossi }}</p>
+      }
+    </header>
+
+    <div class="lettura">
+      @for (scena of v.scene; track $index) {
+        @if ($index > 0) {
+          <p class="separatore" aria-hidden="true">* * *</p>
+        }
+        <div [innerHTML]="scena"></div>
+      }
+    </div>
+
+    <footer class="racconto-coda">
+      <h2>Righe usate</h2>
+      <ul class="lista-righe">
+        @for (x of v.righe; track x.id) {
+          <li>
+            <a class="mono" [routerLink]="['/r', x.id]">{{ x.id }}</a>
+            @if (x.titolo !== x.id) {
+              <span>{{ x.titolo }}</span>
+            }
+          </li>
+        }
+      </ul>
+      @if (r.fatti_stabiliti.length) {
+        <h2>Fatti stabiliti</h2>
+        <ol class="fatti">
+          @for (f of r.fatti_stabiliti; track f.id) {
+            <li>{{ f.testo }} <span class="mono muted">{{ f.id }}</span></li>
+          }
+        </ol>
+      }
+    </footer>
+  </article>
+} @else {
+  <p class="muted" aria-live="polite">Caricamento del racconto…</p>
+}

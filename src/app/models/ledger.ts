@@ -160,6 +160,49 @@ export interface IndexEntry {
   sommario: string;
   poc?: boolean;
   prod?: boolean;
+  /** Gancio intero e chiavi in chiaro (le stesse delle card), così finiscono nell'HTML prerenderizzato. */
+  gancio?: string;
+  chiavi?: string;
+  /** Slug dei racconti approvati che usano la riga (dal catalogo del repo privato). */
+  appare_in?: string[];
+}
+
+/** Voce di `racconti.json`: solo racconti approvati, ordinati per `creato` desc. */
+export interface RaccontoIndex {
+  id: string;
+  slug: string;
+  titolo: string;
+  sinossi: string | null;
+  universo: Universo;
+  branch: string;
+  cluster: string | null;
+  regione: string | null;
+  testata: string | null;
+  numero: number | null;
+  personaggi: string[];
+  righe_usate: string[];
+  battute: number;
+  creato: string;
+  n_scene: number | null;
+  stato?: string;
+}
+
+export interface FattoStabilito {
+  id: string;
+  testo: string;
+  momento: number | null;
+  tipo_fatto: string | null;
+  soggetti?: string[];
+}
+
+/** `racconti/<slug>.json`: frontmatter + corpo markdown (scene separate da `* * *`). Mai la scaletta. */
+export interface Racconto extends RaccontoIndex {
+  corpo: string;
+  fatti_nuovi: string[];
+  fatti_stabiliti: FattoStabilito[];
+  seme?: string | null;
+  giro?: number;
+  modello?: string;
 }
 
 export type EdgeKind = 'parent' | 'invenzione' | 'personaggio' | 'sorgente' | 'regione';
@@ -210,6 +253,8 @@ export interface Stats {
   regioni_per_universo: Partial<Record<Universo, number>>;
   ultima_generazione: string | null;
   estrazioni_totali: number;
+  racconti_totali?: number;
+  ultimo_racconto?: string | null;
   ultimo_build: string;
 }
 

@@ -1,0 +1,56 @@
+<h1>Racconti</h1>
+<p class="muted">
+  I racconti approvati dal giudice del regolamento, dal più recente. Ogni racconto nasce da un
+  cluster del ledger: un'invenzione, i personaggi che la usano, i loro gadget, una regione.
+</p>
+
+<form class="filtri" (submit)="$event.preventDefault()" aria-label="Filtro dei racconti">
+  <label>
+    universo
+    <select [value]="universo()" (change)="setUniverso($event)">
+      <option value="">tutti</option>
+      @for (u of universi; track u) {
+        <option [value]="u">{{ universoLabel[u] }}</option>
+      }
+    </select>
+  </label>
+</form>
+
+<p class="muted mono" aria-live="polite">{{ visibili().length }} di {{ tutti().length }} racconti</p>
+
+@if (visibili().length) {
+  <ol class="racconti-lista" reversed>
+    @for (r of visibili(); track r.slug) {
+      <li class="uni-{{ r.universo }}">
+        <div class="card-top">
+          <app-badge-universo [universo]="r.universo" />
+          @if (r.testata) {
+            <span class="mono muted">{{ r.testata }} n. {{ r.numero }}</span>
+          }
+        </div>
+        <h2 class="card-titolo"><a [routerLink]="['/racconto', r.slug]">{{ r.titolo }}</a></h2>
+        @if (r.sinossi) {
+          <p class="sinossi">{{ r.sinossi }}</p>
+        }
+        <div class="card-meta">
+          <span>{{ r.creato }}</span>
+          @if (r.regione) {
+            <span>regione: {{ r.regione }}</span>
+          }
+          <span>{{ r.battute }} battute</span>
+          @if (r.cluster) {
+            <a class="mono" [routerLink]="['/r', r.cluster]">{{ r.cluster }}</a>
+          }
+        </div>
+      </li>
+    }
+  </ol>
+} @else if (dati.isLoading()) {
+  <p class="muted">Caricamento dei racconti…</p>
+} @else if (dati.error()) {
+  <p role="alert">Racconti non disponibili: {{ dati.error() }}</p>
+} @else if (tutti().length) {
+  <p class="muted">Nessun racconto in questo universo.</p>
+} @else {
+  <p class="muted">Nessun racconto approvato ancora.</p>
+}

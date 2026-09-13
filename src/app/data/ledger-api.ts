@@ -2,12 +2,14 @@ import { HttpClient, HttpErrorResponse } from '@angular/common/http';
 import { Injectable, PLATFORM_ID, TransferState, inject, makeStateKey } from '@angular/core';
 import { isPlatformServer } from '@angular/common';
 import { firstValueFrom } from 'rxjs';
-import { Estrazione, Graph, IndexEntry, Manifest, Riga, Stats, Universo } from '../models/ledger';
+import { Estrazione, Graph, IndexEntry, Manifest, Racconto, RaccontoIndex, Riga, Stats, Universo } from '../models/ledger';
 import {
   parseEstrazioni,
   parseGraph,
   parseIndex,
   parseManifest,
+  parseRacconti,
+  parseRacconto,
   parseRow,
   parseStats,
 } from './ledger-logic';
@@ -49,6 +51,39 @@ export class Ledger {
     if (!p) {
       p = firstValueFrom(this.http.get<unknown>(`/data/${key}`))
         .then(parseRow)
+        .catch((e: unknown) => {
+          if (e instanceof HttpErrorResponse && e.status === 404) return null;
+          throw e;
+        });
+      this.cache.set(key, p);
+    }
+    return p;
+  }
+
+  /** Racconti approvati (`racconti.json`); `[]` se il file non c'è ancora. */
+  racconti(): Promise<RaccontoIndex[]> {
+    const key = 'racconti.json';
+    let p = this.cache.get(key) as Promise<RaccontoIndex[]> | undefined;
+    if (!p) {
+      p = firstValueFrom(this.http.get<unknown>(`/data/${key}`))
+        .then(parseRacconti)
+        .catch((e: unknown) => {
+          if (e instanceof HttpErrorResponse && e.status === 404) return [];
+          throw e;
+        });
+      this.cache.set(key, p);
+    }
+    return p;
+  }
+
+  /** `null` se il racconto non esiste (404) o non ha la forma minima. */
+  racconto(slug: string): Promise<Racconto | null> {
+    if (!/^[0-9]{4}-[0-9]{2}-[0-9]{2}-[a-z0-9-]+$/.test(slug)) return Promise.resolve(null);
+    const key = `racconti/${slug}.json`;
+    let p = this.cache.get(key) as Promise<Racconto | null> | undefined;
+    if (!p) {
+      p = firstValueFrom(this.http.get<unknown>(`/data/${key}`))
+        .then(parseRacconto)
         .catch((e: unknown) => {
           if (e instanceof HttpErrorResponse && e.status === 404) return null;
           throw e;

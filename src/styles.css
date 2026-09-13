@@ -665,3 +665,74 @@ tr.dettaglio td {
     animation: none !important;
   }
 }
+
+/* ---- racconti: elenco e lettura ------------------------------------- */
+
+.racconti-lista {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 1rem;
+}
+.racconti-lista li {
+  padding: 0.75rem 0.9rem;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+}
+.racconti-lista .card-titolo {
+  margin: 0.25rem 0;
+}
+.sinossi {
+  color: var(--fg-2);
+  font-style: italic;
+  margin: 0.35rem 0;
+}
+.racconto-testa,
+.racconto-coda,
+.lettura {
+  max-width: 36rem; /* ~65 caratteri di serif a 1.125rem */
+  margin-left: auto;
+  margin-right: auto;
+}
+.racconto-testa h1 {
+  font-size: 2rem;
+  margin-top: 0.5rem;
+}
+.lettura {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  font-size: 1.125rem;
+  line-height: 1.75;
+  hyphens: auto;
+}
+.lettura p {
+  margin: 0 0 1.1em;
+}
+.lettura .separatore {
+  text-align: center;
+  letter-spacing: 0.6em;
+  margin: 2.2em 0;
+  color: var(--fg-2);
+}
+.racconto-coda {
+  padding-top: 1rem;
+  border-top: 1px solid var(--line);
+}
+.racconto-coda .fatti {
+  padding-left: 1.2rem;
+  display: grid;
+  gap: 0.35rem;
+}
+details.bibbia {
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 0.5rem 0.9rem;
+}
+details.bibbia summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+details.bibbia[open] summary {
+  margin-bottom: 0.5rem;
+}
