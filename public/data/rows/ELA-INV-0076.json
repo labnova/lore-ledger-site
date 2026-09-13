@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-13",
+"discipline": [
+"agricoltura/allevamento",
+"zoologia/ittiologia"
+],
+"epoca_relativa": 0,
+"estrazione": 36,
+"fatti": [],
+"gancio": "Una famiglia scopre che il piano-vasca a cui è stata assegnata da generazioni corrisponde esattamente al proprio ceppo d'origine, e nessuno sa chi abbia deciso la corrispondenza.",
+"id": "ELA-INV-0076",
+"media": [],
+"nome": "La Vasca delle Nazioni Piccole",
+"nome_reale": "Acquacoltura policolturale (specie diverse nella stessa vasca)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "L'acquacoltura policolturale mette insieme specie diverse che si dividono i compiti di una stessa vasca, ognuna a un livello d'acqua; gli anelli del convoglio replicano lo stesso principio con i ceppi umani nelle cabine, assegnando i piani non per censo ma per quale specie di pesce ciascuna famiglia è tenuta ad allevare.",
+"universo": "elabverse"
+}

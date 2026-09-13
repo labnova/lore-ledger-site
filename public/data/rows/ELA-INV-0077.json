@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-13",
+"discipline": [
+"agricoltura/allevamento",
+"zoologia/ittiologia"
+],
+"epoca_relativa": 0,
+"estrazione": 36,
+"fatti": [],
+"gancio": "Un tecnico ignora l'allarme della linea laterale di scafo perché suona troppe volte per un derelitto che dovrebbe essere vuoto.",
+"id": "ELA-INV-0077",
+"media": [],
+"nome": "L'Orecchio Lungo il Fianco",
+"nome_reale": "Linea laterale (organo di senso dei pesci per le vibrazioni nell'acqua)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La linea laterale permette al pesce di sentire le vibrazioni dell'acqua lungo tutto il corpo senza doversi girare; gli ingegneri di scafo hanno rivestito i corridoi più vecchi con sensori pensati sullo stesso principio, così il convoglio \"sente\" un boccaporto che sta per cedere molto prima che qualcuno lo veda cedere.",
+"universo": "elabverse"
+}

@@ -1651,5 +1651,27 @@
 "righe_prodotte": [
 "NEO-CON-0002"
 ]
+},
+{
+"campi_forzati": [],
+"chiavi": {
+"manca": {
+"gadget": 1,
+"personaggi": 0,
+"regione": true
+},
+"regione": "Tallinn",
+"universo": "hackverse"
+},
+"cluster_target": "HAC-INV-0001",
+"created": "2026-09-13",
+"esito": "ok",
+"estrazione": 35,
+"forzata": false,
+"lotto": "lotto-maturazione",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"HAC-GAD-0001"
+]
 }
 ]

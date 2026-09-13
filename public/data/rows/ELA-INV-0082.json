@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-13",
+"discipline": [
+"agricoltura/allevamento",
+"zoologia/ittiologia"
+],
+"epoca_relativa": 0,
+"estrazione": 36,
+"fatti": [],
+"gancio": "Un adulto scopre di condividere il proprio numero d'orecchio con un capo di bestiame macellato lo stesso giorno della sua nascita, nello stesso registro.",
+"id": "ELA-INV-0082",
+"media": [],
+"nome": "L'Orecchio Numerato",
+"nome_reale": "Anagrafe zootecnica (registro con marca auricolare per ogni capo di bestiame)",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "L'anagrafe zootecnica assegna a ogni capo un numero fissato all'orecchio, cosicché nessun animale possa cambiare identità; a bordo la stessa marca si applica ai neonati degli anelli più poveri, con la scusa che un numero all'orecchio non si perde come un documento di cabina.",
+"universo": "elabverse"
+}

@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-13",
+"discipline": [
+"agricoltura/allevamento",
+"zoologia/ittiologia"
+],
+"epoca_relativa": 0,
+"estrazione": 36,
+"fatti": [],
+"gancio": "Un capofamiglia si accorge che l'asta usata per lui è più lunga di un dito rispetto a quella ufficiale, e non riesce a provarlo davanti all'assemblea.",
+"id": "ELA-INV-0080",
+"media": [],
+"nome": "L'Asta che Non Mente",
+"nome_reale": "Ittiometro (asta graduata per misurare la lunghezza dei pesci)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "L'ittiometro misura un pesce senza lasciargli scampo per crescere sulla carta; gli esattori del Banco portano un'asta identica alle assemblee di anello, e chi viene misurato \"sotto soglia\" viene dichiarato debitore a prescindere da cosa dica il proprio registro.",
+"universo": "elabverse"
+}

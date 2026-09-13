@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-13",
+"discipline": [
+"agricoltura/allevamento",
+"zoologia/ittiologia"
+],
+"epoca_relativa": 0,
+"estrazione": 36,
+"fatti": [],
+"gancio": "Un equipaggio recuperato da un derelitto resta in quarantena molto più a lungo del previsto, perché il loro debito continua a crescere anche da isolati.",
+"id": "ELA-INV-0079",
+"media": [],
+"nome": "L'Acqua che Aspetta",
+"nome_reale": "Vasca di quarantena per pesci appena arrivati",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Prima di unire un pesce nuovo alla vasca comune lo si isola in acqua separata per vedere cosa porta con sé; il convoglio fa lo stesso con ogni derelitto agganciato, tenendolo in un anello isolato finché non si scopre se porta solo rottami o anche i debiti di qualcun altro.",
+"universo": "elabverse"
+}

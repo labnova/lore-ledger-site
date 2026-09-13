@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-13",
+"discipline": [
+"agricoltura/allevamento",
+"zoologia/ittiologia"
+],
+"epoca_relativa": 0,
+"estrazione": 36,
+"fatti": [],
+"gancio": "Una mandria viene fatta migrare in anticipo per sottrarla a un pignoramento, e il pastore deve inventare una stagione che non esiste per giustificarlo.",
+"id": "ELA-INV-0074",
+"media": [],
+"nome": "Il Cammino Senza Stagioni",
+"nome_reale": "Transumanza stagionale del bestiame",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La transumanza spostava le greggi tra pascoli alti e bassi seguendo il calendario del sole; a bordo, dove il sole non tramonta né sorge, i pastori degli anelli spostano il bestiame tra scafi caldi e freddi seguendo il calendario dei debiti da saldare, e chiamano ancora \"estate\" l'anello dove si paga meno.",
+"universo": "elabverse"
+}

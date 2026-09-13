@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-13",
+"discipline": [
+"agricoltura/allevamento",
+"zoologia/ittiologia"
+],
+"epoca_relativa": 0,
+"estrazione": 36,
+"fatti": [],
+"gancio": "Un tenutario trova nel registro del bestiame il nome di un antenato che il registro dei debiti giura non essere mai esistito.",
+"id": "ELA-INV-0072",
+"media": [],
+"nome": "Il Libro dei Molti Padri",
+"nome_reale": "Registro genealogico del bestiame (herd book)",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "I libri genealogici tracciavano le linee di sangue del bestiame per garantirne il valore; a bordo il Banco delle Molte Mani registra allo stesso modo le linee di debito delle famiglie, e i tenutari degli anelli-stalla hanno scoperto che le due genealogie, sangue e debito, coincidono riga per riga da generazioni.",
+"universo": "elabverse"
+}

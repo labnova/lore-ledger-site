@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-13",
+"discipline": [
+"agricoltura/allevamento",
+"zoologia/ittiologia"
+],
+"epoca_relativa": 0,
+"estrazione": 36,
+"fatti": [],
+"gancio": "Due innamorati scoprono che il loro coefficiente di debito supera la soglia che il Banco riserva al bestiame, e il matrimonio viene negato per lo stesso motivo di un accoppiamento tra consanguinei.",
+"id": "ELA-INV-0078",
+"media": [],
+"nome": "Il Numero che Pesa il Sangue",
+"nome_reale": "Coefficiente di consanguineità (calcolo del sangue condiviso tra riproduttori imparentati)",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il coefficiente di consanguineità calcola quanto sangue condiviso porta una coppia di animali imparentati; il Banco delle Molte Mani applica la stessa formula ai matrimoni tra debitori dello stesso anello, perché un debito troppo incrociato, come un sangue troppo incrociato, produce fragilità che nessuno vuole ereditare.",
+"universo": "elabverse"
+}

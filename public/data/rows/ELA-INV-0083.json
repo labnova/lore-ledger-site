@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-13",
+"discipline": [
+"agricoltura/allevamento",
+"zoologia/ittiologia"
+],
+"epoca_relativa": 0,
+"estrazione": 36,
+"fatti": [],
+"gancio": "Una famiglia nota che il proprio anello non viene mai fatto riposare come gli altri, e comincia a sospettare di essere considerata terreno già perduto.",
+"id": "ELA-INV-0083",
+"media": [],
+"nome": "Il Giro che Non Si Ferma Mai",
+"nome_reale": "Pascolo turnato (rotazione dei terreni di pascolo per non esaurirli)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il pascolo turnato sposta il bestiame prima che un campo si esaurisca, lasciandolo riposare mentre un altro lavora; gli anelli del convoglio applicano la stessa rotazione alle famiglie assegnate ai turni di guardia più duri, cosicché nessun anello venga mai \"consumato\" fino a restare sterile.",
+"universo": "elabverse"
+}

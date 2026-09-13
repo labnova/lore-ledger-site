@@ -1666,6 +1666,21 @@
 "to": "ELA-REG-konya"
 },
 {
+"from": "HAC-GAD-0001",
+"kind": "invenzione",
+"to": "HAC-INV-0001"
+},
+{
+"from": "HAC-GAD-0001",
+"kind": "personaggio",
+"to": "HAC-PER-0001"
+},
+{
+"from": "HAC-GAD-0001",
+"kind": "regione",
+"to": "HAC-REG-tallinn"
+},
+{
 "from": "NEO-GAD-0001",
 "kind": "invenzione",
 "to": "NEO-INV-0011"
@@ -3416,6 +3431,78 @@
 "universo": "elabverse"
 },
 {
+"id": "ELA-INV-0072",
+"tipo": "invenzione",
+"titolo": "Il Libro dei Molti Padri",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0073",
+"tipo": "invenzione",
+"titolo": "Le Pietre che Contano gli Anni",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0074",
+"tipo": "invenzione",
+"titolo": "Il Cammino Senza Stagioni",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0075",
+"tipo": "invenzione",
+"titolo": "Il Marchio che Non Si Cancella",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0076",
+"tipo": "invenzione",
+"titolo": "La Vasca delle Nazioni Piccole",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0077",
+"tipo": "invenzione",
+"titolo": "L'Orecchio Lungo il Fianco",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0078",
+"tipo": "invenzione",
+"titolo": "Il Numero che Pesa il Sangue",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0079",
+"tipo": "invenzione",
+"titolo": "L'Acqua che Aspetta",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0080",
+"tipo": "invenzione",
+"titolo": "L'Asta che Non Mente",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0081",
+"tipo": "invenzione",
+"titolo": "L'Acqua che Non Se Ne Va Mai",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0082",
+"tipo": "invenzione",
+"titolo": "L'Orecchio Numerato",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0083",
+"tipo": "invenzione",
+"titolo": "Il Giro che Non Si Ferma Mai",
+"universo": "elabverse"
+},
+{
 "id": "ELA-PER-0001",
 "tipo": "personaggio",
 "titolo": "Orsolya Pék",
@@ -3492,6 +3579,12 @@
 "tipo": "seme",
 "titolo": "seme ELA-INV-0005",
 "universo": "elabverse"
+},
+{
+"id": "HAC-GAD-0001",
+"tipo": "gadget",
+"titolo": "Sonda di Taratura per Valvole a Goccia",
+"universo": "hackverse"
 },
 {
 "id": "HAC-INV-0001",

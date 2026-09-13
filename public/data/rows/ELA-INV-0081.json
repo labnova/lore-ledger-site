@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-13",
+"discipline": [
+"agricoltura/allevamento",
+"zoologia/ittiologia"
+],
+"epoca_relativa": 0,
+"estrazione": 36,
+"fatti": [],
+"gancio": "Un tecnico dell'acqua trova nel filtro una traccia chimica che nessuna vasca del convoglio dovrebbe produrre, come se l'acqua venisse ancora da fuori.",
+"id": "ELA-INV-0081",
+"media": [],
+"nome": "L'Acqua che Non Se Ne Va Mai",
+"nome_reale": "Sistema di acquacoltura a ricircolo (RAS)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il sistema a ricircolo filtra e restituisce alla vasca la stessa acqua per anni, così che nulla si perda e nulla arrivi da fuori; il convoglio intero funziona secondo lo stesso principio, e i più superstiziosi credono che l'acqua bevuta oggi abbia già attraversato ogni bocca a bordo dal giorno del commit di divergenza.",
+"universo": "elabverse"
+}

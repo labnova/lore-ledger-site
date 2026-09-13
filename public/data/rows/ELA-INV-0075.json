@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-13",
+"discipline": [
+"agricoltura/allevamento",
+"zoologia/ittiologia"
+],
+"epoca_relativa": 0,
+"estrazione": 36,
+"fatti": [],
+"gancio": "Un ispettore trova sotto dieci strati di vernice il marchio originale di uno scafo che il registro ufficiale giura non sia mai stato un derelitto.",
+"id": "ELA-INV-0075",
+"media": [],
+"nome": "Il Marchio che Non Si Cancella",
+"nome_reale": "Marchiatura a fuoco del bestiame",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il marchio a fuoco imprimeva sulla pelle un segno di proprietà leggibile da lontano; nel convoglio la stessa tecnica marchia gli scafi orfani dei derelitti recuperati, cosicché un rottame trainato porti per sempre il segno di chi lo ha reclamato, anche dopo essere rivenduto dieci volte.",
+"universo": "elabverse"
+}

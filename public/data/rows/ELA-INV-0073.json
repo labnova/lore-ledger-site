@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-13",
+"discipline": [
+"agricoltura/allevamento",
+"zoologia/ittiologia"
+],
+"epoca_relativa": 0,
+"estrazione": 36,
+"fatti": [],
+"gancio": "Un ittiologo apre l'otolite di un pesce anziano e conta più cambi di rotta di quanti ne ammetta la sala di comando.",
+"id": "ELA-INV-0073",
+"media": [],
+"nome": "Le Pietre che Contano gli Anni",
+"nome_reale": "Lettura degli otoliti (anelli di crescita nell'orecchio dei pesci)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Gli otoliti dei pesci accumulano un anello per ogni stagione vissuta, come tronchi d'albero chiusi in un orecchio; nelle vasche del convoglio, dove non esistono stagioni, gli ittiologi hanno insegnato ai pesci a depositare un anello per ogni cambio di rotta, trasformando le loro teste in registri di navigazione che nessun archivio ufficiale può correggere.",
+"universo": "elabverse"
+}
