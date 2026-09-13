@@ -1,0 +1,23 @@
+{
+"appare_in": [],
+"canale": "qr_oggetto",
+"corpo": "DOCUMENTO INTERNO — allegato alla scheda di sviluppo NEO-PER-0025.\nNon destinato alla stampa del Bestiario. Stampato in tiratura minima e\nincollato sotto forma di cartellino con QR sul retro delle repliche in\npeltro della Ruota dei Sette Animali vendute come oggetto da collezione.\nChi legge questa nota inquadrando il codice non sta leggendo un\ndocumento di Calvenna: sta leggendo noi.\n\nYui Manasaguchi doveva essere, nella prima versione della scheda, un\ncavaliere che bara. Punto e basta: falsifica le quote, qualcuno prima o\npoi la scopre, fine della storia. L'abbiamo scartata perché \"bara ed è\nbrava a barare\" non è un personaggio, è una didascalia. La versione che\nè rimasta è nata da una domanda più scomoda: cosa succede se chi\nfalsifica il registro non riesce più a fidarsi nemmeno della propria\nmemoria? Da lì è arrivato il difetto \"smemorata\", e da lì il gancio: ha\ngià firmato due volte lo stesso verbale di sorveglianza sulla Ruota, e\nnon se n'è accorta.\n\nNon è un dettaglio decorativo. Nel Bestiario delle Quote (NEO-INV-0009)\nla macchina che Yui sorveglia stampa le probabilità come fossero\nversetti: un sistema che pretende oggettività religiosa attorno a un\nmeccanismo che, in realtà, qualcuno può correggere a mano. Yui è la\nprova vivente che il sistema può essere corrotto anche da chi dovrebbe\nproteggerlo, e che la corruzione non richiede malafede continua — basta\nun vuoto di memoria, ripetuto, scambiato per abitudine. Per questo la\nsua credenza spirituale (\"le macchine sognano\") non è ornamento new\nage: è la scusa che si è costruita per non chiamare col suo nome il\nproprio smemoramento. Se la Ruota sogna, allora dimenticare non è\ncolpa sua.\n\nAbbiamo scelto la casta dei cavalieri apposta a Calvenna, dove la casta\ndominante attesa sarebbe quella artigiana: un cavaliere fuori posto,\nche deve sorvegliare un macchinario tecno-magico che non capisce fino\nin fondo, ha meno strumenti per accorgersi dell'errore e più motivi\nistituzionali per insabbiarlo se lo notasse. Non sappiamo ancora se\nqualcuno, dentro Calvenna, si accorgerà delle due firme identiche prima\nche lo faccia lei. Non l'abbiamo deciso per non chiuderci la porta di\nun innesto futuro: un testimone che confronta i verbali resta un gancio\naperto, non un buco di sceneggiatura.\n",
+"created": "2026-09-13",
+"epoca_relativa": 0,
+"estrazione": 34,
+"fatti": [],
+"formato": "documento_ritrovato",
+"id": "NEO-CON-0002",
+"madre_id": null,
+"medium": "fisico",
+"parent_id": null,
+"regione": "Calvenna",
+"relazione": null,
+"schema_version": 1,
+"sorgente_id": "NEO-PER-0025",
+"status": "canon",
+"tipo": "contenuto",
+"titolo": "Nota di redazione: perché Yui firma due volte lo stesso verbale",
+"universo": "neofeudal",
+"veridicita": "making_of"
+}

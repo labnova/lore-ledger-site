@@ -1578,6 +1578,20 @@
 },
 {
 "appare_in": [],
+"chiavi": "fisico · qr_oggetto · documento_ritrovato",
+"created": "2026-09-13",
+"estrazione": 34,
+"id": "NEO-CON-0002",
+"parent_id": null,
+"regione": "Calvenna",
+"relazione": null,
+"sommario": "Nota di redazione: perché Yui firma due volte lo stesso verbale",
+"tipo": "contenuto",
+"titolo": "Nota di redazione: perché Yui firma due volte lo stesso verbale",
+"universo": "neofeudal"
+},
+{
+"appare_in": [],
 "chiavi": "video_lungo · twitch · making_of",
 "created": "2026-09-13",
 "estrazione": 18,

@@ -1628,5 +1628,28 @@
 "CYB-GAD-0020",
 "CYB-INV-0027"
 ]
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"NEO-PER-0025",
+"NEO-INV-0009"
+],
+"chiavi": {
+"canale": "qr_oggetto",
+"formato": "documento_ritrovato",
+"medium": "fisico",
+"sorgente_id": "NEO-PER-0025",
+"veridicita": "making_of"
+},
+"created": "2026-09-13",
+"esito": "ok",
+"estrazione": 34,
+"forzata": false,
+"lotto": "lotto-contenuti",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"NEO-CON-0002"
+]
 }
 ]

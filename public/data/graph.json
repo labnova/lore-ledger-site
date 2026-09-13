@@ -2461,6 +2461,16 @@
 "to": "NEO-REG-calvenna"
 },
 {
+"from": "NEO-CON-0002",
+"kind": "sorgente",
+"to": "NEO-PER-0025"
+},
+{
+"from": "NEO-CON-0002",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
 "from": "STE-CON-0001",
 "kind": "sorgente",
 "to": "STE-INV-0008"
@@ -3829,6 +3839,12 @@
 "id": "NEO-CON-0001",
 "tipo": "contenuto",
 "titolo": "Come nasce una che non ci crede: il making-of di Nina Szabó",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-CON-0002",
+"tipo": "contenuto",
+"titolo": "Nota di redazione: perché Yui firma due volte lo stesso verbale",
 "universo": "neofeudal"
 },
 {
