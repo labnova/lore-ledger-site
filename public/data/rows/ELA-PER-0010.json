@@ -14,11 +14,13 @@
 "gancio": "Il suo prossimo rapporto falsificato deve coprire una lettura che, se autentica, dimostrerebbe che l'invenzione non funziona come il convoglio crede.",
 "id": "ELA-PER-0010",
 "invenzione_id": "ELA-INV-0005",
+"media": [],
 "nome": "Greta",
 "parent_id": null,
 "rapporto": "falsifica",
 "regione": "Konya",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "leone",
 "spirituale": {

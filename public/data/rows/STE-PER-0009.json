@@ -16,11 +16,13 @@
 "gancio": "Teme lo strumento perché fu lei a suonarlo per prima l'anno del grande allagamento, e nessuno le crede più quando dice che stavolta il pericolo è reale.",
 "id": "STE-PER-0009",
 "invenzione_id": "STE-INV-0012",
+"media": [],
 "nome": "Layla",
 "parent_id": null,
 "rapporto": "teme",
 "regione": "Ledoskol",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "pesci",
 "spirituale": {

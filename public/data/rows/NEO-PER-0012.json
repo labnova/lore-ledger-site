@@ -14,11 +14,13 @@
 "gancio": "Copista minore della Selva delle Puntate, corregge le quote scritte nel registro astrale prima che i signori le leggano, e nessuno gli ha mai chiesto perché coincidano sempre con la bestia giusta.",
 "id": "NEO-PER-0012",
 "invenzione_id": "NEO-INV-0012",
+"media": [],
 "nome": "Kaan",
 "parent_id": null,
 "rapporto": "falsifica",
 "regione": "Vasperdine",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "gemelli",
 "spirituale": {

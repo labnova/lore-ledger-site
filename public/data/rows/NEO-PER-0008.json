@@ -17,11 +17,13 @@
 "gancio": "Vende copie del Bestiario con quote inventate ai contadini; le quote inventate cominciano ad avverarsi. La Confraternita del Pelo e della Piuma (NEO-INV-0020) la arruola, o la elimina.",
 "id": "NEO-PER-0008",
 "invenzione_id": "NEO-INV-0009",
+"media": [],
 "nome": "Imani",
 "parent_id": null,
 "rapporto": "falsifica",
 "regione": "Calvenna",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "mani macchiate di pigmento",
 "spirituale": {

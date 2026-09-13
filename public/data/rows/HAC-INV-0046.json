@@ -10,6 +10,7 @@
 "fatti": [],
 "gancio": "Un broker si accorge che le coordinate più richieste del suo listino coincidono sempre con i parcheggi degli ospedali che hanno appena dichiarato la lista d'attesa piena.",
 "id": "HAC-INV-0046",
+"media": [],
 "nome": "La Mappa dei Corpi Caldi",
 "nome_reale": "Aggregazione dei log di volo notturno dei droni agricoli in una mappa di domanda di trapianto fuori rete",
 "parent_id": "HAC-INV-0020",

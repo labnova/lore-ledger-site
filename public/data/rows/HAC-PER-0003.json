@@ -17,11 +17,13 @@
 "gancio": "Solo il suo compagno segreto sa che Bashir ha continuato a vendere quel lotto anche dopo il terzo avviso, e ora è l'unico che potrebbe denunciarlo.",
 "id": "HAC-PER-0003",
 "invenzione_id": "HAC-INV-0001",
+"media": [],
 "nome": "Bashir",
 "parent_id": null,
 "rapporto": "teme",
 "regione": "HAC-REG-tallinn",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "toro",
 "spirituale": {

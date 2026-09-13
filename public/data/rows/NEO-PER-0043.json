@@ -17,11 +17,13 @@
 "gancio": "Sua moglie ha smesso di chiedergli di pregare sui falchi, ma continua a cucire lei stessa gli amuleti che lui finge di non vedere infilati nelle gabbie.",
 "id": "NEO-PER-0043",
 "invenzione_id": "NEO-INV-0013",
+"media": [],
 "nome": "Bogdan",
 "parent_id": null,
 "rapporto": "costruita",
 "regione": "Vranidol",
 "relazione": null,
+"ritratto": null,
 "segno": "ariete",
 "spirituale": {
 "credenza": "il crollo come giudizio",

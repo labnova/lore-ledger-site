@@ -10,6 +10,7 @@
 "fatti": [],
 "gancio": "L'ispettore che doveva certificare il freno lo trova già bloccato in posizione aperta, con la vernice ancora fresca sopra la leva.",
 "id": "STE-INV-0025",
+"media": [],
 "nome": "La Leva del Silenzio",
 "nome_reale": "Freno a leva installato su ogni ruota idraulica dopo i tagli notturni non registrati",
 "parent_id": "STE-INV-0015",

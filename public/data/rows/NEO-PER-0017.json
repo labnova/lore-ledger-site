@@ -17,11 +17,13 @@
 "gancio": "L'ha costruita lui, vent'anni fa, come atto di devozione al lavoro; ora la teme più di chiunque scommetta, e nessuno gli chiede mai il suo parere sul rilancio di oggi.",
 "id": "NEO-PER-0017",
 "invenzione_id": "NEO-INV-0012",
+"media": [],
 "nome": "Eneko",
 "parent_id": null,
 "rapporto": "costruita",
 "regione": "Vasperdine",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "pesci",
 "spirituale": {

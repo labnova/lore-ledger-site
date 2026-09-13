@@ -10,6 +10,7 @@
 "fatti": [],
 "gancio": "Un negozio di ottica scopre che il suo specchio virtuale è stato usato, nell'ultimo mese, soprattutto da persone che non hanno mai comprato nulla.",
 "id": "HAC-INV-0040",
+"media": [],
 "nome": "Lo Specchio che Consiglia",
 "nome_reale": "Algoritmo di raccomandazione della montatura in base al volto (try-on virtuale)",
 "parent_id": null,

@@ -17,11 +17,13 @@
 "gancio": "Un giovane broker le chiede di insegnargli a \"essere coraggiosi come lei una volta\", proprio mentre Signe sta finendo di falsificare l'ultimo timestamp della notte.",
 "id": "HAC-PER-0005",
 "invenzione_id": "HAC-INV-0001",
+"media": [],
 "nome": "Signe",
 "parent_id": null,
 "rapporto": "falsifica",
 "regione": "HAC-REG-tallinn",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "cancro",
 "spirituale": {

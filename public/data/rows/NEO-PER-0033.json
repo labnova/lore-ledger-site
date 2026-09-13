@@ -17,11 +17,13 @@
 "gancio": "Lavora accanto a Kombo Gurudumu alla Ruota dei Sette Animali; ha iniziato a indossare guanti dopo aver sognato tre notti di fila lo stesso animale vincente.",
 "id": "NEO-PER-0033",
 "invenzione_id": "NEO-INV-0009",
+"media": [],
 "nome": "Halima",
 "parent_id": "NEO-PER-0007",
 "rapporto": "teme",
 "regione": "Calvenna",
 "relazione": "espansione",
+"ritratto": null,
 "schema_version": 1,
 "segno": "capricorno",
 "spirituale": {

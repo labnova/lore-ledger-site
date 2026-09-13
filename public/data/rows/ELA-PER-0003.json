@@ -17,11 +17,13 @@
 "gancio": "Teme l'Eco della Materia perché l'ultima volta che l'ha usato la voce nella rete le ha sussurrato un nome che non ha mai detto a nessuno.",
 "id": "ELA-PER-0003",
 "invenzione_id": "ELA-INV-0005",
+"media": [],
 "nome": "Tuğba",
 "parent_id": null,
 "rapporto": "teme",
 "regione": "Konya",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "acquario",
 "spirituale": {

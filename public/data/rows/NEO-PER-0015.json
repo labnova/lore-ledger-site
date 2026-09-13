@@ -14,11 +14,13 @@
 "gancio": "Diplomatica tra i cacciatori che si contendono il turno di puntata, invoca il culto degli antenati per calmare le liti; nessuno sa che lo fa a orecchio, cambiando versione ogni volta.",
 "id": "NEO-PER-0015",
 "invenzione_id": "NEO-INV-0012",
+"media": [],
 "nome": "Britt",
 "parent_id": null,
 "rapporto": "usa",
 "regione": "Vasperdine",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "sagittario",
 "spirituale": {

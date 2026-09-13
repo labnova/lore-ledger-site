@@ -17,11 +17,13 @@
 "gancio": "Distribuisce ai pellegrini di passaggio a Calvenna le copie del Bestiario stampate da Amani Kiwele; ne tiene una segnata a matita per sé, quella vera.",
 "id": "NEO-PER-0032",
 "invenzione_id": "NEO-INV-0009",
+"media": [],
 "nome": "Juma",
 "parent_id": "NEO-PER-0002",
 "rapporto": "vende",
 "regione": "Calvenna",
 "relazione": "espansione",
+"ritratto": null,
 "schema_version": 1,
 "segno": "leone",
 "spirituale": {

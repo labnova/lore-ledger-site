@@ -17,11 +17,13 @@
 "gancio": "Ha promesso pubblicamente, nel suo tempio, che il lotto di Goccia Cieca sarà \"l'ultimo\", la stessa promessa che ha già fatto tre volte quest'anno.",
 "id": "HAC-PER-0010",
 "invenzione_id": "HAC-INV-0001",
+"media": [],
 "nome": "Xabier",
 "parent_id": null,
 "rapporto": "vende",
 "regione": "HAC-REG-tallinn",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "scorpione",
 "spirituale": {

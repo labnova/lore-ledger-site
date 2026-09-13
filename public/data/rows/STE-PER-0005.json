@@ -16,11 +16,13 @@
 "gancio": "Falsifica i numeri dello strumento perché crede che un crollo vero sarebbe un giudizio meritato, e non vuole essere lui a fermarlo con un allarme in tempo.",
 "id": "STE-PER-0005",
 "invenzione_id": "STE-INV-0012",
+"media": [],
 "nome": "Zaid",
 "parent_id": null,
 "rapporto": "falsifica",
 "regione": "Ledoskol",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "gemelli",
 "spirituale": {

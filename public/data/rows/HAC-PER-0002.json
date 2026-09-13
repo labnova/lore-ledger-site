@@ -17,11 +17,13 @@
 "gancio": "Quando un cliente gli chiede la provenienza esatta del lotto di Goccia Cieca, per la prima volta in anni Vladimir non ha una risposta pronta.",
 "id": "HAC-PER-0002",
 "invenzione_id": "HAC-INV-0001",
+"media": [],
 "nome": "Vladimir",
 "parent_id": null,
 "rapporto": "teme",
 "regione": "HAC-REG-tallinn",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "bilancia",
 "spirituale": {

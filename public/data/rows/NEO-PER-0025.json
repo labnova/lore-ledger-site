@@ -17,11 +17,13 @@
 "gancio": "Incaricato di sorvegliare la Ruota dei Sette Animali, sospetta che la macchina sogni le sue stesse dimenticanze; ha già firmato due volte lo stesso verbale senza accorgersene.",
 "id": "NEO-PER-0025",
 "invenzione_id": "NEO-INV-0009",
+"media": [],
 "nome": "Yui",
 "parent_id": null,
 "rapporto": "falsifica",
 "regione": "Calvenna",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "capricorno",
 "spirituale": {

@@ -19,11 +19,13 @@
 "gancio": "Ha costruito lei il telaio che regge il Barometro delle Cantine nella gondola di comando; da vedova, dice che è l'unica cosa che le resta da tenere in equilibrio.",
 "id": "STE-PER-0004",
 "invenzione_id": "STE-INV-0012",
+"media": [],
 "nome": "Lyudmila",
 "parent_id": null,
 "rapporto": "costruita",
 "regione": "Ledoskol",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "scorpione",
 "spirituale": {

@@ -17,11 +17,13 @@
 "gancio": "Apprendista di Zawadi Mchana; lei gli ha affidato per un giorno la lente non molata che tiene per sé, dicendo solo di non guardarci dentro. Lui l'ha guardata.",
 "id": "NEO-PER-0021",
 "invenzione_id": "NEO-INV-0009",
+"media": [],
 "nome": "Faraji",
 "parent_id": "NEO-PER-0004",
 "rapporto": "usa",
 "regione": "Calvenna",
 "relazione": "espansione",
+"ritratto": null,
 "schema_version": 1,
 "segno": "vergine",
 "spirituale": {

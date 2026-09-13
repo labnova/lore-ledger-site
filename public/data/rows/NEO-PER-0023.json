@@ -17,11 +17,13 @@
 "gancio": "Scudiero promosso a cavaliere per anzianità, corregge di nascosto le quote del Bestiario delle Quote per conto di chi lo intimidisce; teme che la voce nella rete abbia già contato le sue falsificazioni.",
 "id": "NEO-PER-0023",
 "invenzione_id": "NEO-INV-0009",
+"media": [],
 "nome": "Mwangi",
 "parent_id": null,
 "rapporto": "falsifica",
 "regione": "Calvenna",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "sagittario",
 "spirituale": {

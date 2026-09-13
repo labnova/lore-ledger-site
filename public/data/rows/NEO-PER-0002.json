@@ -17,11 +17,13 @@
 "gancio": "Tipografa del clero; compone i versetti con caratteri dell'era precedente che crede santi. Sa che i caratteri si riallineano da soli di notte. Un mattino trova composto un versetto che non ha impaginato.",
 "id": "NEO-PER-0002",
 "invenzione_id": "NEO-INV-0009",
+"media": [],
 "nome": "Amani",
 "parent_id": null,
 "rapporto": "costruita",
 "regione": "Calvenna",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "zoppia",
 "spirituale": {

@@ -17,11 +17,13 @@
 "gancio": "Costruttore di manovelle per la Ruota dei Sette Animali (NEO-INV-0017); i simboli sono copiati dal Bestiario. Si accorge che la Ruota esce più spesso sugli animali con quote alte nel libro: la macchina sta leggendo il libro, non il contrario.",
 "id": "NEO-PER-0007",
 "invenzione_id": "NEO-INV-0009",
+"media": [],
 "nome": "Kombo",
 "parent_id": null,
 "rapporto": "falsifica",
 "regione": "Calvenna",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "gobba da banco",
 "spirituale": {

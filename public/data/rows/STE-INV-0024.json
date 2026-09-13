@@ -10,6 +10,7 @@
 "fatti": [],
 "gancio": "Un archivista nota che il numero delle casse non reclamate diminuisce ogni anno di una sola unità, sempre la stessa data del ritrovamento del sommozzatore.",
 "id": "STE-INV-0024",
+"media": [],
 "nome": "Il Libro degli Annegati",
 "nome_reale": "Registro delle casse non reclamate aggiornato dalla gilda del freddo ogni volta che una cantina sommersa viene ispezionata",
 "parent_id": "STE-INV-0009",

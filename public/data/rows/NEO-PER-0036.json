@@ -14,11 +14,13 @@
 "gancio": "Ha notato che il falco che segna le puntate di suo padre perde quota ogni volta che lui ha rubato il mangime, e non sa se sia colpa sua o un segno.",
 "id": "NEO-PER-0036",
 "invenzione_id": "NEO-INV-0013",
+"media": [],
 "nome": "Aleksandr",
 "parent_id": null,
 "rapporto": "usa",
 "regione": "Vranidol",
 "relazione": null,
+"ritratto": null,
 "segno": "leone",
 "spirituale": {
 "credenza": "il cielo amministrato",

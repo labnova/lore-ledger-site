@@ -10,6 +10,7 @@
 "fatti": [],
 "gancio": "Un'ispezione sanitaria trova un registro con dodici nomi e un solo calendario, tutti in \"riposo\" a turno, mai nello stesso giorno.",
 "id": "HAC-INV-0043",
+"media": [],
 "nome": "Il Campo Che Non Si Ferma Mai",
 "nome_reale": "Rotazione coordinata su più appezzamenti (mai tutti in riposo insieme)",
 "parent_id": "HAC-INV-0006",

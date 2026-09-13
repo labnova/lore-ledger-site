@@ -10,6 +10,7 @@
 "fatti": [],
 "gancio": "Un tecnico di laboratorio nota che due cliniche in città diverse hanno scartato lo stesso donatore nello stesso minuto, prima ancora che l'ospedale comunichi l'esito.",
 "id": "HAC-INV-0044",
+"media": [],
 "nome": "Il Listino delle Marze",
 "nome_reale": "Rivendita del dataset di compatibilità marza-organo a cliniche di trapianto non accreditate",
 "parent_id": "HAC-INV-0002",

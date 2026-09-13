@@ -14,11 +14,13 @@
 "gancio": "Paggio destinato all'armatura, tiene i registri del culto nella bottega del Bestiario delle Quote; sa quali versetti sono quote truccate, ma non ha ancora deciso se dirlo al suo cavaliere.",
 "id": "NEO-PER-0022",
 "invenzione_id": "NEO-INV-0009",
+"media": [],
 "nome": "Zuberi",
 "parent_id": null,
 "rapporto": "costruita",
 "regione": "Calvenna",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "toro",
 "spirituale": {

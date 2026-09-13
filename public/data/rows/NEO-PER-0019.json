@@ -17,11 +17,13 @@
 "gancio": "Ha costruito il meccanismo che apre i recinti al mutare del cielo; ospitale con chiunque bussi, tranne che con chi le chiede come fa a sapere sempre l'ora esatta del rilancio.",
 "id": "NEO-PER-0019",
 "invenzione_id": "NEO-INV-0012",
+"media": [],
 "nome": "Ildikó",
 "parent_id": null,
 "rapporto": "costruita",
 "regione": "Vasperdine",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "capricorno",
 "spirituale": {

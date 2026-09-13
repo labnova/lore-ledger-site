@@ -17,11 +17,13 @@
 "gancio": "Ha ricontrollato tre volte lo stesso volo prima di firmarlo, e nel farlo ha trovato una cifra che qualcuno sperava restasse sepolta.",
 "id": "NEO-PER-0042",
 "invenzione_id": "NEO-INV-0013",
+"media": [],
 "nome": "Zuri",
 "parent_id": null,
 "rapporto": "costruita",
 "regione": "Vranidol",
 "relazione": null,
+"ritratto": null,
 "segno": "sagittario",
 "spirituale": {
 "credenza": "le stelle come registro",

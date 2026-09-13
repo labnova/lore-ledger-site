@@ -19,11 +19,13 @@
 "gancio": "Studia il meccanismo dello strumento per un brevetto che la renderebbe finalmente qualcuno alla gilda, mentre nasconde una relazione con l'ispettore che dovrebbe approvarlo.",
 "id": "STE-PER-0006",
 "invenzione_id": "STE-INV-0012",
+"media": [],
 "nome": "Svetlana",
 "parent_id": null,
 "rapporto": "studia",
 "regione": "Ledoskol",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "vergine",
 "spirituale": {

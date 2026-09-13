@@ -10,6 +10,7 @@
 "fatti": [],
 "gancio": "Un paziente riceve una notifica sul telefono due giorni prima che il suo stesso corpo gli dia un sintomo.",
 "id": "HAC-INV-0042",
+"media": [],
 "nome": "Il Rumore di Fondo",
 "nome_reale": "Manutenzione predittiva delle tubature (il sensore impara il rumore normale del flusso)",
 "parent_id": "HAC-INV-0007",

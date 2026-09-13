@@ -17,11 +17,13 @@
 "gancio": "Teme il Barometro delle Cantine perché una volta lo lesse mezz'ora troppo tardi, e il custode sotto la sua rotta si bagnò gli stivali prima che suonasse l'allarme.",
 "id": "STE-PER-0001",
 "invenzione_id": "STE-INV-0012",
+"media": [],
 "nome": "Tatiana",
 "parent_id": null,
 "rapporto": "teme",
 "regione": "Ledoskol",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "capricorno",
 "spirituale": {

@@ -14,11 +14,13 @@
 "gancio": "Ragazza di bottega, dodici anni, macina pigmenti; ha imparato a leggere di nascosto sui versetti. Chiede a Juma perché l'animale del sogno abbia la quota più bassa di tutte.",
 "id": "NEO-PER-0010",
 "invenzione_id": "NEO-INV-0009",
+"media": [],
 "nome": "Nina",
 "parent_id": null,
 "rapporto": "studia",
 "regione": "Calvenna",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "balbuzie",
 "spirituale": {

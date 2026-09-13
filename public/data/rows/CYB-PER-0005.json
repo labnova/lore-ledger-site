@@ -17,11 +17,13 @@
 "gancio": "Bertha controlla la propria copia di scorta ogni sera come un rituale, ma non ricorda più se l'ha già controllata o se sta solo ricordando di averlo fatto ieri.",
 "id": "CYB-PER-0005",
 "invenzione_id": "CYB-INV-0015",
+"media": [],
 "nome": "Bertha",
 "parent_id": null,
 "rapporto": "usa",
 "regione": "Rostkirche",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "leone",
 "spirituale": {

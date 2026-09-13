@@ -17,11 +17,13 @@
 "gancio": "Un giorno apre il log delle modifiche e trova una patch che non ha scritto lei, ma firmata con il suo stesso stile di codice.",
 "id": "HAC-PER-0004",
 "invenzione_id": "HAC-INV-0001",
+"media": [],
 "nome": "Elif",
 "parent_id": null,
 "rapporto": "costruita",
 "regione": "HAC-REG-tallinn",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "capricorno",
 "spirituale": {

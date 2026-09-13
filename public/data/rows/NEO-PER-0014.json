@@ -14,11 +14,13 @@
 "gancio": "Novizio addetto ai segnali di inizio caccia; teme la Selva delle Puntate più di ogni altra cosa, ma è l'unico a cui è affidato il corno che la apre.",
 "id": "NEO-PER-0014",
 "invenzione_id": "NEO-INV-0012",
+"media": [],
 "nome": "Hikaru",
 "parent_id": null,
 "rapporto": "teme",
 "regione": "Vasperdine",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "acquario",
 "spirituale": {

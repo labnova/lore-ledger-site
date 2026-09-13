@@ -17,11 +17,13 @@
 "gancio": "Miniaturista da vent'anni senza saper leggere i versetti; riconosce ogni animale dalla forma, e quello scritto a matita non l'ha mai visto. Decide di dipingerlo lo stesso, a memoria di un sogno.",
 "id": "NEO-PER-0001",
 "invenzione_id": "NEO-INV-0009",
+"media": [],
 "nome": "Juma",
 "parent_id": null,
 "rapporto": "usa",
 "regione": "Calvenna",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "dita mancanti",
 "spirituale": {

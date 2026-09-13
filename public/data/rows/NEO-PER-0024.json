@@ -17,11 +17,13 @@
 "gancio": "Studia il Bestiario delle Quote di notte, cercando nelle costellazioni la conferma che i versetti mentano; vedova di un cavaliere caduto in un duello deciso da una quota sbagliata.",
 "id": "NEO-PER-0024",
 "invenzione_id": "NEO-INV-0009",
+"media": [],
 "nome": "Dalila",
 "parent_id": null,
 "rapporto": "studia",
 "regione": "Calvenna",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "scorpione",
 "spirituale": {

@@ -17,11 +17,13 @@
 "gancio": "Conciatore; fornisce la pergamena, pelle di bestie perdenti comprate ai combattimenti. Scopre che una pagina è fatta con una bestia che secondo il libro doveva vincere.",
 "id": "NEO-PER-0003",
 "invenzione_id": "NEO-INV-0009",
+"media": [],
 "nome": "Baraka",
 "parent_id": null,
 "rapporto": "costruita",
 "regione": "Calvenna",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "dita mancanti",
 "spirituale": {

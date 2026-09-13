@@ -14,11 +14,13 @@
 "gancio": "Ha scritto tre volte lo stesso errore nel registro del maestro senza mai osare correggerlo ad alta voce.",
 "id": "NEO-PER-0044",
 "invenzione_id": "NEO-INV-0013",
+"media": [],
 "nome": "Ivan",
 "parent_id": null,
 "rapporto": "studia",
 "regione": "Vranidol",
 "relazione": null,
+"ritratto": null,
 "segno": "pesci",
 "spirituale": {
 "credenza": "il crollo come giudizio",

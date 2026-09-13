@@ -14,11 +14,13 @@
 "gancio": "Devota al credo che non ci sia nessun dio, solo registri, tiene un diario segreto di ogni sua sfuriata, come se anche la sua rabbia dovesse essere archiviata.",
 "id": "ELA-PER-0008",
 "invenzione_id": "ELA-INV-0005",
+"media": [],
 "nome": "Ayşe",
 "parent_id": null,
 "rapporto": "usa",
 "regione": "Konya",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "scorpione",
 "spirituale": {

@@ -17,11 +17,13 @@
 "gancio": "Fra' Tumaini, tecno-mago di corte addetto alla manutenzione delle reliquie; sa che il Bestiario è un modello predittivo stampato e scrive lui le quote a matita quando il modello sbaglia. La matita è la parte umana di un oracolo che tutti credono divino.",
 "id": "NEO-PER-0009",
 "invenzione_id": "NEO-INV-0009",
+"media": [],
 "nome": "Tumaini",
 "parent_id": null,
 "rapporto": "costruita",
 "regione": "Calvenna",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "dita mancanti",
 "spirituale": {

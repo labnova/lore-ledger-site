@@ -17,11 +17,13 @@
 "gancio": "Un cliente si presenta con una ricevuta firmata da Pınar per una vendita che lei giura di non aver mai fatto.",
 "id": "ELA-PER-0004",
 "invenzione_id": "ELA-INV-0005",
+"media": [],
 "nome": "Pınar",
 "parent_id": null,
 "rapporto": "vende",
 "regione": "Konya",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "gemelli",
 "spirituale": {

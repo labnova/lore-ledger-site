@@ -10,6 +10,7 @@
 "fatti": [],
 "gancio": "Un tecnico nota che il log delle valvole segna un impulso ogni volta che in un ospedale a chilometri di distanza si apre un espianto.",
 "id": "HAC-INV-0001",
+"media": [],
 "nome": "Goccia Cieca",
 "nome_reale": "Irrigazione a goccia con controllo remoto (SCADA agricolo)",
 "parent_id": null,

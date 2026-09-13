@@ -17,11 +17,13 @@
 "gancio": "Ha iniziato a rifiutare i lotti in cui riconosce, dai pattern delle valvole, la stessa storia che si era immaginata per un cliente scomparso il mese prima.",
 "id": "HAC-PER-0008",
 "invenzione_id": "HAC-INV-0001",
+"media": [],
 "nome": "Nyota",
 "parent_id": null,
 "rapporto": "teme",
 "regione": "HAC-REG-tallinn",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "acquario",
 "spirituale": {

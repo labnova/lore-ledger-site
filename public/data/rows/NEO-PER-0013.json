@@ -17,11 +17,13 @@
 "gancio": "Vende alla porta della Selva le grazie contro il maltempo di caccia; da vedova, tiene per sé l'unica che non ha mai venduto, sperando che serva a qualcosa il giorno del rilancio.",
 "id": "NEO-PER-0013",
 "invenzione_id": "NEO-INV-0012",
+"media": [],
 "nome": "Halima",
 "parent_id": null,
 "rapporto": "vende",
 "regione": "Vasperdine",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "scorpione",
 "spirituale": {

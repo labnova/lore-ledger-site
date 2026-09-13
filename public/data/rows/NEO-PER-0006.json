@@ -17,11 +17,13 @@
 "gancio": "Madre Subira, ex allieva di Madre Iselda; rilega il Bestiario e cuce nel dorso un secondo indice che registra ogni animale nato dopo la stampa. L'indice dice che l'animale a matita è nato tre giorni fa.",
 "id": "NEO-PER-0006",
 "invenzione_id": "NEO-INV-0009",
+"media": [],
 "nome": "Subira",
 "parent_id": null,
 "rapporto": "costruita",
 "regione": "Calvenna",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "balbuzie",
 "spirituale": {

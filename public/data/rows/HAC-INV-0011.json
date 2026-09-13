@@ -10,6 +10,7 @@
 "fatti": [],
 "gancio": "Un broker rivende per errore lo stesso lotto due volte, un campo e un fegato.",
 "id": "HAC-INV-0011",
+"media": [],
 "nome": "Borsa della Sete",
 "nome_reale": "Mercato dei diritti d'acqua",
 "parent_id": null,

@@ -17,11 +17,13 @@
 "gancio": "Sposato con un altro cavaliere della stessa guarnigione, studia il Bestiario delle Quote convinto che il ciclo del ritorno vi sia scritto in codice; ha smesso di condividere le sue note con chiunque.",
 "id": "NEO-PER-0030",
 "invenzione_id": "NEO-INV-0009",
+"media": [],
 "nome": "Zuri",
 "parent_id": null,
 "rapporto": "studia",
 "regione": "Calvenna",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "bilancia",
 "spirituale": {

@@ -14,11 +14,13 @@
 "gancio": "Da quando l'Eco della Materia ha rivelato che lo scafo su cui è nata contiene tracce di un metallo mai estratto da nessun giacimento conosciuto, Orsolya rifiuta di calibrare lo strumento e nessuno sa perché.",
 "id": "ELA-PER-0001",
 "invenzione_id": "ELA-INV-0005",
+"media": [],
 "nome": "Orsolya",
 "parent_id": null,
 "rapporto": "teme",
 "regione": "Konya",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "capricorno",
 "spirituale": {

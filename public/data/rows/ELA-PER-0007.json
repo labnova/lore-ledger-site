@@ -14,11 +14,13 @@
 "gancio": "Un acquirente scopre per caso che Johanna non crede a una parola di quello che vende, e minaccia di dirlo a tutto il convoglio.",
 "id": "ELA-PER-0007",
 "invenzione_id": "ELA-INV-0005",
+"media": [],
 "nome": "Johanna",
 "parent_id": null,
 "rapporto": "vende",
 "regione": "Konya",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "pesci",
 "spirituale": {

@@ -17,11 +17,13 @@
 "gancio": "Soffiatrice di lenti con cui il clero verifica i versetti; le lenti mostrano sotto l'inchiostro un secondo testo. Ne conserva una non molata, per sé.",
 "id": "NEO-PER-0004",
 "invenzione_id": "NEO-INV-0009",
+"media": [],
 "nome": "Zawadi",
 "parent_id": null,
 "rapporto": "studia",
 "regione": "Calvenna",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "altissima",
 "spirituale": {

@@ -27,11 +27,13 @@
 "gancio": "Sa che lo strumento suona un'ora prima non per talento ma per un trucco che lei stessa ha nascosto negli ingranaggi, ma tacere davanti alla gilda le riesce naturale.",
 "id": "STE-PER-0002",
 "invenzione_id": "STE-INV-0012",
+"media": [],
 "nome": "Marina",
 "parent_id": null,
 "rapporto": "costruita",
 "regione": "Ledoskol",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "cancro",
 "spirituale": {

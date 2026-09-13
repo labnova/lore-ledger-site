@@ -10,6 +10,7 @@
 "fatti": [],
 "gancio": "Un contabile automatico interrompe la lettura di una serie di numeri di serie e ne stampa uno che non è mai stato emesso da nessun banco.",
 "id": "ELA-INV-0053",
+"media": [],
 "nome": "La Scrittura per Macchine Cieche",
 "nome_reale": "Carattere OCR per lettura ottica",
 "parent_id": null,

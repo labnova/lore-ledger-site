@@ -17,11 +17,13 @@
 "gancio": "Kaan ha smesso di chiederle il permesso prima di correggere le quote, e le correzioni sono diventate più esatte di quanto lei gli abbia mai insegnato.",
 "id": "NEO-PER-0035",
 "invenzione_id": "NEO-INV-0012",
+"media": [],
 "nome": "Elmas",
 "parent_id": "NEO-PER-0012",
 "rapporto": "teme",
 "regione": "Vasperdine",
 "relazione": "espansione",
+"ritratto": null,
 "schema_version": 1,
 "segno": "vergine",
 "spirituale": {

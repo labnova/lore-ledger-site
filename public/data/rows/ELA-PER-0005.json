@@ -17,11 +17,13 @@
 "gancio": "Ha scoperto una firma spettrale ricorrente che compare solo nei turni che salta, e non riesce a smettere di pensarci nemmeno mentre mangia.",
 "id": "ELA-PER-0005",
 "invenzione_id": "ELA-INV-0005",
+"media": [],
 "nome": "Fatma",
 "parent_id": null,
 "rapporto": "studia",
 "regione": "Konya",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "cancro",
 "spirituale": {

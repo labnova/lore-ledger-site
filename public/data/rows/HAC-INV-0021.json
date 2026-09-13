@@ -10,6 +10,7 @@
 "fatti": [],
 "gancio": "Un varco doganale segnala una \"corrispondenza sospetta\" su un passeggero che, secondo il sistema, ha due iridi leggermente diverse tra loro.",
 "id": "HAC-INV-0021",
+"media": [],
 "nome": "Tonalità Zero",
 "nome_reale": "Algoritmo di color-matching del fondotinta al tono di pelle",
 "parent_id": null,

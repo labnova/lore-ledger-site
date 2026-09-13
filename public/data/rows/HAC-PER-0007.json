@@ -14,11 +14,13 @@
 "gancio": "Un moderatore anonimo gli scrive in privato una sola riga, con lo stesso timestamp del suo primo commit, per dirgli di cancellare tutto prima che sia troppo tardi.",
 "id": "HAC-PER-0007",
 "invenzione_id": "HAC-INV-0001",
+"media": [],
 "nome": "Burak",
 "parent_id": null,
 "rapporto": "costruita",
 "regione": "HAC-REG-tallinn",
 "relazione": null,
+"ritratto": null,
 "schema_version": 1,
 "segno": "pesci",
 "spirituale": {

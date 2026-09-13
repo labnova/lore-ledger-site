@@ -17,11 +17,13 @@
 "gancio": "Ogni notte la segue di nascosto fino al Bestiario delle Quote, temendo che scopra chi era davvero suo padre prima che lo scopra lui stesso.",
 "id": "NEO-PER-0034",
 "invenzione_id": "NEO-INV-0009",
+"media": [],
 "nome": "Juma",
 "parent_id": "NEO-PER-0024",
 "rapporto": "teme",
 "regione": "Calvenna",
 "relazione": "espansione",
+"ritratto": null,
 "schema_version": 1,
 "segno": "capricorno",
 "spirituale": {
