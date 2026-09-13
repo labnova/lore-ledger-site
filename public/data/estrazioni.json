@@ -1114,5 +1114,26 @@
 "STE-INV-0025",
 "STE-INV-0026"
 ]
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"CYB-INV-0003"
+],
+"chiavi": {
+"canale": "redbubble",
+"formato": "locandina",
+"medium": "fisico",
+"sorgente_id": "CYB-INV-0003",
+"veridicita": "making_of"
+},
+"created": "2026-09-13",
+"esito": "ok",
+"estrazione": 22,
+"forzata": false,
+"lotto": "lotto-contenuti",
+"righe_prodotte": [
+"CYB-CON-0001"
+]
 }
 ]

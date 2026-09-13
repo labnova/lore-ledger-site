@@ -1671,6 +1671,11 @@
 "to": "STE-REG-ledoskol"
 },
 {
+"from": "CYB-CON-0001",
+"kind": "sorgente",
+"to": "CYB-INV-0003"
+},
+{
 "from": "ELA-CON-0001",
 "kind": "sorgente",
 "to": "ELA-INV-0002"
@@ -1697,6 +1702,12 @@
 }
 ],
 "nodes": [
+{
+"id": "CYB-CON-0001",
+"tipo": "contenuto",
+"titolo": "Locandina \"Carne Impura\": il brief dietro la stampa",
+"universo": "cyberverse"
+},
 {
 "id": "CYB-INV-0001",
 "tipo": "invenzione",
