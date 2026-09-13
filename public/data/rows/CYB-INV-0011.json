@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"religione/teologia",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 15,
+"gancio": "Un uomo scopre di dover ancora due rate della sua indulgenza il giorno in cui il figlio entra in lista per lo stesso tipo di trapianto.",
+"id": "CYB-INV-0011",
+"nome": "L'Indulgenza Posticipata",
+"nome_reale": "Sistema di credito karmico per il debito da trapianto",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Chi riceve un organo firma un debito che si estingue solo con donazioni certificate alla curia del distretto, tracciate su un registro che nessuno fuori dal clero può consultare.",
+"universo": "cyberverse"
+}

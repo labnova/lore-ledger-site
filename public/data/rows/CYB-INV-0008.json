@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"religione/teologia",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 15,
+"gancio": "Un uomo scopre di essere scomunicato tre settimane prima di sapere che il suo corpo stava rigettando, perché il sistema della parrocchia era più veloce di quello dell'ospedale.",
+"id": "CYB-INV-0008",
+"nome": "La Scomunica da Rigetto",
+"nome_reale": "Registro ecclesiastico collegato allo stato immunitario del paziente",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La parrocchia del distretto tiene un registro che incrocia lo stato di fede con gli esiti dei trapianti, e chi rigetta un organo benedetto viene automaticamente segnato come scomunicato.",
+"universo": "cyberverse"
+}

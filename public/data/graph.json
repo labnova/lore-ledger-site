@@ -1133,6 +1133,126 @@
 ],
 "nodes": [
 {
+"id": "CYB-INV-0001",
+"tipo": "invenzione",
+"titolo": "Il Libro della Grazia",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0002",
+"tipo": "invenzione",
+"titolo": "Penitenza del Mattino",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0003",
+"tipo": "invenzione",
+"titolo": "Carne Impura",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0004",
+"tipo": "invenzione",
+"titolo": "Miracolo di Turno",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0005",
+"tipo": "invenzione",
+"titolo": "Il Confessionale Diagnostico",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0006",
+"tipo": "invenzione",
+"titolo": "L'Estrema Unzione a Distanza",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0007",
+"tipo": "invenzione",
+"titolo": "Il Reliquiario Immunitario",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0008",
+"tipo": "invenzione",
+"titolo": "La Scomunica da Rigetto",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0009",
+"tipo": "invenzione",
+"titolo": "La Chimera del Concilio",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0010",
+"tipo": "invenzione",
+"titolo": "Il Battesimo delle Cellule",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0011",
+"tipo": "invenzione",
+"titolo": "L'Indulgenza Posticipata",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0012",
+"tipo": "invenzione",
+"titolo": "Il Voto del Martire in Attesa",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0013",
+"tipo": "invenzione",
+"titolo": "Il Sacramento del Donatore Vivente",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0014",
+"tipo": "invenzione",
+"titolo": "Il Purgatorio dei Trapiantati",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0015",
+"tipo": "invenzione",
+"titolo": "L'Anima di Scorta",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0016",
+"tipo": "invenzione",
+"titolo": "L'Icona del Donatore",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0017",
+"tipo": "invenzione",
+"titolo": "Il Concilio dei Rigetti",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0018",
+"tipo": "invenzione",
+"titolo": "L'Unzione dei Tessuti",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0019",
+"tipo": "invenzione",
+"titolo": "Il Vangelo del Donatore",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0020",
+"tipo": "invenzione",
+"titolo": "Il Martirio Differito",
+"universo": "cyberverse"
+},
+{
 "id": "ELA-CON-0001",
 "tipo": "contenuto",
 "titolo": "Taccuino ritrovato: gli appunti dietro Ritratto di Voce",

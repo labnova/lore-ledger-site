@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"religione/teologia",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 15,
+"gancio": "Un ricevente comincia a pregare davanti alla teca del proprio donatore ogni volta che gli esami del sangue peggiorano, e giura che la fiala si scalda quando lui sta per rigettare.",
+"id": "CYB-INV-0007",
+"nome": "Il Reliquiario Immunitario",
+"nome_reale": "Conservazione degli anticorpi del donatore come reliquia",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Ogni donatore lascia dietro di sé una fiala di anticorpi conservata in una teca di vetro smerigliato, venerata come prova che qualcosa di lui ha continuato a combattere.",
+"universo": "cyberverse"
+}

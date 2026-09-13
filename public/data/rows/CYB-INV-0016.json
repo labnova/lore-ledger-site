@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"religione/teologia",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 15,
+"gancio": "Un ricevente si affeziona a un donatore che l'app ha in gran parte inventato, e rifiuta di credere ai parenti veri quando gli mostrano una foto diversa.",
+"id": "CYB-INV-0016",
+"nome": "L'Icona del Donatore",
+"nome_reale": "Applicazione di realtà aumentata per la biografia del donatore",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Inquadrando la cicatrice con l'app giusta appare il volto e la storia sintetica del donatore, ricostruita da un algoritmo che inventa dettagli agiografici quando i dati mancano.",
+"universo": "cyberverse"
+}

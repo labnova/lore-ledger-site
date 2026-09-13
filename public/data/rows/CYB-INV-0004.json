@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"religione/teologia",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 15,
+"gancio": "Un fedele riconosce nel proprio certificato lo stesso numero di lotto del fegato impiantato nell'uomo che lo aveva fatto pestare due mesi prima.",
+"id": "CYB-INV-0004",
+"nome": "Miracolo di Turno",
+"nome_reale": "Certificato di reliquia per organo bioprintato",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "L'ospedale-basilica vende ogni fegato uscito dalla stampante come reliquia autenticata, con tanto di santo patrono assegnato a caso da una stampante diversa da quella dell'organo.",
+"universo": "cyberverse"
+}

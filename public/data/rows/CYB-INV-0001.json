@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"religione/teologia",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 15,
+"gancio": "Un chirurgo di turno scopre che il sistema lo ha ribattezzato d'ufficio la notte prima, solo per far quadrare la priorità di un paziente ateo.",
+"id": "CYB-INV-0001",
+"nome": "Il Libro della Grazia",
+"nome_reale": "Algoritmo di allocazione organi per lista d'attesa",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il sistema che smista i cuori disponibili consulta prima il registro dei battesimi che quello delle cartelle cliniche, e chi non risulta segnato scende sempre in fondo alla coda.",
+"universo": "cyberverse"
+}

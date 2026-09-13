@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"religione/teologia",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 15,
+"gancio": "Un paziente perde la voce per un'infezione e per tre giorni resta senza farmaco, mentre il corpo comincia a rigettare in silenzio quello che la gola non può più chiedere.",
+"id": "CYB-INV-0002",
+"nome": "Penitenza del Mattino",
+"nome_reale": "Dispenser di immunosoppressori a sblocco vocale",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La clinica ha sostituito il consenso informato con una litania da recitare a voce alta ogni mattina, e solo il dispenser blindato riconosce l'intonazione giusta per lasciar cadere la pillola.",
+"universo": "cyberverse"
+}

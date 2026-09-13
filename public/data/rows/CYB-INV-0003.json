@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"religione/teologia",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 15,
+"gancio": "Un chierico anziano scopre solo dopo l'intervento che il documento firmato copriva anche i due trapianti precedenti, mai confessati a nessuno.",
+"id": "CYB-INV-0003",
+"nome": "Carne Impura",
+"nome_reale": "Assoluzione preventiva per xenotrapianto",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La curia del sottosuolo marchia come eresia i cuori di maiale modificato, poi li impianta comunque nei suoi cardinali più vecchi, di notte, con il modulo di assoluzione già firmato in anticipo.",
+"universo": "cyberverse"
+}

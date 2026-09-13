@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"religione/teologia",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 15,
+"gancio": "Un innesto viene respinto per un solo voto contrario, e il paziente muore in lista d'attesa mentre i sette continuano a discutere se il rifiuto fosse dottrina o rancore personale.",
+"id": "CYB-INV-0009",
+"nome": "La Chimera del Concilio",
+"nome_reale": "Innesto ibrido animale-umano approvato per voto conciliare",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Nessun innesto misto entra in un corpo senza il voto di sette anziani riuniti in una sala sotterranea, che decidono per alzata di mano quanto animale può restare umano.",
+"universo": "cyberverse"
+}

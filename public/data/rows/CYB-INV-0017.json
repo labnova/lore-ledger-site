@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"religione/teologia",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 15,
+"gancio": "Un algoritmo del tribunale vota per la canonizzazione tre volte di fila prima che qualcuno si accorga che è stato addestrato solo su casi già approvati.",
+"id": "CYB-INV-0017",
+"nome": "Il Concilio dei Rigetti",
+"nome_reale": "Tribunale misto clero-algoritmo per canonizzazione postuma dei donatori rifiutati",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Quando un organo viene rigettato, un tribunale composto da tre chierici e un algoritmo di valutazione decide se il donatore meriti comunque una canonizzazione postuma per l'intenzione, non per il risultato.",
+"universo": "cyberverse"
+}

@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"religione/teologia",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 15,
+"gancio": "Il bracciale di un fedele smette di trasmettere due giorni prima del funerale, e nessuno sa dire se la fede gli sia bastata o se avesse solo staccato la batteria.",
+"id": "CYB-INV-0012",
+"nome": "Il Voto del Martire in Attesa",
+"nome_reale": "Dispositivo indossabile per il voto di rifiuto degli antirigetto",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Alcuni pazienti indossano un bracciale che comunica alla clinica ogni pillola saltata, trasformando il rifiuto delle cure in un atto di fede pubblico e misurabile.",
+"universo": "cyberverse"
+}

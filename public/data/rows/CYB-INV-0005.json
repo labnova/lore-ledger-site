@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"religione/teologia",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 15,
+"gancio": "Un uomo mente bene davanti al microfono e ottiene un fegato nuovo, ma il sistema registra la menzogna e la restituisce, mesi dopo, come base per negargli l'antirigetto.",
+"id": "CYB-INV-0005",
+"nome": "Il Confessionale Diagnostico",
+"nome_reale": "Sistema di scoring etico per priorità in lista d'attesa",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Prima di ogni intervento il sistema chiede al paziente di confessare le proprie colpe a voce, e usa l'analisi del tono per calcolare quanto in alto salire nella lista.",
+"universo": "cyberverse"
+}

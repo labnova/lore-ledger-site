@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"religione/teologia",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 15,
+"gancio": "Un donatore si ritira dopo la funzione, convinto che l'incenso gli avesse rivelato una controindicazione che gli esami non avevano trovato.",
+"id": "CYB-INV-0013",
+"nome": "Il Sacramento del Donatore Vivente",
+"nome_reale": "Cerimonia di consenso per donatore vivente",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Prima di ogni prelievo da donatore vivente la clinica organizza una piccola funzione, con tanto di incenso filtrato dagli impianti d'aria, per santificare quello che resta solo un contratto notarile.",
+"universo": "cyberverse"
+}

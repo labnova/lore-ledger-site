@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"religione/teologia",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 15,
+"gancio": "Una donna sopravvive all'intervento ma pretende indietro anche la copia, convinta che due anime nello stesso corpo aumentino le sue probabilità con qualunque dio stia ascoltando.",
+"id": "CYB-INV-0015",
+"nome": "L'Anima di Scorta",
+"nome_reale": "Backup digitale della coscienza pre-intervento ad alto rischio",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Prima di ogni trapianto ad alto rischio la clinica registra una copia dei ricordi recenti del paziente, ufficialmente per motivi legali, ufficiosamente perché il cappellano la chiama l'anima di scorta.",
+"universo": "cyberverse"
+}

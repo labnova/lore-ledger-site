@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"religione/teologia",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 15,
+"gancio": "Una famiglia riconosce nell'omelia generata frasi identiche a quelle lette al funerale di un altro donatore, e capisce che il programma riusa gli stessi miracoli per corpi diversi.",
+"id": "CYB-INV-0019",
+"nome": "Il Vangelo del Donatore",
+"nome_reale": "Generatore automatico di omelia funebre dalla cartella clinica del donatore",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Un programma legge la cartella clinica del donatore e compone un'omelia da leggere al funerale, trasformando referti ed esami in parabole sulla generosità del corpo.",
+"universo": "cyberverse"
+}

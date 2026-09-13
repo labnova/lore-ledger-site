@@ -815,5 +815,47 @@
 "righe_prodotte": [
 "ELA-CON-0002"
 ]
+},
+{
+"bibbia_pescata": [
+"<!-- substrato iniziale: vuoto, scritto a mano -->"
+],
+"campi_forzati": [],
+"canone_pescato": [],
+"chiavi": {
+"discipline": [
+"religione/teologia",
+"chirurgia/trapiantologia"
+],
+"universo": "cyberverse"
+},
+"created": "2026-09-13",
+"esito": "ok",
+"espansioni": [],
+"estrazione": 15,
+"forzata": false,
+"lotto": "lotto-lore",
+"righe_prodotte": [
+"CYB-INV-0001",
+"CYB-INV-0002",
+"CYB-INV-0003",
+"CYB-INV-0004",
+"CYB-INV-0005",
+"CYB-INV-0006",
+"CYB-INV-0007",
+"CYB-INV-0008",
+"CYB-INV-0009",
+"CYB-INV-0010",
+"CYB-INV-0011",
+"CYB-INV-0012",
+"CYB-INV-0013",
+"CYB-INV-0014",
+"CYB-INV-0015",
+"CYB-INV-0016",
+"CYB-INV-0017",
+"CYB-INV-0018",
+"CYB-INV-0019",
+"CYB-INV-0020"
+]
 }
 ]

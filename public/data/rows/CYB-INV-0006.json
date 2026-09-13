@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"religione/teologia",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 15,
+"gancio": "Un chirurgo comincia a tagliare prima che la benedizione finisca di caricare, e da allora nessuno nel reparto vuole più operare durante un buffering.",
+"id": "CYB-INV-0006",
+"nome": "L'Estrema Unzione a Distanza",
+"nome_reale": "Videochiamata di assistenza spirituale pre-operatoria",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il prete che benedice l'incisione non è mai nella stanza, appare su uno schermo portatile, con una connessione che salta proprio nel momento in cui pronuncia il nome del paziente.",
+"universo": "cyberverse"
+}

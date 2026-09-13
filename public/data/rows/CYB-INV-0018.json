@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"religione/teologia",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 15,
+"gancio": "Un infermiere scambia per errore il flacone benedetto con quello sterile, e per settimane nessuno nota la differenza nei tassi di guarigione.",
+"id": "CYB-INV-0018",
+"nome": "L'Unzione dei Tessuti",
+"nome_reale": "Olio benedetto applicato al sito dell'innesto",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Un olio prodotto in laboratorio e benedetto in serie viene passato sulla cicatrice appena chiusa, con la clinica che garantisce l'effetto placebo ma non nega mai quello divino.",
+"universo": "cyberverse"
+}

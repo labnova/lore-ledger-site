@@ -1,0 +1,22 @@
+{
+"created": "2026-09-13",
+"discipline": [
+"religione/teologia",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 15,
+"gancio": "Una tecnica di laboratorio comincia a piangere ogni volta che deve scartare una coltura contaminata, perché nel registro quella coltura aveva già un nome e una data di battesimo.",
+"id": "CYB-INV-0010",
+"nome": "Il Battesimo delle Cellule",
+"nome_reale": "Rito di denominazione delle linee di cellule staminali prima dell'iniezione",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Ogni coltura di cellule staminali riceve un nome proprio e una piccola cerimonia prima di essere iniettata, perché in laboratorio si crede che le cellule senza nome attecchiscano peggio.",
+"universo": "cyberverse"
+}
