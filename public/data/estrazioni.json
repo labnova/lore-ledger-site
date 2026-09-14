@@ -2032,5 +2032,43 @@
 "ELA-INV-0089",
 "ELA-INV-0090"
 ]
+},
+{
+"chiavi": {
+"sospesi": [
+"STE-SOS-mig20260913-1"
+]
+},
+"created": "2026-09-14",
+"esito": "ok",
+"estrazione": 45,
+"lotto": "lotto-innesto",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"STE-REG-cancello-del-freddo"
+]
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"ELA-INV-0052"
+],
+"chiavi": {
+"canale": "threads",
+"formato": "snippet_300",
+"medium": "testo_breve",
+"sorgente_id": "ELA-INV-0052",
+"veridicita": "making_of"
+},
+"created": "2026-09-14",
+"esito": "ok",
+"estrazione": 47,
+"forzata": false,
+"lotto": "lotto-contenuti",
+"modello": "claude-sonnet-5",
+"note": "Estrazione 46 (HAC-SEM-0001, tipo seme) scartata: sorgente_id non compatibile con lo schema contenuto (accetta solo INV|PER|GAD|CON). Vedi logs/2026-09-14-1600-lotto-contenuti.failed.yaml. Redraw eseguito su questa estrazione (47).\n",
+"righe_prodotte": [
+"ELA-CON-0003"
+]
 }
 ]

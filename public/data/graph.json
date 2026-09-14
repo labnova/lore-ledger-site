@@ -3041,6 +3041,11 @@
 "to": "ELA-REG-konya"
 },
 {
+"from": "ELA-CON-0003",
+"kind": "sorgente",
+"to": "ELA-INV-0052"
+},
+{
 "from": "HAC-CON-0001",
 "kind": "sorgente",
 "to": "HAC-INV-0017"
@@ -3069,6 +3074,11 @@
 "from": "STE-CON-0001",
 "kind": "sorgente",
 "to": "STE-INV-0008"
+},
+{
+"from": "STE-REG-ledoskol",
+"kind": "parent",
+"to": "STE-REG-cancello-del-freddo"
 },
 {
 "from": "CYB-SEM-0001",
@@ -3537,6 +3547,12 @@
 "id": "ELA-CON-0002",
 "tipo": "contenuto",
 "titolo": "Come si tara un prisma da apprendista (archivio interno, anello di Konya)",
+"universo": "elabverse"
+},
+{
+"id": "ELA-CON-0003",
+"tipo": "contenuto",
+"titolo": "Perché l'inchiostro di ELA-INV-0052 doveva mangiarsi la carta",
 "universo": "elabverse"
 },
 {
@@ -6009,6 +6025,12 @@
 "id": "STE-PER-0010",
 "tipo": "personaggio",
 "titolo": "Irina Gotonoović",
+"universo": "steamverse"
+},
+{
+"id": "STE-REG-cancello-del-freddo",
+"tipo": "regione",
+"titolo": "Ledoskol",
 "universo": "steamverse"
 },
 {

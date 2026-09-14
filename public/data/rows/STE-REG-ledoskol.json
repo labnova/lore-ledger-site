@@ -23,6 +23,27 @@
 }
 ],
 "id": "STE-REG-ledoskol",
+"innesti": [
+{
+"ceppo_dominante": "slavo",
+"created": "2026-09-14",
+"epoca_relativa": 0,
+"estrazione": 20,
+"id": "STE-REG-cancello-del-freddo",
+"nome": "Ledoskol",
+"note": "Città-scalo aggrappata alle chiuse dell'estuario, dove la gilda del freddo governa le cantine di ghiaccio e gli aeronauti ne sorvegliano dall'alto le piene; quasi un cognome su due nasce ancora dal mestiere di chi lo porta. Il Cancello del Freddo è il varco della gilda dove i rifugiati di Zhenevka attendono la razione di ghiaccio scartato, aperto a ora fissa e a quantità chiusa.",
+"onomastica": "legata",
+"origine": "sospeso",
+"p_cognome_mestiere": 0.48,
+"parent_id": "STE-REG-ledoskol",
+"regione": null,
+"relazione": "innesto",
+"schema_version": 1,
+"status": "canon",
+"tipo": "regione",
+"universo": "steamverse"
+}
+],
 "media": [],
 "nome": "Ledoskol",
 "note": "Città-scalo aggrappata alle chiuse dell'estuario, dove la gilda del freddo governa le cantine di ghiaccio e gli aeronauti ne sorvegliano dall'alto le piene; quasi un cognome su due nasce ancora dal mestiere di chi lo porta.",

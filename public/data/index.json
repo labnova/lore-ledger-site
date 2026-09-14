@@ -1171,12 +1171,29 @@
 "universo": "elabverse"
 },
 {
+"appare_in": [],
+"chiavi": "testo_breve · threads · snippet_300",
+"created": "2026-09-14",
+"estrazione": 47,
+"id": "ELA-CON-0003",
+"parent_id": null,
+"regione": null,
+"relazione": null,
+"sommario": "Perché l'inchiostro di ELA-INV-0052 doveva mangiarsi la carta",
+"tipo": "contenuto",
+"titolo": "Perché l'inchiostro di ELA-INV-0052 doveva mangiarsi la carta",
+"universo": "elabverse"
+},
+{
 "appare_in": [
 "2026-09-13-l-ora-di-anticipo"
 ],
 "created": "2026-09-13",
 "estrazione": 20,
 "id": "STE-REG-ledoskol",
+"innesti": [
+"STE-REG-cancello-del-freddo"
+],
 "parent_id": null,
 "regione": null,
 "relazione": null,
