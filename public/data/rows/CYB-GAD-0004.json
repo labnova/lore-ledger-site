@@ -1,11 +1,21 @@
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-14-la-doppia-spirale"
+],
 "chi_lo_porta": "Le famiglie dei donatori lo ricevono da Stefan al termine della funzione e lo portano al collo come pegno che l'anima di scorta del proprio caro resti catalogata dal culto.",
 "cosa": "Ciondolo di resina traslucida a forma di goccia, con all'interno una sagoma capillare che ricorda un filamento nervoso.",
 "created": "2026-09-13",
 "epoca_relativa": 0,
 "estrazione": 25,
-"fatti": [],
+"fatti": [
+{
+"id": "CYB-FAT-34885804207-3",
+"momento": 3,
+"stabilito_da": "2026-09-14-la-doppia-spirale",
+"testo": "Detlef Hoffinberg ha rifiutato per la prima volta un accesso che aveva già quotato, dopo aver riconosciuto nel filamento dell'Amuleto dell'Anima di Scorta il tracciato con cui il culto degli antenati indicizza le copie.",
+"tipo_fatto": "evento"
+}
+],
 "gancio": "Una madre nota che il filamento del proprio ciondolo cambia leggermente forma nel tempo, come se qualcosa dentro venisse ancora aggiornato.",
 "id": "CYB-GAD-0004",
 "invenzione_id": "CYB-INV-0013",

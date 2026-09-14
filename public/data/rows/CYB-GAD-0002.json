@@ -1,11 +1,21 @@
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-14-la-doppia-spirale"
+],
 "chi_lo_porta": "Stefan lo tiene in una tasca interna della stola e lo preme sul contratto notarile subito dopo la funzione, mentre l'incenso è ancora acceso.",
 "cosa": "Timbro a mano con impugnatura in legno tornito e testa in ottone che imprime nella cera un sigillo a doppia spirale.",
 "created": "2026-09-13",
 "epoca_relativa": 0,
 "estrazione": 25,
-"fatti": [],
+"fatti": [
+{
+"id": "CYB-FAT-34885804207-11",
+"momento": 11,
+"stabilito_da": "2026-09-14-la-doppia-spirale",
+"testo": "Il sigillo di cera impresso sul contratto di Markus Lindinfeld coincide per passo, inclinazione e nodo con il diagramma del prelievo serigrafato sul tavolo luminoso dell'ufficio protocollo, e il sigillo viene premuto prima che il contratto venga spiegato al firmatario.",
+"tipo_fatto": "stato"
+}
+],
 "gancio": "Un notaio nota che i sigilli di due donatori diversi combaciano perfettamente se sovrapposti, come se il timbro conoscesse in anticipo dove tagliare.",
 "id": "CYB-GAD-0002",
 "invenzione_id": "CYB-INV-0013",

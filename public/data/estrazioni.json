@@ -2238,5 +2238,33 @@
 "NEO-GAD-0051",
 "NEO-INV-0045"
 ]
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"STE-INV-0015",
+"STE-CON-0001",
+"STE-INV-0014",
+"STE-GAD-0001",
+"STE-INV-0001",
+"STE-PER-0005",
+"STE-INV-0012"
+],
+"chiavi": {
+"canale": "vimeo",
+"formato": "trailer_20s",
+"medium": "video_lungo",
+"sorgente_id": "STE-GAD-0001",
+"veridicita": "in_universe"
+},
+"created": "2026-09-14",
+"esito": "ok",
+"estrazione": 52,
+"forzata": false,
+"lotto": "lotto-contenuti",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"STE-CON-0002"
+]
 }
 ]

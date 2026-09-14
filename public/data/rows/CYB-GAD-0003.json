@@ -1,11 +1,28 @@
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-14-la-doppia-spirale"
+],
 "chi_lo_porta": "Stefan lo porta sempre con sé e lo consulta ossessivamente, riscrivendo negli stessi margini le note che teme di aver già perso.",
 "cosa": "Taccuino rilegato in cuoio con fibbia in ottone e linguette numerate cucite a mano sul bordo delle pagine.",
 "created": "2026-09-13",
 "epoca_relativa": 0,
 "estrazione": 25,
-"fatti": [],
+"fatti": [
+{
+"id": "CYB-FAT-34885804207-4",
+"momento": 4,
+"stabilito_da": "2026-09-14-la-doppia-spirale",
+"testo": "Nel Registro dei Ricordi Smarriti esiste una pagina scritta da Stefan Schäfer che riporta il numero del carro refrigerato del binario morto di Rostkirche e la nota che certe schede continuano a ricevere aggiornamenti dopo la chiusura del fascicolo; la linguetta di quella pagina è consumata fino all'ottone.",
+"tipo_fatto": "stato"
+},
+{
+"id": "CYB-FAT-34885804207-5",
+"momento": 5,
+"stabilito_da": "2026-09-14-la-doppia-spirale",
+"testo": "Stefan Schäfer ha strappato quella pagina dal Registro dei Ricordi Smarriti e ha smesso di catalogare le copie altrui per ricontrollare le proprie linguette dalla prima.",
+"tipo_fatto": "evento"
+}
+],
 "gancio": "Trova una linguetta completamente consumata su una pagina che giurerebbe di non aver mai letto prima.",
 "id": "CYB-GAD-0003",
 "invenzione_id": "CYB-INV-0013",

@@ -1,10 +1,27 @@
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-14-la-doppia-spirale"
+],
 "ceppo_dominante": "germanico",
 "created": "2026-09-13",
 "epoca_relativa": 0,
 "estrazione": 16,
-"fatti": [],
+"fatti": [
+{
+"id": "CYB-FAT-34885804207-2",
+"momento": 2,
+"stabilito_da": "2026-09-14-la-doppia-spirale",
+"testo": "Destreye Care™ apre uno sportello mobile dei rilasci sulla banchina dello snodo di Rostkirche il martedì e il venerdì alle sette.",
+"tipo_fatto": "regola_del_mondo"
+},
+{
+"id": "CYB-FAT-34885804207-4",
+"momento": 4,
+"stabilito_da": "2026-09-14-la-doppia-spirale",
+"testo": "Nel Registro dei Ricordi Smarriti esiste una pagina scritta da Stefan Schäfer che riporta il numero del carro refrigerato del binario morto di Rostkirche e la nota che certe schede continuano a ricevere aggiornamenti dopo la chiusura del fascicolo; la linguetta di quella pagina è consumata fino all'ottone.",
+"tipo_fatto": "stato"
+}
+],
 "id": "CYB-REG-rostkirche",
 "media": [],
 "nome": "Rostkirche",

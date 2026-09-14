@@ -1,0 +1,19 @@
+{
+"branch": "main",
+"cluster": "CYB-INV-0015",
+"created": "2026-09-14",
+"id": "CYB-FAT-34885804207-11",
+"momento": 11,
+"reversibile": true,
+"schema_version": 1,
+"soggetti": [
+"CYB-PER-0007",
+"CYB-GAD-0002"
+],
+"stabilito_da": "2026-09-14-la-doppia-spirale",
+"status": "canon",
+"testo": "Il sigillo di cera impresso sul contratto di Markus Lindinfeld coincide per passo, inclinazione e nodo con il diagramma del prelievo serigrafato sul tavolo luminoso dell'ufficio protocollo, e il sigillo viene premuto prima che il contratto venga spiegato al firmatario.",
+"tipo": "fatto",
+"tipo_fatto": "stato",
+"universo": "cyberverse"
+}

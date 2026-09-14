@@ -1,5 +1,7 @@
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-14-la-doppia-spirale"
+],
 "created": "2026-09-13",
 "discipline": [
 "religione/teologia",
@@ -7,7 +9,92 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 15,
-"fatti": [],
+"fatti": [
+{
+"id": "CYB-FAT-34885804207-1",
+"momento": 1,
+"stabilito_da": "2026-09-14-la-doppia-spirale",
+"testo": "La clausola nove del contratto Destreye Care™ dell'anima di scorta trasferisce la copia alla clinica al primo giorno di ritardo su una rata, e Markus Lindinfeld ha pagato la terza rata il dodici invece che l'undici.",
+"tipo_fatto": "regola_del_mondo"
+},
+{
+"id": "CYB-FAT-34885804207-2",
+"momento": 2,
+"stabilito_da": "2026-09-14-la-doppia-spirale",
+"testo": "Destreye Care™ apre uno sportello mobile dei rilasci sulla banchina dello snodo di Rostkirche il martedì e il venerdì alle sette.",
+"tipo_fatto": "regola_del_mondo"
+},
+{
+"id": "CYB-FAT-34885804207-3",
+"momento": 3,
+"stabilito_da": "2026-09-14-la-doppia-spirale",
+"testo": "Detlef Hoffinberg ha rifiutato per la prima volta un accesso che aveva già quotato, dopo aver riconosciuto nel filamento dell'Amuleto dell'Anima di Scorta il tracciato con cui il culto degli antenati indicizza le copie.",
+"tipo_fatto": "evento"
+},
+{
+"id": "CYB-FAT-34885804207-4",
+"momento": 4,
+"stabilito_da": "2026-09-14-la-doppia-spirale",
+"testo": "Nel Registro dei Ricordi Smarriti esiste una pagina scritta da Stefan Schäfer che riporta il numero del carro refrigerato del binario morto di Rostkirche e la nota che certe schede continuano a ricevere aggiornamenti dopo la chiusura del fascicolo; la linguetta di quella pagina è consumata fino all'ottone.",
+"tipo_fatto": "stato"
+},
+{
+"id": "CYB-FAT-34885804207-5",
+"momento": 5,
+"stabilito_da": "2026-09-14-la-doppia-spirale",
+"testo": "Stefan Schäfer ha strappato quella pagina dal Registro dei Ricordi Smarriti e ha smesso di catalogare le copie altrui per ricontrollare le proprie linguette dalla prima.",
+"tipo_fatto": "evento"
+},
+{
+"id": "CYB-FAT-34885804207-6",
+"momento": 6,
+"stabilito_da": "2026-09-14-la-doppia-spirale",
+"testo": "Ksenia Rybar paga sei crediti al mese di giacenza per la copia mai reclamata del marito, tenuta da quarantuno mesi in una guida senza riga di manifesto; cancellarla costerebbe trecento crediti in una volta sola.",
+"tipo_fatto": "stato"
+},
+{
+"id": "CYB-FAT-34885804207-7",
+"momento": 7,
+"stabilito_da": "2026-09-14-la-doppia-spirale",
+"testo": "La copia mai reclamata del marito di Ksenia Rybar porta una data di ultimo aggiornamento posteriore di quattro anni alla morte dell'uomo.",
+"tipo_fatto": "stato"
+},
+{
+"id": "CYB-FAT-34885804207-8",
+"momento": 8,
+"stabilito_da": "2026-09-14-la-doppia-spirale",
+"testo": "Il lettore del carro refrigerato stampa il codice del trasportatore a ogni apertura di scheda: la lettura fatta per Markus Lindinfeld risulta a nome di Ksenia Rybar.",
+"tipo_fatto": "evento"
+},
+{
+"id": "CYB-FAT-34885804207-9",
+"momento": 9,
+"stabilito_da": "2026-09-14-la-doppia-spirale",
+"testo": "Friedrich Falkstein non può più modificare da solo il protocollo dell'anima di scorta: è compilato nella routine d'indicizzazione in licenza, e ogni modifica apre un ciclo di certificazione del comitato clinico Destreye Care™, che quest'anno ne ha respinte due.",
+"tipo_fatto": "regola_del_mondo"
+},
+{
+"id": "CYB-FAT-34885804207-10",
+"momento": 10,
+"stabilito_da": "2026-09-14-la-doppia-spirale",
+"testo": "Friedrich Falkstein conserva nell'ufficio protocollo sei anni di bobine con i colloqui in cui i pazienti dichiaravano le proprie paure prima dell'intervento, ed è da quelle che è stato ricavato il protocollo dell'anima di scorta.",
+"tipo_fatto": "stato"
+},
+{
+"id": "CYB-FAT-34885804207-11",
+"momento": 11,
+"stabilito_da": "2026-09-14-la-doppia-spirale",
+"testo": "Il sigillo di cera impresso sul contratto di Markus Lindinfeld coincide per passo, inclinazione e nodo con il diagramma del prelievo serigrafato sul tavolo luminoso dell'ufficio protocollo, e il sigillo viene premuto prima che il contratto venga spiegato al firmatario.",
+"tipo_fatto": "stato"
+},
+{
+"id": "CYB-FAT-34885804207-12",
+"momento": 12,
+"stabilito_da": "2026-09-14-la-doppia-spirale",
+"testo": "Markus Lindinfeld ha rinunciato a presentare l'istanza di rilascio della propria copia e ha speso i crediti del modulo per pagare otto mesi di giacenza della copia senza manifesto di Ksenia Rybar.",
+"tipo_fatto": "evento"
+}
+],
 "gancio": "Una donna sopravvive all'intervento ma pretende indietro anche la copia, convinta che due anime nello stesso corpo aumentino le sue probabilità con qualunque dio stia ascoltando.",
 "id": "CYB-INV-0015",
 "media": [],

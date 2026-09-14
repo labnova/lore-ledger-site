@@ -3,7 +3,9 @@
 "orientamento": "bisessuale",
 "situazione": "vedovo"
 },
-"appare_in": [],
+"appare_in": [
+"2026-09-14-la-doppia-spirale"
+],
 "casta": "nomadi_urbani",
 "ceppo": "slavo",
 "cognome": "Rybar",
@@ -13,7 +15,36 @@
 "epoca_relativa": 0,
 "estrazione": 16,
 "eta_fascia": "giovane",
-"fatti": [],
+"fatti": [
+{
+"id": "CYB-FAT-34885804207-6",
+"momento": 6,
+"stabilito_da": "2026-09-14-la-doppia-spirale",
+"testo": "Ksenia Rybar paga sei crediti al mese di giacenza per la copia mai reclamata del marito, tenuta da quarantuno mesi in una guida senza riga di manifesto; cancellarla costerebbe trecento crediti in una volta sola.",
+"tipo_fatto": "stato"
+},
+{
+"id": "CYB-FAT-34885804207-7",
+"momento": 7,
+"stabilito_da": "2026-09-14-la-doppia-spirale",
+"testo": "La copia mai reclamata del marito di Ksenia Rybar porta una data di ultimo aggiornamento posteriore di quattro anni alla morte dell'uomo.",
+"tipo_fatto": "stato"
+},
+{
+"id": "CYB-FAT-34885804207-8",
+"momento": 8,
+"stabilito_da": "2026-09-14-la-doppia-spirale",
+"testo": "Il lettore del carro refrigerato stampa il codice del trasportatore a ogni apertura di scheda: la lettura fatta per Markus Lindinfeld risulta a nome di Ksenia Rybar.",
+"tipo_fatto": "evento"
+},
+{
+"id": "CYB-FAT-34885804207-12",
+"momento": 12,
+"stabilito_da": "2026-09-14-la-doppia-spirale",
+"testo": "Markus Lindinfeld ha rinunciato a presentare l'istanza di rilascio della propria copia e ha speso i crediti del modulo per pagare otto mesi di giacenza della copia senza manifesto di Ksenia Rybar.",
+"tipo_fatto": "evento"
+}
+],
 "gancio": "Ksenia porta sempre con sé una copia di backup mai reclamata, quella di suo marito morto, perché costa meno lasciarla dov'è che pagare per cancellarla.",
 "id": "CYB-PER-0003",
 "invenzione_id": "CYB-INV-0015",

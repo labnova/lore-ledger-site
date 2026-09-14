@@ -1,0 +1,19 @@
+{
+"branch": "main",
+"cluster": "CYB-INV-0015",
+"created": "2026-09-14",
+"id": "CYB-FAT-34885804207-5",
+"momento": 5,
+"reversibile": false,
+"schema_version": 1,
+"soggetti": [
+"CYB-PER-0004",
+"CYB-GAD-0003"
+],
+"stabilito_da": "2026-09-14-la-doppia-spirale",
+"status": "canon",
+"testo": "Stefan Schäfer ha strappato quella pagina dal Registro dei Ricordi Smarriti e ha smesso di catalogare le copie altrui per ricontrollare le proprie linguette dalla prima.",
+"tipo": "fatto",
+"tipo_fatto": "evento",
+"universo": "cyberverse"
+}

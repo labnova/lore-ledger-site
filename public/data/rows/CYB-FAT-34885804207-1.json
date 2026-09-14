@@ -1,0 +1,19 @@
+{
+"branch": "main",
+"cluster": "CYB-INV-0015",
+"created": "2026-09-14",
+"id": "CYB-FAT-34885804207-1",
+"momento": 1,
+"reversibile": false,
+"schema_version": 1,
+"soggetti": [
+"CYB-INV-0015",
+"CYB-PER-0007"
+],
+"stabilito_da": "2026-09-14-la-doppia-spirale",
+"status": "canon",
+"testo": "La clausola nove del contratto Destreye Care™ dell'anima di scorta trasferisce la copia alla clinica al primo giorno di ritardo su una rata, e Markus Lindinfeld ha pagato la terza rata il dodici invece che l'undici.",
+"tipo": "fatto",
+"tipo_fatto": "regola_del_mondo",
+"universo": "cyberverse"
+}

@@ -1,0 +1,19 @@
+{
+"branch": "main",
+"cluster": "CYB-INV-0015",
+"created": "2026-09-14",
+"id": "CYB-FAT-34885804207-8",
+"momento": 8,
+"reversibile": false,
+"schema_version": 1,
+"soggetti": [
+"CYB-PER-0003",
+"CYB-PER-0007"
+],
+"stabilito_da": "2026-09-14-la-doppia-spirale",
+"status": "canon",
+"testo": "Il lettore del carro refrigerato stampa il codice del trasportatore a ogni apertura di scheda: la lettura fatta per Markus Lindinfeld risulta a nome di Ksenia Rybar.",
+"tipo": "fatto",
+"tipo_fatto": "evento",
+"universo": "cyberverse"
+}

@@ -1,0 +1,19 @@
+{
+"branch": "main",
+"cluster": "CYB-INV-0015",
+"created": "2026-09-14",
+"id": "CYB-FAT-34885804207-9",
+"momento": 9,
+"reversibile": false,
+"schema_version": 1,
+"soggetti": [
+"CYB-INV-0015",
+"CYB-PER-0006"
+],
+"stabilito_da": "2026-09-14-la-doppia-spirale",
+"status": "canon",
+"testo": "Friedrich Falkstein non può più modificare da solo il protocollo dell'anima di scorta: è compilato nella routine d'indicizzazione in licenza, e ogni modifica apre un ciclo di certificazione del comitato clinico Destreye Care™, che quest'anno ne ha respinte due.",
+"tipo": "fatto",
+"tipo_fatto": "regola_del_mondo",
+"universo": "cyberverse"
+}

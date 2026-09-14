@@ -3371,6 +3371,16 @@
 "to": "STE-INV-0008"
 },
 {
+"from": "STE-CON-0002",
+"kind": "sorgente",
+"to": "STE-GAD-0001"
+},
+{
+"from": "STE-CON-0002",
+"kind": "regione",
+"to": "STE-REG-ledoskol"
+},
+{
 "from": "STE-REG-ledoskol",
 "kind": "parent",
 "to": "STE-REG-cancello-del-freddo"
@@ -3441,6 +3451,121 @@
 "to": "NEO-REG-vranidol"
 },
 {
+"from": "CYB-FAT-34885804207-1",
+"kind": "soggetto",
+"to": "CYB-INV-0015"
+},
+{
+"from": "CYB-FAT-34885804207-1",
+"kind": "soggetto",
+"to": "CYB-PER-0007"
+},
+{
+"from": "CYB-FAT-34885804207-10",
+"kind": "soggetto",
+"to": "CYB-INV-0015"
+},
+{
+"from": "CYB-FAT-34885804207-10",
+"kind": "soggetto",
+"to": "CYB-PER-0006"
+},
+{
+"from": "CYB-FAT-34885804207-11",
+"kind": "soggetto",
+"to": "CYB-PER-0007"
+},
+{
+"from": "CYB-FAT-34885804207-11",
+"kind": "soggetto",
+"to": "CYB-GAD-0002"
+},
+{
+"from": "CYB-FAT-34885804207-12",
+"kind": "soggetto",
+"to": "CYB-PER-0003"
+},
+{
+"from": "CYB-FAT-34885804207-12",
+"kind": "soggetto",
+"to": "CYB-PER-0007"
+},
+{
+"from": "CYB-FAT-34885804207-2",
+"kind": "soggetto",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-FAT-34885804207-3",
+"kind": "soggetto",
+"to": "CYB-INV-0015"
+},
+{
+"from": "CYB-FAT-34885804207-3",
+"kind": "soggetto",
+"to": "CYB-PER-0009"
+},
+{
+"from": "CYB-FAT-34885804207-3",
+"kind": "soggetto",
+"to": "CYB-GAD-0004"
+},
+{
+"from": "CYB-FAT-34885804207-4",
+"kind": "soggetto",
+"to": "CYB-PER-0004"
+},
+{
+"from": "CYB-FAT-34885804207-4",
+"kind": "soggetto",
+"to": "CYB-GAD-0003"
+},
+{
+"from": "CYB-FAT-34885804207-4",
+"kind": "soggetto",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-FAT-34885804207-5",
+"kind": "soggetto",
+"to": "CYB-PER-0004"
+},
+{
+"from": "CYB-FAT-34885804207-5",
+"kind": "soggetto",
+"to": "CYB-GAD-0003"
+},
+{
+"from": "CYB-FAT-34885804207-6",
+"kind": "soggetto",
+"to": "CYB-PER-0003"
+},
+{
+"from": "CYB-FAT-34885804207-7",
+"kind": "soggetto",
+"to": "CYB-PER-0003"
+},
+{
+"from": "CYB-FAT-34885804207-8",
+"kind": "soggetto",
+"to": "CYB-PER-0003"
+},
+{
+"from": "CYB-FAT-34885804207-8",
+"kind": "soggetto",
+"to": "CYB-PER-0007"
+},
+{
+"from": "CYB-FAT-34885804207-9",
+"kind": "soggetto",
+"to": "CYB-INV-0015"
+},
+{
+"from": "CYB-FAT-34885804207-9",
+"kind": "soggetto",
+"to": "CYB-PER-0006"
+},
+{
 "from": "STE-FAT-m20260913-1",
 "kind": "soggetto",
 "to": "STE-REG-ledoskol"
@@ -3476,6 +3601,78 @@
 "id": "CYB-CON-0001",
 "tipo": "contenuto",
 "titolo": "Locandina \"Carne Impura\": il brief dietro la stampa",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-FAT-34885804207-1",
+"tipo": "fatto",
+"titolo": "La clausola nove del contratto Destreye Care™ dell'anima di scorta trasferisce l",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-FAT-34885804207-10",
+"tipo": "fatto",
+"titolo": "Friedrich Falkstein conserva nell'ufficio protocollo sei anni di bobine con i co",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-FAT-34885804207-11",
+"tipo": "fatto",
+"titolo": "Il sigillo di cera impresso sul contratto di Markus Lindinfeld coincide per pass",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-FAT-34885804207-12",
+"tipo": "fatto",
+"titolo": "Markus Lindinfeld ha rinunciato a presentare l'istanza di rilascio della propria",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-FAT-34885804207-2",
+"tipo": "fatto",
+"titolo": "Destreye Care™ apre uno sportello mobile dei rilasci sulla banchina dello snodo ",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-FAT-34885804207-3",
+"tipo": "fatto",
+"titolo": "Detlef Hoffinberg ha rifiutato per la prima volta un accesso che aveva già quota",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-FAT-34885804207-4",
+"tipo": "fatto",
+"titolo": "Nel Registro dei Ricordi Smarriti esiste una pagina scritta da Stefan Schäfer ch",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-FAT-34885804207-5",
+"tipo": "fatto",
+"titolo": "Stefan Schäfer ha strappato quella pagina dal Registro dei Ricordi Smarriti e ha",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-FAT-34885804207-6",
+"tipo": "fatto",
+"titolo": "Ksenia Rybar paga sei crediti al mese di giacenza per la copia mai reclamata del",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-FAT-34885804207-7",
+"tipo": "fatto",
+"titolo": "La copia mai reclamata del marito di Ksenia Rybar porta una data di ultimo aggio",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-FAT-34885804207-8",
+"tipo": "fatto",
+"titolo": "Il lettore del carro refrigerato stampa il codice del trasportatore a ogni apert",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-FAT-34885804207-9",
+"tipo": "fatto",
+"titolo": "Friedrich Falkstein non può più modificare da solo il protocollo dell'anima di s",
 "universo": "cyberverse"
 },
 {
@@ -6296,6 +6493,12 @@
 "id": "STE-CON-0001",
 "tipo": "contenuto",
 "titolo": "Come si traccia la rotta d'inverno (archivio d'istruzione, Compagnia degli Aratri)",
+"universo": "steamverse"
+},
+{
+"id": "STE-CON-0002",
+"tipo": "contenuto",
+"titolo": "Il Numero Esatto — trailer (Archivio Istruzione Aeronauti, Gilda del Freddo)",
 "universo": "steamverse"
 },
 {

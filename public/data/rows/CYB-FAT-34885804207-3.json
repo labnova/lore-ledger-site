@@ -1,0 +1,20 @@
+{
+"branch": "main",
+"cluster": "CYB-INV-0015",
+"created": "2026-09-14",
+"id": "CYB-FAT-34885804207-3",
+"momento": 3,
+"reversibile": true,
+"schema_version": 1,
+"soggetti": [
+"CYB-INV-0015",
+"CYB-PER-0009",
+"CYB-GAD-0004"
+],
+"stabilito_da": "2026-09-14-la-doppia-spirale",
+"status": "canon",
+"testo": "Detlef Hoffinberg ha rifiutato per la prima volta un accesso che aveva già quotato, dopo aver riconosciuto nel filamento dell'Amuleto dell'Anima di Scorta il tracciato con cui il culto degli antenati indicizza le copie.",
+"tipo": "fatto",
+"tipo_fatto": "evento",
+"universo": "cyberverse"
+}

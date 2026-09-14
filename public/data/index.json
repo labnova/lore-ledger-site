@@ -1,6 +1,20 @@
 [
 {
 "appare_in": [],
+"chiavi": "video_lungo · vimeo · trailer_20s",
+"created": "2026-09-14",
+"estrazione": 52,
+"id": "STE-CON-0002",
+"parent_id": null,
+"regione": "Ledoskol",
+"relazione": null,
+"sommario": "Il Numero Esatto — trailer (Archivio Istruzione Aeronauti, Gilda del Freddo)",
+"tipo": "contenuto",
+"titolo": "Il Numero Esatto — trailer (Archivio Istruzione Aeronauti, Gilda del Freddo)",
+"universo": "steamverse"
+},
+{
+"appare_in": [],
 "chiavi": "cavalieri · scorpione · autorevole · orgoglioso",
 "created": "2026-09-14",
 "estrazione": 41,
@@ -4348,7 +4362,9 @@
 "universo": "elabverse"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-14-la-doppia-spirale"
+],
 "cluster": "CYB-INV-0015",
 "created": "2026-09-13",
 "estrazione": 29,
@@ -4363,7 +4379,9 @@
 "universo": "cyberverse"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-14-la-doppia-spirale"
+],
 "created": "2026-09-13",
 "estrazione": 16,
 "id": "CYB-REG-rostkirche",
@@ -4391,7 +4409,9 @@
 "universo": "cyberverse"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-14-la-doppia-spirale"
+],
 "chiavi": "nomadi_urbani · ariete · riservato · paranoico",
 "created": "2026-09-13",
 "estrazione": 16,
@@ -4421,7 +4441,9 @@
 "universo": "cyberverse"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-14-la-doppia-spirale"
+],
 "chiavi": "nomadi_urbani · vergine · leale · ingenuo",
 "created": "2026-09-13",
 "estrazione": 16,
@@ -4436,7 +4458,9 @@
 "universo": "cyberverse"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-14-la-doppia-spirale"
+],
 "chiavi": "nomadi_urbani · sagittario · vigile · sordo_ai_consigli",
 "created": "2026-09-13",
 "estrazione": 16,
@@ -4466,7 +4490,9 @@
 "universo": "cyberverse"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-14-la-doppia-spirale"
+],
 "chiavi": "nomadi_urbani · cancro · sognatore · smemorato",
 "created": "2026-09-13",
 "estrazione": 16,
@@ -4481,7 +4507,9 @@
 "universo": "cyberverse"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-14-la-doppia-spirale"
+],
 "chiavi": "nomadi_urbani · bilancia · protettivo · avaro",
 "created": "2026-09-13",
 "estrazione": 16,
@@ -4718,7 +4746,9 @@
 "universo": "cyberverse"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-14-la-doppia-spirale"
+],
 "chiavi": "religione/teologia × chirurgia/trapiantologia",
 "created": "2026-09-13",
 "estrazione": 15,
@@ -5214,7 +5244,9 @@
 "universo": "cyberverse"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-14-la-doppia-spirale"
+],
 "chiavi": "Le famiglie dei donatori lo ricevono da Stefan al termine della funzione e lo portano al collo come pegno che l'anima di scorta del proprio caro resti catalogata dal culto.",
 "created": "2026-09-13",
 "estrazione": 25,
@@ -5230,7 +5262,9 @@
 "universo": "cyberverse"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-14-la-doppia-spirale"
+],
 "chiavi": "Stefan lo porta sempre con sé e lo consulta ossessivamente, riscrivendo negli stessi margini le note che teme di aver già perso.",
 "created": "2026-09-13",
 "estrazione": 25,
@@ -5246,7 +5280,9 @@
 "universo": "cyberverse"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-14-la-doppia-spirale"
+],
 "chiavi": "Stefan lo tiene in una tasca interna della stola e lo preme sul contratto notarile subito dopo la funzione, mentre l'incenso è ancora acceso.",
 "created": "2026-09-13",
 "estrazione": 25,

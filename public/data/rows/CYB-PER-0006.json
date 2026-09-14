@@ -3,7 +3,9 @@
 "orientamento": "bisessuale",
 "situazione": "relazione_segreta"
 },
-"appare_in": [],
+"appare_in": [
+"2026-09-14-la-doppia-spirale"
+],
 "casta": "nomadi_urbani",
 "ceppo": "germanico",
 "cognome": "Falkstein",
@@ -13,7 +15,22 @@
 "epoca_relativa": 0,
 "estrazione": 16,
 "eta_fascia": "anziano",
-"fatti": [],
+"fatti": [
+{
+"id": "CYB-FAT-34885804207-9",
+"momento": 9,
+"stabilito_da": "2026-09-14-la-doppia-spirale",
+"testo": "Friedrich Falkstein non può più modificare da solo il protocollo dell'anima di scorta: è compilato nella routine d'indicizzazione in licenza, e ogni modifica apre un ciclo di certificazione del comitato clinico Destreye Care™, che quest'anno ne ha respinte due.",
+"tipo_fatto": "regola_del_mondo"
+},
+{
+"id": "CYB-FAT-34885804207-10",
+"momento": 10,
+"stabilito_da": "2026-09-14-la-doppia-spirale",
+"testo": "Friedrich Falkstein conserva nell'ufficio protocollo sei anni di bobine con i colloqui in cui i pazienti dichiaravano le proprie paure prima dell'intervento, ed è da quelle che è stato ricavato il protocollo dell'anima di scorta.",
+"tipo_fatto": "stato"
+}
+],
 "gancio": "Friedrich rifiuta ogni richiesta di modifica al protocollo che ha scritto lui stesso, anche quando gli mostrano i casi in cui la copia sopravvive più a lungo del previsto.",
 "id": "CYB-PER-0006",
 "invenzione_id": "CYB-INV-0015",

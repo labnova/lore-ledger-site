@@ -45,5 +45,56 @@
 "tipo": "racconto",
 "titolo": "L'Ora di Anticipo",
 "universo": "steamverse"
+},
+{
+"battute": 21712,
+"branch": "main",
+"canali": [],
+"cluster": "CYB-INV-0015",
+"creato": "2026-09-14",
+"fatti_stabiliti": [
+"CYB-FAT-34885804207-1",
+"CYB-FAT-34885804207-2",
+"CYB-FAT-34885804207-3",
+"CYB-FAT-34885804207-4",
+"CYB-FAT-34885804207-5",
+"CYB-FAT-34885804207-6",
+"CYB-FAT-34885804207-7",
+"CYB-FAT-34885804207-8",
+"CYB-FAT-34885804207-9",
+"CYB-FAT-34885804207-10",
+"CYB-FAT-34885804207-11",
+"CYB-FAT-34885804207-12"
+],
+"id": "2026-09-14-la-doppia-spirale",
+"numero": null,
+"personaggi": [
+"CYB-PER-0003",
+"CYB-PER-0004",
+"CYB-PER-0006",
+"CYB-PER-0007",
+"CYB-PER-0009"
+],
+"regione": "Rostkirche",
+"righe_usate": [
+"CYB-INV-0015",
+"CYB-PER-0003",
+"CYB-PER-0004",
+"CYB-PER-0006",
+"CYB-PER-0007",
+"CYB-PER-0009",
+"CYB-GAD-0002",
+"CYB-GAD-0003",
+"CYB-GAD-0004",
+"CYB-REG-rostkirche",
+"CYB-SEM-0001"
+],
+"scene": 6,
+"sinossi": "A Rostkirche, accampamento cresciuto attorno a uno snodo ferroviario dismesso ai margini del distretto trapianti, la clinica registra una copia dei ricordi di chi entra in sala. Markus è sopravvissuto all'intervento e da trentun giorni aspetta allo sportello che gli restituiscano la sua: scopre che il contratto firmato senza leggerlo l'ha ceduta per una rata pagata con un giorno di ritardo. Chi vende accessi non ufficiali, chi trasporta le copie in un carro refrigerato e chi le cataloga per il culto sanno ciascuno un pezzo; l'uomo che ha scritto il protocollo non intende cambiarlo.",
+"stato": "approvato",
+"testata": null,
+"tipo": "racconto",
+"titolo": "La Doppia Spirale",
+"universo": "cyberverse"
 }
 ]

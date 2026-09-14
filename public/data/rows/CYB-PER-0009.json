@@ -3,7 +3,9 @@
 "orientamento": "omosessuale",
 "situazione": "fidanzato"
 },
-"appare_in": [],
+"appare_in": [
+"2026-09-14-la-doppia-spirale"
+],
 "casta": "nomadi_urbani",
 "ceppo": "germanico",
 "cognome": "Hoffinberg",
@@ -13,7 +15,15 @@
 "epoca_relativa": 0,
 "estrazione": 16,
 "eta_fascia": "adulto",
-"fatti": [],
+"fatti": [
+{
+"id": "CYB-FAT-34885804207-3",
+"momento": 3,
+"stabilito_da": "2026-09-14-la-doppia-spirale",
+"testo": "Detlef Hoffinberg ha rifiutato per la prima volta un accesso che aveva già quotato, dopo aver riconosciuto nel filamento dell'Amuleto dell'Anima di Scorta il tracciato con cui il culto degli antenati indicizza le copie.",
+"tipo_fatto": "evento"
+}
+],
 "gancio": "Detlef controlla ogni notte che nessuno abbia clonato le copie che vende, ma non ha mai controllato se qualcuno ha clonato la sua, perché non ne ha mai fatta una.",
 "id": "CYB-PER-0009",
 "invenzione_id": "CYB-INV-0015",
