@@ -2193,5 +2193,50 @@
 "ELA-PER-0033",
 "ELA-REG-scafo-zero"
 ]
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"NEO-GAD-0039",
+"NEO-INV-0003",
+"NEO-GAD-0016",
+"NEO-INV-0031",
+"NEO-PER-0002"
+],
+"chiavi": {
+"invenzione_id": "NEO-INV-0031",
+"n_prod": 2,
+"personaggio_id": "NEO-PER-0002",
+"universo": "neofeudal"
+},
+"created": "2026-09-14",
+"esito": "ok",
+"espansioni": [
+{
+"id": "NEO-INV-0045",
+"parent_id": "NEO-INV-0003"
+}
+],
+"estrazione": 51,
+"forzata": false,
+"lotto": "lotto-gadget",
+"modello": "claude-sonnet-5",
+"prod": [
+"NEO-GAD-0042",
+"NEO-GAD-0050"
+],
+"righe_prodotte": [
+"NEO-GAD-0042",
+"NEO-GAD-0043",
+"NEO-GAD-0044",
+"NEO-GAD-0045",
+"NEO-GAD-0046",
+"NEO-GAD-0047",
+"NEO-GAD-0048",
+"NEO-GAD-0049",
+"NEO-GAD-0050",
+"NEO-GAD-0051",
+"NEO-INV-0045"
+]
 }
 ]

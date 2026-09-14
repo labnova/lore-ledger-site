@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"gioco_azzardo",
+"meccanica/orologeria"
+],
+"epoca_relativa": 1,
+"estrazione": 51,
+"fatti": [],
+"gancio": "Un pallottoliere ha ancora una perlina fusa tutta a sinistra, nessuno sa più quale scommessa rappresenti, ma il Notaio non osa romperla.",
+"id": "NEO-INV-0045",
+"media": [],
+"nome": "Il Conto che Non Torna Indietro",
+"nome_reale": "Abaco a perline vincolate",
+"parent_id": "NEO-INV-0003",
+"poc": false,
+"regione": "Calvenna",
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Se il Notaio delle Sorti registra le puntate su una pergamena che nessuno può cancellare, l'abaco a perline vincolate nasce per controllarlo a vista, un chierico riscalda una perlina di cera prima di spostarla e, una volta fusa contro il telaio, quella perlina non scorre più all'indietro.",
+"universo": "neofeudal"
+}

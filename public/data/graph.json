@@ -316,6 +316,16 @@
 "to": "NEO-INV-0024"
 },
 {
+"from": "NEO-INV-0003",
+"kind": "parent",
+"to": "NEO-INV-0045"
+},
+{
+"from": "NEO-INV-0045",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
 "from": "STE-INV-0013",
 "kind": "parent",
 "to": "STE-INV-0021"
@@ -3006,6 +3016,156 @@
 "to": "NEO-REG-vranidol"
 },
 {
+"from": "NEO-GAD-0042",
+"kind": "invenzione",
+"to": "NEO-INV-0031"
+},
+{
+"from": "NEO-GAD-0042",
+"kind": "personaggio",
+"to": "NEO-PER-0002"
+},
+{
+"from": "NEO-GAD-0042",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-GAD-0043",
+"kind": "invenzione",
+"to": "NEO-INV-0031"
+},
+{
+"from": "NEO-GAD-0043",
+"kind": "personaggio",
+"to": "NEO-PER-0002"
+},
+{
+"from": "NEO-GAD-0043",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-GAD-0044",
+"kind": "invenzione",
+"to": "NEO-INV-0031"
+},
+{
+"from": "NEO-GAD-0044",
+"kind": "personaggio",
+"to": "NEO-PER-0002"
+},
+{
+"from": "NEO-GAD-0044",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-GAD-0045",
+"kind": "invenzione",
+"to": "NEO-INV-0031"
+},
+{
+"from": "NEO-GAD-0045",
+"kind": "personaggio",
+"to": "NEO-PER-0002"
+},
+{
+"from": "NEO-GAD-0045",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-GAD-0046",
+"kind": "invenzione",
+"to": "NEO-INV-0031"
+},
+{
+"from": "NEO-GAD-0046",
+"kind": "personaggio",
+"to": "NEO-PER-0002"
+},
+{
+"from": "NEO-GAD-0046",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-GAD-0047",
+"kind": "invenzione",
+"to": "NEO-INV-0031"
+},
+{
+"from": "NEO-GAD-0047",
+"kind": "personaggio",
+"to": "NEO-PER-0002"
+},
+{
+"from": "NEO-GAD-0047",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-GAD-0048",
+"kind": "invenzione",
+"to": "NEO-INV-0031"
+},
+{
+"from": "NEO-GAD-0048",
+"kind": "personaggio",
+"to": "NEO-PER-0002"
+},
+{
+"from": "NEO-GAD-0048",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-GAD-0049",
+"kind": "invenzione",
+"to": "NEO-INV-0031"
+},
+{
+"from": "NEO-GAD-0049",
+"kind": "personaggio",
+"to": "NEO-PER-0002"
+},
+{
+"from": "NEO-GAD-0049",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-GAD-0050",
+"kind": "invenzione",
+"to": "NEO-INV-0031"
+},
+{
+"from": "NEO-GAD-0050",
+"kind": "personaggio",
+"to": "NEO-PER-0002"
+},
+{
+"from": "NEO-GAD-0050",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-GAD-0051",
+"kind": "invenzione",
+"to": "NEO-INV-0031"
+},
+{
+"from": "NEO-GAD-0051",
+"kind": "personaggio",
+"to": "NEO-PER-0002"
+},
+{
+"from": "NEO-GAD-0051",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
 "from": "STE-GAD-0001",
 "kind": "invenzione",
 "to": "STE-INV-0001"
@@ -5473,6 +5633,66 @@
 "universo": "neofeudal"
 },
 {
+"id": "NEO-GAD-0042",
+"tipo": "gadget",
+"titolo": "Regolo di Piena",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0043",
+"tipo": "gadget",
+"titolo": "Bastone Cavo",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0044",
+"tipo": "gadget",
+"titolo": "Grembiule Fangoso",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0045",
+"tipo": "gadget",
+"titolo": "Tappo di Cera Versettato",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0046",
+"tipo": "gadget",
+"titolo": "Campanella da Bancone",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0047",
+"tipo": "gadget",
+"titolo": "Cassetta dei Caratteri Notturni",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0048",
+"tipo": "gadget",
+"titolo": "Ampolla del Doppio Rito",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0049",
+"tipo": "gadget",
+"titolo": "Quaderno delle Bozze False",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0050",
+"tipo": "gadget",
+"titolo": "Chiave del Chiusino",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0051",
+"tipo": "gadget",
+"titolo": "Ciondolo del Custode Donna",
+"universo": "neofeudal"
+},
+{
 "id": "NEO-INV-0001",
 "tipo": "invenzione",
 "titolo": "Giudizio dei Galli di Calvenna",
@@ -5734,6 +5954,12 @@
 "id": "NEO-INV-0044",
 "tipo": "invenzione",
 "titolo": "Il Filo dei Pascoli Chiusi",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0045",
+"tipo": "invenzione",
+"titolo": "Il Conto che Non Torna Indietro",
 "universo": "neofeudal"
 },
 {
