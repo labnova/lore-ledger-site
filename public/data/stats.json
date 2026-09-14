@@ -12,14 +12,14 @@
 "contenuto": 6,
 "fatto": 5,
 "gadget": 92,
-"invenzione": 209,
+"invenzione": 210,
 "personaggio": 100,
 "regione": 7,
 "seme": 5
 },
 "righe_per_universo": {
 "cyberverse": 60,
-"elabverse": 132,
+"elabverse": 133,
 "hackverse": 58,
 "neofeudal": 121,
 "steamverse": 53
@@ -32,6 +32,6 @@
 }
 },
 "ultima_generazione": "2026-09-14",
-"ultimo_build": "2026-09-14T02:16:21+00:00",
+"ultimo_build": "2026-09-14T03:19:27+00:00",
 "ultimo_racconto": "2026-09-13"
 }

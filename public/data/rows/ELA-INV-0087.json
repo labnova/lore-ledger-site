@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"arte_visiva/affresco",
+"cartografia/proiezioni"
+],
+"epoca_relativa": 4,
+"estrazione": 38,
+"fatti": [],
+"gancio": "Un vecchio restauratore mostra a un allievo due sinopie trovate in edifici diversi, identiche tratto per tratto, e gli chiede quale delle due sia stata disegnata per prima, ma nessuno dei due registri lo sa.",
+"id": "ELA-INV-0087",
+"media": [],
+"nome": "La Terra di Sinope",
+"nome_reale": "Sinopia",
+"parent_id": "ELA-INV-0085",
+"poc": false,
+"regione": null,
+"relazione": "corruzione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Prima che qualcuno la chiamasse sinopia, i restauratori più anziani la chiamavano la terra di Sinope, e giurano che il disegno sotto l'affresco e quello sotto la carta proiettata siano in realtà lo stesso segno, copiato due volte da due registri che non si parlano.",
+"universo": "elabverse"
+}
