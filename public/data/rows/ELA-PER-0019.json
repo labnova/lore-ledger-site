@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "bisessuale",
+"situazione": "vedovo"
+},
+"appare_in": [],
+"casta": "navigatori",
+"ceppo": "turco",
+"cognome": "Kayatemaz",
+"contraddizione": "Si dichiara scettica su ogni credenza di bordo, ma usa il cono per la sua vigilanza solo dopo aver toccato tre volte l'intonaco fresco della fascia bianca, convinta in segreto che il crollo di quella parete sarebbe un giudizio contro di lei.",
+"created": "2026-09-14",
+"difetto": "superstizioso",
+"epoca_relativa": 0,
+"estrazione": 37,
+"eta_fascia": "adulto",
+"fatti": [],
+"gancio": "Ha smesso di riferire un crepa nella fascia bianca perché, se davvero fosse un giudizio, preferisce non essere lei a scoprirlo per prima.",
+"id": "ELA-PER-0019",
+"invenzione_id": "ELA-INV-0030",
+"media": [],
+"nome": "Leyla",
+"parent_id": null,
+"rapporto": "usa",
+"regione": "Konya",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "cancro",
+"spirituale": {
+"credenza": "il_crollo_come_giudizio",
+"rapporto": "scettico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "vigile",
+"universo": "elabverse"
+}

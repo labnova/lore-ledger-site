@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "asessuale",
+"situazione": "separato"
+},
+"appare_in": [],
+"casta": "navigatori",
+"ceppo": "turco",
+"cognome": "Gültecı",
+"contraddizione": "È il vigile che usa il cono per confermare, guardia dopo guardia, che nessuna nave si sposti oltre la fascia sicura, ma la sua distrazione crudele gli ha già fatto segnalare come \"in rotta\" un derelitto che invece stava affondando fuori misura.",
+"created": "2026-09-14",
+"difetto": "crudele_per_distrazione",
+"epoca_relativa": 0,
+"estrazione": 37,
+"eta_fascia": "adulto",
+"fatti": [],
+"gancio": "Qualcuno ha ricalcolato in silenzio quella segnalazione sbagliata e ora ne chiede conto proprio la famiglia del derelitto che Berk credeva salvo.",
+"id": "ELA-PER-0018",
+"invenzione_id": "ELA-INV-0030",
+"media": [],
+"nome": "Berk",
+"parent_id": null,
+"rapporto": "usa",
+"regione": "Konya",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "gemelli",
+"spirituale": {
+"credenza": "dottrina_del_debito",
+"rapporto": "scettico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "vigile",
+"universo": "elabverse"
+}

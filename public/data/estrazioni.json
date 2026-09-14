@@ -1673,5 +1673,62 @@
 "righe_prodotte": [
 "HAC-GAD-0001"
 ]
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"ELA-INV-0030",
+"ELA-REG-konya",
+"ELA-PER-0002",
+"ELA-INV-0007"
+],
+"chiavi": {
+"casta": "navigatori",
+"invenzione_id": "ELA-INV-0030",
+"personaggi": [
+"ELA-PER-0012",
+"ELA-PER-0013",
+"ELA-PER-0014",
+"ELA-PER-0015",
+"ELA-PER-0016",
+"ELA-PER-0017",
+"ELA-PER-0018",
+"ELA-PER-0019",
+"ELA-PER-0020",
+"ELA-PER-0021"
+],
+"regione": "ELA-REG-konya",
+"universo": "elabverse"
+},
+"created": "2026-09-14",
+"esito": "ok",
+"espansioni": [
+{
+"child_id": "ELA-PER-0022",
+"parent_id": "ELA-PER-0002"
+},
+{
+"child_id": "ELA-INV-0084",
+"parent_id": "ELA-INV-0007"
+}
+],
+"estrazione": 37,
+"forzata": false,
+"lotto": "lotto-personaggi",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"ELA-PER-0012",
+"ELA-PER-0013",
+"ELA-PER-0014",
+"ELA-PER-0015",
+"ELA-PER-0016",
+"ELA-PER-0017",
+"ELA-PER-0018",
+"ELA-PER-0019",
+"ELA-PER-0020",
+"ELA-PER-0021",
+"ELA-PER-0022",
+"ELA-INV-0084"
+]
 }
 ]

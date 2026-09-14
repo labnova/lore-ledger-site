@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"acustica/fonetica",
+"ottica/spettroscopia"
+],
+"epoca_relativa": 1,
+"estrazione": 37,
+"fatti": [],
+"gancio": "Due archivisti, applicando la stessa sottrazione allo stesso segnale d'archivio, tolgono rumori diversi e restano con due messaggi finali che non si assomigliano affatto.",
+"id": "ELA-INV-0084",
+"media": [],
+"nome": "Il Rumore che Va Tolto Prima del Silenzio",
+"nome_reale": "Sottrazione del continuo",
+"parent_id": "ELA-INV-0007",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Se le Assenze di Fraunhofer insegnano a leggere il silenzio tra le parole di un messaggio radio, la sottrazione del continuo insegna prima a togliere ogni rumore di fondo dal segnale, cioè a decidere cosa è chiacchiera e cosa è silenzio voluto; gli archivisti scoprono che il confine tra le due cose si sposta ogni volta che qualcuno lo ridisegna.",
+"universo": "elabverse"
+}

@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "pansessuale",
+"situazione": "relazione_segreta"
+},
+"appare_in": [],
+"casta": "navigatori",
+"ceppo": "turco",
+"cognome": "Akderier",
+"contraddizione": "Vuole il posto di primo cartografo del ponte, ma è troppo pigro per ricalcolare da capo la fascia di latitudine sicura, così falsifica i valori del cono copiandoli dal turno precedente e spacciandoli per lavoro nuovo.",
+"created": "2026-09-14",
+"difetto": "indolente",
+"epoca_relativa": 0,
+"estrazione": 37,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "Il capitano gli chiede di intonacare in anticipo la fascia successiva del murale, e Hasan non ha la minima idea di dove cominci davvero quella attuale.",
+"id": "ELA-PER-0012",
+"invenzione_id": "ELA-INV-0030",
+"media": [],
+"nome": "Hasan",
+"parent_id": null,
+"rapporto": "falsifica",
+"regione": "Konya",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "vergine",
+"spirituale": {
+"credenza": "la_voce_nella_rete",
+"rapporto": "mistico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ambizioso",
+"universo": "elabverse"
+}

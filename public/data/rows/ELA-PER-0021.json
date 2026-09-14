@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "bisessuale",
+"situazione": "promesso_per_contratto"
+},
+"appare_in": [],
+"casta": "navigatori",
+"ceppo": "basco",
+"cognome": "Larraberri",
+"contraddizione": "Studia il cono con occhio pragmatico, riducendolo a semplici tabelle di sicurezza, ma la sua indolenza le fa consegnare in ritardo le stime della fascia successiva proprio nelle settimane in cui dovrebbe supervisionare il proprio matrimonio combinato per contratto.",
+"created": "2026-09-14",
+"difetto": "indolente",
+"epoca_relativa": 0,
+"estrazione": 37,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "Il promesso sposo scelto per contratto lavora nello stesso ponte del murale, e aspetta la sua stima in ritardo più di quanto aspetti lei.",
+"id": "ELA-PER-0021",
+"invenzione_id": "ELA-INV-0030",
+"media": [],
+"nome": "Edurne",
+"parent_id": null,
+"rapporto": "studia",
+"regione": "Konya",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "acquario",
+"spirituale": {
+"credenza": "culto_degli_antenati",
+"rapporto": "funzionario_del_culto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "pragmatico",
+"universo": "elabverse"
+}

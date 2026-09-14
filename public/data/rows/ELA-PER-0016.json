@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "poliamoroso"
+},
+"appare_in": [],
+"casta": "navigatori",
+"ceppo": "turco",
+"cognome": "Marangoz",
+"contraddizione": "Ha costruito con le proprie mani il primo cono che il convoglio abbia mai usato per dipingere solo la fascia sicura, ma da anziana scommette in segreto, con i colleghi più giovani, su quanto ci vorrà prima che qualcuno intonachi oltre il limite per errore.",
+"created": "2026-09-14",
+"difetto": "giocatore",
+"epoca_relativa": 0,
+"estrazione": 37,
+"eta_fascia": "anziano",
+"fatti": [],
+"gancio": "Ha appena vinto una scommessa su un errore di intonacatura che, controllando i registri, risulta essere stato commesso da lei stessa trent'anni prima.",
+"id": "ELA-PER-0016",
+"invenzione_id": "ELA-INV-0030",
+"media": [],
+"nome": "Meltem",
+"parent_id": null,
+"rapporto": "costruita",
+"regione": "Konya",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "ariete",
+"spirituale": {
+"credenza": "nessun_dio_solo_registri",
+"rapporto": "devoto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "diplomatico",
+"universo": "elabverse"
+}

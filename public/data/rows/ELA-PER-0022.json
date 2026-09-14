@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "single"
+},
+"appare_in": [],
+"casta": "navigatori",
+"ceppo": "turco",
+"cognome": "Dinleyici",
+"contraddizione": "È l'apprendista più attenta di Nazlı, l'unica a cui è permesso studiare da vicino l'ultimo rilevatore costruito da lei, ma la sua insonnia la spinge a riascoltare da sola, notte dopo notte, proprio le frequenze che Nazlı si rifiuta di sentire.",
+"created": "2026-09-14",
+"difetto": "insonne",
+"epoca_relativa": 0,
+"estrazione": 37,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Derya ha iniziato a trascrivere parole da quelle frequenze proibite, e le parole formano una frase che nessuno a bordo riconosce.",
+"id": "ELA-PER-0022",
+"invenzione_id": "ELA-INV-0005",
+"media": [],
+"nome": "Derya",
+"parent_id": "ELA-PER-0002",
+"rapporto": "studia",
+"regione": "Konya",
+"relazione": "espansione",
+"ritratto": null,
+"schema_version": 1,
+"segno": "pesci",
+"spirituale": {
+"credenza": "la_voce_nella_rete",
+"rapporto": "mistico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "attento",
+"universo": "elabverse"
+}
