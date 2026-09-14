@@ -366,11 +366,6 @@
 "to": "STE-INV-0026"
 },
 {
-"from": "STE-INV-0010",
-"kind": "parent",
-"to": "STE-INV-0027"
-},
-{
 "from": "CYB-PER-0001",
 "kind": "invenzione",
 "to": "CYB-INV-0015"
@@ -6949,12 +6944,6 @@
 "id": "STE-INV-0026",
 "tipo": "invenzione",
 "titolo": "Le Carte Confermate",
-"universo": "steamverse"
-},
-{
-"id": "STE-INV-0027",
-"tipo": "invenzione",
-"titolo": "Il Fiume Secondo",
 "universo": "steamverse"
 },
 {

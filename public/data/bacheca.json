@@ -29,12 +29,50 @@
 ]
 },
 {
+"alternative": [],
+"artefatti_prodotti": [],
+"artefatto_dettaglio": {
+"carta": "BAC-34900933278-1",
+"commento": null,
+"errori_schema": [],
+"id": "STE-INV-0027",
+"motivazione": null,
+"promossa_il": null,
+"riga": {
+"created": "2026-09-14",
+"discipline": [
+"logistica/catena_del_freddo",
+"geografia/idrografia"
+],
+"epoca_relativa": 0,
+"estrazione": 19,
+"gancio": "Un ingegnere idraulico nota che il fiume secondo ha una piena proprio nei giorni in cui il fiume vero è insolitamente basso; confrontando le portate, trova che la coincidenza si ripete con precisione meccanica.",
+"id": "STE-INV-0027",
+"nome": "Il Fiume Secondo",
+"nome_reale": "Acquedotto cittadino riadattato per trasportare salamoia refrigerante tra i quartieri",
+"origine": "approfondimento",
+"parent_id": "STE-INV-0010",
+"poc": false,
+"regione": "Aetheria",
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il fiume secondo scorre sotto le vie principali seguendo esattamente il tracciato del fiume vero, come se qualcuno avesse voluto costruirne una copia da controllare meglio; il tracciato è stato rilevato e la sua corrispondenza con quello vero è registrata come prova di un progetto deliberato.",
+"universo": "steamverse"
+},
+"scartata_per": null,
+"stato": "provvisoria",
+"versione": 1,
+"versioni": []
+},
 "chiusa_il": null,
 "creata": "2026-09-14T21:50:04Z",
 "esito": null,
 "id": "BAC-34900933278-1",
+"letto_a": null,
 "payload": {
-"artefatto": "ledger/invenzioni/STE-INV-0027.yaml",
+"artefatto": "proposte/righe/STE-INV-0027.yaml",
 "candidati": [
 "STE-INV-0010",
 "STE-INV-0021",
@@ -42,6 +80,7 @@
 ],
 "forma": "espansione",
 "lacuna": "nessuna figlia e regione non assegnata",
+"migrata": "riga STE-INV-0027 tornata provvisoria (era entrata nel ledger senza giudizio)",
 "motivazione": "STE-INV-0010 ha parent_id null, regione null e nessuna figlia a ledger: due vuoti e un'orfanità che posso riparare senza toccare la madre, che madre non ha. STE-INV-0021 è già espansione di STE-INV-0013: una figlia in più la sovraccarica, e il suo gancio chiede narrazione, non struttura. HAC-PER-0011 ha un solo campo vuoto, affettivo null, ed è già legata a HAC-INV-0001: poco lavoro per un restauratore. Il Fiume Secondo invece chiede una figlia che registri il tracciato e la piena alternata: la regione mancante è precisamente ciò che quella figlia può fissare. Propongo espansione, non tocco il corpo della madre.",
 "scelto": "STE-INV-0010"
 },
@@ -69,7 +108,20 @@
 ]
 },
 {
+"alternativa_dettaglio": null,
+"auto_riferimento": true,
+"carta_madre": "BAC-34900933278-1",
 "chiusa_il": null,
+"contro_cercato_marcato": [
+{
+"auto_riferimento": true,
+"id": "STE-INV-0027"
+},
+{
+"auto_riferimento": false,
+"id": "STE-INV-0010"
+}
+],
 "creata": "2026-09-14T21:51:02Z",
 "esito": null,
 "id": "BAC-34900935322-1",
@@ -109,7 +161,16 @@
 ]
 },
 {
+"alternativa_dettaglio": null,
+"auto_riferimento": true,
+"carta_madre": "BAC-34900933278-1",
 "chiusa_il": null,
+"contro_cercato_marcato": [
+{
+"auto_riferimento": true,
+"id": "STE-INV-0027"
+}
+],
 "creata": "2026-09-14T21:51:07Z",
 "esito": null,
 "id": "BAC-34900935322-2",

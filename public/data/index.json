@@ -1,23 +1,6 @@
 [
 {
 "appare_in": [],
-"chiavi": "logistica/catena_del_freddo × geografia/idrografia",
-"created": "2026-09-14",
-"estrazione": 19,
-"gancio": "Un ingegnere idraulico nota che il fiume secondo ha una piena proprio nei giorni in cui il fiume vero è insolitamente basso; confrontando le portate, trova che la coincidenza si ripete con precisione meccanica.",
-"id": "STE-INV-0027",
-"origine": "approfondimento",
-"parent_id": "STE-INV-0010",
-"poc": false,
-"regione": "Aetheria",
-"relazione": "espansione",
-"sommario": "Un ingegnere idraulico nota che il fiume secondo ha una piena proprio nei giorni in cui il fiume vero è insolitamente basso; confrontando le portate, trova che…",
-"tipo": "invenzione",
-"titolo": "Il Fiume Secondo",
-"universo": "steamverse"
-},
-{
-"appare_in": [],
 "chiavi": "video_lungo · vimeo · trailer_20s",
 "created": "2026-09-14",
 "estrazione": 52,

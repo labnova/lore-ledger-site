@@ -12,7 +12,7 @@
 "contenuto": 9,
 "fatto": 17,
 "gadget": 113,
-"invenzione": 282,
+"invenzione": 281,
 "personaggio": 124,
 "regione": 10,
 "seme": 7
@@ -22,7 +22,7 @@
 "elabverse": 185,
 "hackverse": 73,
 "neofeudal": 176,
-"steamverse": 56
+"steamverse": 55
 },
 "sospesi_per_universo": {
 "cyberverse": {
@@ -37,6 +37,6 @@
 }
 },
 "ultima_generazione": "2026-09-14",
-"ultimo_build": "2026-09-14T22:17:48+00:00",
+"ultimo_build": "2026-09-14T22:45:58+00:00",
 "ultimo_racconto": "2026-09-14"
 }
