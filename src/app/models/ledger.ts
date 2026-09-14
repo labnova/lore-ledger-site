@@ -3,11 +3,49 @@
  * Le rows sono copiate senza trasformazioni dallo YAML del ledger; gli altri file sono derivati.
  */
 
-export const UNIVERSI = ['cyberverse', 'neofeudal', 'steamverse', 'hackverse', 'elabverse'] as const;
+export const UNIVERSI = [
+  'cyberverse',
+  'neofeudal',
+  'steamverse',
+  'hackverse',
+  'elabverse',
+] as const;
 export type Universo = (typeof UNIVERSI)[number];
 
-export const TIPI = ['invenzione', 'personaggio', 'gadget', 'contenuto', 'regione'] as const;
+export const TIPI = [
+  'invenzione',
+  'personaggio',
+  'gadget',
+  'contenuto',
+  'seme',
+  'regione',
+  'fatto',
+] as const;
 export type Tipo = (typeof TIPI)[number];
+
+// ---------------------------------------------------------------------------
+// Media (contratto additivo: tutto opzionale, nessun media → layout invariato)
+
+export const MEDIA_TIPI = ['copertina', 'ritratto', 'tavola', 'scena', 'suono'] as const;
+export type MediaTipo = (typeof MEDIA_TIPI)[number];
+export type Strumento = 'midjourney' | 'chatgpt_images' | 'suno';
+
+/** Voce di `media[]` su racconti e righe: il minimo per mostrare il file. */
+export interface MediaRef {
+  id: string;
+  tipo: MediaTipo;
+  url: string;
+  strumento: Strumento | string;
+}
+
+/** Voce di `media.json`: manifest agganciabile (caricato, sorgente pubblicata). */
+export interface Media extends MediaRef {
+  universo: Universo;
+  sorgente: { tipo: 'racconto' | 'riga'; ref: string };
+  creato: string;
+  /** `parametri.ar` del manifest, se c'è (es. `2:3`). */
+  ar: string | null;
+}
 
 export const RELAZIONI = [
   'dialetto',
@@ -20,7 +58,14 @@ export const RELAZIONI = [
 ] as const;
 export type Relazione = (typeof RELAZIONI)[number];
 
-export const ETA_FASCE = ['bambino', 'adolescente', 'giovane', 'adulto', 'maturo', 'anziano'] as const;
+export const ETA_FASCE = [
+  'bambino',
+  'adolescente',
+  'giovane',
+  'adulto',
+  'maturo',
+  'anziano',
+] as const;
 export type EtaFascia = (typeof ETA_FASCE)[number];
 
 export type Rapporto = 'usa' | 'teme' | 'falsifica' | 'costruita' | 'vende' | 'studia';
@@ -62,7 +107,11 @@ export interface RigaBase {
   id: string;
   tipo: Tipo;
   universo: Universo;
+  /** Universi coinvolti quando la riga nasce da un'estrazione `cross`. */
+  universi?: string[];
   estrazione: number;
+  /** Numero dell'estrazione che ha prodotto la riga, se diverso da `estrazione`. */
+  estrazione_n?: number;
   created: string;
   parent_id: string | null;
   relazione: Relazione | null;
@@ -71,6 +120,9 @@ export interface RigaBase {
   regione: string | null;
   status: 'canon';
   schema_version?: number;
+  media?: MediaRef[];
+  /** Url del primo ritratto caricato (solo personaggi). */
+  ritratto?: string | null;
 }
 
 export interface Invenzione extends RigaBase {
@@ -151,7 +203,9 @@ export interface IndexEntry {
   id: string;
   tipo: Tipo;
   universo: Universo;
+  universi?: string[];
   estrazione: number;
+  estrazione_n?: number;
   created: string;
   parent_id: string | null;
   relazione: Relazione | null;
@@ -185,6 +239,9 @@ export interface RaccontoIndex {
   creato: string;
   n_scene: number | null;
   stato?: string;
+  media?: MediaRef[];
+  /** Url della prima copertina caricata. */
+  copertina?: string | null;
 }
 
 export interface FattoStabilito {
@@ -206,7 +263,13 @@ export interface Racconto extends RaccontoIndex {
 }
 
 export type EdgeKind = 'parent' | 'invenzione' | 'personaggio' | 'sorgente' | 'regione';
-export const EDGE_KINDS: EdgeKind[] = ['parent', 'invenzione', 'personaggio', 'sorgente', 'regione'];
+export const EDGE_KINDS: EdgeKind[] = [
+  'parent',
+  'invenzione',
+  'personaggio',
+  'sorgente',
+  'regione',
+];
 
 export interface GraphNode {
   id: string;
@@ -232,6 +295,8 @@ export type Lotto = 'lotto-lore' | 'lotto-personaggi' | 'lotto-gadget' | 'lotto-
 export interface Estrazione {
   estrazione: number;
   lotto: Lotto | string;
+  /** Universi coinvolti quando `chiavi.universo` è `cross`. */
+  universi?: string[];
   created: string;
   esito: string;
   forzata: boolean;
@@ -245,6 +310,38 @@ export interface Estrazione {
   prod?: number[];
   note?: string;
   [extra: string]: unknown;
+}
+
+/** Voce di `bacheca.json`: richiesta di lavoro postata alla macchina o a un curatore. */
+export interface Bacheca {
+  id: string;
+  titolo: string;
+  stato: string;
+  tipo: string;
+  priorita: string;
+  universi: string[];
+  righe: string[];
+  racconto: string | null;
+  postata_da: string | null;
+  presa_da: string | null;
+  creata: string | null;
+  presa_il: string | null;
+  scade: string | null;
+  chiusa_il: string | null;
+  tentativi: number;
+  esito: string | null;
+  /** Payload completo della carta (candidati, commento, nota, manifest…). */
+  payload: Record<string, unknown>;
+  /** Stati attraversati, in ordine. */
+  storia: StoriaBacheca[];
+  /** Per i commenti: id della carta commentata. */
+  carta_madre: string | null;
+}
+
+export interface StoriaBacheca {
+  stato: string;
+  quando: string;
+  da: string | null;
 }
 
 export interface Stats {

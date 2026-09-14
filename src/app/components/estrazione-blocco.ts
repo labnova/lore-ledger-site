@@ -1,6 +1,6 @@
 import { Component, computed, input } from '@angular/core';
 import { RouterLink } from '@angular/router';
-import { Estrazione, Riga } from '../models/ledger';
+import { Estrazione, Riga, isUniverso } from '../models/ledger';
 import { GruppoTipo, TestataEstrazione, chiaviPiatte } from '../data/ledger-logic';
 import { TIPO_PLURALE, UNIVERSO_LABEL } from '../data/labels';
 import { BadgeUniverso } from './badges';
@@ -22,6 +22,16 @@ import { RigaCard } from './riga-card';
           @if (t.universo) {
             <span aria-hidden="true">·</span>
             <app-badge-universo [universo]="t.universo" />
+          } @else if (t.universi.length) {
+            <span aria-hidden="true">·</span>
+            <span class="mono">cross</span>
+            @for (u of t.universi; track u) {
+              @if (isUniverso(u)) {
+                <app-badge-universo [universo]="u" />
+              } @else {
+                <span class="mono">{{ u }}</span>
+              }
+            }
           }
           @if (t.regioneNome) {
             <span aria-hidden="true">·</span>
@@ -47,20 +57,39 @@ import { RigaCard } from './riga-card';
         @if (chiavi().length) {
           <p class="blocco-chiavi mono">
             @for (c of chiavi(); track c.k) {
-              <span><span class="muted">{{ c.k }}:</span> {{ c.v }}</span>
+              <span
+                ><span class="muted">{{ c.k }}:</span> {{ c.v }}</span
+              >
             }
           </p>
         }
       </header>
       @for (g of gruppi(); track g.tipo) {
-        <h3>{{ tipoPlurale[g.tipo] }} <span class="muted mono">({{ g.righe.length }})</span></h3>
+        <h3>
+          {{ tipoPlurale[g.tipo] }} <span class="muted mono">({{ g.righe.length }})</span>
+        </h3>
         <div class="griglia due">
           @for (r of g.righe; track r.id) {
             <app-riga-card [riga]="r" [dettaglio]="dettagli().get(r.id) ?? null" />
           }
         </div>
       } @empty {
-        <p class="muted">Nessuna riga pubblicata per questa estrazione.</p>
+        @if (!mancanti().length) {
+          <p class="muted">Nessuna riga pubblicata per questa estrazione.</p>
+        }
+      }
+      @if (mancanti().length) {
+        <h3>
+          righe prodotte <span class="muted mono">({{ mancanti().length }})</span>
+        </h3>
+        <ul class="lista-righe">
+          @for (id of mancanti(); track id) {
+            <li>
+              <a class="mono" [routerLink]="['/r', id]">{{ id }}</a>
+              <span class="muted">non ancora nell'indice</span>
+            </li>
+          }
+        </ul>
       }
     </section>
   `,
@@ -70,6 +99,9 @@ export class EstrazioneBlocco {
   readonly testata = input.required<TestataEstrazione>();
   readonly gruppi = input.required<GruppoTipo[]>();
   readonly dettagli = input<Map<string, Riga>>(new Map());
+  /** Id di `righe_prodotte` assenti dall'indice. */
+  readonly mancanti = input<string[]>([]);
+  readonly isUniverso = isUniverso;
   /** Nella scheda `/e/:n` la testata è il titolo della pagina. */
   readonly titolo = input(false);
   readonly tipoPlurale = TIPO_PLURALE;

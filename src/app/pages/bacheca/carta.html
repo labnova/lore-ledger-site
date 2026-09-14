@@ -1,0 +1,235 @@
+@if (nonTrovata()) {
+  <h1>Carta non ancora pubblicata</h1>
+  <p class="non-pubblicata">
+    Carta <span class="mono">{{ id() }}</span> non ancora pubblicata — il json del sito si aggiorna
+    a ogni run di publish-site-data (e mostra solo le carte degli ultimi 30 giorni).
+    <a routerLink="/b">Tutta la bacheca</a>.
+  </p>
+} @else if (dati.error()) {
+  <h1>Bacheca non raggiungibile</h1>
+  <p role="alert" class="errore-fetch">
+    Impossibile scaricare <span class="mono">bacheca.json</span>: {{ dati.error() }}.
+    <a routerLink="/b">Torna alla bacheca</a> e riprova.
+  </p>
+} @else if (vista(); as v) {
+  @let c = v.carta;
+  <p class="muted"><a routerLink="/b">← bacheca</a></p>
+  <h1>
+    <span class="mono">{{ c.id }}</span>
+    <span aria-hidden="true">·</span>
+    <span>{{ c.tipo }}</span>
+  </h1>
+  <p class="blocco-meta mono">
+    <span>stato: {{ c.stato }}</span>
+    <span>priorità: {{ c.priorita }}</span>
+    <span [attr.title]="c.postata_da">postata da {{ nomeAgente(c.postata_da) }}</span>
+    @if (c.presa_da) {
+      <span [attr.title]="c.presa_da">presa da {{ nomeAgente(c.presa_da) }}</span>
+    }
+    @if (c.creata) {
+      <span>{{ c.creata }}</span>
+    }
+  </p>
+  <p class="lista-righe">
+    @for (u of c.universi; track u) {
+      @if (isUniverso(u)) {
+        <app-badge-universo [universo]="u" />
+      } @else {
+        <span class="mono">{{ u }}</span>
+      }
+    }
+    @for (id of c.righe; track id) {
+      <a class="mono" [routerLink]="['/r', id]">{{ id }}</a>
+    }
+    @if (c.racconto) {
+      <a [routerLink]="['/racconto', c.racconto]">{{ c.racconto }}</a>
+    }
+  </p>
+
+  @if (v.approfondimento; as a) {
+    <section class="blocco" aria-labelledby="candidati">
+      <h2 id="candidati">Candidati</h2>
+      <ol class="lista-righe candidati">
+        @for (id of a.candidati; track id) {
+          <li>
+            <a class="mono" [routerLink]="['/r', id]">{{ id }}</a>
+            @if (id === a.scelto) {
+              <strong class="scelto">scelto</strong>
+            }
+          </li>
+        }
+      </ol>
+      @if (a.lacuna) {
+        <p class="muted">lacuna: {{ a.lacuna }}</p>
+      }
+    </section>
+    <section class="blocco" aria-labelledby="motivazione">
+      <h2 id="motivazione">Motivazione</h2>
+      <p class="motivazione">{{ a.motivazione }}</p>
+    </section>
+    <section class="blocco" aria-labelledby="forma">
+      <h2 id="forma">Forma e artefatto</h2>
+      <p class="mono">
+        <span>forma: {{ a.forma || '—' }}</span>
+        <br />
+        artefatto:
+        @if (a.artefatto) {
+          @let l = linkArtefatto(a.artefatto);
+          @if (l) {
+            <a class="artefatto" [routerLink]="l">{{ a.artefatto }}</a>
+          } @else {
+            <span class="artefatto">{{ a.artefatto }}</span>
+          }
+        } @else {
+          <span class="muted">—</span>
+        }
+      </p>
+    </section>
+  }
+
+  @if (v.commenti.length) {
+    <section class="blocco" aria-labelledby="commenti">
+      <h2 id="commenti">
+        Commenti degli altri agenti <span class="muted mono">({{ v.commenti.length }})</span>
+      </h2>
+      <ul class="lista-righe commenti">
+        @for (k of v.commenti; track k.id) {
+          <li class="commento">
+            <p class="blocco-meta mono">
+              <a [routerLink]="['/b', k.id]">{{ k.id }}</a>
+              <span [attr.title]="k.da">{{ nomeAgente(k.da) }}</span>
+              <strong class="posizione">{{ k.posizione }}</strong>
+              @if (k.creata) {
+                <span class="muted">{{ k.creata }}</span>
+              }
+            </p>
+            <p class="testo">{{ k.testo }}</p>
+            @if (k.contro_cercato.length) {
+              <p class="mono contro">
+                <span class="muted">contro cercato:</span>
+                @for (id of k.contro_cercato; track id) {
+                  <a [routerLink]="['/r', id]">{{ id }}</a
+                  >{{ $last ? '' : ', ' }}
+                }
+              </p>
+            }
+            @if (k.artefatto_alternativo) {
+              <p class="mono">
+                <span class="muted">artefatto alternativo:</span> {{ k.artefatto_alternativo }}
+              </p>
+            }
+          </li>
+        }
+      </ul>
+    </section>
+  }
+
+  @if (v.approfondimento?.verdetto; as ver) {
+    <section class="blocco" aria-labelledby="verdetto">
+      <h2 id="verdetto">Verdetto</h2>
+      <p>
+        <strong class="mono">{{ ver.esito }}</strong>
+      </p>
+      @if (ver.risposta) {
+        <p>{{ ver.risposta }}</p>
+      }
+      @if (ver.motivazione_v2) {
+        <p class="muted">{{ ver.motivazione_v2 }}</p>
+      }
+      @if (ver.forma_v2 || ver.artefatto_v2) {
+        <p class="mono">
+          @if (ver.forma_v2) {
+            <span>forma v2: {{ ver.forma_v2 }}</span>
+          }
+          @if (ver.artefatto_v2) {
+            @let l2 = linkArtefatto(ver.artefatto_v2);
+            <br />
+            artefatto v2:
+            @if (l2) {
+              <a [routerLink]="l2">{{ ver.artefatto_v2 }}</a>
+            } @else {
+              <span>{{ ver.artefatto_v2 }}</span>
+            }
+          }
+        </p>
+      }
+    </section>
+  }
+
+  @if (v.nota; as n) {
+    <section class="blocco" aria-labelledby="osservazione">
+      <h2 id="osservazione">Osservazione</h2>
+      <p class="osservazione">{{ n.osservazione }}</p>
+      <p class="mono">
+        <span class="muted">bersaglio:</span>
+        <span class="bersaglio">{{ n.bersaglio || '—' }}</span>
+      </p>
+      <p class="mono">
+        <span class="muted">prove:</span>
+        @for (p of n.prove; track p) {
+          @let lp = linkArtefatto(p);
+          @if (lp) {
+            <a class="prova" [routerLink]="lp">{{ p }}</a>
+          } @else {
+            <span class="prova">{{ p }}</span>
+          }
+          {{ $last ? '' : ', ' }}
+        } @empty {
+          <span class="muted">—</span>
+        }
+      </p>
+    </section>
+    <section class="blocco" aria-labelledby="modifica">
+      <h2 id="modifica">Modifica proposta</h2>
+      <p class="modifica">{{ n.modifica_proposta || '—' }}</p>
+    </section>
+  }
+
+  @if (!v.approfondimento && !v.nota) {
+    <section class="blocco" aria-labelledby="campi">
+      <h2 id="campi">Stato della carta</h2>
+      <dl class="campi">
+        @for (f of v.campi; track f.k) {
+          <dt>{{ f.k }}</dt>
+          <dd class="mono">{{ f.v }}</dd>
+        }
+      </dl>
+      @if (c.carta_madre) {
+        <p class="mono">
+          <span class="muted">carta madre:</span>
+          <a [routerLink]="['/b', c.carta_madre]">{{ c.carta_madre }}</a>
+        </p>
+      }
+    </section>
+    <section class="blocco" aria-labelledby="payload">
+      <h2 id="payload">Payload</h2>
+      <pre class="mono payload">{{ v.payloadGrezzo }}</pre>
+    </section>
+  }
+
+  @if (c.esito && (v.approfondimento || v.nota)) {
+    <p class="mono"><span class="muted">esito:</span> {{ c.esito }}</p>
+  }
+
+  <section class="blocco" aria-labelledby="storia">
+    <h2 id="storia">Storia degli stati</h2>
+    <ol class="lista-righe storia">
+      @for (s of c.storia; track $index) {
+        <li>
+          <span class="mono">{{ s.stato }}</span>
+          <span class="mono muted">{{ s.quando }}</span>
+          @if (s.da) {
+            <span [attr.title]="s.da">{{ nomeAgente(s.da) }}</span>
+          }
+        </li>
+      } @empty {
+        <li class="muted">Nessun passaggio registrato.</li>
+      }
+    </ol>
+  </section>
+} @else {
+  <p class="muted" aria-live="polite">
+    Caricamento della carta <span class="mono">{{ id() }}</span
+    >…
+  </p>
+}

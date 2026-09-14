@@ -2,21 +2,27 @@
  * Funzioni pure sul contratto dati: nessuna dipendenza da Angular, testabili in isolamento.
  */
 import {
+  Bacheca,
   EDGE_KINDS,
   Estrazione,
   Graph,
   GraphEdge,
   IndexEntry,
+  isTipo,
+  isUniverso,
   Manifest,
+  Media,
+  MEDIA_TIPI,
+  MediaRef,
+  MediaTipo,
   Racconto,
   RaccontoIndex,
   Relazione,
   Riga,
   Stats,
   Tipo,
+  UNIVERSI,
   Universo,
-  isTipo,
-  isUniverso,
 } from '../models/ledger';
 
 // ---------------------------------------------------------------------------
@@ -89,6 +95,8 @@ function normalizzaRacconto<T extends RaccontoIndex>(e: T): T {
     righe_usate: Array.isArray(e.righe_usate) ? e.righe_usate.map(String) : [],
     battute: typeof e.battute === 'number' ? e.battute : 0,
     n_scene: typeof e.n_scene === 'number' ? e.n_scene : null,
+    media: parseMediaRefs(e.media),
+    copertina: typeof e.copertina === 'string' ? e.copertina : null,
   };
 }
 
@@ -111,7 +119,11 @@ export function filtraRacconti(rows: RaccontoIndex[], universo: Universo | ''): 
 
 /** Legge `racconti/<slug>.json`; `null` se non ha la forma minima o non è approvato. La scaletta, se mai presente, viene tolta. */
 export function parseRacconto(raw: unknown): Racconto | null {
-  if (!isRaccontoIndex(raw) || typeof (raw as unknown as Record<string, unknown>)['corpo'] !== 'string') return null;
+  if (
+    !isRaccontoIndex(raw) ||
+    typeof (raw as unknown as Record<string, unknown>)['corpo'] !== 'string'
+  )
+    return null;
   const { scaletta: _scaletta, ...resto } = raw as unknown as Record<string, unknown>;
   void _scaletta;
   const r = normalizzaRacconto(resto as unknown as Racconto);
@@ -119,9 +131,110 @@ export function parseRacconto(raw: unknown): Racconto | null {
     ...r,
     fatti_nuovi: Array.isArray(r.fatti_nuovi) ? r.fatti_nuovi.map(String) : [],
     fatti_stabiliti: Array.isArray(r.fatti_stabiliti)
-      ? r.fatti_stabiliti.filter((f) => isRecord(f) && typeof f['id'] === 'string' && typeof f['testo'] === 'string')
+      ? r.fatti_stabiliti.filter(
+          (f) => isRecord(f) && typeof f['id'] === 'string' && typeof f['testo'] === 'string',
+        )
       : [],
   };
+}
+
+// ---------------------------------------------------------------------------
+// Media
+
+function isMediaTipo(v: unknown): v is MediaTipo {
+  return typeof v === 'string' && (MEDIA_TIPI as readonly string[]).includes(v);
+}
+
+function isMediaRef(v: unknown): v is MediaRef {
+  return (
+    isRecord(v) &&
+    typeof v['id'] === 'string' &&
+    isMediaTipo(v['tipo']) &&
+    typeof v['url'] === 'string' &&
+    v['url'].length > 0
+  );
+}
+
+/** Legge `media[]` di una riga o di un racconto; le voci non conformi vengono scartate. */
+export function parseMediaRefs(raw: unknown): MediaRef[] {
+  if (!Array.isArray(raw)) return [];
+  return raw.filter(isMediaRef).map((m) => ({
+    id: m.id,
+    tipo: m.tipo,
+    url: m.url,
+    strumento: typeof m.strumento === 'string' ? m.strumento : '',
+  }));
+}
+
+/** Legge `media.json`: solo manifest con sorgente e universo validi. Ordine: `creato` desc, poi id desc. */
+export function parseMedia(raw: unknown): Media[] {
+  if (!Array.isArray(raw)) return [];
+  const out: Media[] = [];
+  for (const x of raw) {
+    if (!isMediaRef(x)) continue;
+    const m = x as unknown as Record<string, unknown>;
+    if (!isUniverso(m['universo'])) continue;
+    const s = m['sorgente'];
+    if (
+      !isRecord(s) ||
+      (s['tipo'] !== 'racconto' && s['tipo'] !== 'riga') ||
+      typeof s['ref'] !== 'string'
+    )
+      continue;
+    const p = isRecord(m['parametri']) ? m['parametri'] : {};
+    out.push({
+      id: x.id,
+      tipo: x.tipo,
+      url: x.url,
+      strumento: typeof m['strumento'] === 'string' ? m['strumento'] : '',
+      universo: m['universo'],
+      sorgente: { tipo: s['tipo'], ref: s['ref'] },
+      creato: typeof m['creato'] === 'string' ? m['creato'] : '',
+      ar: typeof p['ar'] === 'string' ? p['ar'] : null,
+    });
+  }
+  return out.sort((a, b) => {
+    if (a.creato !== b.creato) return a.creato < b.creato ? 1 : -1;
+    return a.id < b.id ? 1 : a.id > b.id ? -1 : 0;
+  });
+}
+
+export function primoMedia<T extends MediaRef>(lista: T[], tipo: MediaTipo): T | null {
+  return lista.find((m) => m.tipo === tipo) ?? null;
+}
+
+export function filtraMedia(lista: Media[], tipo: MediaTipo | ''): Media[] {
+  return tipo ? lista.filter((m) => m.tipo === tipo) : lista;
+}
+
+export interface GruppoMedia {
+  universo: Universo;
+  media: Media[];
+}
+
+/** Gruppi per universo nell'ordine di `UNIVERSI`; gli universi senza media non compaiono. */
+export function raggruppaMediaPerUniverso(lista: Media[]): GruppoMedia[] {
+  return UNIVERSI.map((universo) => ({
+    universo,
+    media: lista.filter((m) => m.universo === universo),
+  })).filter((g) => g.media.length > 0);
+}
+
+/** Route della sorgente di un media: il racconto o la scheda della riga. */
+export function linkSorgente(m: Media): string[] {
+  return m.sorgente.tipo === 'racconto' ? ['/racconto', m.sorgente.ref] : ['/r', m.sorgente.ref];
+}
+
+/**
+ * Testo di una scaletta SVG pronto per l'inline: `null` se il file non è un SVG o contiene script o
+ * handler. Il file arriva dal repo privato, ma passa comunque questo controllo prima del bypass del sanitizer.
+ */
+export function svgInline(testo: string): string | null {
+  const t = testo.trim();
+  if (!/^(<\?xml[^>]*>\s*)?(<!--[\s\S]*?-->\s*)*(<!DOCTYPE[^>]*>\s*)?<svg[\s>]/i.test(t))
+    return null;
+  if (/<script|<foreignObject|\son[a-z]+\s*=|javascript:/i.test(t)) return null;
+  return t;
 }
 
 /** Scene del testo narrativo: segmenti separati da una riga `* * *`. */
@@ -133,7 +246,11 @@ export function sceneDelTesto(corpo: string): string[] {
 }
 
 /** Racconti che usano la riga: `appare_in` della riga se c'è, altrimenti calcolato da `righe_usate` dei racconti. */
-export function appareIn(id: string, racconti: RaccontoIndex[], appare?: string[] | null): RaccontoIndex[] {
+export function appareIn(
+  id: string,
+  racconti: RaccontoIndex[],
+  appare?: string[] | null,
+): RaccontoIndex[] {
   const bySlug = new Map(racconti.map((r) => [r.slug, r]));
   if (Array.isArray(appare)) {
     return ordinaRacconti(appare.map((s) => bySlug.get(s)).filter((r): r is RaccontoIndex => !!r));
@@ -146,7 +263,10 @@ export function parseGraph(raw: unknown): Graph {
   const nodes = Array.isArray(raw['nodes'])
     ? raw['nodes'].filter(
         (n): n is Graph['nodes'][number] =>
-          isRecord(n) && typeof n['id'] === 'string' && isTipo(n['tipo']) && isUniverso(n['universo']),
+          isRecord(n) &&
+          typeof n['id'] === 'string' &&
+          isTipo(n['tipo']) &&
+          isUniverso(n['universo']),
       )
     : [];
   const ids = new Set(nodes.map((n) => n.id));
@@ -186,7 +306,8 @@ export function parseStats(raw: unknown): Stats {
     righe_per_tipo: rec('righe_per_tipo'),
     righe_per_universo: rec('righe_per_universo'),
     regioni_per_universo: rec('regioni_per_universo'),
-    ultima_generazione: typeof r['ultima_generazione'] === 'string' ? r['ultima_generazione'] : null,
+    ultima_generazione:
+      typeof r['ultima_generazione'] === 'string' ? r['ultima_generazione'] : null,
     estrazioni_totali: typeof r['estrazioni_totali'] === 'number' ? r['estrazioni_totali'] : 0,
     racconti_totali: typeof r['racconti_totali'] === 'number' ? r['racconti_totali'] : 0,
     ultimo_racconto: typeof r['ultimo_racconto'] === 'string' ? r['ultimo_racconto'] : null,
@@ -239,10 +360,7 @@ export function sortByCreatedDesc<T extends { created: string; id: string }>(row
 
 /** Minuscole e senza accenti, per confronti tolleranti. */
 function norm(s: string): string {
-  return s
-    .toLowerCase()
-    .normalize('NFD')
-    .replace(/[̀-ͯ]/g, '');
+  return s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
 }
 
 /** Applica i filtri del feed. Il testo cerca in id, titolo, sommario e regione. */
@@ -349,7 +467,198 @@ export function pescataIn(id: string, estrazioni: Estrazione[]): Estrazione[] {
 /** Righe prodotte da un'estrazione: `righe_prodotte` se c'è, più tutte le righe con quel numero. */
 export function righeDiEstrazione(e: Estrazione, index: IndexEntry[]): IndexEntry[] {
   const ids = new Set(e.righe_prodotte ?? []);
-  return index.filter((r) => r.estrazione === e.estrazione || ids.has(r.id));
+  return index.filter((r) => (r.estrazione_n ?? r.estrazione) === e.estrazione || ids.has(r.id));
+}
+
+/** Id in `righe_prodotte` che non sono (ancora) nell'indice. */
+export function righeMancanti(e: Estrazione, index: IndexEntry[]): string[] {
+  const noti = new Set(index.map((r) => r.id));
+  return (e.righe_prodotte ?? []).filter((id) => !noti.has(id));
+}
+
+/** Universi di un'estrazione `cross`: `universi[]` sull'estrazione o nelle chiavi. */
+export function universiDiEstrazione(e: Estrazione): string[] {
+  const u = Array.isArray(e.universi) ? e.universi : e.chiavi['universi'];
+  return Array.isArray(u) ? u.map(String) : [];
+}
+
+export function parseBacheca(raw: unknown): Bacheca[] {
+  if (!Array.isArray(raw)) return [];
+  const str = (v: unknown): string | null => (typeof v === 'string' && v ? v : null);
+  const arr = (v: unknown): string[] => (Array.isArray(v) ? v.map(String) : []);
+  return raw
+    .filter((b): b is Record<string, unknown> => isRecord(b) && typeof b['id'] === 'string')
+    .map((b) => ({
+      id: String(b['id']),
+      titolo: str(b['titolo']) ?? String(b['id']),
+      stato: str(b['stato']) ?? '',
+      tipo: str(b['tipo']) ?? '',
+      priorita: str(b['priorita']) ?? str(b['priorità']) ?? '',
+      universi: arr(b['universi']),
+      righe: arr(b['righe']),
+      racconto: str(b['racconto']),
+      postata_da: str(b['postata_da']),
+      presa_da: str(b['presa_da']),
+      creata: str(b['creata']),
+      presa_il: str(b['presa_il']),
+      scade: str(b['scade']),
+      chiusa_il: str(b['chiusa_il']),
+      tentativi: typeof b['tentativi'] === 'number' ? b['tentativi'] : 0,
+      esito: str(b['esito']),
+      payload: isRecord(b['payload']) ? b['payload'] : {},
+      storia: (Array.isArray(b['storia']) ? b['storia'] : [])
+        .filter(isRecord)
+        .map((s) => ({
+          stato: str(s['stato']) ?? '',
+          quando: str(s['quando']) ?? '',
+          da: str(s['da']),
+        })),
+      carta_madre:
+        str(b['carta_madre']) ?? (isRecord(b['payload']) ? str(b['payload']['carta_madre']) : null),
+    }));
+}
+
+const BAC_ID = /^BAC-[0-9a-z]{4,}-[0-9]+$/;
+export function isBachecaId(v: string): boolean {
+  return BAC_ID.test(v);
+}
+
+/** Commenti (`tipo: commento`) della carta `id`, dal più vecchio. */
+export function commentiDi(id: string, carte: Bacheca[]): CommentoBacheca[] {
+  const str = (v: unknown): string | null => (typeof v === 'string' && v ? v : null);
+  const arr = (v: unknown): string[] => (Array.isArray(v) ? v.map(String) : []);
+  return carte
+    .filter((c) => c.tipo === 'commento' && c.carta_madre === id)
+    .sort((a, b) => (a.creata ?? '').localeCompare(b.creata ?? '') || a.id.localeCompare(b.id))
+    .map((c) => ({
+      id: c.id,
+      da: c.postata_da,
+      creata: c.creata,
+      posizione: str(c.payload['posizione']) ?? '',
+      testo: str(c.payload['testo']) ?? '',
+      contro_cercato: arr(c.payload['contro_cercato']),
+      contraddizione_id: str(c.payload['contraddizione_id']),
+      artefatto_alternativo: str(c.payload['artefatto_alternativo']),
+      lacuna: str(c.payload['lacuna']),
+    }));
+}
+
+export interface CommentoBacheca {
+  id: string;
+  da: string | null;
+  creata: string | null;
+  posizione: string;
+  testo: string;
+  contro_cercato: string[];
+  contraddizione_id: string | null;
+  artefatto_alternativo: string | null;
+  lacuna: string | null;
+}
+
+export interface VerdettoApprofondimento {
+  esito: string;
+  risposta: string | null;
+  motivazione_v2: string | null;
+  forma_v2: string | null;
+  artefatto_v2: string | null;
+}
+
+export interface Approfondimento {
+  candidati: string[];
+  scelto: string | null;
+  motivazione: string;
+  forma: string | null;
+  artefatto: string | null;
+  lacuna: string | null;
+  /** Presente quando il proponente ha chiuso il dibattito (`payload.esito`). */
+  verdetto: VerdettoApprofondimento | null;
+}
+
+export function approfondimentoDi(c: Bacheca): Approfondimento {
+  const p = c.payload;
+  const str = (v: unknown): string | null => (typeof v === 'string' && v ? v : null);
+  const esito = str(p['esito']);
+  return {
+    candidati: Array.isArray(p['candidati']) ? p['candidati'].map(String) : [],
+    scelto: str(p['scelto']),
+    motivazione: str(p['motivazione']) ?? '',
+    forma: str(p['forma']),
+    artefatto: str(p['artefatto']),
+    lacuna: str(p['lacuna']),
+    verdetto: esito
+      ? {
+          esito,
+          risposta: str(p['risposta']),
+          motivazione_v2: str(p['motivazione_v2']),
+          forma_v2: str(p['forma_v2']),
+          artefatto_v2: str(p['artefatto_v2']),
+        }
+      : null,
+  };
+}
+
+export interface NotaBacheca {
+  osservazione: string;
+  bersaglio: string;
+  prove: string[];
+  modifica_proposta: string;
+}
+
+export function notaDi(c: Bacheca): NotaBacheca {
+  const p = c.payload;
+  const str = (v: unknown): string => (typeof v === 'string' ? v : '');
+  return {
+    osservazione: str(p['osservazione']),
+    bersaglio: str(p['bersaglio']),
+    prove: Array.isArray(p['prove']) ? p['prove'].map(String) : [],
+    modifica_proposta: str(p['modifica_proposta']),
+  };
+}
+
+/** Note (`tipo: nota`) raggruppate per `payload.bersaglio`, bersagli in ordine alfabetico. */
+export function notePerBersaglio(carte: Bacheca[]): { bersaglio: string; note: Bacheca[] }[] {
+  const m = new Map<string, Bacheca[]>();
+  for (const c of carte) {
+    if (c.tipo !== 'nota') continue;
+    const b = notaDi(c).bersaglio || '(senza bersaglio)';
+    m.set(b, [...(m.get(b) ?? []), c]);
+  }
+  return [...m.entries()]
+    .sort(([a], [b]) => a.localeCompare(b))
+    .map(([bersaglio, note]) => ({ bersaglio, note }));
+}
+
+/**
+ * Route interna di un artefatto o di una prova: id di riga → `/r/<id>`, `ledger/<dir>/<id>.yaml` → `/r/<id>`,
+ * `racconti/<slug>.md` → `/racconto/<slug>`, `BAC-…` → `/b/<id>`; altrimenti `null` (si mostra come testo).
+ */
+export function linkArtefatto(s: string): string[] | null {
+  const t = s.trim();
+  if (/^[A-Z]{3}-[A-Z]{3}-[a-z0-9-]+$/.test(t)) return ['/r', t];
+  if (BAC_ID.test(t)) return ['/b', t];
+  const riga = /^ledger\/[a-z_]+\/([A-Z]{3}-[A-Z]{3}-[a-z0-9-]+)\.ya?ml$/.exec(t);
+  if (riga) return ['/r', riga[1]];
+  const racc = /^racconti\/([0-9]{4}-[0-9]{2}-[0-9]{2}-[a-z0-9-]+)\.md$/.exec(t);
+  if (racc) return ['/racconto', racc[1]];
+  if (/^media\//.test(t)) return ['/media'];
+  return null;
+}
+
+/** Campi di stato di una carta come coppie etichetta/valore, per i tipi senza vista dedicata. */
+export function campiStatoBacheca(c: Bacheca): { k: string; v: string }[] {
+  return [
+    ['stato', c.stato],
+    ['tipo', c.tipo],
+    ['priorità', c.priorita],
+    ['creata', c.creata],
+    ['presa il', c.presa_il],
+    ['scade', c.scade],
+    ['chiusa il', c.chiusa_il],
+    ['tentativi', String(c.tentativi)],
+    ['esito', c.esito],
+  ]
+    .filter((x): x is [string, string] => typeof x[1] === 'string' && x[1] !== '')
+    .map(([k, v]) => ({ k, v }));
 }
 
 /** Chiavi uscite di un'estrazione appiattite in coppie leggibili (l'universo ha una colonna sua). */
@@ -390,16 +699,22 @@ export function chiaviRiga(r: Riga): string | null {
   let parti: string[] = [];
   switch (r.tipo) {
     case 'invenzione':
-      parti = Array.isArray(r.discipline) ? r.discipline.filter((d) => typeof d === 'string' && d) : [];
+      parti = Array.isArray(r.discipline)
+        ? r.discipline.filter((d) => typeof d === 'string' && d)
+        : [];
       return parti.length ? parti.join(' × ') : null;
     case 'personaggio':
-      parti = ['casta', 'segno', 'tratto', 'difetto'].map((k) => campoTesto(r, k)).filter((x): x is string => !!x);
+      parti = ['casta', 'segno', 'tratto', 'difetto']
+        .map((k) => campoTesto(r, k))
+        .filter((x): x is string => !!x);
       break;
     case 'gadget':
       parti = [campoTesto(r, 'chi_lo_porta')].filter((x): x is string => !!x);
       break;
     case 'contenuto':
-      parti = ['medium', 'canale', 'formato'].map((k) => campoTesto(r, k)).filter((x): x is string => !!x);
+      parti = ['medium', 'canale', 'formato']
+        .map((k) => campoTesto(r, k))
+        .filter((x): x is string => !!x);
       break;
     default:
       return null;
@@ -431,7 +746,15 @@ export function testoCard(r: Riga): TestoCard {
 // Vista per estrazione
 // ---------------------------------------------------------------------------
 
-export const ORDINE_TIPI: Tipo[] = ['invenzione', 'personaggio', 'gadget', 'contenuto', 'regione'];
+export const ORDINE_TIPI: Tipo[] = [
+  'invenzione',
+  'personaggio',
+  'gadget',
+  'contenuto',
+  'seme',
+  'regione',
+  'fatto',
+];
 
 export interface GruppoTipo {
   tipo: Tipo;
@@ -466,6 +789,8 @@ export function raggruppaPerEstrazione(rows: IndexEntry[]): GruppoEstrazione[] {
 export interface TestataEstrazione {
   n: number;
   universo: Universo | null;
+  /** Lista `universi[]` quando l'estrazione è `cross`. */
+  universi: string[];
   /** Regione risolta nell'indice (per id o nome), se c'è. */
   regione: IndexEntry | null;
   /** Nome da mostrare: titolo della regione risolta, altrimenti la chiave grezza. */
@@ -477,11 +802,20 @@ export interface TestataEstrazione {
 export function testataEstrazione(e: Estrazione, index: IndexEntry[]): TestataEstrazione {
   const u = e.chiavi['universo'];
   const universo = isUniverso(u) ? u : null;
-  const reg = typeof e.chiavi['regione'] === 'string' && e.chiavi['regione'] ? e.chiavi['regione'] : null;
+  const reg =
+    typeof e.chiavi['regione'] === 'string' && e.chiavi['regione'] ? e.chiavi['regione'] : null;
   const regione = universo && reg ? resolveRegione({ universo, regione: reg }, index) : null;
   const invId = e.chiavi['invenzione_id'];
   const invenzione = typeof invId === 'string' ? (index.find((x) => x.id === invId) ?? null) : null;
-  return { n: e.estrazione, universo, regione, regioneNome: regione?.titolo ?? reg, invenzione };
+  const universi = u === 'cross' ? universiDiEstrazione(e) : [];
+  return {
+    n: e.estrazione,
+    universo,
+    universi,
+    regione,
+    regioneNome: regione?.titolo ?? reg,
+    invenzione,
+  };
 }
 
 export function conteggiPerTipo(rows: IndexEntry[]): { tipo: Tipo; n: number }[] {

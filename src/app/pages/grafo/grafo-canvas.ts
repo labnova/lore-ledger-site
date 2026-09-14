@@ -27,8 +27,10 @@ import { zoom } from 'd3-zoom';
 import {
   symbol,
   symbolCircle,
+  symbolCross,
   symbolDiamond,
   symbolSquare,
+  symbolStar,
   symbolTriangle,
   symbolWye,
 } from 'd3-shape';
@@ -46,7 +48,9 @@ const FORMA: Record<Tipo, string> = {
   personaggio: symbol(symbolSquare, 110)()!,
   gadget: symbol(symbolDiamond, 110)()!,
   contenuto: symbol(symbolTriangle, 110)()!,
+  seme: symbol(symbolStar, 130)()!,
   regione: symbol(symbolWye, 130)()!,
+  fatto: symbol(symbolCross, 110)()!,
 };
 
 const MAX_ETICHETTE = 150;

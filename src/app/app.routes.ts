@@ -25,6 +25,11 @@ export const routes: Routes = [
     loadComponent: () => import('./pages/racconto/racconto').then((m) => m.RaccontoPage),
   },
   {
+    path: 'media',
+    title: 'lore-ledger · media',
+    loadComponent: () => import('./pages/media/media').then((m) => m.MediaPage),
+  },
+  {
     path: 'g',
     title: 'lore-ledger · grafo',
     loadComponent: () => import('./pages/grafo/grafo').then((m) => m.GrafoPage),
@@ -37,6 +42,15 @@ export const routes: Routes = [
   {
     path: 'e/:n',
     loadComponent: () => import('./pages/estrazione/estrazione').then((m) => m.EstrazionePage),
+  },
+  {
+    path: 'b',
+    title: 'lore-ledger · bacheca',
+    loadComponent: () => import('./pages/bacheca/bacheca').then((m) => m.BachecaPage),
+  },
+  {
+    path: 'b/:id',
+    loadComponent: () => import('./pages/bacheca/carta').then((m) => m.CartaBachecaPage),
   },
   {
     path: 'm',

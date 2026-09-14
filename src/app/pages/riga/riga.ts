@@ -7,23 +7,29 @@ import {
   Lineage,
   appareIn,
   chiaviRiga,
+  parseMediaRefs,
   pescataIn,
+  primoMedia,
   resolveCollegamenti,
   resolveLineage,
   resolveRegione,
 } from '../../data/ledger-logic';
 import {
+  AR_MEDIA,
   ASSI_PERSONAGGIO,
   CAMPI_COMUNI,
   CAMPI_LINK,
   CAMPI_MONO,
   CAMPI_TIPO,
   CAMPO_LABEL,
+  MEDIA_LABEL,
   RELAZIONE_LABEL,
+  STRUMENTO_LABEL,
   UNIVERSO_LABEL,
+  dimensioniMedia,
   snake,
 } from '../../data/labels';
-import { Estrazione, IndexEntry, Personaggio, RaccontoIndex, Riga } from '../../models/ledger';
+import { Estrazione, IndexEntry, MediaRef, Personaggio, RaccontoIndex, Riga } from '../../models/ledger';
 import { BadgeFlag, BadgeRelazione, BadgeTipo, BadgeUniverso } from '../../components/badges';
 import { RigaCard } from '../../components/riga-card';
 
@@ -53,6 +59,16 @@ interface Vista {
   dettagli: Map<string, Riga>;
   /** Racconti approvati che usano questa riga (`appare_in` dai dati, altrimenti da `righe_usate`). */
   appareIn: RaccontoIndex[];
+  /** Media caricati per la riga (`media[]` dei dati compilati). */
+  media: MediaRef[];
+}
+
+interface Tile {
+  m: MediaRef;
+  didascalia: string;
+  alt: string;
+  w: number;
+  h: number;
 }
 
 function titoloDi(r: Riga): string {
@@ -87,6 +103,7 @@ export class RigaPage {
   readonly universoLabel = UNIVERSO_LABEL;
   readonly campoLabel = CAMPO_LABEL;
   readonly assi = ASSI_PERSONAGGIO;
+  readonly arRitratto = AR_MEDIA.ritratto;
 
   readonly dati = resource({
     params: () => this.id(),
@@ -120,6 +137,7 @@ export class RigaPage {
         chiavi: chiaviRiga(riga),
         dettagli,
         appareIn: appareIn(riga.id, racconti, (riga as unknown as { appare_in?: string[] }).appare_in ?? null),
+        media: parseMediaRefs(riga.media),
       };
     },
   });
@@ -130,6 +148,32 @@ export class RigaPage {
   readonly personaggio = computed<Personaggio | null>(() => {
     const v = this.vista();
     return v && v.riga.tipo === 'personaggio' ? v.riga : null;
+  });
+
+  /** Url del ritratto (solo personaggi): `ritratto` dei dati, altrimenti il primo media `ritratto`. */
+  readonly ritratto = computed<string | null>(() => {
+    const v = this.vista();
+    if (!v || v.riga.tipo !== 'personaggio') return null;
+    return (typeof v.riga.ritratto === 'string' && v.riga.ritratto) || primoMedia(v.media, 'ritratto')?.url || null;
+  });
+
+  /** Tavole e scene della riga, con didascalia `tipo · strumento` e dimensioni note. */
+  readonly galleria = computed<Tile[]>(() => {
+    const v = this.vista();
+    if (!v) return [];
+    return v.media
+      .filter((m) => m.tipo === 'tavola' || m.tipo === 'scena')
+      .map((m) => {
+        const [w, h] = dimensioniMedia(m.tipo, null);
+        const strumento = STRUMENTO_LABEL[m.strumento] ?? m.strumento;
+        return {
+          m,
+          didascalia: strumento ? `${MEDIA_LABEL[m.tipo]} · ${strumento}` : MEDIA_LABEL[m.tipo],
+          alt: `${MEDIA_LABEL[m.tipo]} · ${v.titolo || v.riga.id}`,
+          w,
+          h,
+        };
+      });
   });
 
   /** Tutti i campi con etichetta, nell'ordine del tipo; per i personaggi gli assi vanno a parte. */

@@ -19,6 +19,17 @@
           <span class="mono muted">{{ r.testata }} n. {{ r.numero }}</span>
         }
       </p>
+      @if (v.copertina) {
+        <img
+          class="copertina"
+          [src]="v.copertina"
+          alt="copertina · {{ r.titolo }}"
+          loading="lazy"
+          decoding="async"
+          [width]="arCopertina[0]"
+          [height]="arCopertina[1]"
+        />
+      }
       <h1>{{ r.titolo }}</h1>
       <p class="muted">
         <a [routerLink]="['/u', r.universo]">{{ universoLabel[r.universo] }}</a>
@@ -41,6 +52,13 @@
       }
     </div>
 
+    @if (v.scaletta) {
+      <details class="bibbia scaletta">
+        <summary>Scaletta del racconto (schema)</summary>
+        <div class="scaletta-svg" [innerHTML]="v.scaletta"></div>
+      </details>
+    }
+
     <footer class="racconto-coda">
       <h2>Righe usate</h2>
       <ul class="lista-righe">
@@ -60,6 +78,10 @@
             <li>{{ f.testo }} <span class="mono muted">{{ f.id }}</span></li>
           }
         </ol>
+      }
+      @if (v.suono; as s) {
+        <h2>Suono</h2>
+        <audio class="suono" controls preload="none" [src]="s.url" aria-label="suono · {{ r.titolo }}"></audio>
       }
     </footer>
   </article>

@@ -1,0 +1,136 @@
+<h1>Bacheca</h1>
+<p class="muted">
+  Richieste di lavoro postate alla macchina o ai curatori: chi le ha postate, chi le ha prese, entro
+  quando scadono. Ogni richiesta punta alle righe o al racconto che riguarda.
+</p>
+
+<form class="filtri" (submit)="$event.preventDefault()" aria-label="Filtro della bacheca">
+  <label>
+    stato
+    <select [value]="stato()" (change)="setStato($event)">
+      <option value="">tutti</option>
+      @for (s of stati(); track s) {
+        <option [value]="s">{{ s }}</option>
+      }
+    </select>
+  </label>
+  <label>
+    tipo
+    <select [value]="tipo()" (change)="setTipo($event)">
+      <option value="">tutti</option>
+      @for (t of tipi(); track t) {
+        <option [value]="t">{{ t }}</option>
+      }
+    </select>
+  </label>
+  <label>
+    vista
+    <select [value]="vista()" (change)="setVista($event)">
+      <option value="tabella">tabella</option>
+      <option value="bersagli">note per bersaglio</option>
+    </select>
+  </label>
+</form>
+
+<p class="muted mono" aria-live="polite">
+  {{ visibili().length }} di {{ tutte().length }} richieste
+</p>
+
+@if (vista() === 'bersagli') {
+  @for (g of bersagli(); track g.bersaglio) {
+    <section class="blocco" [attr.aria-labelledby]="'bersaglio-' + $index">
+      <h2 class="mono" [id]="'bersaglio-' + $index">{{ g.bersaglio }}</h2>
+      <ul class="lista-righe">
+        @for (n of g.note; track n.id) {
+          @let nota = notaDi(n);
+          <li>
+            <a class="mono" [routerLink]="['/b', n.id]">{{ n.id }}</a>
+            <span class="mono muted">{{ n.stato }}</span>
+            <span>{{ nota.osservazione }}</span>
+            <span class="muted">— {{ nomeAgente(n.postata_da) }}</span>
+          </li>
+        }
+      </ul>
+    </section>
+  } @empty {
+    <p class="muted">Nessuna nota tra le carte visibili.</p>
+  }
+} @else if (visibili().length) {
+  <div class="tabella-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">carta</th>
+          <th scope="col">stato</th>
+          <th scope="col">tipo</th>
+          <th scope="col">priorità</th>
+          <th scope="col">universi</th>
+          <th scope="col">righe / racconto</th>
+          <th scope="col">postata da</th>
+          <th scope="col">presa da</th>
+          <th scope="col">scade</th>
+        </tr>
+      </thead>
+      <tbody>
+        @for (b of visibili(); track b.id) {
+          <tr [id]="'b-' + b.id">
+            <td class="mono">
+              <a [routerLink]="['/b', b.id]">{{ b.id }}</a>
+            </td>
+            <td class="mono">{{ b.stato || '—' }}</td>
+            <td class="mono">{{ b.tipo || '—' }}</td>
+            <td class="mono">{{ b.priorita || '—' }}</td>
+            <td>
+              @for (u of b.universi; track u) {
+                @if (isUniverso(u)) {
+                  <app-badge-universo [universo]="u" />
+                } @else {
+                  <span class="mono">{{ u }}</span>
+                }
+              } @empty {
+                <span class="muted">—</span>
+              }
+            </td>
+            <td class="mono">
+              @for (id of b.righe; track id) {
+                <a [routerLink]="['/r', id]">{{ id }}</a
+                >{{ $last ? '' : ', ' }}
+              }
+              @if (b.racconto) {
+                @if (b.righe.length) {
+                  <br />
+                }
+                <a [routerLink]="['/racconto', b.racconto]">{{ b.racconto }}</a>
+              }
+              @if (!b.righe.length && !b.racconto) {
+                <span class="muted">—</span>
+              }
+            </td>
+            <td [attr.title]="b.postata_da">{{ nomeAgente(b.postata_da) }}</td>
+            <td [attr.title]="b.presa_da">{{ nomeAgente(b.presa_da) }}</td>
+            <td class="mono">{{ b.scade || '—' }}</td>
+          </tr>
+        }
+      </tbody>
+    </table>
+  </div>
+} @else if (dati.isLoading()) {
+  <p class="muted">Caricamento della bacheca…</p>
+} @else if (dati.error()) {
+  <p role="alert">Bacheca non disponibile: {{ dati.error() }}</p>
+} @else {
+  <p class="muted">Nessuna richiesta in bacheca.</p>
+}
+
+@if (dati.hasValue()) {
+  <p class="muted generato">
+    <small class="mono">
+      @if (generato(); as g) {
+        bacheca.json generato {{ g }}
+      } @else {
+        data di generazione di bacheca.json non disponibile
+      }
+      · si aggiorna a ogni run di publish-site-data
+    </small>
+  </p>
+}

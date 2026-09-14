@@ -1,4 +1,4 @@
-import { Relazione, Tipo, Universo } from '../models/ledger';
+import { MediaTipo, Relazione, Tipo, Universo } from '../models/ledger';
 
 export const UNIVERSO_LABEL: Record<Universo, string> = {
   cyberverse: 'Cyberverse',
@@ -13,7 +13,9 @@ export const TIPO_LABEL: Record<Tipo, string> = {
   personaggio: 'personaggio',
   gadget: 'gadget',
   contenuto: 'contenuto',
+  seme: 'seme',
   regione: 'regione',
+  fatto: 'fatto',
 };
 
 export const TIPO_PLURALE: Record<Tipo, string> = {
@@ -21,8 +23,73 @@ export const TIPO_PLURALE: Record<Tipo, string> = {
   personaggio: 'personaggi',
   gadget: 'gadget',
   contenuto: 'contenuti',
+  seme: 'semi',
   regione: 'regioni',
+  fatto: 'fatti',
 };
+
+export const MEDIA_LABEL: Record<MediaTipo, string> = {
+  copertina: 'copertina',
+  ritratto: 'ritratto',
+  tavola: 'tavola',
+  scena: 'scena',
+  suono: 'suono',
+};
+
+export const MEDIA_PLURALE: Record<MediaTipo, string> = {
+  copertina: 'copertine',
+  ritratto: 'ritratti',
+  tavola: 'tavole',
+  scena: 'scene',
+  suono: 'suoni',
+};
+
+/** Nome di mestiere degli agenti della bacheca (da `agenti.yaml` del repo privato); il curatore umano è «curatore». */
+export const AGENTE_LABEL: Record<string, string> = {
+  illustratore: 'art director',
+  riparatore: 'restauratore del ledger',
+  guardiano: 'responsabile della pipeline',
+  redattore: 'redattore di prosa',
+  editore: 'direttore editoriale',
+  enzo: 'curatore',
+};
+
+/** Etichetta leggibile di un agente: il mestiere se noto, altrimenti il nome tecnico. */
+export function nomeAgente(nome: string | null | undefined): string {
+  if (!nome) return '—';
+  return AGENTE_LABEL[nome] ?? nome;
+}
+
+export const STRUMENTO_LABEL: Record<string, string> = {
+  midjourney: 'Midjourney',
+  chatgpt_images: 'ChatGPT Images',
+  suno: 'Suno',
+};
+
+/**
+ * Larghezza/altezza intrinseche per `width`/`height` degli `<img>` (evitano il layout shift):
+ * dai rapporti `ar_*` di `stili/<universo>.md` (copertina 2:3, ritratto 3:4, tavola 4:3);
+ * la scena non ha un `ar_` dichiarato e si assume 16:9. Il suono non ha immagine.
+ */
+export const AR_MEDIA: Record<MediaTipo, [number, number]> = {
+  copertina: [400, 600],
+  ritratto: [360, 480],
+  tavola: [480, 360],
+  scena: [480, 270],
+  suono: [0, 0],
+};
+
+/** Dimensioni da un `ar` esplicito (`"2:3"`), altrimenti quelle note per il tipo. */
+export function dimensioniMedia(tipo: MediaTipo, ar: string | null | undefined): [number, number] {
+  const m = ar && /^([0-9]+):([0-9]+)$/.exec(ar);
+  if (m) {
+    const w = Number(m[1]);
+    const h = Number(m[2]);
+    if (w > 0 && h > 0)
+      return w >= h ? [480, Math.round((480 * h) / w)] : [Math.round((480 * w) / h), 480];
+  }
+  return AR_MEDIA[tipo];
+}
 
 export const RELAZIONE_LABEL: Record<Relazione, string> = {
   dialetto: 'dialetto',
@@ -109,8 +176,28 @@ export const CAMPI_TIPO: Record<Tipo, string[]> = {
     'gancio',
     'prod',
   ],
-  contenuto: ['titolo', 'sorgente_id', 'madre_id', 'medium', 'canale', 'formato', 'veridicita', 'corpo'],
+  contenuto: [
+    'titolo',
+    'sorgente_id',
+    'madre_id',
+    'medium',
+    'canale',
+    'formato',
+    'veridicita',
+    'corpo',
+  ],
+  seme: ['cluster', 'premessa', 'ostacolo', 'rottura', 'tono', 'origine'],
   regione: ['nome', 'onomastica', 'ceppo_dominante', 'p_cognome_mestiere', 'note'],
+  fatto: [
+    'branch',
+    'testo',
+    'soggetti',
+    'stabilito_da',
+    'cluster',
+    'momento',
+    'tipo_fatto',
+    'reversibile',
+  ],
 };
 
 export const CAMPI_COMUNI = [

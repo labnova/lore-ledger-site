@@ -14,13 +14,17 @@
     [testata]="v.testata"
     [gruppi]="v.gruppi"
     [dettagli]="dettagli()"
+    [mancanti]="v.mancanti"
     [titolo]="true"
   />
 
   @if (v.pescato.length) {
     <section class="blocco" aria-labelledby="pescato">
       <h2 id="pescato">Canone pescato</h2>
-      <p class="muted">Righe già canoniche lette dal lotto; se tra queste c'è un'invenzione o un personaggio, il lotto deve produrre una figlia «espansione».</p>
+      <p class="muted">
+        Righe già canoniche lette dal lotto; se tra queste c'è un'invenzione o un personaggio, il
+        lotto deve produrre una figlia «espansione».
+      </p>
       <ul class="lista-righe">
         @for (p of v.pescato; track p.id) {
           <li>
@@ -53,5 +57,8 @@
     </section>
   }
 } @else {
-  <p class="muted" aria-live="polite">Caricamento dell'estrazione <span class="mono">#{{ n() }}</span>…</p>
+  <p class="muted" aria-live="polite">
+    Caricamento dell'estrazione <span class="mono">#{{ n() }}</span
+    >…
+  </p>
 }

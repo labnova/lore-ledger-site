@@ -2,12 +2,26 @@ import { HttpClient, HttpErrorResponse } from '@angular/common/http';
 import { Injectable, PLATFORM_ID, TransferState, inject, makeStateKey } from '@angular/core';
 import { isPlatformServer } from '@angular/common';
 import { firstValueFrom } from 'rxjs';
-import { Estrazione, Graph, IndexEntry, Manifest, Racconto, RaccontoIndex, Riga, Stats, Universo } from '../models/ledger';
 import {
+  Bacheca,
+  Estrazione,
+  Graph,
+  IndexEntry,
+  Manifest,
+  Media,
+  Racconto,
+  RaccontoIndex,
+  Riga,
+  Stats,
+  Universo,
+} from '../models/ledger';
+import {
+  parseBacheca,
   parseEstrazioni,
   parseGraph,
   parseIndex,
   parseManifest,
+  parseMedia,
   parseRacconti,
   parseRacconto,
   parseRow,
@@ -95,6 +109,82 @@ export class Ledger {
 
   graph(): Promise<Graph> {
     return this.json('graph.json', parseGraph);
+  }
+
+  /** Media agganciati (`media.json`); `[]` se il file non c'è ancora. */
+  media(): Promise<Media[]> {
+    const key = 'media.json';
+    let p = this.cache.get(key) as Promise<Media[]> | undefined;
+    if (!p) {
+      p = firstValueFrom(this.http.get<unknown>(`/data/${key}`))
+        .then(parseMedia)
+        .catch((e: unknown) => {
+          if (this.assente(e)) return [];
+          throw e;
+        });
+      this.cache.set(key, p);
+    }
+    return p;
+  }
+
+  /** Scaletta SVG del racconto (`scalette/<slug>.scaletta.svg`); `''` se non c'è. */
+  scaletta(slug: string): Promise<string> {
+    if (!/^[0-9]{4}-[0-9]{2}-[0-9]{2}-[a-z0-9-]+$/.test(slug)) return Promise.resolve('');
+    const key = `scalette/${slug}.scaletta.svg`;
+    let p = this.cache.get(key) as Promise<string> | undefined;
+    if (!p) {
+      p = firstValueFrom(this.http.get(`/data/${key}`, { responseType: 'text' })).catch(
+        (e: unknown) => {
+          if (this.assente(e)) return '';
+          throw e;
+        },
+      );
+      this.cache.set(key, p);
+    }
+    return p;
+  }
+
+  /**
+   * File opzionale mancante: 404 sul client; in prerender un file assente dall'output non passa
+   * dal patch degli asset in memoria e la fetch di ripiego fallisce con status 0.
+   */
+  private assente(e: unknown): boolean {
+    return (
+      e instanceof HttpErrorResponse && (e.status === 404 || (this.isServer && e.status === 0))
+    );
+  }
+
+  /**
+   * Bacheca delle richieste (`bacheca.json`) con la data di generazione del file (`Last-Modified`
+   * della risposta, ISO; `null` se assente). Carte `[]` se il file non c'è ancora. Escluso dalla
+   * transfer cache: `/b/:id` si rende sul client e deve leggere il json corrente.
+   */
+  bachecaConData(): Promise<{ carte: Bacheca[]; generato: string | null }> {
+    const key = 'bacheca.json';
+    let p = this.cache.get(key) as
+      Promise<{ carte: Bacheca[]; generato: string | null }> | undefined;
+    if (!p) {
+      p = firstValueFrom(this.http.get<unknown>(`/data/${key}`, { observe: 'response' }))
+        .then((r) => {
+          const lm = r.headers.get('Last-Modified');
+          const t = lm ? Date.parse(lm) : NaN;
+          return {
+            carte: parseBacheca(r.body),
+            generato: Number.isNaN(t) ? lm : new Date(t).toISOString(),
+          };
+        })
+        .catch((e: unknown) => {
+          if (this.assente(e)) return { carte: [], generato: null };
+          throw e;
+        });
+      this.cache.set(key, p);
+    }
+    return p;
+  }
+
+  /** Carte della bacheca; `[]` se il file non c'è ancora. */
+  bacheca(): Promise<Bacheca[]> {
+    return this.bachecaConData().then((r) => r.carte);
   }
 
   estrazioni(): Promise<Estrazione[]> {

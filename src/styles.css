@@ -736,3 +736,98 @@ details.bibbia summary {
 details.bibbia[open] summary {
   margin-bottom: 0.5rem;
 }
+
+/* ---- media: copertine, ritratti, gallerie ---------------------------- */
+
+img.copertina {
+  display: block;
+  width: 100%;
+  max-width: 20rem;
+  height: auto;
+  aspect-ratio: 2 / 3;
+  object-fit: cover;
+  margin: 0.5rem auto 1rem;
+  border-radius: var(--radius);
+  border: 1px solid var(--line);
+}
+.racconti-lista li.con-copertina {
+  display: grid;
+  grid-template-columns: 6rem minmax(0, 1fr);
+  gap: 0.9rem;
+  align-items: start;
+}
+.racconti-lista .thumb img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 2 / 3;
+  object-fit: cover;
+  border-radius: var(--radius);
+  border: 1px solid var(--line);
+}
+.scheda header.con-ritratto {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 9rem;
+  gap: 1rem;
+  align-items: start;
+}
+.scheda header.con-ritratto > :not(.ritratto) {
+  grid-column: 1;
+}
+img.ritratto {
+  grid-column: 2;
+  grid-row: 1 / span 4;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+  border-radius: var(--radius);
+  border: 1px solid var(--line);
+}
+details.scaletta {
+  max-width: 36rem;
+  margin: 0 auto 2rem;
+}
+.scaletta-svg svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+audio.suono {
+  display: block;
+  width: 100%;
+  margin-top: 0.5rem;
+}
+.galleria {
+  display: grid;
+  gap: var(--gap);
+  grid-template-columns: repeat(auto-fill, minmax(12rem, 1fr));
+}
+.media-tile {
+  margin: 0;
+  display: grid;
+  gap: 0.35rem;
+}
+.media-tile img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: var(--radius);
+  border: 1px solid var(--line);
+  background: var(--bg-2);
+}
+.media-tile audio {
+  width: 100%;
+}
+.media-tile figcaption {
+  font-size: 0.85rem;
+  color: var(--fg-2);
+}
+.blocco-media {
+  margin-top: 1.5rem;
+}
+.blocco-media h2 {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}

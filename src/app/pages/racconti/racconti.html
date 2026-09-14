@@ -21,7 +21,20 @@
 @if (visibili().length) {
   <ol class="racconti-lista" reversed>
     @for (r of visibili(); track r.slug) {
-      <li class="uni-{{ r.universo }}">
+      <li class="uni-{{ r.universo }}" [class.con-copertina]="!!r.copertina">
+        @if (r.copertina) {
+          <a class="thumb" [routerLink]="['/racconto', r.slug]" tabindex="-1" aria-hidden="true">
+            <img
+              [src]="r.copertina"
+              alt="copertina · {{ r.titolo }}"
+              loading="lazy"
+              decoding="async"
+              [width]="arCopertina[0]"
+              [height]="arCopertina[1]"
+            />
+          </a>
+        }
+        <div class="card-corpo">
         <div class="card-top">
           <app-badge-universo [universo]="r.universo" />
           @if (r.testata) {
@@ -41,6 +54,7 @@
           @if (r.cluster) {
             <a class="mono" [routerLink]="['/r', r.cluster]">{{ r.cluster }}</a>
           }
+        </div>
         </div>
       </li>
     }

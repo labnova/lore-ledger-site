@@ -2,7 +2,7 @@ import { Component, computed, inject, resource, signal } from '@angular/core';
 import { RouterLink } from '@angular/router';
 import { Ledger } from '../../data/ledger-api';
 import { filtraRacconti } from '../../data/ledger-logic';
-import { UNIVERSO_LABEL } from '../../data/labels';
+import { AR_MEDIA, UNIVERSO_LABEL } from '../../data/labels';
 import { RaccontoIndex, UNIVERSI, Universo, isUniverso } from '../../models/ledger';
 import { BadgeUniverso } from '../../components/badges';
 
@@ -16,6 +16,7 @@ export class RaccontiPage {
   private readonly ledger = inject(Ledger);
   readonly universi = UNIVERSI;
   readonly universoLabel = UNIVERSO_LABEL;
+  readonly arCopertina = AR_MEDIA.copertina;
 
   readonly dati = resource({ loader: () => this.ledger.racconti() });
   readonly tutti = computed<RaccontoIndex[]>(() => (this.dati.hasValue() ? this.dati.value() : []));

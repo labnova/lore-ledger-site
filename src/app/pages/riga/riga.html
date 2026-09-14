@@ -11,7 +11,18 @@
   <p><a routerLink="/">Torna al feed</a></p>
 } @else if (vista(); as v) {
   <article class="scheda">
-    <header>
+    <header [class.con-ritratto]="!!ritratto()">
+      @if (ritratto(); as url) {
+        <img
+          class="ritratto"
+          [src]="url"
+          alt="ritratto · {{ v.titolo || v.riga.id }}"
+          loading="lazy"
+          decoding="async"
+          [width]="arRitratto[0]"
+          [height]="arRitratto[1]"
+        />
+      }
       <div class="card-top">
         <span class="mono">{{ v.riga.id }}</span>
         <app-badge-tipo [tipo]="v.riga.tipo" />
@@ -76,6 +87,22 @@
         }
       </dl>
     </section>
+
+    @if (galleria().length) {
+      <section class="blocco" aria-labelledby="galleria">
+        <h2 id="galleria">Tavole e scene</h2>
+        <div class="galleria">
+          @for (t of galleria(); track t.m.id) {
+            <figure class="media-tile">
+              <a [href]="t.m.url" target="_blank" rel="noopener">
+                <img [src]="t.m.url" [alt]="t.alt" loading="lazy" decoding="async" [width]="t.w" [height]="t.h" />
+              </a>
+              <figcaption>{{ t.didascalia }} <span class="mono muted">{{ t.m.id }}</span></figcaption>
+            </figure>
+          }
+        </div>
+      </section>
+    }
 
     @if (personaggio(); as p) {
       <section class="blocco" aria-labelledby="assi">

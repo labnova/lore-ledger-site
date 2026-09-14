@@ -1,0 +1,56 @@
+<h1>Media</h1>
+<p class="muted">
+  Copertine, ritratti, tavole, scene e suoni generati fuori dalla macchina e agganciati a un
+  racconto approvato o a una riga del ledger. Ogni tessera porta alla sua sorgente.
+</p>
+
+<form class="filtri" (submit)="$event.preventDefault()" aria-label="Filtro dei media">
+  <label>
+    tipo
+    <select [value]="tipo()" (change)="setTipo($event)">
+      <option value="">tutti</option>
+      @for (t of tipi; track t) {
+        <option [value]="t">{{ mediaPlurale[t] }}</option>
+      }
+    </select>
+  </label>
+</form>
+
+<p class="muted mono" aria-live="polite">{{ visibili().length }} di {{ tutti().length }} media</p>
+
+@if (gruppi().length) {
+  @for (g of gruppi(); track g.universo) {
+    <section class="blocco-media uni-{{ g.universo }}" [attr.aria-labelledby]="'media-' + g.universo">
+      <h2 [id]="'media-' + g.universo">
+        <a [routerLink]="['/u', g.universo]">{{ universoLabel[g.universo] }}</a>
+        <app-badge-universo [universo]="g.universo" />
+      </h2>
+      <div class="galleria">
+        @for (t of g.tiles; track t.m.id) {
+          <figure class="media-tile">
+            @if (t.m.tipo === 'suono') {
+              <audio controls preload="none" [src]="t.m.url" [attr.aria-label]="t.alt"></audio>
+            } @else {
+              <a [routerLink]="t.link">
+                <img [src]="t.m.url" [alt]="t.alt" loading="lazy" decoding="async" [width]="t.w" [height]="t.h" />
+              </a>
+            }
+            <figcaption>
+              {{ t.didascalia }} ·
+              <a [routerLink]="t.link">{{ t.sorgente }}</a>
+              <span class="mono muted">{{ t.m.sorgente.ref }}</span>
+            </figcaption>
+          </figure>
+        }
+      </div>
+    </section>
+  }
+} @else if (dati.isLoading()) {
+  <p class="muted">Caricamento dei media…</p>
+} @else if (dati.error()) {
+  <p role="alert">Media non disponibili: {{ dati.error() }}</p>
+} @else if (tutti().length) {
+  <p class="muted vuoto">Nessun media di questo tipo.</p>
+} @else {
+  <p class="muted vuoto">Nessun media agganciato ancora.</p>
+}

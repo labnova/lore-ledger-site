@@ -7,6 +7,7 @@ import {
   TestataEstrazione,
   raggruppaPerTipo,
   righeDiEstrazione,
+  righeMancanti,
   testataEstrazione,
 } from '../../data/ledger-logic';
 import { Estrazione, IndexEntry, Riga } from '../../models/ledger';
@@ -18,6 +19,7 @@ interface Vista {
   testata: TestataEstrazione;
   gruppi: GruppoTipo[];
   dettagli: Riga[];
+  mancanti: string[];
   /** Righe pescate come canone (retrieve) risolte nell'indice; le assenti restano solo id. */
   pescato: { id: string; voce: IndexEntry | null }[];
   espansioni: { id: string; parent_id: string; voce: IndexEntry | null }[];
@@ -39,7 +41,10 @@ export class EstrazionePage {
   readonly dati = resource({
     params: () => this.n(),
     loader: async ({ params }): Promise<Vista | null> => {
-      const [estrazioni, index] = await Promise.all([this.ledger.estrazioni(), this.ledger.index()]);
+      const [estrazioni, index] = await Promise.all([
+        this.ledger.estrazioni(),
+        this.ledger.index(),
+      ]);
       const e = estrazioni.find((x) => String(x.estrazione) === params) ?? null;
       if (!e) {
         this.ledger.saveSnapshot(`e:${params}`, null);
@@ -53,6 +58,7 @@ export class EstrazionePage {
         testata: testataEstrazione(e, index),
         gruppi: raggruppaPerTipo(righe),
         dettagli: [...dett.values()],
+        mancanti: righeMancanti(e, index),
         pescato: (e.canone_pescato ?? []).map((id) => ({ id, voce: byId.get(id) ?? null })),
         espansioni: (e.espansioni ?? []).map((x) => ({ ...x, voce: byId.get(x.id) ?? null })),
       };
@@ -61,7 +67,9 @@ export class EstrazionePage {
     },
   });
 
-  readonly vista = computed<Vista | null>(() => (this.dati.hasValue() ? this.dati.value() : this.snap()));
+  readonly vista = computed<Vista | null>(() =>
+    this.dati.hasValue() ? this.dati.value() : this.snap(),
+  );
   readonly nonTrovata = computed(() => this.dati.hasValue() && this.dati.value() === null);
   readonly dettagli = computed(() => new Map((this.vista()?.dettagli ?? []).map((r) => [r.id, r])));
 

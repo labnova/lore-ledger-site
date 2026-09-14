@@ -109,7 +109,7 @@ export class FeedPage {
     const out = new Map<number, TestataEstrazione>();
     for (const g of this.gruppi()) {
       const e = this.estrazioneDi().get(g.n);
-      out.set(g.n, e ? testataEstrazione(e, idx) : { n: g.n, universo: null, regione: null, regioneNome: null, invenzione: null });
+      out.set(g.n, e ? testataEstrazione(e, idx) : { n: g.n, universo: null, universi: [], regione: null, regioneNome: null, invenzione: null });
     }
     return out;
   });
