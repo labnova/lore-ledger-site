@@ -1730,5 +1730,53 @@
 "ELA-PER-0022",
 "ELA-INV-0084"
 ]
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"ELA-INV-0034",
+"ELA-INV-0027"
+],
+"chiavi": {
+"invenzione_id": "ELA-INV-0002",
+"n_prod": 5,
+"personaggio_id": "ELA-PER-0019",
+"universo": "elabverse"
+},
+"created": "2026-09-14",
+"esito": "ok",
+"espansioni": [
+{
+"id": "ELA-INV-0085",
+"parent_id": "ELA-INV-0034"
+},
+{
+"id": "ELA-INV-0086",
+"parent_id": "ELA-INV-0027"
+}
+],
+"estrazione": 38,
+"forzata": false,
+"lotto": "lotto-gadget",
+"modello": "claude-sonnet-5",
+"prod": [
+"ELA-GAD-0011",
+"ELA-GAD-0014",
+"ELA-GAD-0015",
+"ELA-GAD-0016",
+"ELA-GAD-0017"
+],
+"righe_prodotte": [
+"ELA-GAD-0011",
+"ELA-GAD-0012",
+"ELA-GAD-0013",
+"ELA-GAD-0014",
+"ELA-GAD-0015",
+"ELA-GAD-0016",
+"ELA-GAD-0017",
+"ELA-GAD-0018",
+"ELA-GAD-0019",
+"ELA-GAD-0020"
+]
 }
 ]

@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"arte_visiva/affresco",
+"cartografia/proiezioni"
+],
+"epoca_relativa": 2,
+"estrazione": 38,
+"fatti": [],
+"gancio": "In una sala restaurata di recente, la sinopia sotto l'affresco disegna un continente che nella carta proiettata sopra non è mai esistito.",
+"id": "ELA-INV-0085",
+"media": [],
+"nome": "Il Disegno Sotto la Menzogna",
+"nome_reale": "Sinopia",
+"parent_id": "ELA-INV-0034",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Se Le Ellissi della Menzogna nascondono nei margini di ogni murale il grado di menzogna della proiezione, sotto lo strato dipinto i restauratori trovano ora la sinopia, il disegno preparatorio in rosso che i frescanti tracciano prima di mentire, e che a volte non contiene affatto le ellissi previste.",
+"universo": "elabverse"
+}

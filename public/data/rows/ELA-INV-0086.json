@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"arte_visiva/affresco",
+"cartografia/proiezioni"
+],
+"epoca_relativa": 2,
+"estrazione": 38,
+"fatti": [],
+"gancio": "Un monaco conta i pentimenti sotto la vernice fresca e si accorge che sono uno in più delle correzioni di rotta registrate negli annali del convoglio.",
+"id": "ELA-INV-0086",
+"media": [],
+"nome": "Le Vecchie Rotte Sotto la Vernice",
+"nome_reale": "Pentimento",
+"parent_id": "ELA-INV-0027",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Se Il Cerchio che Guarda il Basso ridipinge ogni anno il centro sul pavimento della cappella per farlo coincidere con la nave madre, la vernice invecchia e lascia trasparire i pentimenti, i centri delle rotte passate, cerchi fantasma che si sovrappongono a quello attuale come anelli di un tronco.",
+"universo": "elabverse"
+}

@@ -96,6 +96,16 @@
 "to": "ELA-INV-0084"
 },
 {
+"from": "ELA-INV-0034",
+"kind": "parent",
+"to": "ELA-INV-0085"
+},
+{
+"from": "ELA-INV-0027",
+"kind": "parent",
+"to": "ELA-INV-0086"
+},
+{
 "from": "HAC-INV-0002",
 "kind": "parent",
 "to": "HAC-INV-0041"
@@ -1786,6 +1796,156 @@
 "to": "ELA-REG-konya"
 },
 {
+"from": "ELA-GAD-0011",
+"kind": "invenzione",
+"to": "ELA-INV-0002"
+},
+{
+"from": "ELA-GAD-0011",
+"kind": "personaggio",
+"to": "ELA-PER-0019"
+},
+{
+"from": "ELA-GAD-0011",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-GAD-0012",
+"kind": "invenzione",
+"to": "ELA-INV-0002"
+},
+{
+"from": "ELA-GAD-0012",
+"kind": "personaggio",
+"to": "ELA-PER-0019"
+},
+{
+"from": "ELA-GAD-0012",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-GAD-0013",
+"kind": "invenzione",
+"to": "ELA-INV-0002"
+},
+{
+"from": "ELA-GAD-0013",
+"kind": "personaggio",
+"to": "ELA-PER-0019"
+},
+{
+"from": "ELA-GAD-0013",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-GAD-0014",
+"kind": "invenzione",
+"to": "ELA-INV-0002"
+},
+{
+"from": "ELA-GAD-0014",
+"kind": "personaggio",
+"to": "ELA-PER-0019"
+},
+{
+"from": "ELA-GAD-0014",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-GAD-0015",
+"kind": "invenzione",
+"to": "ELA-INV-0002"
+},
+{
+"from": "ELA-GAD-0015",
+"kind": "personaggio",
+"to": "ELA-PER-0019"
+},
+{
+"from": "ELA-GAD-0015",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-GAD-0016",
+"kind": "invenzione",
+"to": "ELA-INV-0002"
+},
+{
+"from": "ELA-GAD-0016",
+"kind": "personaggio",
+"to": "ELA-PER-0019"
+},
+{
+"from": "ELA-GAD-0016",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-GAD-0017",
+"kind": "invenzione",
+"to": "ELA-INV-0002"
+},
+{
+"from": "ELA-GAD-0017",
+"kind": "personaggio",
+"to": "ELA-PER-0019"
+},
+{
+"from": "ELA-GAD-0017",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-GAD-0018",
+"kind": "invenzione",
+"to": "ELA-INV-0002"
+},
+{
+"from": "ELA-GAD-0018",
+"kind": "personaggio",
+"to": "ELA-PER-0019"
+},
+{
+"from": "ELA-GAD-0018",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-GAD-0019",
+"kind": "invenzione",
+"to": "ELA-INV-0002"
+},
+{
+"from": "ELA-GAD-0019",
+"kind": "personaggio",
+"to": "ELA-PER-0019"
+},
+{
+"from": "ELA-GAD-0019",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-GAD-0020",
+"kind": "invenzione",
+"to": "ELA-INV-0002"
+},
+{
+"from": "ELA-GAD-0020",
+"kind": "personaggio",
+"to": "ELA-PER-0019"
+},
+{
+"from": "ELA-GAD-0020",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
 "from": "HAC-GAD-0001",
 "kind": "invenzione",
 "to": "HAC-INV-0001"
@@ -3125,6 +3285,66 @@
 "universo": "elabverse"
 },
 {
+"id": "ELA-GAD-0011",
+"tipo": "gadget",
+"titolo": "Cuffia a Cono d'Ascolto",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0012",
+"tipo": "gadget",
+"titolo": "Collana di Dischi Incisi",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0013",
+"tipo": "gadget",
+"titolo": "Fascia da Fronte con Ago Vibrante",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0014",
+"tipo": "gadget",
+"titolo": "Ventaglio di Schede Perforate",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0015",
+"tipo": "gadget",
+"titolo": "Spilla a Stella Fusa",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0016",
+"tipo": "gadget",
+"titolo": "Nastro di Carta a Righe Cerate",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0017",
+"tipo": "gadget",
+"titolo": "Guanto a Dita Numerate",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0018",
+"tipo": "gadget",
+"titolo": "Borsa a Tracolla con Fondo Rigido",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0019",
+"tipo": "gadget",
+"titolo": "Anello a Sigillo Concavo",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0020",
+"tipo": "gadget",
+"titolo": "Fischietto a Doppia Canna",
+"universo": "elabverse"
+},
+{
 "id": "ELA-INV-0001",
 "tipo": "invenzione",
 "titolo": "Lettura delle Righe Nere",
@@ -3626,6 +3846,18 @@
 "id": "ELA-INV-0084",
 "tipo": "invenzione",
 "titolo": "Il Rumore che Va Tolto Prima del Silenzio",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0085",
+"tipo": "invenzione",
+"titolo": "Il Disegno Sotto la Menzogna",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0086",
+"tipo": "invenzione",
+"titolo": "Le Vecchie Rotte Sotto la Vernice",
 "universo": "elabverse"
 },
 {
