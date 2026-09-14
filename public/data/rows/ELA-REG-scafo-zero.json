@@ -1,0 +1,21 @@
+{
+"appare_in": [],
+"ceppo_dominante": null,
+"created": "2026-09-14",
+"epoca_relativa": 0,
+"estrazione": 50,
+"fatti": [],
+"id": "ELA-REG-scafo-zero",
+"media": [],
+"nome": "Scafo Zero",
+"note": "Uno scafo agganciato al convoglio senza mai essere stato registrato in nessun rollo d'imbarco; chi ci vive è arrivato da ogni ceppo e ha perso o rinnegato il cognome di città, così i nomi si mescolano liberamente e nessuno controlla più chi appartiene a chi.",
+"onomastica": "totale",
+"p_cognome_mestiere": 0.21,
+"parent_id": null,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "regione",
+"universo": "elabverse"
+}

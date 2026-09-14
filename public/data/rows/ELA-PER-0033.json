@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "asessuale",
+"situazione": "separato"
+},
+"appare_in": [],
+"casta": "derelitti",
+"ceppo": "germanico",
+"cognome": "Wagner",
+"contraddizione": "Vende con coraggio, faccia scoperta, lanterne di scarto riparate a chi cerca di comparire alla conta, ma la sua paranoia la spinge a controllare tre volte ogni acquirente, convinta che uno su tre sia mandato dal Banco a farla arrestare.",
+"created": "2026-09-14",
+"difetto": "paranoico",
+"epoca_relativa": 0,
+"estrazione": 50,
+"eta_fascia": "anziano",
+"fatti": [],
+"gancio": "Ha smesso di vendere agli antenati - così chiama chi le ricorda i propri morti - perché è certa che siano loro, prima o poi, a tradirla.",
+"id": "ELA-PER-0033",
+"invenzione_id": "ELA-INV-0107",
+"media": [],
+"nome": "Petra",
+"parent_id": null,
+"rapporto": "vende",
+"regione": "Scafo Zero",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "pesci",
+"spirituale": {
+"credenza": "culto_degli_antenati",
+"rapporto": "apostata"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "coraggioso",
+"universo": "elabverse"
+}

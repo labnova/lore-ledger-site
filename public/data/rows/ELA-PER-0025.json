@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "sposato"
+},
+"appare_in": [],
+"casta": "derelitti",
+"ceppo": "basco",
+"cognome": "Etxezagaray",
+"contraddizione": "Terrorizzata dall'idea che un lampo di troppo la faccia contare e quindi scoprire, si espone comunque ogni sera al bordo illuminato dello scafo perché non sopporta l'idea di restare invisibile per sempre.",
+"created": "2026-09-14",
+"difetto": "vanitoso",
+"epoca_relativa": 0,
+"estrazione": 50,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "Ha imparato a memoria il ritmo dei lampi di fine turno solo per sapere esattamente quando può farsi vedere senza essere contata.",
+"id": "ELA-PER-0025",
+"invenzione_id": "ELA-INV-0107",
+"media": [],
+"nome": "Haizea",
+"parent_id": null,
+"rapporto": "teme",
+"regione": "Scafo Zero",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "leone",
+"spirituale": {
+"credenza": "le_macchine_sognano",
+"rapporto": "devoto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "curioso",
+"universo": "elabverse"
+}

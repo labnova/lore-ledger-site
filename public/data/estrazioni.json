@@ -2143,5 +2143,55 @@
 "ELA-INV-0109",
 "ELA-INV-0110"
 ]
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"ELA-INV-0107",
+"ELA-INV-0013",
+"ELA-INV-0019",
+"ELA-REG-konya"
+],
+"chiavi": {
+"casta": "derelitti",
+"invenzione_id": "ELA-INV-0107",
+"personaggi": [
+"ELA-PER-0024",
+"ELA-PER-0025",
+"ELA-PER-0026",
+"ELA-PER-0027",
+"ELA-PER-0028",
+"ELA-PER-0029",
+"ELA-PER-0030",
+"ELA-PER-0031",
+"ELA-PER-0032",
+"ELA-PER-0033"
+],
+"regione": "ELA-REG-scafo-zero",
+"universo": "elabverse"
+},
+"created": "2026-09-14",
+"esito": "ok",
+"espansioni": [
+"ELA-INV-0113",
+"ELA-INV-0114"
+],
+"estrazione": 50,
+"forzata": false,
+"lotto": "lotto-personaggi",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"ELA-PER-0024",
+"ELA-PER-0025",
+"ELA-PER-0026",
+"ELA-PER-0027",
+"ELA-PER-0028",
+"ELA-PER-0029",
+"ELA-PER-0030",
+"ELA-PER-0031",
+"ELA-PER-0032",
+"ELA-PER-0033",
+"ELA-REG-scafo-zero"
+]
 }
 ]

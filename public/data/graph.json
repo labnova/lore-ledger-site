@@ -136,6 +136,16 @@
 "to": "ELA-INV-0112"
 },
 {
+"from": "ELA-INV-0013",
+"kind": "parent",
+"to": "ELA-INV-0113"
+},
+{
+"from": "ELA-INV-0019",
+"kind": "parent",
+"to": "ELA-INV-0114"
+},
+{
 "from": "HAC-INV-0002",
 "kind": "parent",
 "to": "HAC-INV-0041"
@@ -679,6 +689,106 @@
 "from": "ELA-PER-0023",
 "kind": "regione",
 "to": "ELA-REG-konya"
+},
+{
+"from": "ELA-PER-0024",
+"kind": "invenzione",
+"to": "ELA-INV-0107"
+},
+{
+"from": "ELA-PER-0024",
+"kind": "regione",
+"to": "ELA-REG-scafo-zero"
+},
+{
+"from": "ELA-PER-0025",
+"kind": "invenzione",
+"to": "ELA-INV-0107"
+},
+{
+"from": "ELA-PER-0025",
+"kind": "regione",
+"to": "ELA-REG-scafo-zero"
+},
+{
+"from": "ELA-PER-0026",
+"kind": "invenzione",
+"to": "ELA-INV-0107"
+},
+{
+"from": "ELA-PER-0026",
+"kind": "regione",
+"to": "ELA-REG-scafo-zero"
+},
+{
+"from": "ELA-PER-0027",
+"kind": "invenzione",
+"to": "ELA-INV-0107"
+},
+{
+"from": "ELA-PER-0027",
+"kind": "regione",
+"to": "ELA-REG-scafo-zero"
+},
+{
+"from": "ELA-PER-0028",
+"kind": "invenzione",
+"to": "ELA-INV-0107"
+},
+{
+"from": "ELA-PER-0028",
+"kind": "regione",
+"to": "ELA-REG-scafo-zero"
+},
+{
+"from": "ELA-PER-0029",
+"kind": "invenzione",
+"to": "ELA-INV-0107"
+},
+{
+"from": "ELA-PER-0029",
+"kind": "regione",
+"to": "ELA-REG-scafo-zero"
+},
+{
+"from": "ELA-PER-0030",
+"kind": "invenzione",
+"to": "ELA-INV-0107"
+},
+{
+"from": "ELA-PER-0030",
+"kind": "regione",
+"to": "ELA-REG-scafo-zero"
+},
+{
+"from": "ELA-PER-0031",
+"kind": "invenzione",
+"to": "ELA-INV-0107"
+},
+{
+"from": "ELA-PER-0031",
+"kind": "regione",
+"to": "ELA-REG-scafo-zero"
+},
+{
+"from": "ELA-PER-0032",
+"kind": "invenzione",
+"to": "ELA-INV-0107"
+},
+{
+"from": "ELA-PER-0032",
+"kind": "regione",
+"to": "ELA-REG-scafo-zero"
+},
+{
+"from": "ELA-PER-0033",
+"kind": "invenzione",
+"to": "ELA-INV-0107"
+},
+{
+"from": "ELA-PER-0033",
+"kind": "regione",
+"to": "ELA-REG-scafo-zero"
 },
 {
 "from": "HAC-PER-0001",
@@ -4433,6 +4543,18 @@
 "universo": "elabverse"
 },
 {
+"id": "ELA-INV-0113",
+"tipo": "invenzione",
+"titolo": "Il Coro Filtrato",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0114",
+"tipo": "invenzione",
+"titolo": "La Pelle dello Scafo",
+"universo": "elabverse"
+},
+{
 "id": "ELA-PER-0001",
 "tipo": "personaggio",
 "titolo": "Orsolya Pék",
@@ -4571,9 +4693,75 @@
 "universo": "elabverse"
 },
 {
+"id": "ELA-PER-0024",
+"tipo": "personaggio",
+"titolo": "Kaito Kisimba",
+"universo": "elabverse"
+},
+{
+"id": "ELA-PER-0025",
+"tipo": "personaggio",
+"titolo": "Haizea Etxezagaray",
+"universo": "elabverse"
+},
+{
+"id": "ELA-PER-0026",
+"tipo": "personaggio",
+"titolo": "Vladimir Minosaenko",
+"universo": "elabverse"
+},
+{
+"id": "ELA-PER-0027",
+"tipo": "personaggio",
+"titolo": "Andrea Varga",
+"universo": "elabverse"
+},
+{
+"id": "ELA-PER-0028",
+"tipo": "personaggio",
+"titolo": "Aylin Yalnerier",
+"universo": "elabverse"
+},
+{
+"id": "ELA-PER-0029",
+"tipo": "personaggio",
+"titolo": "Yosuke Suki",
+"universo": "elabverse"
+},
+{
+"id": "ELA-PER-0030",
+"tipo": "personaggio",
+"titolo": "Ahmad Shamiri",
+"universo": "elabverse"
+},
+{
+"id": "ELA-PER-0031",
+"tipo": "personaggio",
+"titolo": "Magnus Nordeström",
+"universo": "elabverse"
+},
+{
+"id": "ELA-PER-0032",
+"tipo": "personaggio",
+"titolo": "Jelani Jurani",
+"universo": "elabverse"
+},
+{
+"id": "ELA-PER-0033",
+"tipo": "personaggio",
+"titolo": "Petra Wagner",
+"universo": "elabverse"
+},
+{
 "id": "ELA-REG-konya",
 "tipo": "regione",
 "titolo": "Konya",
+"universo": "elabverse"
+},
+{
+"id": "ELA-REG-scafo-zero",
+"tipo": "regione",
+"titolo": "Scafo Zero",
 "universo": "elabverse"
 },
 {

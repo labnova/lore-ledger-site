@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "asessuale",
+"situazione": "promesso_per_contratto"
+},
+"appare_in": [],
+"casta": "derelitti",
+"ceppo": "magiaro",
+"cognome": "Varga",
+"contraddizione": "Predica che leggere le stelle come un registro sia una bestemmia da apostati, ma passa le notti a costruire con le proprie mani lanterne false identiche a quelle del Banco, un registro fasullo venduto un pezzo alla volta.",
+"created": "2026-09-14",
+"difetto": "pedante",
+"epoca_relativa": 0,
+"estrazione": 50,
+"eta_fascia": "anziano",
+"fatti": [],
+"gancio": "Corregge con pedanteria ogni cliente che sbaglia a impugnare una sua lanterna contraffatta, come se il falso meritasse comunque rispetto per la sua precisione.",
+"id": "ELA-PER-0027",
+"invenzione_id": "ELA-INV-0107",
+"media": [],
+"nome": "Andrea",
+"parent_id": null,
+"rapporto": "vende",
+"regione": "Scafo Zero",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "acquario",
+"spirituale": {
+"credenza": "le_stelle_come_registro",
+"rapporto": "eretico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "inventivo",
+"universo": "elabverse"
+}

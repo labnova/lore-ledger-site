@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"acustica/fonetica",
+"ottica/spettroscopia"
+],
+"epoca_relativa": 1,
+"estrazione": 50,
+"fatti": [],
+"gancio": "Un funzionario del culto scopre che la propria voce, isolata da un coro di dieci anni prima, non ripete più le stesse parole di oggi.",
+"id": "ELA-INV-0113",
+"media": [],
+"nome": "Il Coro Filtrato",
+"nome_reale": "Fotometria a banda stretta applicata al riconoscimento vocale collettivo",
+"parent_id": "ELA-INV-0013",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Se il Setaccio isola un solo fonema da una voce, i vigilanti del Banco lo hanno esteso a interi cori di preghiera registrati, filtrando via tutte le voci tranne una per scoprire chi, tra i tanti che dicono di credere, ripete davvero le stesse parole ogni volta.",
+"universo": "elabverse"
+}

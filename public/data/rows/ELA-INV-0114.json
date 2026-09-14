@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"acustica/fonetica",
+"ottica/spettroscopia"
+],
+"epoca_relativa": 1,
+"estrazione": 50,
+"fatti": [],
+"gancio": "Un rilievo di routine sulla riflettanza di uno scafo dato per morto restituisce una lettura che cambia ogni volta che viene ripetuta, come se qualcosa dietro la paratia stesse ancora respirando.",
+"id": "ELA-INV-0114",
+"media": [],
+"nome": "La Pelle dello Scafo",
+"nome_reale": "Spettroscopia di riflettanza applicata a superfici di scafo",
+"parent_id": "ELA-INV-0019",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Lo Specchio della Roccia, nato per leggere i volti, viene puntato sulle paratie dei derelitti agganciati al convoglio; la riflettanza del metallo corroso rivelerebbe da quanto tempo uno scafo è davvero disabitato, o se qualcuno lo sta ancora facendo sembrare tale.",
+"universo": "elabverse"
+}

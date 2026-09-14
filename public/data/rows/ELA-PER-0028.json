@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "pansessuale",
+"situazione": "vedovo"
+},
+"appare_in": [],
+"casta": "derelitti",
+"ceppo": "turco",
+"cognome": "Yalnerier",
+"contraddizione": "Amministra per il Banco la dottrina del debito fra i suoi stessi vicini derelitti, ma usa la conta delle lanterne per far scomparire dai registri i nomi di chi non può pagare, proteggendoli dalla dottrina che lei stessa dovrebbe far rispettare.",
+"created": "2026-09-14",
+"difetto": "giocatore",
+"epoca_relativa": 0,
+"estrazione": 50,
+"eta_fascia": "anziano",
+"fatti": [],
+"gancio": "Scommette ogni sera, in segreto, su quale lanterna mancherà alla conta, e finora ha sempre vinto perché è lei a deciderlo prima.",
+"id": "ELA-PER-0028",
+"invenzione_id": "ELA-INV-0107",
+"media": [],
+"nome": "Aylin",
+"parent_id": null,
+"rapporto": "usa",
+"regione": "Scafo Zero",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "cancro",
+"spirituale": {
+"credenza": "dottrina_del_debito",
+"rapporto": "funzionario_del_culto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "protettivo",
+"universo": "elabverse"
+}
