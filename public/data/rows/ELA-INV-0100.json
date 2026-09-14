@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"sicurezza/vigilanza",
+"telecomunicazioni/segnalazione_ottica"
+],
+"epoca_relativa": 0,
+"estrazione": 49,
+"fatti": [],
+"gancio": "Un debitore che ha finalmente saldato il conto arriva a uno sportello dove la rete lo ha già segnalato come insolvente, perché nessuno ha mai aggiornato l'ultimo faro della catena.",
+"id": "ELA-INV-0100",
+"media": [],
+"nome": "La Rete che Avvisa Chi Ha Prestato",
+"nome_reale": "Stazioni di segnalazione del Lloyd's (rete costiera che semaforava l'arrivo delle navi agli assicuratori)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La rete di stazioni costiere che segnalava con semafori l'arrivo di ogni nave assicurata, prima ancora che attraccasse, viene ricreata tra gli anelli come rete di avvistamento per il Banco delle Molte Mani: chi ha un debito in sospeso viene segnalato lampo dopo lampo molto prima di raggiungere lo sportello.",
+"universo": "elabverse"
+}

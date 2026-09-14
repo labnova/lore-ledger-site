@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"sicurezza/vigilanza",
+"telecomunicazioni/segnalazione_ottica"
+],
+"epoca_relativa": 0,
+"estrazione": 49,
+"fatti": [],
+"gancio": "Un nome scritto in fuochi per errore risulta essere quello di un vigilante del Banco stesso, e nessuno osa spegnere la scacchiera prima dell'alba.",
+"id": "ELA-INV-0106",
+"media": [],
+"nome": "La Scacchiera di Fuoco che Scrive Lettere",
+"nome_reale": "Cifrario dei fuochi su scacchiera (quadrato di Polibio, antico sistema greco di segnalazione a fuochi numerati)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il metodo antico che trasformava le lettere dell'alfabeto in coppie di fuochi accesi su una scacchiera visibile da lontano viene riadattato ai fari dei boccaporti del convoglio per scrivere, un lampo alla volta, i nomi dei debitori inadempienti su tutta la lunghezza di un anello, così che nessun ponte possa dire di non aver saputo.",
+"universo": "elabverse"
+}

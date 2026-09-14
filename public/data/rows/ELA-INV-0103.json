@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"sicurezza/vigilanza",
+"telecomunicazioni/segnalazione_ottica"
+],
+"epoca_relativa": 0,
+"estrazione": 49,
+"fatti": [],
+"gancio": "Una famiglia issa la bandiera gialla da sola, prima che il Banco la mandi, sperando che l'isolamento volontario costi meno di quello imposto.",
+"id": "ELA-INV-0103",
+"media": [],
+"nome": "Il Panno Giallo che Nessuno Avvicina",
+"nome_reale": "Bandiera di quarantena (bandiera gialla che dichiara una nave in isolamento sanitario)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La bandiera gialla che una nave doveva issare per dichiararsi in quarantena viene issata dal Banco fuori dai boccaporti dei debitori dichiarati \"contagiosi\" per il credito, un contagio che si misura in anelli mancati e non in febbre, ma che isola allo stesso modo.",
+"universo": "elabverse"
+}

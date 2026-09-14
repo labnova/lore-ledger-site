@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"agricoltura/allevamento",
+"zoologia/ittiologia"
+],
+"epoca_relativa": 2,
+"estrazione": 49,
+"fatti": [],
+"gancio": "Un impiegato scopre che il libro genealogico del Banco e quello del bestiame condividono, per tre generazioni, esattamente le stesse coppie di nomi.",
+"id": "ELA-INV-0111",
+"media": [],
+"nome": "Il Libro che Ricorda Ogni Nozze",
+"nome_reale": "Libro genealogico del bestiame (studbook)",
+"parent_id": "ELA-INV-0078",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Se Il Numero che Pesa il Sangue nega un matrimonio calcolando quanto debito condiviso porta una coppia, il libro genealogico del bestiame nasce quando il Banco delle Molte Mani scopre che due famiglie possono aggirare il calcolo sposando i figli in anelli diversi, dove nessuno controlla le stesse tabelle, e ricalca riga per riga i registri di monta sulle unioni concesse e negate.",
+"universo": "elabverse"
+}

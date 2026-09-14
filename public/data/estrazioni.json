@@ -2070,5 +2070,78 @@
 "righe_prodotte": [
 "ELA-CON-0003"
 ]
+},
+{
+"campi_forzati": [],
+"chiavi": {
+"manca": {
+"gadget": 0,
+"personaggi": 0,
+"regione": true
+},
+"regione": "Rotterdam",
+"universo": "hackverse"
+},
+"cluster_target": "HAC-INV-0001",
+"created": "2026-09-14",
+"esito": "ok",
+"estrazione": 48,
+"forzata": false,
+"lotto": "lotto-maturazione",
+"modello": "claude-sonnet-5",
+"note": "Nessuna riga da creare: personaggi (20, rapporti gia' 6 diversi) e gadget (HAC-GAD-0001) gia' presenti per il cluster. Il flag manca.regione e' dovuto al campo `regione` dei personaggi esistenti che riporta l'id della riga regione (es. HAC-REG-tallinn) invece del nome, per cui il lookup per nome non trova corrispondenza; le righe sono gia' committate e non vengono toccate (append-only). regione_esistente risolta su HAC-REG-rotterdam, nessun nuovo file scritto. python3 -m engine.cluster --lista conferma HAC-INV-0001 gia' fra i maturi (personaggi=20 gadget=1).\n",
+"righe_prodotte": []
+},
+{
+"bibbia_pescata": [
+"- **Che cos'è**: un branch in cui una parte dell'umanità è p",
+"> Substrato iniziale scritto a mano (12 set 2026). Append-on"
+],
+"campi_forzati": [],
+"canone_pescato": [
+"ELA-INV-0078",
+"ELA-INV-0059",
+"ELA-PER-0005"
+],
+"chiavi": {
+"discipline": [
+"sicurezza/vigilanza",
+"telecomunicazioni/segnalazione_ottica"
+],
+"universo": "elabverse"
+},
+"created": "2026-09-14",
+"esito": "ok",
+"espansioni": [
+"ELA-INV-0111",
+"ELA-INV-0112",
+"ELA-PER-0023"
+],
+"estrazione": 49,
+"forzata": false,
+"lotto": "lotto-lore",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"ELA-INV-0091",
+"ELA-INV-0092",
+"ELA-INV-0093",
+"ELA-INV-0094",
+"ELA-INV-0095",
+"ELA-INV-0096",
+"ELA-INV-0097",
+"ELA-INV-0098",
+"ELA-INV-0099",
+"ELA-INV-0100",
+"ELA-INV-0101",
+"ELA-INV-0102",
+"ELA-INV-0103",
+"ELA-INV-0104",
+"ELA-INV-0105",
+"ELA-INV-0106",
+"ELA-INV-0107",
+"ELA-INV-0108",
+"ELA-INV-0109",
+"ELA-INV-0110"
+]
 }
 ]

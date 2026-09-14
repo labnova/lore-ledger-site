@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"sicurezza/vigilanza",
+"telecomunicazioni/segnalazione_ottica"
+],
+"epoca_relativa": 0,
+"estrazione": 49,
+"fatti": [],
+"gancio": "Un vigilante nuovo impara il ritmo sbagliato da un manuale corrotto, e la prima notte di turno ogni lanterna del suo giro lo dichiara un intruso.",
+"id": "ELA-INV-0096",
+"media": [],
+"nome": "L'Orologio che Ricorda le Porte",
+"nome_reale": "Orologio di controllo del vigilante notturno (detector clock, sistema di ronda a stazioni)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "L'orologio che il guardiano doveva far scattare a ogni stazione del suo giro per provare di essere passato viene sostituito, nel convoglio, da lanterne a doppio lampo poste a ogni boccaporto: solo chi conosce il ritmo esatto della propria ronda sa quando rispondere, e il ritmo sbagliato smaschera chi porta l'uniforme di un altro.",
+"universo": "elabverse"
+}

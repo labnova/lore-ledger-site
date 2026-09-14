@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"sicurezza/vigilanza",
+"telecomunicazioni/segnalazione_ottica"
+],
+"epoca_relativa": 0,
+"estrazione": 49,
+"fatti": [],
+"gancio": "Un anziano espulso da decenni usa finalmente il suo unico lampo consentito, e chi lo riceve dall'altra parte del convoglio non era ancora nato quando l'espulsione fu decisa.",
+"id": "ELA-INV-0101",
+"media": [],
+"nome": "Lo Specchio che Chiede Aiuto una Volta Sola",
+"nome_reale": "Specchio di segnalazione da soccorso (specchietto per lampi di richiamo in emergenza)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il piccolo specchio che un naufrago usava per lanciare un unico lampo di soccorso verso l'orizzonte diventa, nel convoglio, l'ultimo strumento consentito a chi è stato espulso da un anello: un solo lampo, verso un solo punto, nella vita di chi lo riceve.",
+"universo": "elabverse"
+}

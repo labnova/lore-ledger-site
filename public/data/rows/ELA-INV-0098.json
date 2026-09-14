@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"sicurezza/vigilanza",
+"telecomunicazioni/segnalazione_ottica"
+],
+"epoca_relativa": 0,
+"estrazione": 49,
+"fatti": [],
+"gancio": "Due guardie scoprono di avere ricevuto, per un errore d'archivio, la stessa identica firma di lampi, e nessuna delle due riesce più a provare di essere quella vera.",
+"id": "ELA-INV-0098",
+"media": [],
+"nome": "La Firma che Nessun Faro Condivide",
+"nome_reale": "Caratteristica ottica del faro (sequenza di lampi unica che identifica ogni faro)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La sequenza di lampi unica che permetteva ai naviganti di riconoscere un faro specifico anche al buio viene assegnata dal Banco a ogni guardia notturna come firma personale, così che un lampo fuori sequenza non è mai un errore ma sempre un allarme.",
+"universo": "elabverse"
+}

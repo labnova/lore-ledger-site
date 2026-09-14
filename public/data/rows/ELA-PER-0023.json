@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "vedovo"
+},
+"appare_in": [],
+"casta": "navigatori",
+"ceppo": "turco",
+"cognome": "Aydemir",
+"contraddizione": "Rigoroso nel turno che Fatma continua a saltare, usa l'Eco della Materia ogni alba senza fallo, ma l'insonnia che lo tiene sveglio oltre il proprio turno lo fa restare ad ascoltare la stessa firma spettrale ben oltre l'orario concesso.",
+"created": "2026-09-14",
+"difetto": "insonne",
+"epoca_relativa": 0,
+"estrazione": 49,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "Ha iniziato a trascrivere la firma ricorrente come fosse un messaggio, e si rifiuta di mostrare a chiunque, Fatma compresa, cosa ha scritto finora.",
+"id": "ELA-PER-0023",
+"invenzione_id": "ELA-INV-0005",
+"media": [],
+"nome": "Selim",
+"parent_id": "ELA-PER-0005",
+"rapporto": "usa",
+"regione": "Konya",
+"relazione": "espansione",
+"ritratto": null,
+"schema_version": 1,
+"segno": "capricorno",
+"spirituale": {
+"credenza": "la_voce_nella_rete",
+"rapporto": "mistico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "rigoroso",
+"universo": "elabverse"
+}

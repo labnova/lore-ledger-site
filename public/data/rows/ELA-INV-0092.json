@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"sicurezza/vigilanza",
+"telecomunicazioni/segnalazione_ottica"
+],
+"epoca_relativa": 0,
+"estrazione": 49,
+"fatti": [],
+"gancio": "Un guardiano scopre che la sua torretta ha ripetuto per anni un simbolo che nessuno ha mai decifrato, inserito da un predecessore morto prima che lui nascesse.",
+"id": "ELA-INV-0092",
+"media": [],
+"nome": "La Rete delle Braccia di Legno",
+"nome_reale": "Telegrafo ottico di Chappe (rete di torri semaforiche del XVIII secolo)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La rete di torri che si tramandavano messaggi a bracci meccanici visibili gli uni dagli altri diventa, tra gli anelli del convoglio, la spina dorsale della sorveglianza dei debitori: ogni torretta di guardia ripete lo stato di un anello al successivo, cifra dopo cifra, finché il messaggio non ha attraversato l'intero convoglio senza mai toccare un filo.",
+"universo": "elabverse"
+}

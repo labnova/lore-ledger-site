@@ -126,6 +126,16 @@
 "to": "ELA-INV-0090"
 },
 {
+"from": "ELA-INV-0078",
+"kind": "parent",
+"to": "ELA-INV-0111"
+},
+{
+"from": "ELA-INV-0059",
+"kind": "parent",
+"to": "ELA-INV-0112"
+},
+{
 "from": "HAC-INV-0002",
 "kind": "parent",
 "to": "HAC-INV-0041"
@@ -652,6 +662,21 @@
 },
 {
 "from": "ELA-PER-0022",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-PER-0005",
+"kind": "parent",
+"to": "ELA-PER-0023"
+},
+{
+"from": "ELA-PER-0023",
+"kind": "invenzione",
+"to": "ELA-INV-0005"
+},
+{
+"from": "ELA-PER-0023",
 "kind": "regione",
 "to": "ELA-REG-konya"
 },
@@ -4276,6 +4301,138 @@
 "universo": "elabverse"
 },
 {
+"id": "ELA-INV-0091",
+"tipo": "invenzione",
+"titolo": "Lo Specchio dei Debitori",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0092",
+"tipo": "invenzione",
+"titolo": "La Rete delle Braccia di Legno",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0093",
+"tipo": "invenzione",
+"titolo": "La Lampada che Conta i Passi",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0094",
+"tipo": "invenzione",
+"titolo": "Il Vocabolario dei Panni Colorati",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0095",
+"tipo": "invenzione",
+"titolo": "La Catena che Sveglia gli Anelli",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0096",
+"tipo": "invenzione",
+"titolo": "L'Orologio che Ricorda le Porte",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0097",
+"tipo": "invenzione",
+"titolo": "Le Luci che Dicono Chi Deve Fermarsi",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0098",
+"tipo": "invenzione",
+"titolo": "La Firma che Nessun Faro Condivide",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0099",
+"tipo": "invenzione",
+"titolo": "La Torre che Guarda Senza Farsi Vedere",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0100",
+"tipo": "invenzione",
+"titolo": "La Rete che Avvisa Chi Ha Prestato",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0101",
+"tipo": "invenzione",
+"titolo": "Lo Specchio che Chiede Aiuto una Volta Sola",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0102",
+"tipo": "invenzione",
+"titolo": "La Prova degli Occhi che Restano nel Buio",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0103",
+"tipo": "invenzione",
+"titolo": "Il Panno Giallo che Nessuno Avvicina",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0104",
+"tipo": "invenzione",
+"titolo": "Il Fascio che Non Si Ferma Mai",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0105",
+"tipo": "invenzione",
+"titolo": "La Lanterna che Sa Cosa Porti",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0106",
+"tipo": "invenzione",
+"titolo": "La Scacchiera di Fuoco che Scrive Lettere",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0107",
+"tipo": "invenzione",
+"titolo": "Il Numero che Ogni Lanterna Porta",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0108",
+"tipo": "invenzione",
+"titolo": "Il Lampo che Chiude i Boccaporti",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0109",
+"tipo": "invenzione",
+"titolo": "La Staffetta che Non Tocca Terra",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0110",
+"tipo": "invenzione",
+"titolo": "La Garitta che Non Mente Mai da Sola",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0111",
+"tipo": "invenzione",
+"titolo": "Il Libro che Ricorda Ogni Nozze",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0112",
+"tipo": "invenzione",
+"titolo": "Il Marchio Rifuso",
+"universo": "elabverse"
+},
+{
 "id": "ELA-PER-0001",
 "tipo": "personaggio",
 "titolo": "Orsolya Pék",
@@ -4405,6 +4562,12 @@
 "id": "ELA-PER-0022",
 "tipo": "personaggio",
 "titolo": "Derya Dinleyici",
+"universo": "elabverse"
+},
+{
+"id": "ELA-PER-0023",
+"tipo": "personaggio",
+"titolo": "Selim Aydemir",
 "universo": "elabverse"
 },
 {

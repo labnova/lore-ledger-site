@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"sicurezza/vigilanza",
+"telecomunicazioni/segnalazione_ottica"
+],
+"epoca_relativa": 0,
+"estrazione": 49,
+"fatti": [],
+"gancio": "Una candidata supera la prova con un risultato mai visto, e viene subito reclamata per un turno che il regolamento non prevede ancora.",
+"id": "ELA-INV-0102",
+"media": [],
+"nome": "La Prova degli Occhi che Restano nel Buio",
+"nome_reale": "Test di adattamento al buio per sentinelle (verifica della visione notturna delle guardie)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il test che misurava quanto in fretta l'occhio di una sentinella si abituava al buio prima di un turno di guardia diventa, tra i candidati vigilanti del convoglio, l'esame che decide chi può leggere i lampi più deboli dei fari periferici e chi resterà sempre assegnato ai portelli meglio illuminati.",
+"universo": "elabverse"
+}

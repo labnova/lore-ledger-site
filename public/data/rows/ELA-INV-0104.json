@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"sicurezza/vigilanza",
+"telecomunicazioni/segnalazione_ottica"
+],
+"epoca_relativa": 0,
+"estrazione": 49,
+"fatti": [],
+"gancio": "Un fuggitivo scopre di conoscere il ritmo del fascio meglio delle guardie che lo programmano, e lo usa per attraversare tre ponti senza mai essere visto.",
+"id": "ELA-INV-0104",
+"media": [],
+"nome": "Il Fascio che Non Si Ferma Mai",
+"nome_reale": "Riflettore rotante da torre di guardia (fascio di ricerca che spazza periodicamente il perimetro)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il fascio di luce che una torre di guardia fa ruotare senza sosta lungo il perimetro, per non lasciare mai un angolo buio più a lungo di un giro, viene calibrato nel convoglio sul tempo che un debitore impiegherebbe ad attraversare un ponte, così che nessuno possa mai contare sull'oscurità per più di quel tanto.",
+"universo": "elabverse"
+}

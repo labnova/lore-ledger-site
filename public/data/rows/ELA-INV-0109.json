@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"sicurezza/vigilanza",
+"telecomunicazioni/segnalazione_ottica"
+],
+"epoca_relativa": 0,
+"estrazione": 49,
+"fatti": [],
+"gancio": "Una vedetta rifiuta di rilanciare un lampo che riconosce come un vecchio codice proibito, e per la prima volta in generazioni la staffetta si interrompe di proposito.",
+"id": "ELA-INV-0109",
+"media": [],
+"nome": "La Staffetta che Non Tocca Terra",
+"nome_reale": "Staffetta di specchi tra torri di vedetta (relay di segnalazione a specchi tra punti alti)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La staffetta di specchi che permetteva a una notizia di saltare da una torre di vedetta all'altra senza che nessun messaggero dovesse mai percorrere la distanza a piedi viene usata dal convoglio per far viaggiare un allarme di derelitto attraverso anelli che non condividono più nemmeno la lingua dei registri d'imbarco, un lampo dopo l'altro, finché la notizia non ha fatto il giro senza che una sola voce l'abbia mai pronunciata.",
+"universo": "elabverse"
+}

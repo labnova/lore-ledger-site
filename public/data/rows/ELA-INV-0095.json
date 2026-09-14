@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"sicurezza/vigilanza",
+"telecomunicazioni/segnalazione_ottica"
+],
+"epoca_relativa": 0,
+"estrazione": 49,
+"fatti": [],
+"gancio": "La catena si accende in piena notte partendo da un anello che il registro ufficiale dichiara disabitato da decenni.",
+"id": "ELA-INV-0095",
+"media": [],
+"nome": "La Catena che Sveglia gli Anelli",
+"nome_reale": "Catena di fari di allarme (beacon relay, sistema di fuochi a staffetta)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "L'antica catena di fuochi che portava una notizia da una collina alla successiva più veloce di qualunque messaggero a piedi viene ricostruita lungo l'asse del convoglio come catena di fari d'allarme: un derelitto avvistato accende il primo faro, e nell'arco di una guardia la notizia ha attraversato scafi che non si parlano da generazioni.",
+"universo": "elabverse"
+}

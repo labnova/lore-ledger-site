@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"sicurezza/vigilanza",
+"telecomunicazioni/segnalazione_ottica"
+],
+"epoca_relativa": 0,
+"estrazione": 49,
+"fatti": [],
+"gancio": "Un turno di ronda non risponde al lampo previsto, e la squadra che va a cercarlo trova solo la lanterna, ancora accesa, appoggiata su un boccaporto aperto.",
+"id": "ELA-INV-0093",
+"media": [],
+"nome": "La Lampada che Conta i Passi",
+"nome_reale": "Lanterna Aldis (lampada a intermittenza per segnalazioni Morse navali)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La lanterna che i marinai usavano per battere messaggi in codice a lampi viene impugnata dalle ronde notturne come strumento di conta: ogni sentinella lampeggia il proprio numero a intervalli fissi lungo il turno, e chi smette di rispondere per più di un intervallo viene considerato caduto, disertore o peggio.",
+"universo": "elabverse"
+}

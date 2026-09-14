@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"sicurezza/vigilanza",
+"telecomunicazioni/segnalazione_ottica"
+],
+"epoca_relativa": 0,
+"estrazione": 49,
+"fatti": [],
+"gancio": "Una vedetta intercetta una sequenza di lampi che non corrisponde a nessun codice del Banco, e capisce che qualcun altro, a bordo, sta segnalando in proprio.",
+"id": "ELA-INV-0091",
+"media": [],
+"nome": "Lo Specchio dei Debitori",
+"nome_reale": "Eliografo militare (specchio a lampi di sole per segnalazioni a distanza)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "L'eliografo che rifletteva la luce del sole per segnalare a distanza viene riadattato dalle guardie del Banco delle Molte Mani per rimandare i lampi del faro centrale dell'anello da un ponte all'altro, perché un messaggio che viaggia per luce non lascia traccia nella rete che qualcuno, a bordo, teme sempre in ascolto.",
+"universo": "elabverse"
+}

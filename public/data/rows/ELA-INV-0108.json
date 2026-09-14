@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"sicurezza/vigilanza",
+"telecomunicazioni/segnalazione_ottica"
+],
+"epoca_relativa": 0,
+"estrazione": 49,
+"fatti": [],
+"gancio": "Un vigilante vede un ritardatario correre verso il boccaporto mentre il lampo del coprifuoco già lampeggia, e capisce che questa volta non farà in tempo a intervenire.",
+"id": "ELA-INV-0108",
+"media": [],
+"nome": "Il Lampo che Chiude i Boccaporti",
+"nome_reale": "Codice a intermittenza per il coprifuoco (segnale luminoso che scandisce inizio e fine del coprifuoco)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il segnale luminoso intermittente che nelle vecchie città scandiva l'inizio del coprifuoco viene programmato nei fari centrali di ogni anello per chiudere i boccaporti automaticamente, un compito che un tempo spettava a un banditore e ora appartiene a un meccanismo che nessun vigilante può più fermare in tempo se qualcuno resta fuori.",
+"universo": "elabverse"
+}

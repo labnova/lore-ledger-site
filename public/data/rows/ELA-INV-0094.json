@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"sicurezza/vigilanza",
+"telecomunicazioni/segnalazione_ottica"
+],
+"epoca_relativa": 0,
+"estrazione": 49,
+"fatti": [],
+"gancio": "Una ragazza issa per errore la bandiera sbagliata fuori dalla cabina di famiglia, e per un giorno intero l'intero anello la crede sequestrabile.",
+"id": "ELA-INV-0094",
+"media": [],
+"nome": "Il Vocabolario dei Panni Colorati",
+"nome_reale": "Codice internazionale dei segnali marittimi a bandiere",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il codice a bandiere che le navi usavano per dichiararsi in avaria, in quarantena o in pericolo viene riscritto dal Banco delle Molte Mani come vocabolario dello stato di un debitore, appeso fuori dalla cabina come le vecchie navi issavano la propria condizione per chi le incrociava da lontano.",
+"universo": "elabverse"
+}

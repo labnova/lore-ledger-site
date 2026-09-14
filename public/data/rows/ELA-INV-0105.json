@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"sicurezza/vigilanza",
+"telecomunicazioni/segnalazione_ottica"
+],
+"epoca_relativa": 0,
+"estrazione": 49,
+"fatti": [],
+"gancio": "Un bambino nato durante un viaggio clandestino tra anelli non fa mai cambiare colore alla lanterna, e per il Banco, tecnicamente, non è mai passato da nessuna parte.",
+"id": "ELA-INV-0105",
+"media": [],
+"nome": "La Lanterna che Sa Cosa Porti",
+"nome_reale": "Lanterna daziaria dei posti di dogana (segnale luminoso ai varchi che dichiara merce tassata o contrabbando)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La lanterna che ai vecchi posti di confine cambiava colore secondo se la merce in transito era stata dichiarata o nascosta viene installata a ogni boccaporto di attracco del convoglio, dove non distingue più merce da persona: chi passa senza che il colore cambi è, per il Banco, contrabbando egli stesso.",
+"universo": "elabverse"
+}

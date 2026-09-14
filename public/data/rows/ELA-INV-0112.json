@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"finanza/valuta",
+"tipografia/calligrafia"
+],
+"epoca_relativa": 2,
+"estrazione": 49,
+"fatti": [],
+"gancio": "Un fonditore taglia in due un lingotto confiscato e conta sette marchi sovrapposti, uno per ogni volta che qualcuno ha provato a farlo sparire.",
+"id": "ELA-INV-0112",
+"media": [],
+"nome": "Il Marchio Rifuso",
+"nome_reale": "Marchio rifuso (contromarcatura su metallo rifuso)",
+"parent_id": "ELA-INV-0059",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Se Il Marchio della Purezza certifica il metallo di scafo riciclato con lo stesso punzone dei metalli preziosi, il marchio rifuso nasce quando il Banco prova a cancellare un marchio sospetto rifondendo il metallo e ribattendone uno nuovo sopra, senza sapere che il metallo rifuso continua a mostrare, sotto la superficie, gli strati dei marchi precedenti.",
+"universo": "elabverse"
+}

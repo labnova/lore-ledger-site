@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"sicurezza/vigilanza",
+"telecomunicazioni/segnalazione_ottica"
+],
+"epoca_relativa": 0,
+"estrazione": 49,
+"fatti": [],
+"gancio": "Un debitore convinto di essere osservato ogni notte scopre, troppo tardi, che la torre è vuota da mesi e i lampi partono da un meccanismo lasciato acceso.",
+"id": "ELA-INV-0099",
+"media": [],
+"nome": "La Torre che Guarda Senza Farsi Vedere",
+"nome_reale": "Panottico di Bentham (torre di sorveglianza centrale che vede senza essere vista)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La torre centrale pensata per sorvegliare ogni cella senza che i sorvegliati sapessero mai quando erano osservati viene costruita al centro di un anello del convoglio come camera del Banco, con feritoie che lasciano uscire solo lampi di conferma o di allarme, mai una faccia.",
+"universo": "elabverse"
+}

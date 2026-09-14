@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"sicurezza/vigilanza",
+"telecomunicazioni/segnalazione_ottica"
+],
+"epoca_relativa": 0,
+"estrazione": 49,
+"fatti": [],
+"gancio": "Alla conta di fine turno compare un lampo in più rispetto al numero di lanterne assegnate, e nessuno tra i presenti ammette di averlo acceso.",
+"id": "ELA-INV-0107",
+"media": [],
+"nome": "Il Numero che Ogni Lanterna Porta",
+"nome_reale": "Sistema di conta delle guardie con lanterne numerate (roll call ottico a fine turno)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il sistema che assegnava a ogni sentinella una lanterna con un numero proprio, così che il comandante potesse contare i lampi di fine turno e sapere subito chi mancava senza fare l'appello a voce, diventa nel convoglio l'unico censimento affidabile dei vigilanti del Banco, più esatto dei registri d'imbarco che nessuno aggiorna più.",
+"universo": "elabverse"
+}

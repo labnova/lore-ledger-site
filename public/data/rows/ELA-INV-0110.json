@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"sicurezza/vigilanza",
+"telecomunicazioni/segnalazione_ottica"
+],
+"epoca_relativa": 0,
+"estrazione": 49,
+"fatti": [],
+"gancio": "Una lampada resta accesa per settimane in una garitta che tutti credevano vuota, e nessuno ha il coraggio di andare a controllare chi, o cosa, la tiene accesa.",
+"id": "ELA-INV-0110",
+"media": [],
+"nome": "La Garitta che Non Mente Mai da Sola",
+"nome_reale": "Garitta con lampada di stato (cabina di sentinella con segnale luminoso che dichiara presenza e allerta)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La cabina di sentinella dotata di una lampada che restava accesa finché la guardia era al suo posto e si spegneva all'istante in cui se ne allontanava viene installata a ogni ingresso d'anello del convoglio, così che un boccaporto senza lampada accesa dichiara da solo, senza bisogno di un rapporto, che qualcuno ha abbandonato il turno.",
+"universo": "elabverse"
+}

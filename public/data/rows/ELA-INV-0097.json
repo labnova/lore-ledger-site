@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"sicurezza/vigilanza",
+"telecomunicazioni/segnalazione_ottica"
+],
+"epoca_relativa": 0,
+"estrazione": 49,
+"fatti": [],
+"gancio": "Un anello lascia la luce verde accesa per errore per tre turni di fila, e un derelitto che nessuno aspettava attracca convinto di essere stato invitato.",
+"id": "ELA-INV-0097",
+"media": [],
+"nome": "Le Luci che Dicono Chi Deve Fermarsi",
+"nome_reale": "Fanali di via delle navi (luci di navigazione che dichiarano rotta e diritto di precedenza)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Le luci rosse e verdi che una nave accende per dire agli altri scafi da che parte sta virando diventano, sui portelli di attracco del convoglio, il modo in cui un anello dichiara se sta accogliendo o respingendo chi bussa, senza bisogno di aprire un canale che la voce nella rete potrebbe origliare.",
+"universo": "elabverse"
+}
