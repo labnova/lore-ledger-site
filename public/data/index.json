@@ -537,6 +537,9 @@
 "sommario": "Elif Makamilil, che ha scritto lei stessa il ponte tra le valvole di irrigazione e i perfusori d'organo, vuole scoprire chi lo sta usando adesso dopo aver trov…",
 "tipo": "seme",
 "titolo": "seme HAC-INV-0001",
+"universi": [
+"hackverse"
+],
 "universo": "hackverse"
 },
 {
@@ -761,6 +764,9 @@
 "sommario": "Hasan Akderier vuole il posto di primo cartografo del ponte, e per prendersi il merito prima che il capitano scelga qualcun altro esegue subito l'ordine di int…",
 "tipo": "seme",
 "titolo": "seme ELA-INV-0030",
+"universi": [
+"elabverse"
+],
 "universo": "elabverse"
 },
 {
@@ -1600,6 +1606,23 @@
 "sommario": "Due archivisti, applicando la stessa sottrazione allo stesso segnale d'archivio, tolgono rumori diversi e restano con due messaggi finali che non si assomiglia…",
 "tipo": "invenzione",
 "titolo": "Il Rumore che Va Tolto Prima del Silenzio",
+"universo": "elabverse"
+},
+{
+"appare_in": [],
+"chiavi": "Petra la tiene nascosta in fondo al banco fra le lanterne comuni, e la mostra solo a chi ha superato i suoi tre controlli di sicurezza.",
+"created": "2026-09-14",
+"estrazione": 53,
+"gancio": "Alla conta di fine turno, il lampo in più di cui nessuno si assume la paternità arriva proprio dal punto dello scafo dove Petra ha venduto l'ultima lanterna doppia.",
+"id": "ELA-GAD-0031",
+"origine": "maturazione",
+"parent_id": null,
+"prod": false,
+"regione": "Scafo Zero",
+"relazione": null,
+"sommario": "Alla conta di fine turno, il lampo in più di cui nessuno si assume la paternità arriva proprio dal punto dello scafo dove Petra ha venduto l'ultima lanterna do…",
+"tipo": "gadget",
+"titolo": "La Lanterna dal Doppio Lampeggio",
 "universo": "elabverse"
 },
 {
@@ -2729,6 +2752,9 @@
 "sommario": "Piotr Bomitoczyk deve dimostrare al prete che benedirà le sue nozze che il falco segnaposto promesso alla famiglia della sposa sia davvero esistito e abbia vol…",
 "tipo": "seme",
 "titolo": "seme NEO-INV-0013",
+"universi": [
+"neofeudal"
+],
 "universo": "neofeudal"
 },
 {
@@ -2744,6 +2770,9 @@
 "sommario": "Kaan Dokumacı vuole che le quote del registro astrale della Selva delle Puntate tornino sempre esatte prima che i signori le leggano, come gli ha insegnato Elm…",
 "tipo": "seme",
 "titolo": "seme NEO-INV-0012",
+"universi": [
+"neofeudal"
+],
 "universo": "neofeudal"
 },
 {
@@ -2759,6 +2788,9 @@
 "sommario": "Nina Szabó, dodici anni, ha imparato a leggere di nascosto i versetti del Bestiario delle Quote e vuole sapere perché l'animale che Juma Mwangaza sta dipingend…",
 "tipo": "seme",
 "titolo": "seme NEO-INV-0009",
+"universi": [
+"neofeudal"
+],
 "universo": "neofeudal"
 },
 {
@@ -4153,6 +4185,9 @@
 "sommario": "Orsolya Pék, che non crede che le stelle tengano un registro di nulla, vuole comunque scoprire da sola cosa significhi il metallo mai censito che l'Eco della M…",
 "tipo": "seme",
 "titolo": "seme ELA-INV-0005",
+"universi": [
+"elabverse"
+],
 "universo": "elabverse"
 },
 {
@@ -4376,6 +4411,9 @@
 "sommario": "Markus Lindinfeld vuole indietro la sua anima di scorta: scopre solo dopo l'intervento che il contratto firmato senza leggerlo l'ha ceduta alla clinica per un…",
 "tipo": "seme",
 "titolo": "seme CYB-INV-0015",
+"universi": [
+"cyberverse"
+],
 "universo": "cyberverse"
 },
 {

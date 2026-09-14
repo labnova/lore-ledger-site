@@ -35,7 +35,8 @@
 "NEO-INV-0001",
 "NEO-INV-0020"
 ],
-"seed": "seed/estrazioni-2026-09-12.md"
+"seed": "seed/estrazioni-2026-09-12.md",
+"universo": "neofeudal"
 },
 {
 "campi_forzati": [],
@@ -123,7 +124,8 @@
 "NEO-PER-0001",
 "NEO-PER-0010"
 ],
-"seed": "seed/estrazioni-2026-09-12.md"
+"seed": "seed/estrazioni-2026-09-12.md",
+"universo": "neofeudal"
 },
 {
 "campi_forzati": [],
@@ -151,7 +153,8 @@
 "NEO-GAD-0001",
 "NEO-GAD-0010"
 ],
-"seed": "seed/estrazioni-2026-09-12.md"
+"seed": "seed/estrazioni-2026-09-12.md",
+"universo": "neofeudal"
 },
 {
 "campi_forzati": [],
@@ -255,7 +258,8 @@
 "NEO-PER-0018",
 "NEO-PER-0019",
 "NEO-PER-0020"
-]
+],
+"universo": "neofeudal"
 },
 {
 "bibbia_pescata": [],
@@ -301,7 +305,8 @@
 "ELA-INV-0018",
 "ELA-INV-0019",
 "ELA-INV-0020"
-]
+],
+"universo": "elabverse"
 },
 {
 "bibbia_pescata": [],
@@ -347,7 +352,8 @@
 "HAC-INV-0018",
 "HAC-INV-0019",
 "HAC-INV-0020"
-]
+],
+"universo": "hackverse"
 },
 {
 "bibbia_pescata": [
@@ -403,7 +409,8 @@
 "ELA-INV-0038",
 "ELA-INV-0039",
 "ELA-INV-0040"
-]
+],
+"universo": "elabverse"
 },
 {
 "campi_forzati": [],
@@ -511,7 +518,8 @@
 "ELA-PER-0008",
 "ELA-PER-0009",
 "ELA-PER-0010"
-]
+],
+"universo": "elabverse"
 },
 {
 "campi_forzati": [],
@@ -560,7 +568,8 @@
 "ELA-GAD-0008",
 "ELA-GAD-0009",
 "ELA-GAD-0010"
-]
+],
+"universo": "elabverse"
 },
 {
 "campi_forzati": [],
@@ -581,7 +590,8 @@
 "lotto": "lotto-contenuti",
 "righe_prodotte": [
 "ELA-CON-0001"
-]
+],
+"universo": "elabverse"
 },
 {
 "bibbia_pescata": [
@@ -637,7 +647,8 @@
 "ELA-INV-0067",
 "ELA-INV-0068",
 "ELA-INV-0069"
-]
+],
+"universo": "elabverse"
 },
 {
 "campi_forzati": [],
@@ -744,7 +755,8 @@
 "NEO-PER-0029",
 "NEO-PER-0030",
 "NEO-PER-0031"
-]
+],
+"universo": "neofeudal"
 },
 {
 "campi_forzati": [],
@@ -791,7 +803,8 @@
 "NEO-GAD-0018",
 "NEO-GAD-0019",
 "NEO-GAD-0020"
-]
+],
+"universo": "neofeudal"
 },
 {
 "campi_forzati": [],
@@ -814,7 +827,8 @@
 "lotto": "lotto-contenuti",
 "righe_prodotte": [
 "ELA-CON-0002"
-]
+],
+"universo": "elabverse"
 },
 {
 "bibbia_pescata": [
@@ -856,7 +870,8 @@
 "CYB-INV-0018",
 "CYB-INV-0019",
 "CYB-INV-0020"
-]
+],
+"universo": "cyberverse"
 },
 {
 "campi_forzati": [],
@@ -909,7 +924,8 @@
 "CYB-INV-0021",
 "CYB-INV-0022",
 "CYB-INV-0023"
-]
+],
+"universo": "cyberverse"
 },
 {
 "campi_forzati": [],
@@ -953,7 +969,8 @@
 "NEO-GAD-0030",
 "NEO-INV-0023",
 "NEO-INV-0024"
-]
+],
+"universo": "neofeudal"
 },
 {
 "campi_forzati": [],
@@ -975,7 +992,8 @@
 "lotto": "lotto-contenuti",
 "righe_prodotte": [
 "NEO-CON-0001"
-]
+],
+"universo": "neofeudal"
 },
 {
 "bibbia_pescata": [
@@ -1017,7 +1035,8 @@
 "STE-INV-0018",
 "STE-INV-0019",
 "STE-INV-0020"
-]
+],
+"universo": "steamverse"
 },
 {
 "campi_forzati": [],
@@ -1069,7 +1088,8 @@
 "STE-INV-0021",
 "STE-INV-0022",
 "STE-INV-0023"
-]
+],
+"universo": "steamverse"
 },
 {
 "campi_forzati": [],
@@ -1113,7 +1133,8 @@
 "STE-INV-0024",
 "STE-INV-0025",
 "STE-INV-0026"
-]
+],
+"universo": "steamverse"
 },
 {
 "campi_forzati": [],
@@ -1134,7 +1155,8 @@
 "lotto": "lotto-contenuti",
 "righe_prodotte": [
 "CYB-CON-0001"
-]
+],
+"universo": "cyberverse"
 },
 {
 "bibbia_pescata": [
@@ -1184,7 +1206,8 @@
 "HAC-INV-0038",
 "HAC-INV-0039",
 "HAC-INV-0040"
-]
+],
+"universo": "hackverse"
 },
 {
 "campi_forzati": [],
@@ -1277,7 +1300,8 @@
 "NEO-PER-0043",
 "NEO-PER-0044",
 "NEO-PER-0045"
-]
+],
+"universo": "neofeudal"
 },
 {
 "campi_forzati": [],
@@ -1321,7 +1345,8 @@
 "CYB-INV-0024",
 "CYB-INV-0025",
 "CYB-INV-0026"
-]
+],
+"universo": "cyberverse"
 },
 {
 "campi_forzati": [],
@@ -1363,7 +1388,8 @@
 "NEO-GAD-0040",
 "NEO-PER-0046",
 "NEO-PER-0047"
-]
+],
+"universo": "neofeudal"
 },
 {
 "campi_forzati": [],
@@ -1385,7 +1411,8 @@
 "modello": "claude-sonnet-5",
 "righe_prodotte": [
 "STE-CON-0001"
-]
+],
+"universo": "steamverse"
 },
 {
 "campi_forzati": [],
@@ -1407,7 +1434,8 @@
 "modello": "claude-sonnet-5",
 "righe_prodotte": [
 "NEO-PER-0048"
-]
+],
+"universo": "neofeudal"
 },
 {
 "campi_forzati": [],
@@ -1429,7 +1457,12 @@
 "CYB-SEM-0001",
 "NEO-SEM-0001",
 "NEO-SEM-0002"
-]
+],
+"universi": [
+"cyberverse",
+"neofeudal"
+],
+"universo": "cross"
 },
 {
 "campi_forzati": [],
@@ -1451,7 +1484,8 @@
 "modello": "claude-sonnet-5",
 "righe_prodotte": [
 "NEO-GAD-0041"
-]
+],
+"universo": "neofeudal"
 },
 {
 "campi_forzati": [],
@@ -1470,7 +1504,12 @@
 "righe_prodotte": [
 "ELA-SEM-0001",
 "NEO-SEM-0003"
-]
+],
+"universi": [
+"elabverse",
+"neofeudal"
+],
+"universo": "cross"
 },
 {
 "campi_forzati": [],
@@ -1582,7 +1621,8 @@
 "HAC-INV-0044",
 "HAC-INV-0045",
 "HAC-INV-0046"
-]
+],
+"universo": "hackverse"
 },
 {
 "campi_forzati": [],
@@ -1627,7 +1667,8 @@
 "CYB-GAD-0019",
 "CYB-GAD-0020",
 "CYB-INV-0027"
-]
+],
+"universo": "cyberverse"
 },
 {
 "campi_forzati": [],
@@ -1650,7 +1691,8 @@
 "modello": "claude-sonnet-5",
 "righe_prodotte": [
 "NEO-CON-0002"
-]
+],
+"universo": "neofeudal"
 },
 {
 "campi_forzati": [],
@@ -1672,7 +1714,8 @@
 "modello": "claude-sonnet-5",
 "righe_prodotte": [
 "HAC-GAD-0001"
-]
+],
+"universo": "hackverse"
 },
 {
 "campi_forzati": [],
@@ -1729,7 +1772,8 @@
 "ELA-PER-0021",
 "ELA-PER-0022",
 "ELA-INV-0084"
-]
+],
+"universo": "elabverse"
 },
 {
 "campi_forzati": [],
@@ -1777,7 +1821,8 @@
 "ELA-GAD-0018",
 "ELA-GAD-0019",
 "ELA-GAD-0020"
-]
+],
+"universo": "elabverse"
 },
 {
 "campi_forzati": [],
@@ -1800,7 +1845,8 @@
 "modello": "claude-sonnet-5",
 "righe_prodotte": [
 "HAC-CON-0001"
-]
+],
+"universo": "hackverse"
 },
 {
 "bibbia_pescata": [
@@ -1849,7 +1895,8 @@
 "NEO-INV-0042",
 "NEO-INV-0043",
 "NEO-INV-0044"
-]
+],
+"universo": "neofeudal"
 },
 {
 "campi_forzati": [],
@@ -1868,7 +1915,12 @@
 "righe_prodotte": [
 "ELA-SEM-0002",
 "HAC-SEM-0001"
-]
+],
+"universi": [
+"elabverse",
+"hackverse"
+],
+"universo": "cross"
 },
 {
 "campi_forzati": [],
@@ -1975,7 +2027,8 @@
 "HAC-PER-0020",
 "HAC-INV-0047",
 "HAC-INV-0048"
-]
+],
+"universo": "hackverse"
 },
 {
 "campi_forzati": [],
@@ -2031,7 +2084,8 @@
 "ELA-INV-0088",
 "ELA-INV-0089",
 "ELA-INV-0090"
-]
+],
+"universo": "elabverse"
 },
 {
 "chiavi": {
@@ -2046,7 +2100,8 @@
 "modello": "claude-sonnet-5",
 "righe_prodotte": [
 "STE-REG-cancello-del-freddo"
-]
+],
+"universo": "steamverse"
 },
 {
 "campi_forzati": [],
@@ -2069,7 +2124,8 @@
 "note": "Estrazione 46 (HAC-SEM-0001, tipo seme) scartata: sorgente_id non compatibile con lo schema contenuto (accetta solo INV|PER|GAD|CON). Vedi logs/2026-09-14-1600-lotto-contenuti.failed.yaml. Redraw eseguito su questa estrazione (47).\n",
 "righe_prodotte": [
 "ELA-CON-0003"
-]
+],
+"universo": "elabverse"
 },
 {
 "campi_forzati": [],
@@ -2090,7 +2146,8 @@
 "lotto": "lotto-maturazione",
 "modello": "claude-sonnet-5",
 "note": "Nessuna riga da creare: personaggi (20, rapporti gia' 6 diversi) e gadget (HAC-GAD-0001) gia' presenti per il cluster. Il flag manca.regione e' dovuto al campo `regione` dei personaggi esistenti che riporta l'id della riga regione (es. HAC-REG-tallinn) invece del nome, per cui il lookup per nome non trova corrispondenza; le righe sono gia' committate e non vengono toccate (append-only). regione_esistente risolta su HAC-REG-rotterdam, nessun nuovo file scritto. python3 -m engine.cluster --lista conferma HAC-INV-0001 gia' fra i maturi (personaggi=20 gadget=1).\n",
-"righe_prodotte": []
+"righe_prodotte": [],
+"universo": "hackverse"
 },
 {
 "bibbia_pescata": [
@@ -2142,7 +2199,8 @@
 "ELA-INV-0108",
 "ELA-INV-0109",
 "ELA-INV-0110"
-]
+],
+"universo": "elabverse"
 },
 {
 "campi_forzati": [],
@@ -2192,7 +2250,8 @@
 "ELA-PER-0032",
 "ELA-PER-0033",
 "ELA-REG-scafo-zero"
-]
+],
+"universo": "elabverse"
 },
 {
 "campi_forzati": [],
@@ -2237,7 +2296,8 @@
 "NEO-GAD-0050",
 "NEO-GAD-0051",
 "NEO-INV-0045"
-]
+],
+"universo": "neofeudal"
 },
 {
 "campi_forzati": [],
@@ -2265,6 +2325,29 @@
 "modello": "claude-sonnet-5",
 "righe_prodotte": [
 "STE-CON-0002"
-]
+],
+"universo": "steamverse"
+},
+{
+"campi_forzati": [],
+"chiavi": {
+"manca": {
+"gadget": 1,
+"personaggi": 0,
+"regione": false
+},
+"universo": "elabverse"
+},
+"cluster_target": "ELA-INV-0107",
+"created": "2026-09-14",
+"esito": "ok",
+"estrazione": 53,
+"forzata": false,
+"lotto": "lotto-maturazione",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"ELA-GAD-0031"
+],
+"universo": "elabverse"
 }
 ]

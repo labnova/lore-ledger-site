@@ -2386,6 +2386,21 @@
 "to": "ELA-REG-konya"
 },
 {
+"from": "ELA-GAD-0031",
+"kind": "invenzione",
+"to": "ELA-INV-0107"
+},
+{
+"from": "ELA-GAD-0031",
+"kind": "personaggio",
+"to": "ELA-PER-0033"
+},
+{
+"from": "ELA-GAD-0031",
+"kind": "regione",
+"to": "ELA-REG-scafo-zero"
+},
+{
 "from": "HAC-GAD-0001",
 "kind": "invenzione",
 "to": "HAC-INV-0001"
@@ -4225,6 +4240,12 @@
 "id": "ELA-GAD-0030",
 "tipo": "gadget",
 "titolo": "La Chiave a Doppia Lettura",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0031",
+"tipo": "gadget",
+"titolo": "La Lanterna dal Doppio Lampeggio",
 "universo": "elabverse"
 },
 {
