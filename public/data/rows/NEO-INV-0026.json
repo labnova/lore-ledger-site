@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"urbanistica/edilizia_popolare",
+"agricoltura/allevamento"
+],
+"epoca_relativa": 0,
+"estrazione": 41,
+"fatti": [],
+"gancio": "Un bambino conta le finestre del suo palazzo e trova lo stesso numero delle mangiatoie disegnate sulla pianta della vecchia stalla.",
+"id": "NEO-INV-0026",
+"media": [],
+"nome": "Le Stalle Alte",
+"nome_reale": "Prefabbricati modulari in cemento per l'edilizia popolare",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "I moduli abitativi del quartiere dei senza-stirpe sono gli stessi stampi di cemento usati per le stalle a più piani, requisiti dopo il Crollo e mai ridisegnati.",
+"universo": "neofeudal"
+}

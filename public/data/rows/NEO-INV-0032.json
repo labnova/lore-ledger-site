@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"urbanistica/edilizia_popolare",
+"agricoltura/allevamento"
+],
+"epoca_relativa": 0,
+"estrazione": 41,
+"fatti": [],
+"gancio": "Una coppia senza figli e senza vitelli scopre di avere sei mesi prima che il patto si consideri rotto.",
+"id": "NEO-INV-0032",
+"media": [],
+"nome": "Il Patto della Casa e della Cucciolata",
+"nome_reale": "Contratto di locazione popolare vincolato al contratto di monta del bestiame",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Nel borgo, l'alloggio popolare si rinnova solo se la famiglia consegna al feudo un vitello o un puledro entro l'anno, come se la fecondità della stalla e quella della casa fossero la stessa clausola.",
+"universo": "neofeudal"
+}

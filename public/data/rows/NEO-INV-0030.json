@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"urbanistica/edilizia_popolare",
+"agricoltura/allevamento"
+],
+"epoca_relativa": 0,
+"estrazione": 41,
+"fatti": [],
+"gancio": "Un inquilino dell'ultimo piano giura che l'acqua che gli piove in casa dai piani alti sa di fieno.",
+"id": "NEO-INV-0030",
+"media": [],
+"nome": "Le Torri del Pascolo Alto",
+"nome_reale": "Torri di edilizia popolare a struttura verticale",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "I blocchi popolari a più piani sono stati costruiti sul progetto delle vecchie mangiatoie verticali per l'allevamento intensivo, e ogni piano ha ancora la pendenza per far scolare i liquami verso il basso.",
+"universo": "neofeudal"
+}

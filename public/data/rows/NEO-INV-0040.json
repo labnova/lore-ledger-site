@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"urbanistica/edilizia_popolare",
+"agricoltura/allevamento"
+],
+"epoca_relativa": 0,
+"estrazione": 41,
+"fatti": [],
+"gancio": "Un chierico giovane nota che il totale non torna mai, e che qualcuno pareggia i conti spostando famiglie invece di bestie.",
+"id": "NEO-INV-0040",
+"media": [],
+"nome": "Il Conto delle Stanze Piene",
+"nome_reale": "Registro unificato delle stanze abitate e delle fecondazioni del bestiame",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Lo stesso registro segna quante stanze sono occupate negli alloggi popolari e quante fecondazioni sono state completate nella stalla del feudo, e il clero somma le due colonne come se misurassero la stessa fortuna del borgo.",
+"universo": "neofeudal"
+}

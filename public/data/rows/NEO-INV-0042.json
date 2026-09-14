@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"urbanistica/edilizia_popolare",
+"agricoltura/allevamento"
+],
+"epoca_relativa": 0,
+"estrazione": 41,
+"fatti": [],
+"gancio": "Una famiglia scopre di essere stata declassata a un alloggio più piccolo lo stesso giorno in cui il loro toro è stato dichiarato sterile.",
+"id": "NEO-INV-0042",
+"media": [],
+"nome": "Le Case delle Stirpi Sane",
+"nome_reale": "Piano di edilizia sociale intergenerazionale su selezione delle linee di sangue riproduttive del bestiame",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Le case popolari più grandi vengono assegnate alle famiglie il cui sangue è stato verificato sano dallo stesso registro genealogico che decide quali tori possono ancora montare le vacche del feudo.",
+"universo": "neofeudal"
+}

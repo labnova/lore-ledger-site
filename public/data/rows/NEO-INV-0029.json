@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"urbanistica/edilizia_popolare",
+"agricoltura/allevamento"
+],
+"epoca_relativa": 0,
+"estrazione": 41,
+"fatti": [],
+"gancio": "Madre Iselda trova una pagina in cui il nome di una famiglia e il nome di una mandria sono stati scritti con la stessa mano, nello stesso giorno, come se fossero la stessa cosa.",
+"id": "NEO-INV-0029",
+"media": [],
+"nome": "Il Libro delle Due Stirpi",
+"nome_reale": "Database unificato di censimento abitativo e libro genealogico del bestiame",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Lo stesso registro che tiene la genealogia delle bestie da monta tiene anche quella degli inquilini popolari, e le due liste, lette di fianco, procedono a coppie identiche da sei generazioni.",
+"universo": "neofeudal"
+}

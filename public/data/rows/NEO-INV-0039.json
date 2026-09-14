@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"urbanistica/edilizia_popolare",
+"agricoltura/allevamento"
+],
+"epoca_relativa": 0,
+"estrazione": 41,
+"fatti": [],
+"gancio": "Un bambino trova un marchio da bestiame inciso nella pietra dove gioca ogni giorno, con una data più vecchia di suo nonno.",
+"id": "NEO-INV-0039",
+"media": [],
+"nome": "L'Aia Comune",
+"nome_reale": "Cortile condominiale condiviso con l'aia per l'ispezione del bestiame",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il cortile dove i bambini del quartiere popolare giocano è la stessa aia dove una volta l'anno si radunano le bestie per l'ispezione del clero, e i due riti, il gioco e il giudizio, si celebrano sullo stesso pavimento.",
+"universo": "neofeudal"
+}

@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"urbanistica/edilizia_popolare",
+"agricoltura/allevamento"
+],
+"epoca_relativa": 0,
+"estrazione": 41,
+"fatti": [],
+"gancio": "Un anno il canale si intasa e nessuno sa più dire quale acqua stia tornando indietro nelle case.",
+"id": "NEO-INV-0031",
+"media": [],
+"nome": "Il Canale Comune",
+"nome_reale": "Fognatura comunale condivisa tra abitazioni e stalle",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il canale che porta via i liquami delle stalle passa sotto le case popolari e le due acque si mescolano prima di raggiungere il fiume, così il clero benedice entrambe insieme una volta l'anno con lo stesso rito.",
+"universo": "neofeudal"
+}

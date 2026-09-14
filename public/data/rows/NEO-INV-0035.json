@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"urbanistica/edilizia_popolare",
+"agricoltura/allevamento"
+],
+"epoca_relativa": 0,
+"estrazione": 41,
+"fatti": [],
+"gancio": "Un vecchio pastore riconosce nella lista degli sfollati gli stessi nomi delle bestie che ha condotto da ragazzo.",
+"id": "NEO-INV-0035",
+"media": [],
+"nome": "I Senza Tetto Fisso",
+"nome_reale": "Cooperativa di edilizia popolare a rotazione stagionale legata alla transumanza",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Le famiglie più povere del borgo vengono spostate stagione per stagione come le mandrie in transumanza, e il feudo chiama pascolo ogni nuovo quartiere popolare che le ospita per pochi mesi.",
+"universo": "neofeudal"
+}

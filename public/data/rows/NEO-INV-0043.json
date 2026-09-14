@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"urbanistica/edilizia_popolare",
+"agricoltura/allevamento"
+],
+"epoca_relativa": 0,
+"estrazione": 41,
+"fatti": [],
+"gancio": "Il custode del campanile nota che una notte il conteggio delle porte supera quello degli inquilini registrati.",
+"id": "NEO-INV-0043",
+"media": [],
+"nome": "La Campana che Conta",
+"nome_reale": "Dispositivo automatico di conteggio degli inquilini nascosto nel campanile",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il campanile che suona le ore nasconde un meccanismo che conta ogni volta che una porta popolare si apre o si chiude, lo stesso meccanismo che nella stalla conta le bestie che escono al pascolo e rientrano.",
+"universo": "neofeudal"
+}

@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"urbanistica/edilizia_popolare",
+"agricoltura/allevamento"
+],
+"epoca_relativa": 0,
+"estrazione": 41,
+"fatti": [],
+"gancio": "Un ragazzo trova il proprio codice tatuato anche sul fianco di un vitello nato lo stesso giorno.",
+"id": "NEO-INV-0028",
+"media": [],
+"nome": "Il Segno che Non Si Sceglie",
+"nome_reale": "Marchiatura a fuoco del bestiame con codice identificativo",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Gli orfani assegnati agli alloggi popolari ricevono alla nascita un marchio cucito nella veste con lo stesso codice bruciato sulle bestie, per poter essere richiamati al registro se un alloggio si libera.",
+"universo": "neofeudal"
+}

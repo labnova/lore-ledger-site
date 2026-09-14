@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"urbanistica/edilizia_popolare",
+"agricoltura/allevamento"
+],
+"epoca_relativa": 0,
+"estrazione": 41,
+"fatti": [],
+"gancio": "Una vedova con tre figli scopre di essere segnata come scarto nello stesso registro dove suo marito era segnato come toro da monta.",
+"id": "NEO-INV-0025",
+"media": [],
+"nome": "Il Bestiario delle Famiglie",
+"nome_reale": "Algoritmo di assegnazione delle case popolari per punteggio",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il registro che assegna gli alloggi del borgo usa lo stesso algoritmo di selezione genetica con cui il clero sceglie quali capi di bestiame far riprodurre, e classifica le famiglie per resa invece che per bisogno.",
+"universo": "neofeudal"
+}

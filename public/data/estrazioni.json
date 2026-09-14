@@ -1801,5 +1801,54 @@
 "righe_prodotte": [
 "HAC-CON-0001"
 ]
+},
+{
+"bibbia_pescata": [
+"Sull'origine del mondo nessuna cronaca concorda. Alcuni "
+],
+"campi_forzati": [],
+"canone_pescato": [
+"NEO-GAD-0020",
+"NEO-GAD-0037",
+"NEO-PER-0044"
+],
+"chiavi": {
+"discipline": [
+"urbanistica/edilizia_popolare",
+"agricoltura/allevamento"
+],
+"universo": "neofeudal"
+},
+"created": "2026-09-14",
+"esito": "ok",
+"espansioni": [
+"NEO-PER-0049"
+],
+"estrazione": 41,
+"forzata": false,
+"lotto": "lotto-lore",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"NEO-INV-0025",
+"NEO-INV-0026",
+"NEO-INV-0027",
+"NEO-INV-0028",
+"NEO-INV-0029",
+"NEO-INV-0030",
+"NEO-INV-0031",
+"NEO-INV-0032",
+"NEO-INV-0033",
+"NEO-INV-0034",
+"NEO-INV-0035",
+"NEO-INV-0036",
+"NEO-INV-0037",
+"NEO-INV-0038",
+"NEO-INV-0039",
+"NEO-INV-0040",
+"NEO-INV-0041",
+"NEO-INV-0042",
+"NEO-INV-0043",
+"NEO-INV-0044"
+]
 }
 ]

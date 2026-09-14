@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"urbanistica/edilizia_popolare",
+"agricoltura/allevamento"
+],
+"epoca_relativa": 0,
+"estrazione": 41,
+"fatti": [],
+"gancio": "Una notte la campana suona due volte a distanza di un respiro, e nessuno trova chi sia nato per primo.",
+"id": "NEO-INV-0034",
+"media": [],
+"nome": "La Campana del Parto",
+"nome_reale": "Sistema di allarme sonoro condiviso tra sala parto e stalla",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La stessa campana che nella stalla annuncia un parto difficile è collegata ai dormitori popolari, perché il clero considera ogni nascita, umana o animale, un segno da registrare nello stesso istante.",
+"universo": "neofeudal"
+}

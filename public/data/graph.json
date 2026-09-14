@@ -1251,6 +1251,21 @@
 "to": "NEO-REG-calvenna"
 },
 {
+"from": "NEO-PER-0044",
+"kind": "parent",
+"to": "NEO-PER-0049"
+},
+{
+"from": "NEO-PER-0049",
+"kind": "invenzione",
+"to": "NEO-INV-0013"
+},
+{
+"from": "NEO-PER-0049",
+"kind": "regione",
+"to": "NEO-REG-vranidol"
+},
+{
 "from": "STE-PER-0001",
 "kind": "invenzione",
 "to": "STE-INV-0012"
@@ -4777,6 +4792,126 @@
 "universo": "neofeudal"
 },
 {
+"id": "NEO-INV-0025",
+"tipo": "invenzione",
+"titolo": "Il Bestiario delle Famiglie",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0026",
+"tipo": "invenzione",
+"titolo": "Le Stalle Alte",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0027",
+"tipo": "invenzione",
+"titolo": "Il Fiato della Bestia",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0028",
+"tipo": "invenzione",
+"titolo": "Il Segno che Non Si Sceglie",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0029",
+"tipo": "invenzione",
+"titolo": "Il Libro delle Due Stirpi",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0030",
+"tipo": "invenzione",
+"titolo": "Le Torri del Pascolo Alto",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0031",
+"tipo": "invenzione",
+"titolo": "Il Canale Comune",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0032",
+"tipo": "invenzione",
+"titolo": "Il Patto della Casa e della Cucciolata",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0033",
+"tipo": "invenzione",
+"titolo": "Il Turno dei Tetti",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0034",
+"tipo": "invenzione",
+"titolo": "La Campana del Parto",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0035",
+"tipo": "invenzione",
+"titolo": "I Senza Tetto Fisso",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0036",
+"tipo": "invenzione",
+"titolo": "Lo Scarto della Cucciolata",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0037",
+"tipo": "invenzione",
+"titolo": "L'Orecchio e la Porta",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0038",
+"tipo": "invenzione",
+"titolo": "La Razione della Casa",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0039",
+"tipo": "invenzione",
+"titolo": "L'Aia Comune",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0040",
+"tipo": "invenzione",
+"titolo": "Il Conto delle Stanze Piene",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0041",
+"tipo": "invenzione",
+"titolo": "La Fonte a Due Bocche",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0042",
+"tipo": "invenzione",
+"titolo": "Le Case delle Stirpi Sane",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0043",
+"tipo": "invenzione",
+"titolo": "La Campana che Conta",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0044",
+"tipo": "invenzione",
+"titolo": "Il Filo dei Pascoli Chiusi",
+"universo": "neofeudal"
+},
+{
 "id": "NEO-PER-0001",
 "tipo": "personaggio",
 "titolo": "Juma Mwangaza",
@@ -5062,6 +5197,12 @@
 "id": "NEO-PER-0048",
 "tipo": "personaggio",
 "titolo": "Bahati Chege",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0049",
+"tipo": "personaggio",
+"titolo": "Bogdan Kalenić",
 "universo": "neofeudal"
 },
 {

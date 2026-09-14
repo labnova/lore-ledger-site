@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "vedovo"
+},
+"appare_in": [],
+"casta": "cavalieri",
+"ceppo": "slavo",
+"cognome": "Kalenić",
+"contraddizione": "È il maestro più autorevole della marca, ma il suo orgoglio nella dottrina che il falco non sbaglia mai lo spinge a correggere di nascosto il registro invece dei falchi, così l'errore che Ivan continua a ricopiare fedelmente è in realtà una bugia scritta di suo pugno.",
+"created": "2026-09-14",
+"difetto": "orgoglioso",
+"epoca_relativa": 0,
+"estrazione": 41,
+"eta_fascia": "anziano",
+"fatti": [],
+"gancio": "Se Ivan trovasse il coraggio di leggere ad alta voce il proprio registro, scoprirebbe che l'errore non è mai stato suo: è la mano di Bogdan ad averlo scritto per prima.",
+"id": "NEO-PER-0049",
+"invenzione_id": "NEO-INV-0013",
+"media": [],
+"nome": "Bogdan",
+"parent_id": "NEO-PER-0044",
+"rapporto": "falsifica",
+"regione": "Vranidol",
+"relazione": "espansione",
+"ritratto": null,
+"schema_version": 1,
+"segno": "scorpione",
+"spirituale": {
+"credenza": "il falco non sbaglia mai",
+"rapporto": "eretico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "autorevole",
+"universo": "neofeudal"
+}

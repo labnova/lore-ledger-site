@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"urbanistica/edilizia_popolare",
+"agricoltura/allevamento"
+],
+"epoca_relativa": 0,
+"estrazione": 41,
+"fatti": [],
+"gancio": "Un anziano scopre il proprio nome nella lista degli scarti della prossima demolizione, accanto al numero di una vacca sterile.",
+"id": "NEO-INV-0036",
+"media": [],
+"nome": "Lo Scarto della Cucciolata",
+"nome_reale": "Programma di demolizione selettiva degli edifici popolari fatiscenti",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il funzionario che decide quali palazzi popolari abbattere usa gli stessi criteri con cui il pastore sceglie quali capi deboli scartare dalla mandria, applicati agli inquilini più fragili.",
+"universo": "neofeudal"
+}

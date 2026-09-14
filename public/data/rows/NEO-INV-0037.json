@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"urbanistica/edilizia_popolare",
+"agricoltura/allevamento"
+],
+"epoca_relativa": 0,
+"estrazione": 41,
+"fatti": [],
+"gancio": "Una famiglia trova la propria porta senza numero il giorno in cui la loro bestia gemella muore di malattia.",
+"id": "NEO-INV-0037",
+"media": [],
+"nome": "L'Orecchio e la Porta",
+"nome_reale": "Numerazione civica sincronizzata con la marchiatura auricolare del bestiame",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Ogni porta degli alloggi popolari porta lo stesso numero marchiato nell'orecchio della bestia a lei assegnata per la mensa comune, così nessuna casa può dirsi sfamata senza la sua bestia gemella.",
+"universo": "neofeudal"
+}

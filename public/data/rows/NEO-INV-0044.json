@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"urbanistica/edilizia_popolare",
+"agricoltura/allevamento"
+],
+"epoca_relativa": 0,
+"estrazione": 41,
+"fatti": [],
+"gancio": "Una famiglia sfollata trova la propria baracca smontata e usata come recinto nuovo per le pecore del feudo.",
+"id": "NEO-INV-0044",
+"media": [],
+"nome": "Il Filo dei Pascoli Chiusi",
+"nome_reale": "Piano di sgombero degli alloggi abusivi tramite recinzione dei pascoli comuni",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il feudo recinta i pascoli comuni con lo stesso filo e con lo stesso decreto con cui sgombera le baracche abusive ai margini del borgo, e chiama entrambe le azioni restituire la terra alla stirpe.",
+"universo": "neofeudal"
+}

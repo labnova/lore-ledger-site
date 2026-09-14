@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"urbanistica/edilizia_popolare",
+"agricoltura/allevamento"
+],
+"epoca_relativa": 0,
+"estrazione": 41,
+"fatti": [],
+"gancio": "Durante la siccità qualcuno scopre che la chiave apre sempre e solo la bocca delle bestie, mai quella delle case.",
+"id": "NEO-INV-0041",
+"media": [],
+"nome": "La Fonte a Due Bocche",
+"nome_reale": "Impianto idrico di manutenzione condivisa tra abbeveratoio e rete idrica popolare",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "L'abbeveratoio del bestiame e la fontana degli alloggi popolari sono alimentati dallo stesso condotto sotterraneo, aperto e chiuso da un'unica chiave che il clero custodisce come una reliquia.",
+"universo": "neofeudal"
+}

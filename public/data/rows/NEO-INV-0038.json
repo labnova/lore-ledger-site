@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"urbanistica/edilizia_popolare",
+"agricoltura/allevamento"
+],
+"epoca_relativa": 0,
+"estrazione": 41,
+"fatti": [],
+"gancio": "Una famiglia senza bestiame scopre di non avere diritto a nessun sussidio, per quanto povera sia la casa.",
+"id": "NEO-INV-0038",
+"media": [],
+"nome": "La Razione della Casa",
+"nome_reale": "Sussidio abitativo popolare erogato in mangime sovvenzionato",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il sussidio per l'alloggio popolare non viene pagato in moneta ma in mangime per il bestiame di famiglia, perché il feudo tiene lo stesso registro di razioni per case e stalle.",
+"universo": "neofeudal"
+}

@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"urbanistica/edilizia_popolare",
+"agricoltura/allevamento"
+],
+"epoca_relativa": 0,
+"estrazione": 41,
+"fatti": [],
+"gancio": "Una notte il fiato si interrompe e i dormitori restano al freddo lo stesso giorno in cui muore l'ultima vacca della stalla madre.",
+"id": "NEO-INV-0027",
+"media": [],
+"nome": "Il Fiato della Bestia",
+"nome_reale": "Sistema di riscaldamento a recupero di calore dal letame",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il tepore che scalda i dormitori popolari d'inverno viene incanalato dalle stalle sottostanti, e il clero lo chiama il fiato della bestia benedetta perché nessuno chieda da dove viene davvero.",
+"universo": "neofeudal"
+}
