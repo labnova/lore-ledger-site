@@ -1,1 +1,31 @@
-[]
+[
+{
+"chiusa_il": null,
+"creata": "2026-09-14T21:31:16Z",
+"esito": null,
+"id": "BAC-843251-1",
+"payload": {},
+"postata_da": "enzo",
+"presa_da": null,
+"presa_il": null,
+"priorita": 1,
+"racconto": null,
+"righe": [
+"NEO-GAD-0042"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"da": "enzo",
+"quando": "2026-09-14T21:31:16Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_tavola",
+"universi": [
+"neofeudal"
+]
+}
+]
