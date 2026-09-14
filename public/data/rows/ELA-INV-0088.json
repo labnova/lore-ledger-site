@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"arte_visiva/affresco",
+"cartografia/proiezioni"
+],
+"epoca_relativa": 1,
+"estrazione": 44,
+"fatti": [],
+"gancio": "Un apprendista nota che il suo maestro non riesce a disegnare una linea retta se non tenendola inclinata a un angolo preciso, anche quando gli viene chiesto di fare tutt'altro.",
+"id": "ELA-INV-0088",
+"media": [],
+"nome": "La Mano che Impara a Mentire Dritto",
+"nome_reale": "Compensazione d'angolo",
+"parent_id": "ELA-INV-0031",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il restauratore che ha scoperto la giuntura rifatta da un'altra mano non denuncia la scoperta, ma impara a tenere il pennello sempre allo stesso angolo della lossodromia originale, per correggere la pennellata senza mai fermarla. La tecnica di compensazione diventa un mestiere clandestino trasmesso tra restauratori, che si riconoscono fuori dal corridoio dal modo in cui inclinano involontariamente ogni riga che tracciano.",
+"universo": "elabverse"
+}

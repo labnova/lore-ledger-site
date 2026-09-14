@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"finanza/valuta",
+"tipografia/calligrafia"
+],
+"epoca_relativa": 1,
+"estrazione": 44,
+"fatti": [],
+"gancio": "Quando l'ispettore prova a rintracciare la fucina itinerante per certificarla ufficialmente, scopre che nessun ponte ammette di averla mai ospitata.",
+"id": "ELA-INV-0090",
+"media": [],
+"nome": "Il Fuoco che Cambia Ponte",
+"nome_reale": "Fucina itinerante",
+"parent_id": "ELA-INV-0059",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "L'ispettore di saggio che ha trovato il marchio duplicato su rottami di due relitti diversi scopre che non si tratta di una contraffazione, ma di una fucina itinerante smontata e rimontata di ponte in ponte da un gruppo di fonditori che si spostano dove il metallo di scafo scarseggia, portando con sé di generazione in generazione lo stesso punzone.",
+"universo": "elabverse"
+}

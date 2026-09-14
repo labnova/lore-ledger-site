@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"agricoltura/allevamento",
+"zoologia/ittiologia"
+],
+"epoca_relativa": 1,
+"estrazione": 44,
+"fatti": [],
+"gancio": "Un matrimonio approvato dal Banco viene annullato un anno dopo, quando un revisore trova che il coefficiente calcolato non corrisponde ai libri contabili originali.",
+"id": "ELA-INV-0089",
+"media": [],
+"nome": "Il Sangue che si Può Diluire a Pagamento",
+"nome_reale": "Coefficiente truccato",
+"parent_id": "ELA-INV-0078",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Dopo il rifiuto pubblico dei due innamorati, un contabile del Banco delle Molte Mani inizia a vendere sottobanco calcoli truccati del coefficiente di debito, abbassando artificialmente il grado di parentela finanziaria di chi può permetterselo - lo stesso servizio che i pastori pagano già per far registrare come non imparentato un bestiame che il libro considera troppo incrociato.",
+"universo": "elabverse"
+}

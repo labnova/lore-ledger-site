@@ -111,6 +111,21 @@
 "to": "ELA-INV-0087"
 },
 {
+"from": "ELA-INV-0031",
+"kind": "parent",
+"to": "ELA-INV-0088"
+},
+{
+"from": "ELA-INV-0078",
+"kind": "parent",
+"to": "ELA-INV-0089"
+},
+{
+"from": "ELA-INV-0059",
+"kind": "parent",
+"to": "ELA-INV-0090"
+},
+{
 "from": "HAC-INV-0002",
 "kind": "parent",
 "to": "HAC-INV-0041"
@@ -2076,6 +2091,156 @@
 "to": "ELA-REG-konya"
 },
 {
+"from": "ELA-GAD-0021",
+"kind": "invenzione",
+"to": "ELA-INV-0056"
+},
+{
+"from": "ELA-GAD-0021",
+"kind": "personaggio",
+"to": "ELA-PER-0012"
+},
+{
+"from": "ELA-GAD-0021",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-GAD-0022",
+"kind": "invenzione",
+"to": "ELA-INV-0056"
+},
+{
+"from": "ELA-GAD-0022",
+"kind": "personaggio",
+"to": "ELA-PER-0012"
+},
+{
+"from": "ELA-GAD-0022",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-GAD-0023",
+"kind": "invenzione",
+"to": "ELA-INV-0056"
+},
+{
+"from": "ELA-GAD-0023",
+"kind": "personaggio",
+"to": "ELA-PER-0012"
+},
+{
+"from": "ELA-GAD-0023",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-GAD-0024",
+"kind": "invenzione",
+"to": "ELA-INV-0056"
+},
+{
+"from": "ELA-GAD-0024",
+"kind": "personaggio",
+"to": "ELA-PER-0012"
+},
+{
+"from": "ELA-GAD-0024",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-GAD-0025",
+"kind": "invenzione",
+"to": "ELA-INV-0056"
+},
+{
+"from": "ELA-GAD-0025",
+"kind": "personaggio",
+"to": "ELA-PER-0012"
+},
+{
+"from": "ELA-GAD-0025",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-GAD-0026",
+"kind": "invenzione",
+"to": "ELA-INV-0056"
+},
+{
+"from": "ELA-GAD-0026",
+"kind": "personaggio",
+"to": "ELA-PER-0012"
+},
+{
+"from": "ELA-GAD-0026",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-GAD-0027",
+"kind": "invenzione",
+"to": "ELA-INV-0056"
+},
+{
+"from": "ELA-GAD-0027",
+"kind": "personaggio",
+"to": "ELA-PER-0012"
+},
+{
+"from": "ELA-GAD-0027",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-GAD-0028",
+"kind": "invenzione",
+"to": "ELA-INV-0056"
+},
+{
+"from": "ELA-GAD-0028",
+"kind": "personaggio",
+"to": "ELA-PER-0012"
+},
+{
+"from": "ELA-GAD-0028",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-GAD-0029",
+"kind": "invenzione",
+"to": "ELA-INV-0056"
+},
+{
+"from": "ELA-GAD-0029",
+"kind": "personaggio",
+"to": "ELA-PER-0012"
+},
+{
+"from": "ELA-GAD-0029",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "ELA-GAD-0030",
+"kind": "invenzione",
+"to": "ELA-INV-0056"
+},
+{
+"from": "ELA-GAD-0030",
+"kind": "personaggio",
+"to": "ELA-PER-0012"
+},
+{
+"from": "ELA-GAD-0030",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
 "from": "HAC-GAD-0001",
 "kind": "invenzione",
 "to": "HAC-INV-0001"
@@ -3495,6 +3660,66 @@
 "universo": "elabverse"
 },
 {
+"id": "ELA-GAD-0021",
+"tipo": "gadget",
+"titolo": "L'Anello del Cambio",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0022",
+"tipo": "gadget",
+"titolo": "Il Righello del Cono Falso",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0023",
+"tipo": "gadget",
+"titolo": "Il Bracciale dei Turni",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0024",
+"tipo": "gadget",
+"titolo": "La Moneta di Prova",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0025",
+"tipo": "gadget",
+"titolo": "La Fibbia a Doppio Bordo",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0026",
+"tipo": "gadget",
+"titolo": "Il Quaderno di Cera",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0027",
+"tipo": "gadget",
+"titolo": "Gli Occhiali da Buio",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0028",
+"tipo": "gadget",
+"titolo": "Il Nastro Ricevente",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0029",
+"tipo": "gadget",
+"titolo": "L'Auricolare del Debito",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0030",
+"tipo": "gadget",
+"titolo": "La Chiave a Doppia Lettura",
+"universo": "elabverse"
+},
+{
 "id": "ELA-INV-0001",
 "tipo": "invenzione",
 "titolo": "Lettura delle Righe Nere",
@@ -4014,6 +4239,24 @@
 "id": "ELA-INV-0087",
 "tipo": "invenzione",
 "titolo": "La Terra di Sinope",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0088",
+"tipo": "invenzione",
+"titolo": "La Mano che Impara a Mentire Dritto",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0089",
+"tipo": "invenzione",
+"titolo": "Il Sangue che si Può Diluire a Pagamento",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0090",
+"tipo": "invenzione",
+"titolo": "Il Fuoco che Cambia Ponte",
 "universo": "elabverse"
 },
 {
