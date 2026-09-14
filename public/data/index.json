@@ -1,6 +1,20 @@
 [
 {
 "appare_in": [],
+"chiavi": "community · discord · snippet_300",
+"created": "2026-09-14",
+"estrazione": 39,
+"id": "HAC-CON-0001",
+"parent_id": null,
+"regione": null,
+"relazione": null,
+"sommario": "thread #bug-bounty-idraulico: \"lo stesso identico bug, due settori diversi\"",
+"tipo": "contenuto",
+"titolo": "thread #bug-bounty-idraulico: \"lo stesso identico bug, due settori diversi\"",
+"universo": "hackverse"
+},
+{
+"appare_in": [],
 "chiavi": "navigatori · pesci · attento · insonne",
 "created": "2026-09-14",
 "estrazione": 37,

@@ -1778,5 +1778,28 @@
 "ELA-GAD-0019",
 "ELA-GAD-0020"
 ]
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"HAC-INV-0017"
+],
+"chiavi": {
+"canale": "discord",
+"formato": "snippet_300",
+"medium": "community",
+"sorgente_id": "HAC-INV-0017",
+"universo": "hackverse",
+"veridicita": "in_universe"
+},
+"created": "2026-09-14",
+"esito": "ok",
+"estrazione": 39,
+"forzata": false,
+"lotto": "lotto-contenuti",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"HAC-CON-0001"
+]
 }
 ]

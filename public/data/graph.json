@@ -2751,6 +2751,11 @@
 "to": "ELA-REG-konya"
 },
 {
+"from": "HAC-CON-0001",
+"kind": "sorgente",
+"to": "HAC-INV-0017"
+},
+{
 "from": "NEO-CON-0001",
 "kind": "sorgente",
 "to": "NEO-PER-0010"
@@ -4014,6 +4019,12 @@
 "tipo": "seme",
 "titolo": "seme ELA-INV-0005",
 "universo": "elabverse"
+},
+{
+"id": "HAC-CON-0001",
+"tipo": "contenuto",
+"titolo": "thread #bug-bounty-idraulico: \"lo stesso identico bug, due settori diversi\"",
+"universo": "hackverse"
 },
 {
 "id": "HAC-GAD-0001",
