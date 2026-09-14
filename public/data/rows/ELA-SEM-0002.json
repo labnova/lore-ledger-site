@@ -1,0 +1,22 @@
+{
+"appare_in": [],
+"cluster": "ELA-INV-0030",
+"created": "2026-09-14",
+"epoca_relativa": 0,
+"estrazione": 42,
+"fatti": [],
+"id": "ELA-SEM-0002",
+"media": [],
+"origine": "arricchimento",
+"ostacolo": "Ömer Taşlıriçı, che ha costruito con misure esatte l'intelaiatura del cono, sa che quell'ordine supera i limiti che lui stesso ha calcolato, ma è troppo servile per opporsi apertamente al capitano o a Hasan.",
+"parent_id": null,
+"premessa": "Hasan Akderier vuole il posto di primo cartografo del ponte, e per prendersi il merito prima che il capitano scelga qualcun altro esegue subito l'ordine di intonacare in anticipo la fascia successiva del murale, pur non sapendo dove finisca davvero quella attuale.",
+"regione": "Konya",
+"relazione": null,
+"rottura": "Se Hasan intonaca la fascia copiando ancora una volta i valori del turno precedente, il cono mostrerà come sicura una rotta mai verificata — e le assi di Ömer, che tremano ogni volta che qualcuno cammina vicino al bordo dell'intonaco fresco, diranno a tutto il ponte che il \"lavoro nuovo\" di Hasan è un bluff.",
+"schema_version": 1,
+"status": "canon",
+"tipo": "seme",
+"tono": "teso, marittimo, claustrofobico",
+"universo": "elabverse"
+}

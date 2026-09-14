@@ -1,0 +1,22 @@
+{
+"appare_in": [],
+"cluster": "HAC-INV-0001",
+"created": "2026-09-14",
+"epoca_relativa": 0,
+"estrazione": 42,
+"fatti": [],
+"id": "HAC-SEM-0001",
+"media": [],
+"origine": "arricchimento",
+"ostacolo": "Misaki Ikaguchi corrompe di notte proprio il registro dei perfusori per rivenderne l'ordine di priorità, e non ha nessuna intenzione di farsi scoprire da chi ha costruito il sistema che sta sfruttando.",
+"parent_id": null,
+"premessa": "Elif Makamilil, che ha scritto lei stessa il ponte tra le valvole di irrigazione e i perfusori d'organo, vuole scoprire chi lo sta usando adesso dopo aver trovato nel log una patch che non ha scritto lei ma firmata con il suo stesso stile di codice.",
+"regione": null,
+"relazione": null,
+"rottura": "La Sonda di Taratura per Valvole a Goccia registra un pacchetto con intestazione ospedaliera mentre è agganciata a un pozzetto isolato dalla rete clinica — la prova che il ponte tra irrigazione e sala operatoria non è un incidente ma qualcosa costruito apposta, e che la patch trovata da Elif porta dritta a Misaki.",
+"schema_version": 1,
+"status": "canon",
+"tipo": "seme",
+"tono": "cronaca nera, paranoico, tecnico",
+"universo": "hackverse"
+}

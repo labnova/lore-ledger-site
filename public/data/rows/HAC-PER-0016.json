@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "asessuale",
+"situazione": "promesso_per_contratto"
+},
+"appare_in": [],
+"casta": "corrieri",
+"ceppo": "basco",
+"cognome": "Goilategi",
+"contraddizione": "Usa le finestre di attracco di Goccia Cieca sognando ad occhi aperti la rotta che lo porterà fuori dal giro per sempre, ma quei sogni gli fanno perdere proprio i minuti in cui la finestra di consegna si chiude.",
+"created": "2026-09-14",
+"difetto": "vanitoso",
+"epoca_relativa": 0,
+"estrazione": 43,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "Il giorno che arriva con dieci minuti di ritardo perso a immaginare un'altra vita, il container che doveva ricevere è già ripartito con qualcun altro al suo posto.",
+"id": "HAC-PER-0016",
+"invenzione_id": "HAC-INV-0001",
+"media": [],
+"nome": "Xabier",
+"parent_id": null,
+"rapporto": "usa",
+"regione": "HAC-REG-rotterdam",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "acquario",
+"spirituale": {
+"credenza": "nessun dio solo registri",
+"rapporto": "apostata"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "sognatore",
+"universo": "hackverse"
+}

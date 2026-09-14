@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "omosessuale",
+"situazione": "poliamoroso"
+},
+"appare_in": [],
+"casta": "corrieri",
+"ceppo": "swahili",
+"cognome": "Chamaneni",
+"contraddizione": "Vende posti nella catena dei corrieri di Goccia Cieca promettendo a ogni cliente una rotta esclusiva e verificabile, ma i suoi compagni poliamorosi vivono in tre porti diversi lungo quella stessa rotta, e ognuno conosce un pezzo di percorso che dovrebbe restare segreto.",
+"created": "2026-09-14",
+"difetto": "goloso",
+"epoca_relativa": 0,
+"estrazione": 43,
+"eta_fascia": "adulto",
+"fatti": [],
+"gancio": "Quando due dei suoi compagni si scambiano per caso un dettaglio di rotta durante una videochiamata, Baraka capisce che la sua vita privata ha appena tracciato sulla mappa esattamente il percorso che vende come inviolabile.",
+"id": "HAC-PER-0013",
+"invenzione_id": "HAC-INV-0001",
+"media": [],
+"nome": "Baraka",
+"parent_id": null,
+"rapporto": "vende",
+"regione": "HAC-REG-rotterdam",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "scorpione",
+"spirituale": {
+"credenza": "dottrina del debito",
+"rapporto": "funzionario_del_culto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "vigile",
+"universo": "hackverse"
+}

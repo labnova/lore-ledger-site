@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"agricoltura/irrigazione",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 1,
+"estrazione": 43,
+"fatti": [],
+"gancio": "Un ispettore trova lo stesso stampo, allo stesso numero di lotto, in un magazzino di ricambi per irrigazione e in una tenda chirurgica a duecento chilometri di distanza.",
+"id": "HAC-INV-0047",
+"media": [],
+"nome": "Bypass Silenzioso",
+"nome_reale": "Valvole a sifone stampate in 3D, senza alimentazione, replicate fuori catalogo",
+"parent_id": "HAC-INV-0018",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il dispositivo passivo che devia il flusso sanguigno durante l'anastomosi non richiede corrente, quindi qualcuno ne stampa in 3D copie non numerate e le vende a chirurgie da campo senza generatore, comprese quelle che nessun registro sanitario ammette di finanziare.",
+"universo": "hackverse"
+}

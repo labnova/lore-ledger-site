@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "omosessuale",
+"situazione": "vedovo"
+},
+"appare_in": [],
+"casta": "corrieri",
+"ceppo": "giapponese",
+"cognome": "Yakiyama",
+"contraddizione": "Studia le rotte di Goccia Cieca per proteggere i corrieri più giovani dagli errori che ha già commesso lui stesso, ma la sua memoria vacillante gli fa confondere due punti di consegna, mettendo in pericolo proprio chi voleva proteggere.",
+"created": "2026-09-14",
+"difetto": "smemorato",
+"epoca_relativa": 0,
+"estrazione": 43,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "Manda per errore le coordinate del terzo molo a un ragazzino diretto al primo, e se ne accorge solo quando è troppo tardi per fermarlo.",
+"id": "HAC-PER-0019",
+"invenzione_id": "HAC-INV-0001",
+"media": [],
+"nome": "Hikaru",
+"parent_id": null,
+"rapporto": "studia",
+"regione": "HAC-REG-rotterdam",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "ariete",
+"spirituale": {
+"credenza": "le macchine sognano",
+"rapporto": "indifferente"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "protettivo",
+"universo": "hackverse"
+}

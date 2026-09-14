@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"agricoltura/irrigazione",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 1,
+"estrazione": 43,
+"fatti": [],
+"gancio": "Un corriere che scorta il carico oltre confine capisce solo al terzo viaggio che il modulo che gli hanno insegnato a compilare a memoria non descrive mai lo stesso organo due volte.",
+"id": "HAC-INV-0048",
+"media": [],
+"nome": "Il Passaporto Animale",
+"nome_reale": "Certificazione doganale digitale per tessuti xenotrapiantati",
+"parent_id": "HAC-INV-0010",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Lo stesso protocollo che rende accettabile al corpo umano un organo animale modificato viene usato al contrario, per firmare digitalmente un carico come \"tessuto xenotrapiantato di origine suina\" che in dogana nessuno apre mai per controllarlo davvero.",
+"universo": "hackverse"
+}

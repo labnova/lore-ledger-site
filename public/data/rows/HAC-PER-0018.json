@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "pansessuale",
+"situazione": "separato"
+},
+"appare_in": [],
+"casta": "corrieri",
+"ceppo": "ibrido",
+"cognome": "Kayatürk",
+"contraddizione": "Studia il traffico di Goccia Cieca con metodo meticoloso, catalogando ogni corriere come un nodo di rete, ma la sua crudeltà da distrazione le fa dimenticare che dietro certi nodi minorenni ci sono bambini mandati ad attraccare casse al posto di un adulto.",
+"created": "2026-09-14",
+"difetto": "crudele_per_distrazione",
+"epoca_relativa": 0,
+"estrazione": 43,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "Nel suo grafico dei nodi compare un'etichetta che ha scritto lei stessa mesi prima, \"nodo bambino, sostituibile\", e solo ora, rileggendola, si accorge di cosa ha davvero scritto.",
+"id": "HAC-PER-0018",
+"invenzione_id": "HAC-INV-0001",
+"media": [],
+"nome": "Nour",
+"parent_id": null,
+"rapporto": "studia",
+"regione": "HAC-REG-rotterdam",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "capricorno",
+"spirituale": {
+"credenza": "la voce nella rete",
+"rapporto": "apostata"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "meticoloso",
+"universo": "hackverse"
+}

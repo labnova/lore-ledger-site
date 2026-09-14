@@ -1,0 +1,21 @@
+{
+"appare_in": [],
+"ceppo_dominante": null,
+"created": "2026-09-14",
+"epoca_relativa": 0,
+"estrazione": 43,
+"fatti": [],
+"id": "HAC-REG-rotterdam",
+"media": [],
+"nome": "Rotterdam",
+"note": "Il porto più grande d'Europa smista container, turni di banchina e manifesti doganali ventiquattr'ore su ventiquattro: nessun ceppo prevale perché la manodopera arriva da ogni rotta commerciale, e chi diventa corriere qui porta il cognome della città da cui è partito, non di quella in cui ha attraccato.",
+"onomastica": "totale",
+"p_cognome_mestiere": 0.19,
+"parent_id": null,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "regione",
+"universo": "hackverse"
+}

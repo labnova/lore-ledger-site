@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "asessuale",
+"situazione": "sposato"
+},
+"appare_in": [],
+"casta": "corrieri",
+"ceppo": "arabo",
+"cognome": "Zadad",
+"contraddizione": "Falsifica manifesti doganali per Goccia Cieca con la stessa freddezza pragmatica con cui gestisce ogni rischio calcolato, ma i debiti di gioco lo rendono l'unico anello della catena che qualcuno, fuori dal giro, sa già come far parlare.",
+"created": "2026-09-14",
+"difetto": "giocatore",
+"epoca_relativa": 0,
+"estrazione": 43,
+"eta_fascia": "anziano",
+"fatti": [],
+"gancio": "Un creditore gli si presenta al molo proprio la notte di un attracco, e per la prima volta Habib deve scegliere quale bugia salvare per prima, quella sul manifesto o quella sul debito.",
+"id": "HAC-PER-0017",
+"invenzione_id": "HAC-INV-0001",
+"media": [],
+"nome": "Habib",
+"parent_id": null,
+"rapporto": "falsifica",
+"regione": "HAC-REG-rotterdam",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "cancro",
+"spirituale": {
+"credenza": "il sacro è una bugia utile",
+"rapporto": "praticante_tiepido"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "pragmatico",
+"universo": "hackverse"
+}

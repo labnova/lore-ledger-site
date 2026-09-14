@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "asessuale",
+"situazione": "poliamoroso"
+},
+"appare_in": [],
+"casta": "corrieri",
+"ceppo": "turco",
+"cognome": "Taşmasel",
+"contraddizione": "È funzionario di un culto che venera le macchine come entità sognanti, ma teme Goccia Cieca proprio perché lo riduce a un corriere che porta a mano valvole e schede, senza che nessuna macchina lo protegga o lo osservi durante il tragitto.",
+"created": "2026-09-14",
+"difetto": "vanitoso",
+"epoca_relativa": 0,
+"estrazione": 43,
+"eta_fascia": "anziano",
+"fatti": [],
+"gancio": "La notte in cui gli chiedono di trasportare di persona il primo lotto senza tracciamento elettronico, prega davanti al suo terminale spento come se dovesse chiedere scusa a qualcosa che non lo sente più.",
+"id": "HAC-PER-0015",
+"invenzione_id": "HAC-INV-0001",
+"media": [],
+"nome": "Mehmet",
+"parent_id": null,
+"rapporto": "teme",
+"regione": "HAC-REG-rotterdam",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "vergine",
+"spirituale": {
+"credenza": "le macchine sognano",
+"rapporto": "funzionario_del_culto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "rigoroso",
+"universo": "hackverse"
+}

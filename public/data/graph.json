@@ -141,6 +141,16 @@
 "to": "HAC-INV-0046"
 },
 {
+"from": "HAC-INV-0018",
+"kind": "parent",
+"to": "HAC-INV-0047"
+},
+{
+"from": "HAC-INV-0010",
+"kind": "parent",
+"to": "HAC-INV-0048"
+},
+{
 "from": "NEO-INV-0001",
 "kind": "regione",
 "to": "NEO-REG-calvenna"
@@ -729,6 +739,106 @@
 "from": "HAC-PER-0010",
 "kind": "regione",
 "to": "HAC-REG-tallinn"
+},
+{
+"from": "HAC-PER-0011",
+"kind": "invenzione",
+"to": "HAC-INV-0001"
+},
+{
+"from": "HAC-PER-0011",
+"kind": "regione",
+"to": "HAC-REG-rotterdam"
+},
+{
+"from": "HAC-PER-0012",
+"kind": "invenzione",
+"to": "HAC-INV-0001"
+},
+{
+"from": "HAC-PER-0012",
+"kind": "regione",
+"to": "HAC-REG-rotterdam"
+},
+{
+"from": "HAC-PER-0013",
+"kind": "invenzione",
+"to": "HAC-INV-0001"
+},
+{
+"from": "HAC-PER-0013",
+"kind": "regione",
+"to": "HAC-REG-rotterdam"
+},
+{
+"from": "HAC-PER-0014",
+"kind": "invenzione",
+"to": "HAC-INV-0001"
+},
+{
+"from": "HAC-PER-0014",
+"kind": "regione",
+"to": "HAC-REG-rotterdam"
+},
+{
+"from": "HAC-PER-0015",
+"kind": "invenzione",
+"to": "HAC-INV-0001"
+},
+{
+"from": "HAC-PER-0015",
+"kind": "regione",
+"to": "HAC-REG-rotterdam"
+},
+{
+"from": "HAC-PER-0016",
+"kind": "invenzione",
+"to": "HAC-INV-0001"
+},
+{
+"from": "HAC-PER-0016",
+"kind": "regione",
+"to": "HAC-REG-rotterdam"
+},
+{
+"from": "HAC-PER-0017",
+"kind": "invenzione",
+"to": "HAC-INV-0001"
+},
+{
+"from": "HAC-PER-0017",
+"kind": "regione",
+"to": "HAC-REG-rotterdam"
+},
+{
+"from": "HAC-PER-0018",
+"kind": "invenzione",
+"to": "HAC-INV-0001"
+},
+{
+"from": "HAC-PER-0018",
+"kind": "regione",
+"to": "HAC-REG-rotterdam"
+},
+{
+"from": "HAC-PER-0019",
+"kind": "invenzione",
+"to": "HAC-INV-0001"
+},
+{
+"from": "HAC-PER-0019",
+"kind": "regione",
+"to": "HAC-REG-rotterdam"
+},
+{
+"from": "HAC-PER-0020",
+"kind": "invenzione",
+"to": "HAC-INV-0001"
+},
+{
+"from": "HAC-PER-0020",
+"kind": "regione",
+"to": "HAC-REG-rotterdam"
 },
 {
 "from": "NEO-PER-0001",
@@ -2816,6 +2926,21 @@
 "to": "ELA-REG-konya"
 },
 {
+"from": "ELA-SEM-0002",
+"kind": "cluster",
+"to": "ELA-INV-0030"
+},
+{
+"from": "ELA-SEM-0002",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
+"from": "HAC-SEM-0001",
+"kind": "cluster",
+"to": "HAC-INV-0001"
+},
+{
 "from": "NEO-SEM-0001",
 "kind": "cluster",
 "to": "NEO-INV-0009"
@@ -4036,6 +4161,12 @@
 "universo": "elabverse"
 },
 {
+"id": "ELA-SEM-0002",
+"tipo": "seme",
+"titolo": "seme ELA-INV-0030",
+"universo": "elabverse"
+},
+{
 "id": "HAC-CON-0001",
 "tipo": "contenuto",
 "titolo": "thread #bug-bounty-idraulico: \"lo stesso identico bug, due settori diversi\"",
@@ -4324,6 +4455,18 @@
 "universo": "hackverse"
 },
 {
+"id": "HAC-INV-0047",
+"tipo": "invenzione",
+"titolo": "Bypass Silenzioso",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0048",
+"tipo": "invenzione",
+"titolo": "Il Passaporto Animale",
+"universo": "hackverse"
+},
+{
 "id": "HAC-PER-0001",
 "tipo": "personaggio",
 "titolo": "Misaki Ikaguchi",
@@ -4384,9 +4527,81 @@
 "universo": "hackverse"
 },
 {
+"id": "HAC-PER-0011",
+"tipo": "personaggio",
+"titolo": "Thea Lysen",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0012",
+"tipo": "personaggio",
+"titolo": "Nóra Bosi",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0013",
+"tipo": "personaggio",
+"titolo": "Baraka Chamaneni",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0014",
+"tipo": "personaggio",
+"titolo": "Stanislav Goić",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0015",
+"tipo": "personaggio",
+"titolo": "Mehmet Taşmasel",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0016",
+"tipo": "personaggio",
+"titolo": "Xabier Goilategi",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0017",
+"tipo": "personaggio",
+"titolo": "Habib Zadad",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0018",
+"tipo": "personaggio",
+"titolo": "Nour Kayatürk",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0019",
+"tipo": "personaggio",
+"titolo": "Hikaru Yakiyama",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0020",
+"tipo": "personaggio",
+"titolo": "Nadja Bergschmidt",
+"universo": "hackverse"
+},
+{
+"id": "HAC-REG-rotterdam",
+"tipo": "regione",
+"titolo": "Rotterdam",
+"universo": "hackverse"
+},
+{
 "id": "HAC-REG-tallinn",
 "tipo": "regione",
 "titolo": "Tallinn",
+"universo": "hackverse"
+},
+{
+"id": "HAC-SEM-0001",
+"tipo": "seme",
+"titolo": "seme HAC-INV-0001",
 "universo": "hackverse"
 },
 {

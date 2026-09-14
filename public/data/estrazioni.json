@@ -1850,5 +1850,131 @@
 "NEO-INV-0043",
 "NEO-INV-0044"
 ]
+},
+{
+"campi_forzati": [],
+"chiavi": {
+"cluster": [
+"ELA-INV-0030",
+"HAC-INV-0001"
+]
+},
+"created": "2026-09-14",
+"esito": "ok",
+"estrazione": 42,
+"forzata": false,
+"lotto": "lotto-semi",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"ELA-SEM-0002",
+"HAC-SEM-0001"
+]
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"HAC-INV-0018",
+"HAC-INV-0010",
+"HAC-GAD-0001"
+],
+"chiavi": {
+"casta": "corrieri",
+"invenzione_id": "HAC-INV-0001",
+"regione": "HAC-REG-rotterdam",
+"universo": "hackverse"
+},
+"created": "2026-09-14",
+"esito": "ok",
+"espansioni": [
+{
+"id": "HAC-INV-0047",
+"parent_id": "HAC-INV-0018"
+},
+{
+"id": "HAC-INV-0048",
+"parent_id": "HAC-INV-0010"
+}
+],
+"estrazione": 43,
+"forzata": false,
+"lotto": "lotto-personaggi",
+"modello": "claude-sonnet-5",
+"personaggi": [
+{
+"ceppo": "scandinavo",
+"cognome": "Lysen",
+"n": 1,
+"nome": "Thea"
+},
+{
+"ceppo": "magiaro",
+"cognome": "Bosi",
+"n": 2,
+"nome": "Nóra"
+},
+{
+"ceppo": "swahili",
+"cognome": "Chamaneni",
+"n": 3,
+"nome": "Baraka"
+},
+{
+"ceppo": "slavo",
+"cognome": "Goić",
+"n": 4,
+"nome": "Stanislav"
+},
+{
+"ceppo": "turco",
+"cognome": "Taşmasel",
+"n": 5,
+"nome": "Mehmet"
+},
+{
+"ceppo": "basco",
+"cognome": "Goilategi",
+"n": 6,
+"nome": "Xabier"
+},
+{
+"ceppo": "arabo",
+"cognome": "Zadad",
+"n": 7,
+"nome": "Habib"
+},
+{
+"ceppo": "ibrido",
+"cognome": "Kayatürk",
+"n": 8,
+"nome": "Nour"
+},
+{
+"ceppo": "giapponese",
+"cognome": "Yakiyama",
+"n": 9,
+"nome": "Hikaru"
+},
+{
+"ceppo": "germanico",
+"cognome": "Bergschmidt",
+"n": 10,
+"nome": "Nadja"
+}
+],
+"righe_prodotte": [
+"HAC-REG-rotterdam",
+"HAC-PER-0011",
+"HAC-PER-0012",
+"HAC-PER-0013",
+"HAC-PER-0014",
+"HAC-PER-0015",
+"HAC-PER-0016",
+"HAC-PER-0017",
+"HAC-PER-0018",
+"HAC-PER-0019",
+"HAC-PER-0020",
+"HAC-INV-0047",
+"HAC-INV-0048"
+]
 }
 ]
