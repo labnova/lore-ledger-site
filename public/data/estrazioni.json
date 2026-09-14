@@ -2349,5 +2349,58 @@
 "ELA-GAD-0031"
 ],
 "universo": "elabverse"
+},
+{
+"bibbia_pescata": [
+"Regole editoriali: nessun toponimo reale; i ceppi onomastici",
+"Il clima è amministrato dalle IA. Piove quando è previsto, i"
+],
+"campi_forzati": [],
+"canone_pescato": [
+"NEO-PER-0011",
+"NEO-PER-0013",
+"NEO-INV-0012"
+],
+"chiavi": {
+"discipline": [
+"sicurezza/vigilanza",
+"chirurgia/chirurgia_vascolare"
+],
+"universo": "neofeudal"
+},
+"created": "2026-09-14",
+"esito": "ok",
+"espansioni": [
+"NEO-PER-0050",
+"NEO-PER-0051",
+"NEO-INV-0066"
+],
+"estrazione": 54,
+"forzata": false,
+"lotto": "lotto-lore",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"NEO-INV-0046",
+"NEO-INV-0047",
+"NEO-INV-0048",
+"NEO-INV-0049",
+"NEO-INV-0050",
+"NEO-INV-0051",
+"NEO-INV-0052",
+"NEO-INV-0053",
+"NEO-INV-0054",
+"NEO-INV-0055",
+"NEO-INV-0056",
+"NEO-INV-0057",
+"NEO-INV-0058",
+"NEO-INV-0059",
+"NEO-INV-0060",
+"NEO-INV-0061",
+"NEO-INV-0062",
+"NEO-INV-0063",
+"NEO-INV-0064",
+"NEO-INV-0065"
+],
+"universo": "neofeudal"
 }
 ]

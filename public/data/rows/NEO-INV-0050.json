@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"sicurezza/vigilanza",
+"chirurgia/chirurgia_vascolare"
+],
+"epoca_relativa": 0,
+"estrazione": 54,
+"fatti": [],
+"gancio": "Una guardia giovane ha imparato il nodo osservando un'operazione vera, e ora lega le strade più stretto di chiunque altro, senza sapere che il nodo che usa è quello per fermare un'emorragia mortale.",
+"id": "NEO-INV-0050",
+"media": [],
+"nome": "Il Nodo del Coprifuoco",
+"nome_reale": "Legatura della vena applicata allo sbarramento notturno",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Ogni sera i Cerusici legano le strade minori con corde intrecciate allo stesso modo con cui legano una vena prima di reciderla, convinti che un passaggio legato bene smetta di sanguinare gente fuori orario.",
+"universo": "neofeudal"
+}

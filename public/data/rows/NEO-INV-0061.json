@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"sicurezza/vigilanza",
+"chirurgia/chirurgia_vascolare"
+],
+"epoca_relativa": 0,
+"estrazione": 54,
+"fatti": [],
+"gancio": "Una carta del sangue sotterraneo disegnata trent'anni fa mostra un tunnel che oggi non esiste più su nessuna mappa ufficiale, e nessun cerusico vivo ricorda chi l'abbia richiuso.",
+"id": "NEO-INV-0061",
+"media": [],
+"nome": "L'Inchiostro che Rivela le Vie",
+"nome_reale": "Arteriografia con mezzo di contrasto per mappare tunnel nascosti",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "I Cerusici versano un colorante nei pozzi sospetti e seguono dove riaffiora, lo stesso metodo con cui iniettano un mezzo di contrasto in un corpo per vedere dove corrono i vasi nascosti, e chiamano le mappe risultanti carte del sangue sotterraneo.",
+"universo": "neofeudal"
+}

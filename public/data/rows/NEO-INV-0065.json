@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"sicurezza/vigilanza",
+"chirurgia/chirurgia_vascolare"
+],
+"epoca_relativa": 0,
+"estrazione": 54,
+"fatti": [],
+"gancio": "Un signore locale ha iniziato a rifiutare le cure del carro senza mai spiegare perché, e da quel villaggio i Cerusici non ricevono più notizie di nessun tipo.",
+"id": "NEO-INV-0065",
+"media": [],
+"nome": "Il Carro che Cura e Ascolta",
+"nome_reale": "Ambulatorio itinerante usato come copertura per una rete di informatori",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il carro dei Cerusici gira di villaggio in villaggio curando vene malate, ma ogni paziente lasciato solo un istante con l'ago nel braccio racconta più di quanto creda, e il carro riparte sempre con più notizie di quante medicine abbia consegnato.",
+"universo": "neofeudal"
+}

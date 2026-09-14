@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"sicurezza/vigilanza",
+"chirurgia/chirurgia_vascolare"
+],
+"epoca_relativa": 0,
+"estrazione": 54,
+"fatti": [],
+"gancio": "Un fabbro giura di poter forgiare un anello identico a metà prezzo, ma nessuno osa provarlo, perché se il passaggio si stringesse anche di un dito il primo carro incastrato bloccherebbe la ronda per giorni.",
+"id": "NEO-INV-0048",
+"media": [],
+"nome": "L'Anello che Non Si Chiude",
+"nome_reale": "Stent impiantato per tenere aperto un canale",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Nel varco più stretto della cinta i Cerusici hanno murato un anello di ferro che tiene il passaggio sempre della stessa misura, e lo chiamano l'anello del cuore della città perché senza di esso, dicono, il paese soffoca.",
+"universo": "neofeudal"
+}

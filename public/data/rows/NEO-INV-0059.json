@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"sicurezza/vigilanza",
+"chirurgia/chirurgia_vascolare"
+],
+"epoca_relativa": 0,
+"estrazione": 54,
+"fatti": [],
+"gancio": "Un congiungimento tracciato male durante una tempesta ha fatto rispondere fuoco a un segnale che non era mai stato acceso, e i due capitorre non si parlano più da allora.",
+"id": "NEO-INV-0059",
+"media": [],
+"nome": "Il Congiungimento delle Torri",
+"nome_reale": "Anastomosi chirurgica tra due pattuglie di torri distanti",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Quando due torri di guardia troppo lontane devono coordinarsi, i Cerusici tracciano tra loro una linea di fuochi e specchi che chiamano congiungimento, lo stesso nome con cui uniscono due vasi recisi in un corpo aperto.",
+"universo": "neofeudal"
+}

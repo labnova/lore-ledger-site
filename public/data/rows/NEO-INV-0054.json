@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"sicurezza/vigilanza",
+"chirurgia/chirurgia_vascolare"
+],
+"epoca_relativa": 0,
+"estrazione": 54,
+"fatti": [],
+"gancio": "L'ultima volta che il coagulo non si è sciolto in tempo, un'invasione di predoni è arrivata alle porte prima dell'allarme, e nessuno ha mai ammesso quale torre avesse smesso di guardare.",
+"id": "NEO-INV-0054",
+"media": [],
+"nome": "Il Coagulo tra le Torri",
+"nome_reale": "Trombosi della catena di segnalazione tra le torri di guardia",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Quando un segnale di fuoco non passa da una torre all'altra, i Cerusici dicono che si è formato un coagulo nella catena, e mandano un uomo a cavallo a sciogliere il blocco come farebbero con una vena occlusa.",
+"universo": "neofeudal"
+}

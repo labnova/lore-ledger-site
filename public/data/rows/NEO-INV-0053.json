@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"sicurezza/vigilanza",
+"chirurgia/chirurgia_vascolare"
+],
+"epoca_relativa": 0,
+"estrazione": 54,
+"fatti": [],
+"gancio": "Un apprendista ha gonfiato l'otre troppo in fretta e ha fatto crollare mezzo varco, e da allora la manovra si insegna solo dopo tre inverni di apprendistato, mai prima.",
+"id": "NEO-INV-0053",
+"media": [],
+"nome": "Il Fiato che Allarga",
+"nome_reale": "Angioplastica a palloncino per riaprire un varco ostruito",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Quando un passaggio di ronda si ostruisce di neve o macerie, i Cerusici vi spingono dentro un otre che gonfiano a forza di fiato, lo stesso gesto con cui allargano un vaso stretto in un corpo vivo, e chiamano la manovra dare fiato alla strada.",
+"universo": "neofeudal"
+}

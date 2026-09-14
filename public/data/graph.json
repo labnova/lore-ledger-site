@@ -326,6 +326,16 @@
 "to": "NEO-REG-calvenna"
 },
 {
+"from": "NEO-INV-0012",
+"kind": "parent",
+"to": "NEO-INV-0066"
+},
+{
+"from": "NEO-INV-0066",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
 "from": "STE-INV-0013",
 "kind": "parent",
 "to": "STE-INV-0021"
@@ -354,6 +364,11 @@
 "from": "STE-INV-0023",
 "kind": "parent",
 "to": "STE-INV-0026"
+},
+{
+"from": "STE-INV-0010",
+"kind": "parent",
+"to": "STE-INV-0027"
 },
 {
 "from": "CYB-PER-0001",
@@ -1534,6 +1549,36 @@
 "from": "NEO-PER-0049",
 "kind": "regione",
 "to": "NEO-REG-vranidol"
+},
+{
+"from": "NEO-PER-0011",
+"kind": "parent",
+"to": "NEO-PER-0050"
+},
+{
+"from": "NEO-PER-0050",
+"kind": "invenzione",
+"to": "NEO-INV-0012"
+},
+{
+"from": "NEO-PER-0050",
+"kind": "regione",
+"to": "NEO-REG-vasperdine"
+},
+{
+"from": "NEO-PER-0013",
+"kind": "parent",
+"to": "NEO-PER-0051"
+},
+{
+"from": "NEO-PER-0051",
+"kind": "invenzione",
+"to": "NEO-INV-0012"
+},
+{
+"from": "NEO-PER-0051",
+"kind": "regione",
+"to": "NEO-REG-vasperdine"
 },
 {
 "from": "STE-PER-0001",
@@ -6181,6 +6226,132 @@
 "universo": "neofeudal"
 },
 {
+"id": "NEO-INV-0046",
+"tipo": "invenzione",
+"titolo": "Il Giro del Sangue",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0047",
+"tipo": "invenzione",
+"titolo": "L'Occhio nella Teca",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0048",
+"tipo": "invenzione",
+"titolo": "L'Anello che Non Si Chiude",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0049",
+"tipo": "invenzione",
+"titolo": "La Sonda del Confessore",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0050",
+"tipo": "invenzione",
+"titolo": "Il Nodo del Coprifuoco",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0051",
+"tipo": "invenzione",
+"titolo": "Il Tappo Benedetto",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0052",
+"tipo": "invenzione",
+"titolo": "Il Rigonfio Taciuto",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0053",
+"tipo": "invenzione",
+"titolo": "Il Fiato che Allarga",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0054",
+"tipo": "invenzione",
+"titolo": "Il Coagulo tra le Torri",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0055",
+"tipo": "invenzione",
+"titolo": "Il Ramo Trapiantato",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0056",
+"tipo": "invenzione",
+"titolo": "L'Estrazione della Vena Marcia",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0057",
+"tipo": "invenzione",
+"titolo": "L'Ascolto del Passo",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0058",
+"tipo": "invenzione",
+"titolo": "La Presa che Non Lascia Andare",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0059",
+"tipo": "invenzione",
+"titolo": "Il Congiungimento delle Torri",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0060",
+"tipo": "invenzione",
+"titolo": "La Strada di Scorta",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0061",
+"tipo": "invenzione",
+"titolo": "L'Inchiostro che Rivela le Vie",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0062",
+"tipo": "invenzione",
+"titolo": "Il Quartiere Senza Sangue",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0063",
+"tipo": "invenzione",
+"titolo": "La Mano sulla Ferita",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0064",
+"tipo": "invenzione",
+"titolo": "Il Setaccio nella Gola della Porta",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0065",
+"tipo": "invenzione",
+"titolo": "Il Carro che Cura e Ascolta",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0066",
+"tipo": "invenzione",
+"titolo": "Il Secondo Rilancio",
+"universo": "neofeudal"
+},
+{
 "id": "NEO-PER-0001",
 "tipo": "personaggio",
 "titolo": "Juma Mwangaza",
@@ -6475,6 +6646,18 @@
 "universo": "neofeudal"
 },
 {
+"id": "NEO-PER-0050",
+"tipo": "personaggio",
+"titolo": "Aitor Etxeberria",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0051",
+"tipo": "personaggio",
+"titolo": "Kerem Aydın",
+"universo": "neofeudal"
+},
+{
 "id": "NEO-REG-calvenna",
 "tipo": "regione",
 "titolo": "Calvenna",
@@ -6766,6 +6949,12 @@
 "id": "STE-INV-0026",
 "tipo": "invenzione",
 "titolo": "Le Carte Confermate",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0027",
+"tipo": "invenzione",
+"titolo": "Il Fiume Secondo",
 "universo": "steamverse"
 },
 {

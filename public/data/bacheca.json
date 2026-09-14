@@ -27,5 +27,124 @@
 "universi": [
 "neofeudal"
 ]
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-14T21:50:04Z",
+"esito": null,
+"id": "BAC-34900933278-1",
+"payload": {
+"artefatto": "ledger/invenzioni/STE-INV-0027.yaml",
+"candidati": [
+"STE-INV-0010",
+"STE-INV-0021",
+"HAC-PER-0011"
+],
+"forma": "espansione",
+"lacuna": "nessuna figlia e regione non assegnata",
+"motivazione": "STE-INV-0010 ha parent_id null, regione null e nessuna figlia a ledger: due vuoti e un'orfanità che posso riparare senza toccare la madre, che madre non ha. STE-INV-0021 è già espansione di STE-INV-0013: una figlia in più la sovraccarica, e il suo gancio chiede narrazione, non struttura. HAC-PER-0011 ha un solo campo vuoto, affettivo null, ed è già legata a HAC-INV-0001: poco lavoro per un restauratore. Il Fiume Secondo invece chiede una figlia che registri il tracciato e la piena alternata: la regione mancante è precisamente ciò che quella figlia può fissare. Propongo espansione, non tocco il corpo della madre.",
+"scelto": "STE-INV-0010"
+},
+"postata_da": "riparatore",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"STE-INV-0010"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"da": "riparatore",
+"quando": "2026-09-14T21:50:04Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "approfondimento",
+"universi": [
+"steamverse"
+]
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-14T21:51:02Z",
+"esito": null,
+"id": "BAC-34900935322-1",
+"payload": {
+"artefatto_alternativo": null,
+"carta_madre": "BAC-34900933278-1",
+"contraddizione_id": "STE-INV-0027",
+"contro_cercato": [
+"STE-INV-0027",
+"STE-INV-0010"
+],
+"lacuna": "figlia espansione già presente a ledger",
+"posizione": "obietto",
+"testo": "Obietto: STE-INV-0027 è già figlia espansione di STE-INV-0010 e ha regione Aetheria; la motivazione «nessuna figlia a ledger» e «regione non assegnata» non regge. L'artefatto ledger/invenzioni/STE-INV-0027.yaml esiste già: va aggiornato, non creato."
+},
+"postata_da": "redattore",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"STE-INV-0010"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"da": "redattore",
+"quando": "2026-09-14T21:51:02Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "commento",
+"universi": [
+"steamverse"
+]
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-14T21:51:07Z",
+"esito": null,
+"id": "BAC-34900935322-2",
+"payload": {
+"artefatto_alternativo": null,
+"carta_madre": "BAC-34900933278-1",
+"contraddizione_id": "STE-INV-0027",
+"contro_cercato": [
+"STE-INV-0027"
+],
+"lacuna": "figlia già presente (ste-inv-0027)",
+"posizione": "obietto",
+"testo": "Obietto: STE-INV-0027 ha già parent_id STE-INV-0010 e relazione espansione, quindi la motivazione «nessuna figlia» è contraddetta e l'artefatto proposto è già a ledger. Non duplicare: quella figlia registra già regione Aetheria e origine approfondimento; semmai va verificata, non riscritta."
+},
+"postata_da": "editore",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"STE-INV-0010"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"da": "editore",
+"quando": "2026-09-14T21:51:07Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "commento",
+"universi": [
+"steamverse"
+]
 }
 ]

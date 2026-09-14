@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"sicurezza/vigilanza",
+"chirurgia/chirurgia_vascolare"
+],
+"epoca_relativa": 0,
+"estrazione": 54,
+"fatti": [],
+"gancio": "Il giorno in cui il flusso ascoltato non ha coinciso col conteggio alla porta, il cerusico ha detto solo che qualcuno camminava piano apposta, e nessuno ha mai trovato chi.",
+"id": "NEO-INV-0057",
+"media": [],
+"nome": "L'Ascolto del Passo",
+"nome_reale": "Ecografia doppler del flusso di pellegrini alle porte",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Alla porta principale un cerusico appoggia l'orecchio a un tubo di rame infilato nel selciato e ascolta il flusso dei passi come ascolterebbe il sangue in un'arteria, contando quanti entrano ed escono senza mai alzare lo sguardo.",
+"universo": "neofeudal"
+}

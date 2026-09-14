@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "fidanzato"
+},
+"appare_in": [],
+"casta": "contadini",
+"ceppo": "turco",
+"cognome": "Aydın",
+"contraddizione": "Teme la Selva più di ogni altro cacciatore eppure torna ogni stagione a comprare da Halima la grazia contro il maltempo, come se pagare la paura la rendesse più sopportabile.",
+"created": "2026-09-14",
+"difetto": "superstizioso",
+"epoca_relativa": 0,
+"estrazione": 54,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Tiene cucita nella giacca la prima grazia comprata anni fa, mai aperta, convinto che romperne il sigillo il giorno sbagliato farebbe scadere anche la sua fortuna, non solo quella della caccia.",
+"id": "NEO-PER-0051",
+"invenzione_id": "NEO-INV-0012",
+"media": [],
+"nome": "Kerem",
+"parent_id": "NEO-PER-0013",
+"rapporto": "teme",
+"regione": "Vasperdine",
+"relazione": "espansione",
+"ritratto": null,
+"schema_version": 1,
+"segno": "pesci",
+"spirituale": {
+"credenza": "il_cielo_amministrato",
+"rapporto": "devoto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "silenzioso",
+"universo": "neofeudal"
+}

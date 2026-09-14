@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"sicurezza/vigilanza",
+"chirurgia/chirurgia_vascolare"
+],
+"epoca_relativa": 0,
+"estrazione": 54,
+"fatti": [],
+"gancio": "Quando finalmente la ronda ha ricominciato a passare di lì ogni notte, gli abitanti hanno impiegato una stagione a fidarsi di nuovo che qualcuno stesse davvero guardando.",
+"id": "NEO-INV-0062",
+"media": [],
+"nome": "Il Quartiere Senza Sangue",
+"nome_reale": "Ischemia di un quartiere lasciato fuori dal giro di ronda",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il rione più povero non riceve mai la ronda notturna per intero, e i Cerusici lo chiamano in ischemia come chiamerebbero un arto rimasto senza sangue, sapendo che un arto così, lasciato troppo a lungo, muore.",
+"universo": "neofeudal"
+}

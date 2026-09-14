@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"sicurezza/vigilanza",
+"chirurgia/chirurgia_vascolare"
+],
+"epoca_relativa": 0,
+"estrazione": 54,
+"fatti": [],
+"gancio": "Quando il giro salta un turno, in paese si dice che il sangue si è fermato in un vicolo, e nessuno esce finché il cerusico di turno non torna a passare.",
+"id": "NEO-INV-0046",
+"media": [],
+"nome": "Il Giro del Sangue",
+"nome_reale": "Ronda notturna a turni scaglionati",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "I Cerusici di Ronda camminano le vie di notte con lo stesso ritmo con cui un tempo controllavano il polso di un malato, e chiamano \"arteria maggiore\" la strada che tutte le altre alimentano.",
+"universo": "neofeudal"
+}

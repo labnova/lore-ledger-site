@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"zoologia",
+"gioco_azzardo"
+],
+"epoca_relativa": 1,
+"estrazione": 54,
+"fatti": [],
+"gancio": "Chi vince al Secondo Rilancio non riceve mai moneta, solo la promessa di un favore da riscuotere quando la Diocesi guarderà altrove, e sono in molti a dire che il conto dei favori non torna mai a zero.",
+"id": "NEO-INV-0066",
+"media": [],
+"nome": "Il Secondo Rilancio",
+"nome_reale": "Scommessa parallela non ufficiale",
+"parent_id": "NEO-INV-0012",
+"poc": false,
+"regione": "Calvenna",
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Fuori dai registri della Diocesi, un mercato parallelo scommette sulle stesse cacce della Selva ma con quote proprie, pagate in favori e non in offerte, e cresce all'ombra del primo tanto quanto il primo cresce all'ombra del clima amministrato.",
+"universo": "neofeudal"
+}

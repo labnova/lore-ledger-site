@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"sicurezza/vigilanza",
+"chirurgia/chirurgia_vascolare"
+],
+"epoca_relativa": 0,
+"estrazione": 54,
+"fatti": [],
+"gancio": "Una volta la morsa è rimasta stretta un'ora oltre il limite raccontato nei manuali, e la mano di chi la portava non ha mai più retto una spada.",
+"id": "NEO-INV-0058",
+"media": [],
+"nome": "La Presa che Non Lascia Andare",
+"nome_reale": "Clampaggio temporaneo usato per fermare un sospetto in flagrante",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Per fermare un uomo colto a rubare, i Cerusici di ronda usano la stessa morsa di metallo con cui bloccano un vaso durante un'operazione, stretta al polso finché il giudice non arriva, mai più a lungo di quanto un vaso reggerebbe.",
+"universo": "neofeudal"
+}

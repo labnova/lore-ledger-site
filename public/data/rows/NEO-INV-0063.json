@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"sicurezza/vigilanza",
+"chirurgia/chirurgia_vascolare"
+],
+"epoca_relativa": 0,
+"estrazione": 54,
+"fatti": [],
+"gancio": "L'ultima fuga di notizie premuta troppo forte non si è più fermata, ha smesso di sanguinare dalla bocca sbagliata e ha ricominciato da un'altra dieci case più in là.",
+"id": "NEO-INV-0063",
+"media": [],
+"nome": "La Mano sulla Ferita",
+"nome_reale": "Compressione emostatica applicata a una fuga di notizie",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Quando una voce scomoda comincia a girare troppo in fretta, i Cerusici mandano qualcuno a premere sulla fonte esattamente come si preme una ferita che sanguina, finché la voce non smette di scorrere da sola.",
+"universo": "neofeudal"
+}

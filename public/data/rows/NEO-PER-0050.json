@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "omosessuale",
+"situazione": "single"
+},
+"appare_in": [],
+"casta": "clero",
+"ceppo": "basco",
+"cognome": "Etxeberria",
+"contraddizione": "Studia il rito del ciclo del ritorno con più fervore di quanto Dóra abbia mai avuto, senza sapere che la donna che lo istruisce ogni mattina non crede più a una sola parola che gli insegna.",
+"created": "2026-09-14",
+"difetto": "insonne",
+"epoca_relativa": 0,
+"estrazione": 54,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Trascrive ogni sera le quote della Selva convinto che siano preghiere in cifra, e nessuno gli ha ancora detto che il ciclo che sta imparando a leggere è solo un libro mastro.",
+"id": "NEO-PER-0050",
+"invenzione_id": "NEO-INV-0012",
+"media": [],
+"nome": "Aitor",
+"parent_id": "NEO-PER-0011",
+"rapporto": "studia",
+"regione": "Vasperdine",
+"relazione": "espansione",
+"ritratto": null,
+"schema_version": 1,
+"segno": "capricorno",
+"spirituale": {
+"credenza": "ciclo_del_ritorno",
+"rapporto": "praticante_tiepido"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "meticoloso",
+"universo": "neofeudal"
+}

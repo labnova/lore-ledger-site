@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"sicurezza/vigilanza",
+"chirurgia/chirurgia_vascolare"
+],
+"epoca_relativa": 0,
+"estrazione": 54,
+"fatti": [],
+"gancio": "L'ultima ronda che ha misurato il rigonfio ha trovato due dita di scarto rispetto all'anno prima, e ha scritto il numero su un foglio che nessuno ha ancora consegnato al signore locale.",
+"id": "NEO-INV-0052",
+"media": [],
+"nome": "Il Rigonfio Taciuto",
+"nome_reale": "Aneurisma della cinta muraria, punto debole mai riparato",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "I Cerusici sanno da generazioni che un tratto di mura si gonfia ogni inverno come una parete di vaso malata pronta a cedere, e lo chiamano il rigonfio taciuto perché ripararlo costerebbe la fiducia di chi crede le mura eterne.",
+"universo": "neofeudal"
+}

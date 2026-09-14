@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"sicurezza/vigilanza",
+"chirurgia/chirurgia_vascolare"
+],
+"epoca_relativa": 0,
+"estrazione": 54,
+"fatti": [],
+"gancio": "L'ultima volta che il setaccio è stato svuotato, tra gli oggetti impigliati c'era un sigillo della Diocesi che nessuno ricordava di aver perso, e nessuno ha mai chiesto come ci fosse finito.",
+"id": "NEO-INV-0064",
+"media": [],
+"nome": "Il Setaccio nella Gola della Porta",
+"nome_reale": "Filtro impiantato in un vaso per trattenere i coaguli",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Nella strettoia della porta principale è murato un setaccio di ferro che i Cerusici dicono identico a quello che impiantano in un vaso malato per fermare i coaguli prima che raggiungano il cuore, e lo svuotano ogni luna di ciò che vi resta impigliato.",
+"universo": "neofeudal"
+}

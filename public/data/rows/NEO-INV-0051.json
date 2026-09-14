@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"sicurezza/vigilanza",
+"chirurgia/chirurgia_vascolare"
+],
+"epoca_relativa": 0,
+"estrazione": 54,
+"fatti": [],
+"gancio": "Un mercante giura di conoscere il solvente che scioglie il tappo benedetto, e lo vende a peso d'oro a chi ha fretta di passare, senza dire che il sentiero franerà appena il composto cede.",
+"id": "NEO-INV-0051",
+"media": [],
+"nome": "Il Tappo Benedetto",
+"nome_reale": "Embolizzazione selettiva di un passaggio per bloccare il traffico illecito",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Per chiudere per sempre un sentiero usato dai contrabbandieri, i Cerusici vi versano un composto che si rapprende come quello che iniettano in un vaso malato, e lo consacrano perché nessuno tenti di disostruirlo.",
+"universo": "neofeudal"
+}

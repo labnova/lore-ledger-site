@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-14",
+"discipline": [
+"sicurezza/vigilanza",
+"chirurgia/chirurgia_vascolare"
+],
+"epoca_relativa": 0,
+"estrazione": 54,
+"fatti": [],
+"gancio": "Un tratto di muro innestato vent'anni fa ha ceduto di nuovo nello stesso punto, e i Cerusici più anziani sussurrano che un innesto non attecchisce mai davvero due volte nello stesso corpo.",
+"id": "NEO-INV-0055",
+"media": [],
+"nome": "Il Ramo Trapiantato",
+"nome_reale": "Innesto sintetico usato per sostituire un tratto di muro crollato",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Dove le mura cedono i Cerusici innestano un tratto costruito altrove, proprio come innestano un pezzo di vena sintetica in un corpo malato, e lo benedicono perché prenda come fa la carne viva.",
+"universo": "neofeudal"
+}
