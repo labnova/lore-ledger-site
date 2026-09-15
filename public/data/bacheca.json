@@ -30,12 +30,12 @@
 },
 {
 "chiusa_il": null,
-"creata": "2026-09-15T05:35:17Z",
+"creata": "2026-09-15T11:23:27Z",
 "esito": null,
-"id": "BAC-34932665454-1",
+"id": "BAC-34962972865-1",
 "payload": {
 "errore": "revisione BAC-34900933278-1: TettoSuperato: tetto LLM_MAX_CHIAMATE_RUN superato: 2 >= 2",
-"run_id": "34932665454",
+"run_id": "34962972865",
 "step": "revisione",
 "workflow": "riparatore"
 },
@@ -45,14 +45,14 @@
 "priorita": 2,
 "racconto": null,
 "righe": [
-"riparatore#34932665454#revisione"
+"riparatore#34962972865#revisione"
 ],
 "scade": null,
 "stato": "aperta",
 "storia": [
 {
 "da": "riparatore",
-"quando": "2026-09-15T05:35:17Z",
+"quando": "2026-09-15T11:23:27Z",
 "stato": "aperta"
 }
 ],
@@ -645,6 +645,55 @@
 {
 "da": "guardiano",
 "quando": "2026-09-15T05:35:14Z",
+"stato": "chiusa"
+}
+],
+"tentativi": 0,
+"tipo": "guasto",
+"universi": []
+},
+{
+"chiusa_il": "2026-09-15T11:23:23Z",
+"creata": "2026-09-15T05:35:17Z",
+"esito": "configurazione: Alzare il tetto a un valore coerente col numero di lotti della revisione (es. 4) via variabile repo, poi rilanciare il workflow riparatore. Se il tetto è delibe (logs/guasto-BAC-34932665454-1.md)",
+"id": "BAC-34932665454-1",
+"payload": {
+"diagnosi": {
+"classe": "configurazione",
+"comando": "gh variable set LLM_MAX_CHIAMATE_RUN --body 4 && gh workflow run riparatore.yml",
+"diagnosi": "Il tetto LLM_MAX_CHIAMATE_RUN=2 è stato raggiunto (2 >= 2) nello step `revisione` della run 34932665454: la guardia di budget ha fatto il suo lavoro, non c'è guasto di rete né di credenziali. Il fallimento è deterministico a parità di tetto: rilanciare senza toccare la soglia riproduce lo stesso esito o consuma comunque il budget già esaurito. Serve una decisione esplicita sul budget per run, non un retry. — guardiano, pipeline lore-ledger",
+"rimedio": "Alzare il tetto a un valore coerente col numero di lotti della revisione (es. 4) via variabile repo, poi rilanciare il workflow riparatore. Se il tetto è deliberato, ridurre i lotti per run invece di alzare la soglia. — guardiano, pipeline lore-ledger",
+"ritenta_automaticamente": false
+},
+"errore": "revisione BAC-34900933278-1: TettoSuperato: tetto LLM_MAX_CHIAMATE_RUN superato: 2 >= 2",
+"run_id": "34932665454",
+"step": "revisione",
+"workflow": "riparatore"
+},
+"postata_da": "riparatore",
+"presa_da": "guardiano",
+"presa_il": "2026-09-15T11:23:17Z",
+"priorita": 2,
+"racconto": null,
+"righe": [
+"riparatore#34932665454#revisione"
+],
+"scade": "2026-09-15T17:23:17Z",
+"stato": "chiusa",
+"storia": [
+{
+"da": "riparatore",
+"quando": "2026-09-15T05:35:17Z",
+"stato": "aperta"
+},
+{
+"da": "guardiano",
+"quando": "2026-09-15T11:23:17Z",
+"stato": "presa"
+},
+{
+"da": "guardiano",
+"quando": "2026-09-15T11:23:23Z",
 "stato": "chiusa"
 }
 ],

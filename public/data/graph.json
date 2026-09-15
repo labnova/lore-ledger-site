@@ -4011,6 +4011,11 @@
 "to": "ELA-INV-0100"
 },
 {
+"from": "ELA-CON-0005",
+"kind": "sorgente",
+"to": "ELA-INV-0043"
+},
+{
 "from": "HAC-CON-0001",
 "kind": "sorgente",
 "to": "HAC-INV-0017"
@@ -4873,6 +4878,12 @@
 "id": "ELA-CON-0004",
 "tipo": "contenuto",
 "titolo": "Sul ritardo dell'ultimo faro: nota tecnica non autorizzata sulla Rete di Segnalazione del Banco",
+"universo": "elabverse"
+},
+{
+"id": "ELA-CON-0005",
+"tipo": "contenuto",
+"titolo": "Nota di redazione: perché il secondo cifrario non doveva funzionare",
 "universo": "elabverse"
 },
 {

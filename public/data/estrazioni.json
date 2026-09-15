@@ -2746,5 +2746,29 @@
 "NEO-GAD-0071"
 ],
 "universo": "neofeudal"
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"ELA-INV-0043",
+"ELA-INV-0018"
+],
+"chiavi": {
+"canale": "tiktok",
+"formato": "making_of",
+"medium": "video_corto",
+"sorgente_id": "ELA-INV-0043",
+"veridicita": "making_of"
+},
+"created": "2026-09-15",
+"esito": "ok",
+"estrazione": 64,
+"forzata": false,
+"lotto": "lotto-contenuti",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"ELA-CON-0005"
+],
+"universo": "elabverse"
 }
 ]
