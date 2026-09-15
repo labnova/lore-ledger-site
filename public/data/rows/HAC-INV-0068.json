@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"sanita_pubblica/quarantena",
+"musica/canto"
+],
+"epoca_relativa": 0,
+"estrazione": 66,
+"fatti": [],
+"gancio": "Qualcuno inizia a vendere kit truccati che danno sempre esito positivo, e il coro si riempie di voci che non dovrebbero esserci.",
+"id": "HAC-INV-0068",
+"media": [],
+"nome": "Il Kit dell'Intonazione",
+"nome_reale": "Kit fai-da-te per tampone rapido (autotest domiciliare)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il test rapido da fare a casa in dieci minuti viene copiato in un piccolo kit che dice, con la stessa striscia a due linee, se la propria voce è \"idonea\" per il coro del giorno dopo.",
+"universo": "hackverse"
+}

@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"sanita_pubblica/quarantena",
+"musica/canto"
+],
+"epoca_relativa": 0,
+"estrazione": 66,
+"fatti": [],
+"gancio": "Un laboratorio scopre di avere due database, uno di tamponi positivi e uno di voci \"instabili\", con gli stessi nomi dentro.",
+"id": "HAC-INV-0061",
+"media": [],
+"nome": "Il Tampone che Ascolta",
+"nome_reale": "Tampone molecolare (test diagnostico rinofaringeo)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il bastoncino che preleva il campione dal naso e dalla gola viene equipaggiato con un microfono in miniatura, così la diagnosi passa anche dal timbro della voce durante il prelievo.",
+"universo": "hackverse"
+}

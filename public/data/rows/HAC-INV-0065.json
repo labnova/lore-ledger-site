@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"sanita_pubblica/quarantena",
+"musica/canto"
+],
+"epoca_relativa": 0,
+"estrazione": 66,
+"fatti": [],
+"gancio": "Un acustico scopre che la distanza \"di sicurezza\" imposta dal ministero è, per pura coincidenza, perfetta anche per il suono.",
+"id": "HAC-INV-0065",
+"media": [],
+"nome": "Il Metro che Accorda",
+"nome_reale": "Distanziamento sociale (metro di distanza minima tra le persone)",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La distanza minima imposta tra le persone per ridurre il contagio viene ricalcolata per ottimizzare l'acustica di un coro a cielo aperto, lo stesso metro che salva diventa quello che intona.",
+"universo": "hackverse"
+}

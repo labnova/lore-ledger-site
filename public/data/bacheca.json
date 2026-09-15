@@ -604,6 +604,124 @@
 ]
 },
 {
+"chiusa_il": null,
+"creata": "2026-09-15T12:50:32Z",
+"esito": null,
+"id": "BAC-34971212044-1",
+"payload": {
+"bozza": "Site drawing under revision: axonometric view of a place in graphite on tracing paper, one part redrawn over another and misaligned, a detail box enlarged, differences in revision red, bottle-green current layer. Subject: Aylin Yalnerier — derelitti — anziano — protettivo. Carta da lucido bianca-azzurra, grafite, un rosso di revisione per le differenze, verde bottiglia per la versione \"corrente\". Stile unico per tutto l'universo, branch compreso: diagrammi e disegni tecnici sovrapposti, la stessa immagine in due stati (prima/dopo, v1/v2) con le differenze marcate in rosso, annotazioni a margine, strati semitrasparenti che non combaciano di qualche millimetro. aspect ratio 16:9 --ar 4:3 --no digital glitch, pixels, scanlines, green matrix, terminal aesthetic, photographic realism, chrome futurism, illegible lettering, watermark",
+"chiave": "m1",
+"contesto": "id: ELA-PER-0028\ntipo: personaggio\nuniverso: elabverse\nestrazione: 50\ncreated: '2026-09-14'\nparent_id: null\nrelazione: null\nepoca_relativa: 0\nregione: Scafo Zero\nstatus: canon\nschema_version: 1\nnome: Aylin\ncognome: Yalnerier\nceppo: turco\ncasta: derelitti\ninvenzione_id: ELA-INV-0107\nrapporto: usa\neta_fascia: anziano\nsegno: cancro\ntratto: protettivo\ndifetto: giocatore\naffettivo:\n  orientamento: pansessuale\n  situazione: vedovo\nspirituale:\n  rapporto: funzionario_del_culto\n  credenza: dottrina_del_debito",
+"manifest": {
+"caricato_il": null,
+"creato": "2026-09-15",
+"id": "MED-34971212044-1",
+"note": "oggetto: Aylin Yalnerier; gancio: Scommette ogni sera, in segreto, su quale lanterna mancherà alla conta, e finora ha sempre vinto perché è lei a deciderlo prima.; contraddizione: Amministra per il Banco la dottrina del debito fra i suoi stessi vicini derelitti, ma usa la conta delle lanterne per far scomparire dai registri i nomi di chi non può pagare, proteggendoli dalla dottrina che lei stessa dovrebbe far rispettare.; sref non fissato",
+"parametri": {
+"ar": "4:3",
+"atomi": [
+"ATM-34809499246-21"
+],
+"cref": null,
+"sref": null
+},
+"prompt": "Site drawing under revision: axonometric view of a place in graphite on tracing paper, one part redrawn over another and misaligned, a detail box enlarged, differences in revision red, bottle-green current layer. Subject: Aylin Yalnerier — derelitti — anziano — protettivo. Carta da lucido bianca-azzurra, grafite, un rosso di revisione per le differenze, verde bottiglia per la versione \"corrente\". Stile unico per tutto l'universo, branch compreso: diagrammi e disegni tecnici sovrapposti, la stessa immagine in due stati (prima/dopo, v1/v2) con le differenze marcate in rosso, annotazioni a margine, strati semitrasparenti che non combaciano di qualche millimetro. aspect ratio 16:9 --ar 4:3 --no digital glitch, pixels, scanlines, green matrix, terminal aesthetic, photographic realism, chrome futurism, illegible lettering, watermark",
+"sha256": null,
+"sorgente": {
+"ref": "ELA-PER-0028",
+"tipo": "riga"
+},
+"stato": "proposto",
+"strumento": "midjourney",
+"tipo": "scena",
+"universo": "elabverse",
+"url": null
+},
+"strumento": "midjourney",
+"tipo": "scena"
+},
+"postata_da": "media-random",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"ELA-PER-0028"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"da": "media-random",
+"quando": "2026-09-15T12:50:32Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_tavola",
+"universi": [
+"elabverse"
+]
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-15T12:50:32Z",
+"esito": null,
+"id": "BAC-34971212044-2",
+"payload": {
+"bozza": "Technical drawing of an object in two states on tracing paper: plan and elevation, graphite lines, overlaid layers that do not quite match, differences marked in revision red, illegible margin annotations, label with illegible product code. Subject: Il Confronto delle Voci — Correlazione incrociata di spettri. Carta da lucido bianca-azzurra, grafite, un rosso di revisione per le differenze, verde bottiglia per la versione \"corrente\". Stile unico per tutto l'universo, branch compreso: diagrammi e disegni tecnici sovrapposti, la stessa immagine in due stati (prima/dopo, v1/v2) con le differenze marcate in rosso, annotazioni a margine, strati semitrasparenti che non combaciano di qualche millimetro. --ar 4:3 --no digital glitch, pixels, scanlines, green matrix, terminal aesthetic, photographic realism, chrome futurism, illegible lettering, watermark",
+"chiave": "m2",
+"contesto": "id: ELA-INV-0049\ntipo: invenzione\nuniverso: elabverse\nestrazione: 9\ncreated: '2026-09-12'\nparent_id: ELA-INV-0020\nrelazione: espansione\nepoca_relativa: 1\nregione: null\nstatus: canon\nschema_version: 1\nnome_reale: Correlazione incrociata di spettri\nnome: Il Confronto delle Voci\ndiscipline:\n- acustica/fonetica\n- ottica/spettroscopia\npoc: true",
+"manifest": {
+"caricato_il": null,
+"creato": "2026-09-15",
+"id": "MED-34971212044-2",
+"note": "oggetto: Il Confronto delle Voci; gancio: Due stelle a distanze incolmabili pronunciano, correlate, la stessa identica ultima parola, nello stesso istante del calendario di bordo.; torsione: Dove la Voce Ricostruita fa parlare una stella alla volta, i monaci del vuoto sovrappongono ora le voci sintetiche di più stelle vicine per trovare le frasi che si somigliano, convinti che una lingua condivisa tra stelle diverse sia la prova che qualcuno, un tempo, viaggiava tra loro.; sref non fissato",
+"parametri": {
+"ar": "4:3",
+"atomi": [],
+"cref": null,
+"sref": null
+},
+"prompt": "Technical drawing of an object in two states on tracing paper: plan and elevation, graphite lines, overlaid layers that do not quite match, differences marked in revision red, illegible margin annotations, label with illegible product code. Subject: Il Confronto delle Voci — Correlazione incrociata di spettri. Carta da lucido bianca-azzurra, grafite, un rosso di revisione per le differenze, verde bottiglia per la versione \"corrente\". Stile unico per tutto l'universo, branch compreso: diagrammi e disegni tecnici sovrapposti, la stessa immagine in due stati (prima/dopo, v1/v2) con le differenze marcate in rosso, annotazioni a margine, strati semitrasparenti che non combaciano di qualche millimetro. --ar 4:3 --no digital glitch, pixels, scanlines, green matrix, terminal aesthetic, photographic realism, chrome futurism, illegible lettering, watermark",
+"sha256": null,
+"sorgente": {
+"ref": "ELA-INV-0049",
+"tipo": "riga"
+},
+"stato": "proposto",
+"strumento": "midjourney",
+"tipo": "tavola",
+"universo": "elabverse",
+"url": null
+},
+"strumento": "midjourney",
+"tipo": "tavola"
+},
+"postata_da": "media-random",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"ELA-INV-0049"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"da": "media-random",
+"quando": "2026-09-15T12:50:32Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_tavola",
+"universi": [
+"elabverse"
+]
+},
+{
 "chiusa_il": "2026-09-15T05:35:14Z",
 "creata": "2026-09-15T00:59:34Z",
 "esito": "configurazione: Alzare il tetto per-run della variabile d'ambiente e rilanciare il workflow `riparatore` sul ref interessato; se il tetto è cablato in retry.yml, parametrizzarl (logs/guasto-BAC-34915383580-2.md)",

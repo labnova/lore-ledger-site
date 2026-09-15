@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"sanita_pubblica/quarantena",
+"musica/canto"
+],
+"epoca_relativa": 0,
+"estrazione": 66,
+"fatti": [],
+"gancio": "Alla frontiera, una guardia stona apposta la nota di riferimento per lasciar passare chi non dovrebbe.",
+"id": "HAC-INV-0053",
+"media": [],
+"nome": "Il Lasciapassare che Intona",
+"nome_reale": "Passaporto sanitario (certificato digitale di negatività)",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il QR code che certifica la negatività al varco viene modificato per sbloccarsi solo se chi lo scansiona intona correttamente una nota di riferimento, una firma vocale al posto del volto.",
+"universo": "hackverse"
+}

@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"sanita_pubblica/quarantena",
+"musica/canto"
+],
+"epoca_relativa": 0,
+"estrazione": 66,
+"fatti": [],
+"gancio": "Un epidemiologo e un direttore di coro ricevono lo stesso identico grafico, con nomi diversi scritti sopra gli stessi nodi.",
+"id": "HAC-INV-0049",
+"media": [],
+"nome": "Coro dei Contatti",
+"nome_reale": "Tracciamento dei contatti (contact tracing digitale)",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "L'app che disegna la rete di chi ha incontrato chi durante un focolaio viene riusata per mappare chi ha cantato con chi in un coro clandestino, nodo per nodo.",
+"universo": "hackverse"
+}

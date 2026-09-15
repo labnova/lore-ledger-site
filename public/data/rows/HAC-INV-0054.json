@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"sanita_pubblica/quarantena",
+"musica/canto"
+],
+"epoca_relativa": 0,
+"estrazione": 66,
+"fatti": [],
+"gancio": "I droni che un tempo contavano chi tentava di uscire dal cordone ora contano chi arriva in ritardo alle prove.",
+"id": "HAC-INV-0054",
+"media": [],
+"nome": "Il Cerchio che Canta",
+"nome_reale": "Cordone sanitario (perimetro di isolamento fisico di un'area)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il cordone che chiude un quartiere in quarantena viene ridisegnato come formazione di un coro itinerante, la stessa geometria pensata per tenere fuori il contagio ora tiene dentro le voci.",
+"universo": "hackverse"
+}

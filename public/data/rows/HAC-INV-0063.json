@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"sanita_pubblica/quarantena",
+"musica/canto"
+],
+"epoca_relativa": 0,
+"estrazione": 66,
+"fatti": [],
+"gancio": "Un paziente guarito chiede di essere rinchiuso di nuovo, ma stavolta per cantare senza essere sentito da nessuno.",
+"id": "HAC-INV-0063",
+"media": [],
+"nome": "La Stanza che Non Lascia Uscire la Voce",
+"nome_reale": "Isolamento a pressione negativa (stanza d'ospedale che impedisce all'aria di uscire)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La camera a pressione negativa che impedisce all'aria infetta di propagarsi viene copiata per una cabina insonorizzata che non lascia uscire il canto, stesso principio, direzione opposta.",
+"universo": "hackverse"
+}

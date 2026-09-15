@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"sanita_pubblica/quarantena",
+"musica/canto"
+],
+"epoca_relativa": 0,
+"estrazione": 66,
+"fatti": [],
+"gancio": "Un ex ingegnere di dispositivi medici scopre che la sua invenzione per salvare vite viene venduta come \"effetto vocale\" nei teatri clandestini.",
+"id": "HAC-INV-0056",
+"media": [],
+"nome": "La Maschera che Intona",
+"nome_reale": "Filtro respiratore FFP2 (mascherina filtrante)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il filtro pensato per bloccare le particelle in sospensione viene rimodellato in una maschera da cantante che modifica il timbro invece di proteggere le vie respiratorie.",
+"universo": "hackverse"
+}

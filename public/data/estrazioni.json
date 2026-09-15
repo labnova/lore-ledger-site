@@ -2770,5 +2770,79 @@
 "ELA-CON-0005"
 ],
 "universo": "elabverse"
+},
+{
+"campi_forzati": [],
+"chiavi": {
+"manca": {
+"gadget": 1,
+"personaggi": 0,
+"regione": true
+},
+"universo": "neofeudal"
+},
+"cluster_target": "NEO-INV-0044",
+"created": "2026-09-15",
+"esito": "ok",
+"estrazione": 65,
+"forzata": false,
+"lotto": "lotto-maturazione",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"NEO-GAD-0072"
+],
+"universo": "neofeudal"
+},
+{
+"bibbia_pescata": [
+"> Substrato iniziale scritto a mano (12 set 2026). Append-only. Un"
+],
+"campi_forzati": [],
+"canone_pescato": [
+"HAC-PER-0005",
+"HAC-INV-0013",
+"HAC-PER-0015"
+],
+"chiavi": {
+"discipline": [
+"sanita_pubblica/quarantena",
+"musica/canto"
+],
+"universo": "hackverse"
+},
+"created": "2026-09-15",
+"esito": "ok",
+"espansioni": [
+"HAC-PER-0021",
+"HAC-PER-0022",
+"HAC-INV-0069"
+],
+"estrazione": 66,
+"forzata": false,
+"lotto": "lotto-lore",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"HAC-INV-0049",
+"HAC-INV-0050",
+"HAC-INV-0051",
+"HAC-INV-0052",
+"HAC-INV-0053",
+"HAC-INV-0054",
+"HAC-INV-0055",
+"HAC-INV-0056",
+"HAC-INV-0057",
+"HAC-INV-0058",
+"HAC-INV-0059",
+"HAC-INV-0060",
+"HAC-INV-0061",
+"HAC-INV-0062",
+"HAC-INV-0063",
+"HAC-INV-0064",
+"HAC-INV-0065",
+"HAC-INV-0066",
+"HAC-INV-0067",
+"HAC-INV-0068"
+],
+"universo": "hackverse"
 }
 ]

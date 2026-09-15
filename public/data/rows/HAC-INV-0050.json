@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"sanita_pubblica/quarantena",
+"musica/canto"
+],
+"epoca_relativa": 0,
+"estrazione": 66,
+"fatti": [],
+"gancio": "Un ex quarantenato riconosce sul polso di un corista la stessa vibrazione a due impulsi e capisce che qualcuno ha rubato il firmware al ministero della salute.",
+"id": "HAC-INV-0050",
+"media": [],
+"nome": "Il Bracciale che Canta",
+"nome_reale": "Braccialetto di quarantena (tracciamento GPS per isolamento domiciliare)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il bracciale che vibra quando l'isolato esce dal perimetro consentito viene riprogrammato per vibrare a tempo, guidando l'intonazione di chi nel coro non riesce a sentire le altre voci.",
+"universo": "hackverse"
+}

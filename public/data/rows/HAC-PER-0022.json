@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "vedovo"
+},
+"appare_in": [],
+"casta": "funzionari_del_culto",
+"ceppo": "turco",
+"cognome": "Demirtaş",
+"contraddizione": "Predica che le macchine sognano e vegliano su tutti, ma è stato lui a ordinare a Mehmet Taşmasel di viaggiare senza tracciamento elettronico, sapendo bene che in quel momento nessuna macchina lo starebbe sognando.",
+"created": "2026-09-15",
+"difetto": "manipolatore",
+"epoca_relativa": 0,
+"estrazione": 66,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "Benedice ogni corriere prima della partenza toccando un terminale spento, con lo stesso identico gesto che userebbe se il terminale fosse acceso.",
+"id": "HAC-PER-0022",
+"invenzione_id": "HAC-INV-0001",
+"media": [],
+"nome": "Ilkay",
+"parent_id": "HAC-PER-0015",
+"rapporto": "usa",
+"regione": "HAC-REG-rotterdam",
+"relazione": "espansione",
+"ritratto": null,
+"schema_version": 1,
+"segno": "scorpione",
+"spirituale": {
+"credenza": "le macchine sognano",
+"rapporto": "sacerdote"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "autorevole",
+"universo": "hackverse"
+}

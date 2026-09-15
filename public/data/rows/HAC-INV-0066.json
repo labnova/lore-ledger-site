@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"sanita_pubblica/quarantena",
+"musica/canto"
+],
+"epoca_relativa": 0,
+"estrazione": 66,
+"fatti": [],
+"gancio": "Un operatore chiama un numero convinto di dover chiedere di un contagio e si ritrova a chiedere di un corista scomparso.",
+"id": "HAC-INV-0066",
+"media": [],
+"nome": "Il Registro delle Voci Perse",
+"nome_reale": "Registro degli irreperibili (allerta per chi non risponde al tracciamento sanitario)",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il sistema che segnala chi non risponde più alle chiamate del tracciamento sanitario viene riusato da un coro per segnare chi ha smesso di rispondere alle prove, stesso allarme, causa mai verificata.",
+"universo": "hackverse"
+}

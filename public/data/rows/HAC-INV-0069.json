@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"agricoltura/irrigazione",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 1,
+"estrazione": 66,
+"fatti": [],
+"gancio": "Il fornitore che vende le membrane di giorno tiene ora un secondo magazzino solo per gli scarti, e qualcuno paga per portarseli via prima dell'alba.",
+"id": "HAC-INV-0069",
+"media": [],
+"nome": "Il Resto Che Parla",
+"nome_reale": "Analisi della salamoia di scarto (monitoraggio chimico del concentrato di dissalazione)",
+"parent_id": "HAC-INV-0013",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Se Sale Tolto filtra il sangue con le stesse membrane che dissalano l'acqua, Il Resto Che Parla nasce quando qualcuno inizia ad analizzare lo scarto concentrato di quel filtraggio, la salamoia clinica, per leggere nei sali di rigetto quello che il sangue ripulito non mostra più.",
+"universo": "hackverse"
+}

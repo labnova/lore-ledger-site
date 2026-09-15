@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"sanita_pubblica/quarantena",
+"musica/canto"
+],
+"epoca_relativa": 0,
+"estrazione": 66,
+"fatti": [],
+"gancio": "Un infermiere riconosce tra i cantanti in fila la stessa vecchia signora a cui ha fatto il richiamo la mattina.",
+"id": "HAC-INV-0064",
+"media": [],
+"nome": "L'Hub delle Voci",
+"nome_reale": "Hub vaccinale (campagna di massa organizzata per fasce orarie)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Gli hub vaccinali che smistano migliaia di persone in fasce orarie vengono riconvertiti di notte in audizioni di massa, stesso ingresso, stessa fila, prenotazione diversa.",
+"universo": "hackverse"
+}

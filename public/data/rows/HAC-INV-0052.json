@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"sanita_pubblica/quarantena",
+"musica/canto"
+],
+"epoca_relativa": 0,
+"estrazione": 66,
+"fatti": [],
+"gancio": "Un tecnico si accorge che l'impianto misura il canto e non i germi, e nessuno gli sa spiegare perché.",
+"id": "HAC-INV-0052",
+"media": [],
+"nome": "La Luce che Zittisce",
+"nome_reale": "Decontaminazione UV (lampade germicida nei reparti di isolamento)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Le lampade UV-C che sterilizzano l'aria dei reparti vengono installate sopra un palco, tarate per spegnersi solo quando il pubblico smette di cantare, non di parlare.",
+"universo": "hackverse"
+}

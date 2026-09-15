@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"sanita_pubblica/quarantena",
+"musica/canto"
+],
+"epoca_relativa": 0,
+"estrazione": 66,
+"fatti": [],
+"gancio": "Una cantante scopre di essere \"zona rossa\" da settimane senza che nessuno glielo abbia detto in faccia.",
+"id": "HAC-INV-0067",
+"media": [],
+"nome": "La Scala delle Voci a Rischio",
+"nome_reale": "Codice colore delle zone (livello di rischio epidemiologico regionale)",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il codice colore che classifica il rischio epidemiologico di una regione viene riusato per classificare il rischio vocale di un cantante, giallo se stona poco, rosso se rischia di far chiudere il coro.",
+"universo": "hackverse"
+}

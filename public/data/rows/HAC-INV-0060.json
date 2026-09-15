@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"sanita_pubblica/quarantena",
+"musica/canto"
+],
+"epoca_relativa": 0,
+"estrazione": 66,
+"fatti": [],
+"gancio": "Un dodicesimo cantante si presenta a ogni prova, e nessuno ha il coraggio di dirgli che non è nell'elenco.",
+"id": "HAC-INV-0060",
+"media": [],
+"nome": "La Bolla che Risuona",
+"nome_reale": "Bolla sociale (gruppo ristretto autorizzato a incontrarsi durante il lockdown)",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "L'elenco delle persone autorizzate a incontrarsi legalmente in una bolla sociale diventa la lista chiusa di un coro clandestino, undici nomi e nessuno di più, pena la multa.",
+"universo": "hackverse"
+}

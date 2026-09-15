@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"sanita_pubblica/quarantena",
+"musica/canto"
+],
+"epoca_relativa": 0,
+"estrazione": 66,
+"fatti": [],
+"gancio": "I dispositivi montati per sanzionare chi canta in strada finiscono per registrare, di notte, un concerto abusivo perfetto.",
+"id": "HAC-INV-0058",
+"media": [],
+"nome": "La Zona Muta",
+"nome_reale": "Sorveglianza acustica della zona rossa (microfoni per contenimento contagio)",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "I microfoni installati per multare chi si assembra a cantare nella zona rossa vengono riusati di notte da un'etichetta discografica clandestina come garanzia di silenzio assoluto per registrare senza rumori di fondo.",
+"universo": "hackverse"
+}

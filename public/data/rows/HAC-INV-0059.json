@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"sanita_pubblica/quarantena",
+"musica/canto"
+],
+"epoca_relativa": 0,
+"estrazione": 66,
+"fatti": [],
+"gancio": "Un addetto ai varchi respinge un cantante non per la temperatura ma perché \"la sua voce ha la febbre\".",
+"id": "HAC-INV-0059",
+"media": [],
+"nome": "L'Occhio che Sente la Voce",
+"nome_reale": "Termoscanner (rilevamento febbre a distanza tramite termocamera)",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La termocamera che misura la febbre all'ingresso viene affiancata da un microfono che misura l'altezza della voce, febbre e stonatura filtrate dallo stesso schermo.",
+"universo": "hackverse"
+}

@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"sanita_pubblica/quarantena",
+"musica/canto"
+],
+"epoca_relativa": 0,
+"estrazione": 66,
+"fatti": [],
+"gancio": "Un algoritmo pensato per prevedere focolai da un aumento di tosse inizia a prevedere defezioni dal coro da un aumento di stonature.",
+"id": "HAC-INV-0055",
+"media": [],
+"nome": "Il Diario delle Note Stonate",
+"nome_reale": "Registro dei sintomi (diario giornaliero compilato dai quarantenati)",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il modulo che chiede ai quarantenati di segnare febbre e tosse ogni giorno diventa il diario vocale di un corista, che segna ogni nota sbagliata al posto dei sintomi.",
+"universo": "hackverse"
+}

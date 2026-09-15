@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"sanita_pubblica/quarantena",
+"musica/canto"
+],
+"epoca_relativa": 0,
+"estrazione": 66,
+"fatti": [],
+"gancio": "Un funzionario timbra senza leggere migliaia di moduli in cui il motivo dello spostamento è sempre lo stesso, \"raggiungere il coro\".",
+"id": "HAC-INV-0062",
+"media": [],
+"nome": "Il Modulo Intonato",
+"nome_reale": "Autocertificazione (modulo di spostamento durante il coprifuoco)",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il foglio da compilare per giustificare uno spostamento durante il coprifuoco chiede ora anche di indicare \"il motivo canoro\" del viaggio, come se cantare fosse un'urgenza sanitaria.",
+"universo": "hackverse"
+}

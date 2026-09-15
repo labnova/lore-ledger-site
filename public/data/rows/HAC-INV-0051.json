@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"sanita_pubblica/quarantena",
+"musica/canto"
+],
+"epoca_relativa": 0,
+"estrazione": 66,
+"fatti": [],
+"gancio": "Un soprano scopre che il suo cartellino rosso non riguarda la voce, ma un esito di tampone mai comunicato a nessuno.",
+"id": "HAC-INV-0051",
+"media": [],
+"nome": "Lo Spartito dei Colori",
+"nome_reale": "Protocollo di triage (assegnazione di codici colore in pronto soccorso)",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il sistema che assegna un colore di priorità ai pazienti in arrivo viene adattato per assegnare le voci nel coro in base allo stesso colore, senza che i cantanti sappiano di essere smistati anche per rischio di contagio.",
+"universo": "hackverse"
+}

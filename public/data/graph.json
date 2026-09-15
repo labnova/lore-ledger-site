@@ -191,6 +191,11 @@
 "to": "HAC-INV-0048"
 },
 {
+"from": "HAC-INV-0013",
+"kind": "parent",
+"to": "HAC-INV-0069"
+},
+{
 "from": "NEO-INV-0001",
 "kind": "regione",
 "to": "NEO-REG-calvenna"
@@ -1057,6 +1062,36 @@
 },
 {
 "from": "HAC-PER-0020",
+"kind": "regione",
+"to": "HAC-REG-rotterdam"
+},
+{
+"from": "HAC-PER-0005",
+"kind": "parent",
+"to": "HAC-PER-0021"
+},
+{
+"from": "HAC-PER-0021",
+"kind": "invenzione",
+"to": "HAC-INV-0001"
+},
+{
+"from": "HAC-PER-0021",
+"kind": "regione",
+"to": "HAC-REG-tallinn"
+},
+{
+"from": "HAC-PER-0015",
+"kind": "parent",
+"to": "HAC-PER-0022"
+},
+{
+"from": "HAC-PER-0022",
+"kind": "invenzione",
+"to": "HAC-INV-0001"
+},
+{
+"from": "HAC-PER-0022",
 "kind": "regione",
 "to": "HAC-REG-rotterdam"
 },
@@ -3831,6 +3866,21 @@
 "to": "NEO-REG-sarakan"
 },
 {
+"from": "NEO-GAD-0072",
+"kind": "invenzione",
+"to": "NEO-INV-0044"
+},
+{
+"from": "NEO-GAD-0072",
+"kind": "personaggio",
+"to": "NEO-PER-0073"
+},
+{
+"from": "NEO-GAD-0072",
+"kind": "regione",
+"to": "NEO-REG-zastavena"
+},
+{
 "from": "STE-GAD-0001",
 "kind": "invenzione",
 "to": "STE-INV-0001"
@@ -6285,6 +6335,132 @@
 "universo": "hackverse"
 },
 {
+"id": "HAC-INV-0049",
+"tipo": "invenzione",
+"titolo": "Coro dei Contatti",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0050",
+"tipo": "invenzione",
+"titolo": "Il Bracciale che Canta",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0051",
+"tipo": "invenzione",
+"titolo": "Lo Spartito dei Colori",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0052",
+"tipo": "invenzione",
+"titolo": "La Luce che Zittisce",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0053",
+"tipo": "invenzione",
+"titolo": "Il Lasciapassare che Intona",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0054",
+"tipo": "invenzione",
+"titolo": "Il Cerchio che Canta",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0055",
+"tipo": "invenzione",
+"titolo": "Il Diario delle Note Stonate",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0056",
+"tipo": "invenzione",
+"titolo": "La Maschera che Intona",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0057",
+"tipo": "invenzione",
+"titolo": "Il Modello del Coro Perduto",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0058",
+"tipo": "invenzione",
+"titolo": "La Zona Muta",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0059",
+"tipo": "invenzione",
+"titolo": "L'Occhio che Sente la Voce",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0060",
+"tipo": "invenzione",
+"titolo": "La Bolla che Risuona",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0061",
+"tipo": "invenzione",
+"titolo": "Il Tampone che Ascolta",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0062",
+"tipo": "invenzione",
+"titolo": "Il Modulo Intonato",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0063",
+"tipo": "invenzione",
+"titolo": "La Stanza che Non Lascia Uscire la Voce",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0064",
+"tipo": "invenzione",
+"titolo": "L'Hub delle Voci",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0065",
+"tipo": "invenzione",
+"titolo": "Il Metro che Accorda",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0066",
+"tipo": "invenzione",
+"titolo": "Il Registro delle Voci Perse",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0067",
+"tipo": "invenzione",
+"titolo": "La Scala delle Voci a Rischio",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0068",
+"tipo": "invenzione",
+"titolo": "Il Kit dell'Intonazione",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0069",
+"tipo": "invenzione",
+"titolo": "Il Resto Che Parla",
+"universo": "hackverse"
+},
+{
 "id": "HAC-PER-0001",
 "tipo": "personaggio",
 "titolo": "Misaki Ikaguchi",
@@ -6402,6 +6578,18 @@
 "id": "HAC-PER-0020",
 "tipo": "personaggio",
 "titolo": "Nadja Bergschmidt",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0021",
+"tipo": "personaggio",
+"titolo": "Kenji Arase",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0022",
+"tipo": "personaggio",
+"titolo": "Ilkay Demirtaş",
 "universo": "hackverse"
 },
 {
@@ -6858,6 +7046,12 @@
 "id": "NEO-GAD-0071",
 "tipo": "gadget",
 "titolo": "Il Diario Vocale su Cilindro di Cera",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0072",
+"tipo": "gadget",
+"titolo": "Il Sacco dei Nodi Superstiti",
 "universo": "neofeudal"
 },
 {

@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "single"
+},
+"appare_in": [],
+"casta": "broker_di_dati",
+"ceppo": "giapponese",
+"cognome": "Arase",
+"contraddizione": "Crede che i dati non mentano mai, eppure studia sotto Signe Holdesen proprio per imparare a leggere i log che lei stessa ha truccato, senza accorgersi che il suo maestro è la prova vivente del contrario.",
+"created": "2026-09-15",
+"difetto": "ingenuo",
+"epoca_relativa": 1,
+"estrazione": 66,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Trascrive fedelmente in un quaderno ogni timestamp che Signe gli mostra, convinto di imparare il coraggio, mentre copia pazientemente una menzogna dopo l'altra.",
+"id": "HAC-PER-0021",
+"invenzione_id": "HAC-INV-0001",
+"media": [],
+"nome": "Kenji",
+"parent_id": "HAC-PER-0005",
+"rapporto": "studia",
+"regione": "HAC-REG-tallinn",
+"relazione": "espansione",
+"ritratto": null,
+"schema_version": 1,
+"segno": "capricorno",
+"spirituale": {
+"credenza": "i dati non mentono mai",
+"rapporto": "agnostico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "umile",
+"universo": "hackverse"
+}

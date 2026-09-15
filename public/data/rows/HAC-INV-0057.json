@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"sanita_pubblica/quarantena",
+"musica/canto"
+],
+"epoca_relativa": 0,
+"estrazione": 66,
+"fatti": [],
+"gancio": "Un matematico usa lo stesso foglio di calcolo per due consulenze diverse e consegna per sbaglio il grafico sbagliato al cliente sbagliato.",
+"id": "HAC-INV-0057",
+"media": [],
+"nome": "Il Modello del Coro Perduto",
+"nome_reale": "Modello SIR (simulazione epidemiologica susceptible-infected-recovered)",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Le equazioni che prevedono quanti si ammaleranno in un focolaio vengono riscritte per prevedere quanti coristi smetteranno di cantare in un coro, il contagio sostituito dalla stanchezza.",
+"universo": "hackverse"
+}
