@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "vedovo"
+},
+"appare_in": [],
+"casta": "ingegneri",
+"ceppo": "arabo",
+"cognome": "Bin-kayeh",
+"contraddizione": "Crede che non esista altro dio che i registri, e li tiene con un rigore da amanuense, ma mente regolarmente sulle date di consegna delle chiatte per strappare nuovi contratti, tradendo con la lingua ciò che venera con la penna.",
+"created": "2026-09-15",
+"difetto": "bugiardo",
+"epoca_relativa": 0,
+"estrazione": 68,
+"eta_fascia": "adulto",
+"fatti": [],
+"gancio": "Il suo registro delle consegne promesse è una calligrafia impeccabile e interamente inventata.",
+"id": "STE-PER-0015",
+"invenzione_id": "STE-INV-0001",
+"media": [],
+"nome": "Ibrahim",
+"parent_id": null,
+"rapporto": "vende",
+"regione": "STE-REG-qattoum",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "capricorno",
+"spirituale": {
+"credenza": "nessun_dio_solo_registri",
+"rapporto": "indifferente"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "rigoroso",
+"universo": "steamverse"
+}

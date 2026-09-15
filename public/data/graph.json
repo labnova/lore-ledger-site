@@ -406,6 +406,16 @@
 "to": "STE-INV-0026"
 },
 {
+"from": "STE-INV-0026",
+"kind": "parent",
+"to": "STE-INV-0027"
+},
+{
+"from": "STE-INV-0017",
+"kind": "parent",
+"to": "STE-INV-0028"
+},
+{
 "from": "CYB-PER-0001",
 "kind": "invenzione",
 "to": "CYB-INV-0015"
@@ -2019,6 +2029,106 @@
 "from": "STE-PER-0010",
 "kind": "regione",
 "to": "STE-REG-ledoskol"
+},
+{
+"from": "STE-PER-0011",
+"kind": "invenzione",
+"to": "STE-INV-0001"
+},
+{
+"from": "STE-PER-0011",
+"kind": "regione",
+"to": "STE-REG-qattoum"
+},
+{
+"from": "STE-PER-0012",
+"kind": "invenzione",
+"to": "STE-INV-0001"
+},
+{
+"from": "STE-PER-0012",
+"kind": "regione",
+"to": "STE-REG-qattoum"
+},
+{
+"from": "STE-PER-0013",
+"kind": "invenzione",
+"to": "STE-INV-0001"
+},
+{
+"from": "STE-PER-0013",
+"kind": "regione",
+"to": "STE-REG-qattoum"
+},
+{
+"from": "STE-PER-0014",
+"kind": "invenzione",
+"to": "STE-INV-0001"
+},
+{
+"from": "STE-PER-0014",
+"kind": "regione",
+"to": "STE-REG-qattoum"
+},
+{
+"from": "STE-PER-0015",
+"kind": "invenzione",
+"to": "STE-INV-0001"
+},
+{
+"from": "STE-PER-0015",
+"kind": "regione",
+"to": "STE-REG-qattoum"
+},
+{
+"from": "STE-PER-0016",
+"kind": "invenzione",
+"to": "STE-INV-0001"
+},
+{
+"from": "STE-PER-0016",
+"kind": "regione",
+"to": "STE-REG-qattoum"
+},
+{
+"from": "STE-PER-0017",
+"kind": "invenzione",
+"to": "STE-INV-0001"
+},
+{
+"from": "STE-PER-0017",
+"kind": "regione",
+"to": "STE-REG-qattoum"
+},
+{
+"from": "STE-PER-0018",
+"kind": "invenzione",
+"to": "STE-INV-0001"
+},
+{
+"from": "STE-PER-0018",
+"kind": "regione",
+"to": "STE-REG-qattoum"
+},
+{
+"from": "STE-PER-0019",
+"kind": "invenzione",
+"to": "STE-INV-0001"
+},
+{
+"from": "STE-PER-0019",
+"kind": "regione",
+"to": "STE-REG-qattoum"
+},
+{
+"from": "STE-PER-0020",
+"kind": "invenzione",
+"to": "STE-INV-0001"
+},
+{
+"from": "STE-PER-0020",
+"kind": "regione",
+"to": "STE-REG-qattoum"
 },
 {
 "from": "CYB-GAD-0001",
@@ -4194,6 +4304,11 @@
 "from": "NEO-SEM-0004",
 "kind": "regione",
 "to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-SEM-0005",
+"kind": "cluster",
+"to": "NEO-INV-0044"
 },
 {
 "from": "CYB-FAT-34885804207-1",
@@ -7979,6 +8094,12 @@
 "universo": "neofeudal"
 },
 {
+"id": "NEO-SEM-0005",
+"tipo": "seme",
+"titolo": "seme NEO-INV-0044",
+"universo": "neofeudal"
+},
+{
 "id": "STE-CON-0001",
 "tipo": "contenuto",
 "titolo": "Come si traccia la rotta d'inverno (archivio d'istruzione, Compagnia degli Aratri)",
@@ -8237,6 +8358,18 @@
 "universo": "steamverse"
 },
 {
+"id": "STE-INV-0027",
+"tipo": "invenzione",
+"titolo": "Il Patto delle Due Firme",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0028",
+"tipo": "invenzione",
+"titolo": "I Fogli dei Passi",
+"universo": "steamverse"
+},
+{
 "id": "STE-PER-0001",
 "tipo": "personaggio",
 "titolo": "Tatiana Gomiin",
@@ -8297,6 +8430,66 @@
 "universo": "steamverse"
 },
 {
+"id": "STE-PER-0011",
+"tipo": "personaggio",
+"titolo": "Nadia Khabbaz",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0012",
+"tipo": "personaggio",
+"titolo": "Nour Hayek",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0013",
+"tipo": "personaggio",
+"titolo": "Layla Tahhan",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0014",
+"tipo": "personaggio",
+"titolo": "Bilal Shalil",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0015",
+"tipo": "personaggio",
+"titolo": "Ibrahim Bin-kayeh",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0016",
+"tipo": "personaggio",
+"titolo": "Zainab Tasalawi",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0017",
+"tipo": "personaggio",
+"titolo": "Omar Raei",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0018",
+"tipo": "personaggio",
+"titolo": "Tariq Nasarihab",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0019",
+"tipo": "personaggio",
+"titolo": "Rashid Khayyat",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0020",
+"tipo": "personaggio",
+"titolo": "Mona Haddad",
+"universo": "steamverse"
+},
+{
 "id": "STE-REG-cancello-del-freddo",
 "tipo": "regione",
 "titolo": "Ledoskol",
@@ -8306,6 +8499,12 @@
 "id": "STE-REG-ledoskol",
 "tipo": "regione",
 "titolo": "Ledoskol",
+"universo": "steamverse"
+},
+{
+"id": "STE-REG-qattoum",
+"tipo": "regione",
+"titolo": "Qattoum",
 "universo": "steamverse"
 }
 ]

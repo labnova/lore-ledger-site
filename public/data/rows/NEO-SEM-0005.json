@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"cluster": "NEO-INV-0044",
+"created": "2026-09-15",
+"epoca_relativa": 0,
+"estrazione": 67,
+"fatti": [],
+"id": "NEO-SEM-0005",
+"media": [],
+"origine": "arricchimento",
+"ostacolo": "Igor Tesar, che tende ogni alba lo stesso filo come un ordine ancora valido del sergente Vel pur non credendo più al suo ritorno, controlla i paletti riga per riga durante la ronda, e un varco più largo di quello di Vera non gli sfuggirebbe.",
+"parent_id": null,
+"premessa": "Vera Vlanoski vuole allargare in permanenza il varco che sposta di nascosto nel filo dei pascoli chiusi, così che le famiglie sfollate dalle baracche possano portare oltre il confine non solo una capra ma il bestiame che permetterebbe loro di ricominciare.",
+"regione": null,
+"relazione": null,
+"rottura": "Oleg Peović custodisce nel sacco dei nodi smontati la prova che il decreto di sgombero fu scritto dopo la posa del primo tratto di filo, non prima; se quella prova emerge insieme al varco di Vera, il feudo potrebbe leggere le due cose come una sola cospirazione e non come due colpe separate.",
+"schema_version": 1,
+"status": "canon",
+"tipo": "seme",
+"tono": "cronaca dimessa, colpa che si accumula in silenzio",
+"universi": [
+"neofeudal"
+],
+"universo": "neofeudal"
+}

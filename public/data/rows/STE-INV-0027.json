@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"logistica/catena_del_freddo",
+"geografia/idrografia"
+],
+"epoca_relativa": 3,
+"estrazione": 68,
+"fatti": [],
+"gancio": "Un apprendista nota che le due firme sul suo rilievo sono state apposte lo stesso minuto, da due uffici a mezza giornata di barca di distanza.",
+"id": "STE-INV-0027",
+"media": [],
+"nome": "Il Patto delle Due Firme",
+"nome_reale": "Registro di controfirma che obbliga due funzionari di gilde diverse a validare insieme ogni copia del rilievo prima dell'archiviazione",
+"parent_id": "STE-INV-0026",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il registro nasce per spezzare lo stallo delle copie rispedite, ma le due firme finiscono per coprirsi a vicenda meglio di quanto coprissero la verità. Ora nessuna gilda porta colpa da sola, e la copia può restare archiviata senza che nessuno l'abbia davvero letta.",
+"universo": "steamverse"
+}

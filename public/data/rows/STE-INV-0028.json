@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"logistica/catena_del_freddo",
+"geografia/idrografia"
+],
+"epoca_relativa": 1,
+"estrazione": 68,
+"fatti": [],
+"gancio": "Un operaio chiede di vedere il proprio foglio e scopre che i margini sono più pieni delle colonne ufficiali.",
+"id": "STE-INV-0028",
+"media": [],
+"nome": "I Fogli dei Passi",
+"nome_reale": "Trascrizione manuale dei registri dell'Orecchio di Terra in fogli di turno consegnati ai caposquadra delle cantine",
+"parent_id": "STE-INV-0017",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "I fogli dovrebbero servire solo a programmare i turni di manutenzione, ma un caposquadra ha iniziato a segnare a margine chi arriva in ritardo, chi si ferma troppo vicino al vano ghiaccio, chi non compare affatto. La lista dei passi è diventata la lista di chi merita di essere licenziato.",
+"universo": "steamverse"
+}

@@ -1,0 +1,21 @@
+{
+"appare_in": [],
+"ceppo_dominante": "arabo",
+"created": "2026-09-15",
+"epoca_relativa": 0,
+"estrazione": 68,
+"fatti": [],
+"id": "STE-REG-qattoum",
+"media": [],
+"nome": "Qattoum",
+"note": "Porto di delta dove il fiume si divide in tre bracci salmastri; la gilda degli ingegneri del freddo costruisce e mantiene qui le chiatte refrigerate che risalgono la corrente fino alle città dell'interno, e quasi metà dei cognomi nasce ancora dal mestiere di chi ripara gli scafi.",
+"onomastica": "legata",
+"p_cognome_mestiere": 0.4,
+"parent_id": null,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "regione",
+"universo": "steamverse"
+}

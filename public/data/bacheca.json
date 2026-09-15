@@ -30,12 +30,12 @@
 },
 {
 "chiusa_il": null,
-"creata": "2026-09-15T11:23:27Z",
+"creata": "2026-09-15T14:26:27Z",
 "esito": null,
-"id": "BAC-34962972865-1",
+"id": "BAC-34981586566-1",
 "payload": {
 "errore": "revisione BAC-34900933278-1: TettoSuperato: tetto LLM_MAX_CHIAMATE_RUN superato: 2 >= 2",
-"run_id": "34962972865",
+"run_id": "34981586566",
 "step": "revisione",
 "workflow": "riparatore"
 },
@@ -45,14 +45,14 @@
 "priorita": 2,
 "racconto": null,
 "righe": [
-"riparatore#34962972865#revisione"
+"riparatore#34981586566#revisione"
 ],
 "scade": null,
 "stato": "aperta",
 "storia": [
 {
 "da": "riparatore",
-"quando": "2026-09-15T11:23:27Z",
+"quando": "2026-09-15T14:26:27Z",
 "stato": "aperta"
 }
 ],
@@ -812,6 +812,55 @@
 {
 "da": "guardiano",
 "quando": "2026-09-15T11:23:23Z",
+"stato": "chiusa"
+}
+],
+"tentativi": 0,
+"tipo": "guasto",
+"universi": []
+},
+{
+"chiusa_il": "2026-09-15T14:26:24Z",
+"creata": "2026-09-15T11:23:27Z",
+"esito": "configurazione: Alzare il tetto per questa esecuzione invece di toccare retry.yml, che gestisce i limiti del modello e non i tetti di budget per run. Rilancia il workflow passa (logs/guasto-BAC-34962972865-1.md)",
+"id": "BAC-34962972865-1",
+"payload": {
+"diagnosi": {
+"classe": "configurazione",
+"comando": "gh workflow run riparatore.yml --ref main -f llm_max_chiamate_run=4",
+"diagnosi": "Il fallimento non è un errore di codice né di rete: il guardrail LLM_MAX_CHIAMATE_RUN ha bloccato la revisione BAC-34900933278-1 perché il run aveva già consumato 2 chiamate su un tetto di 2 (2 >= 2). La soglia è tarata sotto il fabbisogno reale dello step, quindi il run muore in modo deterministico: lo stesso input rifarebbe la terza chiamata e sbatterebbe di nuovo contro il tetto. Non è un guasto dei provider (claude -p / DeepSeek / Kimi) né del commit di lore-bot.",
+"rimedio": "Alzare il tetto per questa esecuzione invece di toccare retry.yml, che gestisce i limiti del modello e non i tetti di budget per run. Rilancia il workflow passando un LLM_MAX_CHIAMATE_RUN più alto (es. 4) e, se il valore è hardcoded in engine/llm.py o nel workflow, aprilo come input così il prossimo run non si ripresenta uguale.",
+"ritenta_automaticamente": false
+},
+"errore": "revisione BAC-34900933278-1: TettoSuperato: tetto LLM_MAX_CHIAMATE_RUN superato: 2 >= 2",
+"run_id": "34962972865",
+"step": "revisione",
+"workflow": "riparatore"
+},
+"postata_da": "riparatore",
+"presa_da": "guardiano",
+"presa_il": "2026-09-15T14:26:17Z",
+"priorita": 2,
+"racconto": null,
+"righe": [
+"riparatore#34962972865#revisione"
+],
+"scade": "2026-09-15T20:26:17Z",
+"stato": "chiusa",
+"storia": [
+{
+"da": "riparatore",
+"quando": "2026-09-15T11:23:27Z",
+"stato": "aperta"
+},
+{
+"da": "guardiano",
+"quando": "2026-09-15T14:26:17Z",
+"stato": "presa"
+},
+{
+"da": "guardiano",
+"quando": "2026-09-15T14:26:24Z",
 "stato": "chiusa"
 }
 ],

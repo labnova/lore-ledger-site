@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "pansessuale",
+"situazione": "promesso_per_contratto"
+},
+"appare_in": [],
+"casta": "ingegneri",
+"ceppo": "arabo",
+"cognome": "Shalil",
+"contraddizione": "È stato meticoloso fin dal primo scafo che ha costruito, ma la paranoia lo spinge a non consegnare mai i disegni completi della camera refrigerante a un apprendista, convinto che chiunque li tocchi voglia sostituirlo, contro ogni regola della gilda che vuole il mestiere tramandato per intero.",
+"created": "2026-09-15",
+"difetto": "paranoico",
+"epoca_relativa": 0,
+"estrazione": 68,
+"eta_fascia": "anziano",
+"fatti": [],
+"gancio": "Ribatte in ogni chiatta che ispeziona un sigillo nascosto che solo lui sa leggere, nel caso il cantiere provi a dire che il disegno non è mai stato suo.",
+"id": "STE-PER-0014",
+"invenzione_id": "STE-INV-0001",
+"media": [],
+"nome": "Bilal",
+"parent_id": null,
+"rapporto": "costruita",
+"regione": "STE-REG-qattoum",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "bilancia",
+"spirituale": {
+"credenza": "ciclo_del_ritorno",
+"rapporto": "indifferente"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "meticoloso",
+"universo": "steamverse"
+}

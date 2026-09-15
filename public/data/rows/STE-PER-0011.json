@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "bisessuale",
+"situazione": "relazione_segreta"
+},
+"appare_in": [],
+"casta": "ingegneri",
+"ceppo": "arabo",
+"cognome": "Khabbaz",
+"contraddizione": "Devota al proprio banco fino a saltare i pasti, crede che le caldaie delle Barche Bianche sognino sotto pressione, e di notte parla alle valvole come a un paziente da calmare, cosa che il regolamento della gilda considera più vicina alla superstizione che alla manutenzione.",
+"created": "2026-09-15",
+"difetto": "paranoico",
+"epoca_relativa": 0,
+"estrazione": 68,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Tiene un quaderno privato dove annota gli \"umori\" del motore come fossero sintomi, e lo nasconde agli ispettori sotto il doppio fondo della sua cassetta degli attrezzi.",
+"id": "STE-PER-0011",
+"invenzione_id": "STE-INV-0001",
+"media": [],
+"nome": "Nadia",
+"parent_id": null,
+"rapporto": "usa",
+"regione": "STE-REG-qattoum",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "toro",
+"spirituale": {
+"credenza": "le_macchine_sognano",
+"rapporto": "mistico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "devoto_al_lavoro",
+"universo": "steamverse"
+}

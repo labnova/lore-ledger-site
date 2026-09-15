@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "asessuale",
+"situazione": "vedovo"
+},
+"appare_in": [],
+"casta": "ingegneri",
+"ceppo": "arabo",
+"cognome": "Raei",
+"contraddizione": "È generoso fino all'imprudenza, e presta i suoi appunti sul ciclo di refrigerazione a chiunque glieli chieda, senza capire, per la sua ingenuità, che un \"amico\" li sta copiando per un cantiere rivale che vuole soffiare il contratto ai suoi maestri.",
+"created": "2026-09-15",
+"difetto": "ingenuo",
+"epoca_relativa": 0,
+"estrazione": 68,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Non sa ancora che l'amico che gli prende in prestito il quaderno lavora per il cantiere che vuole rubare l'appalto del freddo.",
+"id": "STE-PER-0017",
+"invenzione_id": "STE-INV-0001",
+"media": [],
+"nome": "Omar",
+"parent_id": null,
+"rapporto": "studia",
+"regione": "STE-REG-qattoum",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "vergine",
+"spirituale": {
+"credenza": "ciclo_del_ritorno",
+"rapporto": "indifferente"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "generoso",
+"universo": "steamverse"
+}

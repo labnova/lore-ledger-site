@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "bisessuale",
+"situazione": "sposato"
+},
+"appare_in": [],
+"casta": "ingegneri",
+"ceppo": "arabo",
+"cognome": "Tasalawi",
+"contraddizione": "La sua inventiva ha prodotto una modifica alla valvola di sfogo che potrebbe salvare vite in caso di sovrapressione, ma la codardia le impedisce di proporla ai maestri della gilda, per paura di essere incolpata se qualcosa va storto.",
+"created": "2026-09-15",
+"difetto": "codardo",
+"epoca_relativa": 0,
+"estrazione": 68,
+"eta_fascia": "adulto",
+"fatti": [],
+"gancio": "La modifica resta saldata sotto un pannello, senza etichetta, in attesa di un ispettore abbastanza curioso da trovarla e prendersene il merito.",
+"id": "STE-PER-0016",
+"invenzione_id": "STE-INV-0001",
+"media": [],
+"nome": "Zainab",
+"parent_id": null,
+"rapporto": "usa",
+"regione": "STE-REG-qattoum",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "acquario",
+"spirituale": {
+"credenza": "ciclo_del_ritorno",
+"rapporto": "scettico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "inventivo",
+"universo": "steamverse"
+}
