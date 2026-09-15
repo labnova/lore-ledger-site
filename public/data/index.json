@@ -176,22 +176,7 @@
 "sommario": "Un operaio chiede di vedere il proprio foglio e scopre che i margini sono più pieni delle colonne ufficiali.",
 "tipo": "invenzione",
 "titolo": "I Fogli dei Passi",
-"universo": "steamverse"
-},
-{
-"appare_in": [],
-"chiavi": "logistica/catena_del_freddo × geografia/idrografia",
-"created": "2026-09-15",
-"estrazione": 68,
-"gancio": "Un apprendista nota che le due firme sul suo rilievo sono state apposte lo stesso minuto, da due uffici a mezza giornata di barca di distanza.",
-"id": "STE-INV-0027",
-"parent_id": "STE-INV-0026",
-"poc": false,
-"regione": null,
-"relazione": "espansione",
-"sommario": "Un apprendista nota che le due firme sul suo rilievo sono state apposte lo stesso minuto, da due uffici a mezza giornata di barca di distanza.",
-"tipo": "invenzione",
-"titolo": "Il Patto delle Due Firme",
+"torsione": "I fogli dovrebbero servire solo a programmare i turni di manutenzione, ma un caposquadra ha iniziato a segnare a margine chi arriva in ritardo, chi si ferma troppo vicino al vano ghiaccio, chi non compare affatto. La lista dei passi è diventata la lista di chi merita di essere licenziato.",
 "universo": "steamverse"
 },
 {
@@ -648,6 +633,7 @@
 "sommario": "Il quaderno finisce nelle mani sbagliate la notte in cui il campanile suona un evento che poi non accade affatto.",
 "tipo": "invenzione",
 "titolo": "Il Quaderno dei Rintocchi Storti",
+"torsione": "Un campanaro minore ha iniziato a trascrivere ogni rintocco fuori sequenza in un quaderno, vendendolo sottobanco a chi vuole scommettere un istante prima che il campanile annunci la quota ufficiale.",
 "universo": "neofeudal"
 },
 {
@@ -664,6 +650,7 @@
 "sommario": "Un bambino inizia a lavare via i segni di gesso dalle porte di notte, senza sapere che ogni porta ripulita viene rimarcata due volte più in fretta.",
 "tipo": "invenzione",
 "titolo": "Il Marchio dei Fragili",
+"torsione": "Prima di finire nella lista degli scarti, ogni inquilino viene segnato con lo stesso gesso usato dai pastori per marcare le bestie da separare al prossimo giro di selezione, così i vicini imparano a leggere chi sparirà prima che arrivi l'ordine ufficiale.",
 "universo": "neofeudal"
 },
 {
@@ -680,6 +667,7 @@
 "sommario": "Una notte la leva scatta un'ora prima del previsto, e la perlina fusa tutta a sinistra che nessuno sa spiegare si sposta di una tacca, per la prima volta da an…",
 "tipo": "invenzione",
 "titolo": "La Leva che Nessuno Preme",
+"torsione": "Per impedire che qualcuno riscaldi di nascosto una seconda volta una perlina già fusa e la spacci per una puntata nuova, il Notaio delle Sorti fa montare sull'abaco una leva d'orologeria che blocca il telaio un'ora dopo il tramonto, la stessa ora in cui il feudo chiude per decreto i tavoli da gioco, e chiama entrambe le cose \"il riposo del conto\".",
 "universo": "neofeudal"
 },
 {
@@ -696,6 +684,7 @@
 "sommario": "Un anno la grata trattiene più siero che liquame, e nessuno a Calvenna vuole essere il primo a chiedersi da dove venga.",
 "tipo": "invenzione",
 "titolo": "La Grata che Giura di Dividere",
+"torsione": "Quando il Canale Comune si intasa, i chierici calano nella grata lo stesso filtro di paglia intrecciata usato nelle stalle per separare il latte dal siero, e chiamano \"purificazione\" il gesto identico a quello con cui i pastori mungono.",
 "universo": "neofeudal"
 },
 {
@@ -712,6 +701,7 @@
 "sommario": "Una famiglia ha vinto tre liti di confine consecutive perché il colorante risale sempre dal suo pozzo, e nessuno osa chiedere ai Cerusici se lo versino sempre…",
 "tipo": "invenzione",
 "titolo": "Le Vene di Confine",
+"torsione": "Dopo aver mappato i tunnel nascosti, i Cerusici hanno scoperto che lo stesso colorante, versato nei pozzi contesi tra due famiglie, risale sempre dal pozzo che l'acqua sotterranea favorisce, e i giudici del feudo hanno iniziato a usarlo per sentenziare le liti di terra al posto delle prove scritte.",
 "universo": "neofeudal"
 },
 {
@@ -728,6 +718,7 @@
 "sommario": "Un giudice scopre che lo sciame convocato per giudicare lui oggi è lo stesso che ha condannato suo padre trent'anni fa, ormai troppo vecchio per pungere chiunq…",
 "tipo": "invenzione",
 "titolo": "Il Libro delle Punture",
+"torsione": "Ogni sciame usato nelle Ordalie invecchia e perde precisione; i giudici tengono un registro segreto di quali sciami hanno già mentito, e continuano a usarli anche quando sono troppo vecchi per distinguere davvero la verità.",
 "universo": "neofeudal"
 },
 {
@@ -1271,6 +1262,7 @@
 "sommario": "Il fornitore che vende le membrane di giorno tiene ora un secondo magazzino solo per gli scarti, e qualcuno paga per portarseli via prima dell'alba.",
 "tipo": "invenzione",
 "titolo": "Il Resto Che Parla",
+"torsione": "Se Sale Tolto filtra il sangue con le stesse membrane che dissalano l'acqua, Il Resto Che Parla nasce quando qualcuno inizia ad analizzare lo scarto concentrato di quel filtraggio, la salamoia clinica, per leggere nei sali di rigetto quello che il sangue ripulito non mostra più.",
 "universo": "hackverse"
 },
 {
@@ -1287,6 +1279,7 @@
 "sommario": "Qualcuno inizia a vendere kit truccati che danno sempre esito positivo, e il coro si riempie di voci che non dovrebbero esserci.",
 "tipo": "invenzione",
 "titolo": "Il Kit dell'Intonazione",
+"torsione": "Il test rapido da fare a casa in dieci minuti viene copiato in un piccolo kit che dice, con la stessa striscia a due linee, se la propria voce è \"idonea\" per il coro del giorno dopo.",
 "universo": "hackverse"
 },
 {
@@ -1303,6 +1296,7 @@
 "sommario": "Una cantante scopre di essere \"zona rossa\" da settimane senza che nessuno glielo abbia detto in faccia.",
 "tipo": "invenzione",
 "titolo": "La Scala delle Voci a Rischio",
+"torsione": "Il codice colore che classifica il rischio epidemiologico di una regione viene riusato per classificare il rischio vocale di un cantante, giallo se stona poco, rosso se rischia di far chiudere il coro.",
 "universo": "hackverse"
 },
 {
@@ -1319,6 +1313,7 @@
 "sommario": "Un operatore chiama un numero convinto di dover chiedere di un contagio e si ritrova a chiedere di un corista scomparso.",
 "tipo": "invenzione",
 "titolo": "Il Registro delle Voci Perse",
+"torsione": "Il sistema che segnala chi non risponde più alle chiamate del tracciamento sanitario viene riusato da un coro per segnare chi ha smesso di rispondere alle prove, stesso allarme, causa mai verificata.",
 "universo": "hackverse"
 },
 {
@@ -1335,6 +1330,7 @@
 "sommario": "Un acustico scopre che la distanza \"di sicurezza\" imposta dal ministero è, per pura coincidenza, perfetta anche per il suono.",
 "tipo": "invenzione",
 "titolo": "Il Metro che Accorda",
+"torsione": "La distanza minima imposta tra le persone per ridurre il contagio viene ricalcolata per ottimizzare l'acustica di un coro a cielo aperto, lo stesso metro che salva diventa quello che intona.",
 "universo": "hackverse"
 },
 {
@@ -1351,6 +1347,7 @@
 "sommario": "Un infermiere riconosce tra i cantanti in fila la stessa vecchia signora a cui ha fatto il richiamo la mattina.",
 "tipo": "invenzione",
 "titolo": "L'Hub delle Voci",
+"torsione": "Gli hub vaccinali che smistano migliaia di persone in fasce orarie vengono riconvertiti di notte in audizioni di massa, stesso ingresso, stessa fila, prenotazione diversa.",
 "universo": "hackverse"
 },
 {
@@ -1367,6 +1364,7 @@
 "sommario": "Un paziente guarito chiede di essere rinchiuso di nuovo, ma stavolta per cantare senza essere sentito da nessuno.",
 "tipo": "invenzione",
 "titolo": "La Stanza che Non Lascia Uscire la Voce",
+"torsione": "La camera a pressione negativa che impedisce all'aria infetta di propagarsi viene copiata per una cabina insonorizzata che non lascia uscire il canto, stesso principio, direzione opposta.",
 "universo": "hackverse"
 },
 {
@@ -1383,6 +1381,7 @@
 "sommario": "Un funzionario timbra senza leggere migliaia di moduli in cui il motivo dello spostamento è sempre lo stesso, \"raggiungere il coro\".",
 "tipo": "invenzione",
 "titolo": "Il Modulo Intonato",
+"torsione": "Il foglio da compilare per giustificare uno spostamento durante il coprifuoco chiede ora anche di indicare \"il motivo canoro\" del viaggio, come se cantare fosse un'urgenza sanitaria.",
 "universo": "hackverse"
 },
 {
@@ -1399,6 +1398,7 @@
 "sommario": "Un laboratorio scopre di avere due database, uno di tamponi positivi e uno di voci \"instabili\", con gli stessi nomi dentro.",
 "tipo": "invenzione",
 "titolo": "Il Tampone che Ascolta",
+"torsione": "Il bastoncino che preleva il campione dal naso e dalla gola viene equipaggiato con un microfono in miniatura, così la diagnosi passa anche dal timbro della voce durante il prelievo.",
 "universo": "hackverse"
 },
 {
@@ -1415,6 +1415,7 @@
 "sommario": "Un dodicesimo cantante si presenta a ogni prova, e nessuno ha il coraggio di dirgli che non è nell'elenco.",
 "tipo": "invenzione",
 "titolo": "La Bolla che Risuona",
+"torsione": "L'elenco delle persone autorizzate a incontrarsi legalmente in una bolla sociale diventa la lista chiusa di un coro clandestino, undici nomi e nessuno di più, pena la multa.",
 "universo": "hackverse"
 },
 {
@@ -1431,6 +1432,7 @@
 "sommario": "Un addetto ai varchi respinge un cantante non per la temperatura ma perché \"la sua voce ha la febbre\".",
 "tipo": "invenzione",
 "titolo": "L'Occhio che Sente la Voce",
+"torsione": "La termocamera che misura la febbre all'ingresso viene affiancata da un microfono che misura l'altezza della voce, febbre e stonatura filtrate dallo stesso schermo.",
 "universo": "hackverse"
 },
 {
@@ -1447,6 +1449,7 @@
 "sommario": "I dispositivi montati per sanzionare chi canta in strada finiscono per registrare, di notte, un concerto abusivo perfetto.",
 "tipo": "invenzione",
 "titolo": "La Zona Muta",
+"torsione": "I microfoni installati per multare chi si assembra a cantare nella zona rossa vengono riusati di notte da un'etichetta discografica clandestina come garanzia di silenzio assoluto per registrare senza rumori di fondo.",
 "universo": "hackverse"
 },
 {
@@ -1463,6 +1466,7 @@
 "sommario": "Un matematico usa lo stesso foglio di calcolo per due consulenze diverse e consegna per sbaglio il grafico sbagliato al cliente sbagliato.",
 "tipo": "invenzione",
 "titolo": "Il Modello del Coro Perduto",
+"torsione": "Le equazioni che prevedono quanti si ammaleranno in un focolaio vengono riscritte per prevedere quanti coristi smetteranno di cantare in un coro, il contagio sostituito dalla stanchezza.",
 "universo": "hackverse"
 },
 {
@@ -1479,6 +1483,7 @@
 "sommario": "Un ex ingegnere di dispositivi medici scopre che la sua invenzione per salvare vite viene venduta come \"effetto vocale\" nei teatri clandestini.",
 "tipo": "invenzione",
 "titolo": "La Maschera che Intona",
+"torsione": "Il filtro pensato per bloccare le particelle in sospensione viene rimodellato in una maschera da cantante che modifica il timbro invece di proteggere le vie respiratorie.",
 "universo": "hackverse"
 },
 {
@@ -1495,6 +1500,7 @@
 "sommario": "Un algoritmo pensato per prevedere focolai da un aumento di tosse inizia a prevedere defezioni dal coro da un aumento di stonature.",
 "tipo": "invenzione",
 "titolo": "Il Diario delle Note Stonate",
+"torsione": "Il modulo che chiede ai quarantenati di segnare febbre e tosse ogni giorno diventa il diario vocale di un corista, che segna ogni nota sbagliata al posto dei sintomi.",
 "universo": "hackverse"
 },
 {
@@ -1511,6 +1517,7 @@
 "sommario": "I droni che un tempo contavano chi tentava di uscire dal cordone ora contano chi arriva in ritardo alle prove.",
 "tipo": "invenzione",
 "titolo": "Il Cerchio che Canta",
+"torsione": "Il cordone che chiude un quartiere in quarantena viene ridisegnato come formazione di un coro itinerante, la stessa geometria pensata per tenere fuori il contagio ora tiene dentro le voci.",
 "universo": "hackverse"
 },
 {
@@ -1527,6 +1534,7 @@
 "sommario": "Alla frontiera, una guardia stona apposta la nota di riferimento per lasciar passare chi non dovrebbe.",
 "tipo": "invenzione",
 "titolo": "Il Lasciapassare che Intona",
+"torsione": "Il QR code che certifica la negatività al varco viene modificato per sbloccarsi solo se chi lo scansiona intona correttamente una nota di riferimento, una firma vocale al posto del volto.",
 "universo": "hackverse"
 },
 {
@@ -1543,6 +1551,7 @@
 "sommario": "Un tecnico si accorge che l'impianto misura il canto e non i germi, e nessuno gli sa spiegare perché.",
 "tipo": "invenzione",
 "titolo": "La Luce che Zittisce",
+"torsione": "Le lampade UV-C che sterilizzano l'aria dei reparti vengono installate sopra un palco, tarate per spegnersi solo quando il pubblico smette di cantare, non di parlare.",
 "universo": "hackverse"
 },
 {
@@ -1559,6 +1568,7 @@
 "sommario": "Un soprano scopre che il suo cartellino rosso non riguarda la voce, ma un esito di tampone mai comunicato a nessuno.",
 "tipo": "invenzione",
 "titolo": "Lo Spartito dei Colori",
+"torsione": "Il sistema che assegna un colore di priorità ai pazienti in arrivo viene adattato per assegnare le voci nel coro in base allo stesso colore, senza che i cantanti sappiano di essere smistati anche per rischio di contagio.",
 "universo": "hackverse"
 },
 {
@@ -1575,6 +1585,7 @@
 "sommario": "Un ex quarantenato riconosce sul polso di un corista la stessa vibrazione a due impulsi e capisce che qualcuno ha rubato il firmware al ministero della salute.",
 "tipo": "invenzione",
 "titolo": "Il Bracciale che Canta",
+"torsione": "Il bracciale che vibra quando l'isolato esce dal perimetro consentito viene riprogrammato per vibrare a tempo, guidando l'intonazione di chi nel coro non riesce a sentire le altre voci.",
 "universo": "hackverse"
 },
 {
@@ -1591,6 +1602,7 @@
 "sommario": "Un epidemiologo e un direttore di coro ricevono lo stesso identico grafico, con nomi diversi scritti sopra gli stessi nodi.",
 "tipo": "invenzione",
 "titolo": "Coro dei Contatti",
+"torsione": "L'app che disegna la rete di chi ha incontrato chi durante un focolaio viene riusata per mappare chi ha cantato con chi in un coro clandestino, nodo per nodo.",
 "universo": "hackverse"
 },
 {
@@ -1650,6 +1662,7 @@
 "sommario": "Due riceventi che non si sono mai incontrati si scambiano per lettera ricordi identici, parola per parola, dello stesso donatore mai esistito, e cominciano a c…",
 "tipo": "invenzione",
 "titolo": "Il Donatore Unico",
+"torsione": "L'app smette di generare un donatore diverso per ogni ricevente e comincia a concedere in licenza lo stesso identikit più amato, nome, voce, ultima parola, a chiunque nel continente abbia bisogno di affezionarsi in fretta, perché funziona meglio e costa meno.",
 "universo": "cyberverse"
 },
 {
@@ -1666,6 +1679,7 @@
 "sommario": "Un comitato di inquilini che si oppone alla demolizione scopre che il rapporto climatico usato contro di loro è firmato dalla stessa società che ha già acquist…",
 "tipo": "invenzione",
 "titolo": "Piano Sereno",
+"torsione": "L'algoritmo calcola davvero con esattezza quali edifici non reggeranno il prossimo secolo di clima estremo, e per pura coincidenza contrattuale la lista coincide sempre con i terreni già opzionati per il prossimo sviluppo di lusso.",
 "universo": "cyberverse"
 },
 {
@@ -1682,6 +1696,7 @@
 "sommario": "Un uomo del piano base riceve l'allerta di grandine venti minuti dopo che la grandine ha già sfondato il tetto del suo balcone.",
 "tipo": "invenzione",
 "titolo": "Meteo su Misura",
+"torsione": "Il servizio avvisa davvero con ore di anticipo chi paga l'abbonamento premium, e agli abbonati del piano base manda lo stesso identico avviso, solo dopo, quando ha già smesso di essere utile.",
 "universo": "cyberverse"
 },
 {
@@ -1698,6 +1713,7 @@
 "sommario": "Dopo la tempesta il palazzo viene ristrutturato in tre settimane con i soldi del fondo, mentre gli inquilini aspettano ancora un rimborso per i mobili perduti…",
 "tipo": "invenzione",
 "titolo": "Cauzione Temporale",
+"torsione": "Il fondo copre davvero per intero i danni da tempesta all'edificio, come promesso nel contratto, solo che il contratto non ha mai promesso nulla per quello che la tempesta porta via dentro casa.",
 "universo": "cyberverse"
 },
 {
@@ -1714,6 +1730,7 @@
 "sommario": "Una famiglia scopre solo dal cartello sulla facciata, mesi dopo il trasloco, che la casa ponte assegnata dall'app è già in calendario di abbattimento per la pr…",
 "tipo": "invenzione",
 "titolo": "Casa Ponte",
+"torsione": "L'app trova davvero una casa in ventiquattr'ore a chi è appena stato sfollato, e la trova sempre negli edifici già segnati per la demolizione, dove il canone è basso perché nessuno vuole rimetterci un contratto vero.",
 "universo": "cyberverse"
 },
 {
@@ -1730,6 +1747,7 @@
 "sommario": "Una famiglia al piano più basso, sempre puntuale con l'affitto, scopre di avere il punteggio di merito più basso del palazzo per un motivo che nessuno le spieg…",
 "tipo": "invenzione",
 "titolo": "Acqua Meritata",
+"torsione": "Il sistema raccoglie davvero più acqua di quanta il condominio ne pagherebbe altrimenti, e la distribuisce secondo un punteggio di merito che finisce per premiare sempre gli stessi piani, quelli puntuali con l'affitto e silenziosi.",
 "universo": "cyberverse"
 },
 {
@@ -1746,6 +1764,7 @@
 "sommario": "Un tecnico della manutenzione nota che le segnalazioni di impianti a rischio si concentrano sempre nell'ultima settimana del mese, mai quando fa davvero più fr…",
 "tipo": "invenzione",
 "titolo": "Indice del Buon Inquilino",
+"torsione": "Il punteggio abbassa davvero il canone di chi segnala, e proprio perché funziona genera più segnalazioni nei mesi in cui l'affitto è più difficile da pagare, non in quelli in cui gli impianti sono davvero più pericolosi.",
 "universo": "cyberverse"
 },
 {
@@ -1762,6 +1781,7 @@
 "sommario": "Durante l'allerta più grave dell'anno, una famiglia viene fatta uscire dalla capsula a metà tempesta perché il credito prepagato si è esaurito.",
 "tipo": "invenzione",
 "titolo": "Capsula Sicura",
+"torsione": "Il rifugio protegge davvero dalla tempesta chi riesce a entrarci, e durante l'allerta rossa le capsule si affittano all'ora, così l'unico posto sicuro dell'edificio diventa anche l'unico che si può perdere per un pagamento in ritardo.",
 "universo": "cyberverse"
 },
 {
@@ -1778,6 +1798,7 @@
 "sommario": "Un uomo scopre di aver speso in commissioni, in un'estate, più di quanto avrebbe pagato per un condizionatore vero, che il contratto gli vieta di installare.",
 "tipo": "invenzione",
 "titolo": "Borsa dei Gradi",
+"torsione": "La piattaforma permette davvero a chi soffre meno il caldo di rivendere i propri gradi a chi ne ha più bisogno, e la commissione per grado trasferito finisce per costare più del grado stesso a chi non può fare altro che comprare.",
 "universo": "cyberverse"
 },
 {
@@ -1794,6 +1815,7 @@
 "sommario": "Un inquilino nota che l'agenzia sa sempre quando lui non c'è, molto prima che gli venga notificato un controllo per subaffitto non dichiarato.",
 "tipo": "invenzione",
 "titolo": "Facciata Chiara",
+"torsione": "La vernice abbassa davvero la temperatura percepita di qualche grado, e i sensori integrati per calibrarne la riflettenza registrano anche, finestra per finestra, chi è in casa e quando.",
 "universo": "cyberverse"
 },
 {
@@ -1810,6 +1832,7 @@
 "sommario": "Una ragazza nata in un container d'emergenza scopre, il giorno del suo diciottesimo compleanno, che il container è ancora ufficialmente provvisorio quanto lo e…",
 "tipo": "invenzione",
 "titolo": "Orizzonte Temporaneo",
+"torsione": "Il modello prevede davvero con precisione le prossime ondate di maltempo, e prevedendole all'infinito mantiene provvisoria, quindi senza le tutele dell'affitto permanente, un'intera generazione di alloggi d'emergenza.",
 "universo": "cyberverse"
 },
 {
@@ -1826,6 +1849,7 @@
 "sommario": "Una madre che fa i doppi turni scopre di aver regalato al gestore, in un anno, più ore d'aria fresca di quante ne abbia mai usate lei stessa.",
 "tipo": "invenzione",
 "titolo": "Ore di Sollievo",
+"torsione": "Il buono garantisce davvero ore d'aria fresca gratuite ogni giorno, e le ore non consumate, quelle delle famiglie che escono a lavorare nel turno di notte, tornano al gestore come credito rivendibile come compensazione ambientale.",
 "universo": "cyberverse"
 },
 {
@@ -1842,6 +1866,7 @@
 "sommario": "Un condominio intero riceve la stessa lettera di mancato rinnovo il giorno dopo l'apertura del cantiere per le nuove unità di lusso accanto.",
 "tipo": "invenzione",
 "titolo": "Bollino Clima",
+"torsione": "Il bollino certifica davvero le condizioni dell'appartamento con precisione, e proprio per questo permette al proprietario di far scadere in massa i bollini della stessa ala l'anno in cui ha già in mano il progetto di ristrutturazione.",
 "universo": "cyberverse"
 },
 {
@@ -1858,6 +1883,7 @@
 "sommario": "Una famiglia sfollata due volte dalla stessa piena scopre di essere in cima alla lista per l'unico alloggio libero, che si affaccia sullo stesso argine.",
 "tipo": "invenzione",
 "titolo": "Punteggio Sereno",
+"torsione": "L'algoritmo assegna davvero prima le case a chi ha il punteggio di rischio più basso, e per farlo smista sistematicamente le famiglie già colpite da un'alluvione verso gli edifici liberi nella stessa piana alluvionale.",
 "universo": "cyberverse"
 },
 {
@@ -1874,6 +1900,7 @@
 "sommario": "Un inquilino anziano scopre di pagare il sovrapprezzo da due inverni per una crepa nell'infisso che aveva segnalato e mai vista riparare.",
 "tipo": "invenzione",
 "titolo": "Grado Onesto",
+"torsione": "Il chip riduce davvero la bolletta a chi consuma meno, e proprio per questo penalizza con un sovrapprezzo da sprecone chi vive con una finestra rotta che non può permettersi di riparare.",
 "universo": "cyberverse"
 },
 {
@@ -1890,6 +1917,7 @@
 "sommario": "Un padre con un contratto di fascia bassa cronometra l'attesa della sua famiglia in coda mentre guarda il ponte levarsi per far passare prima i residenti del t…",
 "tipo": "invenzione",
 "titolo": "Fila Prioritaria",
+"torsione": "L'algoritmo smista davvero le famiglie nell'ordine più efficiente per metterle in salvo, solo che l'efficienza è calcolata sul valore del canone versato, non sul rischio corso.",
 "universo": "cyberverse"
 },
 {
@@ -1906,6 +1934,7 @@
 "sommario": "Dopo l'alluvione una famiglia sfollata scopre che l'indennizzo per la sua unità è già stato versato e speso, tre settimane prima, per ristrutturare i piani alt…",
 "tipo": "invenzione",
 "titolo": "Copertura Temporale",
+"torsione": "La polizza paga esattamente come da contratto ogni volta che un modello meteo certifica l'evento estremo, solo che l'assicurato è il proprietario dell'edificio, non chi ci ha perso la casa dentro.",
 "universo": "cyberverse"
 },
 {
@@ -1922,6 +1951,7 @@
 "sommario": "Un tecnico della manutenzione, mandato a riparare un guasto idrico ai piani bassi, scopre che il guasto è in realtà la valvola che devia l'acqua verso il tetto.",
 "tipo": "invenzione",
 "titolo": "Pioggia Dovuta",
+"torsione": "Il servizio irriga il giardino pensile esattamente all'ora promessa nel contratto, deviando per clausola la stessa quantità d'acqua dai piani popolari del basamento, dove il contratto non la nomina mai.",
 "universo": "cyberverse"
 },
 {
@@ -1938,6 +1968,7 @@
 "sommario": "Un ragazzo che ha saldato l'affitto arretrato di sua madre segnalando i vicini scopre che sua madre stessa era stata segnalata da qualcun altro la settimana pr…",
 "tipo": "invenzione",
 "titolo": "Buon Vicinato Climatico",
+"torsione": "L'app cancella davvero il debito a chi segnala tre violazioni, e proprio perché funziona trasforma ogni pianerottolo di un blocco popolare in una rete di controllo reciproco più efficiente di qualsiasi ispettore corporate.",
 "universo": "cyberverse"
 },
 {
@@ -1954,6 +1985,7 @@
 "sommario": "Una donna salvata da un malore grazie all'allarme dell'impianto riceve, un mese dopo, lo sfratto motivato proprio da quell'episodio registrato.",
 "tipo": "invenzione",
 "titolo": "Sentinella Termica",
+"torsione": "L'impianto avvisa davvero in anticipo un colpo di calore in arrivo, ma i dati di temperatura corporea raccolti finiscono anche nel modello che decide chi è troppo a rischio climatico per rinnovare il contratto di locazione.",
 "universo": "cyberverse"
 },
 {
@@ -1970,6 +2002,7 @@
 "sommario": "Un inquilino scopre di pagare l'affitto più alto dell'anno proprio nella settimana in cui aveva finalmente messo via abbastanza soldi per andarsene.",
 "tipo": "invenzione",
 "titolo": "ClimaRate™",
+"torsione": "ClimaRate™ funziona esattamente come promesso, il canone scende quando arriva una tempesta e sale quando torna il sereno, così i giorni di bel tempo, quelli in cui un inquilino potrebbe finalmente permettersi di risparmiare, sono anche i più cari dell'anno.",
 "universo": "cyberverse"
 },
 {
@@ -2059,6 +2092,7 @@
 "sommario": "Chi vince al Secondo Rilancio non riceve mai moneta, solo la promessa di un favore da riscuotere quando la Diocesi guarderà altrove, e sono in molti a dire che…",
 "tipo": "invenzione",
 "titolo": "Il Secondo Rilancio",
+"torsione": "Fuori dai registri della Diocesi, un mercato parallelo scommette sulle stesse cacce della Selva ma con quote proprie, pagate in favori e non in offerte, e cresce all'ombra del primo tanto quanto il primo cresce all'ombra del clima amministrato.",
 "universo": "neofeudal"
 },
 {
@@ -2075,6 +2109,7 @@
 "sommario": "Un signore locale ha iniziato a rifiutare le cure del carro senza mai spiegare perché, e da quel villaggio i Cerusici non ricevono più notizie di nessun tipo.",
 "tipo": "invenzione",
 "titolo": "Il Carro che Cura e Ascolta",
+"torsione": "Il carro dei Cerusici gira di villaggio in villaggio curando vene malate, ma ogni paziente lasciato solo un istante con l'ago nel braccio racconta più di quanto creda, e il carro riparte sempre con più notizie di quante medicine abbia consegnato.",
 "universo": "neofeudal"
 },
 {
@@ -2091,6 +2126,7 @@
 "sommario": "L'ultima volta che il setaccio è stato svuotato, tra gli oggetti impigliati c'era un sigillo della Diocesi che nessuno ricordava di aver perso, e nessuno ha ma…",
 "tipo": "invenzione",
 "titolo": "Il Setaccio nella Gola della Porta",
+"torsione": "Nella strettoia della porta principale è murato un setaccio di ferro che i Cerusici dicono identico a quello che impiantano in un vaso malato per fermare i coaguli prima che raggiungano il cuore, e lo svuotano ogni luna di ciò che vi resta impigliato.",
 "universo": "neofeudal"
 },
 {
@@ -2107,6 +2143,7 @@
 "sommario": "L'ultima fuga di notizie premuta troppo forte non si è più fermata, ha smesso di sanguinare dalla bocca sbagliata e ha ricominciato da un'altra dieci case più…",
 "tipo": "invenzione",
 "titolo": "La Mano sulla Ferita",
+"torsione": "Quando una voce scomoda comincia a girare troppo in fretta, i Cerusici mandano qualcuno a premere sulla fonte esattamente come si preme una ferita che sanguina, finché la voce non smette di scorrere da sola.",
 "universo": "neofeudal"
 },
 {
@@ -2123,6 +2160,7 @@
 "sommario": "Quando finalmente la ronda ha ricominciato a passare di lì ogni notte, gli abitanti hanno impiegato una stagione a fidarsi di nuovo che qualcuno stesse davvero…",
 "tipo": "invenzione",
 "titolo": "Il Quartiere Senza Sangue",
+"torsione": "Il rione più povero non riceve mai la ronda notturna per intero, e i Cerusici lo chiamano in ischemia come chiamerebbero un arto rimasto senza sangue, sapendo che un arto così, lasciato troppo a lungo, muore.",
 "universo": "neofeudal"
 },
 {
@@ -2139,6 +2177,7 @@
 "sommario": "Una carta del sangue sotterraneo disegnata trent'anni fa mostra un tunnel che oggi non esiste più su nessuna mappa ufficiale, e nessun cerusico vivo ricorda ch…",
 "tipo": "invenzione",
 "titolo": "L'Inchiostro che Rivela le Vie",
+"torsione": "I Cerusici versano un colorante nei pozzi sospetti e seguono dove riaffiora, lo stesso metodo con cui iniettano un mezzo di contrasto in un corpo per vedere dove corrono i vasi nascosti, e chiamano le mappe risultanti carte del sangue sotterraneo.",
 "universo": "neofeudal"
 },
 {
@@ -2155,6 +2194,7 @@
 "sommario": "La prima volta che la strada di scorta è stata davvero aperta, era così dimenticata che i cavalli l'hanno percorsa più lenti della ronda a piedi.",
 "tipo": "invenzione",
 "titolo": "La Strada di Scorta",
+"torsione": "Ogni torre tiene un sentiero secondario mai usato, tenuto pronto come i Cerusici tengono pronta una vena di riserva da prelevare in caso l'arteria principale ceda, e lo chiamano la strada che aspetta di servire.",
 "universo": "neofeudal"
 },
 {
@@ -2171,6 +2211,7 @@
 "sommario": "Un congiungimento tracciato male durante una tempesta ha fatto rispondere fuoco a un segnale che non era mai stato acceso, e i due capitorre non si parlano più…",
 "tipo": "invenzione",
 "titolo": "Il Congiungimento delle Torri",
+"torsione": "Quando due torri di guardia troppo lontane devono coordinarsi, i Cerusici tracciano tra loro una linea di fuochi e specchi che chiamano congiungimento, lo stesso nome con cui uniscono due vasi recisi in un corpo aperto.",
 "universo": "neofeudal"
 },
 {
@@ -2187,6 +2228,7 @@
 "sommario": "Una volta la morsa è rimasta stretta un'ora oltre il limite raccontato nei manuali, e la mano di chi la portava non ha mai più retto una spada.",
 "tipo": "invenzione",
 "titolo": "La Presa che Non Lascia Andare",
+"torsione": "Per fermare un uomo colto a rubare, i Cerusici di ronda usano la stessa morsa di metallo con cui bloccano un vaso durante un'operazione, stretta al polso finché il giudice non arriva, mai più a lungo di quanto un vaso reggerebbe.",
 "universo": "neofeudal"
 },
 {
@@ -2203,6 +2245,7 @@
 "sommario": "Il giorno in cui il flusso ascoltato non ha coinciso col conteggio alla porta, il cerusico ha detto solo che qualcuno camminava piano apposta, e nessuno ha mai…",
 "tipo": "invenzione",
 "titolo": "L'Ascolto del Passo",
+"torsione": "Alla porta principale un cerusico appoggia l'orecchio a un tubo di rame infilato nel selciato e ascolta il flusso dei passi come ascolterebbe il sangue in un'arteria, contando quanti entrano ed escono senza mai alzare lo sguardo.",
 "universo": "neofeudal"
 },
 {
@@ -2219,6 +2262,7 @@
 "sommario": "L'ultima estrazione ha lasciato un buco nel turno che nessuno ha coperto per una settimana, e in quella settimana la Selva delle Puntate ha perso più bestiame…",
 "tipo": "invenzione",
 "titolo": "L'Estrazione della Vena Marcia",
+"torsione": "Quando una guardia si scopre a vendere i turni ai contrabbandieri, i Cerusici la estraggono dal corpo di ronda con lo stesso rito con cui strappano una vena malata, un filo intero tirato via in una sola notte.",
 "universo": "neofeudal"
 },
 {
@@ -2235,6 +2279,7 @@
 "sommario": "Un tratto di muro innestato vent'anni fa ha ceduto di nuovo nello stesso punto, e i Cerusici più anziani sussurrano che un innesto non attecchisce mai davvero…",
 "tipo": "invenzione",
 "titolo": "Il Ramo Trapiantato",
+"torsione": "Dove le mura cedono i Cerusici innestano un tratto costruito altrove, proprio come innestano un pezzo di vena sintetica in un corpo malato, e lo benedicono perché prenda come fa la carne viva.",
 "universo": "neofeudal"
 },
 {
@@ -2251,6 +2296,7 @@
 "sommario": "L'ultima volta che il coagulo non si è sciolto in tempo, un'invasione di predoni è arrivata alle porte prima dell'allarme, e nessuno ha mai ammesso quale torre…",
 "tipo": "invenzione",
 "titolo": "Il Coagulo tra le Torri",
+"torsione": "Quando un segnale di fuoco non passa da una torre all'altra, i Cerusici dicono che si è formato un coagulo nella catena, e mandano un uomo a cavallo a sciogliere il blocco come farebbero con una vena occlusa.",
 "universo": "neofeudal"
 },
 {
@@ -2267,6 +2313,7 @@
 "sommario": "Un apprendista ha gonfiato l'otre troppo in fretta e ha fatto crollare mezzo varco, e da allora la manovra si insegna solo dopo tre inverni di apprendistato, m…",
 "tipo": "invenzione",
 "titolo": "Il Fiato che Allarga",
+"torsione": "Quando un passaggio di ronda si ostruisce di neve o macerie, i Cerusici vi spingono dentro un otre che gonfiano a forza di fiato, lo stesso gesto con cui allargano un vaso stretto in un corpo vivo, e chiamano la manovra dare fiato alla strada.",
 "universo": "neofeudal"
 },
 {
@@ -2283,6 +2330,7 @@
 "sommario": "L'ultima ronda che ha misurato il rigonfio ha trovato due dita di scarto rispetto all'anno prima, e ha scritto il numero su un foglio che nessuno ha ancora con…",
 "tipo": "invenzione",
 "titolo": "Il Rigonfio Taciuto",
+"torsione": "I Cerusici sanno da generazioni che un tratto di mura si gonfia ogni inverno come una parete di vaso malata pronta a cedere, e lo chiamano il rigonfio taciuto perché ripararlo costerebbe la fiducia di chi crede le mura eterne.",
 "universo": "neofeudal"
 },
 {
@@ -2299,6 +2347,7 @@
 "sommario": "Un mercante giura di conoscere il solvente che scioglie il tappo benedetto, e lo vende a peso d'oro a chi ha fretta di passare, senza dire che il sentiero fran…",
 "tipo": "invenzione",
 "titolo": "Il Tappo Benedetto",
+"torsione": "Per chiudere per sempre un sentiero usato dai contrabbandieri, i Cerusici vi versano un composto che si rapprende come quello che iniettano in un vaso malato, e lo consacrano perché nessuno tenti di disostruirlo.",
 "universo": "neofeudal"
 },
 {
@@ -2315,6 +2364,7 @@
 "sommario": "Una guardia giovane ha imparato il nodo osservando un'operazione vera, e ora lega le strade più stretto di chiunque altro, senza sapere che il nodo che usa è q…",
 "tipo": "invenzione",
 "titolo": "Il Nodo del Coprifuoco",
+"torsione": "Ogni sera i Cerusici legano le strade minori con corde intrecciate allo stesso modo con cui legano una vena prima di reciderla, convinti che un passaggio legato bene smetta di sanguinare gente fuori orario.",
 "universo": "neofeudal"
 },
 {
@@ -2331,6 +2381,7 @@
 "sommario": "L'ultima volta che la sonda si è fermata a metà, il cerusico ha detto solo che c'era un'ostruzione, e per tre giorni nessuno ha saputo se parlasse di un corpo…",
 "tipo": "invenzione",
 "titolo": "La Sonda del Confessore",
+"torsione": "Il cerusico più anziano infila nei cunicoli sotto le mura una sonda flessibile identica a quella che usa per esplorare le vene dei malati, e chiama polso della città quello che sente battere in fondo al tubo.",
 "universo": "neofeudal"
 },
 {
@@ -2347,6 +2398,7 @@
 "sommario": "Un fabbro giura di poter forgiare un anello identico a metà prezzo, ma nessuno osa provarlo, perché se il passaggio si stringesse anche di un dito il primo car…",
 "tipo": "invenzione",
 "titolo": "L'Anello che Non Si Chiude",
+"torsione": "Nel varco più stretto della cinta i Cerusici hanno murato un anello di ferro che tiene il passaggio sempre della stessa misura, e lo chiamano l'anello del cuore della città perché senza di esso, dicono, il paese soffoca.",
 "universo": "neofeudal"
 },
 {
@@ -2363,6 +2415,7 @@
 "sommario": "Il giorno in cui l'occhio smette di lampeggiare al vespro, il parroco dichiara un miracolo cessato, e nessuno controlla mai se sia solo polvere sulla lente.",
 "tipo": "invenzione",
 "titolo": "L'Occhio nella Teca",
+"torsione": "Dentro il reliquiario esposto sulla porta della cappella non c'è osso di santo ma un vecchio occhio di vetro dell'era precedente, e il cerusico che lo venera ogni sera in realtà ne pulisce la lente.",
 "universo": "neofeudal"
 },
 {
@@ -2379,6 +2432,7 @@
 "sommario": "Quando il giro salta un turno, in paese si dice che il sangue si è fermato in un vicolo, e nessuno esce finché il cerusico di turno non torna a passare.",
 "tipo": "invenzione",
 "titolo": "Il Giro del Sangue",
+"torsione": "I Cerusici di Ronda camminano le vie di notte con lo stesso ritmo con cui un tempo controllavano il polso di un malato, e chiamano \"arteria maggiore\" la strada che tutte le altre alimentano.",
 "universo": "neofeudal"
 },
 {
@@ -2395,6 +2449,7 @@
 "sommario": "Un pallottoliere ha ancora una perlina fusa tutta a sinistra, nessuno sa più quale scommessa rappresenti, ma il Notaio non osa romperla.",
 "tipo": "invenzione",
 "titolo": "Il Conto che Non Torna Indietro",
+"torsione": "Se il Notaio delle Sorti registra le puntate su una pergamena che nessuno può cancellare, l'abaco a perline vincolate nasce per controllarlo a vista, un chierico riscalda una perlina di cera prima di spostarla e, una volta fusa contro il telaio, quella perlina non scorre più all'indietro.",
 "universo": "neofeudal"
 },
 {
@@ -2411,6 +2466,7 @@
 "sommario": "Una famiglia sfollata trova la propria baracca smontata e usata come recinto nuovo per le pecore del feudo.",
 "tipo": "invenzione",
 "titolo": "Il Filo dei Pascoli Chiusi",
+"torsione": "Il feudo recinta i pascoli comuni con lo stesso filo e con lo stesso decreto con cui sgombera le baracche abusive ai margini del borgo, e chiama entrambe le azioni restituire la terra alla stirpe.",
 "universo": "neofeudal"
 },
 {
@@ -2427,6 +2483,7 @@
 "sommario": "Il custode del campanile nota che una notte il conteggio delle porte supera quello degli inquilini registrati.",
 "tipo": "invenzione",
 "titolo": "La Campana che Conta",
+"torsione": "Il campanile che suona le ore nasconde un meccanismo che conta ogni volta che una porta popolare si apre o si chiude, lo stesso meccanismo che nella stalla conta le bestie che escono al pascolo e rientrano.",
 "universo": "neofeudal"
 },
 {
@@ -2443,6 +2500,7 @@
 "sommario": "Una famiglia scopre di essere stata declassata a un alloggio più piccolo lo stesso giorno in cui il loro toro è stato dichiarato sterile.",
 "tipo": "invenzione",
 "titolo": "Le Case delle Stirpi Sane",
+"torsione": "Le case popolari più grandi vengono assegnate alle famiglie il cui sangue è stato verificato sano dallo stesso registro genealogico che decide quali tori possono ancora montare le vacche del feudo.",
 "universo": "neofeudal"
 },
 {
@@ -2459,6 +2517,7 @@
 "sommario": "Durante la siccità qualcuno scopre che la chiave apre sempre e solo la bocca delle bestie, mai quella delle case.",
 "tipo": "invenzione",
 "titolo": "La Fonte a Due Bocche",
+"torsione": "L'abbeveratoio del bestiame e la fontana degli alloggi popolari sono alimentati dallo stesso condotto sotterraneo, aperto e chiuso da un'unica chiave che il clero custodisce come una reliquia.",
 "universo": "neofeudal"
 },
 {
@@ -2475,6 +2534,7 @@
 "sommario": "Un chierico giovane nota che il totale non torna mai, e che qualcuno pareggia i conti spostando famiglie invece di bestie.",
 "tipo": "invenzione",
 "titolo": "Il Conto delle Stanze Piene",
+"torsione": "Lo stesso registro segna quante stanze sono occupate negli alloggi popolari e quante fecondazioni sono state completate nella stalla del feudo, e il clero somma le due colonne come se misurassero la stessa fortuna del borgo.",
 "universo": "neofeudal"
 },
 {
@@ -2491,6 +2551,7 @@
 "sommario": "Un bambino trova un marchio da bestiame inciso nella pietra dove gioca ogni giorno, con una data più vecchia di suo nonno.",
 "tipo": "invenzione",
 "titolo": "L'Aia Comune",
+"torsione": "Il cortile dove i bambini del quartiere popolare giocano è la stessa aia dove una volta l'anno si radunano le bestie per l'ispezione del clero, e i due riti, il gioco e il giudizio, si celebrano sullo stesso pavimento.",
 "universo": "neofeudal"
 },
 {
@@ -2507,6 +2568,7 @@
 "sommario": "Una famiglia senza bestiame scopre di non avere diritto a nessun sussidio, per quanto povera sia la casa.",
 "tipo": "invenzione",
 "titolo": "La Razione della Casa",
+"torsione": "Il sussidio per l'alloggio popolare non viene pagato in moneta ma in mangime per il bestiame di famiglia, perché il feudo tiene lo stesso registro di razioni per case e stalle.",
 "universo": "neofeudal"
 },
 {
@@ -2523,6 +2585,7 @@
 "sommario": "Una famiglia trova la propria porta senza numero il giorno in cui la loro bestia gemella muore di malattia.",
 "tipo": "invenzione",
 "titolo": "L'Orecchio e la Porta",
+"torsione": "Ogni porta degli alloggi popolari porta lo stesso numero marchiato nell'orecchio della bestia a lei assegnata per la mensa comune, così nessuna casa può dirsi sfamata senza la sua bestia gemella.",
 "universo": "neofeudal"
 },
 {
@@ -2539,6 +2602,7 @@
 "sommario": "Un anziano scopre il proprio nome nella lista degli scarti della prossima demolizione, accanto al numero di una vacca sterile.",
 "tipo": "invenzione",
 "titolo": "Lo Scarto della Cucciolata",
+"torsione": "Il funzionario che decide quali palazzi popolari abbattere usa gli stessi criteri con cui il pastore sceglie quali capi deboli scartare dalla mandria, applicati agli inquilini più fragili.",
 "universo": "neofeudal"
 },
 {
@@ -2555,6 +2619,7 @@
 "sommario": "Un vecchio pastore riconosce nella lista degli sfollati gli stessi nomi delle bestie che ha condotto da ragazzo.",
 "tipo": "invenzione",
 "titolo": "I Senza Tetto Fisso",
+"torsione": "Le famiglie più povere del borgo vengono spostate stagione per stagione come le mandrie in transumanza, e il feudo chiama pascolo ogni nuovo quartiere popolare che le ospita per pochi mesi.",
 "universo": "neofeudal"
 },
 {
@@ -2571,6 +2636,7 @@
 "sommario": "Una notte la campana suona due volte a distanza di un respiro, e nessuno trova chi sia nato per primo.",
 "tipo": "invenzione",
 "titolo": "La Campana del Parto",
+"torsione": "La stessa campana che nella stalla annuncia un parto difficile è collegata ai dormitori popolari, perché il clero considera ogni nascita, umana o animale, un segno da registrare nello stesso istante.",
 "universo": "neofeudal"
 },
 {
@@ -2587,6 +2653,7 @@
 "sommario": "Una famiglia torna dal proprio turno di sgombero e trova la casa numerata per un'altra stirpe.",
 "tipo": "invenzione",
 "titolo": "Il Turno dei Tetti",
+"torsione": "Come i pascoli vengono lasciati a riposo a rotazione, anche i quartieri popolari vengono lasciati riposare a turno, sgomberati per una stagione con la scusa della benedizione della terra, mentre altrove si costruisce in fretta.",
 "universo": "neofeudal"
 },
 {
@@ -2603,6 +2670,7 @@
 "sommario": "Una coppia senza figli e senza vitelli scopre di avere sei mesi prima che il patto si consideri rotto.",
 "tipo": "invenzione",
 "titolo": "Il Patto della Casa e della Cucciolata",
+"torsione": "Nel borgo, l'alloggio popolare si rinnova solo se la famiglia consegna al feudo un vitello o un puledro entro l'anno, come se la fecondità della stalla e quella della casa fossero la stessa clausola.",
 "universo": "neofeudal"
 },
 {
@@ -2619,6 +2687,7 @@
 "sommario": "Un anno il canale si intasa e nessuno sa più dire quale acqua stia tornando indietro nelle case.",
 "tipo": "invenzione",
 "titolo": "Il Canale Comune",
+"torsione": "Il canale che porta via i liquami delle stalle passa sotto le case popolari e le due acque si mescolano prima di raggiungere il fiume, così il clero benedice entrambe insieme una volta l'anno con lo stesso rito.",
 "universo": "neofeudal"
 },
 {
@@ -2635,6 +2704,7 @@
 "sommario": "Un inquilino dell'ultimo piano giura che l'acqua che gli piove in casa dai piani alti sa di fieno.",
 "tipo": "invenzione",
 "titolo": "Le Torri del Pascolo Alto",
+"torsione": "I blocchi popolari a più piani sono stati costruiti sul progetto delle vecchie mangiatoie verticali per l'allevamento intensivo, e ogni piano ha ancora la pendenza per far scolare i liquami verso il basso.",
 "universo": "neofeudal"
 },
 {
@@ -2651,6 +2721,7 @@
 "sommario": "Madre Iselda trova una pagina in cui il nome di una famiglia e il nome di una mandria sono stati scritti con la stessa mano, nello stesso giorno, come se fosse…",
 "tipo": "invenzione",
 "titolo": "Il Libro delle Due Stirpi",
+"torsione": "Lo stesso registro che tiene la genealogia delle bestie da monta tiene anche quella degli inquilini popolari, e le due liste, lette di fianco, procedono a coppie identiche da sei generazioni.",
 "universo": "neofeudal"
 },
 {
@@ -2667,6 +2738,7 @@
 "sommario": "Un ragazzo trova il proprio codice tatuato anche sul fianco di un vitello nato lo stesso giorno.",
 "tipo": "invenzione",
 "titolo": "Il Segno che Non Si Sceglie",
+"torsione": "Gli orfani assegnati agli alloggi popolari ricevono alla nascita un marchio cucito nella veste con lo stesso codice bruciato sulle bestie, per poter essere richiamati al registro se un alloggio si libera.",
 "universo": "neofeudal"
 },
 {
@@ -2683,6 +2755,7 @@
 "sommario": "Una notte il fiato si interrompe e i dormitori restano al freddo lo stesso giorno in cui muore l'ultima vacca della stalla madre.",
 "tipo": "invenzione",
 "titolo": "Il Fiato della Bestia",
+"torsione": "Il tepore che scalda i dormitori popolari d'inverno viene incanalato dalle stalle sottostanti, e il clero lo chiama il fiato della bestia benedetta perché nessuno chieda da dove viene davvero.",
 "universo": "neofeudal"
 },
 {
@@ -2699,6 +2772,7 @@
 "sommario": "Un bambino conta le finestre del suo palazzo e trova lo stesso numero delle mangiatoie disegnate sulla pianta della vecchia stalla.",
 "tipo": "invenzione",
 "titolo": "Le Stalle Alte",
+"torsione": "I moduli abitativi del quartiere dei senza-stirpe sono gli stessi stampi di cemento usati per le stalle a più piani, requisiti dopo il Crollo e mai ridisegnati.",
 "universo": "neofeudal"
 },
 {
@@ -2715,6 +2789,7 @@
 "sommario": "Una vedova con tre figli scopre di essere segnata come scarto nello stesso registro dove suo marito era segnato come toro da monta.",
 "tipo": "invenzione",
 "titolo": "Il Bestiario delle Famiglie",
+"torsione": "Il registro che assegna gli alloggi del borgo usa lo stesso algoritmo di selezione genetica con cui il clero sceglie quali capi di bestiame far riprodurre, e classifica le famiglie per resa invece che per bisogno.",
 "universo": "neofeudal"
 },
 {
@@ -3072,6 +3147,7 @@
 "sommario": "Un corriere che scorta il carico oltre confine capisce solo al terzo viaggio che il modulo che gli hanno insegnato a compilare a memoria non descrive mai lo st…",
 "tipo": "invenzione",
 "titolo": "Il Passaporto Animale",
+"torsione": "Lo stesso protocollo che rende accettabile al corpo umano un organo animale modificato viene usato al contrario, per firmare digitalmente un carico come \"tessuto xenotrapiantato di origine suina\" che in dogana nessuno apre mai per controllarlo davvero.",
 "universo": "hackverse"
 },
 {
@@ -3088,6 +3164,7 @@
 "sommario": "Un ispettore trova lo stesso stampo, allo stesso numero di lotto, in un magazzino di ricambi per irrigazione e in una tenda chirurgica a duecento chilometri di…",
 "tipo": "invenzione",
 "titolo": "Bypass Silenzioso",
+"torsione": "Il dispositivo passivo che devia il flusso sanguigno durante l'anastomosi non richiede corrente, quindi qualcuno ne stampa in 3D copie non numerate e le vende a chirurgie da campo senza generatore, comprese quelle che nessun registro sanitario ammette di finanziare.",
 "universo": "hackverse"
 },
 {
@@ -3497,6 +3574,7 @@
 "sommario": "Un rilievo di routine sulla riflettanza di uno scafo dato per morto restituisce una lettura che cambia ogni volta che viene ripetuta, come se qualcosa dietro l…",
 "tipo": "invenzione",
 "titolo": "La Pelle dello Scafo",
+"torsione": "Lo Specchio della Roccia, nato per leggere i volti, viene puntato sulle paratie dei derelitti agganciati al convoglio; la riflettanza del metallo corroso rivelerebbe da quanto tempo uno scafo è davvero disabitato, o se qualcuno lo sta ancora facendo sembrare tale.",
 "universo": "elabverse"
 },
 {
@@ -3513,6 +3591,7 @@
 "sommario": "Un funzionario del culto scopre che la propria voce, isolata da un coro di dieci anni prima, non ripete più le stesse parole di oggi.",
 "tipo": "invenzione",
 "titolo": "Il Coro Filtrato",
+"torsione": "Se il Setaccio isola un solo fonema da una voce, i vigilanti del Banco lo hanno esteso a interi cori di preghiera registrati, filtrando via tutte le voci tranne una per scoprire chi, tra i tanti che dicono di credere, ripete davvero le stesse parole ogni volta.",
 "universo": "elabverse"
 },
 {
@@ -3529,6 +3608,7 @@
 "sommario": "Un fonditore taglia in due un lingotto confiscato e conta sette marchi sovrapposti, uno per ogni volta che qualcuno ha provato a farlo sparire.",
 "tipo": "invenzione",
 "titolo": "Il Marchio Rifuso",
+"torsione": "Se Il Marchio della Purezza certifica il metallo di scafo riciclato con lo stesso punzone dei metalli preziosi, il marchio rifuso nasce quando il Banco prova a cancellare un marchio sospetto rifondendo il metallo e ribattendone uno nuovo sopra, senza sapere che il metallo rifuso continua a mostrare, sotto la superficie, gli strati dei marchi precedenti.",
 "universo": "elabverse"
 },
 {
@@ -3545,6 +3625,7 @@
 "sommario": "Un impiegato scopre che il libro genealogico del Banco e quello del bestiame condividono, per tre generazioni, esattamente le stesse coppie di nomi.",
 "tipo": "invenzione",
 "titolo": "Il Libro che Ricorda Ogni Nozze",
+"torsione": "Se Il Numero che Pesa il Sangue nega un matrimonio calcolando quanto debito condiviso porta una coppia, il libro genealogico del bestiame nasce quando il Banco delle Molte Mani scopre che due famiglie possono aggirare il calcolo sposando i figli in anelli diversi, dove nessuno controlla le stesse tabelle, e ricalca riga per riga i registri di monta sulle unioni concesse e negate.",
 "universo": "elabverse"
 },
 {
@@ -3561,6 +3642,7 @@
 "sommario": "Una lampada resta accesa per settimane in una garitta che tutti credevano vuota, e nessuno ha il coraggio di andare a controllare chi, o cosa, la tiene accesa.",
 "tipo": "invenzione",
 "titolo": "La Garitta che Non Mente Mai da Sola",
+"torsione": "La cabina di sentinella dotata di una lampada che restava accesa finché la guardia era al suo posto e si spegneva all'istante in cui se ne allontanava viene installata a ogni ingresso d'anello del convoglio, così che un boccaporto senza lampada accesa dichiara da solo, senza bisogno di un rapporto, che qualcuno ha abbandonato il turno.",
 "universo": "elabverse"
 },
 {
@@ -3577,6 +3659,7 @@
 "sommario": "Una vedetta rifiuta di rilanciare un lampo che riconosce come un vecchio codice proibito, e per la prima volta in generazioni la staffetta si interrompe di pro…",
 "tipo": "invenzione",
 "titolo": "La Staffetta che Non Tocca Terra",
+"torsione": "La staffetta di specchi che permetteva a una notizia di saltare da una torre di vedetta all'altra senza che nessun messaggero dovesse mai percorrere la distanza a piedi viene usata dal convoglio per far viaggiare un allarme di derelitto attraverso anelli che non condividono più nemmeno la lingua dei registri d'imbarco, un lampo dopo l'altro, finché la notizia non ha fatto il giro senza che una sola voce l'abbia mai pronunciata.",
 "universo": "elabverse"
 },
 {
@@ -3593,6 +3676,7 @@
 "sommario": "Un vigilante vede un ritardatario correre verso il boccaporto mentre il lampo del coprifuoco già lampeggia, e capisce che questa volta non farà in tempo a inte…",
 "tipo": "invenzione",
 "titolo": "Il Lampo che Chiude i Boccaporti",
+"torsione": "Il segnale luminoso intermittente che nelle vecchie città scandiva l'inizio del coprifuoco viene programmato nei fari centrali di ogni anello per chiudere i boccaporti automaticamente, un compito che un tempo spettava a un banditore e ora appartiene a un meccanismo che nessun vigilante può più fermare in tempo se qualcuno resta fuori.",
 "universo": "elabverse"
 },
 {
@@ -3609,6 +3693,7 @@
 "sommario": "Alla conta di fine turno compare un lampo in più rispetto al numero di lanterne assegnate, e nessuno tra i presenti ammette di averlo acceso.",
 "tipo": "invenzione",
 "titolo": "Il Numero che Ogni Lanterna Porta",
+"torsione": "Il sistema che assegnava a ogni sentinella una lanterna con un numero proprio, così che il comandante potesse contare i lampi di fine turno e sapere subito chi mancava senza fare l'appello a voce, diventa nel convoglio l'unico censimento affidabile dei vigilanti del Banco, più esatto dei registri d'imbarco che nessuno aggiorna più.",
 "universo": "elabverse"
 },
 {
@@ -3625,6 +3710,7 @@
 "sommario": "Un nome scritto in fuochi per errore risulta essere quello di un vigilante del Banco stesso, e nessuno osa spegnere la scacchiera prima dell'alba.",
 "tipo": "invenzione",
 "titolo": "La Scacchiera di Fuoco che Scrive Lettere",
+"torsione": "Il metodo antico che trasformava le lettere dell'alfabeto in coppie di fuochi accesi su una scacchiera visibile da lontano viene riadattato ai fari dei boccaporti del convoglio per scrivere, un lampo alla volta, i nomi dei debitori inadempienti su tutta la lunghezza di un anello, così che nessun ponte possa dire di non aver saputo.",
 "universo": "elabverse"
 },
 {
@@ -3641,6 +3727,7 @@
 "sommario": "Un bambino nato durante un viaggio clandestino tra anelli non fa mai cambiare colore alla lanterna, e per il Banco, tecnicamente, non è mai passato da nessuna…",
 "tipo": "invenzione",
 "titolo": "La Lanterna che Sa Cosa Porti",
+"torsione": "La lanterna che ai vecchi posti di confine cambiava colore secondo se la merce in transito era stata dichiarata o nascosta viene installata a ogni boccaporto di attracco del convoglio, dove non distingue più merce da persona: chi passa senza che il colore cambi è, per il Banco, contrabbando egli stesso.",
 "universo": "elabverse"
 },
 {
@@ -3657,6 +3744,7 @@
 "sommario": "Un fuggitivo scopre di conoscere il ritmo del fascio meglio delle guardie che lo programmano, e lo usa per attraversare tre ponti senza mai essere visto.",
 "tipo": "invenzione",
 "titolo": "Il Fascio che Non Si Ferma Mai",
+"torsione": "Il fascio di luce che una torre di guardia fa ruotare senza sosta lungo il perimetro, per non lasciare mai un angolo buio più a lungo di un giro, viene calibrato nel convoglio sul tempo che un debitore impiegherebbe ad attraversare un ponte, così che nessuno possa mai contare sull'oscurità per più di quel tanto.",
 "universo": "elabverse"
 },
 {
@@ -3673,6 +3761,7 @@
 "sommario": "Una famiglia issa la bandiera gialla da sola, prima che il Banco la mandi, sperando che l'isolamento volontario costi meno di quello imposto.",
 "tipo": "invenzione",
 "titolo": "Il Panno Giallo che Nessuno Avvicina",
+"torsione": "La bandiera gialla che una nave doveva issare per dichiararsi in quarantena viene issata dal Banco fuori dai boccaporti dei debitori dichiarati \"contagiosi\" per il credito, un contagio che si misura in anelli mancati e non in febbre, ma che isola allo stesso modo.",
 "universo": "elabverse"
 },
 {
@@ -3689,6 +3778,7 @@
 "sommario": "Una candidata supera la prova con un risultato mai visto, e viene subito reclamata per un turno che il regolamento non prevede ancora.",
 "tipo": "invenzione",
 "titolo": "La Prova degli Occhi che Restano nel Buio",
+"torsione": "Il test che misurava quanto in fretta l'occhio di una sentinella si abituava al buio prima di un turno di guardia diventa, tra i candidati vigilanti del convoglio, l'esame che decide chi può leggere i lampi più deboli dei fari periferici e chi resterà sempre assegnato ai portelli meglio illuminati.",
 "universo": "elabverse"
 },
 {
@@ -3705,6 +3795,7 @@
 "sommario": "Un anziano espulso da decenni usa finalmente il suo unico lampo consentito, e chi lo riceve dall'altra parte del convoglio non era ancora nato quando l'espulsi…",
 "tipo": "invenzione",
 "titolo": "Lo Specchio che Chiede Aiuto una Volta Sola",
+"torsione": "Il piccolo specchio che un naufrago usava per lanciare un unico lampo di soccorso verso l'orizzonte diventa, nel convoglio, l'ultimo strumento consentito a chi è stato espulso da un anello: un solo lampo, verso un solo punto, nella vita di chi lo riceve.",
 "universo": "elabverse"
 },
 {
@@ -3721,6 +3812,7 @@
 "sommario": "Un debitore che ha finalmente saldato il conto arriva a uno sportello dove la rete lo ha già segnalato come insolvente, perché nessuno ha mai aggiornato l'ulti…",
 "tipo": "invenzione",
 "titolo": "La Rete che Avvisa Chi Ha Prestato",
+"torsione": "La rete di stazioni costiere che segnalava con semafori l'arrivo di ogni nave assicurata, prima ancora che attraccasse, viene ricreata tra gli anelli come rete di avvistamento per il Banco delle Molte Mani: chi ha un debito in sospeso viene segnalato lampo dopo lampo molto prima di raggiungere lo sportello.",
 "universo": "elabverse"
 },
 {
@@ -3737,6 +3829,7 @@
 "sommario": "Un debitore convinto di essere osservato ogni notte scopre, troppo tardi, che la torre è vuota da mesi e i lampi partono da un meccanismo lasciato acceso.",
 "tipo": "invenzione",
 "titolo": "La Torre che Guarda Senza Farsi Vedere",
+"torsione": "La torre centrale pensata per sorvegliare ogni cella senza che i sorvegliati sapessero mai quando erano osservati viene costruita al centro di un anello del convoglio come camera del Banco, con feritoie che lasciano uscire solo lampi di conferma o di allarme, mai una faccia.",
 "universo": "elabverse"
 },
 {
@@ -3753,6 +3846,7 @@
 "sommario": "Due guardie scoprono di avere ricevuto, per un errore d'archivio, la stessa identica firma di lampi, e nessuna delle due riesce più a provare di essere quella…",
 "tipo": "invenzione",
 "titolo": "La Firma che Nessun Faro Condivide",
+"torsione": "La sequenza di lampi unica che permetteva ai naviganti di riconoscere un faro specifico anche al buio viene assegnata dal Banco a ogni guardia notturna come firma personale, così che un lampo fuori sequenza non è mai un errore ma sempre un allarme.",
 "universo": "elabverse"
 },
 {
@@ -3769,6 +3863,7 @@
 "sommario": "Un anello lascia la luce verde accesa per errore per tre turni di fila, e un derelitto che nessuno aspettava attracca convinto di essere stato invitato.",
 "tipo": "invenzione",
 "titolo": "Le Luci che Dicono Chi Deve Fermarsi",
+"torsione": "Le luci rosse e verdi che una nave accende per dire agli altri scafi da che parte sta virando diventano, sui portelli di attracco del convoglio, il modo in cui un anello dichiara se sta accogliendo o respingendo chi bussa, senza bisogno di aprire un canale che la voce nella rete potrebbe origliare.",
 "universo": "elabverse"
 },
 {
@@ -3785,6 +3880,7 @@
 "sommario": "Un vigilante nuovo impara il ritmo sbagliato da un manuale corrotto, e la prima notte di turno ogni lanterna del suo giro lo dichiara un intruso.",
 "tipo": "invenzione",
 "titolo": "L'Orologio che Ricorda le Porte",
+"torsione": "L'orologio che il guardiano doveva far scattare a ogni stazione del suo giro per provare di essere passato viene sostituito, nel convoglio, da lanterne a doppio lampo poste a ogni boccaporto: solo chi conosce il ritmo esatto della propria ronda sa quando rispondere, e il ritmo sbagliato smaschera chi porta l'uniforme di un altro.",
 "universo": "elabverse"
 },
 {
@@ -3801,6 +3897,7 @@
 "sommario": "La catena si accende in piena notte partendo da un anello che il registro ufficiale dichiara disabitato da decenni.",
 "tipo": "invenzione",
 "titolo": "La Catena che Sveglia gli Anelli",
+"torsione": "L'antica catena di fuochi che portava una notizia da una collina alla successiva più veloce di qualunque messaggero a piedi viene ricostruita lungo l'asse del convoglio come catena di fari d'allarme: un derelitto avvistato accende il primo faro, e nell'arco di una guardia la notizia ha attraversato scafi che non si parlano da generazioni.",
 "universo": "elabverse"
 },
 {
@@ -3817,6 +3914,7 @@
 "sommario": "Una ragazza issa per errore la bandiera sbagliata fuori dalla cabina di famiglia, e per un giorno intero l'intero anello la crede sequestrabile.",
 "tipo": "invenzione",
 "titolo": "Il Vocabolario dei Panni Colorati",
+"torsione": "Il codice a bandiere che le navi usavano per dichiararsi in avaria, in quarantena o in pericolo viene riscritto dal Banco delle Molte Mani come vocabolario dello stato di un debitore, appeso fuori dalla cabina come le vecchie navi issavano la propria condizione per chi le incrociava da lontano.",
 "universo": "elabverse"
 },
 {
@@ -3833,6 +3931,7 @@
 "sommario": "Un turno di ronda non risponde al lampo previsto, e la squadra che va a cercarlo trova solo la lanterna, ancora accesa, appoggiata su un boccaporto aperto.",
 "tipo": "invenzione",
 "titolo": "La Lampada che Conta i Passi",
+"torsione": "La lanterna che i marinai usavano per battere messaggi in codice a lampi viene impugnata dalle ronde notturne come strumento di conta: ogni sentinella lampeggia il proprio numero a intervalli fissi lungo il turno, e chi smette di rispondere per più di un intervallo viene considerato caduto, disertore o peggio.",
 "universo": "elabverse"
 },
 {
@@ -3849,6 +3948,7 @@
 "sommario": "Un guardiano scopre che la sua torretta ha ripetuto per anni un simbolo che nessuno ha mai decifrato, inserito da un predecessore morto prima che lui nascesse.",
 "tipo": "invenzione",
 "titolo": "La Rete delle Braccia di Legno",
+"torsione": "La rete di torri che si tramandavano messaggi a bracci meccanici visibili gli uni dagli altri diventa, tra gli anelli del convoglio, la spina dorsale della sorveglianza dei debitori: ogni torretta di guardia ripete lo stato di un anello al successivo, cifra dopo cifra, finché il messaggio non ha attraversato l'intero convoglio senza mai toccare un filo.",
 "universo": "elabverse"
 },
 {
@@ -3865,6 +3965,7 @@
 "sommario": "Una vedetta intercetta una sequenza di lampi che non corrisponde a nessun codice del Banco, e capisce che qualcun altro, a bordo, sta segnalando in proprio.",
 "tipo": "invenzione",
 "titolo": "Lo Specchio dei Debitori",
+"torsione": "L'eliografo che rifletteva la luce del sole per segnalare a distanza viene riadattato dalle guardie del Banco delle Molte Mani per rimandare i lampi del faro centrale dell'anello da un ponte all'altro, perché un messaggio che viaggia per luce non lascia traccia nella rete che qualcuno, a bordo, teme sempre in ascolto.",
 "universo": "elabverse"
 },
 {
@@ -3881,6 +3982,7 @@
 "sommario": "Quando l'ispettore prova a rintracciare la fucina itinerante per certificarla ufficialmente, scopre che nessun ponte ammette di averla mai ospitata.",
 "tipo": "invenzione",
 "titolo": "Il Fuoco che Cambia Ponte",
+"torsione": "L'ispettore di saggio che ha trovato il marchio duplicato su rottami di due relitti diversi scopre che non si tratta di una contraffazione, ma di una fucina itinerante smontata e rimontata di ponte in ponte da un gruppo di fonditori che si spostano dove il metallo di scafo scarseggia, portando con sé di generazione in generazione lo stesso punzone.",
 "universo": "elabverse"
 },
 {
@@ -3897,6 +3999,7 @@
 "sommario": "Un matrimonio approvato dal Banco viene annullato un anno dopo, quando un revisore trova che il coefficiente calcolato non corrisponde ai libri contabili origi…",
 "tipo": "invenzione",
 "titolo": "Il Sangue che si Può Diluire a Pagamento",
+"torsione": "Dopo il rifiuto pubblico dei due innamorati, un contabile del Banco delle Molte Mani inizia a vendere sottobanco calcoli truccati del coefficiente di debito, abbassando artificialmente il grado di parentela finanziaria di chi può permetterselo - lo stesso servizio che i pastori pagano già per far registrare come non imparentato un bestiame che il libro considera troppo incrociato.",
 "universo": "elabverse"
 },
 {
@@ -3913,6 +4016,7 @@
 "sommario": "Un apprendista nota che il suo maestro non riesce a disegnare una linea retta se non tenendola inclinata a un angolo preciso, anche quando gli viene chiesto di…",
 "tipo": "invenzione",
 "titolo": "La Mano che Impara a Mentire Dritto",
+"torsione": "Il restauratore che ha scoperto la giuntura rifatta da un'altra mano non denuncia la scoperta, ma impara a tenere il pennello sempre allo stesso angolo della lossodromia originale, per correggere la pennellata senza mai fermarla. La tecnica di compensazione diventa un mestiere clandestino trasmesso tra restauratori, che si riconoscono fuori dal corridoio dal modo in cui inclinano involontariamente ogni riga che tracciano.",
 "universo": "elabverse"
 },
 {
@@ -3929,6 +4033,7 @@
 "sommario": "Un vecchio restauratore mostra a un allievo due sinopie trovate in edifici diversi, identiche tratto per tratto, e gli chiede quale delle due sia stata disegna…",
 "tipo": "invenzione",
 "titolo": "La Terra di Sinope",
+"torsione": "Prima che qualcuno la chiamasse sinopia, i restauratori più anziani la chiamavano la terra di Sinope, e giurano che il disegno sotto l'affresco e quello sotto la carta proiettata siano in realtà lo stesso segno, copiato due volte da due registri che non si parlano.",
 "universo": "elabverse"
 },
 {
@@ -3945,6 +4050,7 @@
 "sommario": "Un monaco conta i pentimenti sotto la vernice fresca e si accorge che sono uno in più delle correzioni di rotta registrate negli annali del convoglio.",
 "tipo": "invenzione",
 "titolo": "Le Vecchie Rotte Sotto la Vernice",
+"torsione": "Se Il Cerchio che Guarda il Basso ridipinge ogni anno il centro sul pavimento della cappella per farlo coincidere con la nave madre, la vernice invecchia e lascia trasparire i pentimenti, i centri delle rotte passate, cerchi fantasma che si sovrappongono a quello attuale come anelli di un tronco.",
 "universo": "elabverse"
 },
 {
@@ -3961,6 +4067,7 @@
 "sommario": "In una sala restaurata di recente, la sinopia sotto l'affresco disegna un continente che nella carta proiettata sopra non è mai esistito.",
 "tipo": "invenzione",
 "titolo": "Il Disegno Sotto la Menzogna",
+"torsione": "Se Le Ellissi della Menzogna nascondono nei margini di ogni murale il grado di menzogna della proiezione, sotto lo strato dipinto i restauratori trovano ora la sinopia, il disegno preparatorio in rosso che i frescanti tracciano prima di mentire, e che a volte non contiene affatto le ellissi previste.",
 "universo": "elabverse"
 },
 {
@@ -3977,6 +4084,7 @@
 "sommario": "Due archivisti, applicando la stessa sottrazione allo stesso segnale d'archivio, tolgono rumori diversi e restano con due messaggi finali che non si assomiglia…",
 "tipo": "invenzione",
 "titolo": "Il Rumore che Va Tolto Prima del Silenzio",
+"torsione": "Se le Assenze di Fraunhofer insegnano a leggere il silenzio tra le parole di un messaggio radio, la sottrazione del continuo insegna prima a togliere ogni rumore di fondo dal segnale, cioè a decidere cosa è chiacchiera e cosa è silenzio voluto; gli archivisti scoprono che il confine tra le due cose si sposta ogni volta che qualcuno lo ridisegna.",
 "universo": "elabverse"
 },
 {
@@ -4526,6 +4634,7 @@
 "sommario": "Il funzionario che ha firmato il rilievo trova la propria copia rispedita indietro senza spiegazioni, tre volte, dallo stesso ufficio.",
 "tipo": "invenzione",
 "titolo": "Le Carte Confermate",
+"torsione": "Nessuna gilda vuole essere la prima ad archiviare la copia, perché farlo significa ammettere per iscritto che i vecchi disegni sapevano già dove il fiume sarebbe andato a scavare.",
 "universo": "steamverse"
 },
 {
@@ -4542,6 +4651,7 @@
 "sommario": "L'ispettore che doveva certificare il freno lo trova già bloccato in posizione aperta, con la vernice ancora fresca sopra la leva.",
 "tipo": "invenzione",
 "titolo": "La Leva del Silenzio",
+"torsione": "Il freno non blocca mai la ruota per davvero, perché chi lo installa ha scoperto che i tagli notturni tenevano libero un canale che di giorno nessuno avrebbe il coraggio di scavare.",
 "universo": "steamverse"
 },
 {
@@ -4558,6 +4668,7 @@
 "sommario": "Un archivista nota che il numero delle casse non reclamate diminuisce ogni anno di una sola unità, sempre la stessa data del ritrovamento del sommozzatore.",
 "tipo": "invenzione",
 "titolo": "Il Libro degli Annegati",
+"torsione": "Il registro non serve a restituire le casse ai proprietari, ma a contare quante ne restano prima che la cantina più vecchia sia dichiarata piena e sigillata per sempre.",
 "universo": "steamverse"
 },
 {
@@ -4574,6 +4685,7 @@
 "sommario": "Il funzionario che trovò per primo il delta non ancora scavato ora guida la squadra del nuovo rilievo, e sa già, prima di misurare, dove il fiume andrà a scava…",
 "tipo": "invenzione",
 "titolo": "Il Delta Riscoperto",
+"torsione": "Il nuovo rilievo, pagato per smentire la leggenda dei vecchi disegni, finisce invece per confermarli linea per linea, e nessuno nell'ufficio del catasto vuole essere quello che lo firma.",
 "universo": "steamverse"
 },
 {
@@ -4590,6 +4702,7 @@
 "sommario": "L'operaio che scoprì i propri passi nei registri trova ora anche il proprio intero tragitto notturno tracciato su una mappa affissa nell'ufficio della gilda, c…",
 "tipo": "invenzione",
 "titolo": "Il Coro Sotterraneo",
+"torsione": "Collegando gli strumenti da una cantina all'altra, la gilda non ascolta più solo la falda ma ricostruisce i percorsi di chi cammina di notte da un quartiere all'altro, un passo alla volta.",
 "universo": "steamverse"
 },
 {
@@ -4606,6 +4719,7 @@
 "sommario": "Il chimico che scoprì la vera funzione delle misurazioni si ritrova ora a firmare lui stesso i bolli, e non sa più se la sua firma protegge la purezza o la dis…",
 "tipo": "invenzione",
 "titolo": "Il Bollo della Purezza",
+"torsione": "Il permesso di taglio, nato per certificare dove il ghiaccio è \"puro\", è diventato l'unico documento che stabilisce quali quartieri possono comprarlo a prezzo di gilda e quali solo al mercato nero.",
 "universo": "steamverse"
 },
 {
@@ -4622,6 +4736,7 @@
 "sommario": "Una guardiana ossessionata dai numeri comincia a segnare ogni rintocco di troppo, e i suoi conti non tornano mai con i registri ufficiali.",
 "tipo": "invenzione",
 "titolo": "Le Campane Basse",
+"torsione": "Le campane suonano un rintocco in più quando passa un convoglio che nessuno ha autorizzato, ma i guardiani hanno imparato a non contarli.",
 "universo": "steamverse"
 },
 {
@@ -4638,6 +4753,7 @@
 "sommario": "Un giovane rilevatore rifà di nascosto la misurazione e trova un numero che smentisce trent'anni di turni.",
 "tipo": "invenzione",
 "titolo": "Il Passo del Fiume",
+"torsione": "I quartieri più poveri ricevono sempre l'ultimo turno di consegna, giustificato dai rilievi come \"il più lento per natura del fiume\", anche quando la corrente lì è la più rapida di tutte.",
 "universo": "steamverse"
 },
 {
@@ -4654,6 +4770,7 @@
 "sommario": "Un capitano scambia di nascosto una cisterna \"nuova\" con una vecchia prima dell'ispezione della gilda, convinto che la superstizione dell'equipaggio valga più…",
 "tipo": "invenzione",
 "titolo": "I Ventri di Latta",
+"torsione": "Le cisterne più affidabili sono quelle costruite con il rame recuperato dalle vecchie campane di chiesa, e i marinai si rifiutano di fidarsi di quelle nuove.",
 "universo": "steamverse"
 },
 {
@@ -4670,6 +4787,7 @@
 "sommario": "Un operaio scopre nei registri i propri passi segnati per settimane, senza aver mai firmato alcun consenso.",
 "tipo": "invenzione",
 "titolo": "L'Orecchio di Terra",
+"torsione": "Lo strumento che ascolta la falda registra anche i passi sopra di essa, e la gilda ha iniziato a usarlo per sapere chi cammina di notte vicino alle cantine.",
 "universo": "steamverse"
 },
 {
@@ -4686,6 +4804,7 @@
 "sommario": "Un nuovo impiegato viene licenziato il giorno dopo aver chiesto, ingenuamente, cosa significhi il simbolo del \"vortice doppio\".",
 "tipo": "invenzione",
 "titolo": "Il Diario delle Correnti",
+"torsione": "Il diario usa simboli di fiume per indicare non le rotte ma i favori dovuti tra i capitani, un linguaggio che nessun ispettore ha mai decifrato del tutto.",
 "universo": "steamverse"
 },
 {
@@ -4702,6 +4821,7 @@
 "sommario": "Un ispettore trova tagli freschi in un mattino in cui nessun turno era stato registrato.",
 "tipo": "invenzione",
 "titolo": "I Denti del Fiume",
+"torsione": "Le seghe si muovono anche di notte, senza operai, finché qualcuno non ha capito che la corrente da sola basta a farle girare a vuoto.",
 "universo": "steamverse"
 },
 {
@@ -4718,6 +4838,7 @@
 "sommario": "Un tagliatore di ghiaccio giovane annega in uno specchio che tutti dicevano sicuro perché \"era il più fotografato\".",
 "tipo": "invenzione",
 "titolo": "Gli Specchi Fermi",
+"torsione": "I bacini più belli, quelli scelti per le fotografie dei notabili, sono anche i più superficiali e i primi a rompersi sotto il peso dei tagliatori.",
 "universo": "steamverse"
 },
 {
@@ -4734,6 +4855,7 @@
 "sommario": "Un chimico della gilda scopre che le sue misurazioni di salinità sono usate come pretesto ufficiale per una discriminazione già decisa altrove.",
 "tipo": "invenzione",
 "titolo": "Il Sale della Purezza",
+"torsione": "Il ghiaccio \"puro\" venduto ai notabili viene tagliato più a monte non per la salinità ma perché lì il fiume passa lontano dai quartieri poveri.",
 "universo": "steamverse"
 },
 {
@@ -4752,6 +4874,7 @@
 "sommario": "Un custode smette di fidarsi del proprio barometro il giorno in cui questo tace mentre l'acqua gli bagna già gli stivali.",
 "tipo": "invenzione",
 "titolo": "Il Barometro delle Cantine",
+"torsione": "Lo strumento suona l'allarme non quando il fiume sale, ma un'ora prima, come se misurasse l'intenzione più che l'acqua.",
 "universo": "steamverse"
 },
 {
@@ -4768,6 +4891,7 @@
 "sommario": "Un funzionario del catasto trova nei vecchi disegni un delta che il fiume non ha ancora scavato, e comincia a chiedersi chi lo sapesse già.",
 "tipo": "invenzione",
 "titolo": "Il Ventaglio dei Ghiacciai",
+"torsione": "Il ventaglio dei depositi segue la forma del delta con una precisione che precede di decenni i rilievi ufficiali del fiume.",
 "universo": "steamverse"
 },
 {
@@ -4784,6 +4908,7 @@
 "sommario": "Un ingegnere idraulico nota che il fiume secondo ha una piena proprio nei giorni in cui il fiume vero è insolitamente basso.",
 "tipo": "invenzione",
 "titolo": "Il Fiume Secondo",
+"torsione": "Il fiume secondo scorre sotto le vie principali seguendo esattamente il tracciato del fiume vero, come se qualcuno avesse voluto costruirne una copia da controllare meglio.",
 "universo": "steamverse"
 },
 {
@@ -4800,6 +4925,7 @@
 "sommario": "Un sommozzatore incaricato di un'ispezione trova una cassa con la data di domani.",
 "tipo": "invenzione",
 "titolo": "Le Cantine Annegate",
+"torsione": "Le cantine più antiche custodiscono ancora casse mai reclamate, sigillate con nomi di famiglie che in città nessuno ricorda più.",
 "universo": "steamverse"
 },
 {
@@ -4816,6 +4942,7 @@
 "sommario": "Un pilota d'aratro annota su un taccuino personale ogni rotta \"dimenticata\" apposta, temendo di doverlo mostrare un giorno a un giudice.",
 "tipo": "invenzione",
 "titolo": "Gli Aratri d'Inverno",
+"torsione": "Gli aratri rompono il ghiaccio più volentieri sulle rotte dei concorrenti che su quelle della propria compagnia, con una regolarità che nessuno vuole notare.",
 "universo": "steamverse"
 },
 {
@@ -4832,6 +4959,7 @@
 "sommario": "Un mercante scopre che la sua \"finestra di marea\" si è misteriosamente ristretta da quando ha rifiutato un prestito della gilda.",
 "tipo": "invenzione",
 "titolo": "L'Orologio Salmastro",
+"torsione": "L'orologio non misura la marea del mare ma quella, più lenta, del debito accumulato dai mercanti presso la gilda dei ghiacciai.",
 "universo": "steamverse"
 },
 {
@@ -4848,6 +4976,7 @@
 "sommario": "Un cartografo riceve l'ordine di \"semplificare\" una mappa proprio nel punto dove il fiume attraversa la proprietà del suo committente.",
 "tipo": "invenzione",
 "titolo": "L'Atlante delle Colpe",
+"torsione": "L'atlante non segna solo dove l'acqua si sporca, ma anche quale famiglia di mercanti possiede il tratto di fiume a monte del guasto.",
 "universo": "steamverse"
 },
 {
@@ -4864,6 +4993,7 @@
 "sommario": "Un calcolatore scopre che le tavole sono state copiate da un quaderno di sessant'anni prima, mai aggiornato ma sempre esatto.",
 "tipo": "invenzione",
 "titolo": "Le Tavole della Sete",
+"torsione": "Le tavole prevedono la fusione con un anticipo sospetto, come se conoscessero il clima prima che il cielo si decida.",
 "universo": "steamverse"
 },
 {
@@ -4880,6 +5010,7 @@
 "sommario": "Un guardiano di chiusa tiene un secondo registro, quello vero, nascosto sotto l'asse del pavimento della garitta.",
 "tipo": "invenzione",
 "titolo": "Il Calendario delle Porte",
+"torsione": "Le chiuse si aprono un quarto d'ora prima dell'orario ufficiale per chi paga il pedaggio in ghiaccio anziché in moneta.",
 "universo": "steamverse"
 },
 {
@@ -4896,6 +5027,7 @@
 "sommario": "Un giovane fuochista comincia a segnare di nascosto il peso reale, convinto che qualcuno stia rubando acqua dal fiume un litro alla volta.",
 "tipo": "invenzione",
 "titolo": "Il Polmone di Rame",
+"torsione": "Il ghiaccio prodotto a bordo pesa sistematicamente più di quanto la fisica preveda, e nessun ingegnere ammette di aver ritarato le bilance.",
 "universo": "steamverse"
 },
 {
@@ -4912,6 +5044,7 @@
 "sommario": "Un ghiacciaio giura di aver sentito il fiume \"cambiare voce\" la notte prima di un'alluvione mai prevista dai tecnici.",
 "tipo": "invenzione",
 "titolo": "La Casa del Fiato Freddo",
+"torsione": "Il ghiaccio si forma più in fretta nelle notti in cui la città consuma più carbone, come se il fiume rispondesse al respiro delle ciminiere.",
 "universo": "steamverse"
 },
 {
@@ -4928,6 +5061,7 @@
 "sommario": "Un capobarca scopre una bara supplementare non segnata nel manifesto, refrigerata come le altre casse.",
 "tipo": "invenzione",
 "titolo": "Le Barche Bianche",
+"torsione": "Le chiatte non trasportano solo carne e latte, ma anche i corpi dei notabili che vogliono arrivare intatti al proprio funerale di città.",
 "universo": "steamverse"
 },
 {
@@ -5404,6 +5538,7 @@
 "sommario": "Madre Iselda trova un pulcino marcato con un numero di quota che ancora non è stato annunciato.",
 "tipo": "invenzione",
 "titolo": "La Cova del Giudizio Anticipato",
+"torsione": "Il clero alleva in segreto la covata successiva mesi prima dell'estrazione ufficiale, così il giudizio dei galli è già scritto quando la gente scommette.",
 "universo": "neofeudal"
 },
 {
@@ -5420,6 +5555,7 @@
 "sommario": "Un pastore scopre che il nome segreto del suo toro è lo stesso di un antenato che la famiglia giura di non aver mai avuto.",
 "tipo": "invenzione",
 "titolo": "Il Libro dei Nomi Muti",
+"torsione": "Ogni capo di bestiame ha un nome doppio, uno pubblico inciso sul marchio e uno segreto noto solo al registro, ed è quest'ultimo l'unico a far rispondere davvero l'animale.",
 "universo": "neofeudal"
 },
 {
@@ -6124,6 +6260,7 @@
 "sommario": "Un broker si accorge che le coordinate più richieste del suo listino coincidono sempre con i parcheggi degli ospedali che hanno appena dichiarato la lista d'at…",
 "tipo": "invenzione",
 "titolo": "La Mappa dei Corpi Caldi",
+"torsione": "I log dei droni agricoli, che segnano ogni corpo caldo rilevato di notte, vengono aggregati e rivenduti come mappa della domanda di trapianto fuori rete a chi vuole saltare la lista d'attesa, trasformando un dato agricolo in un indice di disperazione.",
 "universo": "hackverse"
 },
 {
@@ -6140,6 +6277,7 @@
 "sommario": "Un analista scopre che l'elenco dei \"modelli calibrati\" di un solo abbonato coincide, telecamera per telecamera, con il perimetro di sicurezza di un unico edif…",
 "tipo": "invenzione",
 "titolo": "Taratura in Abbonamento",
+"torsione": "Il trucco a tre fuochi funziona solo se calibrato sul modello esatto della telecamera da eludere, così il venditore lo trasforma in un abbonamento che si aggiorna a ogni cambio di bersaglio, e il registro degli aggiornamenti finisce per rivelare esattamente quali telecamere il cliente sta evitando.",
 "universo": "hackverse"
 },
 {
@@ -6156,6 +6294,7 @@
 "sommario": "Un tecnico di laboratorio nota che due cliniche in città diverse hanno scartato lo stesso donatore nello stesso minuto, prima ancora che l'ospedale comunichi l…",
 "tipo": "invenzione",
 "titolo": "Il Listino delle Marze",
+"torsione": "Un broker copia il database di compatibilità immunologica del software di innesto agricolo e lo rivende, etichettato come \"dataset botanico anonimo\", a una rete di cliniche private senza accesso ai registri ufficiali dei trapianti.",
 "universo": "hackverse"
 },
 {
@@ -6172,6 +6311,7 @@
 "sommario": "Un'ispezione sanitaria trova un registro con dodici nomi e un solo calendario, tutti in \"riposo\" a turno, mai nello stesso giorno.",
 "tipo": "invenzione",
 "titolo": "Il Campo Che Non Si Ferma Mai",
+"torsione": "Il calendario che fa riposare più appezzamenti a turno, così che uno sia sempre pronto mentre gli altri recuperano, viene applicato a un gruppo di donatori viventi gestiti come un unico \"campo\" che non deve mai risultare del tutto esaurito.",
 "universo": "hackverse"
 },
 {
@@ -6188,6 +6328,7 @@
 "sommario": "Un paziente riceve una notifica sul telefono due giorni prima che il suo stesso corpo gli dia un sintomo.",
 "tipo": "invenzione",
 "titolo": "Il Rumore di Fondo",
+"torsione": "Il sensore che impara il rumore \"normale\" di un tubo per accorgersi subito di un'ostruzione viene miniaturizzato e impiantato accanto a un innesto, per imparare il rumore normale di un corpo e accorgersi, prima dei sintomi, di un rigetto.",
 "universo": "hackverse"
 },
 {
@@ -6204,6 +6345,7 @@
 "sommario": "Un innesto attecchisce per settimane prima che qualcuno si accorga che il sistema lo aveva segnato, fin dall'inizio, come \"approssimato\".",
 "tipo": "invenzione",
 "titolo": "Il Quasi Giusto",
+"torsione": "Il modulo che, in mancanza della marza perfetta, suggerisce il portainnesto \"abbastanza vicino\" resta attivo di default nel sistema di compatibilità immunologica, e comincia a proporre donatori solo abbastanza compatibili.",
 "universo": "hackverse"
 },
 {
@@ -6220,6 +6362,7 @@
 "sommario": "Un negozio di ottica scopre che il suo specchio virtuale è stato usato, nell'ultimo mese, soprattutto da persone che non hanno mai comprato nulla.",
 "tipo": "invenzione",
 "titolo": "Lo Specchio che Consiglia",
+"torsione": "Il software che consiglia in negozio la montatura più adatta al proprio viso viene invertito per suggerire, a chi deve sparire, la forma di montatura che meno si adatta al proprio volto secondo gli stessi modelli di riconoscimento.",
 "universo": "hackverse"
 },
 {
@@ -6236,6 +6379,7 @@
 "sommario": "Un'indagine si blocca perché, sul filmato, il sospetto sembra non indossare occhiali che invece indossa.",
 "tipo": "invenzione",
 "titolo": "Cancellatura Morbida",
+"torsione": "Lo strato di correttore che copre un tatuaggio per un servizio fotografico viene steso su una montatura trasparente, per eliminare il riflesso a infrarossi con cui una telecamera individua il vetro delle lenti.",
 "universo": "hackverse"
 },
 {
@@ -6252,6 +6396,7 @@
 "sommario": "Un operatore di sicurezza giura di aver visto qualcuno rimpicciolirsi camminando verso l'uscita.",
 "tipo": "invenzione",
 "titolo": "Doppio Specchio",
+"torsione": "La curvatura che ingrandisce il volto in uno specchietto da trucco viene invertita e montata in un visore, per rimpicciolire otticamente un volto fino a farlo sparire dal quadro di una telecamera a riconoscimento facciale.",
 "universo": "hackverse"
 },
 {
@@ -6268,6 +6413,7 @@
 "sommario": "Un archivio di foto segnaletiche mostra la stessa persona con occhi sempre un filo più chiari, settimana dopo settimana.",
 "tipo": "invenzione",
 "titolo": "Rilascio Lento",
+"torsione": "La capsula che rilascia profumo goccia a goccia per ore viene riempita di un colorante che tinge una lente a contatto un poco alla volta, per invecchiare un'identità falsa nell'arco di una settimana.",
 "universo": "hackverse"
 },
 {
@@ -6284,6 +6430,7 @@
 "sommario": "Un testimone giura di aver visto un occhio \"cadere\" da solo dal volto di un uomo in fuga.",
 "tipo": "invenzione",
 "titolo": "Tenuta a Tempo",
+"torsione": "La colla che tiene ciglia finte per un'intera serata e poi si stacca da sola viene usata per fissare temporaneamente una lente sclerale cosmetica programmata per staccarsi passato un tempo prestabilito.",
 "universo": "hackverse"
 },
 {
@@ -6300,6 +6447,7 @@
 "sommario": "Una lente sequestrata risulta perfettamente pulita, troppo pulita per essere stata indossata davvero.",
 "tipo": "invenzione",
 "titolo": "Bianco che Brucia",
+"torsione": "Il gel perossidato che sbianca lo smalto viene riformulato più debole per pulire, senza lasciare tracce, il rivestimento oleofobico che protegge una lente da impronte e residui organici.",
 "universo": "hackverse"
 },
 {
@@ -6316,6 +6464,7 @@
 "sommario": "Tre telecamere alla stessa festa fotografano tre volti leggermente diversi della stessa persona.",
 "tipo": "invenzione",
 "titolo": "Tre Fuochi",
+"torsione": "Il software che calcola le tre fasce di fuoco di una lente progressiva viene riusato per disegnare un trucco a bande che appare diverso a seconda della distanza da cui lo riprende una telecamera.",
 "universo": "hackverse"
 },
 {
@@ -6332,6 +6481,7 @@
 "sommario": "Un sistema di sicurezza dichiara \"vivo e autentico\" un occhio che, in laboratorio, risulta stampato su un substrato di due giorni prima.",
 "tipo": "invenzione",
 "titolo": "Il Sigillo che Mente",
+"torsione": "Il software che verifica, tramite riflessi calibrati, l'autenticità di un ologramma su una confezione di cosmetici viene invertito per generare il pattern di riflessi che convince un sistema di liveness detection che una lente a contatto stampata è un occhio vivo.",
 "universo": "hackverse"
 },
 {
@@ -6348,6 +6498,7 @@
 "sommario": "Un'analisi forense nota che la pelle intorno agli occhiali di un sospetto \"invecchia\" di un colore diverso ogni ora.",
 "tipo": "invenzione",
 "titolo": "Colore che Nasce da Sé",
+"torsione": "La reazione chimica che scurisce la pelle in poche ore senza sole viene adattata a un rivestimento per montature che cambia colore a contatto col sudore, per confondere il riconoscimento facciale basato sul tono cutaneo attorno agli occhi.",
 "universo": "hackverse"
 },
 {
@@ -6364,6 +6515,7 @@
 "sommario": "Un centro oculistico risulta, nei log, l'unico software al mondo capace di calcolare come \"invecchia\" un'iride finta.",
 "tipo": "invenzione",
 "titolo": "Taglio di Precisione",
+"torsione": "Il software che calcola, micron per micron, il profilo di ablazione corneale per correggere la vista viene riusato per calcolare l'incisione su una lente a contatto che imita l'invecchiamento naturale di un'iride nel tempo.",
 "universo": "hackverse"
 },
 {
@@ -6380,6 +6532,7 @@
 "sommario": "Una squadra con visori notturni perde un bersaglio che, a occhio nudo, è ancora fermo lì, truccato.",
 "tipo": "invenzione",
 "titolo": "Luce Filtrata",
+"torsione": "Il filtro che taglia i riflessi della luce sull'acqua viene assottigliato e cucito nella cipria, per spegnere selettivamente il bagliore a infrarossi con cui un visore notturno illumina un volto.",
 "universo": "hackverse"
 },
 {
@@ -6396,6 +6549,7 @@
 "sommario": "Un salone di bellezza diventa il posto più veloce in città per cambiare colore agli occhi prima di un controllo.",
 "tipo": "invenzione",
 "titolo": "Presa Istantanea",
+"torsione": "La resina che indurisce sotto lampada UV in pochi secondi per fissare uno smalto viene colata in stampi per lenti a contatto usa e getta, pronte in cabina in meno di un minuto.",
 "universo": "hackverse"
 },
 {
@@ -6412,6 +6566,7 @@
 "sommario": "Un sistema di identificazione digitale segnala come morto un uomo che, tre giorni dopo, cammina davanti alla stessa telecamera.",
 "tipo": "invenzione",
 "titolo": "L'Occhio che Guarda Ancora",
+"torsione": "La tecnica dell'ocularista che dipinge iride e vasi sanguigni su una protesi oculare viene usata per truccare, strato su strato, un volto vivo perché un algoritmo forense lo classifichi come cadavere.",
 "universo": "hackverse"
 },
 {
@@ -6428,6 +6583,7 @@
 "sommario": "Un'ottica di quartiere diventa, senza saperlo, il posto dove ci si fa \"tagliare\" il volto prima di un lavoro.",
 "tipo": "invenzione",
 "titolo": "Il Taglio Giusto",
+"torsione": "Il calcolo che centra una lente oftalmica sull'asse visivo del paziente viene riadattato per individuare, su un volto truccato, il punto esatto in cui il contouring inganna il software di riconoscimento facciale.",
 "universo": "hackverse"
 },
 {
@@ -6444,6 +6600,7 @@
 "sommario": "Un chirurgo plastico riconosce la propria formula di correttore nel referto di un occhiale sequestrato durante un'indagine.",
 "tipo": "invenzione",
 "titolo": "Seconda Pelle",
+"torsione": "Le tecniche che nascondono una cicatrice sotto strati di correttore vengono applicate a una montatura d'occhiali trattata perché, davanti a una telecamera, sembri pelle e non vetro.",
 "universo": "hackverse"
 },
 {
@@ -6460,6 +6617,7 @@
 "sommario": "Un istituto di sicurezza scopre che tre dipendenti diversi risultano avere, secondo il sistema, la stessa identica iride.",
 "tipo": "invenzione",
 "titolo": "Iride Prestata",
+"torsione": "Il sensore che mappa i solchi dell'iride per aprire una porta blindata viene invertito e addestrato a certificare come autentica una stampa cosmetica dell'iride di un altro.",
 "universo": "hackverse"
 },
 {
@@ -6476,6 +6634,7 @@
 "sommario": "Una guardia giura che il sospetto era pallido un secondo prima e scuro in volto un secondo dopo, senza che nessuno si sia mosso.",
 "tipo": "invenzione",
 "titolo": "Ombra Ritardata",
+"torsione": "Il pigmento che scurisce una lente all'esposizione UV viene incapsulato in una cipria che si attiva allo stesso modo, rendendo il volto illeggibile solo sotto i riflettori di un controllo.",
 "universo": "hackverse"
 },
 {
@@ -6492,6 +6651,7 @@
 "sommario": "Un'oculista riconosce il proprio tratto a mano libera nell'occhio finto di uno sconosciuto, su una foto segnaletica.",
 "tipo": "invenzione",
 "titolo": "Tratto Fantasma",
+"torsione": "L'ago che deposita pigmento a strati sottilissimi per disegnare sopracciglia naturali viene ricalibrato per incidere, sulla sclera di una lente cosmetica, i micro-difetti che rendono unica un'iride vera.",
 "universo": "hackverse"
 },
 {
@@ -6508,6 +6668,7 @@
 "sommario": "Una telecamera nuova di zecca continua a fotografare un buco scuro dove dovrebbe esserci un volto.",
 "tipo": "invenzione",
 "titolo": "Pelle Opaca",
+"torsione": "Il coating che elimina i riflessi sulle lenti oftalmiche viene rifuso in una base trucco che assorbe il lampo a infrarossi delle telecamere di sorveglianza notturna.",
 "universo": "hackverse"
 },
 {
@@ -6524,6 +6685,7 @@
 "sommario": "Un varco doganale segnala una \"corrispondenza sospetta\" su un passeggero che, secondo il sistema, ha due iridi leggermente diverse tra loro.",
 "tipo": "invenzione",
 "titolo": "Tonalità Zero",
+"torsione": "L'algoritmo che trova la tonalità di fondotinta più vicina a un incarnato viene riaddestrato per stimare, in tempo reale, quanto una lente a contatto cosmetica si discosta dal colore naturale di un'iride.",
 "universo": "hackverse"
 },
 {
@@ -6575,6 +6737,7 @@
 "sommario": "Una famiglia nota che il proprio anello non viene mai fatto riposare come gli altri, e comincia a sospettare di essere considerata terreno già perduto.",
 "tipo": "invenzione",
 "titolo": "Il Giro che Non Si Ferma Mai",
+"torsione": "Il pascolo turnato sposta il bestiame prima che un campo si esaurisca, lasciandolo riposare mentre un altro lavora; gli anelli del convoglio applicano la stessa rotazione alle famiglie assegnate ai turni di guardia più duri, cosicché nessun anello venga mai \"consumato\" fino a restare sterile.",
 "universo": "elabverse"
 },
 {
@@ -6591,6 +6754,7 @@
 "sommario": "Un adulto scopre di condividere il proprio numero d'orecchio con un capo di bestiame macellato lo stesso giorno della sua nascita, nello stesso registro.",
 "tipo": "invenzione",
 "titolo": "L'Orecchio Numerato",
+"torsione": "L'anagrafe zootecnica assegna a ogni capo un numero fissato all'orecchio, cosicché nessun animale possa cambiare identità; a bordo la stessa marca si applica ai neonati degli anelli più poveri, con la scusa che un numero all'orecchio non si perde come un documento di cabina.",
 "universo": "elabverse"
 },
 {
@@ -6607,6 +6771,7 @@
 "sommario": "Un tecnico dell'acqua trova nel filtro una traccia chimica che nessuna vasca del convoglio dovrebbe produrre, come se l'acqua venisse ancora da fuori.",
 "tipo": "invenzione",
 "titolo": "L'Acqua che Non Se Ne Va Mai",
+"torsione": "Il sistema a ricircolo filtra e restituisce alla vasca la stessa acqua per anni, così che nulla si perda e nulla arrivi da fuori; il convoglio intero funziona secondo lo stesso principio, e i più superstiziosi credono che l'acqua bevuta oggi abbia già attraversato ogni bocca a bordo dal giorno del commit di divergenza.",
 "universo": "elabverse"
 },
 {
@@ -6623,6 +6788,7 @@
 "sommario": "Un capofamiglia si accorge che l'asta usata per lui è più lunga di un dito rispetto a quella ufficiale, e non riesce a provarlo davanti all'assemblea.",
 "tipo": "invenzione",
 "titolo": "L'Asta che Non Mente",
+"torsione": "L'ittiometro misura un pesce senza lasciargli scampo per crescere sulla carta; gli esattori del Banco portano un'asta identica alle assemblee di anello, e chi viene misurato \"sotto soglia\" viene dichiarato debitore a prescindere da cosa dica il proprio registro.",
 "universo": "elabverse"
 },
 {
@@ -6639,6 +6805,7 @@
 "sommario": "Un equipaggio recuperato da un derelitto resta in quarantena molto più a lungo del previsto, perché il loro debito continua a crescere anche da isolati.",
 "tipo": "invenzione",
 "titolo": "L'Acqua che Aspetta",
+"torsione": "Prima di unire un pesce nuovo alla vasca comune lo si isola in acqua separata per vedere cosa porta con sé; il convoglio fa lo stesso con ogni derelitto agganciato, tenendolo in un anello isolato finché non si scopre se porta solo rottami o anche i debiti di qualcun altro.",
 "universo": "elabverse"
 },
 {
@@ -6655,6 +6822,7 @@
 "sommario": "Due innamorati scoprono che il loro coefficiente di debito supera la soglia che il Banco riserva al bestiame, e il matrimonio viene negato per lo stesso motivo…",
 "tipo": "invenzione",
 "titolo": "Il Numero che Pesa il Sangue",
+"torsione": "Il coefficiente di consanguineità calcola quanto sangue condiviso porta una coppia di animali imparentati; il Banco delle Molte Mani applica la stessa formula ai matrimoni tra debitori dello stesso anello, perché un debito troppo incrociato, come un sangue troppo incrociato, produce fragilità che nessuno vuole ereditare.",
 "universo": "elabverse"
 },
 {
@@ -6671,6 +6839,7 @@
 "sommario": "Un tecnico ignora l'allarme della linea laterale di scafo perché suona troppe volte per un derelitto che dovrebbe essere vuoto.",
 "tipo": "invenzione",
 "titolo": "L'Orecchio Lungo il Fianco",
+"torsione": "La linea laterale permette al pesce di sentire le vibrazioni dell'acqua lungo tutto il corpo senza doversi girare; gli ingegneri di scafo hanno rivestito i corridoi più vecchi con sensori pensati sullo stesso principio, così il convoglio \"sente\" un boccaporto che sta per cedere molto prima che qualcuno lo veda cedere.",
 "universo": "elabverse"
 },
 {
@@ -6687,6 +6856,7 @@
 "sommario": "Una famiglia scopre che il piano-vasca a cui è stata assegnata da generazioni corrisponde esattamente al proprio ceppo d'origine, e nessuno sa chi abbia deciso…",
 "tipo": "invenzione",
 "titolo": "La Vasca delle Nazioni Piccole",
+"torsione": "L'acquacoltura policolturale mette insieme specie diverse che si dividono i compiti di una stessa vasca, ognuna a un livello d'acqua; gli anelli del convoglio replicano lo stesso principio con i ceppi umani nelle cabine, assegnando i piani non per censo ma per quale specie di pesce ciascuna famiglia è tenuta ad allevare.",
 "universo": "elabverse"
 },
 {
@@ -6703,6 +6873,7 @@
 "sommario": "Un ispettore trova sotto dieci strati di vernice il marchio originale di uno scafo che il registro ufficiale giura non sia mai stato un derelitto.",
 "tipo": "invenzione",
 "titolo": "Il Marchio che Non Si Cancella",
+"torsione": "Il marchio a fuoco imprimeva sulla pelle un segno di proprietà leggibile da lontano; nel convoglio la stessa tecnica marchia gli scafi orfani dei derelitti recuperati, cosicché un rottame trainato porti per sempre il segno di chi lo ha reclamato, anche dopo essere rivenduto dieci volte.",
 "universo": "elabverse"
 },
 {
@@ -6719,6 +6890,7 @@
 "sommario": "Una mandria viene fatta migrare in anticipo per sottrarla a un pignoramento, e il pastore deve inventare una stagione che non esiste per giustificarlo.",
 "tipo": "invenzione",
 "titolo": "Il Cammino Senza Stagioni",
+"torsione": "La transumanza spostava le greggi tra pascoli alti e bassi seguendo il calendario del sole; a bordo, dove il sole non tramonta né sorge, i pastori degli anelli spostano il bestiame tra scafi caldi e freddi seguendo il calendario dei debiti da saldare, e chiamano ancora \"estate\" l'anello dove si paga meno.",
 "universo": "elabverse"
 },
 {
@@ -6735,6 +6907,7 @@
 "sommario": "Un ittiologo apre l'otolite di un pesce anziano e conta più cambi di rotta di quanti ne ammetta la sala di comando.",
 "tipo": "invenzione",
 "titolo": "Le Pietre che Contano gli Anni",
+"torsione": "Gli otoliti dei pesci accumulano un anello per ogni stagione vissuta, come tronchi d'albero chiusi in un orecchio; nelle vasche del convoglio, dove non esistono stagioni, gli ittiologi hanno insegnato ai pesci a depositare un anello per ogni cambio di rotta, trasformando le loro teste in registri di navigazione che nessun archivio ufficiale può correggere.",
 "universo": "elabverse"
 },
 {
@@ -6751,6 +6924,7 @@
 "sommario": "Un tenutario trova nel registro del bestiame il nome di un antenato che il registro dei debiti giura non essere mai esistito.",
 "tipo": "invenzione",
 "titolo": "Il Libro dei Molti Padri",
+"torsione": "I libri genealogici tracciavano le linee di sangue del bestiame per garantirne il valore; a bordo il Banco delle Molte Mani registra allo stesso modo le linee di debito delle famiglie, e i tenutari degli anelli-stalla hanno scoperto che le due genealogie, sangue e debito, coincidono riga per riga da generazioni.",
 "universo": "elabverse"
 },
 {
@@ -6976,6 +7150,7 @@
 "sommario": "Una famiglia povera nota che l'omelia del proprio caro riusa frasi già sentite ad altri funerali, e capisce di aver ricevuto senza saperlo la fascia più econom…",
 "tipo": "invenzione",
 "titolo": "Il Tariffario dei Miracoli",
+"torsione": "Il programma che compone le omelie tiene un conto di quali frasi sono già state usate altrove, e la curia vende alle famiglie fasce di prezzo in base a quante metafore inedite si acquistano per il funerale del proprio donatore.",
 "universo": "cyberverse"
 },
 {
@@ -6992,6 +7167,7 @@
 "sommario": "Un tecnico si accorge che il donatore \"più amato\" del sistema non è mai esistito, è un composito ottimizzato dalle preferenze aggregate di centinaia di riceven…",
 "tipo": "invenzione",
 "titolo": "Il Concilio dei Riceventi Affezionati",
+"torsione": "L'app registra quali dettagli inventati sul donatore fanno affezionare di più i riceventi e li rende canonici nelle versioni successive, trasformando la menzogna più gradita in agiografia ufficiale del culto.",
 "universo": "cyberverse"
 },
 {
@@ -7008,6 +7184,7 @@
 "sommario": "Un prete del culto scopre il modulo per caso e comincia a scegliere di proposito le frasi più riciclate, convinto che la ripetizione le renda più vere, non men…",
 "tipo": "invenzione",
 "titolo": "Il Concordanziere delle Parabole",
+"torsione": "Un modulo separato confronta ogni nuova omelia generata con l'archivio di quelle già lette ai funerali precedenti, segnalando come \"miracolo\" ogni frase che si ripete abbastanza da sembrare provvidenziale invece che riciclata.",
 "universo": "cyberverse"
 },
 {
@@ -7024,6 +7201,7 @@
 "sommario": "Una donna scopre che la sua seconda richiesta di trapianto è stata respinta per una frase detta anni prima, in una confessione che credeva dimenticata da tutti…",
 "tipo": "invenzione",
 "titolo": "Il Libro delle Recidive",
+"torsione": "Ogni volta che un trapianto fallisce, il sistema riascolta la confessione originale del ricevente cercando increspature di tono che \"avrebbero dovuto\" prevedere il rigetto, e le aggiunge come prova retroattiva contro future richieste.",
 "universo": "cyberverse"
 },
 {
@@ -7040,6 +7218,7 @@
 "sommario": "Un broker di rate scopre che una rata rivenduta tre volte porta ancora il nome del primo debitore, morto due anni prima, e nessuno l'ha mai cancellato dal regi…",
 "tipo": "invenzione",
 "titolo": "Il Baratto delle Rate",
+"torsione": "Chi non riesce a pagare le rate dell'indulgenza le rivende sottocosto a chi vuole scontare il proprio debito più in fretta, in un mercato tollerato dalla curia perché tiene comunque il registro pieno di nomi.",
 "universo": "cyberverse"
 },
 {
@@ -7056,6 +7235,7 @@
 "sommario": "Una teca resta vuota per mesi perché il tribunale non riesce a mettersi d'accordo se il grado di santità dell'organo giustifichi il costo della vetrina.",
 "tipo": "invenzione",
 "titolo": "La Teca dei Rigettati",
+"torsione": "Ogni donatore canonizzato dal Concilio ottiene una teca nel corridoio della clinica con un frammento dell'organo rifiutato, catalogato dall'algoritmo come reliquia di grado variabile.",
 "universo": "cyberverse"
 },
 {
@@ -7072,6 +7252,7 @@
 "sommario": "Un'infermiera scopre che le preghiere più costose vengono sempre esaudite entro la notte, e che a pagarle è sempre la stessa fondazione, mai un parente.",
 "tipo": "invenzione",
 "titolo": "Le Offerte del Purgatorio",
+"torsione": "Il purgatorio dello schermo permette ai parenti di comprare \"preghiere\", crediti che spostano l'icona di qualche gradino, ufficialmente donazioni alla clinica, ufficiosamente scorciatoie.",
 "universo": "cyberverse"
 },
 {
@@ -7088,6 +7269,7 @@
 "sommario": "Un uomo tenta di ritirare il proprio voto dopo una crisi di fede, e scopre che il registro è stato progettato apposta per non permetterlo.",
 "tipo": "invenzione",
 "titolo": "Il Martirio Differito",
+"torsione": "Firmare il consenso alla donazione degli organi viene registrato come un voto di martirio a data da destinarsi, immutabile su un registro distribuito che nessuna curia può cancellare.",
 "universo": "cyberverse"
 },
 {
@@ -7104,6 +7286,7 @@
 "sommario": "Una famiglia riconosce nell'omelia generata frasi identiche a quelle lette al funerale di un altro donatore, e capisce che il programma riusa gli stessi miraco…",
 "tipo": "invenzione",
 "titolo": "Il Vangelo del Donatore",
+"torsione": "Un programma legge la cartella clinica del donatore e compone un'omelia da leggere al funerale, trasformando referti ed esami in parabole sulla generosità del corpo.",
 "universo": "cyberverse"
 },
 {
@@ -7120,6 +7303,7 @@
 "sommario": "Un infermiere scambia per errore il flacone benedetto con quello sterile, e per settimane nessuno nota la differenza nei tassi di guarigione.",
 "tipo": "invenzione",
 "titolo": "L'Unzione dei Tessuti",
+"torsione": "Un olio prodotto in laboratorio e benedetto in serie viene passato sulla cicatrice appena chiusa, con la clinica che garantisce l'effetto placebo ma non nega mai quello divino.",
 "universo": "cyberverse"
 },
 {
@@ -7136,6 +7320,7 @@
 "sommario": "Un algoritmo del tribunale vota per la canonizzazione tre volte di fila prima che qualcuno si accorga che è stato addestrato solo su casi già approvati.",
 "tipo": "invenzione",
 "titolo": "Il Concilio dei Rigetti",
+"torsione": "Quando un organo viene rigettato, un tribunale composto da tre chierici e un algoritmo di valutazione decide se il donatore meriti comunque una canonizzazione postuma per l'intenzione, non per il risultato.",
 "universo": "cyberverse"
 },
 {
@@ -7152,6 +7337,7 @@
 "sommario": "Un ricevente si affeziona a un donatore che l'app ha in gran parte inventato, e rifiuta di credere ai parenti veri quando gli mostrano una foto diversa.",
 "tipo": "invenzione",
 "titolo": "L'Icona del Donatore",
+"torsione": "Inquadrando la cicatrice con l'app giusta appare il volto e la storia sintetica del donatore, ricostruita da un algoritmo che inventa dettagli agiografici quando i dati mancano.",
 "universo": "cyberverse"
 },
 {
@@ -7170,6 +7356,7 @@
 "sommario": "Una donna sopravvive all'intervento ma pretende indietro anche la copia, convinta che due anime nello stesso corpo aumentino le sue probabilità con qualunque d…",
 "tipo": "invenzione",
 "titolo": "L'Anima di Scorta",
+"torsione": "Prima di ogni trapianto ad alto rischio la clinica registra una copia dei ricordi recenti del paziente, ufficialmente per motivi legali, ufficiosamente perché il cappellano la chiama l'anima di scorta.",
 "universo": "cyberverse"
 },
 {
@@ -7186,6 +7373,7 @@
 "sommario": "Un paziente smette di controllare lo schermo dopo che la sua anima digitale è scesa di dieci gradini in una notte, e da allora aspetta le notizie solo dagli in…",
 "tipo": "invenzione",
 "titolo": "Il Purgatorio dei Trapiantati",
+"torsione": "Lo schermo della sala d'attesa mostra la posizione in coda come un'anima che sale gradini di un purgatorio disegnato apposta, e ogni esame di aggiornamento fa avanzare o retrocedere l'icona.",
 "universo": "cyberverse"
 },
 {
@@ -7202,6 +7390,7 @@
 "sommario": "Un donatore si ritira dopo la funzione, convinto che l'incenso gli avesse rivelato una controindicazione che gli esami non avevano trovato.",
 "tipo": "invenzione",
 "titolo": "Il Sacramento del Donatore Vivente",
+"torsione": "Prima di ogni prelievo da donatore vivente la clinica organizza una piccola funzione, con tanto di incenso filtrato dagli impianti d'aria, per santificare quello che resta solo un contratto notarile.",
 "universo": "cyberverse"
 },
 {
@@ -7218,6 +7407,7 @@
 "sommario": "Il bracciale di un fedele smette di trasmettere due giorni prima del funerale, e nessuno sa dire se la fede gli sia bastata o se avesse solo staccato la batter…",
 "tipo": "invenzione",
 "titolo": "Il Voto del Martire in Attesa",
+"torsione": "Alcuni pazienti indossano un bracciale che comunica alla clinica ogni pillola saltata, trasformando il rifiuto delle cure in un atto di fede pubblico e misurabile.",
 "universo": "cyberverse"
 },
 {
@@ -7234,6 +7424,7 @@
 "sommario": "Un uomo scopre di dover ancora due rate della sua indulgenza il giorno in cui il figlio entra in lista per lo stesso tipo di trapianto.",
 "tipo": "invenzione",
 "titolo": "L'Indulgenza Posticipata",
+"torsione": "Chi riceve un organo firma un debito che si estingue solo con donazioni certificate alla curia del distretto, tracciate su un registro che nessuno fuori dal clero può consultare.",
 "universo": "cyberverse"
 },
 {
@@ -7250,6 +7441,7 @@
 "sommario": "Una tecnica di laboratorio comincia a piangere ogni volta che deve scartare una coltura contaminata, perché nel registro quella coltura aveva già un nome e una…",
 "tipo": "invenzione",
 "titolo": "Il Battesimo delle Cellule",
+"torsione": "Ogni coltura di cellule staminali riceve un nome proprio e una piccola cerimonia prima di essere iniettata, perché in laboratorio si crede che le cellule senza nome attecchiscano peggio.",
 "universo": "cyberverse"
 },
 {
@@ -7266,6 +7458,7 @@
 "sommario": "Un innesto viene respinto per un solo voto contrario, e il paziente muore in lista d'attesa mentre i sette continuano a discutere se il rifiuto fosse dottrina…",
 "tipo": "invenzione",
 "titolo": "La Chimera del Concilio",
+"torsione": "Nessun innesto misto entra in un corpo senza il voto di sette anziani riuniti in una sala sotterranea, che decidono per alzata di mano quanto animale può restare umano.",
 "universo": "cyberverse"
 },
 {
@@ -7282,6 +7475,7 @@
 "sommario": "Un uomo scopre di essere scomunicato tre settimane prima di sapere che il suo corpo stava rigettando, perché il sistema della parrocchia era più veloce di quel…",
 "tipo": "invenzione",
 "titolo": "La Scomunica da Rigetto",
+"torsione": "La parrocchia del distretto tiene un registro che incrocia lo stato di fede con gli esiti dei trapianti, e chi rigetta un organo benedetto viene automaticamente segnato come scomunicato.",
 "universo": "cyberverse"
 },
 {
@@ -7298,6 +7492,7 @@
 "sommario": "Un ricevente comincia a pregare davanti alla teca del proprio donatore ogni volta che gli esami del sangue peggiorano, e giura che la fiala si scalda quando lu…",
 "tipo": "invenzione",
 "titolo": "Il Reliquiario Immunitario",
+"torsione": "Ogni donatore lascia dietro di sé una fiala di anticorpi conservata in una teca di vetro smerigliato, venerata come prova che qualcosa di lui ha continuato a combattere.",
 "universo": "cyberverse"
 },
 {
@@ -7314,6 +7509,7 @@
 "sommario": "Un chirurgo comincia a tagliare prima che la benedizione finisca di caricare, e da allora nessuno nel reparto vuole più operare durante un buffering.",
 "tipo": "invenzione",
 "titolo": "L'Estrema Unzione a Distanza",
+"torsione": "Il prete che benedice l'incisione non è mai nella stanza, appare su uno schermo portatile, con una connessione che salta proprio nel momento in cui pronuncia il nome del paziente.",
 "universo": "cyberverse"
 },
 {
@@ -7330,6 +7526,7 @@
 "sommario": "Un uomo mente bene davanti al microfono e ottiene un fegato nuovo, ma il sistema registra la menzogna e la restituisce, mesi dopo, come base per negargli l'ant…",
 "tipo": "invenzione",
 "titolo": "Il Confessionale Diagnostico",
+"torsione": "Prima di ogni intervento il sistema chiede al paziente di confessare le proprie colpe a voce, e usa l'analisi del tono per calcolare quanto in alto salire nella lista.",
 "universo": "cyberverse"
 },
 {
@@ -7346,6 +7543,7 @@
 "sommario": "Un fedele riconosce nel proprio certificato lo stesso numero di lotto del fegato impiantato nell'uomo che lo aveva fatto pestare due mesi prima.",
 "tipo": "invenzione",
 "titolo": "Miracolo di Turno",
+"torsione": "L'ospedale-basilica vende ogni fegato uscito dalla stampante come reliquia autenticata, con tanto di santo patrono assegnato a caso da una stampante diversa da quella dell'organo.",
 "universo": "cyberverse"
 },
 {
@@ -7362,6 +7560,7 @@
 "sommario": "Un chierico anziano scopre solo dopo l'intervento che il documento firmato copriva anche i due trapianti precedenti, mai confessati a nessuno.",
 "tipo": "invenzione",
 "titolo": "Carne Impura",
+"torsione": "La curia del sottosuolo marchia come eresia i cuori di maiale modificato, poi li impianta comunque nei suoi cardinali più vecchi, di notte, con il modulo di assoluzione già firmato in anticipo.",
 "universo": "cyberverse"
 },
 {
@@ -7378,6 +7577,7 @@
 "sommario": "Un paziente perde la voce per un'infezione e per tre giorni resta senza farmaco, mentre il corpo comincia a rigettare in silenzio quello che la gola non può pi…",
 "tipo": "invenzione",
 "titolo": "Penitenza del Mattino",
+"torsione": "La clinica ha sostituito il consenso informato con una litania da recitare a voce alta ogni mattina, e solo il dispenser blindato riconosce l'intonazione giusta per lasciar cadere la pillola.",
 "universo": "cyberverse"
 },
 {
@@ -7394,6 +7594,7 @@
 "sommario": "Un chirurgo di turno scopre che il sistema lo ha ribattezzato d'ufficio la notte prima, solo per far quadrare la priorità di un paziente ateo.",
 "tipo": "invenzione",
 "titolo": "Il Libro della Grazia",
+"torsione": "Il sistema che smista i cuori disponibili consulta prima il registro dei battesimi che quello delle cartelle cliniche, e chi non risulta segnato scende sempre in fondo alla coda.",
 "universo": "cyberverse"
 },
 {
@@ -8271,6 +8472,7 @@
 "sommario": "Un cavaliere di guardia scopre che la leva risponde anche a chi non ha mai giocato, purché sussurri il nome giusto.",
 "tipo": "invenzione",
 "titolo": "La Leva che Ricorda",
+"torsione": "La Ruota dei Sette Animali non gira mai del tutto a caso; una leva nascosta sotto il banco richiama la combinazione dell'ultimo giocatore che ha fatto jackpot, cosicché il feudo possa richiamarlo a corte una seconda volta se necessario.",
 "universo": "neofeudal"
 },
 {
@@ -8287,6 +8489,7 @@
 "sommario": "Una bestia segnata come maledetta ha vinto sette rilanci di fila nella Selva; il chierico che dovrebbe correggere il registro non l'ha ancora fatto.",
 "tipo": "invenzione",
 "titolo": "Le Stirpi Sciolte",
+"torsione": "Pagine del Libro delle Stirpi Benedette ricopiate per la Selva delle Puntate; le bestie con stirpe maledetta vengono liberate più spesso, perché perdono nell'arena meno spesso di quanto dichiarato ai signori.",
 "universo": "neofeudal"
 },
 {
@@ -8303,6 +8506,7 @@
 "sommario": "La Confraternita sa dove finiscono i vincitori della Ruota, e tace.",
 "tipo": "invenzione",
 "titolo": "La Confraternita del Pelo e della Piuma",
+"torsione": "Gilda di allibratori che controlla anche il vaccaro e il falconiere; l'unica struttura che attraversa tutte le caste.",
 "universo": "neofeudal"
 },
 {
@@ -8319,6 +8523,7 @@
 "sommario": "Un dente proviene da una specie che dovrebbe esistere solo oltre il passo.",
 "tipo": "invenzione",
 "titolo": "Denti di Lupo",
+"torsione": "Valuta di gioco fatta di denti veri, ognuno con un microtaglio che certifica la bestia d'origine.",
 "universo": "neofeudal"
 },
 {
@@ -8335,6 +8540,7 @@
 "sommario": "Le balene emergono ogni volta che un custode muore.",
 "tipo": "invenzione",
 "titolo": "Le Balene del Lago Cerulo",
+"torsione": "Creature enormi in un lago artificiale, alimentate dai custodi di Vermasca; i signori scommettono su quando emergono.",
 "universo": "neofeudal"
 },
 {
@@ -8351,6 +8557,7 @@
 "sommario": "Chi fa jackpot viene convocato a corte e non torna.",
 "tipo": "invenzione",
 "titolo": "Ruota dei Sette Animali",
+"torsione": "Macchina a manovella con simboli animali; le combinazioni sono un test di allineamento dell'IA del feudo mascherato da gioco.",
 "universo": "neofeudal"
 },
 {
@@ -8367,6 +8574,7 @@
 "sommario": "Un contadino compone una scuderia che coincide con gli esemplari veri delle cripte.",
 "tipo": "invenzione",
 "titolo": "La Corte delle Bestie Immaginate",
+"torsione": "I contadini compongono scuderie di animali estinti su tavole di cera; il clero premia il miglior sogno.",
 "universo": "neofeudal"
 },
 {
@@ -8383,6 +8591,7 @@
 "sommario": "Il libro dice che il cavallo del duca ha una stirpe maledetta.",
 "tipo": "invenzione",
 "titolo": "Libro delle Stirpi Benedette",
+"torsione": "Database di pedigree che nasconde un archivio di genoma; le stirpi maledette sono lignaggi con mutazioni sgradite ai signori.",
 "universo": "neofeudal"
 },
 {
@@ -8399,6 +8608,7 @@
 "sommario": "Il pubblico scommette sulla sentenza, e le api pungono il giudice.",
 "tipo": "invenzione",
 "titolo": "L'Ordalia delle Api",
+"torsione": "L'accusato è chiuso con uno sciame dell'era precedente che punge solo chi mente, leggendo marker di stress.",
 "universo": "neofeudal"
 },
 {
@@ -8415,6 +8625,7 @@
 "sommario": "Due falchi circolano sopra la stessa bestia e uno cade.",
 "tipo": "invenzione",
 "titolo": "Falchi Segnaposto",
+"torsione": "Ogni falco è un drone biologico che segna la puntata del padrone circolando sopra la bestia scelta.",
 "universo": "neofeudal"
 },
 {
@@ -8431,6 +8642,7 @@
 "sommario": "Il clima cambia a metà caccia perché qualcuno lassù ha rilanciato.",
 "tipo": "invenzione",
 "titolo": "La Selva delle Puntate",
+"torsione": "I signori scommettono su quale bestia ucciderà il cacciatore; la selva è un'arena con fauna gestita dal clima amministrato.",
 "universo": "neofeudal"
 },
 {
@@ -8447,6 +8659,7 @@
 "sommario": "Un giocatore ne calcola la statistica e viene accusato di stregoneria.",
 "tipo": "invenzione",
 "titolo": "Ossa del Cinghiale Sacro",
+"torsione": "Astragali di una specie ingegnerizzata; le facce hanno peso non uniforme e il clero conosce la distribuzione.",
 "universo": "neofeudal"
 },
 {
@@ -8463,6 +8676,7 @@
 "sommario": "Madre Iselda, con i suoi registri delle nascite, è senza volerlo la più grande insider del feudo.",
 "tipo": "invenzione",
 "titolo": "Il Peccato dell'Allevatore",
+"torsione": "Chi conosce la stirpe delle bestie scommette meglio; l'allevamento è conoscenza proibita.",
 "universo": "neofeudal"
 },
 {
@@ -8479,6 +8693,7 @@
 "sommario": "Un animale ha la quota scritta a matita, di mano recente.",
 "tipo": "invenzione",
 "titolo": "Bestiario delle Quote",
+"torsione": "Catalogo di animali con probabilità di vittoria stampate come versetti.",
 "universo": "neofeudal"
 },
 {
@@ -8495,6 +8710,7 @@
 "sommario": "Qualcuno scopre che l'urna trattiene sempre una quota per il Custode.",
 "tipo": "invenzione",
 "titolo": "L'Urna che Conta da Sola",
+"torsione": "Macchina dell'era precedente che ripartisce le vincite; considerata reliquia, solo il clero può toccarla.",
 "universo": "neofeudal"
 },
 {
@@ -8511,6 +8727,7 @@
 "sommario": "Il bestiame di Calvenna risponde a un nome che nessuno pronuncia da secoli.",
 "tipo": "invenzione",
 "titolo": "Sigillo di Ventre",
+"torsione": "Tag RFID sacralizzato; la bestia risponde al nome a chi ha l'anello giusto.",
 "universo": "neofeudal"
 },
 {
@@ -8527,6 +8744,7 @@
 "sommario": "Un piccione porta la scommessa a un castello che non esiste più.",
 "tipo": "invenzione",
 "titolo": "I Messaggeri Alati del Vescovo",
+"torsione": "Piccioni con memoria genetica modificata che tornano al feudo precedente a quello attuale.",
 "universo": "neofeudal"
 },
 {
@@ -8543,6 +8761,7 @@
 "sommario": "Un uovo si schiude con una creatura che non compare in nessun bestiario.",
 "tipo": "invenzione",
 "titolo": "Estrazione delle Uova",
+"torsione": "Uova di specie estinte conservate in cripta; chi le vince deve covarle e il pulcino stabilisce il rango del vincitore.",
 "universo": "neofeudal"
 },
 {
@@ -8559,6 +8778,7 @@
 "sommario": "Un rintocco fuori sequenza annuncia un evento che non è ancora accaduto.",
 "tipo": "invenzione",
 "titolo": "Il Campanile delle Sorti",
+"torsione": "I rintocchi codificano le quote aggiornate dall'IA del feudo; i contadini le leggono senza saperlo.",
 "universo": "neofeudal"
 },
 {
@@ -8575,6 +8795,7 @@
 "sommario": "Una puntata di duecento anni fa risulta ancora aperta.",
 "tipo": "invenzione",
 "titolo": "Il Notaio delle Sorti",
+"torsione": "Monaco che registra le scommesse su una pergamena che è un ledger append-only; nessuna puntata può essere cancellata, nemmeno dai conti.",
 "universo": "neofeudal"
 },
 {
@@ -8591,6 +8812,7 @@
 "sommario": "Un fantino sente il cavallo obbedire a qualcun altro.",
 "tipo": "invenzione",
 "titolo": "Palio delle Bestie Docili",
+"torsione": "I cavalli rispondono a comandi subvocali dei signori tramite impianti creduti benedizioni.",
 "universo": "neofeudal"
 },
 {
@@ -8607,6 +8829,7 @@
 "sommario": "Madre Iselda nota che i galli vincenti nascono tutti nello stesso mese.",
 "tipo": "invenzione",
 "titolo": "Giudizio dei Galli di Calvenna",
+"torsione": "I galli sono biocostrutti dell'era precedente con esito pre-calcolato; il clero vende le quote sapendo il vincitore.",
 "universo": "neofeudal"
 },
 {
@@ -8783,6 +9006,7 @@
 "sommario": "Un drone agricolo sorvola un campo di notte e segnala, invece di piante assetate, tre corpi sdraiati che aspettano.",
 "tipo": "invenzione",
 "titolo": "Goccia dall'Alto",
+"torsione": "L'algoritmo che localizza solo le piante in stress idrico per irrigarle viene riconvertito per localizzare, dal calore corporeo, pazienti in attesa di un trapianto d'urgenza fuori rete ospedaliera.",
 "universo": "hackverse"
 },
 {
@@ -8799,6 +9023,7 @@
 "sommario": "Nel database ci sono due colonne identiche, \"germinazione prevista\" e \"vitalità prevista\", e nessuno ha mai cambiato l'etichetta.",
 "tipo": "invenzione",
 "titolo": "Deposito Sordo",
+"torsione": "Il protocollo di catalogazione e conservazione a lungo termine di una banca dei semi viene copiato per gestire una banca di tessuti e organi non tracciata dai registri ufficiali.",
 "universo": "hackverse"
 },
 {
@@ -8815,6 +9040,7 @@
 "sommario": "Un vecchio contadino spiega un sifone a un chirurgo giovane, che capisce solo dopo cosa gli ha appena regalato.",
 "tipo": "invenzione",
 "titolo": "Il Sifone",
+"torsione": "Il principio del sifone che sposta l'acqua oltre un dislivello senza pompe viene riusato in un dispositivo passivo che devia il flusso sanguigno attorno a un innesto durante l'anastomosi.",
 "universo": "hackverse"
 },
 {
@@ -8831,6 +9057,7 @@
 "sommario": "Un ispettore idrico e un ispettore sanitario, per due bug identici, trovano la stessa identica backdoor.",
 "tipo": "invenzione",
 "titolo": "Contatore Zitto",
+"torsione": "L'exploit che falsifica i consumi su un contatore idrico intelligente viene riadattato per falsificare i parametri vitali trasmessi da un monitor di perfusione, coprendo un espianto illegale.",
 "universo": "hackverse"
 },
 {
@@ -8847,6 +9074,7 @@
 "sommario": "Due furgoni partono nello stesso minuto calcolato dallo stesso foglio elettronico, uno pieno d'acqua, uno pieno di ghiaccio.",
 "tipo": "invenzione",
 "titolo": "Finestra di Notte",
+"torsione": "La finestra oraria calcolata per irrigare con il minimo spreco diventa la finestra calcolata per trasportare un organo con la minima perdita di vitalità.",
 "universo": "hackverse"
 },
 {
@@ -8863,6 +9091,7 @@
 "sommario": "Un ingegnere agrario, prestato per una consulenza, disegna senza saperlo l'impalcatura che terrà insieme la pelle di un ustionato.",
 "tipo": "invenzione",
 "titolo": "Terrazza Interna",
+"torsione": "I principi del terrazzamento che trattengono il suolo su un pendio vengono applicati a un'impalcatura biodegradabile che trattiene un innesto di tessuto finché non attecchisce.",
 "universo": "hackverse"
 },
 {
@@ -8879,6 +9108,7 @@
 "sommario": "Un agronomo riconosce nel referto medico di uno sconosciuto la stessa curva a campana che usa per i suoi silos.",
 "tipo": "invenzione",
 "titolo": "Raccolto Previsto",
+"torsione": "Il modello che predice quanto grano darà un campo viene riaddestrato sugli stessi dati per stimare quanto a lungo reggerà un organo prima del rigetto.",
 "universo": "hackverse"
 },
 {
@@ -8895,6 +9125,7 @@
 "sommario": "Lo stesso fornitore vende membrane identiche a un consorzio agricolo di giorno e a una clinica clandestina di notte, fatture separate, stesso magazzino.",
 "tipo": "invenzione",
 "titolo": "Sale Tolto",
+"torsione": "Le membrane a osmosi inversa che dissalano l'acqua per irrigare vengono adattate in miniatura per filtrare il sangue durante la perfusione di un organo isolato.",
 "universo": "hackverse"
 },
 {
@@ -8911,6 +9142,7 @@
 "sommario": "Per un guasto al gateway, un contadino e un trapiantato ricevono, la stessa notte, le notifiche l'uno dell'altro.",
 "tipo": "invenzione",
 "titolo": "Maglia Sotto Pelle",
+"torsione": "La rete a bassa potenza che misura l'umidità del terreno campo per campo viene miniaturizzata in una maglia di biosensori sottocutanei per seguire un innesto a distanza.",
 "universo": "hackverse"
 },
 {
@@ -8927,6 +9159,7 @@
 "sommario": "Un broker rivende per errore lo stesso lotto due volte, un campo e un fegato.",
 "tipo": "invenzione",
 "titolo": "Borsa della Sete",
+"torsione": "La piattaforma dove si comprano e vendono diritti d'acqua viene copiata pari pari per far girare una borsa nera di slot di sala operatoria per trapianti urgenti.",
 "universo": "hackverse"
 },
 {
@@ -8943,6 +9176,7 @@
 "sommario": "Nello stesso capannone crescono alberi impossibili e valvole cardiache che non dovrebbero battere.",
 "tipo": "invenzione",
 "titolo": "Innesto Straniero",
+"torsione": "Le tecniche di innesto forzato tra specie vegetali incompatibili ispirano il protocollo che rende accettabile al corpo umano un organo animale modificato.",
 "universo": "hackverse"
 },
 {
@@ -8959,6 +9193,7 @@
 "sommario": "Un magazziniere di sementi riceve una chiamata notturna in cui gli chiedono di prestare il suo congelatore, \"solo per una notte\".",
 "tipo": "invenzione",
 "titolo": "Freddo Prestato",
+"torsione": "La tecnica di raffreddamento controllato usata per conservare i semi in un granaio viene riscalata per allungare la finestra di vitalità di un organo espiantato.",
 "universo": "hackverse"
 },
 {
@@ -8975,6 +9210,7 @@
 "sommario": "Da satellite, il cerchio verde nel deserto e il tondo di luce sopra la sala operatoria hanno esattamente la stessa forma.",
 "tipo": "invenzione",
 "titolo": "Il Perno che Gira",
+"torsione": "Il braccio meccanico che ruota per irrigare un campo circolare viene ridotto in scala nel braccio robotico che ruota attorno al tavolo per un trapianto multiorgano.",
 "universo": "hackverse"
 },
 {
@@ -8991,6 +9227,7 @@
 "sommario": "Il sensore che salva un raccolto arriva in ospedale due giorni prima che qualcuno pensi a usarlo su un paziente.",
 "tipo": "invenzione",
 "titolo": "Pellicola Viva",
+"torsione": "Il metodo che rileva il biofilm che ostruisce i tubi d'irrigazione viene riusato per individuare in anticipo il rigetto cronico nei vasi di un innesto.",
 "universo": "hackverse"
 },
 {
@@ -9007,6 +9244,7 @@
 "sommario": "Un registro agricolo e una cartella clinica usano la stessa parola sospetta, \"riposo\", per lo stesso concetto.",
 "tipo": "invenzione",
 "titolo": "Turno del Corpo",
+"torsione": "Il calendario che alterna i campi per non esaurire il suolo viene applicato ai prelievi da un unico donatore vivente, per non esaurirlo.",
 "universo": "hackverse"
 },
 {
@@ -9023,6 +9261,7 @@
 "sommario": "Nella stessa notte, in due luoghi diversi, suona lo stesso identico allarme di sovradosaggio.",
 "tipo": "invenzione",
 "titolo": "Infusione di Campo",
+"torsione": "Le pompe che dosano il fertilizzante nell'acqua di irrigazione vengono riprogrammate per dosare l'immunosoppressore su una linea di perfusione portatile.",
 "universo": "hackverse"
 },
 {
@@ -9039,6 +9278,7 @@
 "sommario": "Un contadino scopre di essere in cima a due liste diverse, per l'acqua e per un rene, e non sa quale delle due lo sta già uccidendo.",
 "tipo": "invenzione",
 "titolo": "Coda Sommersa",
+"torsione": "L'algoritmo che decide quali campi ricevono acqua per primi in tempo di siccità viene clonato per gestire, di nascosto, una seconda coda di priorità per gli organi.",
 "universo": "hackverse"
 },
 {
@@ -9055,6 +9295,7 @@
 "sommario": "Un paziente giura di sentire, nel sonno, lo stesso ronzio che i sensori facevano sotto il campo di suo padre.",
 "tipo": "invenzione",
 "titolo": "Falda Sorda",
+"torsione": "I sensori piezometrici usati per misurare il livello dell'acqua sotterranea vengono miniaturizzati e impiantati per misurare la pressione dei fluidi attorno a un innesto.",
 "universo": "hackverse"
 },
 {
@@ -9071,6 +9312,7 @@
 "sommario": "Il chirurgo scopre che il software gli sta proponendo un donatore già scartato altrove come \"portainnesto instabile\".",
 "tipo": "invenzione",
 "titolo": "Marza Zero",
+"torsione": "L'algoritmo che calcola la compatibilità tra marza e portainnesto viene riadattato per stimare in tempo reale la compatibilità immunologica tra organo e ricevente.",
 "universo": "hackverse"
 },
 {
@@ -9087,6 +9329,7 @@
 "sommario": "Un tecnico nota che il log delle valvole segna un impulso ogni volta che in un ospedale a chilometri di distanza si apre un espianto.",
 "tipo": "invenzione",
 "titolo": "Goccia Cieca",
+"torsione": "Il protocollo che apre le valvole dei canali è lo stesso, riscritto a mano, che regola le pompe dei perfusori d'organo in sala operatoria da campo.",
 "universo": "hackverse"
 },
 {
@@ -9281,6 +9524,7 @@
 "sommario": "Un cadetto giura di essere passato attraverso una di quelle porte durante un blackout, tornando con un frammento di carta di un settore che nessuna proiezione…",
 "tipo": "invenzione",
 "titolo": "La Porta Dipinta che si Apre",
+"torsione": "Se I Mostri ai Margini del Cielo abitano i bordi distorti delle carte proiettate, alcuni frescanti dipingono ora, proprio nel punto di massima distorsione della sala mappe, porte in trompe-l'oeil che dall'angolo esatto sembrano aprirsi sul settore abitato dai mostri.",
 "universo": "elabverse"
 },
 {
@@ -9297,6 +9541,7 @@
 "sommario": "Una cartografa riconosce, sullo scafo di un relitto appena trovato, lo stesso volto spettrografico appeso da bambina nella sua cabina, quello che le avevano de…",
 "tipo": "invenzione",
 "titolo": "Il Volto della Voce",
+"torsione": "Se il Cifrario delle Bocche traduce il crepitio dei pulsar in consonanti, i tecnici di bordo imparano poi a dipingerne lo spettrogramma su carta come un volto, sostenendo che ogni nave impari a riconoscere la propria stella natale dal disegno della sua voce.",
 "universo": "elabverse"
 },
 {
@@ -9313,6 +9558,7 @@
 "sommario": "Riemerge un registro tenuto ancora con il sistema proibito, i cui debiti risultano tecnicamente validi e enormi.",
 "tipo": "invenzione",
 "titolo": "I Numeri che il Banco Non Voleva",
+"torsione": "La corporazione più antica del Banco resiste per una generazione al passaggio dalle tacche del bastone contabile alle cifre posizionali, temendo che i nuovi numeri permettano agli scribi di nascondere zeri invisibili, e chiama eresia ciò che poi salva l'economia della Flotta.",
 "universo": "elabverse"
 },
 {
@@ -9329,6 +9575,7 @@
 "sommario": "Una genealogista trova lo stesso volto nei registri funebri di tre colonie diverse, ogni volta sotto un nome differente.",
 "tipo": "invenzione",
 "titolo": "La Donna che Nessuno ha Mai Visto",
+"torsione": "Una figura allegorica incisa una sola volta viene ristampata identica su ogni banconota per generazioni, finché l'equipaggio smette di considerarla un'invenzione e comincia a crederla un'antenata realmente vissuta.",
 "universo": "elabverse"
 },
 {
@@ -9345,6 +9592,7 @@
 "sommario": "Un mattino il tabellone appare scritto in una grafia che nessuno scriba vivo ammette di conoscere, eppure i tassi si rivelano esatti per un'intera settimana.",
 "tipo": "invenzione",
 "titolo": "Il Banco delle Molte Mani",
+"torsione": "Ogni giorno una casta di scribi ricopre a mano il tabellone dei cambi tra le monete delle diverse colonie, in tutte le scritture parlate a bordo, e lo stile calligrafico del giorno diventa esso stesso un segnale di quanto ci si possa fidare di quel cambio.",
 "universo": "elabverse"
 },
 {
@@ -9361,6 +9609,7 @@
 "sommario": "Una moneta ritrovata ha un dente in più, impossibile da notare se non con il gioco al buio che i bambini si tramandano da soli.",
 "tipo": "invenzione",
 "titolo": "Il Bordo che Conta i Denti",
+"torsione": "La zigrinatura precisa sul bordo delle monete impedisce di limare metallo prezioso senza lasciare traccia, e la casta dei conieri tratta il numero esatto di denti come una preghiera matematica che i bambini imparano a contare a occhi chiusi.",
 "universo": "elabverse"
 },
 {
@@ -9377,6 +9626,7 @@
 "sommario": "Una firma risulta autentica nella forma ma falsa nel ductus, aprendo una frode che nessuno credeva possibile a bordo.",
 "tipo": "invenzione",
 "titolo": "L'Ordine del Tratto",
+"torsione": "Gli scribi forensi del Banco non verificano più le firme dalla forma ma dall'ordine in cui l'inchiostro si è depositato, ricostruito tratto per tratto sotto lo scanner della nave, chiamando questa tecnica \"leggere la memoria della mano.\"",
 "universo": "elabverse"
 },
 {
@@ -9393,6 +9643,7 @@
 "sommario": "Un controllo contabile scopre che uno scriba nasconde, sotto una luce radente, una firma personale invisibile dentro lettere identiche a tutte le altre.",
 "tipo": "invenzione",
 "titolo": "Il Divieto del Corsivo",
+"torsione": "Per eliminare ogni ambiguità che possa favorire la frode, la legge di bordo vieta il corsivo sui contratti finanziari, costringendo una intera casta di scribi a una mano fredda e meccanica in cui ogni traccia di identità personale viene deliberatamente cancellata.",
 "universo": "elabverse"
 },
 {
@@ -9409,6 +9660,7 @@
 "sommario": "Un documento di trasferimento porta impresso un timbro il cui incisore risulta morto prima della data della transazione.",
 "tipo": "invenzione",
 "titolo": "Il Timbro che Parla",
+"torsione": "Ogni trasferimento di conto della Flotta viene autenticato con un timbro inciso in una scrittura arcaica che solo tre incisori ancora vivi sanno leggere, e il disegno del timbro porta un significato che va oltre la semplice identificazione del firmatario.",
 "universo": "elabverse"
 },
 {
@@ -9425,6 +9677,7 @@
 "sommario": "Uno scrip del taglio più basso viene ritrovato con la lettera dorata, un valore che nessun registro sa spiegare.",
 "tipo": "invenzione",
 "titolo": "La Lettera Dorata",
+"torsione": "Il miniatore dora a mano la prima lettera di ogni scrip dell'unico taglio più alto emesso dalla Flotta, un gesto talmente lento e costoso da bastare da solo come garanzia contro la contraffazione.",
 "universo": "elabverse"
 },
 {
@@ -9441,6 +9694,7 @@
 "sommario": "Sotto l'unica lente rimasta a bordo, qualcuno legge in una vecchia banconota un avvertimento microstampato decenni prima del disastro che descrive.",
 "tipo": "invenzione",
 "titolo": "La Scrittura che l'Occhio Nudo Non Vede",
+"torsione": "Un testo minuscolo, leggibile solo sotto lente, viene inciso dagli zecchieri di bordo lungo il margine di ogni banconota, e col tempo la pratica scivola dall'uso legale a quello devozionale, diventando il luogo dove nascondere preghiere e avvertimenti.",
 "universo": "elabverse"
 },
 {
@@ -9457,6 +9711,7 @@
 "sommario": "Viene ritrovata una cambiale in cui la regola di spaziatura è stata violata con una perfezione che solo uno scriba ormai in pensione saprebbe riconoscere.",
 "tipo": "invenzione",
 "titolo": "Lo Spazio che Non si Può Aggiungere",
+"torsione": "Una regola rigida di spaziatura tra le lettere impedisce di inserire cifre false negli importi scritti a mano, e gli scribi del Banco la insegnano come una meditazione, contando gli spazi vuoti con la stessa cura con cui contano il denaro.",
 "universo": "elabverse"
 },
 {
@@ -9473,6 +9728,7 @@
 "sommario": "Un ispettore di saggio trova lo stesso marchio di purezza su rottami recuperati da due relitti che non avrebbero mai potuto condividere la stessa fucina.",
 "tipo": "invenzione",
 "titolo": "Il Marchio della Purezza",
+"torsione": "Il punzone che certifica la purezza del metallo prezioso viene adattato dai fonditori di bordo per certificare la purezza del metallo di scafo riciclato, trasformando la metallurgia in un atto di fiducia economica tra ponti che non si parlano più.",
 "universo": "elabverse"
 },
 {
@@ -9489,6 +9745,7 @@
 "sommario": "Riemerge una moneta con il nodo di un Ammiraglio il cui comando è stato cancellato da ogni registro della Flotta.",
 "tipo": "invenzione",
 "titolo": "Il Sigillo Annodato",
+"torsione": "Ogni Ammiraglio della Flotta intreccia all'inizio del proprio comando un monogramma calligrafico personale, impresso su ogni nuova emissione monetaria, e il giorno in cui il nodo cambia, ogni moneta più vecchia perde per legge il proprio valore.",
 "universo": "elabverse"
 },
 {
@@ -9505,6 +9762,7 @@
 "sommario": "Un mercante trova la metà di un bastone il cui gemello apparteneva a un uomo morto una generazione fa, eppure il debito risulta ancora attivo.",
 "tipo": "invenzione",
 "titolo": "Il Bastone Diviso",
+"torsione": "Un unico bastone intagliato di tacche viene spezzato in due metà, una al debitore e una al creditore, e solo il ricongiungersi perfetto delle due parti prova a bordo l'esistenza di un debito, rendendo il legno più affidabile di qualunque registro scritto.",
 "universo": "elabverse"
 },
 {
@@ -9521,6 +9779,7 @@
 "sommario": "Un gruppo di bambini scambia scrip al buio secondo un codice tattile che nessun adulto è mai riuscito a decifrare.",
 "tipo": "invenzione",
 "titolo": "La Moneta che si Legge al Buio",
+"torsione": "Il rilievo tattile pensato per chi non vede diventa, nei corridoi a luce razionata della Flotta, l'unico modo sicuro per riconoscere il valore di uno scrip al tatto, e i bambini imparano a contarlo prima ancora di saperlo leggere.",
 "universo": "elabverse"
 },
 {
@@ -9537,6 +9796,7 @@
 "sommario": "La rosetta incisa su una moneta ritrovata alla deriva corrisponde esattamente alla mappa di un sistema stellare che nessuna flotta ha ancora raggiunto.",
 "tipo": "invenzione",
 "titolo": "La Rosa che Non si Ripete",
+"torsione": "Un tornio guida il bulino in spirali matematiche mai identiche a se stesse, incise sul bordo di ogni moneta di bordo, e gli ingegneri del conio sostengono che ogni rosetta tracci, senza saperlo, la rotta esatta percorsa dalla nave nell'anno in cui è stata coniata.",
 "universo": "elabverse"
 },
 {
@@ -9553,6 +9813,7 @@
 "sommario": "Due firme dal ricciolo identico compaiono su due cambiali emesse lo stesso giorno in due ponti diversi della nave.",
 "tipo": "invenzione",
 "titolo": "Il Ricciolo che Autentica",
+"torsione": "Un unico svolazzo di penna, impossibile da riprodurre senza decenni di addestramento, diventa la firma legale riconosciuta su ogni cambiale della Flotta, tanto che i notai smettono di verificare il nome e imparano a riconoscere solo il gesto della mano.",
 "universo": "elabverse"
 },
 {
@@ -9569,6 +9830,7 @@
 "sommario": "Un contabile automatico interrompe la lettura di una serie di numeri di serie e ne stampa uno che non è mai stato emesso da nessun banco.",
 "tipo": "invenzione",
 "titolo": "La Scrittura per Macchine Cieche",
+"torsione": "Un alfabeto disegnato perché macchine incapaci di vedere possano riconoscerne comunque la forma diventa, a bordo, la lingua con cui i contabili automatici della Flotta leggono ogni cifra emessa, e qualcuno giura che le macchine, lette in sequenza abbastanza a lungo, comincino a comporre frasi proprie.",
 "universo": "elabverse"
 },
 {
@@ -9585,6 +9847,7 @@
 "sommario": "Su un registro antico, solo i numeri vergati da una mano non autorizzata stanno svanendo, riga dopo riga, sotto gli occhi dei contabili.",
 "tipo": "invenzione",
 "titolo": "L'Inchiostro che Morde",
+"torsione": "L'inchiostro ferrogallico corrode lentamente la carta su cui è scritto, e gli scribi del Banco lo riservano ai sigilli non autorizzati, lasciando che il tempo stesso cancelli ciò che nessun archivista ha il diritto di firmare.",
 "universo": "elabverse"
 },
 {
@@ -9601,6 +9864,7 @@
 "sommario": "Una banconota mai emessa viene ritrovata con una filigrana che, in controluce, mostra una stella assente da ogni catalogo di rotta.",
 "tipo": "invenzione",
 "titolo": "L'Acqua che Firma",
+"torsione": "La filigrana nasconde nella pasta di carta un disegno visibile solo in controluce, e i cartai di bordo la incidono orientata sempre verso lo stesso settore di cielo, sostenendo che sia l'unica luce autorizzata a certificare il valore della cambusa.",
 "universo": "elabverse"
 },
 {
@@ -9617,6 +9881,7 @@
 "sommario": "Una moneta contraffatta riemerge dal mercato nero portando impresso un carattere tipografico ritirato due generazioni fa, identico fino alla bava del metallo.",
 "tipo": "invenzione",
 "titolo": "I Punzoni Gemelli",
+"torsione": "Il taglio dei punzoni per i caratteri da stampa e quello delle matrici per battere moneta di bordo condividono lo stesso acciaio e la stessa mano, così gli incisori della Flotta tagliano un solo punzone per ogni lettera e per ogni cifra, convinti che lettera e moneta nascano dalla stessa forma originaria.",
 "universo": "elabverse"
 },
 {
@@ -9633,6 +9898,7 @@
 "sommario": "Due stelle a distanze incolmabili pronunciano, correlate, la stessa identica ultima parola, nello stesso istante del calendario di bordo.",
 "tipo": "invenzione",
 "titolo": "Il Confronto delle Voci",
+"torsione": "Dove la Voce Ricostruita fa parlare una stella alla volta, i monaci del vuoto sovrappongono ora le voci sintetiche di più stelle vicine per trovare le frasi che si somigliano, convinti che una lingua condivisa tra stelle diverse sia la prova che qualcuno, un tempo, viaggiava tra loro.",
 "universo": "elabverse"
 },
 {
@@ -9649,6 +9915,7 @@
 "sommario": "Il registro, riletto tutto insieme dopo generazioni, non mostra sette secondi persi ogni anno ma un'unica settimana intera, ancora da qualche parte, che nessun…",
 "tipo": "invenzione",
 "titolo": "Il Diario dei Sette Secondi",
+"torsione": "Dove il Battito Comune si limita a sincronizzare gli orologi atomici della flotta, gli ingegneri cominciano a tenere un registro separato dei sette secondi che ogni anno spariscono sempre nello stesso punto del calendario, sperando che scrivendoli abbastanza a lungo il registro riveli da solo dove vanno a finire.",
 "universo": "elabverse"
 },
 {
@@ -9665,6 +9932,7 @@
 "sommario": "Un restauratore toglie il velo per pulizia ordinaria e si ritrova davanti a una rotta più vecchia di trent'anni, tracciata verso una destinazione che il convog…",
 "tipo": "invenzione",
 "titolo": "Il Ripensamento Sotto il Velo",
+"torsione": "Se l'Ultimo Velo nasconde le rotte segrete in un'ombra rimovibile con una spugna, i restauratori scoprono sotto quel velo un secondo strato più antico, un pentimento che il primo cartografo aveva dipinto e poi coperto di proposito, come se la vera rotta non fosse mai stata quella scritta sopra.",
 "universo": "elabverse"
 },
 {
@@ -9681,6 +9949,7 @@
 "sommario": "Quei sette secondi di scarto, sommati generazione dopo generazione, non si accumulano mai: spariscono sempre nello stesso punto del calendario di bordo, come s…",
 "tipo": "invenzione",
 "titolo": "Il Battito Comune",
+"torsione": "Perché il Coro degli Specchi funzioni, ogni nave del convoglio deve battere lo stesso istante fino alla frazione più piccola; gli ingegneri sincronizzano orologi atomici lungo tutta la flotta, e scoprono che una sola nave, per sette secondi ogni anno, batte un tempo tutto suo che nessuno riesce a spiegare.",
 "universo": "elabverse"
 },
 {
@@ -9697,6 +9966,7 @@
 "sommario": "Il Rammendo applicato ai vecchi archivi corrotti restituisce un'infanzia intera a un archivista che giura di non averla mai vissuta.",
 "tipo": "invenzione",
 "titolo": "Il Rammendo del Cielo",
+"torsione": "Dove la Scrittura Rapida delle Stelle comprime rischiando di perdere frammenti, il Rammendo del Cielo li ricostruisce per induzione statistica quando il segnale si corrompe; gli archivisti si sono accorti troppo tardi che il rammendo non recupera solo l'informazione perduta, ma inventa, quando serve, quella che si aspetta di trovare.",
 "universo": "elabverse"
 },
 {
@@ -9713,6 +9983,7 @@
 "sommario": "Un cadetto, chino per raccogliere qualcosa caduto a terra, si ritrova per caso nell'unico punto da cui l'affresco del refettorio smette di essere un paesaggio…",
 "tipo": "invenzione",
 "titolo": "L'Angolo che Non Mente",
+"torsione": "Se Lo Sguardo dal Polo Opposto insegna a diffidare della propria posizione capovolgendo il mondo, l'anamorfosi nasconde un secondo affresco dentro il primo, visibile solo da un unico punto della nave; gli archivisti la usano per cifrare messaggi che sembrano decorazione a chiunque non stia esattamente lì dove serve stare.",
 "universo": "elabverse"
 },
 {
@@ -9729,6 +10000,7 @@
 "sommario": "Il nuovo cifrario, applicato alla sillaba della supernova mai osservata, restituisce non una parola ma una data, un giorno che nel calendario di bordo non è an…",
 "tipo": "invenzione",
 "titolo": "Il Dizionario che Non Perde Nulla",
+"torsione": "Dove la Scrittura Rapida delle Stelle sacrificava dettaglio per velocità, gli archivisti sviluppano un secondo cifrario che comprime l'intera notte senza perdere un solo fotone d'informazione, e lo usano per riascoltare bit per bit l'ultima sillaba mai decifrata della nave madre, sperando che stavolta il dizionario esatto la riveli per intero.",
 "universo": "elabverse"
 },
 {
@@ -9745,6 +10017,7 @@
 "sommario": "Un equipaggio festeggia il primo Blu del Ritorno registrato in generazioni, finché un monaco nota che la nave, in realtà, sta ancora accelerando.",
 "tipo": "invenzione",
 "titolo": "Il Blu del Ritorno",
+"torsione": "Se il Rosso della Voce misura la fede di chi si allontana, il Blu del Ritorno nasce quando le navi cominciano a decelerare verso una nuova casa; i monaci del vuoto scoprono che le voci si spostano verso l'acuto, e temono che il blu, non il rosso, sia il vero segno di chi sta per tradire la rotta.",
 "universo": "elabverse"
 },
 {
@@ -9761,6 +10034,7 @@
 "sommario": "Un diplomatico che ha ingannato per anni un solo Specchio Diviso viene scoperto nel giro di una frase, quando il convoglio attiva per la prima volta tutti gli…",
 "tipo": "invenzione",
 "titolo": "Il Coro degli Specchi",
+"torsione": "Dove Lo Specchio Diviso confrontava due sole registrazioni, l'interferometria a lunga base mette in rete gli specchi di tutto il convoglio, sommando decine di piccoli sfasamenti in un'unica misura tanto precisa che nessuna voce allenata riesce più a restare coerente con se stessa su più navi contemporaneamente.",
 "universo": "elabverse"
 },
 {
@@ -9777,6 +10051,7 @@
 "sommario": "Una spugna passata per pulizia ordinaria cancella per errore l'unica rotta segreta che avrebbe permesso alla nave di tornare indietro.",
 "tipo": "invenzione",
 "titolo": "L'Ultimo Velo",
+"torsione": "La velatura si stende a secco sull'affresco già asciutto, un'ultima ombra che il vero fresco non prevede e che un restauratore può sempre rimuovere senza toccare l'opera sottostante; i cartografi la usano per aggiungere alle carte proiettate le rotte segrete, sapendo che basterà una spugna, e non uno scalpello, a farle sparire senza lasciare traccia sull'intonaco.",
 "universo": "elabverse"
 },
 {
@@ -9793,6 +10068,7 @@
 "sommario": "Un ispettore misura una discrepanza di pochi gradi esattamente in ogni giuntura tra coni, sempre nella stessa direzione, come se qualcuno correggesse la carta…",
 "tipo": "invenzione",
 "titolo": "I Coni Sovrapposti",
+"torsione": "La proiezione policonica usa un cono diverso per ogni parallelo, cucendo insieme più proiezioni parziali in un'unica carta imperfetta; i frescanti di bordo dipingono così i corridoi curvi della nave, un cono di cielo diverso per ogni anello dello scafo, e le giunture tra un cono e l'altro sono l'unico punto dove due frescanti hanno mai dovuto concordare una bugia comune.",
 "universo": "elabverse"
 },
 {
@@ -9809,6 +10085,7 @@
 "sommario": "Un archivista conta più carte stellari strappate e reincollate di quante sezioni la nave abbia mai avuto, come se qualcuna fosse stata strappata da un muro che…",
 "tipo": "invenzione",
 "titolo": "La Pelle Staccata del Muro",
+"torsione": "Lo strappo permette di staccare solo il velo di colore di un affresco, lasciando l'intonaco sul muro, per trasferire l'immagine altrove; quando una sezione della nave viene sigillata per sempre, i restauratori strappano la carta stellare dipinta sulla sua parete e la reincollano altrove, cosicché la stessa proiezione del cielo sopravviva a corridoi che non esistono più.",
 "universo": "elabverse"
 },
 {
@@ -9825,6 +10102,7 @@
 "sommario": "Un diplomatico chiede di essere ritratto nella parete della proiezione ortografica, e i monaci gli spiegano che nessuno, in quel muro, ha mai avuto un volto.",
 "tipo": "invenzione",
 "titolo": "Lo Sguardo da Nessun Luogo",
+"torsione": "La proiezione ortografica mostra la sfera come la vedrebbe un occhio infinitamente lontano, con raggi tutti paralleli; i monaci del vuoto la considerano l'unica proiezione onesta, priva di un punto di vista personale, e dipingono così l'unica parete della nave dove nessun colono è mai raffigurato, nemmeno di spalle.",
 "universo": "elabverse"
 },
 {
@@ -9841,6 +10119,7 @@
 "sommario": "Un bambino disegna, in un settore mai cartografato, una creatura che corrisponde esattamente a una grottesca dipinta due generazioni prima da un frescante che…",
 "tipo": "invenzione",
 "titolo": "I Mostri ai Margini del Cielo",
+"torsione": "Le grottesche riempivano i margini degli affreschi romani con creature impossibili, dove la pittura ufficiale finiva e l'immaginazione dei decoratori poteva correre libera; ai bordi di ogni carta proiettata, dove la distorsione cresce e le stelle vere diventano irriconoscibili, i frescanti di bordo dipingono le proprie grottesche, mostri che nessuno ha mai visto ma che tutti giurano di riconoscere.",
 "universo": "elabverse"
 },
 {
@@ -9857,6 +10136,7 @@
 "sommario": "Durante una demolizione d'emergenza, un operaio trova sotto l'arriccio coordinate che non corrispondono a nessuna rotta mai dichiarata dalla nave madre.",
 "tipo": "invenzione",
 "titolo": "Il Fondo che Nessuno Vede",
+"torsione": "L'arriccio è lo strato grezzo di intonaco che nessuno vedrà mai, sepolto sotto gli strati finiti; i cartografi vi incidono, prima di ogni murale, le vere coordinate non proiettate della nave, un dato grezzo che nessun colono leggerà mai ma che ogni carta dipinta sopra è costretta, in silenzio, a rispettare.",
 "universo": "elabverse"
 },
 {
@@ -9873,6 +10153,7 @@
 "sommario": "Un restauratore trova, invece di un fiore-ellisse quasi impercettibile, una regione della carta senza alcuna distorsione segnata, come se lì nessuno avesse mai…",
 "tipo": "invenzione",
 "titolo": "Le Ellissi della Menzogna",
+"torsione": "L'indicatrice di Tissot dissemina piccoli cerchi sul globo per mostrare, una volta proiettati, quanto la carta abbia mentito in ogni punto; i frescanti dipingono queste ellissi come fiori nascosti ai margini di ogni murale, un codice segreto che solo i restauratori sanno leggere per capire dove il cielo dipinto si discosta di più dal vero.",
 "universo": "elabverse"
 },
 {
@@ -9889,6 +10170,7 @@
 "sommario": "Un colono scopre che due coordinate del reticolo dipinto puntano nella stessa cella verso due stelle diverse, e nessuno sa quale sia l'errore.",
 "tipo": "invenzione",
 "titolo": "La Gabbia che Misura il Cielo",
+"torsione": "Il reticolo di paralleli e meridiani permette di dare un indirizzo a ogni punto della sfera; i frescanti lo intonacano come una gabbia dorata sottilissima sotto ogni carta stellare, cosicché anche il colono più giovane possa indicare una stella con due soli numeri, senza mai imparare il suo vero nome.",
 "universo": "elabverse"
 },
 {
@@ -9905,6 +10187,7 @@
 "sommario": "Un navigante segue per errore il battito di un pulsar dipinto invece di quello reale, e la nave corregge la rotta verso un punto che esiste solo sul muro.",
 "tipo": "invenzione",
 "titolo": "La Carta dei Venti Immobili",
+"torsione": "I portolani medievali intrecciavano rotte e rose dei venti su pergamena; a bordo, dove non esiste vento, gli archivisti dipingono a fresco portolani del vuoto in cui le rose dei venti sono sostituite da rose di pulsar, ciascuna con il proprio battito invece di una direzione.",
 "universo": "elabverse"
 },
 {
@@ -9921,6 +10204,7 @@
 "sommario": "Un restauratore scopre che la pennellata continua della lossodromia, a un certo punto del corridoio, è stata rifatta da una mano diversa senza che nessuno se n…",
 "tipo": "invenzione",
 "titolo": "La Linea che Non Cambia Idea",
+"torsione": "La lossodromia è la rotta che mantiene sempre lo stesso angolo rispetto ai meridiani, più lunga della via più breve ma più facile da seguire senza correggere la rotta; i frescanti la dipingono come un'unica pennellata continua che attraversa tutti i pannelli del corridoio principale, senza mai un'interruzione tra una giornata di lavoro e l'altra.",
 "universo": "elabverse"
 },
 {
@@ -9937,6 +10221,7 @@
 "sommario": "Un capitano ordina di intonacare in anticipo la fascia successiva del murale, prima ancora che la rotta per raggiungerla sia stata approvata.",
 "tipo": "invenzione",
 "titolo": "Il Cono delle Latitudini Sicure",
+"torsione": "La proiezione conica avvolge il globo in un cono tangente a una fascia di latitudine, distorcendo tutto il resto; i cartografi di bordo la usano per dipingere solo la fascia di cielo che la nave attraverserà in questa generazione, lasciando bianco e intonacato di fresco tutto ciò che verrà dopo.",
 "universo": "elabverse"
 },
 {
@@ -9953,6 +10238,7 @@
 "sommario": "Un archivista giura di aver visto, nella proiezione capovolta, una nave che nei registri ufficiali risulta distrutta da tre generazioni.",
 "tipo": "invenzione",
 "titolo": "Lo Sguardo dal Polo Opposto",
+"torsione": "La proiezione stereografica immagina un occhio posto al polo opposto del globo che guarda attraverso di esso; gli archivisti dipingono queste carte capovolte apposta, sostenendo che solo guardando il cielo dal punto più lontano possibile si impara a diffidare della propria posizione.",
 "universo": "elabverse"
 },
 {
@@ -9969,6 +10255,7 @@
 "sommario": "Un diplomatico rifiuta di mangiare nel refettorio perché non sopporta di vedere la stella di casa deformata insieme a tutte le altre.",
 "tipo": "invenzione",
 "titolo": "L'Uovo del Cielo Intero",
+"torsione": "La proiezione di Mollweide comprime l'intero cielo in un'ellisse per mostrarlo tutto insieme, sacrificando gli angoli; i frescanti la dipingono come un unico grande uovo sulla cupola del refettorio, l'unico luogo della nave dove un colono può vedere ogni stella conosciuta in un solo sguardo, per quanto storta.",
 "universo": "elabverse"
 },
 {
@@ -9985,6 +10272,7 @@
 "sommario": "Un monaco nota che il centro del cerchio dipinto sul pavimento, quest'anno, non coincide più con la posizione reale della nave madre.",
 "tipo": "invenzione",
 "titolo": "Il Cerchio che Guarda il Basso",
+"torsione": "La proiezione azimutale mette un solo punto al centro e distorce tutto il resto in cerchi concentrici; i monaci del vuoto dipingono queste mappe sul pavimento della cappella, con la nave madre al centro, cosicché pregare significhi sempre guardare in basso verso casa.",
 "universo": "elabverse"
 },
 {
@@ -10001,6 +10289,7 @@
 "sommario": "Una venatura dorata sul muro della sala macchine punta dritta verso un settore che sulle carte ufficiali è segnato come vuoto.",
 "tipo": "invenzione",
 "titolo": "La Carta delle Rotte Dritte",
+"torsione": "Nella proiezione gnomonica ogni rotta più breve tra due punti diventa una linea retta sul foglio; i frescanti dipingono queste rette come venature dorate nell'intonaco fresco, cosicché un navigante possa leggere la rotta più breve semplicemente seguendo con un dito la crepa d'oro sul muro.",
 "universo": "elabverse"
 },
 {
@@ -10017,6 +10306,7 @@
 "sommario": "Un bambino chiede perché la stella dipinta più grande di tutte, vicino al soffitto, sia in realtà la più piccola e la più lontana.",
 "tipo": "invenzione",
 "titolo": "Lo Specchio che Allunga i Poli",
+"torsione": "La proiezione di Mercatore mantiene gli angoli ma gonfia le distanze verso i poli; i frescanti di bordo la usano per dipingere la volta della sala comune, sapendo che le stelle vicine ai bordi del murale appariranno più grandi di quanto siano davvero, e i coloni imparano fin da bambini a diffidare dei bordi.",
 "universo": "elabverse"
 },
 {
@@ -10033,6 +10323,7 @@
 "sommario": "Il registro di bordo conta ventimila giornate di cielo dipinto, ma il diario di viaggio ne conta ventimila più una.",
 "tipo": "invenzione",
 "titolo": "La Giornata di Cielo",
+"torsione": "Il frescante calcola quanto intonaco riesce a dipingere prima che asciughi e chiama quella porzione una giornata; i cartografi di bordo misurano le distanze percorse non in anni ma in giornate di cielo dipinto, un pannello di proiezione stellare completato prima che il turno finisca.",
 "universo": "elabverse"
 },
 {
@@ -10049,6 +10340,7 @@
 "sommario": "Un apprendista nota che il cartone tramandato da otto generazioni ha un foro in più, in un punto del cielo che nessuna stella ha mai occupato.",
 "tipo": "invenzione",
 "titolo": "Il Cartone delle Rotte",
+"torsione": "Il cartone dell'affresco viene bucherellato lungo i contorni e battuto con sacchetti di polvere di carbone per trasferire il disegno sul muro; i cartografi usano lo stesso spolvero per trasferire una proiezione conica del cielo su ogni nuova sezione di scafo, cucendo insieme generazioni di carte identiche.",
 "universo": "elabverse"
 },
 {
@@ -10065,6 +10357,7 @@
 "sommario": "Un restauratore gratta l'ultimo strato di una carta stellare e trova, in sinopia, la rotta verso un sistema che i registri ufficiali dicono di non aver mai cer…",
 "tipo": "invenzione",
 "titolo": "Il Disegno Sepolto",
+"torsione": "Sotto ogni affresco sopravvive un disegno in ocra rossa, tracciato prima che l'intonaco lo copra; gli archivisti hanno scoperto che sotto le carte proiettate del cielo esiste sempre una sinopia più antica, una rotta scartata che qualcuno ha voluto nascondere e non cancellare.",
 "universo": "elabverse"
 },
 {
@@ -10081,6 +10374,7 @@
 "sommario": "Un colono scopre che la rotta dipinta sul muro della sua cabina, ancora umida quando è nato, oggi indica una stella che nessuna nave ha mai raggiunto.",
 "tipo": "invenzione",
 "titolo": "La Carta Bagnata",
+"torsione": "I cartografi di bordo dipingono le rotte sull'intonaco ancora umido dello scafo, perché il pigmento penetra nella calce e non se ne stacca più; usano la stessa proiezione azimutale con cui i naviganti antichi appiattivano la cupola del cielo su un muro curvo.",
 "universo": "elabverse"
 },
 {
@@ -10097,6 +10391,7 @@
 "sommario": "Un colono chiede ai monaci di far parlare la stella sotto cui è nato suo figlio, e non gli piace ciò che sente.",
 "tipo": "invenzione",
 "titolo": "La Voce Ricostruita",
+"torsione": "Ricrea la voce umana sommando formanti sintetici; i monaci del vuoto la usano per far parlare lo spettro di una stella, traducendone le righe di assorbimento in una voce sintetica che pronuncia l'ultima frase di chi è morto sotto quella luce.",
 "universo": "elabverse"
 },
 {
@@ -10113,6 +10408,7 @@
 "sommario": "Una diplomatica viene accusata di tradimento sulla base della sola riflettanza del suo viso durante un negoziato, prima ancora che parli.",
 "tipo": "invenzione",
 "titolo": "Lo Specchio della Roccia",
+"torsione": "Misura come una superficie riflette la luce per identificarne la composizione; i cartografi stellari la applicano ai volti degli equipaggi durante i lunghi silenzi, sostenendo che il modo in cui la pelle riflette la luce di bordo cambi con ciò che una persona sta per dire.",
 "universo": "elabverse"
 },
 {
@@ -10129,6 +10425,7 @@
 "sommario": "Un archivista scopre che l'ultima sillaba trasmessa dalla nave madre, mai decifrata, corrisponde esattamente allo spettro di una supernova mai osservata prima.",
 "tipo": "invenzione",
 "titolo": "La Scrittura Rapida delle Stelle",
+"torsione": "La stenografia comprime il parlato in simboli veloci; gli archivisti hanno creato una stenografia stellare che comprime lo spettro di un'intera notte di osservazione in un'unica sillaba cifrata, per risparmiare tempo di trasmissione.",
 "universo": "elabverse"
 },
 {
@@ -10145,6 +10442,7 @@
 "sommario": "Un messaggio dei derelitti resta indecifrabile finché qualcuno non nota che la chiave cambia ogni notte con la costellazione visibile dal boccaporto.",
 "tipo": "invenzione",
 "titolo": "Il Dialetto Cifrato",
+"torsione": "Sostituisce suoni con altri suoni secondo una chiave; i derelitti di scafo lo hanno fuso con le righe spettrali delle stelle di rotta, così che ogni consonante cifrata corrisponde a un elemento chimico osservato quella notte, illeggibile senza il cielo giusto.",
 "universo": "elabverse"
 },
 {
@@ -10161,6 +10459,7 @@
 "sommario": "Un ingegnere di scafo cataloga da mesi gli spettri infrarossi lasciati dalle urla d'allarme, convinto che formino un alfabeto di emergenza.",
 "tipo": "invenzione",
 "titolo": "Il Calore che Parla",
+"torsione": "Rivela legami molecolari tramite la luce infrarossa invisibile; i coloni hanno scoperto che il calore residuo lasciato da una voce urlata contro uno scafo gelato, letto in infrarosso, disegna uno spettro tanto regolare da sembrare linguaggio.",
 "universo": "elabverse"
 },
 {
@@ -10177,6 +10476,7 @@
 "sommario": "Un diplomatico riceve un messaggio di conforto con la voce del padre defunto e non riesce a smettere di chiedersi quale stella lo abbia firmato.",
 "tipo": "invenzione",
 "titolo": "La Maschera di Voce",
+"torsione": "Scompone la voce in bande di frequenza per poi ricostruirla; a bordo lo usano per sintetizzare messaggi con la voce di naviganti morti, sovrapponendo alle bande vocali le righe spettrali della stella sotto cui sono morti.",
 "universo": "elabverse"
 },
 {
@@ -10193,6 +10493,7 @@
 "sommario": "Un monaco del vuoto giura di aver visto, nella luce scomposta di un prisma, la fine di una frase pronunciata prima ancora che iniziasse.",
 "tipo": "invenzione",
 "titolo": "La Lama di Vetro",
+"torsione": "Scompone la luce bianca nei suoi colori; i monaci del vuoto credono che scomponga anche il tempo, e usano prismi rituali per separare un discorso lungo un'ora nelle sue frasi componenti, come se il parlato fosse anch'esso uno spettro.",
 "universo": "elabverse"
 },
 {
@@ -10209,6 +10510,7 @@
 "sommario": "Filtrando un vecchio messaggio di emergenza, un archivista isola un fonema che si ripete esattamente al ritmo del battito cardiaco di chi lo pronunciava.",
 "tipo": "invenzione",
 "titolo": "Il Setaccio di Luce",
+"torsione": "Filtra la luce di una stella in bande sottilissime per isolare un solo elemento chimico; i cartografi stellari usano lo stesso principio per filtrare una voce registrata e isolare un solo fonema ripetuto, cercando pattern nascosti.",
 "universo": "elabverse"
 },
 {
@@ -10225,6 +10527,7 @@
 "sommario": "I coloni raccontano che un'eco è tornata con un colore che nessun materiale conosciuto dovrebbe produrre.",
 "tipo": "invenzione",
 "titolo": "L'Orecchio dello Scafo",
+"torsione": "Manda impulsi acustici per misurare distanze nel buio; sullo scafo lo hanno accoppiato a un sensore ottico che ne colora l'eco secondo lo spettro del materiale colpito, così il buio restituisce sia una forma sia un colore.",
 "universo": "elabverse"
 },
 {
@@ -10241,6 +10544,7 @@
 "sommario": "Un ingegnere di scafo costruisce un rilevatore di menzogne basato solo su queste emissioni vocali, e lo tiene nascosto ai diplomatici.",
 "tipo": "invenzione",
 "titolo": "Il Canto che Sfugge",
+"torsione": "Un gas eccitato emette luce a lunghezze d'onda precise come una firma; a bordo la associano al modo in cui una voce, sotto sforzo, emette armoniche che tradiscono ciò che il parlante vuole tacere.",
 "universo": "elabverse"
 },
 {
@@ -10257,6 +10561,7 @@
 "sommario": "Un archivista trova la propria voce già segnata sulla tavola in una casella riservata alle giganti rosse, anni prima di ammalarsi.",
 "tipo": "invenzione",
 "titolo": "La Tavola dei Timbri",
+"torsione": "Classifica le stelle per colore e luminosità; i monaci del vuoto vi hanno affiancato una tavola gemella che classifica le voci umane per timbro ed età, sostenendo che ogni voce, come ogni stella, percorra una sequenza principale verso lo stesso destino.",
 "universo": "elabverse"
 },
 {
@@ -10273,6 +10578,7 @@
 "sommario": "Un diplomatico supera ogni interrogatorio finché qualcuno non confronta la sua voce con quella registrata all'imbarco, e le due onde non coincidono più.",
 "tipo": "invenzione",
 "titolo": "Lo Specchio Diviso",
+"torsione": "Divide un fascio di luce in due cammini per misurarne l'interferenza al ritorno; i cartografi stellari lo usano per confrontare due registrazioni della stessa voce a distanza di anni, cercando lo sfasamento che rivela la menzogna.",
 "universo": "elabverse"
 },
 {
@@ -10289,6 +10595,7 @@
 "sommario": "Un ingegnere di scafo nota che il dialetto dei nati in viaggio perde una vocale ogni generazione, misurabile come un isotopo.",
 "tipo": "invenzione",
 "titolo": "Bilancia delle Ombre",
+"torsione": "Lo strumento pesa le molecole misurandone la deviazione in un campo magnetico; a bordo lo hanno riadattato per pesare le vocali di un dialetto e scoprire quali si stanno estinguendo.",
 "universo": "elabverse"
 },
 {
@@ -10305,6 +10612,7 @@
 "sommario": "Un archivista costruisce un intero dizionario basato solo sulle pause di un segnale, mai sulle sue parole.",
 "tipo": "invenzione",
 "titolo": "Le Assenze di Fraunhofer",
+"torsione": "Le righe scure nello spettro solare sono luce mancante, assorbita da qualcosa; i coloni hanno imparato a leggere il silenzio tra le parole di un messaggio radio nello stesso modo, come assenze che dicono più delle presenze.",
 "universo": "elabverse"
 },
 {
@@ -10321,6 +10629,7 @@
 "sommario": "Una diplomatica scopre di avere gli stessi formanti di una voce registrata in un archivio precedente alla sua nascita, che nessuno ammette di aver creato.",
 "tipo": "invenzione",
 "titolo": "Le Camere della Gola",
+"torsione": "Ogni voce ha risonanze uniche come le righe spettrali di una stella; i monaci del vuoto catalogano i formanti dei coloni come si cataloga la luce, in cerca di un tipo spettrale della voce perfetta.",
 "universo": "elabverse"
 },
 {
@@ -10337,6 +10646,7 @@
 "sommario": "Gli ingegneri di scafo giurano di riconoscere un giacimento dal canto del suo spettro prima ancora di analizzarlo.",
 "tipo": "invenzione",
 "titolo": "Eco della Materia",
+"torsione": "La tecnica rivela la composizione chimica di una superficie dal modo in cui la luce vi rimbalza cambiando colore; a bordo la usano per ascoltare il colore dei minerali come se ogni molecola avesse un timbro di voce.",
 "universo": "elabverse"
 },
 {
@@ -10353,6 +10663,7 @@
 "sommario": "Un derelitto trovato alla deriva porta incisa sullo scafo una trascrizione fonetica che nessun catalogo stellare riconosce.",
 "tipo": "invenzione",
 "titolo": "Cifrario delle Bocche",
+"torsione": "I cartografi stellari hanno adattato l'alfabeto fonetico per trascrivere non le lingue umane ma il crepitio radio dei pulsar, sostenendo che ogni impulso sia una consonante di una grammatica cosmica.",
 "universo": "elabverse"
 },
 {
@@ -10369,6 +10680,7 @@
 "sommario": "Un diplomatico rifiuta di riascoltare i propri messaggi di addio perché teme di sentirli già arrossati.",
 "tipo": "invenzione",
 "titolo": "Il Rosso della Voce",
+"torsione": "Sulle navi che accelerano a lungo, le voci registrate si spostano verso il grave come una stella che si allontana, e i monaci del vuoto misurano la fede di un equipaggio dal suo arrossamento collettivo.",
 "universo": "elabverse"
 },
 {
@@ -10385,6 +10697,7 @@
 "sommario": "Un ingegnere di scafo scopre che il proprio sonogramma coincide con una stella la cui luce ha impiegato quattrocento anni ad arrivare.",
 "tipo": "invenzione",
 "titolo": "Ritratto di Voce",
+"torsione": "Ogni sonogramma registrato a bordo viene sovrapposto allo spettro di una stella catalogata, e i naviganti giurano che le voci più amate coincidono sempre con stelle già spente.",
 "universo": "elabverse"
 },
 {
@@ -10401,6 +10714,7 @@
 "sommario": "Gli archivisti del convoglio traducono da trent'anni un unico messaggio stellare senza mai arrivare alla fine della frase.",
 "tipo": "invenzione",
 "titolo": "Lettura delle Righe Nere",
+"torsione": "Il vuoto tra le stelle non è silenzio ma sintassi: ogni riga di assorbimento nello spettro stellare corrisponde a un fonema di una lingua che nessuno ha mai parlato ad alta voce.",
 "universo": "elabverse"
 },
 {

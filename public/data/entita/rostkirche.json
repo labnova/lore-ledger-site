@@ -1,0 +1,492 @@
+{
+"aggiornata": "2026-09-15",
+"alias": [
+"CYB-REG-rostkirche"
+],
+"descrizione": "Accampamento di nomadi urbani cresciuto attorno a uno snodo ferroviario dismesso ai margini del distretto trapianti; i cognomi restano legati ai mestieri di chi ci transitava prima del collasso della linea, e se ne guadagna uno nuovo solo restando abbastanza a lungo.",
+"ha_prosa": false,
+"n_ricorrenze": 34,
+"nome": "Rostkirche",
+"prima_apparizione": 16,
+"prosa": null,
+"racconti": [],
+"ricorrenze": [
+{
+"estrazione": 16,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 16,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-PER-0001",
+"riga_tipo": "personaggio",
+"riga_titolo": "Eszter Etxeondo"
+},
+{
+"estrazione": 16,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-PER-0002",
+"riga_tipo": "personaggio",
+"riga_titolo": "Lotte Schwarzhauhardt"
+},
+{
+"estrazione": 16,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-PER-0003",
+"riga_tipo": "personaggio",
+"riga_titolo": "Ksenia Rybar"
+},
+{
+"estrazione": 16,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-PER-0004",
+"riga_tipo": "personaggio",
+"riga_titolo": "Stefan Schäfer"
+},
+{
+"estrazione": 16,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-PER-0005",
+"riga_tipo": "personaggio",
+"riga_titolo": "Bertha Zimmermann"
+},
+{
+"estrazione": 16,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-PER-0006",
+"riga_tipo": "personaggio",
+"riga_titolo": "Friedrich Falkstein"
+},
+{
+"estrazione": 16,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-PER-0007",
+"riga_tipo": "personaggio",
+"riga_titolo": "Markus Lindinfeld"
+},
+{
+"estrazione": 16,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-PER-0008",
+"riga_tipo": "personaggio",
+"riga_titolo": "Renate Steinelbach"
+},
+{
+"estrazione": 16,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-PER-0009",
+"riga_tipo": "personaggio",
+"riga_titolo": "Detlef Hoffinberg"
+},
+{
+"estrazione": 16,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-PER-0010",
+"riga_tipo": "personaggio",
+"riga_titolo": "Greta Hartinghoff"
+},
+{
+"estrazione": 16,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-REG-rostkirche",
+"riga_tipo": "regione",
+"riga_titolo": "Rostkirche"
+},
+{
+"estrazione": 25,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0001",
+"riga_tipo": "gadget",
+"riga_titolo": "Turibolo a Filtro Clinico"
+},
+{
+"estrazione": 25,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0002",
+"riga_tipo": "gadget",
+"riga_titolo": "Sigillo di Cera del Consenso"
+},
+{
+"estrazione": 25,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0003",
+"riga_tipo": "gadget",
+"riga_titolo": "Registro dei Ricordi Smarriti"
+},
+{
+"estrazione": 25,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0004",
+"riga_tipo": "gadget",
+"riga_titolo": "Amuleto dell'Anima di Scorta"
+},
+{
+"estrazione": 25,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0005",
+"riga_tipo": "gadget",
+"riga_titolo": "Velo delle Testimonianze"
+},
+{
+"estrazione": 25,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0006",
+"riga_tipo": "gadget",
+"riga_titolo": "Campanello degli Antenati"
+},
+{
+"estrazione": 25,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0007",
+"riga_tipo": "gadget",
+"riga_titolo": "Icona Portatile del Donatore Vivente"
+},
+{
+"estrazione": 25,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0008",
+"riga_tipo": "gadget",
+"riga_titolo": "Rosario dei Consensi"
+},
+{
+"estrazione": 25,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0009",
+"riga_tipo": "gadget",
+"riga_titolo": "Stola del Funzionario"
+},
+{
+"estrazione": 25,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0010",
+"riga_tipo": "gadget",
+"riga_titolo": "Chiave della Teca Vuota"
+},
+{
+"estrazione": 29,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-SEM-0001",
+"riga_tipo": "seme",
+"riga_titolo": "seme CYB-INV-0015"
+},
+{
+"estrazione": 33,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0011",
+"riga_tipo": "gadget",
+"riga_titolo": "Rosario dei Saldi"
+},
+{
+"estrazione": 33,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0012",
+"riga_tipo": "gadget",
+"riga_titolo": "Fascia Contabile da Polso"
+},
+{
+"estrazione": 33,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0013",
+"riga_tipo": "gadget",
+"riga_titolo": "Taccuino di Cera del Nomade"
+},
+{
+"estrazione": 33,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0014",
+"riga_tipo": "gadget",
+"riga_titolo": "Medaglia del Crollo Giusto"
+},
+{
+"estrazione": 33,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0015",
+"riga_tipo": "gadget",
+"riga_titolo": "Sacchetto delle Rate"
+},
+{
+"estrazione": 33,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0016",
+"riga_tipo": "gadget",
+"riga_titolo": "Nastro dei Nipoti Scoperti"
+},
+{
+"estrazione": 33,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0017",
+"riga_tipo": "gadget",
+"riga_titolo": "Campanella da Campo"
+},
+{
+"estrazione": 33,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0018",
+"riga_tipo": "gadget",
+"riga_titolo": "Guanto del Contabile Itinerante"
+},
+{
+"estrazione": 33,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0019",
+"riga_tipo": "gadget",
+"riga_titolo": "Borsa da Nomade a Doppio Fondo"
+},
+{
+"estrazione": 33,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0020",
+"riga_tipo": "gadget",
+"riga_titolo": "Ciondolo del Controllo Notturno"
+},
+{
+"estrazione": 60,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-PER-0011",
+"riga_tipo": "personaggio",
+"riga_titolo": "Greta Weber"
+}
+],
+"righe": [
+{
+"id": "CYB-GAD-0001",
+"tipo": "gadget",
+"titolo": "Turibolo a Filtro Clinico"
+},
+{
+"id": "CYB-GAD-0002",
+"tipo": "gadget",
+"titolo": "Sigillo di Cera del Consenso"
+},
+{
+"id": "CYB-GAD-0003",
+"tipo": "gadget",
+"titolo": "Registro dei Ricordi Smarriti"
+},
+{
+"id": "CYB-GAD-0004",
+"tipo": "gadget",
+"titolo": "Amuleto dell'Anima di Scorta"
+},
+{
+"id": "CYB-GAD-0005",
+"tipo": "gadget",
+"titolo": "Velo delle Testimonianze"
+},
+{
+"id": "CYB-GAD-0006",
+"tipo": "gadget",
+"titolo": "Campanello degli Antenati"
+},
+{
+"id": "CYB-GAD-0007",
+"tipo": "gadget",
+"titolo": "Icona Portatile del Donatore Vivente"
+},
+{
+"id": "CYB-GAD-0008",
+"tipo": "gadget",
+"titolo": "Rosario dei Consensi"
+},
+{
+"id": "CYB-GAD-0009",
+"tipo": "gadget",
+"titolo": "Stola del Funzionario"
+},
+{
+"id": "CYB-GAD-0010",
+"tipo": "gadget",
+"titolo": "Chiave della Teca Vuota"
+},
+{
+"id": "CYB-GAD-0011",
+"tipo": "gadget",
+"titolo": "Rosario dei Saldi"
+},
+{
+"id": "CYB-GAD-0012",
+"tipo": "gadget",
+"titolo": "Fascia Contabile da Polso"
+},
+{
+"id": "CYB-GAD-0013",
+"tipo": "gadget",
+"titolo": "Taccuino di Cera del Nomade"
+},
+{
+"id": "CYB-GAD-0014",
+"tipo": "gadget",
+"titolo": "Medaglia del Crollo Giusto"
+},
+{
+"id": "CYB-GAD-0015",
+"tipo": "gadget",
+"titolo": "Sacchetto delle Rate"
+},
+{
+"id": "CYB-GAD-0016",
+"tipo": "gadget",
+"titolo": "Nastro dei Nipoti Scoperti"
+},
+{
+"id": "CYB-GAD-0017",
+"tipo": "gadget",
+"titolo": "Campanella da Campo"
+},
+{
+"id": "CYB-GAD-0018",
+"tipo": "gadget",
+"titolo": "Guanto del Contabile Itinerante"
+},
+{
+"id": "CYB-GAD-0019",
+"tipo": "gadget",
+"titolo": "Borsa da Nomade a Doppio Fondo"
+},
+{
+"id": "CYB-GAD-0020",
+"tipo": "gadget",
+"titolo": "Ciondolo del Controllo Notturno"
+},
+{
+"id": "CYB-PER-0001",
+"tipo": "personaggio",
+"titolo": "Eszter Etxeondo"
+},
+{
+"id": "CYB-PER-0002",
+"tipo": "personaggio",
+"titolo": "Lotte Schwarzhauhardt"
+},
+{
+"id": "CYB-PER-0003",
+"tipo": "personaggio",
+"titolo": "Ksenia Rybar"
+},
+{
+"id": "CYB-PER-0004",
+"tipo": "personaggio",
+"titolo": "Stefan Schäfer"
+},
+{
+"id": "CYB-PER-0005",
+"tipo": "personaggio",
+"titolo": "Bertha Zimmermann"
+},
+{
+"id": "CYB-PER-0006",
+"tipo": "personaggio",
+"titolo": "Friedrich Falkstein"
+},
+{
+"id": "CYB-PER-0007",
+"tipo": "personaggio",
+"titolo": "Markus Lindinfeld"
+},
+{
+"id": "CYB-PER-0008",
+"tipo": "personaggio",
+"titolo": "Renate Steinelbach"
+},
+{
+"id": "CYB-PER-0009",
+"tipo": "personaggio",
+"titolo": "Detlef Hoffinberg"
+},
+{
+"id": "CYB-PER-0010",
+"tipo": "personaggio",
+"titolo": "Greta Hartinghoff"
+},
+{
+"id": "CYB-PER-0011",
+"tipo": "personaggio",
+"titolo": "Greta Weber"
+},
+{
+"id": "CYB-REG-rostkirche",
+"tipo": "regione",
+"titolo": "Rostkirche"
+},
+{
+"id": "CYB-SEM-0001",
+"tipo": "seme",
+"titolo": "seme CYB-INV-0015"
+}
+],
+"slug": "rostkirche",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "cyberverse"
+}

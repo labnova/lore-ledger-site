@@ -19,3 +19,17 @@ Il "Crollo" è l'evento fondativo, ed è contestato. Per il clero è un giudizio
 Il costo delle bugie è il sistema operativo del mondo. Ogni menzogna produce un debito che qualcuno paga: in registri falsificati, in raccolti persi, in nascite non dichiarate. Il neofeudal non punisce la bugia, la contabilizza. Le storie migliori sono quelle in cui si scopre chi sta pagando.
 
 Regole editoriali: nessun toponimo reale; i ceppi onomastici sono solo suono, mai etnia dichiarata; i minorenni non hanno campo affettivo; nessuna riga viene mai modificata, solo figlie con parent_id.
+
+<!-- entita:inizio -->
+
+## Entità
+
+Le entità ricorrenti di questo universo vivono in schede, non qui: la bibbia linka le liste. Nel conteggio entrano le schede con almeno 3 ricorrenze.
+
+- [luoghi (5)](/entita?universo=neofeudal&tipo=luogo)
+
+Le più ricorrenti: [Calvenna](/entita/calvenna), [Sarakan](/entita/sarakan), [Vasperdine](/entita/vasperdine), [Vranidol](/entita/vranidol), [Zastavena](/entita/zastavena).
+
+*(blocco generato da `engine/bibliotecario.py` il 2026-09-15: fuori da questi delimitatori la bibbia non viene mai toccata.)*
+
+<!-- entita:fine -->

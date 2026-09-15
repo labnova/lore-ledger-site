@@ -49,3 +49,17 @@ Yǔlin (oliatrice), Hèshu (traditore), il Prefetto della Bilancia, la Confrater
 
 ## Aggiunte dal ledger
 (vuoto)
+
+<!-- entita:inizio -->
+
+## Entità
+
+Le entità ricorrenti di questo universo vivono in schede, non qui: la bibbia linka le liste. Nel conteggio entrano le schede con almeno 3 ricorrenze.
+
+- [luoghi (2)](/entita?universo=steamverse&tipo=luogo)
+
+Le più ricorrenti: [Ledoskol](/entita/ledoskol), [Qattoum](/entita/qattoum).
+
+*(blocco generato da `engine/bibliotecario.py` il 2026-09-15: fuori da questi delimitatori la bibbia non viene mai toccata.)*
+
+<!-- entita:fine -->

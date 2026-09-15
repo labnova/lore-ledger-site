@@ -416,11 +416,6 @@
 "to": "STE-INV-0026"
 },
 {
-"from": "STE-INV-0026",
-"kind": "parent",
-"to": "STE-INV-0027"
-},
-{
 "from": "STE-INV-0017",
 "kind": "parent",
 "to": "STE-INV-0028"
@@ -8645,12 +8640,6 @@
 "id": "STE-INV-0026",
 "tipo": "invenzione",
 "titolo": "Le Carte Confermate",
-"universo": "steamverse"
-},
-{
-"id": "STE-INV-0027",
-"tipo": "invenzione",
-"titolo": "Il Patto delle Due Firme",
 "universo": "steamverse"
 },
 {

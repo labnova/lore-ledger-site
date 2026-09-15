@@ -36,3 +36,17 @@ Esiste un outline in cinque stagioni (da riprendere, non riscrivere). Progetti s
 
 ## Aggiunte dal ledger
 (vuoto)
+
+<!-- entita:inizio -->
+
+## Entità
+
+Le entità ricorrenti di questo universo vivono in schede, non qui: la bibbia linka le liste. Nel conteggio entrano le schede con almeno 3 ricorrenze.
+
+- [luoghi (2)](/entita?universo=hackverse&tipo=luogo)
+
+Le più ricorrenti: [Rotterdam](/entita/rotterdam), [Tallinn](/entita/tallinn).
+
+*(blocco generato da `engine/bibliotecario.py` il 2026-09-15: fuori da questi delimitatori la bibbia non viene mai toccata.)*
+
+<!-- entita:fine -->

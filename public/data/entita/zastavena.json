@@ -1,0 +1,198 @@
+{
+"aggiornata": "2026-09-15",
+"alias": [
+"NEO-REG-zastavena"
+],
+"descrizione": "Avamposto oltre il Passo di Vermasca dove i custodi dell'era precedente vivono asserragliati attorno ai relitti del vecchio sistema, tramandando a memoria gli ordini di un sergente che forse non esiste più.",
+"ha_prosa": false,
+"n_ricorrenze": 13,
+"nome": "Zastavena",
+"prima_apparizione": 62,
+"prosa": null,
+"racconti": [],
+"ricorrenze": [
+{
+"estrazione": 62,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 62,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0065",
+"riga_tipo": "personaggio",
+"riga_titolo": "Nikola Ranolivić"
+},
+{
+"estrazione": 62,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0066",
+"riga_tipo": "personaggio",
+"riga_titolo": "Igor Tesar"
+},
+{
+"estrazione": 62,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0067",
+"riga_tipo": "personaggio",
+"riga_titolo": "Natalia Mironoin"
+},
+{
+"estrazione": 62,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0068",
+"riga_tipo": "personaggio",
+"riga_titolo": "Anastasia Jaek"
+},
+{
+"estrazione": 62,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0069",
+"riga_tipo": "personaggio",
+"riga_titolo": "Bjørn Norvigren"
+},
+{
+"estrazione": 62,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0070",
+"riga_tipo": "personaggio",
+"riga_titolo": "Wolfgang Shatani"
+},
+{
+"estrazione": 62,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0071",
+"riga_tipo": "personaggio",
+"riga_titolo": "Maite Zurgin"
+},
+{
+"estrazione": 62,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0072",
+"riga_tipo": "personaggio",
+"riga_titolo": "Vera Vlanoski"
+},
+{
+"estrazione": 62,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0073",
+"riga_tipo": "personaggio",
+"riga_titolo": "Oleg Peović"
+},
+{
+"estrazione": 62,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0074",
+"riga_tipo": "personaggio",
+"riga_titolo": "Hamisi Mutamaye"
+},
+{
+"estrazione": 62,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-REG-zastavena",
+"riga_tipo": "regione",
+"riga_titolo": "Zastavena"
+},
+{
+"estrazione": 65,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0072",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Sacco dei Nodi Superstiti"
+}
+],
+"righe": [
+{
+"id": "NEO-GAD-0072",
+"tipo": "gadget",
+"titolo": "Il Sacco dei Nodi Superstiti"
+},
+{
+"id": "NEO-PER-0065",
+"tipo": "personaggio",
+"titolo": "Nikola Ranolivić"
+},
+{
+"id": "NEO-PER-0066",
+"tipo": "personaggio",
+"titolo": "Igor Tesar"
+},
+{
+"id": "NEO-PER-0067",
+"tipo": "personaggio",
+"titolo": "Natalia Mironoin"
+},
+{
+"id": "NEO-PER-0068",
+"tipo": "personaggio",
+"titolo": "Anastasia Jaek"
+},
+{
+"id": "NEO-PER-0069",
+"tipo": "personaggio",
+"titolo": "Bjørn Norvigren"
+},
+{
+"id": "NEO-PER-0070",
+"tipo": "personaggio",
+"titolo": "Wolfgang Shatani"
+},
+{
+"id": "NEO-PER-0071",
+"tipo": "personaggio",
+"titolo": "Maite Zurgin"
+},
+{
+"id": "NEO-PER-0072",
+"tipo": "personaggio",
+"titolo": "Vera Vlanoski"
+},
+{
+"id": "NEO-PER-0073",
+"tipo": "personaggio",
+"titolo": "Oleg Peović"
+},
+{
+"id": "NEO-PER-0074",
+"tipo": "personaggio",
+"titolo": "Hamisi Mutamaye"
+},
+{
+"id": "NEO-REG-zastavena",
+"tipo": "regione",
+"titolo": "Zastavena"
+}
+],
+"slug": "zastavena",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "neofeudal"
+}

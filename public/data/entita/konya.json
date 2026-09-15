@@ -1,0 +1,837 @@
+{
+"aggiornata": "2026-09-15",
+"alias": [
+"ELA-REG-konya"
+],
+"descrizione": "Anello d'attracco del convoglio popolato in prevalenza da discendenti anatolici; i nomi restano legati alla città d'origine perché i registri d'imbarco, generazioni fa, assegnarono le cabine per città natale e nessuno li ha più aggiornati.",
+"ha_prosa": false,
+"n_ricorrenze": 59,
+"nome": "Konya",
+"prima_apparizione": 8,
+"prosa": null,
+"racconti": [],
+"ricorrenze": [
+{
+"estrazione": 8,
+"quando": "2026-09-12",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 8,
+"quando": "2026-09-12",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-PER-0001",
+"riga_tipo": "personaggio",
+"riga_titolo": "Orsolya Pék"
+},
+{
+"estrazione": 8,
+"quando": "2026-09-12",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-PER-0002",
+"riga_tipo": "personaggio",
+"riga_titolo": "Nazlı Kotürk"
+},
+{
+"estrazione": 8,
+"quando": "2026-09-12",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-PER-0003",
+"riga_tipo": "personaggio",
+"riga_titolo": "Tuğba Aktürk"
+},
+{
+"estrazione": 8,
+"quando": "2026-09-12",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-PER-0004",
+"riga_tipo": "personaggio",
+"riga_titolo": "Pınar Çömlekçi"
+},
+{
+"estrazione": 8,
+"quando": "2026-09-12",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-PER-0005",
+"riga_tipo": "personaggio",
+"riga_titolo": "Fatma Kunduracı"
+},
+{
+"estrazione": 8,
+"quando": "2026-09-12",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-PER-0006",
+"riga_tipo": "personaggio",
+"riga_titolo": "Leyla Çoban"
+},
+{
+"estrazione": 8,
+"quando": "2026-09-12",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-PER-0007",
+"riga_tipo": "personaggio",
+"riga_titolo": "Johanna Åsdestad"
+},
+{
+"estrazione": 8,
+"quando": "2026-09-12",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-PER-0008",
+"riga_tipo": "personaggio",
+"riga_titolo": "Ayşe Balıkçı"
+},
+{
+"estrazione": 8,
+"quando": "2026-09-12",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-PER-0009",
+"riga_tipo": "personaggio",
+"riga_titolo": "Okan Değirmenci"
+},
+{
+"estrazione": 8,
+"quando": "2026-09-12",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-PER-0010",
+"riga_tipo": "personaggio",
+"riga_titolo": "Greta Hoffbrechlichschmidt"
+},
+{
+"estrazione": 8,
+"quando": "2026-09-12",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-REG-konya",
+"riga_tipo": "regione",
+"riga_titolo": "Konya"
+},
+{
+"estrazione": 9,
+"quando": "2026-09-12",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0001",
+"riga_tipo": "gadget",
+"riga_titolo": "Orecchio di Cera"
+},
+{
+"estrazione": 9,
+"quando": "2026-09-12",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0002",
+"riga_tipo": "gadget",
+"riga_titolo": "Quaderno delle Sfuriate"
+},
+{
+"estrazione": 9,
+"quando": "2026-09-12",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0003",
+"riga_tipo": "gadget",
+"riga_titolo": "Lente di Ricambio"
+},
+{
+"estrazione": 9,
+"quando": "2026-09-12",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0004",
+"riga_tipo": "gadget",
+"riga_titolo": "Registro Tascabile"
+},
+{
+"estrazione": 9,
+"quando": "2026-09-12",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0005",
+"riga_tipo": "gadget",
+"riga_titolo": "Prisma da Tasca"
+},
+{
+"estrazione": 9,
+"quando": "2026-09-12",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0006",
+"riga_tipo": "gadget",
+"riga_titolo": "Fascia da Polso a Bande"
+},
+{
+"estrazione": 9,
+"quando": "2026-09-12",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0007",
+"riga_tipo": "gadget",
+"riga_titolo": "Sigillo di Cera Nera"
+},
+{
+"estrazione": 9,
+"quando": "2026-09-12",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0008",
+"riga_tipo": "gadget",
+"riga_titolo": "Para-orecchie Imbottiti"
+},
+{
+"estrazione": 9,
+"quando": "2026-09-12",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0009",
+"riga_tipo": "gadget",
+"riga_titolo": "Bussola di Carta"
+},
+{
+"estrazione": 9,
+"quando": "2026-09-12",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0010",
+"riga_tipo": "gadget",
+"riga_titolo": "Gettone Inciso"
+},
+{
+"estrazione": 11,
+"quando": "2026-09-12",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-PER-0011",
+"riga_tipo": "personaggio",
+"riga_titolo": "Kerem Baysal"
+},
+{
+"estrazione": 14,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-CON-0002",
+"riga_tipo": "contenuto",
+"riga_titolo": "Come si tara un prisma da apprendista (archivio interno, anello di Konya)"
+},
+{
+"estrazione": 31,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-SEM-0001",
+"riga_tipo": "seme",
+"riga_titolo": "seme ELA-INV-0005"
+},
+{
+"estrazione": 37,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 37,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-PER-0012",
+"riga_tipo": "personaggio",
+"riga_titolo": "Hasan Akderier"
+},
+{
+"estrazione": 37,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-PER-0013",
+"riga_tipo": "personaggio",
+"riga_titolo": "Ömer Taşlıriçı"
+},
+{
+"estrazione": 37,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-PER-0014",
+"riga_tipo": "personaggio",
+"riga_titolo": "Tolga Fırıncı"
+},
+{
+"estrazione": 37,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-PER-0015",
+"riga_tipo": "personaggio",
+"riga_titolo": "Mehmet Akay"
+},
+{
+"estrazione": 37,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-PER-0016",
+"riga_tipo": "personaggio",
+"riga_titolo": "Meltem Marangoz"
+},
+{
+"estrazione": 37,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-PER-0017",
+"riga_tipo": "personaggio",
+"riga_titolo": "Ahmet Taştenetaş"
+},
+{
+"estrazione": 37,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-PER-0018",
+"riga_tipo": "personaggio",
+"riga_titolo": "Berk Gültecı"
+},
+{
+"estrazione": 37,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-PER-0019",
+"riga_tipo": "personaggio",
+"riga_titolo": "Leyla Kayatemaz"
+},
+{
+"estrazione": 37,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-PER-0020",
+"riga_tipo": "personaggio",
+"riga_titolo": "Gül Özneoğlu"
+},
+{
+"estrazione": 37,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-PER-0021",
+"riga_tipo": "personaggio",
+"riga_titolo": "Edurne Larraberri"
+},
+{
+"estrazione": 37,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-PER-0022",
+"riga_tipo": "personaggio",
+"riga_titolo": "Derya Dinleyici"
+},
+{
+"estrazione": 38,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0011",
+"riga_tipo": "gadget",
+"riga_titolo": "Cuffia a Cono d'Ascolto"
+},
+{
+"estrazione": 38,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0012",
+"riga_tipo": "gadget",
+"riga_titolo": "Collana di Dischi Incisi"
+},
+{
+"estrazione": 38,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0013",
+"riga_tipo": "gadget",
+"riga_titolo": "Fascia da Fronte con Ago Vibrante"
+},
+{
+"estrazione": 38,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0014",
+"riga_tipo": "gadget",
+"riga_titolo": "Ventaglio di Schede Perforate"
+},
+{
+"estrazione": 38,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0015",
+"riga_tipo": "gadget",
+"riga_titolo": "Spilla a Stella Fusa"
+},
+{
+"estrazione": 38,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0016",
+"riga_tipo": "gadget",
+"riga_titolo": "Nastro di Carta a Righe Cerate"
+},
+{
+"estrazione": 38,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0017",
+"riga_tipo": "gadget",
+"riga_titolo": "Guanto a Dita Numerate"
+},
+{
+"estrazione": 38,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0018",
+"riga_tipo": "gadget",
+"riga_titolo": "Borsa a Tracolla con Fondo Rigido"
+},
+{
+"estrazione": 38,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0019",
+"riga_tipo": "gadget",
+"riga_titolo": "Anello a Sigillo Concavo"
+},
+{
+"estrazione": 38,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0020",
+"riga_tipo": "gadget",
+"riga_titolo": "Fischietto a Doppia Canna"
+},
+{
+"estrazione": 42,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-SEM-0002",
+"riga_tipo": "seme",
+"riga_titolo": "seme ELA-INV-0030"
+},
+{
+"estrazione": 44,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0021",
+"riga_tipo": "gadget",
+"riga_titolo": "L'Anello del Cambio"
+},
+{
+"estrazione": 44,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0022",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Righello del Cono Falso"
+},
+{
+"estrazione": 44,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0023",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Bracciale dei Turni"
+},
+{
+"estrazione": 44,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0024",
+"riga_tipo": "gadget",
+"riga_titolo": "La Moneta di Prova"
+},
+{
+"estrazione": 44,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0025",
+"riga_tipo": "gadget",
+"riga_titolo": "La Fibbia a Doppio Bordo"
+},
+{
+"estrazione": 44,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0026",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Quaderno di Cera"
+},
+{
+"estrazione": 44,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0027",
+"riga_tipo": "gadget",
+"riga_titolo": "Gli Occhiali da Buio"
+},
+{
+"estrazione": 44,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0028",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Nastro Ricevente"
+},
+{
+"estrazione": 44,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0029",
+"riga_tipo": "gadget",
+"riga_titolo": "L'Auricolare del Debito"
+},
+{
+"estrazione": 44,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0030",
+"riga_tipo": "gadget",
+"riga_titolo": "La Chiave a Doppia Lettura"
+},
+{
+"estrazione": 49,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-PER-0023",
+"riga_tipo": "personaggio",
+"riga_titolo": "Selim Aydemir"
+}
+],
+"righe": [
+{
+"id": "ELA-CON-0002",
+"tipo": "contenuto",
+"titolo": "Come si tara un prisma da apprendista (archivio interno, anello di Konya)"
+},
+{
+"id": "ELA-GAD-0001",
+"tipo": "gadget",
+"titolo": "Orecchio di Cera"
+},
+{
+"id": "ELA-GAD-0002",
+"tipo": "gadget",
+"titolo": "Quaderno delle Sfuriate"
+},
+{
+"id": "ELA-GAD-0003",
+"tipo": "gadget",
+"titolo": "Lente di Ricambio"
+},
+{
+"id": "ELA-GAD-0004",
+"tipo": "gadget",
+"titolo": "Registro Tascabile"
+},
+{
+"id": "ELA-GAD-0005",
+"tipo": "gadget",
+"titolo": "Prisma da Tasca"
+},
+{
+"id": "ELA-GAD-0006",
+"tipo": "gadget",
+"titolo": "Fascia da Polso a Bande"
+},
+{
+"id": "ELA-GAD-0007",
+"tipo": "gadget",
+"titolo": "Sigillo di Cera Nera"
+},
+{
+"id": "ELA-GAD-0008",
+"tipo": "gadget",
+"titolo": "Para-orecchie Imbottiti"
+},
+{
+"id": "ELA-GAD-0009",
+"tipo": "gadget",
+"titolo": "Bussola di Carta"
+},
+{
+"id": "ELA-GAD-0010",
+"tipo": "gadget",
+"titolo": "Gettone Inciso"
+},
+{
+"id": "ELA-GAD-0011",
+"tipo": "gadget",
+"titolo": "Cuffia a Cono d'Ascolto"
+},
+{
+"id": "ELA-GAD-0012",
+"tipo": "gadget",
+"titolo": "Collana di Dischi Incisi"
+},
+{
+"id": "ELA-GAD-0013",
+"tipo": "gadget",
+"titolo": "Fascia da Fronte con Ago Vibrante"
+},
+{
+"id": "ELA-GAD-0014",
+"tipo": "gadget",
+"titolo": "Ventaglio di Schede Perforate"
+},
+{
+"id": "ELA-GAD-0015",
+"tipo": "gadget",
+"titolo": "Spilla a Stella Fusa"
+},
+{
+"id": "ELA-GAD-0016",
+"tipo": "gadget",
+"titolo": "Nastro di Carta a Righe Cerate"
+},
+{
+"id": "ELA-GAD-0017",
+"tipo": "gadget",
+"titolo": "Guanto a Dita Numerate"
+},
+{
+"id": "ELA-GAD-0018",
+"tipo": "gadget",
+"titolo": "Borsa a Tracolla con Fondo Rigido"
+},
+{
+"id": "ELA-GAD-0019",
+"tipo": "gadget",
+"titolo": "Anello a Sigillo Concavo"
+},
+{
+"id": "ELA-GAD-0020",
+"tipo": "gadget",
+"titolo": "Fischietto a Doppia Canna"
+},
+{
+"id": "ELA-GAD-0021",
+"tipo": "gadget",
+"titolo": "L'Anello del Cambio"
+},
+{
+"id": "ELA-GAD-0022",
+"tipo": "gadget",
+"titolo": "Il Righello del Cono Falso"
+},
+{
+"id": "ELA-GAD-0023",
+"tipo": "gadget",
+"titolo": "Il Bracciale dei Turni"
+},
+{
+"id": "ELA-GAD-0024",
+"tipo": "gadget",
+"titolo": "La Moneta di Prova"
+},
+{
+"id": "ELA-GAD-0025",
+"tipo": "gadget",
+"titolo": "La Fibbia a Doppio Bordo"
+},
+{
+"id": "ELA-GAD-0026",
+"tipo": "gadget",
+"titolo": "Il Quaderno di Cera"
+},
+{
+"id": "ELA-GAD-0027",
+"tipo": "gadget",
+"titolo": "Gli Occhiali da Buio"
+},
+{
+"id": "ELA-GAD-0028",
+"tipo": "gadget",
+"titolo": "Il Nastro Ricevente"
+},
+{
+"id": "ELA-GAD-0029",
+"tipo": "gadget",
+"titolo": "L'Auricolare del Debito"
+},
+{
+"id": "ELA-GAD-0030",
+"tipo": "gadget",
+"titolo": "La Chiave a Doppia Lettura"
+},
+{
+"id": "ELA-PER-0001",
+"tipo": "personaggio",
+"titolo": "Orsolya Pék"
+},
+{
+"id": "ELA-PER-0002",
+"tipo": "personaggio",
+"titolo": "Nazlı Kotürk"
+},
+{
+"id": "ELA-PER-0003",
+"tipo": "personaggio",
+"titolo": "Tuğba Aktürk"
+},
+{
+"id": "ELA-PER-0004",
+"tipo": "personaggio",
+"titolo": "Pınar Çömlekçi"
+},
+{
+"id": "ELA-PER-0005",
+"tipo": "personaggio",
+"titolo": "Fatma Kunduracı"
+},
+{
+"id": "ELA-PER-0006",
+"tipo": "personaggio",
+"titolo": "Leyla Çoban"
+},
+{
+"id": "ELA-PER-0007",
+"tipo": "personaggio",
+"titolo": "Johanna Åsdestad"
+},
+{
+"id": "ELA-PER-0008",
+"tipo": "personaggio",
+"titolo": "Ayşe Balıkçı"
+},
+{
+"id": "ELA-PER-0009",
+"tipo": "personaggio",
+"titolo": "Okan Değirmenci"
+},
+{
+"id": "ELA-PER-0010",
+"tipo": "personaggio",
+"titolo": "Greta Hoffbrechlichschmidt"
+},
+{
+"id": "ELA-PER-0011",
+"tipo": "personaggio",
+"titolo": "Kerem Baysal"
+},
+{
+"id": "ELA-PER-0012",
+"tipo": "personaggio",
+"titolo": "Hasan Akderier"
+},
+{
+"id": "ELA-PER-0013",
+"tipo": "personaggio",
+"titolo": "Ömer Taşlıriçı"
+},
+{
+"id": "ELA-PER-0014",
+"tipo": "personaggio",
+"titolo": "Tolga Fırıncı"
+},
+{
+"id": "ELA-PER-0015",
+"tipo": "personaggio",
+"titolo": "Mehmet Akay"
+},
+{
+"id": "ELA-PER-0016",
+"tipo": "personaggio",
+"titolo": "Meltem Marangoz"
+},
+{
+"id": "ELA-PER-0017",
+"tipo": "personaggio",
+"titolo": "Ahmet Taştenetaş"
+},
+{
+"id": "ELA-PER-0018",
+"tipo": "personaggio",
+"titolo": "Berk Gültecı"
+},
+{
+"id": "ELA-PER-0019",
+"tipo": "personaggio",
+"titolo": "Leyla Kayatemaz"
+},
+{
+"id": "ELA-PER-0020",
+"tipo": "personaggio",
+"titolo": "Gül Özneoğlu"
+},
+{
+"id": "ELA-PER-0021",
+"tipo": "personaggio",
+"titolo": "Edurne Larraberri"
+},
+{
+"id": "ELA-PER-0022",
+"tipo": "personaggio",
+"titolo": "Derya Dinleyici"
+},
+{
+"id": "ELA-PER-0023",
+"tipo": "personaggio",
+"titolo": "Selim Aydemir"
+},
+{
+"id": "ELA-REG-konya",
+"tipo": "regione",
+"titolo": "Konya"
+},
+{
+"id": "ELA-SEM-0001",
+"tipo": "seme",
+"titolo": "seme ELA-INV-0005"
+},
+{
+"id": "ELA-SEM-0002",
+"tipo": "seme",
+"titolo": "seme ELA-INV-0030"
+}
+],
+"slug": "konya",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "elabverse"
+}

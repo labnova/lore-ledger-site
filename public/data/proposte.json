@@ -1,0 +1,58 @@
+[
+{
+"carta_chiusa_il": null,
+"carta_id": "BAC-34900933278-1",
+"carta_stato": "aperta",
+"commento": null,
+"created": "2026-09-14",
+"errori_schema": [],
+"id": "STE-INV-0027",
+"motivazione": null,
+"motivo_respinta": null,
+"postata_da": "riparatore",
+"promossa_da": null,
+"promossa_il": null,
+"respinta_il": null,
+"riga": {
+"carta": "BAC-34900933278-1",
+"carta_id": "BAC-34900933278-1",
+"created": "2026-09-14",
+"discipline": [
+"logistica/catena_del_freddo",
+"geografia/idrografia"
+],
+"epoca_relativa": 0,
+"estrazione": 19,
+"gancio": "Un ingegnere idraulico nota che il fiume secondo ha una piena proprio nei giorni in cui il fiume vero è insolitamente basso; confrontando le portate, trova che la coincidenza si ripete con precisione meccanica.",
+"id": "STE-INV-0027",
+"nome": "Il Fiume Secondo",
+"nome_reale": "Acquedotto cittadino riadattato per trasportare salamoia refrigerante tra i quartieri",
+"origine": "approfondimento",
+"parent_id": "STE-INV-0010",
+"poc": false,
+"regione": "Aetheria",
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il fiume secondo scorre sotto le vie principali seguendo esattamente il tracciato del fiume vero, come se qualcuno avesse voluto costruirne una copia da controllare meglio; il tracciato è stato rilevato e la sua corrispondenza con quello vero è registrata come prova di un progetto deliberato.",
+"universo": "steamverse"
+},
+"sommario": "Un ingegnere idraulico nota che il fiume secondo ha una piena proprio nei giorni in cui il fiume vero è insolitamente basso; confrontando le portate, trova che…",
+"stato": "provvisoria",
+"storia": [
+{
+"autore": "migrazione",
+"motivo": "migrazione: la riga era nata canone in ledger/invenzioni/STE-INV-0027.yaml prima del verdetto della carta BAC-34900933278-1",
+"quando": "2026-09-15T18:24:06Z",
+"sha": "9ebf56f29b05a8b9866f4dbda1f4b9574c286885",
+"versione": 1
+}
+],
+"tipo": "invenzione",
+"titolo": "Il Fiume Secondo",
+"universo": "steamverse",
+"versione": 1,
+"versioni": []
+}
+]

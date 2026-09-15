@@ -1,0 +1,221 @@
+{
+"aggiornata": "2026-09-15",
+"alias": [
+"HAC-REG-tallinn"
+],
+"descrizione": "Hub baltico dell'e-residency e dei registri digitali statali, attira broker di dati da ogni continente: nessun ceppo prevale, i cognomi restano quelli d'origine perché qui si arriva già adulti, con una identità digitale costruita altrove.",
+"ha_prosa": false,
+"n_ricorrenze": 15,
+"nome": "Tallinn",
+"prima_apparizione": 32,
+"prosa": null,
+"racconti": [],
+"ricorrenze": [
+{
+"estrazione": 32,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 32,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0001",
+"riga_tipo": "personaggio",
+"riga_titolo": "Misaki Ikaguchi"
+},
+{
+"estrazione": 32,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0002",
+"riga_tipo": "personaggio",
+"riga_titolo": "Vladimir Kovač"
+},
+{
+"estrazione": 32,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0003",
+"riga_tipo": "personaggio",
+"riga_titolo": "Bashir Radani"
+},
+{
+"estrazione": 32,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0004",
+"riga_tipo": "personaggio",
+"riga_titolo": "Elif Makamilil"
+},
+{
+"estrazione": 32,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0005",
+"riga_tipo": "personaggio",
+"riga_titolo": "Signe Holdesen"
+},
+{
+"estrazione": 32,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0006",
+"riga_tipo": "personaggio",
+"riga_titolo": "Balázs Tamabossy"
+},
+{
+"estrazione": 32,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0007",
+"riga_tipo": "personaggio",
+"riga_titolo": "Burak Avcı"
+},
+{
+"estrazione": 32,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0008",
+"riga_tipo": "personaggio",
+"riga_titolo": "Nyota Seremala"
+},
+{
+"estrazione": 32,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0009",
+"riga_tipo": "personaggio",
+"riga_titolo": "Otto Falkeringhardt"
+},
+{
+"estrazione": 32,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0010",
+"riga_tipo": "personaggio",
+"riga_titolo": "Xabier Otxobelauria"
+},
+{
+"estrazione": 32,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-REG-tallinn",
+"riga_tipo": "regione",
+"riga_titolo": "Tallinn"
+},
+{
+"estrazione": 35,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 35,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-GAD-0001",
+"riga_tipo": "gadget",
+"riga_titolo": "Sonda di Taratura per Valvole a Goccia"
+},
+{
+"estrazione": 66,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0021",
+"riga_tipo": "personaggio",
+"riga_titolo": "Kenji Arase"
+}
+],
+"righe": [
+{
+"id": "HAC-GAD-0001",
+"tipo": "gadget",
+"titolo": "Sonda di Taratura per Valvole a Goccia"
+},
+{
+"id": "HAC-PER-0001",
+"tipo": "personaggio",
+"titolo": "Misaki Ikaguchi"
+},
+{
+"id": "HAC-PER-0002",
+"tipo": "personaggio",
+"titolo": "Vladimir Kovač"
+},
+{
+"id": "HAC-PER-0003",
+"tipo": "personaggio",
+"titolo": "Bashir Radani"
+},
+{
+"id": "HAC-PER-0004",
+"tipo": "personaggio",
+"titolo": "Elif Makamilil"
+},
+{
+"id": "HAC-PER-0005",
+"tipo": "personaggio",
+"titolo": "Signe Holdesen"
+},
+{
+"id": "HAC-PER-0006",
+"tipo": "personaggio",
+"titolo": "Balázs Tamabossy"
+},
+{
+"id": "HAC-PER-0007",
+"tipo": "personaggio",
+"titolo": "Burak Avcı"
+},
+{
+"id": "HAC-PER-0008",
+"tipo": "personaggio",
+"titolo": "Nyota Seremala"
+},
+{
+"id": "HAC-PER-0009",
+"tipo": "personaggio",
+"titolo": "Otto Falkeringhardt"
+},
+{
+"id": "HAC-PER-0010",
+"tipo": "personaggio",
+"titolo": "Xabier Otxobelauria"
+},
+{
+"id": "HAC-PER-0021",
+"tipo": "personaggio",
+"titolo": "Kenji Arase"
+},
+{
+"id": "HAC-REG-tallinn",
+"tipo": "regione",
+"titolo": "Tallinn"
+}
+],
+"slug": "tallinn",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "hackverse"
+}

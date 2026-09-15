@@ -52,3 +52,17 @@ Camina Östreis, Belzec, Edoardo Velsen, Liora Sann, Sira (Programma Vetro); Dar
 
 ## Aggiunte dal ledger
 (vuoto — qui il bibliotecario promuove ciò che ricorre in almeno tre righe, con citazione)
+
+<!-- entita:inizio -->
+
+## Entità
+
+Le entità ricorrenti di questo universo vivono in schede, non qui: la bibbia linka le liste. Nel conteggio entrano le schede con almeno 3 ricorrenze.
+
+- [luoghi (1)](/entita?universo=cyberverse&tipo=luogo)
+
+Le più ricorrenti: [Rostkirche](/entita/rostkirche).
+
+*(blocco generato da `engine/bibliotecario.py` il 2026-09-15: fuori da questi delimitatori la bibbia non viene mai toccata.)*
+
+<!-- entita:fine -->

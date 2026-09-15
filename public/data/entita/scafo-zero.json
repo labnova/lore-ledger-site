@@ -1,0 +1,212 @@
+{
+"aggiornata": "2026-09-15",
+"alias": [
+"ELA-REG-scafo-zero"
+],
+"descrizione": "Uno scafo agganciato al convoglio senza mai essere stato registrato in nessun rollo d'imbarco; chi ci vive è arrivato da ogni ceppo e ha perso o rinnegato il cognome di città, così i nomi si mescolano liberamente e nessuno controlla più chi appartiene a chi.",
+"ha_prosa": false,
+"n_ricorrenze": 14,
+"nome": "Scafo Zero",
+"prima_apparizione": 50,
+"prosa": null,
+"racconti": [],
+"ricorrenze": [
+{
+"estrazione": 50,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 50,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-PER-0024",
+"riga_tipo": "personaggio",
+"riga_titolo": "Kaito Kisimba"
+},
+{
+"estrazione": 50,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-PER-0025",
+"riga_tipo": "personaggio",
+"riga_titolo": "Haizea Etxezagaray"
+},
+{
+"estrazione": 50,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-PER-0026",
+"riga_tipo": "personaggio",
+"riga_titolo": "Vladimir Minosaenko"
+},
+{
+"estrazione": 50,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-PER-0027",
+"riga_tipo": "personaggio",
+"riga_titolo": "Andrea Varga"
+},
+{
+"estrazione": 50,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-PER-0028",
+"riga_tipo": "personaggio",
+"riga_titolo": "Aylin Yalnerier"
+},
+{
+"estrazione": 50,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-PER-0029",
+"riga_tipo": "personaggio",
+"riga_titolo": "Yosuke Suki"
+},
+{
+"estrazione": 50,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-PER-0030",
+"riga_tipo": "personaggio",
+"riga_titolo": "Ahmad Shamiri"
+},
+{
+"estrazione": 50,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-PER-0031",
+"riga_tipo": "personaggio",
+"riga_titolo": "Magnus Nordeström"
+},
+{
+"estrazione": 50,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-PER-0032",
+"riga_tipo": "personaggio",
+"riga_titolo": "Jelani Jurani"
+},
+{
+"estrazione": 50,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-PER-0033",
+"riga_tipo": "personaggio",
+"riga_titolo": "Petra Wagner"
+},
+{
+"estrazione": 50,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-REG-scafo-zero",
+"riga_tipo": "regione",
+"riga_titolo": "Scafo Zero"
+},
+{
+"estrazione": 53,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0031",
+"riga_tipo": "gadget",
+"riga_titolo": "La Lanterna dal Doppio Lampeggio"
+},
+{
+"estrazione": 55,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-SEM-0003",
+"riga_tipo": "seme",
+"riga_titolo": "seme ELA-INV-0107"
+}
+],
+"righe": [
+{
+"id": "ELA-GAD-0031",
+"tipo": "gadget",
+"titolo": "La Lanterna dal Doppio Lampeggio"
+},
+{
+"id": "ELA-PER-0024",
+"tipo": "personaggio",
+"titolo": "Kaito Kisimba"
+},
+{
+"id": "ELA-PER-0025",
+"tipo": "personaggio",
+"titolo": "Haizea Etxezagaray"
+},
+{
+"id": "ELA-PER-0026",
+"tipo": "personaggio",
+"titolo": "Vladimir Minosaenko"
+},
+{
+"id": "ELA-PER-0027",
+"tipo": "personaggio",
+"titolo": "Andrea Varga"
+},
+{
+"id": "ELA-PER-0028",
+"tipo": "personaggio",
+"titolo": "Aylin Yalnerier"
+},
+{
+"id": "ELA-PER-0029",
+"tipo": "personaggio",
+"titolo": "Yosuke Suki"
+},
+{
+"id": "ELA-PER-0030",
+"tipo": "personaggio",
+"titolo": "Ahmad Shamiri"
+},
+{
+"id": "ELA-PER-0031",
+"tipo": "personaggio",
+"titolo": "Magnus Nordeström"
+},
+{
+"id": "ELA-PER-0032",
+"tipo": "personaggio",
+"titolo": "Jelani Jurani"
+},
+{
+"id": "ELA-PER-0033",
+"tipo": "personaggio",
+"titolo": "Petra Wagner"
+},
+{
+"id": "ELA-REG-scafo-zero",
+"tipo": "regione",
+"titolo": "Scafo Zero"
+},
+{
+"id": "ELA-SEM-0003",
+"tipo": "seme",
+"titolo": "seme ELA-INV-0107"
+}
+],
+"slug": "scafo-zero",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "elabverse"
+}

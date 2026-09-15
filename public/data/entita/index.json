@@ -1,0 +1,171 @@
+[
+{
+"alias": [
+"NEO-REG-calvenna"
+],
+"descrizione": "borgo chiuso; la bottega mutila e invecchia, i giovani non restano; Madre Iselda tiene registri segreti delle nascite",
+"ha_prosa": false,
+"nome": "Calvenna",
+"prima_apparizione": 1,
+"ricorrenze": 102,
+"slug": "calvenna",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "neofeudal"
+},
+{
+"alias": [
+"ELA-REG-konya"
+],
+"descrizione": "Anello d'attracco del convoglio popolato in prevalenza da discendenti anatolici; i nomi restano legati alla città d'origine perché i registri d'imbarco, generazioni fa, assegnarono le cabine per città natale e nessuno li ha più aggiornati.",
+"ha_prosa": false,
+"nome": "Konya",
+"prima_apparizione": 8,
+"ricorrenze": 59,
+"slug": "konya",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "elabverse"
+},
+{
+"alias": [
+"NEO-REG-sarakan"
+],
+"descrizione": "Terra di canali e cascine ai margini coltivabili del pianeta, dove il turno d'acqua è fissato dalla Diocesi del Cielo e i Cerusici passano una volta l'anno a riaprire i passaggi ostruiti con la stessa manovra che usano sui corpi vivi.",
+"ha_prosa": false,
+"nome": "Sarakan",
+"prima_apparizione": 56,
+"ricorrenze": 43,
+"slug": "sarakan",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "neofeudal"
+},
+{
+"alias": [
+"CYB-REG-rostkirche"
+],
+"descrizione": "Accampamento di nomadi urbani cresciuto attorno a uno snodo ferroviario dismesso ai margini del distretto trapianti; i cognomi restano legati ai mestieri di chi ci transitava prima del collasso della linea, e se ne guadagna uno nuovo solo restando abbastanza a lungo.",
+"ha_prosa": false,
+"nome": "Rostkirche",
+"prima_apparizione": 16,
+"ricorrenze": 34,
+"slug": "rostkirche",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "cyberverse"
+},
+{
+"alias": [
+"NEO-REG-vasperdine"
+],
+"descrizione": "Crocevia di pellegrini e scommettitori di ogni stirpe diretti alla Selva delle Puntate; il clero registra le offerte come voti e le quote come grazie, e nessuno sa più distinguerle.",
+"ha_prosa": false,
+"nome": "Vasperdine",
+"prima_apparizione": 4,
+"ricorrenze": 27,
+"slug": "vasperdine",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "neofeudal"
+},
+{
+"alias": [
+"STE-REG-cancello-del-freddo",
+"STE-REG-ledoskol"
+],
+"descrizione": "Città-scalo aggrappata alle chiuse dell'estuario, dove la gilda del freddo governa le cantine di ghiaccio e gli aeronauti ne sorvegliano dall'alto le piene; quasi un cognome su due nasce ancora dal mestiere di chi lo porta. Il Cancello del Freddo è il varco della gilda dove i rifugiati di Zhenevka attendono la razione di ghiaccio scartato, aperto a ora fissa e a quantità chiusa.",
+"ha_prosa": false,
+"nome": "Ledoskol",
+"prima_apparizione": 20,
+"ricorrenze": 24,
+"slug": "ledoskol",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "steamverse"
+},
+{
+"alias": [
+"NEO-REG-vranidol"
+],
+"descrizione": "Marca di confine lungo le piste di caccia dei cavalieri, dove le famiglie vivono a cavallo tra il debito e l'onore; il registro dei falchi è tenuto più stretto di quello delle nascite.",
+"ha_prosa": false,
+"nome": "Vranidol",
+"prima_apparizione": 24,
+"ricorrenze": 18,
+"slug": "vranidol",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "neofeudal"
+},
+{
+"alias": [
+"HAC-REG-rotterdam"
+],
+"descrizione": "Il porto più grande d'Europa smista container, turni di banchina e manifesti doganali ventiquattr'ore su ventiquattro: nessun ceppo prevale perché la manodopera arriva da ogni rotta commerciale, e chi diventa corriere qui porta il cognome della città da cui è partito, non di quella in cui ha attraccato.",
+"ha_prosa": false,
+"nome": "Rotterdam",
+"prima_apparizione": 43,
+"ricorrenze": 15,
+"slug": "rotterdam",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "hackverse"
+},
+{
+"alias": [
+"HAC-REG-tallinn"
+],
+"descrizione": "Hub baltico dell'e-residency e dei registri digitali statali, attira broker di dati da ogni continente: nessun ceppo prevale, i cognomi restano quelli d'origine perché qui si arriva già adulti, con una identità digitale costruita altrove.",
+"ha_prosa": false,
+"nome": "Tallinn",
+"prima_apparizione": 32,
+"ricorrenze": 15,
+"slug": "tallinn",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "hackverse"
+},
+{
+"alias": [
+"ELA-REG-scafo-zero"
+],
+"descrizione": "Uno scafo agganciato al convoglio senza mai essere stato registrato in nessun rollo d'imbarco; chi ci vive è arrivato da ogni ceppo e ha perso o rinnegato il cognome di città, così i nomi si mescolano liberamente e nessuno controlla più chi appartiene a chi.",
+"ha_prosa": false,
+"nome": "Scafo Zero",
+"prima_apparizione": 50,
+"ricorrenze": 14,
+"slug": "scafo-zero",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "elabverse"
+},
+{
+"alias": [
+"NEO-REG-zastavena"
+],
+"descrizione": "Avamposto oltre il Passo di Vermasca dove i custodi dell'era precedente vivono asserragliati attorno ai relitti del vecchio sistema, tramandando a memoria gli ordini di un sergente che forse non esiste più.",
+"ha_prosa": false,
+"nome": "Zastavena",
+"prima_apparizione": 62,
+"ricorrenze": 13,
+"slug": "zastavena",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "neofeudal"
+},
+{
+"alias": [
+"STE-REG-qattoum"
+],
+"descrizione": "Porto di delta dove il fiume si divide in tre bracci salmastri; la gilda degli ingegneri del freddo costruisce e mantiene qui le chiatte refrigerate che risalgono la corrente fino alle città dell'interno, e quasi metà dei cognomi nasce ancora dal mestiere di chi ripara gli scafi.",
+"ha_prosa": false,
+"nome": "Qattoum",
+"prima_apparizione": 68,
+"ricorrenze": 12,
+"slug": "qattoum",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "steamverse"
+}
+]

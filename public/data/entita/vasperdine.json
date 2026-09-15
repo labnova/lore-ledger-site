@@ -1,0 +1,394 @@
+{
+"aggiornata": "2026-09-15",
+"alias": [
+"NEO-REG-vasperdine"
+],
+"descrizione": "Crocevia di pellegrini e scommettitori di ogni stirpe diretti alla Selva delle Puntate; il clero registra le offerte come voti e le quote come grazie, e nessuno sa più distinguerle.",
+"ha_prosa": false,
+"n_ricorrenze": 27,
+"nome": "Vasperdine",
+"prima_apparizione": 4,
+"prosa": null,
+"racconti": [],
+"ricorrenze": [
+{
+"estrazione": 4,
+"quando": "2026-09-12",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 4,
+"quando": "2026-09-12",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0011",
+"riga_tipo": "personaggio",
+"riga_titolo": "Dóra Tarai"
+},
+{
+"estrazione": 4,
+"quando": "2026-09-12",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0012",
+"riga_tipo": "personaggio",
+"riga_titolo": "Kaan Dokumacı"
+},
+{
+"estrazione": 4,
+"quando": "2026-09-12",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0013",
+"riga_tipo": "personaggio",
+"riga_titolo": "Halima Bakatu"
+},
+{
+"estrazione": 4,
+"quando": "2026-09-12",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0014",
+"riga_tipo": "personaggio",
+"riga_titolo": "Hikaru Kajiya"
+},
+{
+"estrazione": 4,
+"quando": "2026-09-12",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0015",
+"riga_tipo": "personaggio",
+"riga_titolo": "Britt Lindstad"
+},
+{
+"estrazione": 4,
+"quando": "2026-09-12",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0016",
+"riga_tipo": "personaggio",
+"riga_titolo": "Yusuf Haddad"
+},
+{
+"estrazione": 4,
+"quando": "2026-09-12",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0017",
+"riga_tipo": "personaggio",
+"riga_titolo": "Eneko Larranakogaray"
+},
+{
+"estrazione": 4,
+"quando": "2026-09-12",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0018",
+"riga_tipo": "personaggio",
+"riga_titolo": "Tomasz Švec"
+},
+{
+"estrazione": 4,
+"quando": "2026-09-12",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0019",
+"riga_tipo": "personaggio",
+"riga_titolo": "Ildikó Ryoshi"
+},
+{
+"estrazione": 4,
+"quando": "2026-09-12",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0020",
+"riga_tipo": "personaggio",
+"riga_titolo": "Sabine Müller"
+},
+{
+"estrazione": 4,
+"quando": "2026-09-12",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-REG-vasperdine",
+"riga_tipo": "regione",
+"riga_titolo": "Vasperdine"
+},
+{
+"estrazione": 13,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0035",
+"riga_tipo": "personaggio",
+"riga_titolo": "Elmas Kutlu"
+},
+{
+"estrazione": 17,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0021",
+"riga_tipo": "gadget",
+"riga_titolo": "Incubatore Votivo"
+},
+{
+"estrazione": 17,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0022",
+"riga_tipo": "gadget",
+"riga_titolo": "Sigillo di Cova"
+},
+{
+"estrazione": 17,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0023",
+"riga_tipo": "gadget",
+"riga_titolo": "Bilancia dei Gusci"
+},
+{
+"estrazione": 17,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0024",
+"riga_tipo": "gadget",
+"riga_titolo": "Registro dei Pulcini"
+},
+{
+"estrazione": 17,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0025",
+"riga_tipo": "gadget",
+"riga_titolo": "Uovo di Prova"
+},
+{
+"estrazione": 17,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0026",
+"riga_tipo": "gadget",
+"riga_titolo": "Manto di Cova"
+},
+{
+"estrazione": 17,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0027",
+"riga_tipo": "gadget",
+"riga_titolo": "Lanterna dei Turni"
+},
+{
+"estrazione": 17,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0028",
+"riga_tipo": "gadget",
+"riga_titolo": "Tavola Astrale della Cripta"
+},
+{
+"estrazione": 17,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0029",
+"riga_tipo": "gadget",
+"riga_titolo": "Anello dei Ranghi"
+},
+{
+"estrazione": 17,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0030",
+"riga_tipo": "gadget",
+"riga_titolo": "Velo delle Levatrici"
+},
+{
+"estrazione": 29,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-SEM-0002",
+"riga_tipo": "seme",
+"riga_titolo": "seme NEO-INV-0012"
+},
+{
+"estrazione": 54,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0050",
+"riga_tipo": "personaggio",
+"riga_titolo": "Aitor Etxeberria"
+},
+{
+"estrazione": 54,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0051",
+"riga_tipo": "personaggio",
+"riga_titolo": "Kerem Aydın"
+},
+{
+"estrazione": 56,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0063",
+"riga_tipo": "personaggio",
+"riga_titolo": "Farkas Bakó"
+}
+],
+"righe": [
+{
+"id": "NEO-GAD-0021",
+"tipo": "gadget",
+"titolo": "Incubatore Votivo"
+},
+{
+"id": "NEO-GAD-0022",
+"tipo": "gadget",
+"titolo": "Sigillo di Cova"
+},
+{
+"id": "NEO-GAD-0023",
+"tipo": "gadget",
+"titolo": "Bilancia dei Gusci"
+},
+{
+"id": "NEO-GAD-0024",
+"tipo": "gadget",
+"titolo": "Registro dei Pulcini"
+},
+{
+"id": "NEO-GAD-0025",
+"tipo": "gadget",
+"titolo": "Uovo di Prova"
+},
+{
+"id": "NEO-GAD-0026",
+"tipo": "gadget",
+"titolo": "Manto di Cova"
+},
+{
+"id": "NEO-GAD-0027",
+"tipo": "gadget",
+"titolo": "Lanterna dei Turni"
+},
+{
+"id": "NEO-GAD-0028",
+"tipo": "gadget",
+"titolo": "Tavola Astrale della Cripta"
+},
+{
+"id": "NEO-GAD-0029",
+"tipo": "gadget",
+"titolo": "Anello dei Ranghi"
+},
+{
+"id": "NEO-GAD-0030",
+"tipo": "gadget",
+"titolo": "Velo delle Levatrici"
+},
+{
+"id": "NEO-PER-0011",
+"tipo": "personaggio",
+"titolo": "Dóra Tarai"
+},
+{
+"id": "NEO-PER-0012",
+"tipo": "personaggio",
+"titolo": "Kaan Dokumacı"
+},
+{
+"id": "NEO-PER-0013",
+"tipo": "personaggio",
+"titolo": "Halima Bakatu"
+},
+{
+"id": "NEO-PER-0014",
+"tipo": "personaggio",
+"titolo": "Hikaru Kajiya"
+},
+{
+"id": "NEO-PER-0015",
+"tipo": "personaggio",
+"titolo": "Britt Lindstad"
+},
+{
+"id": "NEO-PER-0016",
+"tipo": "personaggio",
+"titolo": "Yusuf Haddad"
+},
+{
+"id": "NEO-PER-0017",
+"tipo": "personaggio",
+"titolo": "Eneko Larranakogaray"
+},
+{
+"id": "NEO-PER-0018",
+"tipo": "personaggio",
+"titolo": "Tomasz Švec"
+},
+{
+"id": "NEO-PER-0019",
+"tipo": "personaggio",
+"titolo": "Ildikó Ryoshi"
+},
+{
+"id": "NEO-PER-0020",
+"tipo": "personaggio",
+"titolo": "Sabine Müller"
+},
+{
+"id": "NEO-PER-0035",
+"tipo": "personaggio",
+"titolo": "Elmas Kutlu"
+},
+{
+"id": "NEO-PER-0050",
+"tipo": "personaggio",
+"titolo": "Aitor Etxeberria"
+},
+{
+"id": "NEO-PER-0051",
+"tipo": "personaggio",
+"titolo": "Kerem Aydın"
+},
+{
+"id": "NEO-PER-0063",
+"tipo": "personaggio",
+"titolo": "Farkas Bakó"
+},
+{
+"id": "NEO-REG-vasperdine",
+"tipo": "regione",
+"titolo": "Vasperdine"
+},
+{
+"id": "NEO-SEM-0002",
+"tipo": "seme",
+"titolo": "seme NEO-INV-0012"
+}
+],
+"slug": "vasperdine",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "neofeudal"
+}

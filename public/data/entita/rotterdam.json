@@ -1,0 +1,216 @@
+{
+"aggiornata": "2026-09-15",
+"alias": [
+"HAC-REG-rotterdam"
+],
+"descrizione": "Il porto più grande d'Europa smista container, turni di banchina e manifesti doganali ventiquattr'ore su ventiquattro: nessun ceppo prevale perché la manodopera arriva da ogni rotta commerciale, e chi diventa corriere qui porta il cognome della città da cui è partito, non di quella in cui ha attraccato.",
+"ha_prosa": false,
+"n_ricorrenze": 15,
+"nome": "Rotterdam",
+"prima_apparizione": 43,
+"prosa": null,
+"racconti": [],
+"ricorrenze": [
+{
+"estrazione": 43,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 43,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0011",
+"riga_tipo": "personaggio",
+"riga_titolo": "Thea Lysen"
+},
+{
+"estrazione": 43,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0012",
+"riga_tipo": "personaggio",
+"riga_titolo": "Nóra Bosi"
+},
+{
+"estrazione": 43,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0013",
+"riga_tipo": "personaggio",
+"riga_titolo": "Baraka Chamaneni"
+},
+{
+"estrazione": 43,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0014",
+"riga_tipo": "personaggio",
+"riga_titolo": "Stanislav Goić"
+},
+{
+"estrazione": 43,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0015",
+"riga_tipo": "personaggio",
+"riga_titolo": "Mehmet Taşmasel"
+},
+{
+"estrazione": 43,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0016",
+"riga_tipo": "personaggio",
+"riga_titolo": "Xabier Goilategi"
+},
+{
+"estrazione": 43,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0017",
+"riga_tipo": "personaggio",
+"riga_titolo": "Habib Zadad"
+},
+{
+"estrazione": 43,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0018",
+"riga_tipo": "personaggio",
+"riga_titolo": "Nour Kayatürk"
+},
+{
+"estrazione": 43,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0019",
+"riga_tipo": "personaggio",
+"riga_titolo": "Hikaru Yakiyama"
+},
+{
+"estrazione": 43,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0020",
+"riga_tipo": "personaggio",
+"riga_titolo": "Nadja Bergschmidt"
+},
+{
+"estrazione": 43,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-REG-rotterdam",
+"riga_tipo": "regione",
+"riga_titolo": "Rotterdam"
+},
+{
+"estrazione": 48,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 59,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 66,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0022",
+"riga_tipo": "personaggio",
+"riga_titolo": "Ilkay Demirtaş"
+}
+],
+"righe": [
+{
+"id": "HAC-PER-0011",
+"tipo": "personaggio",
+"titolo": "Thea Lysen"
+},
+{
+"id": "HAC-PER-0012",
+"tipo": "personaggio",
+"titolo": "Nóra Bosi"
+},
+{
+"id": "HAC-PER-0013",
+"tipo": "personaggio",
+"titolo": "Baraka Chamaneni"
+},
+{
+"id": "HAC-PER-0014",
+"tipo": "personaggio",
+"titolo": "Stanislav Goić"
+},
+{
+"id": "HAC-PER-0015",
+"tipo": "personaggio",
+"titolo": "Mehmet Taşmasel"
+},
+{
+"id": "HAC-PER-0016",
+"tipo": "personaggio",
+"titolo": "Xabier Goilategi"
+},
+{
+"id": "HAC-PER-0017",
+"tipo": "personaggio",
+"titolo": "Habib Zadad"
+},
+{
+"id": "HAC-PER-0018",
+"tipo": "personaggio",
+"titolo": "Nour Kayatürk"
+},
+{
+"id": "HAC-PER-0019",
+"tipo": "personaggio",
+"titolo": "Hikaru Yakiyama"
+},
+{
+"id": "HAC-PER-0020",
+"tipo": "personaggio",
+"titolo": "Nadja Bergschmidt"
+},
+{
+"id": "HAC-PER-0022",
+"tipo": "personaggio",
+"titolo": "Ilkay Demirtaş"
+},
+{
+"id": "HAC-REG-rotterdam",
+"tipo": "regione",
+"titolo": "Rotterdam"
+}
+],
+"slug": "rotterdam",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "hackverse"
+}

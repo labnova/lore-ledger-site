@@ -1,0 +1,618 @@
+{
+"aggiornata": "2026-09-15",
+"alias": [
+"NEO-REG-sarakan"
+],
+"descrizione": "Terra di canali e cascine ai margini coltivabili del pianeta, dove il turno d'acqua è fissato dalla Diocesi del Cielo e i Cerusici passano una volta l'anno a riaprire i passaggi ostruiti con la stessa manovra che usano sui corpi vivi.",
+"ha_prosa": false,
+"n_ricorrenze": 43,
+"nome": "Sarakan",
+"prima_apparizione": 56,
+"prosa": null,
+"racconti": [],
+"ricorrenze": [
+{
+"estrazione": 56,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 56,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0052",
+"riga_tipo": "personaggio",
+"riga_titolo": "Rania Saladi"
+},
+{
+"estrazione": 56,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0053",
+"riga_tipo": "personaggio",
+"riga_titolo": "Sara Abu-hab"
+},
+{
+"estrazione": 56,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0054",
+"riga_tipo": "personaggio",
+"riga_titolo": "Imad Al-kari"
+},
+{
+"estrazione": 56,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0055",
+"riga_tipo": "personaggio",
+"riga_titolo": "Zaid Tawi"
+},
+{
+"estrazione": 56,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0056",
+"riga_tipo": "personaggio",
+"riga_titolo": "Samir Khabbaz"
+},
+{
+"estrazione": 56,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0057",
+"riga_tipo": "personaggio",
+"riga_titolo": "Walid Malil"
+},
+{
+"estrazione": 56,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0058",
+"riga_tipo": "personaggio",
+"riga_titolo": "Hassan Talahab"
+},
+{
+"estrazione": 56,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0059",
+"riga_tipo": "personaggio",
+"riga_titolo": "Gunnar Dahlgrelegaard"
+},
+{
+"estrazione": 56,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0060",
+"riga_tipo": "personaggio",
+"riga_titolo": "Leire Otxoterrizabal"
+},
+{
+"estrazione": 56,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0061",
+"riga_tipo": "personaggio",
+"riga_titolo": "Leila Al-sakadad"
+},
+{
+"estrazione": 56,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-REG-sarakan",
+"riga_tipo": "regione",
+"riga_titolo": "Sarakan"
+},
+{
+"estrazione": 57,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0052",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Bastone dei Nodi Storti"
+},
+{
+"estrazione": 57,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0053",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Sigillo di Cera Sbagliato"
+},
+{
+"estrazione": 57,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0054",
+"riga_tipo": "gadget",
+"riga_titolo": "La Cintura a Tasche di Cuoio"
+},
+{
+"estrazione": 57,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0055",
+"riga_tipo": "gadget",
+"riga_titolo": "L'Otre a Doppia Voce"
+},
+{
+"estrazione": 57,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0056",
+"riga_tipo": "gadget",
+"riga_titolo": "La Collana dei Numeri Sussurrati"
+},
+{
+"estrazione": 57,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0057",
+"riga_tipo": "gadget",
+"riga_titolo": "Lo Specchietto che Non Riflette Bene"
+},
+{
+"estrazione": 57,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0058",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Ventaglio Numerato"
+},
+{
+"estrazione": 57,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0059",
+"riga_tipo": "gadget",
+"riga_titolo": "La Fibbia che Conta le Fecondazioni"
+},
+{
+"estrazione": 57,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0060",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Fazzoletto con l'Inchiostro che Cambia"
+},
+{
+"estrazione": 57,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0061",
+"riga_tipo": "gadget",
+"riga_titolo": "L'Anello che Scalda in Ritardo"
+},
+{
+"estrazione": 61,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-SEM-0004",
+"riga_tipo": "seme",
+"riga_titolo": "seme NEO-INV-0053"
+},
+{
+"estrazione": 63,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0062",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Timbro del Bestiame Riciclato"
+},
+{
+"estrazione": 63,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0063",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Fischietto delle Due Note"
+},
+{
+"estrazione": 63,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0064",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Sigillo di Cera del Censore"
+},
+{
+"estrazione": 63,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0065",
+"riga_tipo": "gadget",
+"riga_titolo": "La Tavoletta di Cuoio dei Segni del Pastore"
+},
+{
+"estrazione": 63,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0066",
+"riga_tipo": "gadget",
+"riga_titolo": "La Statuina della Vacca Sterile"
+},
+{
+"estrazione": 63,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0067",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Foglio delle Liste Bruciate"
+},
+{
+"estrazione": 63,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0068",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Corno da Pastore Requisito"
+},
+{
+"estrazione": 63,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0069",
+"riga_tipo": "gadget",
+"riga_titolo": "La Campana di Bronzo del Vecchio Censimento"
+},
+{
+"estrazione": 63,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0070",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Plastico in Argilla Viva del Quartiere"
+},
+{
+"estrazione": 63,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0071",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Diario Vocale su Cilindro di Cera"
+},
+{
+"estrazione": 70,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0073",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Fischio dell'Otre"
+},
+{
+"estrazione": 70,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0074",
+"riga_tipo": "gadget",
+"riga_titolo": "La Cera di Prova"
+},
+{
+"estrazione": 70,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0075",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Bastone dei Due Turni"
+},
+{
+"estrazione": 70,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0076",
+"riga_tipo": "gadget",
+"riga_titolo": "L'Otre Campanaro"
+},
+{
+"estrazione": 70,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0077",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Grembiule a Doppia Tasca"
+},
+{
+"estrazione": 70,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0078",
+"riga_tipo": "gadget",
+"riga_titolo": "La Collana dei Sassi Contati"
+},
+{
+"estrazione": 70,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0079",
+"riga_tipo": "gadget",
+"riga_titolo": "La Tavoletta delle Crepe"
+},
+{
+"estrazione": 70,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0080",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Cappuccio a Doppia Cucitura"
+},
+{
+"estrazione": 70,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0081",
+"riga_tipo": "gadget",
+"riga_titolo": "Lo Scacciapensieri di Resina"
+},
+{
+"estrazione": 70,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-GAD-0082",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Quaderno di Carta Oleata"
+}
+],
+"righe": [
+{
+"id": "NEO-GAD-0052",
+"tipo": "gadget",
+"titolo": "Il Bastone dei Nodi Storti"
+},
+{
+"id": "NEO-GAD-0053",
+"tipo": "gadget",
+"titolo": "Il Sigillo di Cera Sbagliato"
+},
+{
+"id": "NEO-GAD-0054",
+"tipo": "gadget",
+"titolo": "La Cintura a Tasche di Cuoio"
+},
+{
+"id": "NEO-GAD-0055",
+"tipo": "gadget",
+"titolo": "L'Otre a Doppia Voce"
+},
+{
+"id": "NEO-GAD-0056",
+"tipo": "gadget",
+"titolo": "La Collana dei Numeri Sussurrati"
+},
+{
+"id": "NEO-GAD-0057",
+"tipo": "gadget",
+"titolo": "Lo Specchietto che Non Riflette Bene"
+},
+{
+"id": "NEO-GAD-0058",
+"tipo": "gadget",
+"titolo": "Il Ventaglio Numerato"
+},
+{
+"id": "NEO-GAD-0059",
+"tipo": "gadget",
+"titolo": "La Fibbia che Conta le Fecondazioni"
+},
+{
+"id": "NEO-GAD-0060",
+"tipo": "gadget",
+"titolo": "Il Fazzoletto con l'Inchiostro che Cambia"
+},
+{
+"id": "NEO-GAD-0061",
+"tipo": "gadget",
+"titolo": "L'Anello che Scalda in Ritardo"
+},
+{
+"id": "NEO-GAD-0062",
+"tipo": "gadget",
+"titolo": "Il Timbro del Bestiame Riciclato"
+},
+{
+"id": "NEO-GAD-0063",
+"tipo": "gadget",
+"titolo": "Il Fischietto delle Due Note"
+},
+{
+"id": "NEO-GAD-0064",
+"tipo": "gadget",
+"titolo": "Il Sigillo di Cera del Censore"
+},
+{
+"id": "NEO-GAD-0065",
+"tipo": "gadget",
+"titolo": "La Tavoletta di Cuoio dei Segni del Pastore"
+},
+{
+"id": "NEO-GAD-0066",
+"tipo": "gadget",
+"titolo": "La Statuina della Vacca Sterile"
+},
+{
+"id": "NEO-GAD-0067",
+"tipo": "gadget",
+"titolo": "Il Foglio delle Liste Bruciate"
+},
+{
+"id": "NEO-GAD-0068",
+"tipo": "gadget",
+"titolo": "Il Corno da Pastore Requisito"
+},
+{
+"id": "NEO-GAD-0069",
+"tipo": "gadget",
+"titolo": "La Campana di Bronzo del Vecchio Censimento"
+},
+{
+"id": "NEO-GAD-0070",
+"tipo": "gadget",
+"titolo": "Il Plastico in Argilla Viva del Quartiere"
+},
+{
+"id": "NEO-GAD-0071",
+"tipo": "gadget",
+"titolo": "Il Diario Vocale su Cilindro di Cera"
+},
+{
+"id": "NEO-GAD-0073",
+"tipo": "gadget",
+"titolo": "Il Fischio dell'Otre"
+},
+{
+"id": "NEO-GAD-0074",
+"tipo": "gadget",
+"titolo": "La Cera di Prova"
+},
+{
+"id": "NEO-GAD-0075",
+"tipo": "gadget",
+"titolo": "Il Bastone dei Due Turni"
+},
+{
+"id": "NEO-GAD-0076",
+"tipo": "gadget",
+"titolo": "L'Otre Campanaro"
+},
+{
+"id": "NEO-GAD-0077",
+"tipo": "gadget",
+"titolo": "Il Grembiule a Doppia Tasca"
+},
+{
+"id": "NEO-GAD-0078",
+"tipo": "gadget",
+"titolo": "La Collana dei Sassi Contati"
+},
+{
+"id": "NEO-GAD-0079",
+"tipo": "gadget",
+"titolo": "La Tavoletta delle Crepe"
+},
+{
+"id": "NEO-GAD-0080",
+"tipo": "gadget",
+"titolo": "Il Cappuccio a Doppia Cucitura"
+},
+{
+"id": "NEO-GAD-0081",
+"tipo": "gadget",
+"titolo": "Lo Scacciapensieri di Resina"
+},
+{
+"id": "NEO-GAD-0082",
+"tipo": "gadget",
+"titolo": "Il Quaderno di Carta Oleata"
+},
+{
+"id": "NEO-PER-0052",
+"tipo": "personaggio",
+"titolo": "Rania Saladi"
+},
+{
+"id": "NEO-PER-0053",
+"tipo": "personaggio",
+"titolo": "Sara Abu-hab"
+},
+{
+"id": "NEO-PER-0054",
+"tipo": "personaggio",
+"titolo": "Imad Al-kari"
+},
+{
+"id": "NEO-PER-0055",
+"tipo": "personaggio",
+"titolo": "Zaid Tawi"
+},
+{
+"id": "NEO-PER-0056",
+"tipo": "personaggio",
+"titolo": "Samir Khabbaz"
+},
+{
+"id": "NEO-PER-0057",
+"tipo": "personaggio",
+"titolo": "Walid Malil"
+},
+{
+"id": "NEO-PER-0058",
+"tipo": "personaggio",
+"titolo": "Hassan Talahab"
+},
+{
+"id": "NEO-PER-0059",
+"tipo": "personaggio",
+"titolo": "Gunnar Dahlgrelegaard"
+},
+{
+"id": "NEO-PER-0060",
+"tipo": "personaggio",
+"titolo": "Leire Otxoterrizabal"
+},
+{
+"id": "NEO-PER-0061",
+"tipo": "personaggio",
+"titolo": "Leila Al-sakadad"
+},
+{
+"id": "NEO-REG-sarakan",
+"tipo": "regione",
+"titolo": "Sarakan"
+},
+{
+"id": "NEO-SEM-0004",
+"tipo": "seme",
+"titolo": "seme NEO-INV-0053"
+}
+],
+"slug": "sarakan",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "neofeudal"
+}

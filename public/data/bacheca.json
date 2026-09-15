@@ -17,6 +17,7 @@
 "stato": "aperta",
 "storia": [
 {
+"agente": "enzo",
 "da": "enzo",
 "quando": "2026-09-14T21:31:16Z",
 "stato": "aperta"
@@ -32,9 +33,18 @@
 "chiusa_il": null,
 "creata": "2026-09-15T17:21:28Z",
 "esito": null,
+"esito_tipo": null,
+"firma": "bd8412a72097",
 "id": "BAC-35000708470-1",
+"nota": null,
+"occorrenze": 1,
 "payload": {
 "errore": "revisione BAC-34900933278-1: TettoSuperato: tetto LLM_MAX_CHIAMATE_RUN superato: 2 >= 2",
+"firma": "bd8412a72097",
+"occorrenze": 1,
+"run_coinvolti": [
+"35000708470"
+],
 "run_id": "35000708470",
 "step": "revisione",
 "workflow": "riparatore"
@@ -47,10 +57,14 @@
 "righe": [
 "riparatore#35000708470#revisione"
 ],
+"run_coinvolti": [
+"35000708470"
+],
 "scade": null,
 "stato": "aperta",
 "storia": [
 {
+"agente": "riparatore",
 "da": "riparatore",
 "quando": "2026-09-15T17:21:28Z",
 "stato": "aperta"
@@ -58,7 +72,8 @@
 ],
 "tentativi": 0,
 "tipo": "guasto",
-"universi": []
+"universi": [],
+"verifica": null
 },
 {
 "alternative": [],
@@ -69,8 +84,11 @@
 "errori_schema": [],
 "id": "STE-INV-0027",
 "motivazione": null,
+"promossa_da": null,
 "promossa_il": null,
+"respinta_il": null,
 "riga": {
+"carta_id": "BAC-34900933278-1",
 "created": "2026-09-14",
 "discipline": [
 "logistica/catena_del_freddo",
@@ -95,6 +113,15 @@
 },
 "scartata_per": null,
 "stato": "provvisoria",
+"storia": [
+{
+"autore": "migrazione",
+"motivo": "migrazione: la riga era nata canone in ledger/invenzioni/STE-INV-0027.yaml prima del verdetto della carta BAC-34900933278-1",
+"quando": "2026-09-15T18:24:06Z",
+"sha": "9ebf56f29b05a8b9866f4dbda1f4b9574c286885",
+"versione": 1
+}
+],
 "versione": 1,
 "versioni": []
 },
@@ -128,6 +155,7 @@
 "stato": "aperta",
 "storia": [
 {
+"agente": "riparatore",
 "da": "riparatore",
 "quando": "2026-09-14T21:50:04Z",
 "stato": "aperta"
@@ -141,6 +169,7 @@
 },
 {
 "alternativa_dettaglio": null,
+"alternative": [],
 "auto_riferimento": true,
 "carta_madre": "BAC-34900933278-1",
 "chiusa_il": null,
@@ -181,6 +210,7 @@
 "stato": "aperta",
 "storia": [
 {
+"agente": "redattore",
 "da": "redattore",
 "quando": "2026-09-14T21:51:02Z",
 "stato": "aperta"
@@ -194,6 +224,7 @@
 },
 {
 "alternativa_dettaglio": null,
+"alternative": [],
 "auto_riferimento": true,
 "carta_madre": "BAC-34900933278-1",
 "chiusa_il": null,
@@ -229,6 +260,7 @@
 "stato": "aperta",
 "storia": [
 {
+"agente": "editore",
 "da": "editore",
 "quando": "2026-09-14T21:51:07Z",
 "stato": "aperta"
@@ -279,6 +311,7 @@
 "stato": "aperta",
 "storia": [
 {
+"agente": "redattore",
 "da": "redattore",
 "quando": "2026-09-14T23:15:53Z",
 "stato": "aperta"
@@ -292,6 +325,7 @@
 },
 {
 "alternativa_dettaglio": null,
+"alternative": [],
 "auto_riferimento": false,
 "carta_madre": "BAC-34900933278-1",
 "chiusa_il": null,
@@ -349,6 +383,7 @@
 "stato": "aperta",
 "storia": [
 {
+"agente": "guardiano",
 "da": "guardiano",
 "quando": "2026-09-15T00:59:08Z",
 "stato": "aperta"
@@ -407,6 +442,7 @@
 "stato": "aperta",
 "storia": [
 {
+"agente": "media-random",
 "da": "media-random",
 "quando": "2026-09-15T01:10:42Z",
 "stato": "aperta"
@@ -468,6 +504,7 @@
 "stato": "aperta",
 "storia": [
 {
+"agente": "media-random",
 "da": "media-random",
 "quando": "2026-09-15T06:54:46Z",
 "stato": "aperta"
@@ -529,6 +566,7 @@
 "stato": "aperta",
 "storia": [
 {
+"agente": "media-random",
 "da": "media-random",
 "quando": "2026-09-15T06:54:46Z",
 "stato": "aperta"
@@ -592,6 +630,7 @@
 "stato": "aperta",
 "storia": [
 {
+"agente": "media-random",
 "da": "media-random",
 "quando": "2026-09-15T06:54:46Z",
 "stato": "aperta"
@@ -652,6 +691,7 @@
 "stato": "aperta",
 "storia": [
 {
+"agente": "media-random",
 "da": "media-random",
 "quando": "2026-09-15T12:50:32Z",
 "stato": "aperta"
@@ -710,6 +750,7 @@
 "stato": "aperta",
 "storia": [
 {
+"agente": "media-random",
 "da": "media-random",
 "quando": "2026-09-15T12:50:32Z",
 "stato": "aperta"
@@ -842,60 +883,20 @@
 ]
 },
 {
-"chiusa_il": "2026-09-15T05:35:14Z",
-"creata": "2026-09-15T00:59:34Z",
-"esito": "configurazione: Alzare il tetto per-run della variabile d'ambiente e rilanciare il workflow `riparatore` sul ref interessato; se il tetto è cablato in retry.yml, parametrizzarl (logs/guasto-BAC-34915383580-2.md)",
-"id": "BAC-34915383580-2",
-"payload": {
-"diagnosi": {
-"classe": "configurazione",
-"comando": "gh workflow run riparatore.yml -f llm_max_chiamate_run=6",
-"diagnosi": "La fase `revisione` del run 34915383580 è stata interrotta dal guardrail di budget: LLM_MAX_CHIAMATE_RUN vale 2 e la revisione BAC-34900933278-1 ne ha già consumate 2. Non è un errore di codice né di rete: il tetto è una soglia di configurazione troppo bassa per il numero di lotti (creativi + consumatori bacheca) che la revisione deve processare. Un semplice rilancio ripartirebbe dal contatore a zero ma si riazzererebbe sullo stesso tetto appena raggiunte le 2 chiamate.",
-"rimedio": "Alzare il tetto per-run della variabile d'ambiente e rilanciare il workflow `riparatore` sul ref interessato; se il tetto è cablato in retry.yml, parametrizzarlo come input del workflow così che i limiti del modello restino applicati per-lotto e non per-run.",
-"ritenta_automaticamente": false
-},
-"errore": "revisione BAC-34900933278-1: TettoSuperato: tetto LLM_MAX_CHIAMATE_RUN superato: 2 >= 2",
-"run_id": "34915383580",
-"step": "revisione",
-"workflow": "riparatore"
-},
-"postata_da": "riparatore",
-"presa_da": "guardiano",
-"presa_il": "2026-09-15T05:35:06Z",
-"priorita": 2,
-"racconto": null,
-"righe": [
-"riparatore#34915383580#revisione"
-],
-"scade": "2026-09-15T11:35:06Z",
-"stato": "chiusa",
-"storia": [
-{
-"da": "riparatore",
-"quando": "2026-09-15T00:59:34Z",
-"stato": "aperta"
-},
-{
-"da": "guardiano",
-"quando": "2026-09-15T05:35:06Z",
-"stato": "presa"
-},
-{
-"da": "guardiano",
-"quando": "2026-09-15T05:35:14Z",
-"stato": "chiusa"
-}
-],
-"tentativi": 0,
-"tipo": "guasto",
-"universi": []
-},
-{
 "chiusa_il": "2026-09-15T11:23:23Z",
 "creata": "2026-09-15T05:35:17Z",
 "esito": "configurazione: Alzare il tetto a un valore coerente col numero di lotti della revisione (es. 4) via variabile repo, poi rilanciare il workflow riparatore. Se il tetto è delibe (logs/guasto-BAC-34932665454-1.md)",
+"esito_tipo": "non_rimediabile",
+"firma": "466e63ccbe7b",
 "id": "BAC-34932665454-1",
+"nota": "BAC-da47db-1",
+"occorrenze": 1,
 "payload": {
+"chiusura_precedente": {
+"chiusa_il": "2026-09-15T11:23:23Z",
+"esito": "configurazione: Alzare il tetto a un valore coerente col numero di lotti della revisione (es. 4) via variabile repo, poi rilanciare il workflow riparatore. Se il tetto è delibe (logs/guasto-BAC-34932665454-1.md)",
+"motivo": "stessa firma 466e63ccbe7b: ricorrenza di BAC-34915383580-2"
+},
 "diagnosi": {
 "classe": "configurazione",
 "comando": "gh variable set LLM_MAX_CHIAMATE_RUN --body 4 && gh workflow run riparatore.yml",
@@ -904,6 +905,14 @@
 "ritenta_automaticamente": false
 },
 "errore": "revisione BAC-34900933278-1: TettoSuperato: tetto LLM_MAX_CHIAMATE_RUN superato: 2 >= 2",
+"esito_tipo": "non_rimediabile",
+"firma": "466e63ccbe7b",
+"nota": "BAC-da47db-1",
+"occorrenze": 1,
+"ricorrenza_di": "BAC-34915383580-2",
+"run_coinvolti": [
+"34932665454"
+],
 "run_id": "34932665454",
 "step": "revisione",
 "workflow": "riparatore"
@@ -916,20 +925,26 @@
 "righe": [
 "riparatore#34932665454#revisione"
 ],
+"run_coinvolti": [
+"34932665454"
+],
 "scade": "2026-09-15T17:23:17Z",
 "stato": "chiusa",
 "storia": [
 {
+"agente": "riparatore",
 "da": "riparatore",
 "quando": "2026-09-15T05:35:17Z",
 "stato": "aperta"
 },
 {
+"agente": "guardiano",
 "da": "guardiano",
 "quando": "2026-09-15T11:23:17Z",
 "stato": "presa"
 },
 {
+"agente": "guardiano",
 "da": "guardiano",
 "quando": "2026-09-15T11:23:23Z",
 "stato": "chiusa"
@@ -937,14 +952,24 @@
 ],
 "tentativi": 0,
 "tipo": "guasto",
-"universi": []
+"universi": [],
+"verifica": null
 },
 {
 "chiusa_il": "2026-09-15T14:26:24Z",
 "creata": "2026-09-15T11:23:27Z",
 "esito": "configurazione: Alzare il tetto per questa esecuzione invece di toccare retry.yml, che gestisce i limiti del modello e non i tetti di budget per run. Rilancia il workflow passa (logs/guasto-BAC-34962972865-1.md)",
+"esito_tipo": "non_rimediabile",
+"firma": "466e63ccbe7b",
 "id": "BAC-34962972865-1",
+"nota": "BAC-da47db-1",
+"occorrenze": 1,
 "payload": {
+"chiusura_precedente": {
+"chiusa_il": "2026-09-15T14:26:24Z",
+"esito": "configurazione: Alzare il tetto per questa esecuzione invece di toccare retry.yml, che gestisce i limiti del modello e non i tetti di budget per run. Rilancia il workflow passa (logs/guasto-BAC-34962972865-1.md)",
+"motivo": "stessa firma 466e63ccbe7b: ricorrenza di BAC-34915383580-2"
+},
 "diagnosi": {
 "classe": "configurazione",
 "comando": "gh workflow run riparatore.yml --ref main -f llm_max_chiamate_run=4",
@@ -953,6 +978,14 @@
 "ritenta_automaticamente": false
 },
 "errore": "revisione BAC-34900933278-1: TettoSuperato: tetto LLM_MAX_CHIAMATE_RUN superato: 2 >= 2",
+"esito_tipo": "non_rimediabile",
+"firma": "466e63ccbe7b",
+"nota": "BAC-da47db-1",
+"occorrenze": 1,
+"ricorrenza_di": "BAC-34915383580-2",
+"run_coinvolti": [
+"34962972865"
+],
 "run_id": "34962972865",
 "step": "revisione",
 "workflow": "riparatore"
@@ -965,20 +998,26 @@
 "righe": [
 "riparatore#34962972865#revisione"
 ],
+"run_coinvolti": [
+"34962972865"
+],
 "scade": "2026-09-15T20:26:17Z",
 "stato": "chiusa",
 "storia": [
 {
+"agente": "riparatore",
 "da": "riparatore",
 "quando": "2026-09-15T11:23:27Z",
 "stato": "aperta"
 },
 {
+"agente": "guardiano",
 "da": "guardiano",
 "quando": "2026-09-15T14:26:17Z",
 "stato": "presa"
 },
 {
+"agente": "guardiano",
 "da": "guardiano",
 "quando": "2026-09-15T14:26:24Z",
 "stato": "chiusa"
@@ -986,14 +1025,24 @@
 ],
 "tentativi": 0,
 "tipo": "guasto",
-"universi": []
+"universi": [],
+"verifica": null
 },
 {
 "chiusa_il": "2026-09-15T17:21:25Z",
 "creata": "2026-09-15T14:26:27Z",
 "esito": "configurazione: Alzare il tetto per lo step di revisione (la revisione di un lotto BAC richiede almeno 2 chiamate, conviene 4) e rilanciare; in alternativa separare `revisione` (logs/guasto-BAC-34981586566-1.md)",
+"esito_tipo": "non_rimediabile",
+"firma": "466e63ccbe7b",
 "id": "BAC-34981586566-1",
+"nota": "BAC-da47db-1",
+"occorrenze": 1,
 "payload": {
+"chiusura_precedente": {
+"chiusa_il": "2026-09-15T17:21:25Z",
+"esito": "configurazione: Alzare il tetto per lo step di revisione (la revisione di un lotto BAC richiede almeno 2 chiamate, conviene 4) e rilanciare; in alternativa separare `revisione` (logs/guasto-BAC-34981586566-1.md)",
+"motivo": "stessa firma 466e63ccbe7b: ricorrenza di BAC-34915383580-2"
+},
 "diagnosi": {
 "classe": "configurazione",
 "comando": "gh variable set LLM_MAX_CHIAMATE_RUN --body 4 && gh run rerun 34981586566 --failed",
@@ -1002,6 +1051,14 @@
 "ritenta_automaticamente": false
 },
 "errore": "revisione BAC-34900933278-1: TettoSuperato: tetto LLM_MAX_CHIAMATE_RUN superato: 2 >= 2",
+"esito_tipo": "non_rimediabile",
+"firma": "466e63ccbe7b",
+"nota": "BAC-da47db-1",
+"occorrenze": 1,
+"ricorrenza_di": "BAC-34915383580-2",
+"run_coinvolti": [
+"34981586566"
+],
 "run_id": "34981586566",
 "step": "revisione",
 "workflow": "riparatore"
@@ -1014,20 +1071,26 @@
 "righe": [
 "riparatore#34981586566#revisione"
 ],
+"run_coinvolti": [
+"34981586566"
+],
 "scade": "2026-09-15T23:21:19Z",
 "stato": "chiusa",
 "storia": [
 {
+"agente": "riparatore",
 "da": "riparatore",
 "quando": "2026-09-15T14:26:27Z",
 "stato": "aperta"
 },
 {
+"agente": "guardiano",
 "da": "guardiano",
 "quando": "2026-09-15T17:21:19Z",
 "stato": "presa"
 },
 {
+"agente": "guardiano",
 "da": "guardiano",
 "quando": "2026-09-15T17:21:25Z",
 "stato": "chiusa"
@@ -1035,6 +1098,75 @@
 ],
 "tentativi": 0,
 "tipo": "guasto",
+"universi": [],
+"verifica": null
+},
+{
+"chiusa_il": "2026-09-15T19:07:22Z",
+"creata": "2026-09-15T18:43:27Z",
+"esito": "superata da agenti.yaml: bande.LLM_MAX_CHIAMATE_RUN: la decisione sul tetto per-run e ora una banda in agenti.yaml ([2, 8] per LLM_MAX_CHIAMATE_RUN): il guardiano si autoregola dentro quella banda e documenta. Il freno che richiede una decisione del curatore non e piu questo, ma SPESA_GIORNO_USD (og",
+"id": "BAC-da47db-1",
+"payload": {
+"bersaglio": "regolamento",
+"esito_tipo": "non_rimediabile",
+"firma": "466e63ccbe7b",
+"guasto_id": "BAC-34915383580-2",
+"modifica_proposta": "Decisione del curatore su `tetti del modello`: il rimedio proposto era «Alzare il tetto per-run della variabile d'ambiente e rilanciare il workflow `riparatore` sul ref interessato [...]» Non applicato dall'agente: il campo in gioco compare come `llm_max_chiamate_run`. Carta guasto BAC-34915383580-2, firma 466e63ccbe7b. Riferimenti: carta guasto `BAC-34915383580-2`, campo `firma` = `466e63ccbe7b`, log `logs/guasto-BAC-34915383580-2.md`, `agenti.yaml: rimedi_vietati` → `tetti del modello`.",
+"motivo": "non rimediabile dall'agente",
+"osservazione": "Guasto non rimediabile dall'agente: workflow `riparatore`, step `revisione`, classe `configurazione`. Errore: revisione BAC-34900933278-1: TettoSuperato: tetto LLM_MAX_CHIAMATE_RUN superato: 2 >= 2 Diagnosi dell'agente: La fase `revisione` del run 34915383580 è stata interrotta dal guardrail di budget: LLM_MAX_CHIAMATE_RUN vale 2 e la revisione BAC-34900933278-1 ne ha già consumate 2. Il rimedio proposto tocca un freno vietato (tetti del modello): alzare il proprio tetto di spesa è rimuovere il freno che contiene l'agente: decide il curatore. La decisione non spetta all'agente: nessun rimedio è stato applicato.",
+"prove": [
+"BAC-34915383580-2",
+"firma:466e63ccbe7b",
+"riparatore#34915383580#revisione",
+"run:34915383580",
+"run:34932665454",
+"run:34962972865"
+],
+"superata_da": {
+"da": "curatore",
+"motivo": "la decisione sul tetto per-run e ora una banda in agenti.yaml ([2, 8] per LLM_MAX_CHIAMATE_RUN): il guardiano si autoregola dentro quella banda e documenta. Il freno che richiede una decisione del curatore non e piu questo, ma SPESA_GIORNO_USD (oggi null, osservazione).",
+"quando": "2026-09-15T19:07:22Z",
+"riferimento": "agenti.yaml: bande.LLM_MAX_CHIAMATE_RUN",
+"tipo": "banda"
+},
+"vietato": {
+"motivo": "alzare il proprio tetto di spesa è rimuovere il freno che contiene l'agente: decide il curatore",
+"nome": "tetti del modello",
+"pattern": "LLM_MAX_[A-Z_]*",
+"trovato": "llm_max_chiamate_run"
+}
+},
+"postata_da": "guardiano",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [],
+"scade": null,
+"stato": "chiusa",
+"storia": [
+{
+"agente": "guardiano",
+"da": "guardiano",
+"quando": "2026-09-15T18:43:27Z",
+"stato": "attesa_curatore"
+},
+{
+"agente": "curatore",
+"da": "curatore",
+"quando": "2026-09-15T19:07:22Z",
+"stato": "chiusa"
+},
+{
+"agente": "guardiano",
+"da": "guardiano",
+"motivo": "il rimando alla carta BAC-34915383580-2 e stato rimosso: quella carta non ha rimediato niente (no-op) e non e chiusa `risolta`. A superare la nota resta solo la banda in agenti.yaml.",
+"quando": "2026-09-15T19:40:00Z",
+"stato": "chiusa"
+}
+],
+"tentativi": 0,
+"tipo": "nota",
 "universi": []
 },
 {
@@ -1129,5 +1261,162 @@
 "universi": [
 "elabverse"
 ]
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-15T00:59:34Z",
+"esito": "in verifica: LLM_MAX_CHIAMATE_RUN valeva gia 6 (no-op, impostata dal curatore alle 18:53); la carta si chiude solo se la firma 466e63ccbe7b non ricompare in 3 run di riparatore",
+"esito_tipo": null,
+"firma": "466e63ccbe7b",
+"id": "BAC-34915383580-2",
+"nota": "BAC-da47db-1",
+"occorrenze": 4,
+"payload": {
+"autoregolazione": [
+{
+"a": 6,
+"agente": "guardiano",
+"attribuita_a": "curatore",
+"banda": [
+2,
+8
+],
+"carta": "BAC-34915383580-2",
+"da": 6,
+"motivo": "Lo step `revisione` del workflow riparatore e fallito con TettoSuperato a 2 >= 2: la pipeline ha tre fasi (prendi, consuma, revisione) e ognuna consuma almeno una chiamata, quindi con LLM_MAX_CHIAMATE_RUN=2 la terza fase non parte mai. Non e un guasto: e un parametro operativo dimensionato male. 6 sta dentro la banda [2, 8] e lascia due chiamate di margine per fase; il freno vero resta il tetto di spesa giornaliero SPESA_GIORNO_USD.",
+"no_op": true,
+"nota": "la variabile valeva gia 6: l'ha impostata il curatore alle 18:53 UTC del 2026-09-15, prima che il guardiano eseguisse il set. Nessuna modifica attribuibile all'agente.",
+"parametro": "LLM_MAX_CHIAMATE_RUN",
+"passi": [
+{
+"comando": "gh variable set LLM_MAX_CHIAMATE_RUN --repo labnova/lore-ledger --body 6",
+"rc": 0,
+"uscita": ""
+},
+{
+"comando": "gh variable list --repo labnova/lore-ledger",
+"rc": 0,
+"uscita": "LLM_MAX_CHIAMATE_RUN\t6\t2026-09-15T19:07:22Z\nLLM_MAX_USD_GIORNO\t0.5\t2026-09-14T21:26:45Z\nMODEL_ARRICCHIMENTO\tclaude-sonnet-5\t2026-09-13T15:19:29Z\nMODEL_EDITORIALE\tclaude-opus-5\t2026-09-13T15:19:23Z\nMODEL_GIUDICE\tclaude-opus-5\t2026-09-13T12:55:20Z\nMODEL_IGIENE\tclaude-sonnet-5\t2026-09-13T15:05:08Z\nMODEL_LOTTI\tclaude-sonnet-5\t2026-09-13T12:55:15Z\nMODEL_RACCONTO\tclaude-opus-5\t2026-09-13T12:57:02Z\nMODEL"
+}
+],
+"quando": "2026-09-15T19:07:21Z",
+"quando_curatore": "2026-09-15T18:53:00Z"
+}
+],
+"chiusura_precedente": {
+"chiusa_il": "2026-09-15T05:35:14Z",
+"esito": "configurazione: Alzare il tetto per-run della variabile d'ambiente e rilanciare il workflow `riparatore` sul ref interessato; se il tetto è cablato in retry.yml, parametrizzarl (logs/guasto-BAC-34915383580-2.md)",
+"motivo": "chiusa con un consiglio, nessuna verifica"
+},
+"diagnosi": {
+"classe": "configurazione",
+"comando": "gh workflow run riparatore.yml -f llm_max_chiamate_run=6",
+"diagnosi": "La fase `revisione` del run 34915383580 è stata interrotta dal guardrail di budget: LLM_MAX_CHIAMATE_RUN vale 2 e la revisione BAC-34900933278-1 ne ha già consumate 2. Non è un errore di codice né di rete: il tetto è una soglia di configurazione troppo bassa per il numero di lotti (creativi + consumatori bacheca) che la revisione deve processare. Un semplice rilancio ripartirebbe dal contatore a zero ma si riazzererebbe sullo stesso tetto appena raggiunte le 2 chiamate.",
+"rimedio": "Alzare il tetto per-run della variabile d'ambiente e rilanciare il workflow `riparatore` sul ref interessato; se il tetto è cablato in retry.yml, parametrizzarlo come input del workflow così che i limiti del modello restino applicati per-lotto e non per-run.",
+"ritenta_automaticamente": false
+},
+"errore": "revisione BAC-34900933278-1: TettoSuperato: tetto LLM_MAX_CHIAMATE_RUN superato: 2 >= 2",
+"esito_tipo": null,
+"firma": "466e63ccbe7b",
+"nota": "BAC-da47db-1",
+"occorrenze": 4,
+"rimedio_vietato": {
+"motivo": "alzare il proprio tetto di spesa è rimuovere il freno che contiene l'agente: decide il curatore",
+"nome": "tetti del modello",
+"pattern": "LLM_MAX_[A-Z_]*",
+"trovato": "llm_max_chiamate_run"
+},
+"run_coinvolti": [
+"34915383580",
+"34932665454",
+"34962972865",
+"34981586566"
+],
+"run_id": "34915383580",
+"step": "revisione",
+"verifica": {
+"a": 6,
+"agente": "guardiano",
+"aperta": "2026-09-15T19:40:00Z",
+"da": 6,
+"firma": "466e63ccbe7b",
+"nota": "aperta a posteriori: la chiusura `risolta` del 19:07 non aveva dimostrato l'assenza di recidiva",
+"parametro": "LLM_MAX_CHIAMATE_RUN",
+"run_osservati": [],
+"run_restanti": 3,
+"workflow": "riparatore"
+},
+"workflow": "riparatore"
+},
+"postata_da": "riparatore",
+"presa_da": "guardiano",
+"presa_il": "2026-09-15T05:35:06Z",
+"priorita": 2,
+"racconto": null,
+"righe": [
+"riparatore#34915383580#revisione"
+],
+"run_coinvolti": [
+"34915383580",
+"34932665454",
+"34962972865",
+"34981586566"
+],
+"scade": "2026-09-15T11:35:06Z",
+"stato": "in_verifica",
+"storia": [
+{
+"agente": "riparatore",
+"da": "riparatore",
+"quando": "2026-09-15T00:59:34Z",
+"stato": "aperta"
+},
+{
+"agente": "guardiano",
+"da": "guardiano",
+"quando": "2026-09-15T05:35:06Z",
+"stato": "presa"
+},
+{
+"agente": "guardiano",
+"da": "guardiano",
+"quando": "2026-09-15T05:35:14Z",
+"stato": "chiusa"
+},
+{
+"agente": "guardiano",
+"da": "guardiano",
+"quando": "2026-09-15T18:43:27Z",
+"stato": "in_attesa"
+},
+{
+"agente": "guardiano",
+"da": "guardiano",
+"quando": "2026-09-15T19:07:21Z",
+"stato": "chiusa"
+},
+{
+"agente": "guardiano",
+"da": "guardiano",
+"motivo": "no-op: LLM_MAX_CHIAMATE_RUN era gia 6, impostata dal curatore alle 2026-09-15T18:53:00Z. La chiusura `risolta` del 19:07 non era una rimediazione: la carta torna in verifica per 3 run di riparatore.",
+"quando": "2026-09-15T19:40:00Z",
+"stato": "in_verifica"
+}
+],
+"tentativi": 0,
+"tipo": "guasto",
+"universi": [],
+"verifica": {
+"a": 6,
+"agente": "guardiano",
+"aperta": "2026-09-15T19:40:00Z",
+"da": 6,
+"firma": "466e63ccbe7b",
+"nota": "aperta a posteriori: la chiusura `risolta` del 19:07 non aveva dimostrato l'assenza di recidiva",
+"parametro": "LLM_MAX_CHIAMATE_RUN",
+"run_osservati": [],
+"run_restanti": 3,
+"workflow": "riparatore"
+}
 }
 ]

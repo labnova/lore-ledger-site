@@ -1,0 +1,353 @@
+{
+"aggiornata": "2026-09-15",
+"alias": [
+"STE-REG-cancello-del-freddo",
+"STE-REG-ledoskol"
+],
+"descrizione": "Città-scalo aggrappata alle chiuse dell'estuario, dove la gilda del freddo governa le cantine di ghiaccio e gli aeronauti ne sorvegliano dall'alto le piene; quasi un cognome su due nasce ancora dal mestiere di chi lo porta. Il Cancello del Freddo è il varco della gilda dove i rifugiati di Zhenevka attendono la razione di ghiaccio scartato, aperto a ora fissa e a quantità chiusa.",
+"ha_prosa": false,
+"n_ricorrenze": 24,
+"nome": "Ledoskol",
+"prima_apparizione": 20,
+"prosa": null,
+"racconti": [],
+"ricorrenze": [
+{
+"estrazione": 20,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 20,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0001",
+"riga_tipo": "personaggio",
+"riga_titolo": "Tatiana Gomiin"
+},
+{
+"estrazione": 20,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0002",
+"riga_tipo": "personaggio",
+"riga_titolo": "Marina Švec"
+},
+{
+"estrazione": 20,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0003",
+"riga_tipo": "personaggio",
+"riga_titolo": "Nadezhda Leova"
+},
+{
+"estrazione": 20,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0004",
+"riga_tipo": "personaggio",
+"riga_titolo": "Lyudmila Krawiec"
+},
+{
+"estrazione": 20,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0005",
+"riga_tipo": "personaggio",
+"riga_titolo": "Zaid Nymanestrand"
+},
+{
+"estrazione": 20,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0006",
+"riga_tipo": "personaggio",
+"riga_titolo": "Svetlana Kolar"
+},
+{
+"estrazione": 20,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0007",
+"riga_tipo": "personaggio",
+"riga_titolo": "Serkan Kunduracı"
+},
+{
+"estrazione": 20,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0008",
+"riga_tipo": "personaggio",
+"riga_titolo": "Friedrich Lindinwald"
+},
+{
+"estrazione": 20,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0009",
+"riga_tipo": "personaggio",
+"riga_titolo": "Layla Iskafi"
+},
+{
+"estrazione": 20,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0010",
+"riga_tipo": "personaggio",
+"riga_titolo": "Irina Gotonoović"
+},
+{
+"estrazione": 20,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-REG-cancello-del-freddo",
+"riga_tipo": "regione",
+"riga_titolo": "Ledoskol"
+},
+{
+"estrazione": 20,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-REG-ledoskol",
+"riga_tipo": "regione",
+"riga_titolo": "Ledoskol"
+},
+{
+"estrazione": 21,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0001",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Ciondolo della Cassa Vuota"
+},
+{
+"estrazione": 21,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0002",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Sigillo di Cera del Capobarca"
+},
+{
+"estrazione": 21,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0003",
+"riga_tipo": "gadget",
+"riga_titolo": "I Guanti da Ghiacciaio"
+},
+{
+"estrazione": 21,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0004",
+"riga_tipo": "gadget",
+"riga_titolo": "La Spilla a Forma di Chiatta"
+},
+{
+"estrazione": 21,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0005",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Quaderno delle Letture Sporche"
+},
+{
+"estrazione": 21,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0006",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Fischietto Appannato"
+},
+{
+"estrazione": 21,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0007",
+"riga_tipo": "gadget",
+"riga_titolo": "La Lente Appannata"
+},
+{
+"estrazione": 21,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0008",
+"riga_tipo": "gadget",
+"riga_titolo": "La Sciarpa a Righe della Gilda del Freddo"
+},
+{
+"estrazione": 21,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0009",
+"riga_tipo": "gadget",
+"riga_titolo": "La Moneta Forata"
+},
+{
+"estrazione": 21,
+"quando": "2026-09-13",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0010",
+"riga_tipo": "gadget",
+"riga_titolo": "La Chiave Fittizia della Stiva"
+},
+{
+"estrazione": 52,
+"quando": "2026-09-14",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-CON-0002",
+"riga_tipo": "contenuto",
+"riga_titolo": "Il Numero Esatto — trailer (Archivio Istruzione Aeronauti, Gilda del Freddo)"
+}
+],
+"righe": [
+{
+"id": "STE-CON-0002",
+"tipo": "contenuto",
+"titolo": "Il Numero Esatto — trailer (Archivio Istruzione Aeronauti, Gilda del Freddo)"
+},
+{
+"id": "STE-GAD-0001",
+"tipo": "gadget",
+"titolo": "Il Ciondolo della Cassa Vuota"
+},
+{
+"id": "STE-GAD-0002",
+"tipo": "gadget",
+"titolo": "Il Sigillo di Cera del Capobarca"
+},
+{
+"id": "STE-GAD-0003",
+"tipo": "gadget",
+"titolo": "I Guanti da Ghiacciaio"
+},
+{
+"id": "STE-GAD-0004",
+"tipo": "gadget",
+"titolo": "La Spilla a Forma di Chiatta"
+},
+{
+"id": "STE-GAD-0005",
+"tipo": "gadget",
+"titolo": "Il Quaderno delle Letture Sporche"
+},
+{
+"id": "STE-GAD-0006",
+"tipo": "gadget",
+"titolo": "Il Fischietto Appannato"
+},
+{
+"id": "STE-GAD-0007",
+"tipo": "gadget",
+"titolo": "La Lente Appannata"
+},
+{
+"id": "STE-GAD-0008",
+"tipo": "gadget",
+"titolo": "La Sciarpa a Righe della Gilda del Freddo"
+},
+{
+"id": "STE-GAD-0009",
+"tipo": "gadget",
+"titolo": "La Moneta Forata"
+},
+{
+"id": "STE-GAD-0010",
+"tipo": "gadget",
+"titolo": "La Chiave Fittizia della Stiva"
+},
+{
+"id": "STE-PER-0001",
+"tipo": "personaggio",
+"titolo": "Tatiana Gomiin"
+},
+{
+"id": "STE-PER-0002",
+"tipo": "personaggio",
+"titolo": "Marina Švec"
+},
+{
+"id": "STE-PER-0003",
+"tipo": "personaggio",
+"titolo": "Nadezhda Leova"
+},
+{
+"id": "STE-PER-0004",
+"tipo": "personaggio",
+"titolo": "Lyudmila Krawiec"
+},
+{
+"id": "STE-PER-0005",
+"tipo": "personaggio",
+"titolo": "Zaid Nymanestrand"
+},
+{
+"id": "STE-PER-0006",
+"tipo": "personaggio",
+"titolo": "Svetlana Kolar"
+},
+{
+"id": "STE-PER-0007",
+"tipo": "personaggio",
+"titolo": "Serkan Kunduracı"
+},
+{
+"id": "STE-PER-0008",
+"tipo": "personaggio",
+"titolo": "Friedrich Lindinwald"
+},
+{
+"id": "STE-PER-0009",
+"tipo": "personaggio",
+"titolo": "Layla Iskafi"
+},
+{
+"id": "STE-PER-0010",
+"tipo": "personaggio",
+"titolo": "Irina Gotonoović"
+},
+{
+"id": "STE-REG-cancello-del-freddo",
+"tipo": "regione",
+"titolo": "Ledoskol"
+},
+{
+"id": "STE-REG-ledoskol",
+"tipo": "regione",
+"titolo": "Ledoskol"
+}
+],
+"slug": "ledoskol",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "steamverse"
+}

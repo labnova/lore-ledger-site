@@ -1,0 +1,184 @@
+{
+"aggiornata": "2026-09-15",
+"alias": [
+"STE-REG-qattoum"
+],
+"descrizione": "Porto di delta dove il fiume si divide in tre bracci salmastri; la gilda degli ingegneri del freddo costruisce e mantiene qui le chiatte refrigerate che risalgono la corrente fino alle città dell'interno, e quasi metà dei cognomi nasce ancora dal mestiere di chi ripara gli scafi.",
+"ha_prosa": false,
+"n_ricorrenze": 12,
+"nome": "Qattoum",
+"prima_apparizione": 68,
+"prosa": null,
+"racconti": [],
+"ricorrenze": [
+{
+"estrazione": 68,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 68,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0011",
+"riga_tipo": "personaggio",
+"riga_titolo": "Nadia Khabbaz"
+},
+{
+"estrazione": 68,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0012",
+"riga_tipo": "personaggio",
+"riga_titolo": "Nour Hayek"
+},
+{
+"estrazione": 68,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0013",
+"riga_tipo": "personaggio",
+"riga_titolo": "Layla Tahhan"
+},
+{
+"estrazione": 68,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0014",
+"riga_tipo": "personaggio",
+"riga_titolo": "Bilal Shalil"
+},
+{
+"estrazione": 68,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0015",
+"riga_tipo": "personaggio",
+"riga_titolo": "Ibrahim Bin-kayeh"
+},
+{
+"estrazione": 68,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0016",
+"riga_tipo": "personaggio",
+"riga_titolo": "Zainab Tasalawi"
+},
+{
+"estrazione": 68,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0017",
+"riga_tipo": "personaggio",
+"riga_titolo": "Omar Raei"
+},
+{
+"estrazione": 68,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0018",
+"riga_tipo": "personaggio",
+"riga_titolo": "Tariq Nasarihab"
+},
+{
+"estrazione": 68,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0019",
+"riga_tipo": "personaggio",
+"riga_titolo": "Rashid Khayyat"
+},
+{
+"estrazione": 68,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0020",
+"riga_tipo": "personaggio",
+"riga_titolo": "Mona Haddad"
+},
+{
+"estrazione": 68,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-REG-qattoum",
+"riga_tipo": "regione",
+"riga_titolo": "Qattoum"
+}
+],
+"righe": [
+{
+"id": "STE-PER-0011",
+"tipo": "personaggio",
+"titolo": "Nadia Khabbaz"
+},
+{
+"id": "STE-PER-0012",
+"tipo": "personaggio",
+"titolo": "Nour Hayek"
+},
+{
+"id": "STE-PER-0013",
+"tipo": "personaggio",
+"titolo": "Layla Tahhan"
+},
+{
+"id": "STE-PER-0014",
+"tipo": "personaggio",
+"titolo": "Bilal Shalil"
+},
+{
+"id": "STE-PER-0015",
+"tipo": "personaggio",
+"titolo": "Ibrahim Bin-kayeh"
+},
+{
+"id": "STE-PER-0016",
+"tipo": "personaggio",
+"titolo": "Zainab Tasalawi"
+},
+{
+"id": "STE-PER-0017",
+"tipo": "personaggio",
+"titolo": "Omar Raei"
+},
+{
+"id": "STE-PER-0018",
+"tipo": "personaggio",
+"titolo": "Tariq Nasarihab"
+},
+{
+"id": "STE-PER-0019",
+"tipo": "personaggio",
+"titolo": "Rashid Khayyat"
+},
+{
+"id": "STE-PER-0020",
+"tipo": "personaggio",
+"titolo": "Mona Haddad"
+},
+{
+"id": "STE-REG-qattoum",
+"tipo": "regione",
+"titolo": "Qattoum"
+}
+],
+"slug": "qattoum",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "steamverse"
+}
