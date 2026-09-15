@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "promesso_per_contratto"
+},
+"appare_in": [],
+"casta": "nobili",
+"ceppo": "magiaro",
+"cognome": "Bakó",
+"contraddizione": "Vende le quote della Selva delle Puntate come fossero grazie divine, ma il contratto che lo promette a Dóra Tarai scade lo stesso giorno del prossimo rilancio, e lui ha già iniziato a trattarlo come una scommessa in perdita.",
+"created": "2026-09-15",
+"difetto": "manipolatore",
+"epoca_relativa": 0,
+"estrazione": 56,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "Non ha mai detto a Dóra di aver scommesso lui stesso sul giorno in cui il loro contratto sarebbe scaduto, e la quota che ha comprato è più alta di quella su qualunque bestia della Selva.",
+"id": "NEO-PER-0063",
+"invenzione_id": "NEO-INV-0012",
+"media": [],
+"nome": "Farkas",
+"parent_id": "NEO-PER-0011",
+"rapporto": "vende",
+"regione": "Vasperdine",
+"relazione": "espansione",
+"ritratto": null,
+"schema_version": 1,
+"segno": "toro",
+"spirituale": {
+"credenza": "il cielo amministrato",
+"rapporto": "scettico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "calcolatore",
+"universo": "neofeudal"
+}

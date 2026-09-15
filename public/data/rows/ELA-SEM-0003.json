@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"cluster": "ELA-INV-0107",
+"created": "2026-09-14",
+"epoca_relativa": 0,
+"estrazione": 55,
+"fatti": [],
+"id": "ELA-SEM-0003",
+"media": [],
+"origine": "arricchimento",
+"ostacolo": "Aylin Yalnerier, che amministra il debito del Banco tra i derelitti e usa la conta delle lanterne per cancellare dai registri i nomi di chi non può pagare — scommettendo ogni sera su quale lanterna mancherà, perché è lei a deciderlo — non può permettere che l'errore di Vladimir arrivi al comandante.",
+"parent_id": null,
+"premessa": "Vladimir Minosaenko, il bambino che annota ogni lampo della conta ufficiale in un quaderno rigorosissimo, ha scoperto un errore di conteggio vecchio di tre turni e vuole portarlo al comandante, convinto che sia il modo per farsi finalmente assegnare una lanterna propria.",
+"regione": "Scafo Zero",
+"relazione": null,
+"rottura": "Se il quaderno di Vladimir risale al turno giusto, l'errore riporta dritto al punto dello scafo dove Petra ha venduto l'ultima Lanterna dal Doppio Lampeggio, e la conta smette di essere il censimento infallibile su cui si regge il debito di tutti — comprese le scommesse truccate di Aylin.",
+"schema_version": 1,
+"status": "canon",
+"tipo": "seme",
+"tono": "notturno, contabile, sospeso",
+"universi": [
+"elabverse"
+],
+"universo": "elabverse"
+}

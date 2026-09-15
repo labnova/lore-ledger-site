@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "bisessuale",
+"situazione": "relazione_segreta"
+},
+"appare_in": [],
+"casta": "contadini",
+"ceppo": "arabo",
+"cognome": "Al-kari",
+"contraddizione": "Vende ai vicini otri \"benedetti\" che giura identici a quelli dei Cerusici, ma è sordo a ogni avvertimento su come regolare il fiato, e due canali sono già crollati per colpa sua.",
+"created": "2026-09-15",
+"difetto": "sordo_ai_consigli",
+"epoca_relativa": 0,
+"estrazione": 56,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "Nasconde alla comunità e all'amante segreto quanti otri difettosi ha già venduto, convinto che sia la fortuna, non la tecnica, a decidere i crolli.",
+"id": "NEO-PER-0054",
+"invenzione_id": "NEO-INV-0053",
+"media": [],
+"nome": "Imad",
+"parent_id": null,
+"rapporto": "vende",
+"regione": "Sarakan",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "cancro",
+"spirituale": {
+"credenza": "il_sacro_e_una_bugia_utile",
+"rapporto": "praticante_tiepido"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ironico",
+"universo": "neofeudal"
+}

@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "poliamoroso"
+},
+"appare_in": [],
+"casta": "contadini",
+"ceppo": "arabo",
+"cognome": "Al-sakadad",
+"contraddizione": "Usa l'otre dei Cerusici per riaprire il canale di famiglia con una disinvoltura che nessuno le ha insegnato, ma la sua distrazione crudele ha già fatto scoppiare un otre in faccia a un vicino che l'aiutava.",
+"created": "2026-09-15",
+"difetto": "crudele_per_distrazione",
+"epoca_relativa": 0,
+"estrazione": 56,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "Sa che il cielo è amministrato, non sacro, eppure ripete a ogni gonfiaggio la stessa formula che diceva sua nonna, come se non crederci bastasse a proteggerla dal prossimo incidente.",
+"id": "NEO-PER-0061",
+"invenzione_id": "NEO-INV-0053",
+"media": [],
+"nome": "Leila",
+"parent_id": null,
+"rapporto": "usa",
+"regione": "Sarakan",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "vergine",
+"spirituale": {
+"credenza": "il_cielo_amministrato",
+"rapporto": "apostata"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ironico",
+"universo": "neofeudal"
+}

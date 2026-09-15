@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"zoologia",
+"diritto"
+],
+"epoca_relativa": 0,
+"estrazione": 56,
+"fatti": [],
+"gancio": "Un giudice scopre che lo sciame convocato per giudicare lui oggi è lo stesso che ha condannato suo padre trent'anni fa, ormai troppo vecchio per pungere chiunque.",
+"id": "NEO-INV-0067",
+"media": [],
+"nome": "Il Libro delle Punture",
+"nome_reale": "Registro delle punture",
+"parent_id": "NEO-INV-0014",
+"poc": false,
+"regione": "Calvenna",
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Ogni sciame usato nelle Ordalie invecchia e perde precisione; i giudici tengono un registro segreto di quali sciami hanno già mentito, e continuano a usarli anche quando sono troppo vecchi per distinguere davvero la verità.",
+"universo": "neofeudal"
+}

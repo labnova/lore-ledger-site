@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "bisessuale",
+"situazione": "poliamoroso"
+},
+"appare_in": [],
+"casta": "contadini",
+"ceppo": "scandinavo",
+"cognome": "Dahlgrelegaard",
+"contraddizione": "È il contadino più silenzioso di Sarakan, ma quando i Cerusici arrivano con l'otre non riesce a tacere, perché la sua eresia dice che ogni crollo è un giudizio, e vuole il canale chiuso invece che forzato.",
+"created": "2026-09-15",
+"difetto": "rancoroso",
+"epoca_relativa": 0,
+"estrazione": 56,
+"eta_fascia": "anziano",
+"fatti": [],
+"gancio": "Ha convinto metà della sua famiglia poliamorosa a non toccare più l'acqua del canale appena riaperto, e il rancore represso di una vita rischia di venire a galla proprio ora.",
+"id": "NEO-PER-0059",
+"invenzione_id": "NEO-INV-0053",
+"media": [],
+"nome": "Gunnar",
+"parent_id": null,
+"rapporto": "teme",
+"regione": "Sarakan",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "acquario",
+"spirituale": {
+"credenza": "il_crollo_come_giudizio",
+"rapporto": "eretico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "silenzioso",
+"universo": "neofeudal"
+}

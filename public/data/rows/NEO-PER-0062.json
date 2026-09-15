@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "sposato"
+},
+"appare_in": [],
+"casta": "cavalieri",
+"ceppo": "slavo",
+"cognome": "Vranik",
+"contraddizione": "È il maestro dei falchi più severo di Vranidol, capace di leggere ogni puntata nel volo di un falco segnaposto, ma la sua inflessibilità gli ha fatto bandire dalle voliere l'unico scudiero che i falchi seguono senza esitare.",
+"created": "2026-09-15",
+"difetto": "inflessibile",
+"epoca_relativa": 0,
+"estrazione": 56,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "Ha proibito a Iñaki di avvicinarsi ai falchi dopo l'ultimo scatto d'ira, ma le puntate della Marca calano ogni settimana in cui i falchi volano senza di lui, e nessuno osa dirglielo.",
+"id": "NEO-PER-0062",
+"invenzione_id": "NEO-INV-0013",
+"media": [],
+"nome": "Bogdan",
+"parent_id": "NEO-PER-0039",
+"rapporto": "usa",
+"regione": "Vranidol",
+"relazione": "espansione",
+"ritratto": null,
+"schema_version": 1,
+"segno": "capricorno",
+"spirituale": {
+"credenza": "dottrina del debito",
+"rapporto": "devoto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "severo",
+"universo": "neofeudal"
+}

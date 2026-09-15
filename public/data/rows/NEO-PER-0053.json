@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "asessuale",
+"situazione": "vedovo"
+},
+"appare_in": [],
+"casta": "contadini",
+"ceppo": "arabo",
+"cognome": "Abu-hab",
+"contraddizione": "È la mediatrice a cui tutta Sarakan si rivolge per le dispute sui turni d'acqua, ma la sua ingenuità le fa credere ogni volta alle rassicurazioni dei Cerusici, così lascia riaprire proprio il canale che teme di più.",
+"created": "2026-09-15",
+"difetto": "ingenuo",
+"epoca_relativa": 0,
+"estrazione": 56,
+"eta_fascia": "adulto",
+"fatti": [],
+"gancio": "Da vedova gestisce da sola il canale di famiglia, e ogni volta che i Cerusici tornano con l'otre giura a se stessa che sarà l'ultima.",
+"id": "NEO-PER-0053",
+"invenzione_id": "NEO-INV-0053",
+"media": [],
+"nome": "Sara",
+"parent_id": null,
+"rapporto": "teme",
+"regione": "Sarakan",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "gemelli",
+"spirituale": {
+"credenza": "ciclo_del_ritorno",
+"rapporto": "indifferente"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "diplomatico",
+"universo": "neofeudal"
+}

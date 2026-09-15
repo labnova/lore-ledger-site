@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "bisessuale",
+"situazione": "fidanzato"
+},
+"appare_in": [],
+"casta": "contadini",
+"ceppo": "arabo",
+"cognome": "Saladi",
+"contraddizione": "È la contadina più cocciuta di Sarakan nel voler imparare a dare fiato ai canali ostruiti, ma la sua incostanza le fa mollare l'apprendistato dai Cerusici ogni volta che il gonfiaggio richiede più di tre giorni di fila.",
+"created": "2026-09-15",
+"difetto": "incostante",
+"epoca_relativa": 0,
+"estrazione": 56,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "Il fidanzato le ha promesso che l'aspetterà finché non finirà l'addestramento, ma è la terza stagione che lo lascia a metà, e il canale del suo campo resta chiuso.",
+"id": "NEO-PER-0052",
+"invenzione_id": "NEO-INV-0053",
+"media": [],
+"nome": "Rania",
+"parent_id": null,
+"rapporto": "studia",
+"regione": "Sarakan",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "scorpione",
+"spirituale": {
+"credenza": "ciclo_del_ritorno",
+"rapporto": "devoto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ironico",
+"universo": "neofeudal"
+}

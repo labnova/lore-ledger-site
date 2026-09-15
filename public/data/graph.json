@@ -336,6 +336,16 @@
 "to": "NEO-REG-calvenna"
 },
 {
+"from": "NEO-INV-0014",
+"kind": "parent",
+"to": "NEO-INV-0067"
+},
+{
+"from": "NEO-INV-0067",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
 "from": "STE-INV-0013",
 "kind": "parent",
 "to": "STE-INV-0021"
@@ -1572,6 +1582,136 @@
 },
 {
 "from": "NEO-PER-0051",
+"kind": "regione",
+"to": "NEO-REG-vasperdine"
+},
+{
+"from": "NEO-PER-0052",
+"kind": "invenzione",
+"to": "NEO-INV-0053"
+},
+{
+"from": "NEO-PER-0052",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-PER-0053",
+"kind": "invenzione",
+"to": "NEO-INV-0053"
+},
+{
+"from": "NEO-PER-0053",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-PER-0054",
+"kind": "invenzione",
+"to": "NEO-INV-0053"
+},
+{
+"from": "NEO-PER-0054",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-PER-0055",
+"kind": "invenzione",
+"to": "NEO-INV-0053"
+},
+{
+"from": "NEO-PER-0055",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-PER-0056",
+"kind": "invenzione",
+"to": "NEO-INV-0053"
+},
+{
+"from": "NEO-PER-0056",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-PER-0057",
+"kind": "invenzione",
+"to": "NEO-INV-0053"
+},
+{
+"from": "NEO-PER-0057",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-PER-0058",
+"kind": "invenzione",
+"to": "NEO-INV-0053"
+},
+{
+"from": "NEO-PER-0058",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-PER-0059",
+"kind": "invenzione",
+"to": "NEO-INV-0053"
+},
+{
+"from": "NEO-PER-0059",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-PER-0060",
+"kind": "invenzione",
+"to": "NEO-INV-0053"
+},
+{
+"from": "NEO-PER-0060",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-PER-0061",
+"kind": "invenzione",
+"to": "NEO-INV-0053"
+},
+{
+"from": "NEO-PER-0061",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-PER-0039",
+"kind": "parent",
+"to": "NEO-PER-0062"
+},
+{
+"from": "NEO-PER-0062",
+"kind": "invenzione",
+"to": "NEO-INV-0013"
+},
+{
+"from": "NEO-PER-0062",
+"kind": "regione",
+"to": "NEO-REG-vranidol"
+},
+{
+"from": "NEO-PER-0011",
+"kind": "parent",
+"to": "NEO-PER-0063"
+},
+{
+"from": "NEO-PER-0063",
+"kind": "invenzione",
+"to": "NEO-INV-0012"
+},
+{
+"from": "NEO-PER-0063",
 "kind": "regione",
 "to": "NEO-REG-vasperdine"
 },
@@ -3471,6 +3611,16 @@
 "to": "ELA-REG-konya"
 },
 {
+"from": "ELA-SEM-0003",
+"kind": "cluster",
+"to": "ELA-INV-0107"
+},
+{
+"from": "ELA-SEM-0003",
+"kind": "regione",
+"to": "ELA-REG-scafo-zero"
+},
+{
 "from": "HAC-SEM-0001",
 "kind": "cluster",
 "to": "HAC-INV-0001"
@@ -5195,6 +5345,12 @@
 "universo": "elabverse"
 },
 {
+"id": "ELA-SEM-0003",
+"tipo": "seme",
+"titolo": "seme ELA-INV-0107",
+"universo": "elabverse"
+},
+{
 "id": "HAC-CON-0001",
 "tipo": "contenuto",
 "titolo": "thread #bug-bounty-idraulico: \"lo stesso identico bug, due settori diversi\"",
@@ -6347,6 +6503,12 @@
 "universo": "neofeudal"
 },
 {
+"id": "NEO-INV-0067",
+"tipo": "invenzione",
+"titolo": "Il Libro delle Punture",
+"universo": "neofeudal"
+},
+{
 "id": "NEO-PER-0001",
 "tipo": "personaggio",
 "titolo": "Juma Mwangaza",
@@ -6653,9 +6815,87 @@
 "universo": "neofeudal"
 },
 {
+"id": "NEO-PER-0052",
+"tipo": "personaggio",
+"titolo": "Rania Saladi",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0053",
+"tipo": "personaggio",
+"titolo": "Sara Abu-hab",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0054",
+"tipo": "personaggio",
+"titolo": "Imad Al-kari",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0055",
+"tipo": "personaggio",
+"titolo": "Zaid Tawi",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0056",
+"tipo": "personaggio",
+"titolo": "Samir Khabbaz",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0057",
+"tipo": "personaggio",
+"titolo": "Walid Malil",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0058",
+"tipo": "personaggio",
+"titolo": "Hassan Talahab",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0059",
+"tipo": "personaggio",
+"titolo": "Gunnar Dahlgrelegaard",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0060",
+"tipo": "personaggio",
+"titolo": "Leire Otxoterrizabal",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0061",
+"tipo": "personaggio",
+"titolo": "Leila Al-sakadad",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0062",
+"tipo": "personaggio",
+"titolo": "Bogdan Vranik",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0063",
+"tipo": "personaggio",
+"titolo": "Farkas Bakó",
+"universo": "neofeudal"
+},
+{
 "id": "NEO-REG-calvenna",
 "tipo": "regione",
 "titolo": "Calvenna",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-REG-sarakan",
+"tipo": "regione",
+"titolo": "Sarakan",
 "universo": "neofeudal"
 },
 {

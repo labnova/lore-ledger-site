@@ -1,0 +1,21 @@
+{
+"appare_in": [],
+"ceppo_dominante": "arabo",
+"created": "2026-09-15",
+"epoca_relativa": 0,
+"estrazione": 56,
+"fatti": [],
+"id": "NEO-REG-sarakan",
+"media": [],
+"nome": "Sarakan",
+"note": "Terra di canali e cascine ai margini coltivabili del pianeta, dove il turno d'acqua è fissato dalla Diocesi del Cielo e i Cerusici passano una volta l'anno a riaprire i passaggi ostruiti con la stessa manovra che usano sui corpi vivi.",
+"onomastica": "legata",
+"p_cognome_mestiere": 0.13,
+"parent_id": null,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "regione",
+"universo": "neofeudal"
+}

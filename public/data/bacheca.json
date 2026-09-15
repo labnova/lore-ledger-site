@@ -207,5 +207,55 @@
 "universi": [
 "steamverse"
 ]
+},
+{
+"alternative": [],
+"artefatti_prodotti": [
+"approfondimenti/2026-09-14-NEO-INV-0027-redattore.md"
+],
+"artefatto_dettaglio": null,
+"chiusa_il": null,
+"creata": "2026-09-14T23:15:53Z",
+"esito": null,
+"id": "BAC-34908018186-1",
+"letto_a": "4137401092b0012e67128ca227a889c998656df0",
+"payload": {
+"artefatti_prodotti": [
+"approfondimenti/2026-09-14-NEO-INV-0027-redattore.md"
+],
+"artefatto": "approfondimenti/2026-09-14-NEO-INV-0027-redattore.md",
+"candidati": [
+"NEO-INV-0027",
+"STE-GAD-0009",
+"NEO-INV-0014"
+],
+"forma": "snippet",
+"lacuna": "manca la regione dei dormitori popolari",
+"letto_a": "4137401092b0012e67128ca227a889c998656df0",
+"motivazione": "Su NEO-INV-0027 la regione è vuota, ed è l'unico dei tre a lasciare scoperto il dove della scena: NEO-INV-0014 dichiara Calvenna, STE-GAD-0009 dichiara Ledoskol e ha già portatore e tradimento_tech al completo. Il gancio però è il più forte del lotto: il fiato che si interrompe lo stesso giorno in cui muore l'ultima vacca della stalla madre, con il clero che copre l'origine. Tra le mie forme preferite scelgo lo snippet: un testo breve per canale lavora proprio sull'effetto del blackout e sul silenzio del clero, senza aggiungere impianti che la riga non regge. Non tocco il resto: le discipline reggono, la torsione è dichiarata, la mancanza di figlie è una scelta di sviluppo, non una lacuna.",
+"scelto": "NEO-INV-0027"
+},
+"postata_da": "redattore",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"NEO-INV-0027"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"da": "redattore",
+"quando": "2026-09-14T23:15:53Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "approfondimento",
+"universi": [
+"neofeudal"
+]
 }
 ]

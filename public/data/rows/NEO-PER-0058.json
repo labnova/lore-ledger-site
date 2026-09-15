@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "bisessuale",
+"situazione": "poliamoroso"
+},
+"appare_in": [],
+"casta": "contadini",
+"ceppo": "arabo",
+"cognome": "Talahab",
+"contraddizione": "Vende ai vicini la sua curiosità come garanzia — è lui che spiega come funziona il Fiato che Allarga — ma la sua ingenuità lo fa credere a ogni Cerusico che gli promette uno sconto, e paga sempre più degli altri.",
+"created": "2026-09-15",
+"difetto": "ingenuo",
+"epoca_relativa": 0,
+"estrazione": 56,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Ha tre amanti che gli chiedono ognuno un pezzo di terreno irrigato in cambio di restare, e il canale che dovrebbe salvarli tutti è ancora chiuso.",
+"id": "NEO-PER-0058",
+"invenzione_id": "NEO-INV-0053",
+"media": [],
+"nome": "Hassan",
+"parent_id": null,
+"rapporto": "vende",
+"regione": "Sarakan",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "bilancia",
+"spirituale": {
+"credenza": "ciclo_del_ritorno",
+"rapporto": "scettico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "curioso",
+"universo": "neofeudal"
+}
