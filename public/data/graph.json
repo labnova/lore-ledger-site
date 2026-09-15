@@ -1871,6 +1871,21 @@
 "to": "NEO-REG-zastavena"
 },
 {
+"from": "NEO-PER-0029",
+"kind": "parent",
+"to": "NEO-PER-0075"
+},
+{
+"from": "NEO-PER-0075",
+"kind": "invenzione",
+"to": "NEO-INV-0009"
+},
+{
+"from": "NEO-PER-0075",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
 "from": "STE-PER-0001",
 "kind": "invenzione",
 "to": "STE-INV-0012"
@@ -3662,6 +3677,156 @@
 },
 {
 "from": "NEO-GAD-0061",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-GAD-0062",
+"kind": "invenzione",
+"to": "NEO-INV-0036"
+},
+{
+"from": "NEO-GAD-0062",
+"kind": "personaggio",
+"to": "NEO-PER-0055"
+},
+{
+"from": "NEO-GAD-0062",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-GAD-0063",
+"kind": "invenzione",
+"to": "NEO-INV-0036"
+},
+{
+"from": "NEO-GAD-0063",
+"kind": "personaggio",
+"to": "NEO-PER-0055"
+},
+{
+"from": "NEO-GAD-0063",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-GAD-0064",
+"kind": "invenzione",
+"to": "NEO-INV-0036"
+},
+{
+"from": "NEO-GAD-0064",
+"kind": "personaggio",
+"to": "NEO-PER-0055"
+},
+{
+"from": "NEO-GAD-0064",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-GAD-0065",
+"kind": "invenzione",
+"to": "NEO-INV-0036"
+},
+{
+"from": "NEO-GAD-0065",
+"kind": "personaggio",
+"to": "NEO-PER-0055"
+},
+{
+"from": "NEO-GAD-0065",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-GAD-0066",
+"kind": "invenzione",
+"to": "NEO-INV-0036"
+},
+{
+"from": "NEO-GAD-0066",
+"kind": "personaggio",
+"to": "NEO-PER-0055"
+},
+{
+"from": "NEO-GAD-0066",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-GAD-0067",
+"kind": "invenzione",
+"to": "NEO-INV-0036"
+},
+{
+"from": "NEO-GAD-0067",
+"kind": "personaggio",
+"to": "NEO-PER-0055"
+},
+{
+"from": "NEO-GAD-0067",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-GAD-0068",
+"kind": "invenzione",
+"to": "NEO-INV-0036"
+},
+{
+"from": "NEO-GAD-0068",
+"kind": "personaggio",
+"to": "NEO-PER-0055"
+},
+{
+"from": "NEO-GAD-0068",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-GAD-0069",
+"kind": "invenzione",
+"to": "NEO-INV-0036"
+},
+{
+"from": "NEO-GAD-0069",
+"kind": "personaggio",
+"to": "NEO-PER-0055"
+},
+{
+"from": "NEO-GAD-0069",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-GAD-0070",
+"kind": "invenzione",
+"to": "NEO-INV-0036"
+},
+{
+"from": "NEO-GAD-0070",
+"kind": "personaggio",
+"to": "NEO-PER-0055"
+},
+{
+"from": "NEO-GAD-0070",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-GAD-0071",
+"kind": "invenzione",
+"to": "NEO-INV-0036"
+},
+{
+"from": "NEO-GAD-0071",
+"kind": "personaggio",
+"to": "NEO-PER-0055"
+},
+{
+"from": "NEO-GAD-0071",
 "kind": "regione",
 "to": "NEO-REG-sarakan"
 },
@@ -6625,6 +6790,66 @@
 "universo": "neofeudal"
 },
 {
+"id": "NEO-GAD-0062",
+"tipo": "gadget",
+"titolo": "Il Timbro del Bestiame Riciclato",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0063",
+"tipo": "gadget",
+"titolo": "Il Fischietto delle Due Note",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0064",
+"tipo": "gadget",
+"titolo": "Il Sigillo di Cera del Censore",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0065",
+"tipo": "gadget",
+"titolo": "La Tavoletta di Cuoio dei Segni del Pastore",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0066",
+"tipo": "gadget",
+"titolo": "La Statuina della Vacca Sterile",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0067",
+"tipo": "gadget",
+"titolo": "Il Foglio delle Liste Bruciate",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0068",
+"tipo": "gadget",
+"titolo": "Il Corno da Pastore Requisito",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0069",
+"tipo": "gadget",
+"titolo": "La Campana di Bronzo del Vecchio Censimento",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0070",
+"tipo": "gadget",
+"titolo": "Il Plastico in Argilla Viva del Quartiere",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0071",
+"tipo": "gadget",
+"titolo": "Il Diario Vocale su Cilindro di Cera",
+"universo": "neofeudal"
+},
+{
 "id": "NEO-INV-0001",
 "tipo": "invenzione",
 "titolo": "Giudizio dei Galli di Calvenna",
@@ -7486,6 +7711,12 @@
 "id": "NEO-PER-0074",
 "tipo": "personaggio",
 "titolo": "Hamisi Mutamaye",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0075",
+"tipo": "personaggio",
+"titolo": "Juma Mwakasege",
 "universo": "neofeudal"
 },
 {

@@ -2700,5 +2700,51 @@
 "NEO-REG-zastavena"
 ],
 "universo": "neofeudal"
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"NEO-INV-0036",
+"NEO-PER-0055",
+"NEO-GAD-0049",
+"NEO-PER-0029",
+"NEO-GAD-0014",
+"NEO-INV-0009"
+],
+"chiavi": {
+"invenzione_id": "NEO-INV-0036",
+"n_prod": 5,
+"personaggio_id": "NEO-PER-0055",
+"universo": "neofeudal"
+},
+"created": "2026-09-15",
+"esito": "ok",
+"espansioni": [
+"NEO-PER-0075"
+],
+"estrazione": 63,
+"forzata": false,
+"lotto": "lotto-gadget",
+"modello": "claude-sonnet-5",
+"prod": [
+"NEO-GAD-0062",
+"NEO-GAD-0063",
+"NEO-GAD-0064",
+"NEO-GAD-0065",
+"NEO-GAD-0066"
+],
+"righe_prodotte": [
+"NEO-GAD-0062",
+"NEO-GAD-0063",
+"NEO-GAD-0064",
+"NEO-GAD-0065",
+"NEO-GAD-0066",
+"NEO-GAD-0067",
+"NEO-GAD-0068",
+"NEO-GAD-0069",
+"NEO-GAD-0070",
+"NEO-GAD-0071"
+],
+"universo": "neofeudal"
 }
 ]
