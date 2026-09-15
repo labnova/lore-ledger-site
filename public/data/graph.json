@@ -356,6 +356,21 @@
 "to": "NEO-INV-0068"
 },
 {
+"from": "NEO-INV-0031",
+"kind": "parent",
+"to": "NEO-INV-0069"
+},
+{
+"from": "NEO-INV-0045",
+"kind": "parent",
+"to": "NEO-INV-0070"
+},
+{
+"from": "NEO-INV-0070",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
 "from": "STE-INV-0013",
 "kind": "parent",
 "to": "STE-INV-0021"
@@ -1754,6 +1769,106 @@
 "from": "NEO-PER-0064",
 "kind": "regione",
 "to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0065",
+"kind": "invenzione",
+"to": "NEO-INV-0044"
+},
+{
+"from": "NEO-PER-0065",
+"kind": "regione",
+"to": "NEO-REG-zastavena"
+},
+{
+"from": "NEO-PER-0066",
+"kind": "invenzione",
+"to": "NEO-INV-0044"
+},
+{
+"from": "NEO-PER-0066",
+"kind": "regione",
+"to": "NEO-REG-zastavena"
+},
+{
+"from": "NEO-PER-0067",
+"kind": "invenzione",
+"to": "NEO-INV-0044"
+},
+{
+"from": "NEO-PER-0067",
+"kind": "regione",
+"to": "NEO-REG-zastavena"
+},
+{
+"from": "NEO-PER-0068",
+"kind": "invenzione",
+"to": "NEO-INV-0044"
+},
+{
+"from": "NEO-PER-0068",
+"kind": "regione",
+"to": "NEO-REG-zastavena"
+},
+{
+"from": "NEO-PER-0069",
+"kind": "invenzione",
+"to": "NEO-INV-0044"
+},
+{
+"from": "NEO-PER-0069",
+"kind": "regione",
+"to": "NEO-REG-zastavena"
+},
+{
+"from": "NEO-PER-0070",
+"kind": "invenzione",
+"to": "NEO-INV-0044"
+},
+{
+"from": "NEO-PER-0070",
+"kind": "regione",
+"to": "NEO-REG-zastavena"
+},
+{
+"from": "NEO-PER-0071",
+"kind": "invenzione",
+"to": "NEO-INV-0044"
+},
+{
+"from": "NEO-PER-0071",
+"kind": "regione",
+"to": "NEO-REG-zastavena"
+},
+{
+"from": "NEO-PER-0072",
+"kind": "invenzione",
+"to": "NEO-INV-0044"
+},
+{
+"from": "NEO-PER-0072",
+"kind": "regione",
+"to": "NEO-REG-zastavena"
+},
+{
+"from": "NEO-PER-0073",
+"kind": "invenzione",
+"to": "NEO-INV-0044"
+},
+{
+"from": "NEO-PER-0073",
+"kind": "regione",
+"to": "NEO-REG-zastavena"
+},
+{
+"from": "NEO-PER-0074",
+"kind": "invenzione",
+"to": "NEO-INV-0044"
+},
+{
+"from": "NEO-PER-0074",
+"kind": "regione",
+"to": "NEO-REG-zastavena"
 },
 {
 "from": "STE-PER-0001",
@@ -3849,6 +3964,16 @@
 "from": "NEO-SEM-0003",
 "kind": "regione",
 "to": "NEO-REG-vranidol"
+},
+{
+"from": "NEO-SEM-0004",
+"kind": "cluster",
+"to": "NEO-INV-0053"
+},
+{
+"from": "NEO-SEM-0004",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
 },
 {
 "from": "CYB-FAT-34885804207-1",
@@ -6908,6 +7033,18 @@
 "universo": "neofeudal"
 },
 {
+"id": "NEO-INV-0069",
+"tipo": "invenzione",
+"titolo": "La Grata che Giura di Dividere",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0070",
+"tipo": "invenzione",
+"titolo": "La Leva che Nessuno Preme",
+"universo": "neofeudal"
+},
+{
 "id": "NEO-PER-0001",
 "tipo": "personaggio",
 "titolo": "Juma Mwangaza",
@@ -7292,6 +7429,66 @@
 "universo": "neofeudal"
 },
 {
+"id": "NEO-PER-0065",
+"tipo": "personaggio",
+"titolo": "Nikola Ranolivić",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0066",
+"tipo": "personaggio",
+"titolo": "Igor Tesar",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0067",
+"tipo": "personaggio",
+"titolo": "Natalia Mironoin",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0068",
+"tipo": "personaggio",
+"titolo": "Anastasia Jaek",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0069",
+"tipo": "personaggio",
+"titolo": "Bjørn Norvigren",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0070",
+"tipo": "personaggio",
+"titolo": "Wolfgang Shatani",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0071",
+"tipo": "personaggio",
+"titolo": "Maite Zurgin",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0072",
+"tipo": "personaggio",
+"titolo": "Vera Vlanoski",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0073",
+"tipo": "personaggio",
+"titolo": "Oleg Peović",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0074",
+"tipo": "personaggio",
+"titolo": "Hamisi Mutamaye",
+"universo": "neofeudal"
+},
+{
 "id": "NEO-REG-calvenna",
 "tipo": "regione",
 "titolo": "Calvenna",
@@ -7316,6 +7513,12 @@
 "universo": "neofeudal"
 },
 {
+"id": "NEO-REG-zastavena",
+"tipo": "regione",
+"titolo": "Zastavena",
+"universo": "neofeudal"
+},
+{
 "id": "NEO-SEM-0001",
 "tipo": "seme",
 "titolo": "seme NEO-INV-0009",
@@ -7331,6 +7534,12 @@
 "id": "NEO-SEM-0003",
 "tipo": "seme",
 "titolo": "seme NEO-INV-0013",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-SEM-0004",
+"tipo": "seme",
+"titolo": "seme NEO-INV-0053",
 "universo": "neofeudal"
 },
 {

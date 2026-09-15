@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"urbanistica/edilizia_popolare",
+"agricoltura/allevamento"
+],
+"epoca_relativa": 0,
+"estrazione": 62,
+"fatti": [],
+"gancio": "Un anno la grata trattiene più siero che liquame, e nessuno a Calvenna vuole essere il primo a chiedersi da dove venga.",
+"id": "NEO-INV-0069",
+"media": [],
+"nome": "La Grata che Giura di Dividere",
+"nome_reale": "Griglia di scolo a doppia inclinazione con filtro di paglia intrecciata",
+"parent_id": "NEO-INV-0031",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Quando il Canale Comune si intasa, i chierici calano nella grata lo stesso filtro di paglia intrecciata usato nelle stalle per separare il latte dal siero, e chiamano \"purificazione\" il gesto identico a quello con cui i pastori mungono.",
+"universo": "neofeudal"
+}

@@ -419,6 +419,191 @@
 ]
 },
 {
+"chiusa_il": null,
+"creata": "2026-09-15T06:54:46Z",
+"esito": null,
+"id": "BAC-34939065991-1",
+"payload": {
+"bozza": "Documentary photograph of an object where it actually sits on a worn desk among cables and cups, available light, film grain, no isolation, no styling, label with illegible product code. Subject: Il Sigillo che Mente — Software di verifica ottica degli ologrammi anticontraffazione sul packaging cosmetico. Quella che c'è: luce disponibile, bilanciamento del bianco imperfetto, dominanti di lampada al tungsteno o di finestra grigia. Fotografia documentaria, reportage: scatto rubato o posato senza messa in scena, sfondo reale e ingombro, cavi, tazze, cartacce. harsh overhead lighting, unforgiving shadows, visible film grain --ar 4:3 --no HUD, overlay, scrolling green code, hoodie in shadow, masks, terminal reflections in glasses, coloured LED lights, hacker poster aesthetic, illegible lettering, watermark",
+"chiave": "m1",
+"contesto": "id: HAC-INV-0033\ntipo: invenzione\nuniverso: hackverse\nestrazione: 23\ncreated: '2026-09-13'\nparent_id: null\nrelazione: null\nepoca_relativa: 0\nregione: null\nstatus: canon\nschema_version: 1\nnome_reale: Software di verifica ottica degli ologrammi anticontraffazione sul packaging cosmetico\nnome: Il Sigillo che Mente\ndiscipline:\n- moda/cosmesi\n- ottica/lenti\npoc: true",
+"manifest": {
+"caricato_il": null,
+"creato": "2026-09-15",
+"id": "MED-34939065991-1",
+"note": "oggetto: Il Sigillo che Mente; gancio: Un sistema di sicurezza dichiara \"vivo e autentico\" un occhio che, in laboratorio, risulta stampato su un substrato di due giorni prima.; torsione: Il software che verifica, tramite riflessi calibrati, l'autenticità di un ologramma su una confezione di cosmetici viene invertito per generare il pattern di riflessi che convince un sistema di liveness detection che una lente a contatto stampata è un occhio vivo.; sref non fissato",
+"parametri": {
+"ar": "4:3",
+"atomi": [
+"ATM-34809499246-26",
+"ATM-34809499246-6"
+],
+"cref": null,
+"sref": null
+},
+"prompt": "Documentary photograph of an object where it actually sits on a worn desk among cables and cups, available light, film grain, no isolation, no styling, label with illegible product code. Subject: Il Sigillo che Mente — Software di verifica ottica degli ologrammi anticontraffazione sul packaging cosmetico. Quella che c'è: luce disponibile, bilanciamento del bianco imperfetto, dominanti di lampada al tungsteno o di finestra grigia. Fotografia documentaria, reportage: scatto rubato o posato senza messa in scena, sfondo reale e ingombro, cavi, tazze, cartacce. harsh overhead lighting, unforgiving shadows, visible film grain --ar 4:3 --no HUD, overlay, scrolling green code, hoodie in shadow, masks, terminal reflections in glasses, coloured LED lights, hacker poster aesthetic, illegible lettering, watermark",
+"sha256": null,
+"sorgente": {
+"ref": "HAC-INV-0033",
+"tipo": "riga"
+},
+"stato": "proposto",
+"strumento": "midjourney",
+"tipo": "tavola",
+"universo": "hackverse",
+"url": null
+},
+"strumento": "midjourney",
+"tipo": "tavola"
+},
+"postata_da": "media-random",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"HAC-INV-0033"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"da": "media-random",
+"quando": "2026-09-15T06:54:46Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_tavola",
+"universi": [
+"hackverse"
+]
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-15T06:54:46Z",
+"esito": null,
+"id": "BAC-34939065991-2",
+"payload": {
+"bozza": "Documentary photograph of an object where it actually sits on a worn desk among cables and cups, available light, film grain, no isolation, no styling, label with illegible product code. Subject: Coda Sommersa — Allocazione delle liste d'attesa per trapianto. Quella che c'è: luce disponibile, bilanciamento del bianco imperfetto, dominanti di lampada al tungsteno o di finestra grigia. Fotografia documentaria, reportage: scatto rubato o posato senza messa in scena, sfondo reale e ingombro, cavi, tazze, cartacce. natural light, expired film emulsion, off-color, film grain --ar 4:3 --no HUD, overlay, scrolling green code, hoodie in shadow, masks, terminal reflections in glasses, coloured LED lights, hacker poster aesthetic, illegible lettering, watermark --sref random",
+"chiave": "m2",
+"contesto": "id: HAC-INV-0004\ntipo: invenzione\nuniverso: hackverse\nestrazione: 6\ncreated: '2026-09-12'\nparent_id: null\nrelazione: null\nepoca_relativa: 0\nregione: null\nstatus: canon\nschema_version: 1\nnome_reale: Allocazione delle liste d'attesa per trapianto\nnome: Coda Sommersa\ndiscipline:\n- agricoltura/irrigazione\n- chirurgia/trapiantologia\npoc: true",
+"manifest": {
+"caricato_il": null,
+"creato": "2026-09-15",
+"id": "MED-34939065991-2",
+"note": "oggetto: Coda Sommersa; gancio: Un contadino scopre di essere in cima a due liste diverse, per l'acqua e per un rene, e non sa quale delle due lo sta già uccidendo.; torsione: L'algoritmo che decide quali campi ricevono acqua per primi in tempo di siccità viene clonato per gestire, di nascosto, una seconda coda di priorità per gli organi.; sref random — promuovere con media_upload.py --promuovi-sref",
+"parametri": {
+"ar": "4:3",
+"atomi": [
+"ATM-34932520057-7",
+"ATM-34809499246-45"
+],
+"cref": null,
+"sref": "random"
+},
+"prompt": "Documentary photograph of an object where it actually sits on a worn desk among cables and cups, available light, film grain, no isolation, no styling, label with illegible product code. Subject: Coda Sommersa — Allocazione delle liste d'attesa per trapianto. Quella che c'è: luce disponibile, bilanciamento del bianco imperfetto, dominanti di lampada al tungsteno o di finestra grigia. Fotografia documentaria, reportage: scatto rubato o posato senza messa in scena, sfondo reale e ingombro, cavi, tazze, cartacce. natural light, expired film emulsion, off-color, film grain --ar 4:3 --no HUD, overlay, scrolling green code, hoodie in shadow, masks, terminal reflections in glasses, coloured LED lights, hacker poster aesthetic, illegible lettering, watermark --sref random",
+"sha256": null,
+"sorgente": {
+"ref": "HAC-INV-0004",
+"tipo": "riga"
+},
+"stato": "proposto",
+"strumento": "midjourney",
+"tipo": "tavola",
+"universo": "hackverse",
+"url": null
+},
+"strumento": "midjourney",
+"tipo": "tavola"
+},
+"postata_da": "media-random",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"HAC-INV-0004"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"da": "media-random",
+"quando": "2026-09-15T06:54:46Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_tavola",
+"universi": [
+"hackverse"
+]
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-15T06:54:46Z",
+"esito": null,
+"id": "BAC-34939065991-3",
+"payload": {
+"bozza": "Documentary photograph of an object where it actually sits on a worn desk among cables and cups, available light, film grain, no isolation, no styling, label with illegible product code. Subject: Taglio di Precisione — Software di pianificazione dell'ablazione corneale per la chirurgia LASIK. Quella che c'è: luce disponibile, bilanciamento del bianco imperfetto, dominanti di lampada al tungsteno o di finestra grigia. Fotografia documentaria, reportage: scatto rubato o posato senza messa in scena, sfondo reale e ingombro, cavi, tazze, cartacce. natural light, film grain, aspect ratio 16:9, medium format film photography, Kodak Portra 400 --ar 4:3 --no HUD, overlay, scrolling green code, hoodie in shadow, masks, terminal reflections in glasses, coloured LED lights, hacker poster aesthetic, illegible lettering, watermark",
+"chiave": "m3",
+"contesto": "id: HAC-INV-0031\ntipo: invenzione\nuniverso: hackverse\nestrazione: 23\ncreated: '2026-09-13'\nparent_id: null\nrelazione: null\nepoca_relativa: 0\nregione: null\nstatus: canon\nschema_version: 1\nnome_reale: Software di pianificazione dell'ablazione corneale per la chirurgia LASIK\nnome: Taglio di Precisione\ndiscipline:\n- moda/cosmesi\n- ottica/lenti\npoc: true",
+"manifest": {
+"caricato_il": null,
+"creato": "2026-09-15",
+"id": "MED-34939065991-3",
+"note": "oggetto: Taglio di Precisione; gancio: Un centro oculistico risulta, nei log, l'unico software al mondo capace di calcolare come \"invecchia\" un'iride finta.; torsione: Il software che calcola, micron per micron, il profilo di ablazione corneale per correggere la vista viene riusato per calcolare l'incisione su una lente a contatto che imita l'invecchiamento naturale di un'iride nel tempo.; sref non fissato; variante medium",
+"parametri": {
+"ar": "4:3",
+"atomi": [
+"ATM-34932520057-7",
+"ATM-34809499246-24",
+"ATM-34809499246-21",
+"ATM-34932520057-2"
+],
+"cref": null,
+"sref": null
+},
+"prompt": "Documentary photograph of an object where it actually sits on a worn desk among cables and cups, available light, film grain, no isolation, no styling, label with illegible product code. Subject: Taglio di Precisione — Software di pianificazione dell'ablazione corneale per la chirurgia LASIK. Quella che c'è: luce disponibile, bilanciamento del bianco imperfetto, dominanti di lampada al tungsteno o di finestra grigia. Fotografia documentaria, reportage: scatto rubato o posato senza messa in scena, sfondo reale e ingombro, cavi, tazze, cartacce. natural light, film grain, aspect ratio 16:9, medium format film photography, Kodak Portra 400 --ar 4:3 --no HUD, overlay, scrolling green code, hoodie in shadow, masks, terminal reflections in glasses, coloured LED lights, hacker poster aesthetic, illegible lettering, watermark",
+"sha256": null,
+"sorgente": {
+"ref": "HAC-INV-0031",
+"tipo": "riga"
+},
+"stato": "proposto",
+"strumento": "midjourney",
+"tipo": "tavola",
+"universo": "hackverse",
+"url": null
+},
+"strumento": "midjourney",
+"tipo": "tavola"
+},
+"postata_da": "media-random",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"HAC-INV-0031"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"da": "media-random",
+"quando": "2026-09-15T06:54:46Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_tavola",
+"universi": [
+"hackverse"
+]
+},
+{
 "chiusa_il": "2026-09-15T05:35:14Z",
 "creata": "2026-09-15T00:59:34Z",
 "esito": "configurazione: Alzare il tetto per-run della variabile d'ambiente e rilanciare il workflow `riparatore` sul ref interessato; se il tetto è cablato in retry.yml, parametrizzarl (logs/guasto-BAC-34915383580-2.md)",

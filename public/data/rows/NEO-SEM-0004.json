@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"cluster": "NEO-INV-0053",
+"created": "2026-09-15",
+"epoca_relativa": 0,
+"estrazione": 61,
+"fatti": [],
+"id": "NEO-SEM-0004",
+"media": [],
+"origine": "arricchimento",
+"ostacolo": "Sara Abu-hab, la vedova mediatrice che teme ogni gonfiaggio, ricorda a tutti che la manovra si insegna solo dopo tre inverni di apprendistato dai Cerusici, mai prima, e che chi la tocca senza permesso mette in pericolo l'intero varco.",
+"parent_id": null,
+"premessa": "Samir Khabbaz, che ha costruito di nascosto un otre di pelle di capra e canna capace quasi di dare fiato ai canali come quello dei Cerusici, vuole rivendicare davanti a Sarakan di aver riaperto lui il canale della cascina grande, per guadagnare il rispetto che l'invidia gli nega.",
+"regione": "Sarakan",
+"relazione": null,
+"rottura": "Se Samir si rivela, il suo otre fatto in casa dimostrerà che la manovra sacra dei Cerusici non richiede reliquie ma solo pelle e fiato, e il rispetto che cercava rischia di diventare l'accusa di aver rischiato un crollo come quello dell'apprendista di cui si parla ancora a bassa voce.",
+"schema_version": 1,
+"status": "canon",
+"tipo": "seme",
+"tono": "orgoglio trattenuto, polvere e fiato",
+"universi": [
+"neofeudal"
+],
+"universo": "neofeudal"
+}

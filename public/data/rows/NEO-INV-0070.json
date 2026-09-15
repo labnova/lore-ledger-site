@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"gioco_azzardo",
+"meccanica/orologeria"
+],
+"epoca_relativa": 0,
+"estrazione": 62,
+"fatti": [],
+"gancio": "Una notte la leva scatta un'ora prima del previsto, e la perlina fusa tutta a sinistra che nessuno sa spiegare si sposta di una tacca, per la prima volta da anni.",
+"id": "NEO-INV-0070",
+"media": [],
+"nome": "La Leva che Nessuno Preme",
+"nome_reale": "Meccanismo di blocco a molla per l'abaco a perline vincolate",
+"parent_id": "NEO-INV-0045",
+"poc": false,
+"regione": "Calvenna",
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Per impedire che qualcuno riscaldi di nascosto una seconda volta una perlina già fusa e la spacci per una puntata nuova, il Notaio delle Sorti fa montare sull'abaco una leva d'orologeria che blocca il telaio un'ora dopo il tramonto, la stessa ora in cui il feudo chiude per decreto i tavoli da gioco, e chiama entrambe le cose \"il riposo del conto\".",
+"universo": "neofeudal"
+}

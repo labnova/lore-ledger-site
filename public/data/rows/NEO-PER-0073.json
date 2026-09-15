@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "asessuale",
+"situazione": "promesso_per_contratto"
+},
+"appare_in": [],
+"casta": "custodi_era_precedente",
+"ceppo": "slavo",
+"cognome": "Peović",
+"contraddizione": "Un custode dell'era precedente non deve mai chiedersi perché gli ordini di Vel dicano quello che dicono, ma Oleg è troppo curioso e ha costruito, smontando pezzo per pezzo il primo tratto di filo del feudo, una copia che rivela come il decreto sia stato scritto dopo, non prima, dello sgombero delle baracche.",
+"created": "2026-09-15",
+"difetto": "rancoroso",
+"epoca_relativa": 0,
+"estrazione": 62,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Oleg conserva in un sacco il filo smontato che prova la sua scoperta, e non sa ancora a chi, tra i custodi o il feudo, farebbe più rabbia vederlo.",
+"id": "NEO-PER-0073",
+"invenzione_id": "NEO-INV-0044",
+"media": [],
+"nome": "Oleg",
+"parent_id": null,
+"rapporto": "costruita",
+"regione": "NEO-REG-zastavena",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "leone",
+"spirituale": {
+"credenza": "il crollo come giudizio",
+"rapporto": "mistico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "curioso",
+"universo": "neofeudal"
+}

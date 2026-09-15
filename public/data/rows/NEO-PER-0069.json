@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "omosessuale",
+"situazione": "fidanzato"
+},
+"appare_in": [],
+"casta": "custodi_era_precedente",
+"ceppo": "scandinavo",
+"cognome": "Norvigren",
+"contraddizione": "Come funzionario del culto Bjørn predica che il crollo fu un giudizio, ma da custode sa che i registri del vecchio sistema oltre il Filo dei Pascoli Chiusi raccontano un guasto, non una condanna, e questo lo terrorizza più del filo stesso.",
+"created": "2026-09-15",
+"difetto": "rancoroso",
+"epoca_relativa": 0,
+"estrazione": 62,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Bjørn non ha mai letto ad alta voce l'ultimo registro trovato oltre il filo, perché contraddice il sermone che ha già promesso di tenere.",
+"id": "NEO-PER-0069",
+"invenzione_id": "NEO-INV-0044",
+"media": [],
+"nome": "Bjørn",
+"parent_id": null,
+"rapporto": "teme",
+"regione": "NEO-REG-zastavena",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "scorpione",
+"spirituale": {
+"credenza": "il crollo come giudizio",
+"rapporto": "funzionario_del_culto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "silenzioso",
+"universo": "neofeudal"
+}

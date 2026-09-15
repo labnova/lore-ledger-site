@@ -1,0 +1,20 @@
+{
+"appare_in": [],
+"ceppo_dominante": "slavo",
+"created": "2026-09-15",
+"epoca_relativa": 0,
+"estrazione": 62,
+"fatti": [],
+"id": "NEO-REG-zastavena",
+"media": [],
+"nome": "Zastavena",
+"note": "Avamposto oltre il Passo di Vermasca dove i custodi dell'era precedente vivono asserragliati attorno ai relitti del vecchio sistema, tramandando a memoria gli ordini di un sergente che forse non esiste più.",
+"onomastica": "legata",
+"p_cognome_mestiere": 0.17,
+"parent_id": null,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "regione",
+"universo": "neofeudal"
+}

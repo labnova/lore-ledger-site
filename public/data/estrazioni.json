@@ -2628,5 +2628,77 @@
 "CYB-INV-0047"
 ],
 "universo": "cyberverse"
+},
+{
+"campi_forzati": [],
+"chiavi": {
+"cluster": [
+"NEO-INV-0053"
+]
+},
+"created": "2026-09-15",
+"esito": "ok",
+"estrazione": 61,
+"forzata": false,
+"lotto": "lotto-semi",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"NEO-SEM-0004"
+],
+"universi": [
+"neofeudal"
+],
+"universo": "cross"
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"NEO-INV-0044",
+"NEO-INV-0031",
+"NEO-INV-0045",
+"NEO-GAD-0016"
+],
+"chiavi": {
+"casta": "custodi_era_precedente",
+"invenzione_id": "NEO-INV-0044",
+"personaggi": [
+"NEO-PER-0065",
+"NEO-PER-0066",
+"NEO-PER-0067",
+"NEO-PER-0068",
+"NEO-PER-0069",
+"NEO-PER-0070",
+"NEO-PER-0071",
+"NEO-PER-0072",
+"NEO-PER-0073",
+"NEO-PER-0074"
+],
+"regione": "NEO-REG-zastavena",
+"universo": "neofeudal"
+},
+"created": "2026-09-15",
+"esito": "ok",
+"espansioni": [
+"NEO-INV-0069",
+"NEO-INV-0070"
+],
+"estrazione": 62,
+"forzata": false,
+"lotto": "lotto-personaggi",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"NEO-PER-0065",
+"NEO-PER-0066",
+"NEO-PER-0067",
+"NEO-PER-0068",
+"NEO-PER-0069",
+"NEO-PER-0070",
+"NEO-PER-0071",
+"NEO-PER-0072",
+"NEO-PER-0073",
+"NEO-PER-0074",
+"NEO-REG-zastavena"
+],
+"universo": "neofeudal"
 }
 ]
