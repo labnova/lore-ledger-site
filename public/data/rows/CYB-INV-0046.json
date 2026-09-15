@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"meteorologia/climatologia",
+"urbanistica/edilizia_popolare"
+],
+"epoca_relativa": 0,
+"estrazione": 60,
+"fatti": [],
+"gancio": "Un uomo del piano base riceve l'allerta di grandine venti minuti dopo che la grandine ha già sfondato il tetto del suo balcone.",
+"id": "CYB-INV-0046",
+"media": [],
+"nome": "Meteo su Misura",
+"nome_reale": "Servizio di allerta meteo personalizzata differenziato per fascia di abbonamento residenziale",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il servizio avvisa davvero con ore di anticipo chi paga l'abbonamento premium, e agli abbonati del piano base manda lo stesso identico avviso, solo dopo, quando ha già smesso di essere utile.",
+"universo": "cyberverse"
+}

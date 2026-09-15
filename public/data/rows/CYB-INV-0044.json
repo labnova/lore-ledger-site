@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"meteorologia/climatologia",
+"urbanistica/edilizia_popolare"
+],
+"epoca_relativa": 0,
+"estrazione": 60,
+"fatti": [],
+"gancio": "Una famiglia scopre solo dal cartello sulla facciata, mesi dopo il trasloco, che la casa ponte assegnata dall'app è già in calendario di abbattimento per la primavera.",
+"id": "CYB-INV-0044",
+"media": [],
+"nome": "Casa Ponte",
+"nome_reale": "Applicazione di riassegnazione dei nuclei familiari sfollati dal clima verso alloggi popolari in attesa di demolizione, sulla base di previsioni di allerta prolungata",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "L'app trova davvero una casa in ventiquattr'ore a chi è appena stato sfollato, e la trova sempre negli edifici già segnati per la demolizione, dove il canone è basso perché nessuno vuole rimetterci un contratto vero.",
+"universo": "cyberverse"
+}

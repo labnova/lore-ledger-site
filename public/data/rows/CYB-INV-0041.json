@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"meteorologia/climatologia",
+"urbanistica/edilizia_popolare"
+],
+"epoca_relativa": 0,
+"estrazione": 60,
+"fatti": [],
+"gancio": "Durante l'allerta più grave dell'anno, una famiglia viene fatta uscire dalla capsula a metà tempesta perché il credito prepagato si è esaurito.",
+"id": "CYB-INV-0041",
+"media": [],
+"nome": "Capsula Sicura",
+"nome_reale": "Rifugio antitempesta nel seminterrato dei blocchi popolari, riconvertito in capsule a pagamento durante le allerte rosse",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il rifugio protegge davvero dalla tempesta chi riesce a entrarci, e durante l'allerta rossa le capsule si affittano all'ora, così l'unico posto sicuro dell'edificio diventa anche l'unico che si può perdere per un pagamento in ritardo.",
+"universo": "cyberverse"
+}

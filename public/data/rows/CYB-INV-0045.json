@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"meteorologia/climatologia",
+"urbanistica/edilizia_popolare"
+],
+"epoca_relativa": 0,
+"estrazione": 60,
+"fatti": [],
+"gancio": "Dopo la tempesta il palazzo viene ristrutturato in tre settimane con i soldi del fondo, mentre gli inquilini aspettano ancora un rimborso per i mobili perduti che nessuna polizza copriva.",
+"id": "CYB-INV-0045",
+"media": [],
+"nome": "Cauzione Temporale",
+"nome_reale": "Fondo obbligatorio di garanzia contro i danni da tempesta versato dagli inquilini di edilizia popolare a copertura del solo immobile",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il fondo copre davvero per intero i danni da tempesta all'edificio, come promesso nel contratto, solo che il contratto non ha mai promesso nulla per quello che la tempesta porta via dentro casa.",
+"universo": "cyberverse"
+}

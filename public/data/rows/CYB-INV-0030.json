@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"meteorologia/climatologia",
+"urbanistica/edilizia_popolare"
+],
+"epoca_relativa": 0,
+"estrazione": 60,
+"fatti": [],
+"gancio": "Un ragazzo che ha saldato l'affitto arretrato di sua madre segnalando i vicini scopre che sua madre stessa era stata segnalata da qualcun altro la settimana prima.",
+"id": "CYB-INV-0030",
+"media": [],
+"nome": "Buon Vicinato Climatico",
+"nome_reale": "Applicazione di condono dell'affitto arretrato in cambio di segnalazioni di dispersione termica dei vicini",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "L'app cancella davvero il debito a chi segnala tre violazioni, e proprio perché funziona trasforma ogni pianerottolo di un blocco popolare in una rete di controllo reciproco più efficiente di qualsiasi ispettore corporate.",
+"universo": "cyberverse"
+}

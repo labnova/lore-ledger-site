@@ -30,12 +30,12 @@
 },
 {
 "chiusa_il": null,
-"creata": "2026-09-15T00:59:34Z",
+"creata": "2026-09-15T05:35:17Z",
 "esito": null,
-"id": "BAC-34915383580-2",
+"id": "BAC-34932665454-1",
 "payload": {
 "errore": "revisione BAC-34900933278-1: TettoSuperato: tetto LLM_MAX_CHIAMATE_RUN superato: 2 >= 2",
-"run_id": "34915383580",
+"run_id": "34932665454",
 "step": "revisione",
 "workflow": "riparatore"
 },
@@ -45,14 +45,14 @@
 "priorita": 2,
 "racconto": null,
 "righe": [
-"riparatore#34915383580#revisione"
+"riparatore#34932665454#revisione"
 ],
 "scade": null,
 "stato": "aperta",
 "storia": [
 {
 "da": "riparatore",
-"quando": "2026-09-15T00:59:34Z",
+"quando": "2026-09-15T05:35:17Z",
 "stato": "aperta"
 }
 ],
@@ -417,5 +417,54 @@
 "universi": [
 "neofeudal"
 ]
+},
+{
+"chiusa_il": "2026-09-15T05:35:14Z",
+"creata": "2026-09-15T00:59:34Z",
+"esito": "configurazione: Alzare il tetto per-run della variabile d'ambiente e rilanciare il workflow `riparatore` sul ref interessato; se il tetto è cablato in retry.yml, parametrizzarl (logs/guasto-BAC-34915383580-2.md)",
+"id": "BAC-34915383580-2",
+"payload": {
+"diagnosi": {
+"classe": "configurazione",
+"comando": "gh workflow run riparatore.yml -f llm_max_chiamate_run=6",
+"diagnosi": "La fase `revisione` del run 34915383580 è stata interrotta dal guardrail di budget: LLM_MAX_CHIAMATE_RUN vale 2 e la revisione BAC-34900933278-1 ne ha già consumate 2. Non è un errore di codice né di rete: il tetto è una soglia di configurazione troppo bassa per il numero di lotti (creativi + consumatori bacheca) che la revisione deve processare. Un semplice rilancio ripartirebbe dal contatore a zero ma si riazzererebbe sullo stesso tetto appena raggiunte le 2 chiamate.",
+"rimedio": "Alzare il tetto per-run della variabile d'ambiente e rilanciare il workflow `riparatore` sul ref interessato; se il tetto è cablato in retry.yml, parametrizzarlo come input del workflow così che i limiti del modello restino applicati per-lotto e non per-run.",
+"ritenta_automaticamente": false
+},
+"errore": "revisione BAC-34900933278-1: TettoSuperato: tetto LLM_MAX_CHIAMATE_RUN superato: 2 >= 2",
+"run_id": "34915383580",
+"step": "revisione",
+"workflow": "riparatore"
+},
+"postata_da": "riparatore",
+"presa_da": "guardiano",
+"presa_il": "2026-09-15T05:35:06Z",
+"priorita": 2,
+"racconto": null,
+"righe": [
+"riparatore#34915383580#revisione"
+],
+"scade": "2026-09-15T11:35:06Z",
+"stato": "chiusa",
+"storia": [
+{
+"da": "riparatore",
+"quando": "2026-09-15T00:59:34Z",
+"stato": "aperta"
+},
+{
+"da": "guardiano",
+"quando": "2026-09-15T05:35:06Z",
+"stato": "presa"
+},
+{
+"da": "guardiano",
+"quando": "2026-09-15T05:35:14Z",
+"stato": "chiusa"
+}
+],
+"tentativi": 0,
+"tipo": "guasto",
+"universi": []
 }
 ]

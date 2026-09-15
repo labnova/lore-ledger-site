@@ -2550,5 +2550,83 @@
 "ELA-CON-0004"
 ],
 "universo": "elabverse"
+},
+{
+"campi_forzati": [],
+"chiavi": {
+"manca": {
+"gadget": 0,
+"personaggi": 0,
+"regione": true
+},
+"regione": "Rotterdam",
+"universo": "hackverse"
+},
+"cluster_target": "HAC-INV-0001",
+"created": "2026-09-15",
+"esito": "nessuna riga necessaria — il cluster ha già 20 personaggi con 6 rapporti diversi e 1 gadget (maturo per engine.cluster); il \"manca regione\" del piano è un falso positivo perché il campo regione dei personaggi contiene l'id (es. HAC-REG-tallinn) invece del nome, quindi il piano ha risolto scegliendo una regione già esistente (Rotterdam) senza doverne creare una nuova",
+"estrazione": 59,
+"forzata": false,
+"lotto": "lotto-maturazione",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [],
+"universo": "hackverse"
+},
+{
+"bibbia_pescata": [
+"> Substrato iniziale scritto a mano (12 set 2026). Append-on"
+],
+"campi_forzati": [],
+"canone_pescato": [
+"CYB-INV-0026",
+"CYB-GAD-0011",
+"CYB-PER-0004"
+],
+"chiavi": {
+"discipline": [
+{
+"macro": "meteorologia",
+"sotto": "climatologia"
+},
+{
+"macro": "urbanistica",
+"sotto": "edilizia_popolare"
+}
+],
+"universo": "cyberverse"
+},
+"created": "2026-09-15",
+"esito": "ok",
+"espansioni": [
+"CYB-INV-0048",
+"CYB-PER-0011"
+],
+"estrazione": 60,
+"forzata": false,
+"lotto": "lotto-lore",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"CYB-INV-0028",
+"CYB-INV-0029",
+"CYB-INV-0030",
+"CYB-INV-0031",
+"CYB-INV-0032",
+"CYB-INV-0033",
+"CYB-INV-0034",
+"CYB-INV-0035",
+"CYB-INV-0036",
+"CYB-INV-0037",
+"CYB-INV-0038",
+"CYB-INV-0039",
+"CYB-INV-0040",
+"CYB-INV-0041",
+"CYB-INV-0042",
+"CYB-INV-0043",
+"CYB-INV-0044",
+"CYB-INV-0045",
+"CYB-INV-0046",
+"CYB-INV-0047"
+],
+"universo": "cyberverse"
 }
 ]

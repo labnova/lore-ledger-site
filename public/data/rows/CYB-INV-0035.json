@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"meteorologia/climatologia",
+"urbanistica/edilizia_popolare"
+],
+"epoca_relativa": 0,
+"estrazione": 60,
+"fatti": [],
+"gancio": "Una famiglia sfollata due volte dalla stessa piena scopre di essere in cima alla lista per l'unico alloggio libero, che si affaccia sullo stesso argine.",
+"id": "CYB-INV-0035",
+"media": [],
+"nome": "Punteggio Sereno",
+"nome_reale": "Algoritmo di assegnazione delle graduatorie di edilizia popolare basato sul punteggio di rischio climatico individuale",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "L'algoritmo assegna davvero prima le case a chi ha il punteggio di rischio più basso, e per farlo smista sistematicamente le famiglie già colpite da un'alluvione verso gli edifici liberi nella stessa piana alluvionale.",
+"universo": "cyberverse"
+}

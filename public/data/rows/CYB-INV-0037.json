@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"meteorologia/climatologia",
+"urbanistica/edilizia_popolare"
+],
+"epoca_relativa": 0,
+"estrazione": 60,
+"fatti": [],
+"gancio": "Una madre che fa i doppi turni scopre di aver regalato al gestore, in un anno, più ore d'aria fresca di quante ne abbia mai usate lei stessa.",
+"id": "CYB-INV-0037",
+"media": [],
+"nome": "Ore di Sollievo",
+"nome_reale": "Buono energetico per la climatizzazione domestica che scade ogni notte a mezzanotte se non consumato",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il buono garantisce davvero ore d'aria fresca gratuite ogni giorno, e le ore non consumate, quelle delle famiglie che escono a lavorare nel turno di notte, tornano al gestore come credito rivendibile come compensazione ambientale.",
+"universo": "cyberverse"
+}

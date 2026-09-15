@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"meteorologia/climatologia",
+"urbanistica/edilizia_popolare"
+],
+"epoca_relativa": 0,
+"estrazione": 60,
+"fatti": [],
+"gancio": "Un tecnico della manutenzione nota che le segnalazioni di impianti a rischio si concentrano sempre nell'ultima settimana del mese, mai quando fa davvero più freddo.",
+"id": "CYB-INV-0042",
+"media": [],
+"nome": "Indice del Buon Inquilino",
+"nome_reale": "Punteggio di credito climatico che concede sconti sul canone in cambio di segnalazioni di impianti di riscaldamento non conformi nel vicinato",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il punteggio abbassa davvero il canone di chi segnala, e proprio perché funziona genera più segnalazioni nei mesi in cui l'affitto è più difficile da pagare, non in quelli in cui gli impianti sono davvero più pericolosi.",
+"universo": "cyberverse"
+}

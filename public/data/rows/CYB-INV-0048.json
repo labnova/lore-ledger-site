@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"religione/teologia",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 2,
+"estrazione": 60,
+"fatti": [],
+"gancio": "Due riceventi che non si sono mai incontrati si scambiano per lettera ricordi identici, parola per parola, dello stesso donatore mai esistito, e cominciano a chiedersi chi dei due sia il vero destinatario della sua anima.",
+"id": "CYB-INV-0048",
+"media": [],
+"nome": "Il Donatore Unico",
+"nome_reale": "Licenza del profilo donatore a più alta resa emotiva, riutilizzato su scala continentale per ridurre i costi di generazione",
+"parent_id": "CYB-INV-0026",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "L'app smette di generare un donatore diverso per ogni ricevente e comincia a concedere in licenza lo stesso identikit più amato, nome, voce, ultima parola, a chiunque nel continente abbia bisogno di affezionarsi in fretta, perché funziona meglio e costa meno.",
+"universo": "cyberverse"
+}

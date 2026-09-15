@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"meteorologia/climatologia",
+"urbanistica/edilizia_popolare"
+],
+"epoca_relativa": 0,
+"estrazione": 60,
+"fatti": [],
+"gancio": "Un inquilino scopre di pagare l'affitto più alto dell'anno proprio nella settimana in cui aveva finalmente messo via abbastanza soldi per andarsene.",
+"id": "CYB-INV-0028",
+"media": [],
+"nome": "ClimaRate™",
+"nome_reale": "Sistema di indicizzazione del canone alle previsioni meteo a 72 ore per gli alloggi a canone calmierato",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "ClimaRate™ funziona esattamente come promesso, il canone scende quando arriva una tempesta e sale quando torna il sereno, così i giorni di bel tempo, quelli in cui un inquilino potrebbe finalmente permettersi di risparmiare, sono anche i più cari dell'anno.",
+"universo": "cyberverse"
+}

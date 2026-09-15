@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"meteorologia/climatologia",
+"urbanistica/edilizia_popolare"
+],
+"epoca_relativa": 0,
+"estrazione": 60,
+"fatti": [],
+"gancio": "Una ragazza nata in un container d'emergenza scopre, il giorno del suo diciottesimo compleanno, che il container è ancora ufficialmente provvisorio quanto lo era prima che nascesse.",
+"id": "CYB-INV-0038",
+"media": [],
+"nome": "Orizzonte Temporaneo",
+"nome_reale": "Modello previsionale meteo a lungo termine appaltato dall'autorità edilizia per classificare gli alloggi d'emergenza",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il modello prevede davvero con precisione le prossime ondate di maltempo, e prevedendole all'infinito mantiene provvisoria, quindi senza le tutele dell'affitto permanente, un'intera generazione di alloggi d'emergenza.",
+"universo": "cyberverse"
+}

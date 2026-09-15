@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"meteorologia/climatologia",
+"urbanistica/edilizia_popolare"
+],
+"epoca_relativa": 0,
+"estrazione": 60,
+"fatti": [],
+"gancio": "Dopo l'alluvione una famiglia sfollata scopre che l'indennizzo per la sua unità è già stato versato e speso, tre settimane prima, per ristrutturare i piani alti.",
+"id": "CYB-INV-0032",
+"media": [],
+"nome": "Copertura Temporale",
+"nome_reale": "Polizza assicurativa indicizzata agli eventi meteo estremi per i complessi di edilizia popolare, sottoscritta dal proprietario dell'immobile",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La polizza paga esattamente come da contratto ogni volta che un modello meteo certifica l'evento estremo, solo che l'assicurato è il proprietario dell'edificio, non chi ci ha perso la casa dentro.",
+"universo": "cyberverse"
+}

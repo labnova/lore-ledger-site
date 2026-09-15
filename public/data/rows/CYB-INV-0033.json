@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"meteorologia/climatologia",
+"urbanistica/edilizia_popolare"
+],
+"epoca_relativa": 0,
+"estrazione": 60,
+"fatti": [],
+"gancio": "Un padre con un contratto di fascia bassa cronometra l'attesa della sua famiglia in coda mentre guarda il ponte levarsi per far passare prima i residenti del tier superiore.",
+"id": "CYB-INV-0033",
+"media": [],
+"nome": "Fila Prioritaria",
+"nome_reale": "Algoritmo di priorità nelle code di evacuazione in caso di allerta meteo, calcolato sul tier del contratto di locazione",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "L'algoritmo smista davvero le famiglie nell'ordine più efficiente per metterle in salvo, solo che l'efficienza è calcolata sul valore del canone versato, non sul rischio corso.",
+"universo": "cyberverse"
+}

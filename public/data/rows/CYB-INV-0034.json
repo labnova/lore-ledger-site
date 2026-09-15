@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"meteorologia/climatologia",
+"urbanistica/edilizia_popolare"
+],
+"epoca_relativa": 0,
+"estrazione": 60,
+"fatti": [],
+"gancio": "Un inquilino anziano scopre di pagare il sovrapprezzo da due inverni per una crepa nell'infisso che aveva segnalato e mai vista riparare.",
+"id": "CYB-INV-0034",
+"media": [],
+"nome": "Grado Onesto",
+"nome_reale": "Chip di monitoraggio dell'uso di climatizzazione installato in retrofit sui vecchi blocchi popolari come incentivo al risparmio energetico",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il chip riduce davvero la bolletta a chi consuma meno, e proprio per questo penalizza con un sovrapprezzo da sprecone chi vive con una finestra rotta che non può permettersi di riparare.",
+"universo": "cyberverse"
+}

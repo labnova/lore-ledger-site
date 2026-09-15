@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"meteorologia/climatologia",
+"urbanistica/edilizia_popolare"
+],
+"epoca_relativa": 0,
+"estrazione": 60,
+"fatti": [],
+"gancio": "Un condominio intero riceve la stessa lettera di mancato rinnovo il giorno dopo l'apertura del cantiere per le nuove unità di lusso accanto.",
+"id": "CYB-INV-0036",
+"media": [],
+"nome": "Bollino Clima",
+"nome_reale": "Certificazione obbligatoria di abitabilità climatica richiesta per il rinnovo dei contratti di locazione popolare",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il bollino certifica davvero le condizioni dell'appartamento con precisione, e proprio per questo permette al proprietario di far scadere in massa i bollini della stessa ala l'anno in cui ha già in mano il progetto di ristrutturazione.",
+"universo": "cyberverse"
+}

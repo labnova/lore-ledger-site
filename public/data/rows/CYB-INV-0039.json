@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"meteorologia/climatologia",
+"urbanistica/edilizia_popolare"
+],
+"epoca_relativa": 0,
+"estrazione": 60,
+"fatti": [],
+"gancio": "Un inquilino nota che l'agenzia sa sempre quando lui non c'è, molto prima che gli venga notificato un controllo per subaffitto non dichiarato.",
+"id": "CYB-INV-0039",
+"media": [],
+"nome": "Facciata Chiara",
+"nome_reale": "Vernice riflettente ad alta efficienza applicata alle facciate dei blocchi popolari per ridurre l'isola di calore urbana, dotata di sensori ottici integrati",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La vernice abbassa davvero la temperatura percepita di qualche grado, e i sensori integrati per calibrarne la riflettenza registrano anche, finestra per finestra, chi è in casa e quando.",
+"universo": "cyberverse"
+}

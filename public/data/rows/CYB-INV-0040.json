@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"meteorologia/climatologia",
+"urbanistica/edilizia_popolare"
+],
+"epoca_relativa": 0,
+"estrazione": 60,
+"fatti": [],
+"gancio": "Un uomo scopre di aver speso in commissioni, in un'estate, più di quanto avrebbe pagato per un condizionatore vero, che il contratto gli vieta di installare.",
+"id": "CYB-INV-0040",
+"media": [],
+"nome": "Borsa dei Gradi",
+"nome_reale": "Piattaforma di scambio tra vicini delle quote residue di climatizzazione assegnate per contratto, con commissione per grado trasferito",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La piattaforma permette davvero a chi soffre meno il caldo di rivendere i propri gradi a chi ne ha più bisogno, e la commissione per grado trasferito finisce per costare più del grado stesso a chi non può fare altro che comprare.",
+"universo": "cyberverse"
+}

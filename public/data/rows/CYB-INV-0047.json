@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"meteorologia/climatologia",
+"urbanistica/edilizia_popolare"
+],
+"epoca_relativa": 0,
+"estrazione": 60,
+"fatti": [],
+"gancio": "Un comitato di inquilini che si oppone alla demolizione scopre che il rapporto climatico usato contro di loro è firmato dalla stessa società che ha già acquistato l'opzione sul terreno.",
+"id": "CYB-INV-0047",
+"media": [],
+"nome": "Piano Sereno",
+"nome_reale": "Algoritmo di programmazione delle demolizioni di edilizia popolare basato su proiezioni climatiche a lungo termine sul rischio strutturale",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "L'algoritmo calcola davvero con esattezza quali edifici non reggeranno il prossimo secolo di clima estremo, e per pura coincidenza contrattuale la lista coincide sempre con i terreni già opzionati per il prossimo sviluppo di lusso.",
+"universo": "cyberverse"
+}

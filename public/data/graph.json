@@ -36,6 +36,11 @@
 "to": "CYB-INV-0027"
 },
 {
+"from": "CYB-INV-0026",
+"kind": "parent",
+"to": "CYB-INV-0048"
+},
+{
 "from": "ELA-INV-0009",
 "kind": "parent",
 "to": "ELA-INV-0041"
@@ -477,6 +482,21 @@
 },
 {
 "from": "CYB-PER-0010",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-PER-0004",
+"kind": "parent",
+"to": "CYB-PER-0011"
+},
+{
+"from": "CYB-PER-0011",
+"kind": "invenzione",
+"to": "CYB-INV-0015"
+},
+{
+"from": "CYB-PER-0011",
 "kind": "regione",
 "to": "CYB-REG-rostkirche"
 },
@@ -4338,6 +4358,132 @@
 "universo": "cyberverse"
 },
 {
+"id": "CYB-INV-0028",
+"tipo": "invenzione",
+"titolo": "ClimaRate™",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0029",
+"tipo": "invenzione",
+"titolo": "Sentinella Termica",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0030",
+"tipo": "invenzione",
+"titolo": "Buon Vicinato Climatico",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0031",
+"tipo": "invenzione",
+"titolo": "Pioggia Dovuta",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0032",
+"tipo": "invenzione",
+"titolo": "Copertura Temporale",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0033",
+"tipo": "invenzione",
+"titolo": "Fila Prioritaria",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0034",
+"tipo": "invenzione",
+"titolo": "Grado Onesto",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0035",
+"tipo": "invenzione",
+"titolo": "Punteggio Sereno",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0036",
+"tipo": "invenzione",
+"titolo": "Bollino Clima",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0037",
+"tipo": "invenzione",
+"titolo": "Ore di Sollievo",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0038",
+"tipo": "invenzione",
+"titolo": "Orizzonte Temporaneo",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0039",
+"tipo": "invenzione",
+"titolo": "Facciata Chiara",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0040",
+"tipo": "invenzione",
+"titolo": "Borsa dei Gradi",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0041",
+"tipo": "invenzione",
+"titolo": "Capsula Sicura",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0042",
+"tipo": "invenzione",
+"titolo": "Indice del Buon Inquilino",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0043",
+"tipo": "invenzione",
+"titolo": "Acqua Meritata",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0044",
+"tipo": "invenzione",
+"titolo": "Casa Ponte",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0045",
+"tipo": "invenzione",
+"titolo": "Cauzione Temporale",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0046",
+"tipo": "invenzione",
+"titolo": "Meteo su Misura",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0047",
+"tipo": "invenzione",
+"titolo": "Piano Sereno",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0048",
+"tipo": "invenzione",
+"titolo": "Il Donatore Unico",
+"universo": "cyberverse"
+},
+{
 "id": "CYB-PER-0001",
 "tipo": "personaggio",
 "titolo": "Eszter Etxeondo",
@@ -4395,6 +4541,12 @@
 "id": "CYB-PER-0010",
 "tipo": "personaggio",
 "titolo": "Greta Hartinghoff",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0011",
+"tipo": "personaggio",
+"titolo": "Greta Weber",
 "universo": "cyberverse"
 },
 {

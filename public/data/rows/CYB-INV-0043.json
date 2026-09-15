@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"meteorologia/climatologia",
+"urbanistica/edilizia_popolare"
+],
+"epoca_relativa": 0,
+"estrazione": 60,
+"fatti": [],
+"gancio": "Una famiglia al piano più basso, sempre puntuale con l'affitto, scopre di avere il punteggio di merito più basso del palazzo per un motivo che nessuno le spiega.",
+"id": "CYB-INV-0043",
+"media": [],
+"nome": "Acqua Meritata",
+"nome_reale": "Sistema di raccolta e razionamento dell'acqua piovana per i blocchi popolari, distribuita secondo un punteggio di merito del condomino",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il sistema raccoglie davvero più acqua di quanta il condominio ne pagherebbe altrimenti, e la distribuisce secondo un punteggio di merito che finisce per premiare sempre gli stessi piani, quelli puntuali con l'affitto e silenziosi.",
+"universo": "cyberverse"
+}

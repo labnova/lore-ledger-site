@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"meteorologia/climatologia",
+"urbanistica/edilizia_popolare"
+],
+"epoca_relativa": 0,
+"estrazione": 60,
+"fatti": [],
+"gancio": "Una donna salvata da un malore grazie all'allarme dell'impianto riceve, un mese dopo, lo sfratto motivato proprio da quell'episodio registrato.",
+"id": "CYB-INV-0029",
+"media": [],
+"nome": "Sentinella Termica",
+"nome_reale": "Impianto sottocutaneo di monitoraggio microclimatico distribuito gratuitamente nei blocchi popolari come prevenzione colpi di calore",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "L'impianto avvisa davvero in anticipo un colpo di calore in arrivo, ma i dati di temperatura corporea raccolti finiscono anche nel modello che decide chi è troppo a rischio climatico per rinnovare il contratto di locazione.",
+"universo": "cyberverse"
+}
