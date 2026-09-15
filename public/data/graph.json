@@ -4336,6 +4336,16 @@
 "to": "CYB-INV-0003"
 },
 {
+"from": "CYB-CON-0002",
+"kind": "sorgente",
+"to": "CYB-INV-0015"
+},
+{
+"from": "CYB-CON-0002",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
 "from": "ELA-CON-0001",
 "kind": "sorgente",
 "to": "ELA-INV-0002"
@@ -4651,6 +4661,12 @@
 "id": "CYB-CON-0001",
 "tipo": "contenuto",
 "titolo": "Locandina \"Carne Impura\": il brief dietro la stampa",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-CON-0002",
+"tipo": "contenuto",
+"titolo": "Formazione trasportatori, modulo 3: la scheda non mente, il lettore sì",
 "universo": "cyberverse"
 },
 {

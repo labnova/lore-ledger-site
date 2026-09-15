@@ -2983,5 +2983,32 @@
 "NEO-PER-0077"
 ],
 "universo": "neofeudal"
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"CYB-FAT-34885804207-8",
+"CYB-INV-0015",
+"CYB-PER-0003",
+"CYB-PER-0007"
+],
+"chiavi": {
+"canale": "shorts",
+"formato": "making_of",
+"medium": "video_corto",
+"sorgente_id": "CYB-INV-0015",
+"veridicita": "in_universe"
+},
+"created": "2026-09-15",
+"esito": "ok",
+"estrazione": 71,
+"forzata": false,
+"lotto": "lotto-contenuti",
+"modello": "claude-sonnet-5",
+"nota": "draw.py ha estratto come sorgente CYB-FAT-34885804207-8 (tipo fatto), ma contenuto.schema.json vincola sorgente_id al pattern INV|PER|GAD|CON: usato al suo posto il cluster del fatto (CYB-INV-0015) come sorgente_id formale, mantenendo il fatto e i suoi soggetti (CYB-PER-0003, CYB-PER-0007) come base narrativa del contenuto.",
+"righe_prodotte": [
+"CYB-CON-0002"
+],
+"universo": "cyberverse"
 }
 ]

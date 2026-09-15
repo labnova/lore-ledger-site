@@ -722,6 +722,126 @@
 ]
 },
 {
+"chiusa_il": null,
+"creata": "2026-09-15T18:45:11Z",
+"esito": null,
+"id": "BAC-35009391638-1",
+"payload": {
+"bozza": "Technical drawing of an object in two states on tracing paper: plan and elevation, graphite lines, overlaid layers that do not quite match, differences marked in revision red, illegible margin annotations, label with illegible product code. Subject: Fascia da Polso a Bande — Fascia di cuoio da polso con file di piccoli fori bruciati a fuoco. — carried by La porta sempre al polso sinistro, quello con cui regola le manopole dello strumento.. Carta da lucido bianca-azzurra, grafite, un rosso di revisione per le differenze, verde bottiglia per la versione \"corrente\". Stile unico per tutto l'universo, branch compreso: diagrammi e disegni tecnici sovrapposti, la stessa immagine in due stati (prima/dopo, v1/v2) con le differenze marcate in rosso, annotazioni a margine, strati semitrasparenti che non combaciano di qualche millimetro. aspect ratio 16:9 --ar 4:3 --no digital glitch, pixels, scanlines, green matrix, terminal aesthetic, photographic realism, chrome futurism, illegible lettering, watermark",
+"chiave": "m1",
+"contesto": "id: ELA-GAD-0006\ntipo: gadget\nuniverso: elabverse\nestrazione: 9\ncreated: '2026-09-12'\nparent_id: null\nrelazione: null\nepoca_relativa: 0\nregione: Konya\nstatus: canon\nschema_version: 1\nnome: Fascia da Polso a Bande\ncosa: Fascia di cuoio da polso con file di piccoli fori bruciati a fuoco.\nchi_lo_porta: La porta sempre al polso sinistro, quello con cui regola le manopole dello strumento.\ninvenzione_id: ELA-INV-0001\npersonaggio_id: ELA-PER-0008\ntradimento_tech: Ogni foro segna una sfuriata contenuta e non sfogata, un dispositivo di autocontrollo disegnato sulla stessa logica a soglie dello spettrografo che scatta solo oltre una certa intensità di luce.\nprod: false",
+"manifest": {
+"caricato_il": null,
+"creato": "2026-09-15",
+"id": "MED-35009391638-1",
+"note": "oggetto: Fascia da Polso a Bande; gancio: Un giorno i fori risultano tutti bruciati nello stesso turno, e nessuno sa cosa sia successo quel giorno sulla nave.; tradimento_tech: Ogni foro segna una sfuriata contenuta e non sfogata, un dispositivo di autocontrollo disegnato sulla stessa logica a soglie dello spettrografo che scatta solo oltre una certa intensità di luce.; sref non fissato",
+"parametri": {
+"ar": "4:3",
+"atomi": [
+"ATM-34809499246-21"
+],
+"cref": null,
+"sref": null
+},
+"prompt": "Technical drawing of an object in two states on tracing paper: plan and elevation, graphite lines, overlaid layers that do not quite match, differences marked in revision red, illegible margin annotations, label with illegible product code. Subject: Fascia da Polso a Bande — Fascia di cuoio da polso con file di piccoli fori bruciati a fuoco. — carried by La porta sempre al polso sinistro, quello con cui regola le manopole dello strumento.. Carta da lucido bianca-azzurra, grafite, un rosso di revisione per le differenze, verde bottiglia per la versione \"corrente\". Stile unico per tutto l'universo, branch compreso: diagrammi e disegni tecnici sovrapposti, la stessa immagine in due stati (prima/dopo, v1/v2) con le differenze marcate in rosso, annotazioni a margine, strati semitrasparenti che non combaciano di qualche millimetro. aspect ratio 16:9 --ar 4:3 --no digital glitch, pixels, scanlines, green matrix, terminal aesthetic, photographic realism, chrome futurism, illegible lettering, watermark",
+"sha256": null,
+"sorgente": {
+"ref": "ELA-GAD-0006",
+"tipo": "riga"
+},
+"stato": "proposto",
+"strumento": "midjourney",
+"tipo": "tavola",
+"universo": "elabverse",
+"url": null
+},
+"strumento": "midjourney",
+"tipo": "tavola"
+},
+"postata_da": "media-random",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"ELA-GAD-0006"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"da": "media-random",
+"quando": "2026-09-15T18:45:11Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_tavola",
+"universi": [
+"elabverse"
+]
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-15T18:45:11Z",
+"esito": null,
+"id": "BAC-35009391638-2",
+"payload": {
+"bozza": "Technical drawing of an object in two states on tracing paper: plan and elevation, graphite lines, overlaid layers that do not quite match, differences marked in revision red, illegible margin annotations, label with illegible product code. Subject: Spilla a Stella Fusa — Spilla di resina scura colata a forma di stella a cinque punte asimmetriche, che ricalcano il profilo di uno spettro stellare. — carried by La appunta sul colletto solo nei giorni in cui deve presentarsi davanti agli ufficiali del Banco delle Molte Mani.. Carta da lucido bianca-azzurra, grafite, un rosso di revisione per le differenze, verde bottiglia per la versione \"corrente\". Stile unico per tutto l'universo, branch compreso: diagrammi e disegni tecnici sovrapposti, la stessa immagine in due stati (prima/dopo, v1/v2) con le differenze marcate in rosso, annotazioni a margine, strati semitrasparenti che non combaciano di qualche millimetro. aspect ratio 16:9 --ar 4:3 --no digital glitch, pixels, scanlines, green matrix, terminal aesthetic, photographic realism, chrome futurism, illegible lettering, watermark --sref random",
+"chiave": "m2",
+"contesto": "id: ELA-GAD-0015\ntipo: gadget\nuniverso: elabverse\nestrazione: 38\ncreated: '2026-09-14'\nparent_id: null\nrelazione: null\nepoca_relativa: 0\nregione: Konya\nstatus: canon\nschema_version: 1\nnome: Spilla a Stella Fusa\ncosa: Spilla di resina scura colata a forma di stella a cinque punte asimmetriche, che ricalcano il profilo di uno spettro stellare.\nchi_lo_porta: La appunta sul colletto solo nei giorni in cui deve presentarsi davanti agli ufficiali del Banco delle Molte Mani.\ninvenzione_id: ELA-INV-0002\npersonaggio_id: ELA-PER-0019\ntradimento_tech: Le punte della stella non sono decorative, sono calcate esattamente sul sonogramma della voce del comandante defunto della sua cabina, un modo per portare addosso, senza dirlo, un'autorità che nessuno può contestare.\nprod: true",
+"manifest": {
+"caricato_il": null,
+"creato": "2026-09-15",
+"id": "MED-35009391638-2",
+"note": "oggetto: Spilla a Stella Fusa; gancio: Un ufficiale nota che la spilla ha la stessa identica forma di quella persa da un derelitto avvistato mesi prima.; tradimento_tech: Le punte della stella non sono decorative, sono calcate esattamente sul sonogramma della voce del comandante defunto della sua cabina, un modo per portare addosso, senza dirlo, un'autorità che nessuno può contestare.; sref random — promuovere con media_upload.py --promuovi-sref",
+"parametri": {
+"ar": "4:3",
+"atomi": [
+"ATM-34809499246-21"
+],
+"cref": null,
+"sref": "random"
+},
+"prompt": "Technical drawing of an object in two states on tracing paper: plan and elevation, graphite lines, overlaid layers that do not quite match, differences marked in revision red, illegible margin annotations, label with illegible product code. Subject: Spilla a Stella Fusa — Spilla di resina scura colata a forma di stella a cinque punte asimmetriche, che ricalcano il profilo di uno spettro stellare. — carried by La appunta sul colletto solo nei giorni in cui deve presentarsi davanti agli ufficiali del Banco delle Molte Mani.. Carta da lucido bianca-azzurra, grafite, un rosso di revisione per le differenze, verde bottiglia per la versione \"corrente\". Stile unico per tutto l'universo, branch compreso: diagrammi e disegni tecnici sovrapposti, la stessa immagine in due stati (prima/dopo, v1/v2) con le differenze marcate in rosso, annotazioni a margine, strati semitrasparenti che non combaciano di qualche millimetro. aspect ratio 16:9 --ar 4:3 --no digital glitch, pixels, scanlines, green matrix, terminal aesthetic, photographic realism, chrome futurism, illegible lettering, watermark --sref random",
+"sha256": null,
+"sorgente": {
+"ref": "ELA-GAD-0015",
+"tipo": "riga"
+},
+"stato": "proposto",
+"strumento": "midjourney",
+"tipo": "tavola",
+"universo": "elabverse",
+"url": null
+},
+"strumento": "midjourney",
+"tipo": "tavola"
+},
+"postata_da": "media-random",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"ELA-GAD-0015"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"da": "media-random",
+"quando": "2026-09-15T18:45:11Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_tavola",
+"universi": [
+"elabverse"
+]
+},
+{
 "chiusa_il": "2026-09-15T05:35:14Z",
 "creata": "2026-09-15T00:59:34Z",
 "esito": "configurazione: Alzare il tetto per-run della variabile d'ambiente e rilanciare il workflow `riparatore` sul ref interessato; se il tetto è cablato in retry.yml, parametrizzarl (logs/guasto-BAC-34915383580-2.md)",
@@ -916,5 +1036,98 @@
 "tentativi": 0,
 "tipo": "guasto",
 "universi": []
+},
+{
+"chiusa_il": "2026-09-15T19:22:49Z",
+"creata": "2026-09-15T19:21:41Z",
+"esito": "riscritte scene [4, 5, 6] → stato bozza, giro 2, modello deepseek-flash, battute 15414→15714",
+"id": "BAC-35012169840-1",
+"payload": {
+"esito": "bocciato",
+"giro": 1,
+"punteggio": 30,
+"racconto": "2026-09-15-la-fascia-sicura",
+"scene_responsabili": [
+4,
+5,
+6
+],
+"violazioni": [
+{
+"id": "G-0047",
+"livello": "blocco",
+"motivo": "Tolga, il cui difetto è smemorato, pronuncia in battuta proprio la frase che scioglie il nodo centrale (i valori dichiarati sono quelli del turno precedente), invece di lasciarlo dire al solo gesto di consegnare la scheggia.",
+"passo": "«Questi tre stanno anche sulla tavola» disse Tolga. «Quelli di adesso. La coda va giù uguale.»",
+"scena": 4
+},
+{
+"id": "G-0004",
+"livello": "blocco",
+"motivo": "Il ledger di ELA-GAD-0023 stabilisce che ogni perlina riproduce un solo carattere in rilievo e che è la sequenza delle perline a corrispondere ai valori del turno precedente, mentre il racconto fa di ogni perlina un turno intero con tre rilievi.",
+"passo": "ognuna portava incisi tre rilievi, e i rilievi erano i tre valori dichiarati quella notte",
+"scena": 6
+},
+{
+"id": "G-0048",
+"livello": "penalita",
+"motivo": "Il gesto di Tolga che porge la scheggia viene tradotto in spiegazione dalle sue stesse battute nello stesso scambio, invece di restare non commentato.",
+"passo": "«Anche quello di prima. Li ho guardati dal corridoio.»",
+"peso": 4,
+"scena": 4
+},
+{
+"id": "G-0014",
+"livello": "penalita",
+"motivo": "Nella scena in POV Edurne il narratore riferisce il passato e il tornaconto di Meltem, conoscenza che il personaggio-punto-di-vista non ha, rompendo la terza limitata.",
+"passo": "Trent'anni prima era stata lei a stendere la calce tre dita oltre il telaio",
+"peso": 3,
+"scena": 5
+}
+]
+},
+"postata_da": "giudizio",
+"presa_da": "redattore",
+"presa_il": "2026-09-15T19:22:14Z",
+"priorita": 3,
+"racconto": "2026-09-15-la-fascia-sicura",
+"righe": [
+"ELA-INV-0030",
+"ELA-PER-0012",
+"ELA-PER-0013",
+"ELA-PER-0014",
+"ELA-PER-0016",
+"ELA-PER-0019",
+"ELA-PER-0021",
+"ELA-GAD-0018",
+"ELA-GAD-0022",
+"ELA-GAD-0023",
+"ELA-GAD-0026",
+"ELA-REG-konya",
+"ELA-SEM-0002"
+],
+"scade": "2026-09-16T01:22:14Z",
+"stato": "chiusa",
+"storia": [
+{
+"da": "giudizio",
+"quando": "2026-09-15T19:21:41Z",
+"stato": "aperta"
+},
+{
+"da": "redattore",
+"quando": "2026-09-15T19:22:14Z",
+"stato": "presa"
+},
+{
+"da": "redattore",
+"quando": "2026-09-15T19:22:49Z",
+"stato": "chiusa"
+}
+],
+"tentativi": 0,
+"tipo": "riscrittura",
+"universi": [
+"elabverse"
+]
 }
 ]
