@@ -2527,5 +2527,28 @@
 "NEO-PER-0064"
 ],
 "universo": "neofeudal"
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"ELA-INV-0100"
+],
+"chiavi": {
+"canale": "ghost",
+"formato": "paper_in_universe",
+"medium": "testo_lungo",
+"sorgente_id": "ELA-INV-0100",
+"veridicita": "in_universe"
+},
+"created": "2026-09-15",
+"esito": "ok",
+"estrazione": 58,
+"forzata": false,
+"lotto": "lotto-contenuti",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"ELA-CON-0004"
+],
+"universo": "elabverse"
 }
 ]

@@ -3706,6 +3706,11 @@
 "to": "ELA-INV-0052"
 },
 {
+"from": "ELA-CON-0004",
+"kind": "sorgente",
+"to": "ELA-INV-0100"
+},
+{
 "from": "HAC-CON-0001",
 "kind": "sorgente",
 "to": "HAC-INV-0017"
@@ -4420,6 +4425,12 @@
 "id": "ELA-CON-0003",
 "tipo": "contenuto",
 "titolo": "Perché l'inchiostro di ELA-INV-0052 doveva mangiarsi la carta",
+"universo": "elabverse"
+},
+{
+"id": "ELA-CON-0004",
+"tipo": "contenuto",
+"titolo": "Sul ritardo dell'ultimo faro: nota tecnica non autorizzata sulla Rete di Segnalazione del Banco",
 "universo": "elabverse"
 },
 {

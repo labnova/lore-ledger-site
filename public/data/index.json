@@ -401,6 +401,20 @@
 },
 {
 "appare_in": [],
+"chiavi": "testo_lungo · ghost · paper_in_universe",
+"created": "2026-09-15",
+"estrazione": 58,
+"id": "ELA-CON-0004",
+"parent_id": null,
+"regione": null,
+"relazione": null,
+"sommario": "Sul ritardo dell'ultimo faro: nota tecnica non autorizzata sulla Rete di Segnalazione del Banco",
+"tipo": "contenuto",
+"titolo": "Sul ritardo dell'ultimo faro: nota tecnica non autorizzata sulla Rete di Segnalazione del Banco",
+"universo": "elabverse"
+},
+{
+"appare_in": [],
 "chiavi": "video_lungo · vimeo · trailer_20s",
 "created": "2026-09-14",
 "estrazione": 52,
