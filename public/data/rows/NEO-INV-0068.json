@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"chirurgia/chirurgia_vascolare",
+"diritto/catasto"
+],
+"epoca_relativa": 1,
+"estrazione": 57,
+"fatti": [],
+"gancio": "Una famiglia ha vinto tre liti di confine consecutive perché il colorante risale sempre dal suo pozzo, e nessuno osa chiedere ai Cerusici se lo versino sempre allo stesso modo.",
+"id": "NEO-INV-0068",
+"media": [],
+"nome": "Le Vene di Confine",
+"nome_reale": "Uso del colorante da contrasto per arbitrare le dispute di confine sui pozzi",
+"parent_id": "NEO-INV-0061",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Dopo aver mappato i tunnel nascosti, i Cerusici hanno scoperto che lo stesso colorante, versato nei pozzi contesi tra due famiglie, risale sempre dal pozzo che l'acqua sotterranea favorisce, e i giudici del feudo hanno iniziato a usarlo per sentenziare le liti di terra al posto delle prove scritte.",
+"universo": "neofeudal"
+}

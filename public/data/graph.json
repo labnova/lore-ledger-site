@@ -346,6 +346,11 @@
 "to": "NEO-REG-calvenna"
 },
 {
+"from": "NEO-INV-0061",
+"kind": "parent",
+"to": "NEO-INV-0068"
+},
+{
 "from": "STE-INV-0013",
 "kind": "parent",
 "to": "STE-INV-0021"
@@ -1714,6 +1719,21 @@
 "from": "NEO-PER-0063",
 "kind": "regione",
 "to": "NEO-REG-vasperdine"
+},
+{
+"from": "NEO-PER-0031",
+"kind": "parent",
+"to": "NEO-PER-0064"
+},
+{
+"from": "NEO-PER-0064",
+"kind": "invenzione",
+"to": "NEO-INV-0009"
+},
+{
+"from": "NEO-PER-0064",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
 },
 {
 "from": "STE-PER-0001",
@@ -3359,6 +3379,156 @@
 "from": "NEO-GAD-0051",
 "kind": "regione",
 "to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-GAD-0052",
+"kind": "invenzione",
+"to": "NEO-INV-0040"
+},
+{
+"from": "NEO-GAD-0052",
+"kind": "personaggio",
+"to": "NEO-PER-0061"
+},
+{
+"from": "NEO-GAD-0052",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-GAD-0053",
+"kind": "invenzione",
+"to": "NEO-INV-0040"
+},
+{
+"from": "NEO-GAD-0053",
+"kind": "personaggio",
+"to": "NEO-PER-0061"
+},
+{
+"from": "NEO-GAD-0053",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-GAD-0054",
+"kind": "invenzione",
+"to": "NEO-INV-0040"
+},
+{
+"from": "NEO-GAD-0054",
+"kind": "personaggio",
+"to": "NEO-PER-0061"
+},
+{
+"from": "NEO-GAD-0054",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-GAD-0055",
+"kind": "invenzione",
+"to": "NEO-INV-0040"
+},
+{
+"from": "NEO-GAD-0055",
+"kind": "personaggio",
+"to": "NEO-PER-0061"
+},
+{
+"from": "NEO-GAD-0055",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-GAD-0056",
+"kind": "invenzione",
+"to": "NEO-INV-0040"
+},
+{
+"from": "NEO-GAD-0056",
+"kind": "personaggio",
+"to": "NEO-PER-0061"
+},
+{
+"from": "NEO-GAD-0056",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-GAD-0057",
+"kind": "invenzione",
+"to": "NEO-INV-0040"
+},
+{
+"from": "NEO-GAD-0057",
+"kind": "personaggio",
+"to": "NEO-PER-0061"
+},
+{
+"from": "NEO-GAD-0057",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-GAD-0058",
+"kind": "invenzione",
+"to": "NEO-INV-0040"
+},
+{
+"from": "NEO-GAD-0058",
+"kind": "personaggio",
+"to": "NEO-PER-0061"
+},
+{
+"from": "NEO-GAD-0058",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-GAD-0059",
+"kind": "invenzione",
+"to": "NEO-INV-0040"
+},
+{
+"from": "NEO-GAD-0059",
+"kind": "personaggio",
+"to": "NEO-PER-0061"
+},
+{
+"from": "NEO-GAD-0059",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-GAD-0060",
+"kind": "invenzione",
+"to": "NEO-INV-0040"
+},
+{
+"from": "NEO-GAD-0060",
+"kind": "personaggio",
+"to": "NEO-PER-0061"
+},
+{
+"from": "NEO-GAD-0060",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-GAD-0061",
+"kind": "invenzione",
+"to": "NEO-INV-0040"
+},
+{
+"from": "NEO-GAD-0061",
+"kind": "personaggio",
+"to": "NEO-PER-0061"
+},
+{
+"from": "NEO-GAD-0061",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
 },
 {
 "from": "STE-GAD-0001",
@@ -6107,6 +6277,66 @@
 "universo": "neofeudal"
 },
 {
+"id": "NEO-GAD-0052",
+"tipo": "gadget",
+"titolo": "Il Bastone dei Nodi Storti",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0053",
+"tipo": "gadget",
+"titolo": "Il Sigillo di Cera Sbagliato",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0054",
+"tipo": "gadget",
+"titolo": "La Cintura a Tasche di Cuoio",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0055",
+"tipo": "gadget",
+"titolo": "L'Otre a Doppia Voce",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0056",
+"tipo": "gadget",
+"titolo": "La Collana dei Numeri Sussurrati",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0057",
+"tipo": "gadget",
+"titolo": "Lo Specchietto che Non Riflette Bene",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0058",
+"tipo": "gadget",
+"titolo": "Il Ventaglio Numerato",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0059",
+"tipo": "gadget",
+"titolo": "La Fibbia che Conta le Fecondazioni",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0060",
+"tipo": "gadget",
+"titolo": "Il Fazzoletto con l'Inchiostro che Cambia",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0061",
+"tipo": "gadget",
+"titolo": "L'Anello che Scalda in Ritardo",
+"universo": "neofeudal"
+},
+{
 "id": "NEO-INV-0001",
 "tipo": "invenzione",
 "titolo": "Giudizio dei Galli di Calvenna",
@@ -6509,6 +6739,12 @@
 "universo": "neofeudal"
 },
 {
+"id": "NEO-INV-0068",
+"tipo": "invenzione",
+"titolo": "Le Vene di Confine",
+"universo": "neofeudal"
+},
+{
 "id": "NEO-PER-0001",
 "tipo": "personaggio",
 "titolo": "Juma Mwangaza",
@@ -6884,6 +7120,12 @@
 "id": "NEO-PER-0063",
 "tipo": "personaggio",
 "titolo": "Farkas Bakó",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0064",
+"tipo": "personaggio",
+"titolo": "Juma Machera",
 "universo": "neofeudal"
 },
 {

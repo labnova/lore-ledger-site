@@ -2475,5 +2475,57 @@
 "NEO-REG-sarakan"
 ],
 "universo": "neofeudal"
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"NEO-INV-0061",
+"NEO-PER-0031",
+"NEO-GAD-0013",
+"NEO-INV-0040",
+"NEO-PER-0061"
+],
+"chiavi": {
+"invenzione_id": "NEO-INV-0040",
+"n_prod": 3,
+"personaggio_id": "NEO-PER-0061",
+"universo": "neofeudal"
+},
+"created": "2026-09-15",
+"esito": "ok",
+"espansioni": [
+{
+"id": "NEO-INV-0068",
+"parent_id": "NEO-INV-0061"
+},
+{
+"id": "NEO-PER-0064",
+"parent_id": "NEO-PER-0031"
+}
+],
+"estrazione": 57,
+"forzata": false,
+"lotto": "lotto-gadget",
+"modello": "claude-sonnet-5",
+"prod": [
+"NEO-GAD-0052",
+"NEO-GAD-0053",
+"NEO-GAD-0054"
+],
+"righe_prodotte": [
+"NEO-GAD-0052",
+"NEO-GAD-0053",
+"NEO-GAD-0054",
+"NEO-GAD-0055",
+"NEO-GAD-0056",
+"NEO-GAD-0057",
+"NEO-GAD-0058",
+"NEO-GAD-0059",
+"NEO-GAD-0060",
+"NEO-GAD-0061",
+"NEO-INV-0068",
+"NEO-PER-0064"
+],
+"universo": "neofeudal"
 }
 ]

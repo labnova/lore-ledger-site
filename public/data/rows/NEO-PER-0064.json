@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "fidanzato"
+},
+"appare_in": [],
+"casta": "cavalieri",
+"ceppo": "swahili",
+"cognome": "Machera",
+"contraddizione": "Leale al feudo e orgoglioso del proprio grado, ma ogni volta che Furaha Ndumbo lo sceglie per la pattuglia più rischiosa non riesce a rifiutare, perché rifiutare significherebbe ammettere che ha paura.",
+"created": "2026-09-15",
+"difetto": "orgoglioso",
+"epoca_relativa": 0,
+"estrazione": 57,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Juma ha smesso di contare quante volte il suo nome compare nel Bestiario delle Quote accanto alle pattuglie più pericolose, ma ha iniziato a segnare di nascosto quante volte è toccato a Furaha.",
+"id": "NEO-PER-0064",
+"invenzione_id": "NEO-INV-0009",
+"media": [],
+"nome": "Juma",
+"parent_id": "NEO-PER-0031",
+"rapporto": "teme",
+"regione": "Calvenna",
+"relazione": "espansione",
+"ritratto": null,
+"schema_version": 1,
+"segno": "ariete",
+"spirituale": {
+"credenza": "il cielo amministrato",
+"rapporto": "fedele"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "leale",
+"universo": "neofeudal"
+}
