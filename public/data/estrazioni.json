@@ -2915,5 +2915,73 @@
 "STE-REG-qattoum"
 ],
 "universo": "steamverse"
+},
+{
+"campi_forzati": [],
+"chiavi": {
+"campi_completati": {
+"NEO-PER-0075": [
+"affettivo"
+]
+},
+"madri": [
+"NEO-PER-0075"
+]
+},
+"created": "2026-09-15",
+"esito": "ok",
+"estrazione": 69,
+"forzata": false,
+"lotto": "lotto-completamento",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"NEO-PER-0076"
+],
+"universo": "neofeudal"
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"NEO-INV-0036",
+"NEO-PER-0044",
+"NEO-INV-0004"
+],
+"chiavi": {
+"invenzione_id": "NEO-INV-0034",
+"n_prod": 2,
+"personaggio_id": "NEO-PER-0054",
+"universo": "neofeudal"
+},
+"created": "2026-09-15",
+"esito": "ok",
+"espansioni": [
+"NEO-INV-0071",
+"NEO-INV-0072",
+"NEO-PER-0077"
+],
+"estrazione": 70,
+"forzata": false,
+"lotto": "lotto-gadget",
+"modello": "claude-sonnet-5",
+"prod": [
+"NEO-GAD-0074",
+"NEO-GAD-0075"
+],
+"righe_prodotte": [
+"NEO-GAD-0073",
+"NEO-GAD-0074",
+"NEO-GAD-0075",
+"NEO-GAD-0076",
+"NEO-GAD-0077",
+"NEO-GAD-0078",
+"NEO-GAD-0079",
+"NEO-GAD-0080",
+"NEO-GAD-0081",
+"NEO-GAD-0082",
+"NEO-INV-0071",
+"NEO-INV-0072",
+"NEO-PER-0077"
+],
+"universo": "neofeudal"
 }
 ]

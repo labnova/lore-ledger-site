@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"zoologia",
+"gioco_azzardo"
+],
+"epoca_relativa": 0,
+"estrazione": 70,
+"fatti": [],
+"gancio": "Il quaderno finisce nelle mani sbagliate la notte in cui il campanile suona un evento che poi non accade affatto.",
+"id": "NEO-INV-0072",
+"media": [],
+"nome": "Il Quaderno dei Rintocchi Storti",
+"nome_reale": "Registro clandestino di decodifica dei rintocchi del campanile",
+"parent_id": "NEO-INV-0004",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Un campanaro minore ha iniziato a trascrivere ogni rintocco fuori sequenza in un quaderno, vendendolo sottobanco a chi vuole scommettere un istante prima che il campanile annunci la quota ufficiale.",
+"universo": "neofeudal"
+}

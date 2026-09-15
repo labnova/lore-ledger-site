@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-15",
+"discipline": [
+"urbanistica/edilizia_popolare",
+"agricoltura/allevamento"
+],
+"epoca_relativa": 0,
+"estrazione": 70,
+"fatti": [],
+"gancio": "Un bambino inizia a lavare via i segni di gesso dalle porte di notte, senza sapere che ogni porta ripulita viene rimarcata due volte più in fretta.",
+"id": "NEO-INV-0071",
+"media": [],
+"nome": "Il Marchio dei Fragili",
+"nome_reale": "Sistema di marchiatura preventiva per inquilini a rischio sfratto",
+"parent_id": "NEO-INV-0036",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Prima di finire nella lista degli scarti, ogni inquilino viene segnato con lo stesso gesso usato dai pastori per marcare le bestie da separare al prossimo giro di selezione, così i vicini imparano a leggere chi sparirà prima che arrivi l'ordine ufficiale.",
+"universo": "neofeudal"
+}

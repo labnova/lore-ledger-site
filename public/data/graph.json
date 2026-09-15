@@ -376,6 +376,16 @@
 "to": "NEO-REG-calvenna"
 },
 {
+"from": "NEO-INV-0036",
+"kind": "parent",
+"to": "NEO-INV-0071"
+},
+{
+"from": "NEO-INV-0004",
+"kind": "parent",
+"to": "NEO-INV-0072"
+},
+{
 "from": "STE-INV-0013",
 "kind": "parent",
 "to": "STE-INV-0021"
@@ -1929,6 +1939,36 @@
 "from": "NEO-PER-0075",
 "kind": "regione",
 "to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0075",
+"kind": "parent",
+"to": "NEO-PER-0076"
+},
+{
+"from": "NEO-PER-0076",
+"kind": "invenzione",
+"to": "NEO-INV-0009"
+},
+{
+"from": "NEO-PER-0076",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0044",
+"kind": "parent",
+"to": "NEO-PER-0077"
+},
+{
+"from": "NEO-PER-0077",
+"kind": "invenzione",
+"to": "NEO-INV-0013"
+},
+{
+"from": "NEO-PER-0077",
+"kind": "regione",
+"to": "NEO-REG-vranidol"
 },
 {
 "from": "STE-PER-0001",
@@ -3989,6 +4029,156 @@
 "from": "NEO-GAD-0072",
 "kind": "regione",
 "to": "NEO-REG-zastavena"
+},
+{
+"from": "NEO-GAD-0073",
+"kind": "invenzione",
+"to": "NEO-INV-0034"
+},
+{
+"from": "NEO-GAD-0073",
+"kind": "personaggio",
+"to": "NEO-PER-0054"
+},
+{
+"from": "NEO-GAD-0073",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-GAD-0074",
+"kind": "invenzione",
+"to": "NEO-INV-0034"
+},
+{
+"from": "NEO-GAD-0074",
+"kind": "personaggio",
+"to": "NEO-PER-0054"
+},
+{
+"from": "NEO-GAD-0074",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-GAD-0075",
+"kind": "invenzione",
+"to": "NEO-INV-0034"
+},
+{
+"from": "NEO-GAD-0075",
+"kind": "personaggio",
+"to": "NEO-PER-0054"
+},
+{
+"from": "NEO-GAD-0075",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-GAD-0076",
+"kind": "invenzione",
+"to": "NEO-INV-0034"
+},
+{
+"from": "NEO-GAD-0076",
+"kind": "personaggio",
+"to": "NEO-PER-0054"
+},
+{
+"from": "NEO-GAD-0076",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-GAD-0077",
+"kind": "invenzione",
+"to": "NEO-INV-0034"
+},
+{
+"from": "NEO-GAD-0077",
+"kind": "personaggio",
+"to": "NEO-PER-0054"
+},
+{
+"from": "NEO-GAD-0077",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-GAD-0078",
+"kind": "invenzione",
+"to": "NEO-INV-0034"
+},
+{
+"from": "NEO-GAD-0078",
+"kind": "personaggio",
+"to": "NEO-PER-0054"
+},
+{
+"from": "NEO-GAD-0078",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-GAD-0079",
+"kind": "invenzione",
+"to": "NEO-INV-0034"
+},
+{
+"from": "NEO-GAD-0079",
+"kind": "personaggio",
+"to": "NEO-PER-0054"
+},
+{
+"from": "NEO-GAD-0079",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-GAD-0080",
+"kind": "invenzione",
+"to": "NEO-INV-0034"
+},
+{
+"from": "NEO-GAD-0080",
+"kind": "personaggio",
+"to": "NEO-PER-0054"
+},
+{
+"from": "NEO-GAD-0080",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-GAD-0081",
+"kind": "invenzione",
+"to": "NEO-INV-0034"
+},
+{
+"from": "NEO-GAD-0081",
+"kind": "personaggio",
+"to": "NEO-PER-0054"
+},
+{
+"from": "NEO-GAD-0081",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
+"from": "NEO-GAD-0082",
+"kind": "invenzione",
+"to": "NEO-INV-0034"
+},
+{
+"from": "NEO-GAD-0082",
+"kind": "personaggio",
+"to": "NEO-PER-0054"
+},
+{
+"from": "NEO-GAD-0082",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
 },
 {
 "from": "STE-GAD-0001",
@@ -7170,6 +7360,66 @@
 "universo": "neofeudal"
 },
 {
+"id": "NEO-GAD-0073",
+"tipo": "gadget",
+"titolo": "Il Fischio dell'Otre",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0074",
+"tipo": "gadget",
+"titolo": "La Cera di Prova",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0075",
+"tipo": "gadget",
+"titolo": "Il Bastone dei Due Turni",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0076",
+"tipo": "gadget",
+"titolo": "L'Otre Campanaro",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0077",
+"tipo": "gadget",
+"titolo": "Il Grembiule a Doppia Tasca",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0078",
+"tipo": "gadget",
+"titolo": "La Collana dei Sassi Contati",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0079",
+"tipo": "gadget",
+"titolo": "La Tavoletta delle Crepe",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0080",
+"tipo": "gadget",
+"titolo": "Il Cappuccio a Doppia Cucitura",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0081",
+"tipo": "gadget",
+"titolo": "Lo Scacciapensieri di Resina",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0082",
+"tipo": "gadget",
+"titolo": "Il Quaderno di Carta Oleata",
+"universo": "neofeudal"
+},
+{
 "id": "NEO-INV-0001",
 "tipo": "invenzione",
 "titolo": "Giudizio dei Galli di Calvenna",
@@ -7587,6 +7837,18 @@
 "id": "NEO-INV-0070",
 "tipo": "invenzione",
 "titolo": "La Leva che Nessuno Preme",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0071",
+"tipo": "invenzione",
+"titolo": "Il Marchio dei Fragili",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0072",
+"tipo": "invenzione",
+"titolo": "Il Quaderno dei Rintocchi Storti",
 "universo": "neofeudal"
 },
 {
@@ -8037,6 +8299,18 @@
 "id": "NEO-PER-0075",
 "tipo": "personaggio",
 "titolo": "Juma Mwakasege",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0076",
+"tipo": "personaggio",
+"titolo": "Juma Mwakasege",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0077",
+"tipo": "personaggio",
+"titolo": "Bogdan Draveski",
 "universo": "neofeudal"
 },
 {
