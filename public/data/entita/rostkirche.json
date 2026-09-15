@@ -5,7 +5,7 @@
 ],
 "descrizione": "Accampamento di nomadi urbani cresciuto attorno a uno snodo ferroviario dismesso ai margini del distretto trapianti; i cognomi restano legati ai mestieri di chi ci transitava prima del collasso della linea, e se ne guadagna uno nuovo solo restando abbastanza a lungo.",
 "ha_prosa": false,
-"n_ricorrenze": 34,
+"n_ricorrenze": 35,
 "nome": "Rostkirche",
 "prima_apparizione": 16,
 "prosa": null,
@@ -316,9 +316,23 @@
 "riga_id": "CYB-PER-0011",
 "riga_tipo": "personaggio",
 "riga_titolo": "Greta Weber"
+},
+{
+"estrazione": 71,
+"quando": "2026-09-15",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-CON-0002",
+"riga_tipo": "contenuto",
+"riga_titolo": "Formazione trasportatori, modulo 3: la scheda non mente, il lettore sì"
 }
 ],
 "righe": [
+{
+"id": "CYB-CON-0002",
+"tipo": "contenuto",
+"titolo": "Formazione trasportatori, modulo 3: la scheda non mente, il lettore sì"
+},
 {
 "id": "CYB-GAD-0001",
 "tipo": "gadget",

@@ -1,36 +1,6 @@
 [
 {
 "chiusa_il": null,
-"creata": "2026-09-14T21:31:16Z",
-"esito": null,
-"id": "BAC-843251-1",
-"payload": {},
-"postata_da": "enzo",
-"presa_da": null,
-"presa_il": null,
-"priorita": 1,
-"racconto": null,
-"righe": [
-"NEO-GAD-0042"
-],
-"scade": null,
-"stato": "aperta",
-"storia": [
-{
-"agente": "enzo",
-"da": "enzo",
-"quando": "2026-09-14T21:31:16Z",
-"stato": "aperta"
-}
-],
-"tentativi": 0,
-"tipo": "media_tavola",
-"universi": [
-"neofeudal"
-]
-},
-{
-"chiusa_il": null,
 "creata": "2026-09-15T17:21:28Z",
 "esito": null,
 "esito_tipo": null,
@@ -67,6 +37,52 @@
 "agente": "riparatore",
 "da": "riparatore",
 "quando": "2026-09-15T17:21:28Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "guasto",
+"universi": [],
+"verifica": null
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-15T22:06:44Z",
+"esito": null,
+"esito_tipo": null,
+"firma": "bb366f3288b5",
+"id": "BAC-35029199965-1",
+"nota": null,
+"occorrenze": 1,
+"payload": {
+"errore": "sabled_reason\": \"sdk_opt_in_required\" }, { \"type\": \"rate_limit_event\", \"rate_limit_info\": { \"status\": \"rejected\"",
+"firma": "bb366f3288b5",
+"occorrenze": 1,
+"run_coinvolti": [
+"35029199965"
+],
+"run_id": "35029199965",
+"step": "modello",
+"workflow": "lotto"
+},
+"postata_da": "lotto",
+"presa_da": null,
+"presa_il": null,
+"priorita": 2,
+"racconto": null,
+"righe": [
+"lotto#35029199965#modello"
+],
+"run_coinvolti": [
+"35029199965"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "lotto",
+"da": "lotto",
+"quando": "2026-09-15T22:06:44Z",
 "stato": "aperta"
 }
 ],
@@ -393,65 +409,6 @@
 "tipo": "commento",
 "universi": [
 "steamverse"
-]
-},
-{
-"chiusa_il": null,
-"creata": "2026-09-15T01:10:42Z",
-"esito": null,
-"id": "BAC-34916202240-1",
-"payload": {
-"bozza": "Reliquary panel: a technological object shown as a venerated relic in a painted shrine, wrapped in cloth or under a glass case on a cushion, gold-leaf ground, flat tempera colours, compartments like a polyptych, label with illegible product code. Subject: Borsa di Cuoio a Doppio Fondo — Bisaccia da viaggio in cuoio conciato, con un doppio fondo cucito così bene da sembrare un solo strato. — carried by I pellegrini diretti a Vasperdine la comprano da Baraka per portare offerte e quote senza distinguerle.. Fondo oro in foglia, lapislazzuli, rosso lacca, verde malachite, bianco di piombo per gli incarnati. Miniatura da codice o pala d'altare a fondo oro: prospettiva piatta o rovesciata, dimensione delle figure per gerarchia e non per distanza, aureole e cornici architettoniche dipinte, craquelure leggera. --ar 4:3 --no photographic realism, naturalistic light, fantasy armour, dragons, taverns, steampunk gears, pseudo-latin lettering, blurred faces, 3D render, illegible lettering, watermark",
-"chiave": "m2",
-"contesto": "id: NEO-GAD-0038\ntipo: gadget\nuniverso: neofeudal\nestrazione: 26\ncreated: '2026-09-13'\nparent_id: null\nrelazione: null\nepoca_relativa: 0\nregione: Calvenna\nstatus: canon\nschema_version: 1\nnome: Borsa di Cuoio a Doppio Fondo\ncosa: Bisaccia da viaggio in cuoio conciato, con un doppio fondo cucito così bene da sembrare un solo strato.\nchi_lo_porta: I pellegrini diretti a Vasperdine la comprano da Baraka per portare offerte e quote senza distinguerle.\ninvenzione_id: NEO-INV-0021\npersonaggio_id: NEO-PER-0003\ntradimento_tech: Il doppio fondo non nasconde monete ma ritagli di pergamena, che Baraka fa circolare fuori da Calvenna senza passare dai copisti.\nprod: false",
-"manifest": {
-"caricato_il": null,
-"creato": "2026-09-15",
-"id": "MED-34916202240-2",
-"note": "oggetto: Borsa di Cuoio a Doppio Fondo; gancio: Un pellegrino l'ha aperta per errore davanti a un chierico, e ora Baraka aspetta che qualcuno bussi alla sua porta.; tradimento_tech: Il doppio fondo non nasconde monete ma ritagli di pergamena, che Baraka fa circolare fuori da Calvenna senza passare dai copisti.; sref non fissato",
-"parametri": {
-"ar": "4:3",
-"atomi": [],
-"cref": null,
-"sref": null
-},
-"prompt": "Reliquary panel: a technological object shown as a venerated relic in a painted shrine, wrapped in cloth or under a glass case on a cushion, gold-leaf ground, flat tempera colours, compartments like a polyptych, label with illegible product code. Subject: Borsa di Cuoio a Doppio Fondo — Bisaccia da viaggio in cuoio conciato, con un doppio fondo cucito così bene da sembrare un solo strato. — carried by I pellegrini diretti a Vasperdine la comprano da Baraka per portare offerte e quote senza distinguerle.. Fondo oro in foglia, lapislazzuli, rosso lacca, verde malachite, bianco di piombo per gli incarnati. Miniatura da codice o pala d'altare a fondo oro: prospettiva piatta o rovesciata, dimensione delle figure per gerarchia e non per distanza, aureole e cornici architettoniche dipinte, craquelure leggera. --ar 4:3 --no photographic realism, naturalistic light, fantasy armour, dragons, taverns, steampunk gears, pseudo-latin lettering, blurred faces, 3D render, illegible lettering, watermark",
-"sha256": null,
-"sorgente": {
-"ref": "NEO-GAD-0038",
-"tipo": "riga"
-},
-"stato": "proposto",
-"strumento": "midjourney",
-"tipo": "tavola",
-"universo": "neofeudal",
-"url": null
-},
-"strumento": "midjourney",
-"tipo": "tavola"
-},
-"postata_da": "media-random",
-"presa_da": null,
-"presa_il": null,
-"priorita": 3,
-"racconto": null,
-"righe": [
-"NEO-GAD-0038"
-],
-"scade": null,
-"stato": "aperta",
-"storia": [
-{
-"agente": "media-random",
-"da": "media-random",
-"quando": "2026-09-15T01:10:42Z",
-"stato": "aperta"
-}
-],
-"tentativi": 0,
-"tipo": "media_tavola",
-"universi": [
-"neofeudal"
 ]
 },
 {
@@ -883,6 +840,346 @@
 ]
 },
 {
+"alternative": [],
+"artefatti_prodotti": [
+"HAC-PER-0023"
+],
+"artefatto_dettaglio": {
+"carta": "BAC-35026555608-1",
+"commento": null,
+"errori_schema": [
+"affettivo: \"La sera prima della cerimonia dell'alba: è la sola ora in cui la famiglia sta ferma nello stesso posto, ed è anche la sera in cui le mettono in mano la cassa d"
+],
+"id": "HAC-PER-0023",
+"motivazione": "HAC-PER-0011 porta già gancio e contraddizione carichi: calendario di riti fisso contro turni d'attracco che non aspettano, e una cassa da sigillare all'alba. Il campo affettivo è però vuoto, e proprio su famiglia e culto poggia tutta la contraddizione: è lì che la scheda non regge ancora. Un'espansione figlia ancora quel vuoto a un rito preciso, senza toccare HAC-INV-0001 né riscrivere la riga madre. HAC-INV-0065 ha parent_id null perché è radice per schema: non le manca la madre.",
+"promossa_da": null,
+"promossa_il": null,
+"respinta_il": null,
+"riga": {
+"affettivo": "La sera prima della cerimonia dell'alba: è la sola ora in cui la famiglia sta ferma nello stesso posto, ed è anche la sera in cui le mettono in mano la cassa da benedire e sigillare.",
+"carta_id": "BAC-35026555608-1",
+"casta": "corrieri",
+"ceppo": "scandinavo",
+"cognome": "Lysen",
+"contraddizione": "È stata cresciuta come piccola funzionaria del culto del ciclo del ritorno, con un calendario di riti fisso che nessuno può spostare, ma la famiglia la sta \"costruendo\" come corriere per Goccia Cieca su turni di attracco che cambiano ogni notte e non aspettano nessun rito.",
+"created": "2026-09-15",
+"difetto": "indolente",
+"epoca_relativa": 0,
+"estrazione": 43,
+"eta_fascia": "bambino",
+"gancio": "La sera prima di una cerimonia fissa da generazioni le affidano una cassa da benedire e sigillare per l'alba, senza dirle che dentro non ci sono santini ma valvole con lo stesso protocollo dei perfusori: il rito che conosce e la consegna che nessuno le spiega le arrivano addosso nella stessa notte.",
+"id": "HAC-PER-0023",
+"invenzione_id": "HAC-INV-0001",
+"nome": "Thea",
+"origine": "approfondimento",
+"parent_id": "HAC-PER-0011",
+"rapporto": "costruita",
+"regione": "HAC-REG-rotterdam",
+"relazione": "espansione",
+"schema_version": 1,
+"segno": "bilancia",
+"spirituale": {
+"credenza": "ciclo del ritorno",
+"rapporto": "funzionario_del_culto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ironico",
+"universo": "hackverse"
+},
+"scartata_per": null,
+"stato": "provvisoria",
+"storia": [
+{
+"autore": "redattore",
+"motivo": "artefatto della carta None",
+"quando": "2026-09-15T21:37:00Z",
+"sha": "fcd4d7681aa126ccb6bed0a0e85dca1e2f097c1f",
+"versione": 1
+}
+],
+"versione": 1,
+"versioni": []
+},
+"chiusa_il": null,
+"creata": "2026-09-15T21:36:34Z",
+"esito": null,
+"id": "BAC-35026555608-1",
+"letto_a": "fcd4d7681aa126ccb6bed0a0e85dca1e2f097c1f",
+"payload": {
+"artefatti_prodotti": [
+"HAC-PER-0023"
+],
+"artefatto": "proposte/righe/HAC-PER-0023.yaml",
+"candidati": [
+"HAC-INV-0065",
+"HAC-PER-0011",
+"CYB-GAD-0009",
+"entita:elabverse/luogo/konya",
+"entita:elabverse/luogo/scafo-zero"
+],
+"forma": "espansione",
+"lacuna": "nessun legame affettivo dichiarato",
+"letto_a": "fcd4d7681aa126ccb6bed0a0e85dca1e2f097c1f",
+"motivazione": "HAC-PER-0011 porta già gancio e contraddizione carichi: calendario di riti fisso contro turni d'attracco che non aspettano, e una cassa da sigillare all'alba. Il campo affettivo è però vuoto, e proprio su famiglia e culto poggia tutta la contraddizione: è lì che la scheda non regge ancora. Un'espansione figlia ancora quel vuoto a un rito preciso, senza toccare HAC-INV-0001 né riscrivere la riga madre. HAC-INV-0065 ha parent_id null perché è radice per schema: non le manca la madre.",
+"scelto": "HAC-PER-0011"
+},
+"postata_da": "redattore",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"HAC-PER-0011"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "redattore",
+"da": "redattore",
+"quando": "2026-09-15T21:36:34Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "approfondimento",
+"universi": [
+"hackverse"
+]
+},
+{
+"alternative": [],
+"artefatti_prodotti": [
+"entita:neofeudal/luogo/calvenna"
+],
+"artefatto_dettaglio": null,
+"chiusa_il": null,
+"creata": "2026-09-15T21:50:04Z",
+"esito": null,
+"id": "BAC-35027770871-1",
+"letto_a": "6bfc175f87feceda045cf50bbfda712f25a0b06e",
+"payload": {
+"artefatti_prodotti": [
+"entita:neofeudal/luogo/calvenna"
+],
+"artefatto": "entita:neofeudal/luogo/calvenna",
+"candidati": [
+"NEO-INV-0070",
+"NEO-GAD-0051",
+"ELA-GAD-0023",
+"entita:neofeudal/luogo/calvenna",
+"entita:cyberverse/luogo/rostkirche"
+],
+"entita": {
+"nome": "Calvenna",
+"ricorrenze": 102,
+"slug": "calvenna",
+"tipo": "luogo"
+},
+"forma": "prosa_entita",
+"lacuna": "scheda luogo priva di prosa",
+"letto_a": "6bfc175f87feceda045cf50bbfda712f25a0b06e",
+"motivazione": "Calvenna ricorre 102 volte e resta un elenco: NEO-INV-0070 e NEO-GAD-0051 la nominano solo come «regione: Calvenna», senza mai dirla. NEO-INV-0070 ha gancio e torsione saldi, ma la figlia mancante è una scelta di sviluppo, non una lacuna; ELA-GAD-0023 e NEO-GAD-0051 sono saturi nei loro campi. La bottega che mutila e invecchia, i giovani che non restano, i registri segreti di Madre Iselda chiedono voce: è il mio mestiere. Accodo, non riscrivo.",
+"scelto": "entita:neofeudal/luogo/calvenna"
+},
+"postata_da": "redattore",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "redattore",
+"da": "redattore",
+"quando": "2026-09-15T21:50:04Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "approfondimento",
+"universi": [
+"neofeudal"
+]
+},
+{
+"alternativa_dettaglio": null,
+"alternative": [],
+"auto_riferimento": false,
+"carta_madre": "BAC-34908018186-1",
+"chiusa_il": null,
+"contro_cercato_marcato": [
+{
+"auto_riferimento": false,
+"id": "NEO-INV-0001"
+},
+{
+"auto_riferimento": false,
+"id": "NEO-INV-0007"
+},
+{
+"auto_riferimento": false,
+"id": "NEO-INV-0010"
+},
+{
+"auto_riferimento": false,
+"id": "NEO-INV-0012"
+}
+],
+"creata": "2026-09-15T21:50:23Z",
+"esito": null,
+"id": "BAC-35027770871-2",
+"payload": {
+"alternativa_testo": null,
+"artefatto_alternativo": null,
+"carta_madre": "BAC-34908018186-1",
+"contraddizione_id": null,
+"contro_cercato": [
+"NEO-INV-0001",
+"NEO-INV-0007",
+"NEO-INV-0010",
+"NEO-INV-0012"
+],
+"lacuna": "manca la regione dei dormitori popolari",
+"letto_a": "4137401092b0012e67128ca227a889c998656df0",
+"posizione": "accolgo",
+"testo": "Accolgo: nei precedenti NEO-INV-0001, 0007, 0010, 0012 la regione è sempre Calvenna e non smentiscono il vuoto di NEO-INV-0027; la lacuna dichiarata resta l'unica. Lo snippet tiene blackout e silenzio del clero senza gonfiare la riga: forma giusta, discipline e torsione reggono."
+},
+"postata_da": "editore",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"NEO-INV-0027"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "editore",
+"da": "editore",
+"quando": "2026-09-15T21:50:23Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "commento",
+"universi": [
+"neofeudal"
+]
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-15T01:10:42Z",
+"esito": null,
+"id": "BAC-34916202240-1",
+"payload": {
+"bozza": "Reliquary panel: a technological object shown as a venerated relic in a painted shrine, wrapped in cloth or under a glass case on a cushion, gold-leaf ground, flat tempera colours, compartments like a polyptych, label with illegible product code. Subject: Borsa di Cuoio a Doppio Fondo — Bisaccia da viaggio in cuoio conciato, con un doppio fondo cucito così bene da sembrare un solo strato. — carried by I pellegrini diretti a Vasperdine la comprano da Baraka per portare offerte e quote senza distinguerle.. Fondo oro in foglia, lapislazzuli, rosso lacca, verde malachite, bianco di piombo per gli incarnati. Miniatura da codice o pala d'altare a fondo oro: prospettiva piatta o rovesciata, dimensione delle figure per gerarchia e non per distanza, aureole e cornici architettoniche dipinte, craquelure leggera. --ar 4:3 --no photographic realism, naturalistic light, fantasy armour, dragons, taverns, steampunk gears, pseudo-latin lettering, blurred faces, 3D render, illegible lettering, watermark",
+"chiave": "m2",
+"contesto": "id: NEO-GAD-0038\ntipo: gadget\nuniverso: neofeudal\nestrazione: 26\ncreated: '2026-09-13'\nparent_id: null\nrelazione: null\nepoca_relativa: 0\nregione: Calvenna\nstatus: canon\nschema_version: 1\nnome: Borsa di Cuoio a Doppio Fondo\ncosa: Bisaccia da viaggio in cuoio conciato, con un doppio fondo cucito così bene da sembrare un solo strato.\nchi_lo_porta: I pellegrini diretti a Vasperdine la comprano da Baraka per portare offerte e quote senza distinguerle.\ninvenzione_id: NEO-INV-0021\npersonaggio_id: NEO-PER-0003\ntradimento_tech: Il doppio fondo non nasconde monete ma ritagli di pergamena, che Baraka fa circolare fuori da Calvenna senza passare dai copisti.\nprod: false",
+"manifest": {
+"caricato_il": null,
+"creato": "2026-09-15",
+"id": "MED-34916202240-2",
+"note": "oggetto: Borsa di Cuoio a Doppio Fondo; gancio: Un pellegrino l'ha aperta per errore davanti a un chierico, e ora Baraka aspetta che qualcuno bussi alla sua porta.; tradimento_tech: Il doppio fondo non nasconde monete ma ritagli di pergamena, che Baraka fa circolare fuori da Calvenna senza passare dai copisti.; sref non fissato",
+"parametri": {
+"ar": "4:3",
+"atomi": [],
+"cref": null,
+"sref": null
+},
+"prompt": "Reliquary panel: a technological object shown as a venerated relic in a painted shrine, wrapped in cloth or under a glass case on a cushion, gold-leaf ground, flat tempera colours, compartments like a polyptych, label with illegible product code. Subject: Borsa di Cuoio a Doppio Fondo — Bisaccia da viaggio in cuoio conciato, con un doppio fondo cucito così bene da sembrare un solo strato. — carried by I pellegrini diretti a Vasperdine la comprano da Baraka per portare offerte e quote senza distinguerle.. Fondo oro in foglia, lapislazzuli, rosso lacca, verde malachite, bianco di piombo per gli incarnati. Miniatura da codice o pala d'altare a fondo oro: prospettiva piatta o rovesciata, dimensione delle figure per gerarchia e non per distanza, aureole e cornici architettoniche dipinte, craquelure leggera. --ar 4:3 --no photographic realism, naturalistic light, fantasy armour, dragons, taverns, steampunk gears, pseudo-latin lettering, blurred faces, 3D render, illegible lettering, watermark",
+"sha256": null,
+"sorgente": {
+"ref": "NEO-GAD-0038",
+"tipo": "riga"
+},
+"stato": "proposto",
+"strumento": "midjourney",
+"tipo": "tavola",
+"universo": "neofeudal",
+"url": null
+},
+"strumento": "midjourney",
+"tipo": "tavola"
+},
+"postata_da": "media-random",
+"presa_da": "illustratore",
+"presa_il": "2026-09-15T20:38:11Z",
+"priorita": 3,
+"racconto": null,
+"righe": [
+"NEO-GAD-0038"
+],
+"scade": "2026-09-16T02:38:11Z",
+"stato": "presa",
+"storia": [
+{
+"agente": "media-random",
+"da": "media-random",
+"quando": "2026-09-15T01:10:42Z",
+"stato": "aperta"
+},
+{
+"agente": "illustratore",
+"da": "illustratore",
+"quando": "2026-09-15T20:38:11Z",
+"stato": "presa"
+}
+],
+"tentativi": 1,
+"tipo": "media_tavola",
+"universi": [
+"neofeudal"
+]
+},
+{
+"chiusa_il": "2026-09-15T20:38:11Z",
+"creata": "2026-09-14T21:31:16Z",
+"esito": "media/MED-35020795849-1.yaml",
+"id": "BAC-843251-1",
+"payload": {},
+"postata_da": "enzo",
+"presa_da": "illustratore",
+"presa_il": "2026-09-15T20:38:00Z",
+"priorita": 1,
+"racconto": null,
+"righe": [
+"NEO-GAD-0042"
+],
+"scade": "2026-09-16T02:38:00Z",
+"stato": "chiusa",
+"storia": [
+{
+"agente": "enzo",
+"da": "enzo",
+"quando": "2026-09-14T21:31:16Z",
+"stato": "aperta"
+},
+{
+"agente": "illustratore",
+"da": "illustratore",
+"quando": "2026-09-15T20:38:00Z",
+"stato": "presa"
+},
+{
+"agente": "illustratore",
+"da": "illustratore",
+"quando": "2026-09-15T20:38:11Z",
+"stato": "chiusa"
+}
+],
+"tentativi": 1,
+"tipo": "media_tavola",
+"universi": [
+"neofeudal"
+]
+},
+{
 "chiusa_il": "2026-09-15T11:23:23Z",
 "creata": "2026-09-15T05:35:17Z",
 "esito": "configurazione: Alzare il tetto a un valore coerente col numero di lotti della revisione (es. 4) via variabile repo, poi rilanciare il workflow riparatore. Se il tetto è delibe (logs/guasto-BAC-34932665454-1.md)",
@@ -1257,6 +1554,86 @@
 }
 ],
 "tentativi": 0,
+"tipo": "riscrittura",
+"universi": [
+"elabverse"
+]
+},
+{
+"chiusa_il": "2026-09-15T21:43:37Z",
+"creata": "2026-09-15T21:42:43Z",
+"esito": "riscritte scene [5, 6] → stato bozza, giro 3, modello deepseek-flash, battute 15714→15690",
+"id": "BAC-35026647253-1",
+"payload": {
+"esito": "bocciato",
+"giro": 2,
+"punteggio": 70,
+"racconto": "2026-09-15-la-fascia-sicura",
+"scene_responsabili": [
+5,
+6
+],
+"violazioni": [
+{
+"id": "G-0004",
+"livello": "blocco",
+"motivo": "Il racconto stabilisce un fatto nuovo e irreversibile su una riga usata (ELA-GAD-0023: le perline che compitavano i valori dell'ultimo turno vengono distrutte e il filo accorciato) senza dichiararlo in coda tra i fatti nuovi come candidato a riga figlia.",
+"passo": "Sfilò il bracciale, sciolse il nodo e fece cadere nella calce bagnata del bordo basso le perline",
+"scena": 6
+},
+{
+"id": "G-0011",
+"livello": "penalita",
+"motivo": "Paragrafo interamente espositivo in voce narrante che spiega al lettore come funziona la tecnologia del quaderno, invece di farla dedurre dall'uso.",
+"passo": "Le pagine di cera dura tenevano l'impronta per settimane. Bastava premerci sopra lo stilo una volta",
+"peso": 3,
+"scena": 5
+}
+]
+},
+"postata_da": "giudizio",
+"presa_da": "redattore",
+"presa_il": "2026-09-15T21:43:15Z",
+"priorita": 3,
+"racconto": "2026-09-15-la-fascia-sicura",
+"righe": [
+"ELA-INV-0030",
+"ELA-PER-0012",
+"ELA-PER-0013",
+"ELA-PER-0014",
+"ELA-PER-0016",
+"ELA-PER-0019",
+"ELA-PER-0021",
+"ELA-GAD-0018",
+"ELA-GAD-0022",
+"ELA-GAD-0023",
+"ELA-GAD-0026",
+"ELA-REG-konya",
+"ELA-SEM-0002"
+],
+"scade": "2026-09-16T03:43:15Z",
+"stato": "chiusa",
+"storia": [
+{
+"agente": "giudizio",
+"da": "giudizio",
+"quando": "2026-09-15T21:42:43Z",
+"stato": "aperta"
+},
+{
+"agente": "redattore",
+"da": "redattore",
+"quando": "2026-09-15T21:43:15Z",
+"stato": "presa"
+},
+{
+"agente": "redattore",
+"da": "redattore",
+"quando": "2026-09-15T21:43:37Z",
+"stato": "chiusa"
+}
+],
+"tentativi": 1,
 "tipo": "riscrittura",
 "universi": [
 "elabverse"

@@ -4,11 +4,11 @@
 "NEO-REG-calvenna"
 ],
 "descrizione": "borgo chiuso; la bottega mutila e invecchia, i giovani non restano; Madre Iselda tiene registri segreti delle nascite",
-"ha_prosa": false,
+"ha_prosa": true,
 "n_ricorrenze": 102,
 "nome": "Calvenna",
 "prima_apparizione": 1,
-"prosa": null,
+"prosa": "A Calvenna il borgo resta chiuso, ma le sue righe recenti si sono riempite di conti che non tornano: Amani allinea caratteri su versetti mai letti, conta l'acqua invece dei versetti e nasconde un'ampolla che non le appartiene, mentre la chiave del chiusino, una notte, non entra più perché qualcuno l'ha cambiata. Il Notaio non osa rompere la perlina fusa tutta a sinistra, e al Secondo Rilancio non circola moneta ma solo la promessa di un favore da riscuotere quando la Diocesi guarderà altrove. Anche le quote del Bestiario, che Juma smette di contare per sé e segna per Furaha, sembrano opera di Nia più che del cielo: chi le scoprisse non saprebbe se punire o inginocchiarsi.",
 "racconti": [],
 "ricorrenze": [
 {

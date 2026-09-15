@@ -54,5 +54,71 @@
 "universo": "steamverse",
 "versione": 1,
 "versioni": []
+},
+{
+"carta_chiusa_il": null,
+"carta_id": "BAC-35026555608-1",
+"carta_stato": "aperta",
+"commento": null,
+"created": "2026-09-15",
+"errori_schema": [
+"affettivo: \"La sera prima della cerimonia dell'alba: è la sola ora in cui la famiglia sta ferma nello stesso posto, ed è anche la sera in cui le mettono in mano la cassa d"
+],
+"id": "HAC-PER-0023",
+"motivazione": "HAC-PER-0011 porta già gancio e contraddizione carichi: calendario di riti fisso contro turni d'attracco che non aspettano, e una cassa da sigillare all'alba. Il campo affettivo è però vuoto, e proprio su famiglia e culto poggia tutta la contraddizione: è lì che la scheda non regge ancora. Un'espansione figlia ancora quel vuoto a un rito preciso, senza toccare HAC-INV-0001 né riscrivere la riga madre. HAC-INV-0065 ha parent_id null perché è radice per schema: non le manca la madre.",
+"motivo_respinta": null,
+"postata_da": "redattore",
+"promossa_da": null,
+"promossa_il": null,
+"respinta_il": null,
+"riga": {
+"affettivo": "La sera prima della cerimonia dell'alba: è la sola ora in cui la famiglia sta ferma nello stesso posto, ed è anche la sera in cui le mettono in mano la cassa da benedire e sigillare.",
+"carta": "BAC-35026555608-1",
+"carta_id": "BAC-35026555608-1",
+"casta": "corrieri",
+"ceppo": "scandinavo",
+"cognome": "Lysen",
+"contraddizione": "È stata cresciuta come piccola funzionaria del culto del ciclo del ritorno, con un calendario di riti fisso che nessuno può spostare, ma la famiglia la sta \"costruendo\" come corriere per Goccia Cieca su turni di attracco che cambiano ogni notte e non aspettano nessun rito.",
+"created": "2026-09-15",
+"difetto": "indolente",
+"epoca_relativa": 0,
+"estrazione": 43,
+"eta_fascia": "bambino",
+"gancio": "La sera prima di una cerimonia fissa da generazioni le affidano una cassa da benedire e sigillare per l'alba, senza dirle che dentro non ci sono santini ma valvole con lo stesso protocollo dei perfusori: il rito che conosce e la consegna che nessuno le spiega le arrivano addosso nella stessa notte.",
+"id": "HAC-PER-0023",
+"invenzione_id": "HAC-INV-0001",
+"nome": "Thea",
+"origine": "approfondimento",
+"parent_id": "HAC-PER-0011",
+"rapporto": "costruita",
+"regione": "HAC-REG-rotterdam",
+"relazione": "espansione",
+"schema_version": 1,
+"segno": "bilancia",
+"spirituale": {
+"credenza": "ciclo del ritorno",
+"rapporto": "funzionario_del_culto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ironico",
+"universo": "hackverse"
+},
+"sommario": "La sera prima di una cerimonia fissa da generazioni le affidano una cassa da benedire e sigillare per l'alba, senza dirle che dentro non ci sono santini ma val…",
+"stato": "provvisoria",
+"storia": [
+{
+"autore": "redattore",
+"motivo": "artefatto della carta None",
+"quando": "2026-09-15T21:37:00Z",
+"sha": "fcd4d7681aa126ccb6bed0a0e85dca1e2f097c1f",
+"versione": 1
+}
+],
+"tipo": "personaggio",
+"titolo": "Thea Lysen",
+"universo": "hackverse",
+"versione": 1,
+"versioni": []
 }
 ]

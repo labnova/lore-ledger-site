@@ -4,7 +4,7 @@
 "NEO-REG-calvenna"
 ],
 "descrizione": "borgo chiuso; la bottega mutila e invecchia, i giovani non restano; Madre Iselda tiene registri segreti delle nascite",
-"ha_prosa": false,
+"ha_prosa": true,
 "nome": "Calvenna",
 "prima_apparizione": 1,
 "ricorrenze": 102,
@@ -49,7 +49,7 @@
 "ha_prosa": false,
 "nome": "Rostkirche",
 "prima_apparizione": 16,
-"ricorrenze": 34,
+"ricorrenze": 35,
 "slug": "rostkirche",
 "sopra_soglia": true,
 "tipo": "luogo",
