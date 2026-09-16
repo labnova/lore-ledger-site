@@ -95,122 +95,6 @@
 ]
 },
 {
-"alternative": [],
-"artefatti_prodotti": [
-"approfondimenti/2026-09-16-STE-INV-0010-riparatore.v2.md"
-],
-"artefatto_dettaglio": null,
-"chiusa_il": null,
-"creata": "2026-09-14T21:50:04Z",
-"esito": null,
-"id": "BAC-34900933278-1",
-"letto_a": null,
-"payload": {
-"arbitro": {
-"artefatti_prodotti": [
-"STE-INV-0027"
-],
-"letto_a": null,
-"obiezioni_valide": 0,
-"scartate": [
-{
-"agente": "editore",
-"auto_riferimento": [
-"STE-INV-0027"
-],
-"commento": "BAC-34900935322-2",
-"contraddizione_valida": false,
-"posizione": "obietto",
-"prove_valide": [],
-"scartata": "cita solo artefatti della carta (prodotti o ancora in proposte/righe/) o righe posteriori a letto_a"
-}
-],
-"valide": [
-{
-"agente": "redattore",
-"auto_riferimento": [
-"STE-INV-0027"
-],
-"commento": "BAC-34900935322-1",
-"contraddizione_valida": false,
-"posizione": "obietto",
-"prove_valide": [
-"STE-INV-0010"
-]
-},
-{
-"agente": "guardiano",
-"auto_riferimento": [],
-"commento": "BAC-34915383580-1",
-"contraddizione_valida": false,
-"posizione": "forma_diversa",
-"prove_valide": [
-"STE-INV-0001",
-"STE-INV-0002",
-"STE-INV-0011",
-"STE-INV-0012",
-"STE-INV-0013"
-]
-}
-]
-},
-"artefatti_prodotti": [
-"approfondimenti/2026-09-16-STE-INV-0010-riparatore.v2.md"
-],
-"artefatto": "approfondimenti/2026-09-16-STE-INV-0010-riparatore.v2.md",
-"candidati": [
-"STE-INV-0010",
-"STE-INV-0021",
-"HAC-PER-0011"
-],
-"commenti_visti": 3,
-"forma": "snippet",
-"lacuna": "nessuna figlia e regione non assegnata",
-"migrata": "riga STE-INV-0027 tornata provvisoria (era entrata nel ledger senza giudizio)",
-"motivazione": "Non creo di nuovo STE-INV-0027: esiste già come espansione di STE-INV-0010 con regione Aetheria e va verificato, non duplicato. Per STE-INV-0010 il vuoto da riparare è la regione: parent_id null su radice è relazione, non lacuna, e «nessuna figlia» è scelta di sviluppo. Propongo snippet che valorizzi la regione mancante, senza toccare il corpo della madre.",
-"motivazioni_precedenti": [
-{
-"motivazione": "STE-INV-0010 ha parent_id null, regione null e nessuna figlia a ledger: due vuoti e un'orfanità che posso riparare senza toccare la madre, che madre non ha. STE-INV-0021 è già espansione di STE-INV-0013: una figlia in più la sovraccarica, e il suo gancio chiede narrazione, non struttura. HAC-PER-0011 ha un solo campo vuoto, affettivo null, ed è già legata a HAC-INV-0001: poco lavoro per un restauratore. Il Fiume Secondo invece chiede una figlia che registri il tracciato e la piena alternata: la regione mancante è precisamente ciò che quella figlia può fissare. Propongo espansione, non tocco il corpo della madre.",
-"versione": 1
-}
-],
-"pronta_per_arbitro": "2026-09-16T03:17:41Z",
-"revisioni": 1,
-"scelto": "STE-INV-0010",
-"versione": 2
-},
-"postata_da": "riparatore",
-"presa_da": null,
-"presa_il": null,
-"priorita": 3,
-"racconto": null,
-"righe": [
-"STE-INV-0010"
-],
-"scade": null,
-"stato": "aperta",
-"storia": [
-{
-"agente": "riparatore",
-"da": "riparatore",
-"quando": "2026-09-14T21:50:04Z",
-"stato": "aperta"
-},
-{
-"agente": "riparatore",
-"da": "riparatore",
-"motivo": "Regge STE-INV-0027: è già figlia espansione di STE-INV-0010 e ha regione Aetheria, quindi «nessuna figlia» e «regione non assegnata» sono false. Regge anche il guardiano: un'espansione non compila regione; per il solo vuoto di STE-INV-0010 la forma snippet è più economica.",
-"quando": "2026-09-16T00:58:54Z",
-"stato": "rivista"
-}
-],
-"tentativi": 0,
-"tipo": "approfondimento",
-"universi": [
-"steamverse"
-]
-},
-{
 "alternativa_dettaglio": null,
 "alternative": [],
 "auto_riferimento": false,
@@ -313,82 +197,6 @@
 "tipo": "commento",
 "universi": [
 "steamverse"
-]
-},
-{
-"alternative": [],
-"artefatti_prodotti": [
-"approfondimenti/2026-09-14-NEO-INV-0027-redattore.md"
-],
-"artefatto_dettaglio": null,
-"chiusa_il": null,
-"creata": "2026-09-14T23:15:53Z",
-"esito": null,
-"id": "BAC-34908018186-1",
-"letto_a": "4137401092b0012e67128ca227a889c998656df0",
-"payload": {
-"arbitro": {
-"artefatti_prodotti": [
-"approfondimenti/2026-09-14-NEO-INV-0027-redattore.md"
-],
-"letto_a": "4137401092b0012e67128ca227a889c998656df0",
-"obiezioni_valide": 0,
-"scartate": [],
-"valide": [
-{
-"agente": "editore",
-"auto_riferimento": [],
-"commento": "BAC-35027770871-2",
-"contraddizione_valida": false,
-"posizione": "accolgo",
-"prove_valide": [
-"NEO-INV-0001",
-"NEO-INV-0007",
-"NEO-INV-0010",
-"NEO-INV-0012"
-]
-}
-]
-},
-"artefatti_prodotti": [
-"approfondimenti/2026-09-14-NEO-INV-0027-redattore.md"
-],
-"artefatto": "approfondimenti/2026-09-14-NEO-INV-0027-redattore.md",
-"candidati": [
-"NEO-INV-0027",
-"STE-GAD-0009",
-"NEO-INV-0014"
-],
-"commenti_visti": 1,
-"forma": "snippet",
-"lacuna": "manca la regione dei dormitori popolari",
-"letto_a": "4137401092b0012e67128ca227a889c998656df0",
-"motivazione": "Su NEO-INV-0027 la regione è vuota, ed è l'unico dei tre a lasciare scoperto il dove della scena: NEO-INV-0014 dichiara Calvenna, STE-GAD-0009 dichiara Ledoskol e ha già portatore e tradimento_tech al completo. Il gancio però è il più forte del lotto: il fiato che si interrompe lo stesso giorno in cui muore l'ultima vacca della stalla madre, con il clero che copre l'origine. Tra le mie forme preferite scelgo lo snippet: un testo breve per canale lavora proprio sull'effetto del blackout e sul silenzio del clero, senza aggiungere impianti che la riga non regge. Non tocco il resto: le discipline reggono, la torsione è dichiarata, la mancanza di figlie è una scelta di sviluppo, non una lacuna.",
-"pronta_per_arbitro": "2026-09-16T03:17:41Z",
-"scelto": "NEO-INV-0027"
-},
-"postata_da": "redattore",
-"presa_da": null,
-"presa_il": null,
-"priorita": 3,
-"racconto": null,
-"righe": [
-"NEO-INV-0027"
-],
-"scade": null,
-"stato": "aperta",
-"storia": [
-{
-"agente": "redattore",
-"da": "redattore",
-"quando": "2026-09-14T23:15:53Z",
-"stato": "aperta"
-}
-],
-"tentativi": 0,
-"tipo": "approfondimento",
-"universi": [
-"neofeudal"
 ]
 },
 {
@@ -969,123 +777,6 @@
 ]
 },
 {
-"alternative": [
-{
-"agente": "guardiano",
-"commento": "BAC-35059438986-1",
-"forma": "snippet",
-"quando": "2026-09-16T05:35:47Z",
-"testo": "affettivo: orientamento: non_dichiarato situazione: legata_dalla_famiglia_che_la_costruisce — il vincolo affettivo di Thea è il contratto che la consegna insieme al culto e alla rotta di Goccia Cieca, non un personaggio nuovo."
-}
-],
-"artefatti_prodotti": [
-"HAC-PER-0023"
-],
-"artefatto_dettaglio": {
-"carta": "BAC-35026555608-1",
-"commento": null,
-"errori_schema": [
-"affettivo: \"La sera prima della cerimonia dell'alba: è la sola ora in cui la famiglia sta ferma nello stesso posto, ed è anche la sera in cui le mettono in mano la cassa d"
-],
-"id": "HAC-PER-0023",
-"motivazione": "HAC-PER-0011 porta già gancio e contraddizione carichi: calendario di riti fisso contro turni d'attracco che non aspettano, e una cassa da sigillare all'alba. Il campo affettivo è però vuoto, e proprio su famiglia e culto poggia tutta la contraddizione: è lì che la scheda non regge ancora. Un'espansione figlia ancora quel vuoto a un rito preciso, senza toccare HAC-INV-0001 né riscrivere la riga madre. HAC-INV-0065 ha parent_id null perché è radice per schema: non le manca la madre.",
-"promossa_da": null,
-"promossa_il": null,
-"respinta_il": null,
-"riga": {
-"affettivo": "La sera prima della cerimonia dell'alba: è la sola ora in cui la famiglia sta ferma nello stesso posto, ed è anche la sera in cui le mettono in mano la cassa da benedire e sigillare.",
-"carta_id": "BAC-35026555608-1",
-"casta": "corrieri",
-"ceppo": "scandinavo",
-"cognome": "Lysen",
-"contraddizione": "È stata cresciuta come piccola funzionaria del culto del ciclo del ritorno, con un calendario di riti fisso che nessuno può spostare, ma la famiglia la sta \"costruendo\" come corriere per Goccia Cieca su turni di attracco che cambiano ogni notte e non aspettano nessun rito.",
-"created": "2026-09-15",
-"difetto": "indolente",
-"epoca_relativa": 0,
-"estrazione": 43,
-"eta_fascia": "bambino",
-"gancio": "La sera prima di una cerimonia fissa da generazioni le affidano una cassa da benedire e sigillare per l'alba, senza dirle che dentro non ci sono santini ma valvole con lo stesso protocollo dei perfusori: il rito che conosce e la consegna che nessuno le spiega le arrivano addosso nella stessa notte.",
-"id": "HAC-PER-0023",
-"invenzione_id": "HAC-INV-0001",
-"nome": "Thea",
-"origine": "approfondimento",
-"parent_id": "HAC-PER-0011",
-"rapporto": "costruita",
-"regione": "HAC-REG-rotterdam",
-"relazione": "espansione",
-"schema_version": 1,
-"segno": "bilancia",
-"spirituale": {
-"credenza": "ciclo del ritorno",
-"rapporto": "funzionario_del_culto"
-},
-"status": "canon",
-"tipo": "personaggio",
-"tratto": "ironico",
-"universo": "hackverse"
-},
-"scartata_per": null,
-"stato": "provvisoria",
-"storia": [
-{
-"autore": "redattore",
-"motivo": "artefatto della carta None",
-"quando": "2026-09-15T21:37:00Z",
-"sha": "fcd4d7681aa126ccb6bed0a0e85dca1e2f097c1f",
-"versione": 1
-}
-],
-"versione": 1,
-"versioni": []
-},
-"chiusa_il": null,
-"creata": "2026-09-15T21:36:34Z",
-"esito": null,
-"id": "BAC-35026555608-1",
-"letto_a": "fcd4d7681aa126ccb6bed0a0e85dca1e2f097c1f",
-"payload": {
-"artefatti_prodotti": [
-"HAC-PER-0023"
-],
-"artefatto": "proposte/righe/HAC-PER-0023.yaml",
-"candidati": [
-"HAC-INV-0065",
-"HAC-PER-0011",
-"CYB-GAD-0009",
-"entita:elabverse/luogo/konya",
-"entita:elabverse/luogo/scafo-zero"
-],
-"forma": "espansione",
-"lacuna": "nessun legame affettivo dichiarato",
-"letto_a": "fcd4d7681aa126ccb6bed0a0e85dca1e2f097c1f",
-"motivazione": "HAC-PER-0011 porta già gancio e contraddizione carichi: calendario di riti fisso contro turni d'attracco che non aspettano, e una cassa da sigillare all'alba. Il campo affettivo è però vuoto, e proprio su famiglia e culto poggia tutta la contraddizione: è lì che la scheda non regge ancora. Un'espansione figlia ancora quel vuoto a un rito preciso, senza toccare HAC-INV-0001 né riscrivere la riga madre. HAC-INV-0065 ha parent_id null perché è radice per schema: non le manca la madre.",
-"scelto": "HAC-PER-0011"
-},
-"postata_da": "redattore",
-"presa_da": null,
-"presa_il": null,
-"priorita": 3,
-"racconto": null,
-"righe": [
-"HAC-PER-0011"
-],
-"scade": null,
-"stato": "aperta",
-"storia": [
-{
-"agente": "redattore",
-"da": "redattore",
-"quando": "2026-09-15T21:36:34Z",
-"stato": "aperta"
-}
-],
-"tentativi": 0,
-"tipo": "approfondimento",
-"universi": [
-"hackverse"
-]
-},
-{
 "alternative": [],
 "artefatti_prodotti": [
 "entita:neofeudal/luogo/calvenna"
@@ -1589,6 +1280,336 @@
 "tipo": "media_suono",
 "universi": [
 "elabverse"
+]
+},
+{
+"alternative": [],
+"artefatti_prodotti": [
+"approfondimenti/2026-09-16-STE-INV-0010-riparatore.v2.md"
+],
+"artefatto_dettaglio": null,
+"chiusa_il": null,
+"creata": "2026-09-14T21:50:04Z",
+"esito": null,
+"id": "BAC-34900933278-1",
+"letto_a": null,
+"payload": {
+"arbitro": {
+"artefatti_prodotti": [
+"STE-INV-0027"
+],
+"letto_a": null,
+"obiezioni_valide": 0,
+"scartate": [
+{
+"agente": "editore",
+"auto_riferimento": [
+"STE-INV-0027"
+],
+"commento": "BAC-34900935322-2",
+"contraddizione_valida": false,
+"posizione": "obietto",
+"prove_valide": [],
+"scartata": "cita solo artefatti della carta (prodotti o ancora in proposte/righe/) o righe posteriori a letto_a"
+}
+],
+"valide": [
+{
+"agente": "redattore",
+"auto_riferimento": [
+"STE-INV-0027"
+],
+"commento": "BAC-34900935322-1",
+"contraddizione_valida": false,
+"posizione": "obietto",
+"prove_valide": [
+"STE-INV-0010"
+]
+},
+{
+"agente": "guardiano",
+"auto_riferimento": [],
+"commento": "BAC-34915383580-1",
+"contraddizione_valida": false,
+"posizione": "forma_diversa",
+"prove_valide": [
+"STE-INV-0001",
+"STE-INV-0002",
+"STE-INV-0011",
+"STE-INV-0012",
+"STE-INV-0013"
+]
+}
+]
+},
+"artefatti_prodotti": [
+"approfondimenti/2026-09-16-STE-INV-0010-riparatore.v2.md"
+],
+"artefatto": "approfondimenti/2026-09-16-STE-INV-0010-riparatore.v2.md",
+"candidati": [
+"STE-INV-0010",
+"STE-INV-0021",
+"HAC-PER-0011"
+],
+"commenti_visti": 3,
+"forma": "snippet",
+"lacuna": "nessuna figlia e regione non assegnata",
+"migrata": "riga STE-INV-0027 tornata provvisoria (era entrata nel ledger senza giudizio)",
+"motivazione": "Non creo di nuovo STE-INV-0027: esiste già come espansione di STE-INV-0010 con regione Aetheria e va verificato, non duplicato. Per STE-INV-0010 il vuoto da riparare è la regione: parent_id null su radice è relazione, non lacuna, e «nessuna figlia» è scelta di sviluppo. Propongo snippet che valorizzi la regione mancante, senza toccare il corpo della madre.",
+"motivazioni_precedenti": [
+{
+"motivazione": "STE-INV-0010 ha parent_id null, regione null e nessuna figlia a ledger: due vuoti e un'orfanità che posso riparare senza toccare la madre, che madre non ha. STE-INV-0021 è già espansione di STE-INV-0013: una figlia in più la sovraccarica, e il suo gancio chiede narrazione, non struttura. HAC-PER-0011 ha un solo campo vuoto, affettivo null, ed è già legata a HAC-INV-0001: poco lavoro per un restauratore. Il Fiume Secondo invece chiede una figlia che registri il tracciato e la piena alternata: la regione mancante è precisamente ciò che quella figlia può fissare. Propongo espansione, non tocco il corpo della madre.",
+"versione": 1
+}
+],
+"pronta_per_arbitro": "2026-09-16T03:17:41Z",
+"revisioni": 1,
+"scelto": "STE-INV-0010",
+"versione": 2
+},
+"postata_da": "riparatore",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"STE-INV-0010"
+],
+"scade": null,
+"stato": "attesa_arbitro",
+"storia": [
+{
+"agente": "riparatore",
+"da": "riparatore",
+"quando": "2026-09-14T21:50:04Z",
+"stato": "aperta"
+},
+{
+"agente": "riparatore",
+"da": "riparatore",
+"motivo": "Regge STE-INV-0027: è già figlia espansione di STE-INV-0010 e ha regione Aetheria, quindi «nessuna figlia» e «regione non assegnata» sono false. Regge anche il guardiano: un'espansione non compila regione; per il solo vuoto di STE-INV-0010 la forma snippet è più economica.",
+"quando": "2026-09-16T00:58:54Z",
+"stato": "rivista"
+},
+{
+"agente": "igiene",
+"da": "igiene",
+"motivo": "migrazione: la carta ha gia commenti, decide l'arbitro",
+"quando": "2026-09-16T10:27:48Z",
+"stato": "attesa_arbitro"
+}
+],
+"tentativi": 0,
+"tipo": "approfondimento",
+"universi": [
+"steamverse"
+]
+},
+{
+"alternative": [],
+"artefatti_prodotti": [
+"approfondimenti/2026-09-14-NEO-INV-0027-redattore.md"
+],
+"artefatto_dettaglio": null,
+"chiusa_il": null,
+"creata": "2026-09-14T23:15:53Z",
+"esito": null,
+"id": "BAC-34908018186-1",
+"letto_a": "4137401092b0012e67128ca227a889c998656df0",
+"payload": {
+"arbitro": {
+"artefatti_prodotti": [
+"approfondimenti/2026-09-14-NEO-INV-0027-redattore.md"
+],
+"letto_a": "4137401092b0012e67128ca227a889c998656df0",
+"obiezioni_valide": 0,
+"scartate": [],
+"valide": [
+{
+"agente": "editore",
+"auto_riferimento": [],
+"commento": "BAC-35027770871-2",
+"contraddizione_valida": false,
+"posizione": "accolgo",
+"prove_valide": [
+"NEO-INV-0001",
+"NEO-INV-0007",
+"NEO-INV-0010",
+"NEO-INV-0012"
+]
+}
+]
+},
+"artefatti_prodotti": [
+"approfondimenti/2026-09-14-NEO-INV-0027-redattore.md"
+],
+"artefatto": "approfondimenti/2026-09-14-NEO-INV-0027-redattore.md",
+"candidati": [
+"NEO-INV-0027",
+"STE-GAD-0009",
+"NEO-INV-0014"
+],
+"commenti_visti": 1,
+"forma": "snippet",
+"lacuna": "manca la regione dei dormitori popolari",
+"letto_a": "4137401092b0012e67128ca227a889c998656df0",
+"motivazione": "Su NEO-INV-0027 la regione è vuota, ed è l'unico dei tre a lasciare scoperto il dove della scena: NEO-INV-0014 dichiara Calvenna, STE-GAD-0009 dichiara Ledoskol e ha già portatore e tradimento_tech al completo. Il gancio però è il più forte del lotto: il fiato che si interrompe lo stesso giorno in cui muore l'ultima vacca della stalla madre, con il clero che copre l'origine. Tra le mie forme preferite scelgo lo snippet: un testo breve per canale lavora proprio sull'effetto del blackout e sul silenzio del clero, senza aggiungere impianti che la riga non regge. Non tocco il resto: le discipline reggono, la torsione è dichiarata, la mancanza di figlie è una scelta di sviluppo, non una lacuna.",
+"pronta_per_arbitro": "2026-09-16T03:17:41Z",
+"scelto": "NEO-INV-0027"
+},
+"postata_da": "redattore",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"NEO-INV-0027"
+],
+"scade": null,
+"stato": "attesa_arbitro",
+"storia": [
+{
+"agente": "redattore",
+"da": "redattore",
+"quando": "2026-09-14T23:15:53Z",
+"stato": "aperta"
+},
+{
+"agente": "igiene",
+"da": "igiene",
+"motivo": "migrazione: la carta ha gia commenti, decide l'arbitro",
+"quando": "2026-09-16T10:27:48Z",
+"stato": "attesa_arbitro"
+}
+],
+"tentativi": 0,
+"tipo": "approfondimento",
+"universi": [
+"neofeudal"
+]
+},
+{
+"alternative": [
+{
+"agente": "guardiano",
+"commento": "BAC-35059438986-1",
+"forma": "snippet",
+"quando": "2026-09-16T05:35:47Z",
+"testo": "affettivo: orientamento: non_dichiarato situazione: legata_dalla_famiglia_che_la_costruisce — il vincolo affettivo di Thea è il contratto che la consegna insieme al culto e alla rotta di Goccia Cieca, non un personaggio nuovo."
+}
+],
+"artefatti_prodotti": [
+"HAC-PER-0023"
+],
+"artefatto_dettaglio": {
+"carta": "BAC-35026555608-1",
+"commento": null,
+"errori_schema": [
+"affettivo: \"La sera prima della cerimonia dell'alba: è la sola ora in cui la famiglia sta ferma nello stesso posto, ed è anche la sera in cui le mettono in mano la cassa d"
+],
+"id": "HAC-PER-0023",
+"motivazione": "HAC-PER-0011 porta già gancio e contraddizione carichi: calendario di riti fisso contro turni d'attracco che non aspettano, e una cassa da sigillare all'alba. Il campo affettivo è però vuoto, e proprio su famiglia e culto poggia tutta la contraddizione: è lì che la scheda non regge ancora. Un'espansione figlia ancora quel vuoto a un rito preciso, senza toccare HAC-INV-0001 né riscrivere la riga madre. HAC-INV-0065 ha parent_id null perché è radice per schema: non le manca la madre.",
+"promossa_da": null,
+"promossa_il": null,
+"respinta_il": null,
+"riga": {
+"affettivo": "La sera prima della cerimonia dell'alba: è la sola ora in cui la famiglia sta ferma nello stesso posto, ed è anche la sera in cui le mettono in mano la cassa da benedire e sigillare.",
+"carta_id": "BAC-35026555608-1",
+"casta": "corrieri",
+"ceppo": "scandinavo",
+"cognome": "Lysen",
+"contraddizione": "È stata cresciuta come piccola funzionaria del culto del ciclo del ritorno, con un calendario di riti fisso che nessuno può spostare, ma la famiglia la sta \"costruendo\" come corriere per Goccia Cieca su turni di attracco che cambiano ogni notte e non aspettano nessun rito.",
+"created": "2026-09-15",
+"difetto": "indolente",
+"epoca_relativa": 0,
+"estrazione": 43,
+"eta_fascia": "bambino",
+"gancio": "La sera prima di una cerimonia fissa da generazioni le affidano una cassa da benedire e sigillare per l'alba, senza dirle che dentro non ci sono santini ma valvole con lo stesso protocollo dei perfusori: il rito che conosce e la consegna che nessuno le spiega le arrivano addosso nella stessa notte.",
+"id": "HAC-PER-0023",
+"invenzione_id": "HAC-INV-0001",
+"nome": "Thea",
+"origine": "approfondimento",
+"parent_id": "HAC-PER-0011",
+"rapporto": "costruita",
+"regione": "HAC-REG-rotterdam",
+"relazione": "espansione",
+"schema_version": 1,
+"segno": "bilancia",
+"spirituale": {
+"credenza": "ciclo del ritorno",
+"rapporto": "funzionario_del_culto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ironico",
+"universo": "hackverse"
+},
+"scartata_per": null,
+"stato": "provvisoria",
+"storia": [
+{
+"autore": "redattore",
+"motivo": "artefatto della carta None",
+"quando": "2026-09-15T21:37:00Z",
+"sha": "fcd4d7681aa126ccb6bed0a0e85dca1e2f097c1f",
+"versione": 1
+}
+],
+"versione": 1,
+"versioni": []
+},
+"chiusa_il": null,
+"creata": "2026-09-15T21:36:34Z",
+"esito": null,
+"id": "BAC-35026555608-1",
+"letto_a": "fcd4d7681aa126ccb6bed0a0e85dca1e2f097c1f",
+"payload": {
+"artefatti_prodotti": [
+"HAC-PER-0023"
+],
+"artefatto": "proposte/righe/HAC-PER-0023.yaml",
+"candidati": [
+"HAC-INV-0065",
+"HAC-PER-0011",
+"CYB-GAD-0009",
+"entita:elabverse/luogo/konya",
+"entita:elabverse/luogo/scafo-zero"
+],
+"forma": "espansione",
+"lacuna": "nessun legame affettivo dichiarato",
+"letto_a": "fcd4d7681aa126ccb6bed0a0e85dca1e2f097c1f",
+"motivazione": "HAC-PER-0011 porta già gancio e contraddizione carichi: calendario di riti fisso contro turni d'attracco che non aspettano, e una cassa da sigillare all'alba. Il campo affettivo è però vuoto, e proprio su famiglia e culto poggia tutta la contraddizione: è lì che la scheda non regge ancora. Un'espansione figlia ancora quel vuoto a un rito preciso, senza toccare HAC-INV-0001 né riscrivere la riga madre. HAC-INV-0065 ha parent_id null perché è radice per schema: non le manca la madre.",
+"scelto": "HAC-PER-0011"
+},
+"postata_da": "redattore",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"HAC-PER-0011"
+],
+"scade": null,
+"stato": "attesa_arbitro",
+"storia": [
+{
+"agente": "redattore",
+"da": "redattore",
+"quando": "2026-09-15T21:36:34Z",
+"stato": "aperta"
+},
+{
+"agente": "igiene",
+"da": "igiene",
+"motivo": "migrazione: la carta ha gia commenti, decide l'arbitro",
+"quando": "2026-09-16T10:27:48Z",
+"stato": "attesa_arbitro"
+}
+],
+"tentativi": 0,
+"tipo": "approfondimento",
+"universi": [
+"hackverse"
 ]
 },
 {
