@@ -1,0 +1,19 @@
+{
+"branch": "main",
+"cluster": "ELA-INV-0030",
+"created": "2026-09-15",
+"id": "ELA-FAT-35034876036-5",
+"momento": 5,
+"reversibile": true,
+"schema_version": 1,
+"soggetti": [
+"ELA-PER-0012",
+"ELA-PER-0014"
+],
+"stabilito_da": "2026-09-15-la-fascia-sicura",
+"status": "canon",
+"testo": "Tolga Fırıncı ha consegnato a Hasan Akderier una scheggia di intonaco della fascia vecchia che porta impressi gli stessi tre valori del turno precedente, e Hasan se l'è messa in tasca.",
+"tipo": "fatto",
+"tipo_fatto": "evento",
+"universo": "elabverse"
+}

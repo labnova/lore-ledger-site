@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-16",
+"discipline": [
+"agricoltura/irrigazione",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 74,
+"fatti": [],
+"gancio": "Un ispettore confronta le curve di temperatura del granaio con quelle dell'ospedale e trova la stessa identica calligrafia sui due registri, firmati da persone diverse.",
+"id": "HAC-INV-0070",
+"media": [],
+"nome": "Il Quaderno del Freddo Prestato",
+"nome_reale": "Registro di temperatura dei congelatori a norma per organi da trapianto",
+"parent_id": "HAC-INV-0009",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il registro cartaceo che i granai usano per certificare la costanza del freddo sui semi viene falsificato da un tecnico ospedaliero per far risultare \"a norma\" un congelatore prestato che in realtà ha avuto due ore di blackout.",
+"universo": "hackverse"
+}

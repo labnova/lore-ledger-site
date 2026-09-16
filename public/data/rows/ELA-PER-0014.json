@@ -1,6 +1,8 @@
 {
 "affettivo": null,
-"appare_in": [],
+"appare_in": [
+"2026-09-15-la-fascia-sicura"
+],
 "casta": "navigatori",
 "ceppo": "turco",
 "cognome": "Fırıncı",
@@ -10,7 +12,22 @@
 "epoca_relativa": 0,
 "estrazione": 37,
 "eta_fascia": "bambino",
-"fatti": [],
+"fatti": [
+{
+"id": "ELA-FAT-35034876036-4",
+"momento": 4,
+"stabilito_da": "2026-09-15-la-fascia-sicura",
+"testo": "Una crepa larga quanto uno spago attraversa la fascia bianca nel corridoio di ronda, dietro la costola metallica; Leyla Kayatemaz non l'ha segnalata per cinque settimane e Tolga Fırıncı l'ha vista con lei.",
+"tipo_fatto": "stato"
+},
+{
+"id": "ELA-FAT-35034876036-5",
+"momento": 5,
+"stabilito_da": "2026-09-15-la-fascia-sicura",
+"testo": "Tolga Fırıncı ha consegnato a Hasan Akderier una scheggia di intonaco della fascia vecchia che porta impressi gli stessi tre valori del turno precedente, e Hasan se l'è messa in tasca.",
+"tipo_fatto": "evento"
+}
+],
 "gancio": "Sotto il suo materasso tiene tre schegge di intonaco bianco che giura di non ricordare da dove vengano.",
 "id": "ELA-PER-0014",
 "invenzione_id": "ELA-INV-0030",

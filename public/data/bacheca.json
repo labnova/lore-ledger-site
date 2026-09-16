@@ -1,6 +1,53 @@
 [
 {
 "chiusa_il": null,
+"creata": "2026-09-15T23:21:24Z",
+"esito": null,
+"id": "BAC-35034876036-1",
+"payload": {
+"cluster": "ELA-INV-0030",
+"racconto": "2026-09-15-la-fascia-sicura",
+"regione": "Konya",
+"titolo": "La Fascia Sicura"
+},
+"postata_da": "giudizio",
+"presa_da": null,
+"presa_il": null,
+"priorita": 1,
+"racconto": "2026-09-15-la-fascia-sicura",
+"righe": [
+"ELA-INV-0030",
+"ELA-PER-0012",
+"ELA-PER-0013",
+"ELA-PER-0014",
+"ELA-PER-0016",
+"ELA-PER-0019",
+"ELA-PER-0021",
+"ELA-GAD-0018",
+"ELA-GAD-0022",
+"ELA-GAD-0023",
+"ELA-GAD-0026",
+"ELA-REG-konya",
+"ELA-SEM-0002"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "giudizio",
+"da": "giudizio",
+"quando": "2026-09-15T23:21:24Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_copertina",
+"universi": [
+"elabverse"
+]
+},
+{
+"chiusa_il": null,
 "creata": "2026-09-15T17:21:28Z",
 "esito": null,
 "esito_tipo": null,
@@ -83,6 +130,136 @@
 "agente": "lotto",
 "da": "lotto",
 "quando": "2026-09-15T22:06:44Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "guasto",
+"universi": [],
+"verifica": null
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-15T22:54:47Z",
+"esito": null,
+"esito_tipo": null,
+"firma": null,
+"id": "BAC-35027292415-1",
+"nota": null,
+"occorrenze": 1,
+"payload": {
+"errore": "gh workflow run giudizio fallito",
+"run_id": "35027292415",
+"step": "rilancia",
+"workflow": "retry"
+},
+"postata_da": "retry",
+"presa_da": null,
+"presa_il": null,
+"priorita": 2,
+"racconto": null,
+"righe": [
+"retry#35027292415"
+],
+"run_coinvolti": [
+"35027292415"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "retry",
+"da": "retry",
+"quando": "2026-09-15T22:54:47Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "guasto",
+"universi": [],
+"verifica": null
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-15T23:21:24Z",
+"esito": null,
+"id": "BAC-35034876036-3",
+"payload": {
+"cluster": "ELA-INV-0030",
+"punteggio": 70,
+"racconto": "2026-09-15-la-fascia-sicura",
+"regione": "Konya",
+"titolo": "La Fascia Sicura"
+},
+"postata_da": "giudizio",
+"presa_da": null,
+"presa_il": null,
+"priorita": 2,
+"racconto": "2026-09-15-la-fascia-sicura",
+"righe": [
+"ELA-INV-0030",
+"ELA-PER-0012",
+"ELA-PER-0013",
+"ELA-PER-0014",
+"ELA-PER-0016",
+"ELA-PER-0019",
+"ELA-PER-0021",
+"ELA-GAD-0018",
+"ELA-GAD-0022",
+"ELA-GAD-0023",
+"ELA-GAD-0026",
+"ELA-REG-konya",
+"ELA-SEM-0002"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "giudizio",
+"da": "giudizio",
+"quando": "2026-09-15T23:21:24Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "pubblicazione",
+"universi": [
+"elabverse"
+]
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-15T23:21:48Z",
+"esito": null,
+"esito_tipo": null,
+"firma": null,
+"id": "BAC-35029266790-1",
+"nota": null,
+"occorrenze": 1,
+"payload": {
+"errore": "gh workflow run lotto fallito",
+"run_id": "35029266790",
+"step": "rilancia",
+"workflow": "retry"
+},
+"postata_da": "retry",
+"presa_da": null,
+"presa_il": null,
+"priorita": 2,
+"racconto": null,
+"righe": [
+"retry#35029266790"
+],
+"run_coinvolti": [
+"35029266790"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "retry",
+"da": "retry",
+"quando": "2026-09-15T23:21:48Z",
 "stato": "aperta"
 }
 ],
@@ -300,6 +477,29 @@
 "id": "BAC-34908018186-1",
 "letto_a": "4137401092b0012e67128ca227a889c998656df0",
 "payload": {
+"arbitro": {
+"artefatti_prodotti": [
+"approfondimenti/2026-09-14-NEO-INV-0027-redattore.md"
+],
+"letto_a": "4137401092b0012e67128ca227a889c998656df0",
+"obiezioni_valide": 0,
+"scartate": [],
+"valide": [
+{
+"agente": "editore",
+"auto_riferimento": [],
+"commento": "BAC-35027770871-2",
+"contraddizione_valida": false,
+"posizione": "accolgo",
+"prove_valide": [
+"NEO-INV-0001",
+"NEO-INV-0007",
+"NEO-INV-0010",
+"NEO-INV-0012"
+]
+}
+]
+},
 "artefatti_prodotti": [
 "approfondimenti/2026-09-14-NEO-INV-0027-redattore.md"
 ],
@@ -309,6 +509,7 @@
 "STE-GAD-0009",
 "NEO-INV-0014"
 ],
+"commenti_visti": 1,
 "forma": "snippet",
 "lacuna": "manca la regione dei dormitori popolari",
 "letto_a": "4137401092b0012e67128ca227a889c998656df0",
@@ -1070,6 +1271,53 @@
 "tipo": "commento",
 "universi": [
 "neofeudal"
+]
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-15T23:21:24Z",
+"esito": null,
+"id": "BAC-35034876036-2",
+"payload": {
+"cluster": "ELA-INV-0030",
+"racconto": "2026-09-15-la-fascia-sicura",
+"regione": "Konya",
+"titolo": "La Fascia Sicura"
+},
+"postata_da": "giudizio",
+"presa_da": null,
+"presa_il": null,
+"priorita": 4,
+"racconto": "2026-09-15-la-fascia-sicura",
+"righe": [
+"ELA-INV-0030",
+"ELA-PER-0012",
+"ELA-PER-0013",
+"ELA-PER-0014",
+"ELA-PER-0016",
+"ELA-PER-0019",
+"ELA-PER-0021",
+"ELA-GAD-0018",
+"ELA-GAD-0022",
+"ELA-GAD-0023",
+"ELA-GAD-0026",
+"ELA-REG-konya",
+"ELA-SEM-0002"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "giudizio",
+"da": "giudizio",
+"quando": "2026-09-15T23:21:24Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_suono",
+"universi": [
+"elabverse"
 ]
 },
 {

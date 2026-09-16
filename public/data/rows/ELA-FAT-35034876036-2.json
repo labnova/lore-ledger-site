@@ -1,0 +1,18 @@
+{
+"branch": "main",
+"cluster": "ELA-INV-0030",
+"created": "2026-09-15",
+"id": "ELA-FAT-35034876036-2",
+"momento": 2,
+"reversibile": true,
+"schema_version": 1,
+"soggetti": [
+"ELA-PER-0013"
+],
+"stabilito_da": "2026-09-15-la-fascia-sicura",
+"status": "canon",
+"testo": "Ömer Taşlıriçı ha puntellato in silenzio con otto puntelli corti il tratto di parete compreso tra la dodicesima e la quindicesima asse, che la sua intelaiatura non regge.",
+"tipo": "fatto",
+"tipo_fatto": "stato",
+"universo": "elabverse"
+}

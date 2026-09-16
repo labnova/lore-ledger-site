@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "separato"
+},
+"appare_in": [],
+"casta": "analisti",
+"ceppo": "basco",
+"cognome": "Olalaaga",
+"contraddizione": "Come funzionario del culto dei registri e analista vigile per mestiere, dovrebbe restare concentrato ore sui fotogrammi in sequenza di Rilascio Lento, ma si lascia distrarre dal cibo consegnato in ufficio al punto da saltare due fotogrammi su dieci, proprio quelli in cui il colore cambia.",
+"created": "2026-09-16",
+"difetto": "goloso",
+"epoca_relativa": 0,
+"estrazione": 74,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Il giorno in cui il turno gli porta pasticcini appena sfornati, Julen firma un rapporto che dichiara \"nessuna variazione rilevata\" su un archivio che in realtà la mostra chiaramente.",
+"id": "HAC-PER-0031",
+"invenzione_id": "HAC-INV-0037",
+"media": [],
+"nome": "Julen",
+"parent_id": null,
+"rapporto": "usa",
+"regione": "HAC-REG-tallinn",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "ariete",
+"spirituale": {
+"credenza": "le stelle come registro",
+"rapporto": "funzionario_del_culto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "vigile",
+"universo": "hackverse"
+}

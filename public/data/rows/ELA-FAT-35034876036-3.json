@@ -1,0 +1,18 @@
+{
+"branch": "main",
+"cluster": "ELA-INV-0030",
+"created": "2026-09-15",
+"id": "ELA-FAT-35034876036-3",
+"momento": 3,
+"reversibile": true,
+"schema_version": 1,
+"soggetti": [
+"ELA-PER-0013"
+],
+"stabilito_da": "2026-09-15-la-fascia-sicura",
+"status": "canon",
+"testo": "Il bordo vero della fascia attuale sta due dita e un quarto più in qua del bordo dipinto, e la misura è scritta su un foglio piegato che Ömer tiene nella tasca interna.",
+"tipo": "fatto",
+"tipo_fatto": "stato",
+"universo": "elabverse"
+}

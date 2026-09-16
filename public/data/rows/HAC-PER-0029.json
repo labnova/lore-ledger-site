@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "relazione_segreta"
+},
+"appare_in": [],
+"casta": "analisti",
+"ceppo": "turco",
+"cognome": "Sarcı",
+"contraddizione": "Studia con metodo statistico l'invecchiamento progressivo delle iridi tinte, ma prima di convalidare ogni report consulta un rituale personale legato ai numeri delle date di rilascio, e quando i due non coincidono riscrive silenziosamente i risultati per farli tornare.",
+"created": "2026-09-16",
+"difetto": "superstizioso",
+"epoca_relativa": 0,
+"estrazione": 74,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "In una relazione segreta con un funzionario del registro civile, scambia dati di Rilascio Lento contro favori, convinta che il giorno giusto per farlo le sia stato indicato dal calendario e non dal rischio.",
+"id": "HAC-PER-0029",
+"invenzione_id": "HAC-INV-0037",
+"media": [],
+"nome": "Hülya",
+"parent_id": null,
+"rapporto": "studia",
+"regione": "HAC-REG-tallinn",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "toro",
+"spirituale": {
+"credenza": "la voce nella rete",
+"rapporto": "eretico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "curioso",
+"universo": "hackverse"
+}

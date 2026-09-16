@@ -1,5 +1,46 @@
 [
 {
+"battute": 15690,
+"branch": "main",
+"cluster": "ELA-INV-0030",
+"copertina": null,
+"creato": "2026-09-15",
+"id": "2026-09-15-la-fascia-sicura",
+"media": [],
+"n_scene": 6,
+"numero": null,
+"personaggi": [
+"ELA-PER-0012",
+"ELA-PER-0013",
+"ELA-PER-0014",
+"ELA-PER-0016",
+"ELA-PER-0019",
+"ELA-PER-0021"
+],
+"regione": "Konya",
+"righe_usate": [
+"ELA-INV-0030",
+"ELA-PER-0012",
+"ELA-PER-0013",
+"ELA-PER-0014",
+"ELA-PER-0016",
+"ELA-PER-0019",
+"ELA-PER-0021",
+"ELA-GAD-0018",
+"ELA-GAD-0022",
+"ELA-GAD-0023",
+"ELA-GAD-0026",
+"ELA-REG-konya",
+"ELA-SEM-0002"
+],
+"sinossi": "A Konya il murale dice fin dove si può andare: si dipinge solo la fascia di cielo che si attraverserà in questa generazione, e il resto resta bianco. Hasan vuole il posto di primo cartografo e accetta di intonacare in anticipo la fascia successiva, senza sapere dove finisca davvero quella attuale. Chi ha costruito l'intelaiatura lo sa, chi fa la ronda ha visto una crepa, un bambino tiene sotto la calce vecchia una scheggia con dei numeri sopra.",
+"slug": "2026-09-15-la-fascia-sicura",
+"stato": "approvato",
+"testata": null,
+"titolo": "La Fascia Sicura",
+"universo": "elabverse"
+},
+{
 "battute": 21712,
 "branch": "main",
 "cluster": "CYB-INV-0015",

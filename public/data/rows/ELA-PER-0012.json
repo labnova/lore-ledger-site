@@ -3,7 +3,9 @@
 "orientamento": "pansessuale",
 "situazione": "relazione_segreta"
 },
-"appare_in": [],
+"appare_in": [
+"2026-09-15-la-fascia-sicura"
+],
 "casta": "navigatori",
 "ceppo": "turco",
 "cognome": "Akderier",
@@ -13,7 +15,29 @@
 "epoca_relativa": 0,
 "estrazione": 37,
 "eta_fascia": "maturo",
-"fatti": [],
+"fatti": [
+{
+"id": "ELA-FAT-35034876036-1",
+"momento": 1,
+"stabilito_da": "2026-09-15-la-fascia-sicura",
+"testo": "Hasan Akderier ha consegnato al tavolo delle carte i valori della fascia nuova ricopiandoli dall'impronta di cera del turno precedente e li ha registrati come lavoro del turno nuovo.",
+"tipo_fatto": "evento"
+},
+{
+"id": "ELA-FAT-35034876036-5",
+"momento": 5,
+"stabilito_da": "2026-09-15-la-fascia-sicura",
+"testo": "Tolga Fırıncı ha consegnato a Hasan Akderier una scheggia di intonaco della fascia vecchia che porta impressi gli stessi tre valori del turno precedente, e Hasan se l'è messa in tasca.",
+"tipo_fatto": "evento"
+},
+{
+"id": "ELA-FAT-35034876036-8",
+"momento": 8,
+"stabilito_da": "2026-09-15-la-fascia-sicura",
+"testo": "La fascia nuova è stata dichiarata sicura sulla tavola dei turni con la sigla di Hasan Akderier.",
+"tipo_fatto": "evento"
+}
+],
 "gancio": "Il capitano gli chiede di intonacare in anticipo la fascia successiva del murale, e Hasan non ha la minima idea di dove cominci davvero quella attuale.",
 "id": "ELA-PER-0012",
 "invenzione_id": "ELA-INV-0030",

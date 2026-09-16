@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "bisessuale",
+"situazione": "sposato"
+},
+"appare_in": [],
+"casta": "analisti",
+"ceppo": "germanico",
+"cognome": "Becker",
+"contraddizione": "Ha costruito il protocollo di verifica incrociata che dovrebbe restare freddo e ripetibile in ogni condizione, ma quando un turno di analisti più giovani ne mette in dubbio un passaggio esplode in aula al punto da far saltare la revisione tra pari che serve proprio a evitare errori come i suoi.",
+"created": "2026-09-16",
+"difetto": "collerico",
+"epoca_relativa": 0,
+"estrazione": 74,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "Durante la revisione settimanale rovescia un caffè sulla tastiera mentre urla che nessuno capisce il proprio strumento meglio di lui, e nessuno osa più controllarlo.",
+"id": "HAC-PER-0030",
+"invenzione_id": "HAC-INV-0037",
+"media": [],
+"nome": "Jürgen",
+"parent_id": null,
+"rapporto": "costruita",
+"regione": "HAC-REG-tallinn",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "bilancia",
+"spirituale": {
+"credenza": "nessun dio solo registri",
+"rapporto": "devoto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ospitale",
+"universo": "hackverse"
+}

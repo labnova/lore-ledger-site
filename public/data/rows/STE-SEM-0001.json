@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"cluster": "STE-INV-0001",
+"created": "2026-09-15",
+"epoca_relativa": 0,
+"estrazione": 73,
+"fatti": [],
+"id": "STE-SEM-0001",
+"media": [],
+"origine": "arricchimento",
+"ostacolo": "Layla Tahhan, che falsifica i manifesti di peso con la stessa meticolosità con cui trova crepe nei rivetti, si accorge che il peso della bara supplementare non torna con nulla di dichiarato, e pretende di gestire lei il traffico e i gettoni, minacciando di denunciare Bilal se si rifiuta.",
+"parent_id": null,
+"premessa": "Bilal Shalil vuole restare l'unico a conoscere per intero il disegno della camera refrigerante delle Barche Bianche, e usa il vano segreto che vi ha ricavato non solo per nascondere il proprio sigillo di paternità, ma per far viaggiare, non dichiarata, la bara di un notabile che vuole arrivare intatto al funerale, incassando gettoni-vapore che nessun cantiere può tracciare.",
+"regione": null,
+"relazione": null,
+"rottura": "Il sigillo che Bilal ribatte in ogni chiatta per difendere la propria paternità del disegno è proprio ciò che un ispettore trova nel vano della bara non registrata, e la prova pensata per proteggerlo lo incastra insieme a Layla nello stesso traffico.",
+"schema_version": 1,
+"status": "canon",
+"tipo": "seme",
+"tono": "ottone freddo, colpa sepolta sotto ghiaccio",
+"universi": [
+"steamverse"
+],
+"universo": "steamverse"
+}

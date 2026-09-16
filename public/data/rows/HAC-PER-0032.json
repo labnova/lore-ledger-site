@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "omosessuale",
+"situazione": "single"
+},
+"appare_in": [],
+"casta": "analisti",
+"ceppo": "swahili",
+"cognome": "Mvuvi",
+"contraddizione": "Teme Rilascio Lento al punto da evitare ogni contatto diretto con chi lo usa, eppure il suo tratto ospitale la spinge ad accogliere in casa propria, a Tallinn, chiunque bussi dicendo di essere un collega analista, senza mai verificarne per prima il volto contro l'archivio che lei stessa aiuta a curare.",
+"created": "2026-09-16",
+"difetto": "superstizioso",
+"epoca_relativa": 0,
+"estrazione": 74,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "Una sera apre la porta a un uomo che dice di lavorare nel suo stesso team, e le somiglianze con le foto segnaletiche di tre mesi prima le tornano in mente solo dopo che lui se n'è già andato.",
+"id": "HAC-PER-0032",
+"invenzione_id": "HAC-INV-0037",
+"media": [],
+"nome": "Bahati",
+"parent_id": null,
+"rapporto": "teme",
+"regione": "HAC-REG-tallinn",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "leone",
+"spirituale": {
+"credenza": "culto degli antenati",
+"rapporto": "apostata"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ospitale",
+"universo": "hackverse"
+}

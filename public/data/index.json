@@ -1,6 +1,225 @@
 [
 {
 "appare_in": [],
+"chiavi": "analisti · leone · ospitale · superstizioso",
+"created": "2026-09-16",
+"estrazione": 74,
+"gancio": "Una sera apre la porta a un uomo che dice di lavorare nel suo stesso team, e le somiglianze con le foto segnaletiche di tre mesi prima le tornano in mente solo dopo che lui se n'è già andato.",
+"id": "HAC-PER-0032",
+"parent_id": null,
+"regione": "HAC-REG-tallinn",
+"relazione": null,
+"sommario": "Una sera apre la porta a un uomo che dice di lavorare nel suo stesso team, e le somiglianze con le foto segnaletiche di tre mesi prima le tornano in mente solo…",
+"tipo": "personaggio",
+"titolo": "Bahati Mvuvi",
+"universo": "hackverse"
+},
+{
+"appare_in": [],
+"chiavi": "analisti · ariete · vigile · goloso",
+"created": "2026-09-16",
+"estrazione": 74,
+"gancio": "Il giorno in cui il turno gli porta pasticcini appena sfornati, Julen firma un rapporto che dichiara \"nessuna variazione rilevata\" su un archivio che in realtà la mostra chiaramente.",
+"id": "HAC-PER-0031",
+"parent_id": null,
+"regione": "HAC-REG-tallinn",
+"relazione": null,
+"sommario": "Il giorno in cui il turno gli porta pasticcini appena sfornati, Julen firma un rapporto che dichiara \"nessuna variazione rilevata\" su un archivio che in realtà…",
+"tipo": "personaggio",
+"titolo": "Julen Olalaaga",
+"universo": "hackverse"
+},
+{
+"appare_in": [],
+"chiavi": "analisti · bilancia · ospitale · collerico",
+"created": "2026-09-16",
+"estrazione": 74,
+"gancio": "Durante la revisione settimanale rovescia un caffè sulla tastiera mentre urla che nessuno capisce il proprio strumento meglio di lui, e nessuno osa più controllarlo.",
+"id": "HAC-PER-0030",
+"parent_id": null,
+"regione": "HAC-REG-tallinn",
+"relazione": null,
+"sommario": "Durante la revisione settimanale rovescia un caffè sulla tastiera mentre urla che nessuno capisce il proprio strumento meglio di lui, e nessuno osa più control…",
+"tipo": "personaggio",
+"titolo": "Jürgen Becker",
+"universo": "hackverse"
+},
+{
+"appare_in": [],
+"chiavi": "analisti · toro · curioso · superstizioso",
+"created": "2026-09-16",
+"estrazione": 74,
+"gancio": "In una relazione segreta con un funzionario del registro civile, scambia dati di Rilascio Lento contro favori, convinta che il giorno giusto per farlo le sia stato indicato dal calendario e non dal rischio.",
+"id": "HAC-PER-0029",
+"parent_id": null,
+"regione": "HAC-REG-tallinn",
+"relazione": null,
+"sommario": "In una relazione segreta con un funzionario del registro civile, scambia dati di Rilascio Lento contro favori, convinta che il giorno giusto per farlo le sia s…",
+"tipo": "personaggio",
+"titolo": "Hülya Sarcı",
+"universo": "hackverse"
+},
+{
+"appare_in": [],
+"chiavi": "analisti · cancro · inventivo · sordo_ai_consigli",
+"created": "2026-09-16",
+"estrazione": 74,
+"gancio": "Nadezhda carica online un nuovo ritratto ogni settimana, un grado di colore diverso dal precedente, convinta che nessuno tra gli adulti guardi mai con abbastanza attenzione due sue foto a sette giorni di distanza.",
+"id": "HAC-PER-0028",
+"parent_id": null,
+"regione": "HAC-REG-tallinn",
+"relazione": null,
+"sommario": "Nadezhda carica online un nuovo ritratto ogni settimana, un grado di colore diverso dal precedente, convinta che nessuno tra gli adulti guardi mai con abbastan…",
+"tipo": "personaggio",
+"titolo": "Nadezhda Tavasaczyk",
+"universo": "hackverse"
+},
+{
+"appare_in": [],
+"chiavi": "analisti · vergine · paziente · bugiardo",
+"created": "2026-09-16",
+"estrazione": 74,
+"gancio": "Un collega gli chiede da dove viene l'ultimo lotto di foto segnaletiche e Kenji risponde con una fonte che ha appena inventato sul momento, con la stessa calma paziente con cui analizza tutto il resto.",
+"id": "HAC-PER-0027",
+"parent_id": null,
+"regione": "HAC-REG-tallinn",
+"relazione": null,
+"sommario": "Un collega gli chiede da dove viene l'ultimo lotto di foto segnaletiche e Kenji risponde con una fonte che ha appena inventato sul momento, con la stessa calma…",
+"tipo": "personaggio",
+"titolo": "Kenji Hataya",
+"universo": "hackverse"
+},
+{
+"appare_in": [],
+"chiavi": "analisti · sagittario · diplomatico · servile",
+"created": "2026-09-16",
+"estrazione": 74,
+"gancio": "Presenta al comitato una diapositiva che dimostra l'invecchiamento artificiale delle iridi, ma la intitola \"anomalia da approfondire\" invece che \"frode confermata\".",
+"id": "HAC-PER-0026",
+"parent_id": null,
+"regione": "HAC-REG-tallinn",
+"relazione": null,
+"sommario": "Presenta al comitato una diapositiva che dimostra l'invecchiamento artificiale delle iridi, ma la intitola \"anomalia da approfondire\" invece che \"frode conferm…",
+"tipo": "personaggio",
+"titolo": "István Veváthy",
+"universo": "hackverse"
+},
+{
+"appare_in": [],
+"chiavi": "analisti · acquario · coraggioso · vanitoso",
+"created": "2026-09-16",
+"estrazione": 74,
+"gancio": "Il suo promesso per contratto scopre la firma nascosta nel codice e capisce, prima ancora dei colleghi, che Dmitri ha appena reso tracciabile ogni analista che ha usato quello strumento.",
+"id": "HAC-PER-0025",
+"parent_id": null,
+"regione": "HAC-REG-tallinn",
+"relazione": null,
+"sommario": "Il suo promesso per contratto scopre la firma nascosta nel codice e capisce, prima ancora dei colleghi, che Dmitri ha appena reso tracciabile ogni analista che…",
+"tipo": "personaggio",
+"titolo": "Dmitri Arrizabal",
+"universo": "hackverse"
+},
+{
+"appare_in": [],
+"chiavi": "analisti · capricorno · sognatore · smemorato",
+"created": "2026-09-16",
+"estrazione": 74,
+"gancio": "Una notte a Tallinn si accorge di aver già venduto lo stesso identikit tre mesi prima, sotto un nome diverso, e non ricorda a chi.",
+"id": "HAC-PER-0024",
+"parent_id": null,
+"regione": "HAC-REG-tallinn",
+"relazione": null,
+"sommario": "Una notte a Tallinn si accorge di aver già venduto lo stesso identikit tre mesi prima, sotto un nome diverso, e non ricorda a chi.",
+"tipo": "personaggio",
+"titolo": "Layla Rakabazi",
+"universo": "hackverse"
+},
+{
+"appare_in": [],
+"chiavi": "analisti · gemelli · ospitale · servile",
+"created": "2026-09-16",
+"estrazione": 74,
+"gancio": "Ragnhild nota per prima, in un archivio di foto segnaletiche, che gli occhi della stessa persona schiariscono di un grado ogni settimana, ma cancella la segnalazione dal suo turno prima che qualcuno le chieda di insistere.",
+"id": "HAC-PER-0023",
+"parent_id": null,
+"regione": "HAC-REG-tallinn",
+"relazione": null,
+"sommario": "Ragnhild nota per prima, in un archivio di foto segnaletiche, che gli occhi della stessa persona schiariscono di un grado ogni settimana, ma cancella la segnal…",
+"tipo": "personaggio",
+"titolo": "Ragnhild Kvivik",
+"universo": "hackverse"
+},
+{
+"appare_in": [],
+"chiavi": "agricoltura/irrigazione × chirurgia/trapiantologia",
+"created": "2026-09-16",
+"estrazione": 74,
+"gancio": "Un parente disperato scopre che il conto in cima alla lista è cambiato tre volte nella stessa notte, sempre dopo un bonifico.",
+"id": "HAC-INV-0072",
+"parent_id": "HAC-INV-0002",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"sommario": "Un parente disperato scopre che il conto in cima alla lista è cambiato tre volte nella stessa notte, sempre dopo un bonifico.",
+"tipo": "invenzione",
+"titolo": "La Lista Che Si Riordina Da Sola",
+"torsione": "L'algoritmo che riordina in tempo reale la lista trapianti secondo compatibilità immunologica viene manomesso perché ogni volta che un nome sale in cima, un pagamento tracciabile è appena arrivato su un conto collegato al reparto.",
+"universo": "hackverse"
+},
+{
+"appare_in": [],
+"chiavi": "sanita_pubblica/quarantena × musica/canto",
+"created": "2026-09-16",
+"estrazione": 74,
+"gancio": "Un revisore del sistema nota che una sola persona non ha mai ricevuto una multa in due anni di sorveglianza acustica continua.",
+"id": "HAC-INV-0071",
+"parent_id": "HAC-INV-0058",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"sommario": "Un revisore del sistema nota che una sola persona non ha mai ricevuto una multa in due anni di sorveglianza acustica continua.",
+"tipo": "invenzione",
+"titolo": "L'Orecchio Che Assolve",
+"torsione": "Il filtro che dovrebbe distinguere un coro da un semplice vociare per evitare multe ingiuste viene addestrato da un tecnico corrotto a riconoscere e assolvere sempre la stessa voce, quella di chi paga per non essere mai multato nella zona rossa.",
+"universo": "hackverse"
+},
+{
+"appare_in": [],
+"chiavi": "agricoltura/irrigazione × chirurgia/trapiantologia",
+"created": "2026-09-16",
+"estrazione": 74,
+"gancio": "Un ispettore confronta le curve di temperatura del granaio con quelle dell'ospedale e trova la stessa identica calligrafia sui due registri, firmati da persone diverse.",
+"id": "HAC-INV-0070",
+"parent_id": "HAC-INV-0009",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"sommario": "Un ispettore confronta le curve di temperatura del granaio con quelle dell'ospedale e trova la stessa identica calligrafia sui due registri, firmati da persone…",
+"tipo": "invenzione",
+"titolo": "Il Quaderno del Freddo Prestato",
+"torsione": "Il registro cartaceo che i granai usano per certificare la costanza del freddo sui semi viene falsificato da un tecnico ospedaliero per far risultare \"a norma\" un congelatore prestato che in realtà ha avuto due ore di blackout.",
+"universo": "hackverse"
+},
+{
+"appare_in": [],
+"cluster": "STE-INV-0001",
+"created": "2026-09-15",
+"estrazione": 73,
+"id": "STE-SEM-0001",
+"origine": "arricchimento",
+"parent_id": null,
+"regione": null,
+"relazione": null,
+"sommario": "Bilal Shalil vuole restare l'unico a conoscere per intero il disegno della camera refrigerante delle Barche Bianche, e usa il vano segreto che vi ha ricavato n…",
+"tipo": "seme",
+"titolo": "seme STE-INV-0001",
+"universi": [
+"steamverse"
+],
+"universo": "steamverse"
+},
+{
+"appare_in": [],
 "created": "2026-09-15",
 "estrazione": 68,
 "id": "STE-REG-qattoum",
@@ -3200,7 +3419,9 @@
 "universo": "elabverse"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-15-la-fascia-sicura"
+],
 "cluster": "ELA-INV-0030",
 "created": "2026-09-14",
 "estrazione": 42,
@@ -3411,7 +3632,9 @@
 "universo": "elabverse"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-15-la-fascia-sicura"
+],
 "chiavi": "navigatori · acquario · pragmatico · indolente",
 "created": "2026-09-14",
 "estrazione": 37,
@@ -3441,7 +3664,9 @@
 "universo": "elabverse"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-15-la-fascia-sicura"
+],
 "chiavi": "navigatori · cancro · vigile · superstizioso",
 "created": "2026-09-14",
 "estrazione": 37,
@@ -3486,7 +3711,9 @@
 "universo": "elabverse"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-15-la-fascia-sicura"
+],
 "chiavi": "navigatori · ariete · diplomatico · giocatore",
 "created": "2026-09-14",
 "estrazione": 37,
@@ -3516,7 +3743,9 @@
 "universo": "elabverse"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-15-la-fascia-sicura"
+],
 "chiavi": "navigatori · toro · inventivo · smemorato",
 "created": "2026-09-14",
 "estrazione": 37,
@@ -3531,7 +3760,9 @@
 "universo": "elabverse"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-15-la-fascia-sicura"
+],
 "chiavi": "navigatori · bilancia · meticoloso · servile",
 "created": "2026-09-14",
 "estrazione": 37,
@@ -3546,7 +3777,9 @@
 "universo": "elabverse"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-15-la-fascia-sicura"
+],
 "chiavi": "navigatori · vergine · ambizioso · indolente",
 "created": "2026-09-14",
 "estrazione": 37,
@@ -4169,7 +4402,9 @@
 "universo": "elabverse"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-15-la-fascia-sicura"
+],
 "chiavi": "Lo tiene chiuso nella sacca da ponte e lo apre solo di notte, quando incide i numeri del turno con uno stilo, dicendo di \"ripassare\" i calcoli.",
 "created": "2026-09-14",
 "estrazione": 44,
@@ -4217,7 +4452,9 @@
 "universo": "elabverse"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-15-la-fascia-sicura"
+],
 "chiavi": "La indossa sempre sul polso sinistro, sotto la manica, e la fa scorrere tra le dita mentre parla, come se fosse un vezzo nervoso.",
 "created": "2026-09-14",
 "estrazione": 44,
@@ -4233,7 +4470,9 @@
 "universo": "elabverse"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-15-la-fascia-sicura"
+],
 "chiavi": "Lo tiene infilato nella manica della giacca da ponte e lo passa lungo il bordo della carta per \"sentire\" dove finiva il calcolo del turno precedente invece di ricalcolarlo.",
 "created": "2026-09-14",
 "estrazione": 44,
@@ -4297,7 +4536,9 @@
 "universo": "elabverse"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-15-la-fascia-sicura"
+],
 "chiavi": "La porta a tracolla durante i turni, appoggiandola contro l'anello metallico del corridoio per ascoltare le vibrazioni della struttura.",
 "created": "2026-09-14",
 "estrazione": 38,
@@ -9333,7 +9574,9 @@
 "universo": "hackverse"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-15-la-fascia-sicura"
+],
 "created": "2026-09-12",
 "estrazione": 8,
 "id": "ELA-REG-konya",
@@ -10208,7 +10451,9 @@
 "universo": "elabverse"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-15-la-fascia-sicura"
+],
 "chiavi": "arte_visiva/affresco × cartografia/proiezioni",
 "created": "2026-09-12",
 "estrazione": 7,

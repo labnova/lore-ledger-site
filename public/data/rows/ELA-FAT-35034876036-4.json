@@ -1,0 +1,19 @@
+{
+"branch": "main",
+"cluster": "ELA-INV-0030",
+"created": "2026-09-15",
+"id": "ELA-FAT-35034876036-4",
+"momento": 4,
+"reversibile": true,
+"schema_version": 1,
+"soggetti": [
+"ELA-PER-0014",
+"ELA-PER-0019"
+],
+"stabilito_da": "2026-09-15-la-fascia-sicura",
+"status": "canon",
+"testo": "Una crepa larga quanto uno spago attraversa la fascia bianca nel corridoio di ronda, dietro la costola metallica; Leyla Kayatemaz non l'ha segnalata per cinque settimane e Tolga Fırıncı l'ha vista con lei.",
+"tipo": "fatto",
+"tipo_fatto": "stato",
+"universo": "elabverse"
+}

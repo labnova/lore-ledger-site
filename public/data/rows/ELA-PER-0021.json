@@ -3,7 +3,9 @@
 "orientamento": "bisessuale",
 "situazione": "promesso_per_contratto"
 },
-"appare_in": [],
+"appare_in": [
+"2026-09-15-la-fascia-sicura"
+],
 "casta": "navigatori",
 "ceppo": "basco",
 "cognome": "Larraberri",
@@ -13,7 +15,15 @@
 "epoca_relativa": 0,
 "estrazione": 37,
 "eta_fascia": "maturo",
-"fatti": [],
+"fatti": [
+{
+"id": "ELA-FAT-35034876036-6",
+"momento": 6,
+"stabilito_da": "2026-09-15-la-fascia-sicura",
+"testo": "La stima della fascia successiva consegnata in ritardo da Edurne Larraberri è stata dichiarata verificata da Meltem Marangoz sulla quota del tavolo delle carte e non su una misura presa alla parete.",
+"tipo_fatto": "evento"
+}
+],
 "gancio": "Il promesso sposo scelto per contratto lavora nello stesso ponte del murale, e aspetta la sua stima in ritardo più di quanto aspetti lei.",
 "id": "ELA-PER-0021",
 "invenzione_id": "ELA-INV-0030",

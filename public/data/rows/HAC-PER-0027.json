@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "poliamoroso"
+},
+"appare_in": [],
+"casta": "analisti",
+"ceppo": "giapponese",
+"cognome": "Hataya",
+"contraddizione": "Usa il tracciamento del colorante a rilascio lento per smascherare identità false negli archivi di frontiera, ma mente sistematicamente nei suoi stessi rapporti sulle fonti da cui ottiene gli accessi, così che il lavoro che smonta le bugie altrui poggia su bugie sue.",
+"created": "2026-09-16",
+"difetto": "bugiardo",
+"epoca_relativa": 0,
+"estrazione": 74,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Un collega gli chiede da dove viene l'ultimo lotto di foto segnaletiche e Kenji risponde con una fonte che ha appena inventato sul momento, con la stessa calma paziente con cui analizza tutto il resto.",
+"id": "HAC-PER-0027",
+"invenzione_id": "HAC-INV-0037",
+"media": [],
+"nome": "Kenji",
+"parent_id": null,
+"rapporto": "usa",
+"regione": "HAC-REG-tallinn",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "vergine",
+"spirituale": {
+"credenza": "il cielo amministrato",
+"rapporto": "apostata"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "paziente",
+"universo": "hackverse"
+}

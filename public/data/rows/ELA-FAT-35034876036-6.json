@@ -1,0 +1,19 @@
+{
+"branch": "main",
+"cluster": "ELA-INV-0030",
+"created": "2026-09-15",
+"id": "ELA-FAT-35034876036-6",
+"momento": 6,
+"reversibile": true,
+"schema_version": 1,
+"soggetti": [
+"ELA-PER-0016",
+"ELA-PER-0021"
+],
+"stabilito_da": "2026-09-15-la-fascia-sicura",
+"status": "canon",
+"testo": "La stima della fascia successiva consegnata in ritardo da Edurne Larraberri è stata dichiarata verificata da Meltem Marangoz sulla quota del tavolo delle carte e non su una misura presa alla parete.",
+"tipo": "fatto",
+"tipo_fatto": "evento",
+"universo": "elabverse"
+}

@@ -1,5 +1,7 @@
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-15-la-fascia-sicura"
+],
 "created": "2026-09-12",
 "discipline": [
 "arte_visiva/affresco",
@@ -7,7 +9,64 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 7,
-"fatti": [],
+"fatti": [
+{
+"id": "ELA-FAT-35034876036-1",
+"momento": 1,
+"stabilito_da": "2026-09-15-la-fascia-sicura",
+"testo": "Hasan Akderier ha consegnato al tavolo delle carte i valori della fascia nuova ricopiandoli dall'impronta di cera del turno precedente e li ha registrati come lavoro del turno nuovo.",
+"tipo_fatto": "evento"
+},
+{
+"id": "ELA-FAT-35034876036-2",
+"momento": 2,
+"stabilito_da": "2026-09-15-la-fascia-sicura",
+"testo": "Ömer Taşlıriçı ha puntellato in silenzio con otto puntelli corti il tratto di parete compreso tra la dodicesima e la quindicesima asse, che la sua intelaiatura non regge.",
+"tipo_fatto": "stato"
+},
+{
+"id": "ELA-FAT-35034876036-3",
+"momento": 3,
+"stabilito_da": "2026-09-15-la-fascia-sicura",
+"testo": "Il bordo vero della fascia attuale sta due dita e un quarto più in qua del bordo dipinto, e la misura è scritta su un foglio piegato che Ömer tiene nella tasca interna.",
+"tipo_fatto": "stato"
+},
+{
+"id": "ELA-FAT-35034876036-4",
+"momento": 4,
+"stabilito_da": "2026-09-15-la-fascia-sicura",
+"testo": "Una crepa larga quanto uno spago attraversa la fascia bianca nel corridoio di ronda, dietro la costola metallica; Leyla Kayatemaz non l'ha segnalata per cinque settimane e Tolga Fırıncı l'ha vista con lei.",
+"tipo_fatto": "stato"
+},
+{
+"id": "ELA-FAT-35034876036-5",
+"momento": 5,
+"stabilito_da": "2026-09-15-la-fascia-sicura",
+"testo": "Tolga Fırıncı ha consegnato a Hasan Akderier una scheggia di intonaco della fascia vecchia che porta impressi gli stessi tre valori del turno precedente, e Hasan se l'è messa in tasca.",
+"tipo_fatto": "evento"
+},
+{
+"id": "ELA-FAT-35034876036-6",
+"momento": 6,
+"stabilito_da": "2026-09-15-la-fascia-sicura",
+"testo": "La stima della fascia successiva consegnata in ritardo da Edurne Larraberri è stata dichiarata verificata da Meltem Marangoz sulla quota del tavolo delle carte e non su una misura presa alla parete.",
+"tipo_fatto": "evento"
+},
+{
+"id": "ELA-FAT-35034876036-7",
+"momento": 7,
+"stabilito_da": "2026-09-15-la-fascia-sicura",
+"testo": "Con la stima verificata Meltem Marangoz ha chiuso a proprio favore la scommessa aperta da undici turni sull'intonacatura oltre il limite.",
+"tipo_fatto": "evento"
+},
+{
+"id": "ELA-FAT-35034876036-8",
+"momento": 8,
+"stabilito_da": "2026-09-15-la-fascia-sicura",
+"testo": "La fascia nuova è stata dichiarata sicura sulla tavola dei turni con la sigla di Hasan Akderier.",
+"tipo_fatto": "evento"
+}
+],
 "gancio": "Un capitano ordina di intonacare in anticipo la fascia successiva del murale, prima ancora che la rotta per raggiungerla sia stata approvata.",
 "id": "ELA-INV-0030",
 "media": [],

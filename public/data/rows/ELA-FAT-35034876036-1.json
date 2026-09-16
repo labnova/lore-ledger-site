@@ -1,0 +1,18 @@
+{
+"branch": "main",
+"cluster": "ELA-INV-0030",
+"created": "2026-09-15",
+"id": "ELA-FAT-35034876036-1",
+"momento": 1,
+"reversibile": true,
+"schema_version": 1,
+"soggetti": [
+"ELA-PER-0012"
+],
+"stabilito_da": "2026-09-15-la-fascia-sicura",
+"status": "canon",
+"testo": "Hasan Akderier ha consegnato al tavolo delle carte i valori della fascia nuova ricopiandoli dall'impronta di cera del turno precedente e li ha registrati come lavoro del turno nuovo.",
+"tipo": "fatto",
+"tipo_fatto": "evento",
+"universo": "elabverse"
+}

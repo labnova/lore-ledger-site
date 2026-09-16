@@ -3010,5 +3010,78 @@
 "CYB-CON-0002"
 ],
 "universo": "cyberverse"
+},
+{
+"campi_forzati": [],
+"chiavi": {
+"cluster": [
+"STE-INV-0001"
+]
+},
+"created": "2026-09-15",
+"esito": "ok",
+"estrazione": 73,
+"forzata": false,
+"lotto": "lotto-semi",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"STE-SEM-0001"
+],
+"universi": [
+"steamverse"
+],
+"universo": "cross"
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"HAC-INV-0037",
+"HAC-REG-tallinn"
+],
+"chiavi": {
+"casta": "analisti",
+"invenzione_id": "HAC-INV-0037",
+"personaggi": [
+"HAC-PER-0023",
+"HAC-PER-0024",
+"HAC-PER-0025",
+"HAC-PER-0026",
+"HAC-PER-0027",
+"HAC-PER-0028",
+"HAC-PER-0029",
+"HAC-PER-0030",
+"HAC-PER-0031",
+"HAC-PER-0032"
+],
+"regione": "HAC-REG-tallinn",
+"universo": "hackverse"
+},
+"created": "2026-09-16",
+"esito": "ok",
+"espansioni": [
+"HAC-INV-0070",
+"HAC-INV-0071",
+"HAC-INV-0072"
+],
+"estrazione": 74,
+"forzata": false,
+"lotto": "lotto-personaggi",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"HAC-PER-0023",
+"HAC-PER-0024",
+"HAC-PER-0025",
+"HAC-PER-0026",
+"HAC-PER-0027",
+"HAC-PER-0028",
+"HAC-PER-0029",
+"HAC-PER-0030",
+"HAC-PER-0031",
+"HAC-PER-0032",
+"HAC-INV-0070",
+"HAC-INV-0071",
+"HAC-INV-0072"
+],
+"universo": "hackverse"
 }
 ]

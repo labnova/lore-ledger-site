@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-16",
+"discipline": [
+"agricoltura/irrigazione",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 74,
+"fatti": [],
+"gancio": "Un parente disperato scopre che il conto in cima alla lista è cambiato tre volte nella stessa notte, sempre dopo un bonifico.",
+"id": "HAC-INV-0072",
+"media": [],
+"nome": "La Lista Che Si Riordina Da Sola",
+"nome_reale": "Sistema di priorità automatica nelle liste d'attesa per trapianto basato su compatibilità",
+"parent_id": "HAC-INV-0002",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "L'algoritmo che riordina in tempo reale la lista trapianti secondo compatibilità immunologica viene manomesso perché ogni volta che un nome sale in cima, un pagamento tracciabile è appena arrivato su un conto collegato al reparto.",
+"universo": "hackverse"
+}

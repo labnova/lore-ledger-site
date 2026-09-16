@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-16",
+"discipline": [
+"sanita_pubblica/quarantena",
+"musica/canto"
+],
+"epoca_relativa": 0,
+"estrazione": 74,
+"fatti": [],
+"gancio": "Un revisore del sistema nota che una sola persona non ha mai ricevuto una multa in due anni di sorveglianza acustica continua.",
+"id": "HAC-INV-0071",
+"media": [],
+"nome": "L'Orecchio Che Assolve",
+"nome_reale": "Filtro di riconoscimento vocale per multe automatiche da assembramento canoro",
+"parent_id": "HAC-INV-0058",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il filtro che dovrebbe distinguere un coro da un semplice vociare per evitare multe ingiuste viene addestrato da un tecnico corrotto a riconoscere e assolvere sempre la stessa voce, quella di chi paga per non essere mai multato nella zona rossa.",
+"universo": "hackverse"
+}

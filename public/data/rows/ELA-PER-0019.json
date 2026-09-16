@@ -3,7 +3,9 @@
 "orientamento": "bisessuale",
 "situazione": "vedovo"
 },
-"appare_in": [],
+"appare_in": [
+"2026-09-15-la-fascia-sicura"
+],
 "casta": "navigatori",
 "ceppo": "turco",
 "cognome": "Kayatemaz",
@@ -13,7 +15,15 @@
 "epoca_relativa": 0,
 "estrazione": 37,
 "eta_fascia": "adulto",
-"fatti": [],
+"fatti": [
+{
+"id": "ELA-FAT-35034876036-4",
+"momento": 4,
+"stabilito_da": "2026-09-15-la-fascia-sicura",
+"testo": "Una crepa larga quanto uno spago attraversa la fascia bianca nel corridoio di ronda, dietro la costola metallica; Leyla Kayatemaz non l'ha segnalata per cinque settimane e Tolga Fırıncı l'ha vista con lei.",
+"tipo_fatto": "stato"
+}
+],
 "gancio": "Ha smesso di riferire un crepa nella fascia bianca perché, se davvero fosse un giudizio, preferisce non essere lei a scoprirlo per prima.",
 "id": "ELA-PER-0019",
 "invenzione_id": "ELA-INV-0030",

@@ -1,0 +1,18 @@
+{
+"branch": "main",
+"cluster": "ELA-INV-0030",
+"created": "2026-09-15",
+"id": "ELA-FAT-35034876036-8",
+"momento": 8,
+"reversibile": false,
+"schema_version": 1,
+"soggetti": [
+"ELA-PER-0012"
+],
+"stabilito_da": "2026-09-15-la-fascia-sicura",
+"status": "canon",
+"testo": "La fascia nuova è stata dichiarata sicura sulla tavola dei turni con la sigla di Hasan Akderier.",
+"tipo": "fatto",
+"tipo_fatto": "evento",
+"universo": "elabverse"
+}

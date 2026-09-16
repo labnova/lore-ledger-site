@@ -1,0 +1,18 @@
+{
+"branch": "main",
+"cluster": "ELA-INV-0030",
+"created": "2026-09-15",
+"id": "ELA-FAT-35034876036-7",
+"momento": 7,
+"reversibile": true,
+"schema_version": 1,
+"soggetti": [
+"ELA-PER-0016"
+],
+"stabilito_da": "2026-09-15-la-fascia-sicura",
+"status": "canon",
+"testo": "Con la stima verificata Meltem Marangoz ha chiuso a proprio favore la scommessa aperta da undici turni sull'intonacatura oltre il limite.",
+"tipo": "fatto",
+"tipo_fatto": "evento",
+"universo": "elabverse"
+}

@@ -196,6 +196,21 @@
 "to": "HAC-INV-0069"
 },
 {
+"from": "HAC-INV-0009",
+"kind": "parent",
+"to": "HAC-INV-0070"
+},
+{
+"from": "HAC-INV-0058",
+"kind": "parent",
+"to": "HAC-INV-0071"
+},
+{
+"from": "HAC-INV-0002",
+"kind": "parent",
+"to": "HAC-INV-0072"
+},
+{
 "from": "NEO-INV-0001",
 "kind": "regione",
 "to": "NEO-REG-calvenna"
@@ -1109,6 +1124,106 @@
 "from": "HAC-PER-0022",
 "kind": "regione",
 "to": "HAC-REG-rotterdam"
+},
+{
+"from": "HAC-PER-0023",
+"kind": "invenzione",
+"to": "HAC-INV-0037"
+},
+{
+"from": "HAC-PER-0023",
+"kind": "regione",
+"to": "HAC-REG-tallinn"
+},
+{
+"from": "HAC-PER-0024",
+"kind": "invenzione",
+"to": "HAC-INV-0037"
+},
+{
+"from": "HAC-PER-0024",
+"kind": "regione",
+"to": "HAC-REG-tallinn"
+},
+{
+"from": "HAC-PER-0025",
+"kind": "invenzione",
+"to": "HAC-INV-0037"
+},
+{
+"from": "HAC-PER-0025",
+"kind": "regione",
+"to": "HAC-REG-tallinn"
+},
+{
+"from": "HAC-PER-0026",
+"kind": "invenzione",
+"to": "HAC-INV-0037"
+},
+{
+"from": "HAC-PER-0026",
+"kind": "regione",
+"to": "HAC-REG-tallinn"
+},
+{
+"from": "HAC-PER-0027",
+"kind": "invenzione",
+"to": "HAC-INV-0037"
+},
+{
+"from": "HAC-PER-0027",
+"kind": "regione",
+"to": "HAC-REG-tallinn"
+},
+{
+"from": "HAC-PER-0028",
+"kind": "invenzione",
+"to": "HAC-INV-0037"
+},
+{
+"from": "HAC-PER-0028",
+"kind": "regione",
+"to": "HAC-REG-tallinn"
+},
+{
+"from": "HAC-PER-0029",
+"kind": "invenzione",
+"to": "HAC-INV-0037"
+},
+{
+"from": "HAC-PER-0029",
+"kind": "regione",
+"to": "HAC-REG-tallinn"
+},
+{
+"from": "HAC-PER-0030",
+"kind": "invenzione",
+"to": "HAC-INV-0037"
+},
+{
+"from": "HAC-PER-0030",
+"kind": "regione",
+"to": "HAC-REG-tallinn"
+},
+{
+"from": "HAC-PER-0031",
+"kind": "invenzione",
+"to": "HAC-INV-0037"
+},
+{
+"from": "HAC-PER-0031",
+"kind": "regione",
+"to": "HAC-REG-tallinn"
+},
+{
+"from": "HAC-PER-0032",
+"kind": "invenzione",
+"to": "HAC-INV-0037"
+},
+{
+"from": "HAC-PER-0032",
+"kind": "regione",
+"to": "HAC-REG-tallinn"
 },
 {
 "from": "NEO-PER-0001",
@@ -4506,6 +4621,11 @@
 "to": "NEO-INV-0044"
 },
 {
+"from": "STE-SEM-0001",
+"kind": "cluster",
+"to": "STE-INV-0001"
+},
+{
 "from": "CYB-FAT-34885804207-1",
 "kind": "soggetto",
 "to": "CYB-INV-0015"
@@ -4619,6 +4739,61 @@
 "from": "CYB-FAT-34885804207-9",
 "kind": "soggetto",
 "to": "CYB-PER-0006"
+},
+{
+"from": "ELA-FAT-35034876036-1",
+"kind": "soggetto",
+"to": "ELA-PER-0012"
+},
+{
+"from": "ELA-FAT-35034876036-2",
+"kind": "soggetto",
+"to": "ELA-PER-0013"
+},
+{
+"from": "ELA-FAT-35034876036-3",
+"kind": "soggetto",
+"to": "ELA-PER-0013"
+},
+{
+"from": "ELA-FAT-35034876036-4",
+"kind": "soggetto",
+"to": "ELA-PER-0014"
+},
+{
+"from": "ELA-FAT-35034876036-4",
+"kind": "soggetto",
+"to": "ELA-PER-0019"
+},
+{
+"from": "ELA-FAT-35034876036-5",
+"kind": "soggetto",
+"to": "ELA-PER-0012"
+},
+{
+"from": "ELA-FAT-35034876036-5",
+"kind": "soggetto",
+"to": "ELA-PER-0014"
+},
+{
+"from": "ELA-FAT-35034876036-6",
+"kind": "soggetto",
+"to": "ELA-PER-0016"
+},
+{
+"from": "ELA-FAT-35034876036-6",
+"kind": "soggetto",
+"to": "ELA-PER-0021"
+},
+{
+"from": "ELA-FAT-35034876036-7",
+"kind": "soggetto",
+"to": "ELA-PER-0016"
+},
+{
+"from": "ELA-FAT-35034876036-8",
+"kind": "soggetto",
+"to": "ELA-PER-0012"
 },
 {
 "from": "STE-FAT-m20260913-1",
@@ -5250,6 +5425,54 @@
 "id": "ELA-CON-0005",
 "tipo": "contenuto",
 "titolo": "Nota di redazione: perché il secondo cifrario non doveva funzionare",
+"universo": "elabverse"
+},
+{
+"id": "ELA-FAT-35034876036-1",
+"tipo": "fatto",
+"titolo": "Hasan Akderier ha consegnato al tavolo delle carte i valori della fascia nuova r",
+"universo": "elabverse"
+},
+{
+"id": "ELA-FAT-35034876036-2",
+"tipo": "fatto",
+"titolo": "Ömer Taşlıriçı ha puntellato in silenzio con otto puntelli corti il tratto di pa",
+"universo": "elabverse"
+},
+{
+"id": "ELA-FAT-35034876036-3",
+"tipo": "fatto",
+"titolo": "Il bordo vero della fascia attuale sta due dita e un quarto più in qua del bordo",
+"universo": "elabverse"
+},
+{
+"id": "ELA-FAT-35034876036-4",
+"tipo": "fatto",
+"titolo": "Una crepa larga quanto uno spago attraversa la fascia bianca nel corridoio di ro",
+"universo": "elabverse"
+},
+{
+"id": "ELA-FAT-35034876036-5",
+"tipo": "fatto",
+"titolo": "Tolga Fırıncı ha consegnato a Hasan Akderier una scheggia di intonaco della fasc",
+"universo": "elabverse"
+},
+{
+"id": "ELA-FAT-35034876036-6",
+"tipo": "fatto",
+"titolo": "La stima della fascia successiva consegnata in ritardo da Edurne Larraberri è st",
+"universo": "elabverse"
+},
+{
+"id": "ELA-FAT-35034876036-7",
+"tipo": "fatto",
+"titolo": "Con la stima verificata Meltem Marangoz ha chiuso a proprio favore la scommessa ",
+"universo": "elabverse"
+},
+{
+"id": "ELA-FAT-35034876036-8",
+"tipo": "fatto",
+"titolo": "La fascia nuova è stata dichiarata sicura sulla tavola dei turni con la sigla di",
 "universo": "elabverse"
 },
 {
@@ -6777,6 +7000,24 @@
 "universo": "hackverse"
 },
 {
+"id": "HAC-INV-0070",
+"tipo": "invenzione",
+"titolo": "Il Quaderno del Freddo Prestato",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0071",
+"tipo": "invenzione",
+"titolo": "L'Orecchio Che Assolve",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0072",
+"tipo": "invenzione",
+"titolo": "La Lista Che Si Riordina Da Sola",
+"universo": "hackverse"
+},
+{
 "id": "HAC-PER-0001",
 "tipo": "personaggio",
 "titolo": "Misaki Ikaguchi",
@@ -6906,6 +7147,66 @@
 "id": "HAC-PER-0022",
 "tipo": "personaggio",
 "titolo": "Ilkay Demirtaş",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0023",
+"tipo": "personaggio",
+"titolo": "Ragnhild Kvivik",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0024",
+"tipo": "personaggio",
+"titolo": "Layla Rakabazi",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0025",
+"tipo": "personaggio",
+"titolo": "Dmitri Arrizabal",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0026",
+"tipo": "personaggio",
+"titolo": "István Veváthy",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0027",
+"tipo": "personaggio",
+"titolo": "Kenji Hataya",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0028",
+"tipo": "personaggio",
+"titolo": "Nadezhda Tavasaczyk",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0029",
+"tipo": "personaggio",
+"titolo": "Hülya Sarcı",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0030",
+"tipo": "personaggio",
+"titolo": "Jürgen Becker",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0031",
+"tipo": "personaggio",
+"titolo": "Julen Olalaaga",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0032",
+"tipo": "personaggio",
+"titolo": "Bahati Mvuvi",
 "universo": "hackverse"
 },
 {
@@ -8784,6 +9085,12 @@
 "id": "STE-REG-qattoum",
 "tipo": "regione",
 "titolo": "Qattoum",
+"universo": "steamverse"
+},
+{
+"id": "STE-SEM-0001",
+"tipo": "seme",
+"titolo": "seme STE-INV-0001",
 "universo": "steamverse"
 }
 ]

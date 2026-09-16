@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "asessuale",
+"situazione": "single"
+},
+"appare_in": [],
+"casta": "analisti",
+"ceppo": "scandinavo",
+"cognome": "Kvivik",
+"contraddizione": "Il suo ruolo di analista alla dogana digitale di Tallinn le impone di firmare ogni verifica di identità con riserva indipendente, ma è talmente servile verso i superiori del team OSINT che approva scansioni dubbie solo perché arrivano già timbrate da un nome più alto in gerarchia.",
+"created": "2026-09-16",
+"difetto": "servile",
+"epoca_relativa": 0,
+"estrazione": 74,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Ragnhild nota per prima, in un archivio di foto segnaletiche, che gli occhi della stessa persona schiariscono di un grado ogni settimana, ma cancella la segnalazione dal suo turno prima che qualcuno le chieda di insistere.",
+"id": "HAC-PER-0023",
+"invenzione_id": "HAC-INV-0037",
+"media": [],
+"nome": "Ragnhild",
+"parent_id": null,
+"rapporto": "teme",
+"regione": "HAC-REG-tallinn",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "gemelli",
+"spirituale": {
+"credenza": "il crollo come giudizio",
+"rapporto": "scettico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ospitale",
+"universo": "hackverse"
+}

@@ -1,6 +1,8 @@
 {
 "affettivo": null,
-"appare_in": [],
+"appare_in": [
+"2026-09-15-la-fascia-sicura"
+],
 "casta": "navigatori",
 "ceppo": "turco",
 "cognome": "Taşlıriçı",
@@ -10,7 +12,22 @@
 "epoca_relativa": 0,
 "estrazione": 37,
 "eta_fascia": "adolescente",
-"fatti": [],
+"fatti": [
+{
+"id": "ELA-FAT-35034876036-2",
+"momento": 2,
+"stabilito_da": "2026-09-15-la-fascia-sicura",
+"testo": "Ömer Taşlıriçı ha puntellato in silenzio con otto puntelli corti il tratto di parete compreso tra la dodicesima e la quindicesima asse, che la sua intelaiatura non regge.",
+"tipo_fatto": "stato"
+},
+{
+"id": "ELA-FAT-35034876036-3",
+"momento": 3,
+"stabilito_da": "2026-09-15-la-fascia-sicura",
+"testo": "Il bordo vero della fascia attuale sta due dita e un quarto più in qua del bordo dipinto, e la misura è scritta su un foglio piegato che Ömer tiene nella tasca interna.",
+"tipo_fatto": "stato"
+}
+],
 "gancio": "Le assi che ha inchiodato tremano ogni volta che qualcuno cammina troppo vicino al bordo dell'intonaco fresco, e nessuno gliene chiede il motivo.",
 "id": "ELA-PER-0013",
 "invenzione_id": "ELA-INV-0030",

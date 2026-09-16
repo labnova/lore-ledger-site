@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "pansessuale",
+"situazione": "single"
+},
+"appare_in": [],
+"casta": "analisti",
+"ceppo": "arabo",
+"cognome": "Rakabazi",
+"contraddizione": "Vende dossier di verifica biometrica costruiti minuto per minuto sulla deriva cromatica delle iridi nei database di frontiera, eppure dimentica regolarmente quale versione del proprio fascicolo ha già consegnato a quale cliente, tanto che due acquirenti si ritrovano con la stessa prova rivenduta come esclusiva.",
+"created": "2026-09-16",
+"difetto": "smemorato",
+"epoca_relativa": 0,
+"estrazione": 74,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "Una notte a Tallinn si accorge di aver già venduto lo stesso identikit tre mesi prima, sotto un nome diverso, e non ricorda a chi.",
+"id": "HAC-PER-0024",
+"invenzione_id": "HAC-INV-0037",
+"media": [],
+"nome": "Layla",
+"parent_id": null,
+"rapporto": "vende",
+"regione": "HAC-REG-tallinn",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "capricorno",
+"spirituale": {
+"credenza": "il sacro è una bugia utile",
+"rapporto": "indifferente"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "sognatore",
+"universo": "hackverse"
+}

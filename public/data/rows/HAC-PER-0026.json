@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "pansessuale",
+"situazione": "poliamoroso"
+},
+"appare_in": [],
+"casta": "analisti",
+"ceppo": "magiaro",
+"cognome": "Veváthy",
+"contraddizione": "Studia per mesi i cluster di foto segnaletiche di Rilascio Lento con un rigore che nessuno mette in dubbio, ma nella stanza dei rapporti addolcisce sempre la conclusione più scomoda per non scontentare il funzionario che finanzia l'indagine, lasciando che l'identità falsa resti un grado più credibile del dovuto.",
+"created": "2026-09-16",
+"difetto": "servile",
+"epoca_relativa": 0,
+"estrazione": 74,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "Presenta al comitato una diapositiva che dimostra l'invecchiamento artificiale delle iridi, ma la intitola \"anomalia da approfondire\" invece che \"frode confermata\".",
+"id": "HAC-PER-0026",
+"invenzione_id": "HAC-INV-0037",
+"media": [],
+"nome": "István",
+"parent_id": null,
+"rapporto": "studia",
+"regione": "HAC-REG-tallinn",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "sagittario",
+"spirituale": {
+"credenza": "nessun dio solo registri",
+"rapporto": "eretico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "diplomatico",
+"universo": "hackverse"
+}

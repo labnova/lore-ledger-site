@@ -3,7 +3,9 @@
 "orientamento": "eterosessuale",
 "situazione": "poliamoroso"
 },
-"appare_in": [],
+"appare_in": [
+"2026-09-15-la-fascia-sicura"
+],
 "casta": "navigatori",
 "ceppo": "turco",
 "cognome": "Marangoz",
@@ -13,7 +15,22 @@
 "epoca_relativa": 0,
 "estrazione": 37,
 "eta_fascia": "anziano",
-"fatti": [],
+"fatti": [
+{
+"id": "ELA-FAT-35034876036-6",
+"momento": 6,
+"stabilito_da": "2026-09-15-la-fascia-sicura",
+"testo": "La stima della fascia successiva consegnata in ritardo da Edurne Larraberri è stata dichiarata verificata da Meltem Marangoz sulla quota del tavolo delle carte e non su una misura presa alla parete.",
+"tipo_fatto": "evento"
+},
+{
+"id": "ELA-FAT-35034876036-7",
+"momento": 7,
+"stabilito_da": "2026-09-15-la-fascia-sicura",
+"testo": "Con la stima verificata Meltem Marangoz ha chiuso a proprio favore la scommessa aperta da undici turni sull'intonacatura oltre il limite.",
+"tipo_fatto": "evento"
+}
+],
 "gancio": "Ha appena vinto una scommessa su un errore di intonacatura che, controllando i registri, risulta essere stato commesso da lei stessa trent'anni prima.",
 "id": "ELA-PER-0016",
 "invenzione_id": "ELA-INV-0030",
