@@ -1,6 +1,8 @@
 {
 "affettivo": null,
-"appare_in": [],
+"appare_in": [
+"2026-09-16-un-grado-piu-chiaro"
+],
 "casta": "analisti",
 "ceppo": "slavo",
 "cognome": "Tavasaczyk",
@@ -10,7 +12,15 @@
 "epoca_relativa": 0,
 "estrazione": 74,
 "eta_fascia": "adolescente",
-"fatti": [],
+"fatti": [
+{
+"id": "HAC-FAT-35139219618-6",
+"momento": 6,
+"stabilito_da": "2026-09-16-un-grado-piu-chiaro",
+"testo": "Nadezhda Tavasaczyk, arrivata a ventisei settimane di deriva, scopre l'avvertenza del venditore e ordina comunque una nuova confezione.",
+"tipo_fatto": "evento"
+}
+],
 "gancio": "Nadezhda carica online un nuovo ritratto ogni settimana, un grado di colore diverso dal precedente, convinta che nessuno tra gli adulti guardi mai con abbastanza attenzione due sue foto a sette giorni di distanza.",
 "id": "HAC-PER-0028",
 "invenzione_id": "HAC-INV-0037",

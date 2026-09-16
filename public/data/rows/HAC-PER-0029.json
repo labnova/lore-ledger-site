@@ -3,7 +3,9 @@
 "orientamento": "eterosessuale",
 "situazione": "relazione_segreta"
 },
-"appare_in": [],
+"appare_in": [
+"2026-09-16-un-grado-piu-chiaro"
+],
 "casta": "analisti",
 "ceppo": "turco",
 "cognome": "Sarcı",
@@ -13,7 +15,15 @@
 "epoca_relativa": 0,
 "estrazione": 74,
 "eta_fascia": "maturo",
-"fatti": [],
+"fatti": [
+{
+"id": "HAC-FAT-35139219618-8",
+"momento": 8,
+"stabilito_da": "2026-09-16-un-grado-piu-chiaro",
+"testo": "Hülya Sarcı ha alterato la tavola quattro della perizia del 2 settembre portando lo scarto medio settimanale da 0,79 a 0,83, e ha ottenuto l'anticipo dell'incarico da un funzionario del registro civile con cui ha una relazione segreta.",
+"tipo_fatto": "stato"
+}
+],
 "gancio": "In una relazione segreta con un funzionario del registro civile, scambia dati di Rilascio Lento contro favori, convinta che il giorno giusto per farlo le sia stato indicato dal calendario e non dal rischio.",
 "id": "HAC-PER-0029",
 "invenzione_id": "HAC-INV-0037",

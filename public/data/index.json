@@ -841,7 +841,9 @@
 "universo": "neofeudal"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-16-un-grado-piu-chiaro"
+],
 "cluster": "HAC-INV-0037",
 "created": "2026-09-16",
 "estrazione": 79,
@@ -889,7 +891,9 @@
 "universo": "hackverse"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-16-un-grado-piu-chiaro"
+],
 "chiavi": "analisti · bilancia · ospitale · collerico",
 "created": "2026-09-16",
 "estrazione": 74,
@@ -904,7 +908,9 @@
 "universo": "hackverse"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-16-un-grado-piu-chiaro"
+],
 "chiavi": "analisti · toro · curioso · superstizioso",
 "created": "2026-09-16",
 "estrazione": 74,
@@ -919,7 +925,9 @@
 "universo": "hackverse"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-16-un-grado-piu-chiaro"
+],
 "chiavi": "analisti · cancro · inventivo · sordo_ai_consigli",
 "created": "2026-09-16",
 "estrazione": 74,
@@ -949,7 +957,9 @@
 "universo": "hackverse"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-16-un-grado-piu-chiaro"
+],
 "chiavi": "analisti · sagittario · diplomatico · servile",
 "created": "2026-09-16",
 "estrazione": 74,
@@ -964,7 +974,9 @@
 "universo": "hackverse"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-16-un-grado-piu-chiaro"
+],
 "chiavi": "analisti · acquario · coraggioso · vanitoso",
 "created": "2026-09-16",
 "estrazione": 74,
@@ -979,7 +991,9 @@
 "universo": "hackverse"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-16-un-grado-piu-chiaro"
+],
 "chiavi": "analisti · capricorno · sognatore · smemorato",
 "created": "2026-09-16",
 "estrazione": 74,
@@ -994,7 +1008,9 @@
 "universo": "hackverse"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-16-un-grado-piu-chiaro"
+],
 "chiavi": "analisti · gemelli · ospitale · servile",
 "created": "2026-09-16",
 "estrazione": 74,
@@ -1058,6 +1074,20 @@
 "titolo": "Il Quaderno del Freddo Prestato",
 "torsione": "Il registro cartaceo che i granai usano per certificare la costanza del freddo sui semi viene falsificato da un tecnico ospedaliero per far risultare \"a norma\" un congelatore prestato che in realtà ha avuto due ore di blackout.",
 "universo": "hackverse"
+},
+{
+"appare_in": [],
+"chiavi": "video_corto · reels · making_of",
+"created": "2026-09-16",
+"estrazione": 90,
+"id": "ELA-CON-0008",
+"parent_id": null,
+"regione": "Konya",
+"relazione": null,
+"sommario": "Reel: perché Ayşe porta una lente di ricambio cucita in tasca",
+"tipo": "contenuto",
+"titolo": "Reel: perché Ayşe porta una lente di ricambio cucita in tasca",
+"universo": "elabverse"
 },
 {
 "appare_in": [],
@@ -8616,7 +8646,9 @@
 "universo": "hackverse"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-16-un-grado-piu-chiaro"
+],
 "chiavi": "moda/cosmesi × ottica/lenti",
 "created": "2026-09-13",
 "estrazione": 23,

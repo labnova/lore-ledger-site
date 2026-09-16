@@ -1,0 +1,18 @@
+{
+"branch": "main",
+"cluster": "HAC-INV-0037",
+"created": "2026-09-16",
+"id": "HAC-FAT-35139219618-1",
+"momento": 1,
+"reversibile": true,
+"schema_version": 1,
+"soggetti": [
+"HAC-PER-0025"
+],
+"stabilito_da": "2026-09-16-un-grado-piu-chiaro",
+"status": "canon",
+"testo": "Dmitri Arrizabal firma ogni commit di irisdrift con l'handle machinesdream, che usa in pubblico da nove anni.",
+"tipo": "fatto",
+"tipo_fatto": "stato",
+"universo": "hackverse"
+}

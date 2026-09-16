@@ -1,0 +1,18 @@
+{
+"branch": "main",
+"cluster": "HAC-INV-0037",
+"created": "2026-09-16",
+"id": "HAC-FAT-35139219618-5",
+"momento": 5,
+"reversibile": false,
+"schema_version": 1,
+"soggetti": [
+"HAC-INV-0037"
+],
+"stabilito_da": "2026-09-16-un-grado-piu-chiaro",
+"status": "canon",
+"testo": "Il metodo di Rilascio Lento è venduto come kit da dodici capsule con tabella dei colori allegata, e il venditore avverte per iscritto di non superare i quattro gradi complessivi perché negli archivi di frontiera opera personale pagato per riconoscerlo.",
+"tipo": "fatto",
+"tipo_fatto": "regola_del_mondo",
+"universo": "hackverse"
+}

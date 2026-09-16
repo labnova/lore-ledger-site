@@ -3,7 +3,9 @@
 "orientamento": "pansessuale",
 "situazione": "poliamoroso"
 },
-"appare_in": [],
+"appare_in": [
+"2026-09-16-un-grado-piu-chiaro"
+],
 "casta": "analisti",
 "ceppo": "magiaro",
 "cognome": "Veváthy",
@@ -13,7 +15,15 @@
 "epoca_relativa": 0,
 "estrazione": 74,
 "eta_fascia": "maturo",
-"fatti": [],
+"fatti": [
+{
+"id": "HAC-FAT-35139219618-9",
+"momento": 9,
+"stabilito_da": "2026-09-16-un-grado-piu-chiaro",
+"testo": "Il 16 settembre, all'audizione interna della dogana digitale, István Veváthy sigla come fascicolo di riferimento una delle due cartelline senza aprirla, e l'audizione prosegue a porte chiuse.",
+"tipo_fatto": "evento"
+}
+],
 "gancio": "Presenta al comitato una diapositiva che dimostra l'invecchiamento artificiale delle iridi, ma la intitola \"anomalia da approfondire\" invece che \"frode confermata\".",
 "id": "HAC-PER-0026",
 "invenzione_id": "HAC-INV-0037",

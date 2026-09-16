@@ -3,7 +3,9 @@
 "orientamento": "bisessuale",
 "situazione": "sposato"
 },
-"appare_in": [],
+"appare_in": [
+"2026-09-16-un-grado-piu-chiaro"
+],
 "casta": "analisti",
 "ceppo": "germanico",
 "cognome": "Becker",
@@ -13,7 +15,15 @@
 "epoca_relativa": 0,
 "estrazione": 74,
 "eta_fascia": "maturo",
-"fatti": [],
+"fatti": [
+{
+"id": "HAC-FAT-35139219618-7",
+"momento": 7,
+"stabilito_da": "2026-09-16-un-grado-piu-chiaro",
+"testo": "L'11 settembre la revisione tra pari della cella OSINT è sospesa alle 9.22 dopo l'esplosione di Jürgen Becker, senza aver accertato chi avesse già letto i changelog firmati machinesdream.",
+"tipo_fatto": "evento"
+}
+],
 "gancio": "Durante la revisione settimanale rovescia un caffè sulla tastiera mentre urla che nessuno capisce il proprio strumento meglio di lui, e nessuno osa più controllarlo.",
 "id": "HAC-PER-0030",
 "invenzione_id": "HAC-INV-0037",

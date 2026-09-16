@@ -3,7 +3,9 @@
 "orientamento": "asessuale",
 "situazione": "single"
 },
-"appare_in": [],
+"appare_in": [
+"2026-09-16-un-grado-piu-chiaro"
+],
 "casta": "analisti",
 "ceppo": "scandinavo",
 "cognome": "Kvivik",
@@ -13,7 +15,22 @@
 "epoca_relativa": 0,
 "estrazione": 74,
 "eta_fascia": "giovane",
-"fatti": [],
+"fatti": [
+{
+"id": "HAC-FAT-35139219618-3",
+"momento": 3,
+"stabilito_da": "2026-09-16-un-grado-piu-chiaro",
+"testo": "Ragnhild Kvivik tiene un brogliaccio personale, non previsto da nessuna procedura, in cui annota ora, numero di verifica ed esito di ogni firma, e vi ha registrato la segnalazione sul fondo 14 aperta e chiusa il 14 marzo.",
+"tipo_fatto": "stato"
+},
+{
+"id": "HAC-FAT-35139219618-4",
+"momento": 4,
+"stabilito_da": "2026-09-16-un-grado-piu-chiaro",
+"testo": "Il 10 settembre Layla Rakabazi legge quella pagina del brogliaccio di Ragnhild Kvivik al banco operatori della dogana digitale.",
+"tipo_fatto": "evento"
+}
+],
 "gancio": "Ragnhild nota per prima, in un archivio di foto segnaletiche, che gli occhi della stessa persona schiariscono di un grado ogni settimana, ma cancella la segnalazione dal suo turno prima che qualcuno le chieda di insistere.",
 "id": "HAC-PER-0023",
 "invenzione_id": "HAC-INV-0037",

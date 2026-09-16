@@ -5,7 +5,7 @@
 ],
 "descrizione": "Accampamento di nomadi urbani cresciuto attorno a uno snodo ferroviario dismesso ai margini del distretto trapianti; i cognomi restano legati ai mestieri di chi ci transitava prima del collasso della linea, e se ne guadagna uno nuovo solo restando abbastanza a lungo.",
 "ha_prosa": false,
-"n_ricorrenze": 65,
+"n_ricorrenze": 76,
 "nome": "Rostkirche",
 "prima_apparizione": 16,
 "prosa": null,
@@ -595,6 +595,105 @@
 "riga_id": "CYB-PER-0022",
 "riga_tipo": "personaggio",
 "riga_titolo": "Ainhoa Dranoova"
+},
+{
+"estrazione": 89,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 89,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0031",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Gettone di Turno"
+},
+{
+"estrazione": 89,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0032",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Correttore da Polso"
+},
+{
+"estrazione": 89,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0033",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Bollino di Presenza"
+},
+{
+"estrazione": 89,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0034",
+"riga_tipo": "gadget",
+"riga_titolo": "La Lente di Ricambio"
+},
+{
+"estrazione": 89,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0035",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Righello da Fila"
+},
+{
+"estrazione": 89,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0036",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Taccuino di Turno"
+},
+{
+"estrazione": 89,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0037",
+"riga_tipo": "gadget",
+"riga_titolo": "Lo Spauracchio Ottico"
+},
+{
+"estrazione": 89,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0038",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Sestante di Ivo"
+},
+{
+"estrazione": 89,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0039",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Gettone del Nonno"
+},
+{
+"estrazione": 89,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0040",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Bollino Buono"
 }
 ],
 "righe": [
@@ -752,6 +851,56 @@
 "id": "CYB-GAD-0030",
 "tipo": "gadget",
 "titolo": "Il Pegno di Fede"
+},
+{
+"id": "CYB-GAD-0031",
+"tipo": "gadget",
+"titolo": "Il Gettone di Turno"
+},
+{
+"id": "CYB-GAD-0032",
+"tipo": "gadget",
+"titolo": "Il Correttore da Polso"
+},
+{
+"id": "CYB-GAD-0033",
+"tipo": "gadget",
+"titolo": "Il Bollino di Presenza"
+},
+{
+"id": "CYB-GAD-0034",
+"tipo": "gadget",
+"titolo": "La Lente di Ricambio"
+},
+{
+"id": "CYB-GAD-0035",
+"tipo": "gadget",
+"titolo": "Il Righello da Fila"
+},
+{
+"id": "CYB-GAD-0036",
+"tipo": "gadget",
+"titolo": "Il Taccuino di Turno"
+},
+{
+"id": "CYB-GAD-0037",
+"tipo": "gadget",
+"titolo": "Lo Spauracchio Ottico"
+},
+{
+"id": "CYB-GAD-0038",
+"tipo": "gadget",
+"titolo": "Il Sestante di Ivo"
+},
+{
+"id": "CYB-GAD-0039",
+"tipo": "gadget",
+"titolo": "Il Gettone del Nonno"
+},
+{
+"id": "CYB-GAD-0040",
+"tipo": "gadget",
+"titolo": "Il Bollino Buono"
 },
 {
 "id": "CYB-INV-0052",

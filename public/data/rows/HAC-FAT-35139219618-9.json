@@ -1,0 +1,18 @@
+{
+"branch": "main",
+"cluster": "HAC-INV-0037",
+"created": "2026-09-16",
+"id": "HAC-FAT-35139219618-9",
+"momento": 9,
+"reversibile": false,
+"schema_version": 1,
+"soggetti": [
+"HAC-PER-0026"
+],
+"stabilito_da": "2026-09-16-un-grado-piu-chiaro",
+"status": "canon",
+"testo": "Il 16 settembre, all'audizione interna della dogana digitale, István Veváthy sigla come fascicolo di riferimento una delle due cartelline senza aprirla, e l'audizione prosegue a porte chiuse.",
+"tipo": "fatto",
+"tipo_fatto": "evento",
+"universo": "hackverse"
+}

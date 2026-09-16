@@ -1,5 +1,7 @@
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-16-un-grado-piu-chiaro"
+],
 "created": "2026-09-13",
 "discipline": [
 "moda/cosmesi",
@@ -7,7 +9,71 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 23,
-"fatti": [],
+"fatti": [
+{
+"id": "HAC-FAT-35139219618-1",
+"momento": 1,
+"stabilito_da": "2026-09-16-un-grado-piu-chiaro",
+"testo": "Dmitri Arrizabal firma ogni commit di irisdrift con l'handle machinesdream, che usa in pubblico da nove anni.",
+"tipo_fatto": "stato"
+},
+{
+"id": "HAC-FAT-35139219618-2",
+"momento": 2,
+"stabilito_da": "2026-09-16-un-grado-piu-chiaro",
+"testo": "Layla Rakabazi ha venduto il fascicolo sul soggetto 14-B a Hallik Screening OÜ il 4 marzo e a Verrone Due Diligence B.V. l'11 giugno.",
+"tipo_fatto": "evento"
+},
+{
+"id": "HAC-FAT-35139219618-3",
+"momento": 3,
+"stabilito_da": "2026-09-16-un-grado-piu-chiaro",
+"testo": "Ragnhild Kvivik tiene un brogliaccio personale, non previsto da nessuna procedura, in cui annota ora, numero di verifica ed esito di ogni firma, e vi ha registrato la segnalazione sul fondo 14 aperta e chiusa il 14 marzo.",
+"tipo_fatto": "stato"
+},
+{
+"id": "HAC-FAT-35139219618-4",
+"momento": 4,
+"stabilito_da": "2026-09-16-un-grado-piu-chiaro",
+"testo": "Il 10 settembre Layla Rakabazi legge quella pagina del brogliaccio di Ragnhild Kvivik al banco operatori della dogana digitale.",
+"tipo_fatto": "evento"
+},
+{
+"id": "HAC-FAT-35139219618-5",
+"momento": 5,
+"stabilito_da": "2026-09-16-un-grado-piu-chiaro",
+"testo": "Il metodo di Rilascio Lento è venduto come kit da dodici capsule con tabella dei colori allegata, e il venditore avverte per iscritto di non superare i quattro gradi complessivi perché negli archivi di frontiera opera personale pagato per riconoscerlo.",
+"tipo_fatto": "regola_del_mondo"
+},
+{
+"id": "HAC-FAT-35139219618-6",
+"momento": 6,
+"stabilito_da": "2026-09-16-un-grado-piu-chiaro",
+"testo": "Nadezhda Tavasaczyk, arrivata a ventisei settimane di deriva, scopre l'avvertenza del venditore e ordina comunque una nuova confezione.",
+"tipo_fatto": "evento"
+},
+{
+"id": "HAC-FAT-35139219618-7",
+"momento": 7,
+"stabilito_da": "2026-09-16-un-grado-piu-chiaro",
+"testo": "L'11 settembre la revisione tra pari della cella OSINT è sospesa alle 9.22 dopo l'esplosione di Jürgen Becker, senza aver accertato chi avesse già letto i changelog firmati machinesdream.",
+"tipo_fatto": "evento"
+},
+{
+"id": "HAC-FAT-35139219618-8",
+"momento": 8,
+"stabilito_da": "2026-09-16-un-grado-piu-chiaro",
+"testo": "Hülya Sarcı ha alterato la tavola quattro della perizia del 2 settembre portando lo scarto medio settimanale da 0,79 a 0,83, e ha ottenuto l'anticipo dell'incarico da un funzionario del registro civile con cui ha una relazione segreta.",
+"tipo_fatto": "stato"
+},
+{
+"id": "HAC-FAT-35139219618-9",
+"momento": 9,
+"stabilito_da": "2026-09-16-un-grado-piu-chiaro",
+"testo": "Il 16 settembre, all'audizione interna della dogana digitale, István Veváthy sigla come fascicolo di riferimento una delle due cartelline senza aprirla, e l'audizione prosegue a porte chiuse.",
+"tipo_fatto": "evento"
+}
+],
 "gancio": "Un archivio di foto segnaletiche mostra la stessa persona con occhi sempre un filo più chiari, settimana dopo settimana.",
 "id": "HAC-INV-0037",
 "media": [],

@@ -1,0 +1,18 @@
+{
+"branch": "main",
+"cluster": "HAC-INV-0037",
+"created": "2026-09-16",
+"id": "HAC-FAT-35139219618-8",
+"momento": 8,
+"reversibile": true,
+"schema_version": 1,
+"soggetti": [
+"HAC-PER-0029"
+],
+"stabilito_da": "2026-09-16-un-grado-piu-chiaro",
+"status": "canon",
+"testo": "Hülya Sarcı ha alterato la tavola quattro della perizia del 2 settembre portando lo scarto medio settimanale da 0,79 a 0,83, e ha ottenuto l'anticipo dell'incarico da un funzionario del registro civile con cui ha una relazione segreta.",
+"tipo": "fatto",
+"tipo_fatto": "stato",
+"universo": "hackverse"
+}

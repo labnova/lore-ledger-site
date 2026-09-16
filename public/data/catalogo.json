@@ -146,5 +146,53 @@
 "tipo": "racconto",
 "titolo": "La Fascia Sicura",
 "universo": "elabverse"
+},
+{
+"battute": 19469,
+"branch": "main",
+"canali": [],
+"cluster": "HAC-INV-0037",
+"creato": "2026-09-16",
+"fatti_stabiliti": [
+"HAC-FAT-35139219618-1",
+"HAC-FAT-35139219618-2",
+"HAC-FAT-35139219618-3",
+"HAC-FAT-35139219618-4",
+"HAC-FAT-35139219618-5",
+"HAC-FAT-35139219618-6",
+"HAC-FAT-35139219618-7",
+"HAC-FAT-35139219618-8",
+"HAC-FAT-35139219618-9"
+],
+"id": "2026-09-16-un-grado-piu-chiaro",
+"numero": null,
+"personaggi": [
+"HAC-PER-0023",
+"HAC-PER-0024",
+"HAC-PER-0025",
+"HAC-PER-0026",
+"HAC-PER-0028",
+"HAC-PER-0029",
+"HAC-PER-0030"
+],
+"regione": "Tallinn",
+"righe_usate": [
+"HAC-INV-0037",
+"HAC-PER-0023",
+"HAC-PER-0024",
+"HAC-PER-0025",
+"HAC-PER-0026",
+"HAC-PER-0028",
+"HAC-PER-0029",
+"HAC-PER-0030",
+"HAC-SEM-0002"
+],
+"scene": 6,
+"sinossi": "A Tallinn un'analista ha venduto due volte lo stesso fascicolo di verifica biometrica, costruito sulla deriva di colore delle iridi, e uno dei due acquirenti pretende per iscritto la prova dell'esclusiva. Mentre lei cerca di rientrare in uno dei due dossier, un'adolescente scopre che il metodo con cui si sta invecchiando un'identità è in vendita come prodotto, e in una cella OSINT la firma lasciata dentro lo strumento che misura quel colore smette di essere un vanto privato. Sei stanze, sei documenti, un solo archivio che nessuno vuole riaprire.",
+"stato": "approvato",
+"testata": null,
+"tipo": "racconto",
+"titolo": "Un grado più chiaro",
+"universo": "hackverse"
 }
 ]

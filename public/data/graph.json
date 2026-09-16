@@ -5236,6 +5236,16 @@
 "to": "ELA-INV-0076"
 },
 {
+"from": "ELA-CON-0008",
+"kind": "sorgente",
+"to": "ELA-GAD-0003"
+},
+{
+"from": "ELA-CON-0008",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
 "from": "HAC-CON-0001",
 "kind": "sorgente",
 "to": "HAC-INV-0017"
@@ -5554,6 +5564,56 @@
 "from": "ELA-FAT-35034876036-8",
 "kind": "soggetto",
 "to": "ELA-PER-0012"
+},
+{
+"from": "HAC-FAT-35139219618-1",
+"kind": "soggetto",
+"to": "HAC-PER-0025"
+},
+{
+"from": "HAC-FAT-35139219618-2",
+"kind": "soggetto",
+"to": "HAC-PER-0024"
+},
+{
+"from": "HAC-FAT-35139219618-3",
+"kind": "soggetto",
+"to": "HAC-PER-0023"
+},
+{
+"from": "HAC-FAT-35139219618-4",
+"kind": "soggetto",
+"to": "HAC-PER-0023"
+},
+{
+"from": "HAC-FAT-35139219618-4",
+"kind": "soggetto",
+"to": "HAC-PER-0024"
+},
+{
+"from": "HAC-FAT-35139219618-5",
+"kind": "soggetto",
+"to": "HAC-INV-0037"
+},
+{
+"from": "HAC-FAT-35139219618-6",
+"kind": "soggetto",
+"to": "HAC-PER-0028"
+},
+{
+"from": "HAC-FAT-35139219618-7",
+"kind": "soggetto",
+"to": "HAC-PER-0030"
+},
+{
+"from": "HAC-FAT-35139219618-8",
+"kind": "soggetto",
+"to": "HAC-PER-0029"
+},
+{
+"from": "HAC-FAT-35139219618-9",
+"kind": "soggetto",
+"to": "HAC-PER-0026"
 },
 {
 "from": "STE-FAT-m20260913-1",
@@ -6533,6 +6593,12 @@
 "id": "ELA-CON-0007",
 "tipo": "contenuto",
 "titolo": "Album Flickr: la vasca che ha deciso i piani delle cabine",
+"universo": "elabverse"
+},
+{
+"id": "ELA-CON-0008",
+"tipo": "contenuto",
+"titolo": "Reel: perché Ayşe porta una lente di ricambio cucita in tasca",
 "universo": "elabverse"
 },
 {
@@ -7685,6 +7751,60 @@
 "id": "HAC-CON-0001",
 "tipo": "contenuto",
 "titolo": "thread #bug-bounty-idraulico: \"lo stesso identico bug, due settori diversi\"",
+"universo": "hackverse"
+},
+{
+"id": "HAC-FAT-35139219618-1",
+"tipo": "fatto",
+"titolo": "Dmitri Arrizabal firma ogni commit di irisdrift con l'handle machinesdream, che ",
+"universo": "hackverse"
+},
+{
+"id": "HAC-FAT-35139219618-2",
+"tipo": "fatto",
+"titolo": "Layla Rakabazi ha venduto il fascicolo sul soggetto 14-B a Hallik Screening OÜ i",
+"universo": "hackverse"
+},
+{
+"id": "HAC-FAT-35139219618-3",
+"tipo": "fatto",
+"titolo": "Ragnhild Kvivik tiene un brogliaccio personale, non previsto da nessuna procedur",
+"universo": "hackverse"
+},
+{
+"id": "HAC-FAT-35139219618-4",
+"tipo": "fatto",
+"titolo": "Il 10 settembre Layla Rakabazi legge quella pagina del brogliaccio di Ragnhild K",
+"universo": "hackverse"
+},
+{
+"id": "HAC-FAT-35139219618-5",
+"tipo": "fatto",
+"titolo": "Il metodo di Rilascio Lento è venduto come kit da dodici capsule con tabella dei",
+"universo": "hackverse"
+},
+{
+"id": "HAC-FAT-35139219618-6",
+"tipo": "fatto",
+"titolo": "Nadezhda Tavasaczyk, arrivata a ventisei settimane di deriva, scopre l'avvertenz",
+"universo": "hackverse"
+},
+{
+"id": "HAC-FAT-35139219618-7",
+"tipo": "fatto",
+"titolo": "L'11 settembre la revisione tra pari della cella OSINT è sospesa alle 9.22 dopo ",
+"universo": "hackverse"
+},
+{
+"id": "HAC-FAT-35139219618-8",
+"tipo": "fatto",
+"titolo": "Hülya Sarcı ha alterato la tavola quattro della perizia del 2 settembre portando",
+"universo": "hackverse"
+},
+{
+"id": "HAC-FAT-35139219618-9",
+"tipo": "fatto",
+"titolo": "Il 16 settembre, all'audizione interna della dogana digitale, István Veváthy sig",
 "universo": "hackverse"
 },
 {

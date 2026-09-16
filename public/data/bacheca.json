@@ -48,6 +48,49 @@
 },
 {
 "chiusa_il": null,
+"creata": "2026-09-16T19:28:28Z",
+"esito": null,
+"id": "BAC-35139219618-1",
+"payload": {
+"cluster": "HAC-INV-0037",
+"racconto": "2026-09-16-un-grado-piu-chiaro",
+"regione": "Tallinn",
+"titolo": "Un grado più chiaro"
+},
+"postata_da": "giudizio",
+"presa_da": null,
+"presa_il": null,
+"priorita": 1,
+"racconto": "2026-09-16-un-grado-piu-chiaro",
+"righe": [
+"HAC-INV-0037",
+"HAC-PER-0023",
+"HAC-PER-0024",
+"HAC-PER-0025",
+"HAC-PER-0026",
+"HAC-PER-0028",
+"HAC-PER-0029",
+"HAC-PER-0030",
+"HAC-SEM-0002"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "giudizio",
+"da": "giudizio",
+"quando": "2026-09-16T19:28:28Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_copertina",
+"universi": [
+"hackverse"
+]
+},
+{
+"chiusa_il": null,
 "creata": "2026-09-15T23:21:24Z",
 "esito": null,
 "id": "BAC-35034876036-3",
@@ -92,6 +135,50 @@
 "tipo": "pubblicazione",
 "universi": [
 "elabverse"
+]
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-16T19:28:29Z",
+"esito": null,
+"id": "BAC-35139219618-3",
+"payload": {
+"cluster": "HAC-INV-0037",
+"punteggio": 70,
+"racconto": "2026-09-16-un-grado-piu-chiaro",
+"regione": "Tallinn",
+"titolo": "Un grado più chiaro"
+},
+"postata_da": "giudizio",
+"presa_da": null,
+"presa_il": null,
+"priorita": 2,
+"racconto": "2026-09-16-un-grado-piu-chiaro",
+"righe": [
+"HAC-INV-0037",
+"HAC-PER-0023",
+"HAC-PER-0024",
+"HAC-PER-0025",
+"HAC-PER-0026",
+"HAC-PER-0028",
+"HAC-PER-0029",
+"HAC-PER-0030",
+"HAC-SEM-0002"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "giudizio",
+"da": "giudizio",
+"quando": "2026-09-16T19:28:29Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "pubblicazione",
+"universi": [
+"hackverse"
 ]
 },
 {
@@ -1441,6 +1528,129 @@
 },
 {
 "chiusa_il": null,
+"creata": "2026-09-16T18:46:02Z",
+"esito": null,
+"id": "BAC-35136410652-1",
+"payload": {
+"bozza": "Technical drawing of an object in two states on tracing paper: plan and elevation, graphite lines, overlaid layers that do not quite match, differences marked in revision red, illegible margin annotations, label with illegible product code. Subject: La Carta dei Venti Immobili — Portolano. Carta da lucido bianca-azzurra, grafite, un rosso di revisione per le differenze, verde bottiglia per la versione \"corrente\". Stile unico per tutto l'universo, branch compreso: diagrammi e disegni tecnici sovrapposti, la stessa immagine in due stati (prima/dopo, v1/v2) con le differenze marcate in rosso, annotazioni a margine, strati semitrasparenti che non combaciano di qualche millimetro. aspect ratio 16:9, high resolution, UHD --ar 4:3 --no digital glitch, pixels, scanlines, green matrix, terminal aesthetic, photographic realism, chrome futurism, illegible lettering, watermark",
+"chiave": "m1",
+"contesto": "id: ELA-INV-0032\ntipo: invenzione\nuniverso: elabverse\nestrazione: 7\ncreated: '2026-09-12'\nparent_id: null\nrelazione: null\nepoca_relativa: 0\nregione: null\nstatus: canon\nschema_version: 1\nnome_reale: Portolano\nnome: La Carta dei Venti Immobili\ndiscipline:\n- arte_visiva/affresco\n- cartografia/proiezioni\npoc: true",
+"manifest": {
+"caricato_il": null,
+"creato": "2026-09-16",
+"id": "MED-35136410652-1",
+"note": "oggetto: La Carta dei Venti Immobili; gancio: Un navigante segue per errore il battito di un pulsar dipinto invece di quello reale, e la nave corregge la rotta verso un punto che esiste solo sul muro.; torsione: I portolani medievali intrecciavano rotte e rose dei venti su pergamena; a bordo, dove non esiste vento, gli archivisti dipingono a fresco portolani del vuoto in cui le rose dei venti sono sostituite da rose di pulsar, ciascuna con il proprio battito invece di una direzione.; sref non fissato; variante medium",
+"parametri": {
+"ar": "4:3",
+"atomi": [
+"ATM-34809499246-21",
+"ATM-34809499246-20"
+],
+"cref": null,
+"sref": null
+},
+"prompt": "Technical drawing of an object in two states on tracing paper: plan and elevation, graphite lines, overlaid layers that do not quite match, differences marked in revision red, illegible margin annotations, label with illegible product code. Subject: La Carta dei Venti Immobili — Portolano. Carta da lucido bianca-azzurra, grafite, un rosso di revisione per le differenze, verde bottiglia per la versione \"corrente\". Stile unico per tutto l'universo, branch compreso: diagrammi e disegni tecnici sovrapposti, la stessa immagine in due stati (prima/dopo, v1/v2) con le differenze marcate in rosso, annotazioni a margine, strati semitrasparenti che non combaciano di qualche millimetro. aspect ratio 16:9, high resolution, UHD --ar 4:3 --no digital glitch, pixels, scanlines, green matrix, terminal aesthetic, photographic realism, chrome futurism, illegible lettering, watermark",
+"sha256": null,
+"sorgente": {
+"ref": "ELA-INV-0032",
+"tipo": "riga"
+},
+"stato": "proposto",
+"strumento": "midjourney",
+"tipo": "tavola",
+"universo": "elabverse",
+"url": null
+},
+"strumento": "midjourney",
+"tipo": "tavola"
+},
+"postata_da": "media-random",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"ELA-INV-0032"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "media-random",
+"da": "media-random",
+"quando": "2026-09-16T18:46:02Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_tavola",
+"universi": [
+"elabverse"
+]
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-16T18:46:02Z",
+"esito": null,
+"id": "BAC-35136410652-2",
+"payload": {
+"bozza": "Technical drawing of an object in two states on tracing paper: plan and elevation, graphite lines, overlaid layers that do not quite match, differences marked in revision red, illegible margin annotations, label with illegible product code. Subject: Guanto a Dita Numerate — Guanto di cuoio sottile con piccoli numeri intagliati nel legno, cuciti sulla punta di ogni dito. — carried by Lo indossa sulla mano con cui regola i quadranti del cono d'ascolto, così da non dover mai guardare cosa sta toccando.. Carta da lucido bianca-azzurra, grafite, un rosso di revisione per le differenze, verde bottiglia per la versione \"corrente\". Stile unico per tutto l'universo, branch compreso: diagrammi e disegni tecnici sovrapposti, la stessa immagine in due stati (prima/dopo, v1/v2) con le differenze marcate in rosso, annotazioni a margine, strati semitrasparenti che non combaciano di qualche millimetro. aspect ratio 16:9 --ar 4:3 --no digital glitch, pixels, scanlines, green matrix, terminal aesthetic, photographic realism, chrome futurism, illegible lettering, watermark",
+"chiave": "m2",
+"contesto": "id: ELA-GAD-0017\ntipo: gadget\nuniverso: elabverse\nestrazione: 38\ncreated: '2026-09-14'\nparent_id: null\nrelazione: null\nepoca_relativa: 0\nregione: Konya\nstatus: canon\nschema_version: 1\nnome: Guanto a Dita Numerate\ncosa: Guanto di cuoio sottile con piccoli numeri intagliati nel legno, cuciti sulla punta di ogni dito.\nchi_lo_porta: Lo indossa sulla mano con cui regola i quadranti del cono d'ascolto, così da non dover mai guardare cosa sta toccando.\ninvenzione_id: ELA-INV-0002\npersonaggio_id: ELA-PER-0019\ntradimento_tech: Ogni numero corrisponde a una soglia di frequenza del sonogramma; toccare \"tre\" invece di \"due\" significa che la voce captata appartiene già a una stella spenta, non a un vivo.\nprod: true",
+"manifest": {
+"caricato_il": null,
+"creato": "2026-09-16",
+"id": "MED-35136410652-2",
+"note": "oggetto: Guanto a Dita Numerate; gancio: Durante un blackout tocca istintivamente \"tre\" prima ancora che lo strumento abbia finito di elaborare il suono.; tradimento_tech: Ogni numero corrisponde a una soglia di frequenza del sonogramma; toccare \"tre\" invece di \"due\" significa che la voce captata appartiene già a una stella spenta, non a un vivo.; sref non fissato",
+"parametri": {
+"ar": "4:3",
+"atomi": [
+"ATM-34809499246-21"
+],
+"cref": null,
+"sref": null
+},
+"prompt": "Technical drawing of an object in two states on tracing paper: plan and elevation, graphite lines, overlaid layers that do not quite match, differences marked in revision red, illegible margin annotations, label with illegible product code. Subject: Guanto a Dita Numerate — Guanto di cuoio sottile con piccoli numeri intagliati nel legno, cuciti sulla punta di ogni dito. — carried by Lo indossa sulla mano con cui regola i quadranti del cono d'ascolto, così da non dover mai guardare cosa sta toccando.. Carta da lucido bianca-azzurra, grafite, un rosso di revisione per le differenze, verde bottiglia per la versione \"corrente\". Stile unico per tutto l'universo, branch compreso: diagrammi e disegni tecnici sovrapposti, la stessa immagine in due stati (prima/dopo, v1/v2) con le differenze marcate in rosso, annotazioni a margine, strati semitrasparenti che non combaciano di qualche millimetro. aspect ratio 16:9 --ar 4:3 --no digital glitch, pixels, scanlines, green matrix, terminal aesthetic, photographic realism, chrome futurism, illegible lettering, watermark",
+"sha256": null,
+"sorgente": {
+"ref": "ELA-GAD-0017",
+"tipo": "riga"
+},
+"stato": "proposto",
+"strumento": "midjourney",
+"tipo": "tavola",
+"universo": "elabverse",
+"url": null
+},
+"strumento": "midjourney",
+"tipo": "tavola"
+},
+"postata_da": "media-random",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"ELA-GAD-0017"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "media-random",
+"da": "media-random",
+"quando": "2026-09-16T18:46:02Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_tavola",
+"universi": [
+"elabverse"
+]
+},
+{
+"chiusa_il": null,
 "creata": "2026-09-15T23:21:24Z",
 "esito": null,
 "id": "BAC-35034876036-2",
@@ -1484,6 +1694,49 @@
 "tipo": "media_suono",
 "universi": [
 "elabverse"
+]
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-16T19:28:28Z",
+"esito": null,
+"id": "BAC-35139219618-2",
+"payload": {
+"cluster": "HAC-INV-0037",
+"racconto": "2026-09-16-un-grado-piu-chiaro",
+"regione": "Tallinn",
+"titolo": "Un grado più chiaro"
+},
+"postata_da": "giudizio",
+"presa_da": null,
+"presa_il": null,
+"priorita": 4,
+"racconto": "2026-09-16-un-grado-piu-chiaro",
+"righe": [
+"HAC-INV-0037",
+"HAC-PER-0023",
+"HAC-PER-0024",
+"HAC-PER-0025",
+"HAC-PER-0026",
+"HAC-PER-0028",
+"HAC-PER-0029",
+"HAC-PER-0030",
+"HAC-SEM-0002"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "giudizio",
+"da": "giudizio",
+"quando": "2026-09-16T19:28:28Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_suono",
+"universi": [
+"hackverse"
 ]
 },
 {
@@ -1768,6 +2021,42 @@
 "id": "BAC-35026555608-1",
 "letto_a": "fcd4d7681aa126ccb6bed0a0e85dca1e2f097c1f",
 "payload": {
+"arbitro": {
+"artefatti_prodotti": [
+"HAC-PER-0023"
+],
+"letto_a": "fcd4d7681aa126ccb6bed0a0e85dca1e2f097c1f",
+"obiezioni_valide": 0,
+"scartate": [],
+"valide": [
+{
+"agente": "guardiano",
+"auto_riferimento": [],
+"commento": "BAC-35059438986-1",
+"contraddizione_valida": false,
+"posizione": "forma_diversa",
+"prove_valide": [
+"HAC-PER-0022",
+"HAC-PER-0015",
+"HAC-PER-0012",
+"HAC-PER-0014",
+"HAC-PER-0013"
+]
+},
+{
+"agente": "riparatore",
+"auto_riferimento": [],
+"commento": "BAC-35059438986-2",
+"contraddizione_valida": false,
+"posizione": "accolgo",
+"prove_valide": [
+"HAC-PER-0011",
+"HAC-PER-0022",
+"HAC-INV-0001"
+]
+}
+]
+},
 "artefatti_prodotti": [
 "HAC-PER-0023"
 ],
@@ -1779,6 +2068,7 @@
 "entita:elabverse/luogo/konya",
 "entita:elabverse/luogo/scafo-zero"
 ],
+"commenti_visti": 2,
 "forma": "espansione",
 "lacuna": "nessun legame affettivo dichiarato",
 "letto_a": "fcd4d7681aa126ccb6bed0a0e85dca1e2f097c1f",
@@ -1828,6 +2118,40 @@
 "id": "BAC-35027770871-1",
 "letto_a": "6bfc175f87feceda045cf50bbfda712f25a0b06e",
 "payload": {
+"arbitro": {
+"artefatti_prodotti": [
+"entita:neofeudal/luogo/calvenna"
+],
+"letto_a": "6bfc175f87feceda045cf50bbfda712f25a0b06e",
+"obiezioni_valide": 0,
+"scartate": [],
+"valide": [
+{
+"agente": "guardiano",
+"auto_riferimento": [],
+"commento": "BAC-35090037633-1",
+"contraddizione_valida": false,
+"posizione": "accolgo",
+"prove_valide": [
+"NEO-INV-0070",
+"NEO-GAD-0051",
+"ELA-GAD-0023"
+]
+},
+{
+"agente": "riparatore",
+"auto_riferimento": [],
+"commento": "BAC-35090037633-2",
+"contraddizione_valida": false,
+"posizione": "accolgo",
+"prove_valide": [
+"NEO-INV-0070",
+"NEO-GAD-0051",
+"ELA-GAD-0023"
+]
+}
+]
+},
 "artefatti_prodotti": [
 "entita:neofeudal/luogo/calvenna"
 ],
@@ -1839,6 +2163,7 @@
 "entita:neofeudal/luogo/calvenna",
 "entita:cyberverse/luogo/rostkirche"
 ],
+"commenti_visti": 2,
 "entita": {
 "nome": "Calvenna",
 "ricorrenze": 102,
@@ -2205,6 +2530,40 @@
 "agente": "riparatore",
 "da": "riparatore",
 "quando": "2026-09-16T11:24:18Z",
+"stato": "attesa_curatore"
+}
+],
+"tentativi": 0,
+"tipo": "nota",
+"universi": []
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-16T19:29:23Z",
+"esito": null,
+"id": "BAC-35140792153-1",
+"payload": {
+"bersaglio": "schema:carta",
+"modifica_proposta": "In schema/carta.schema.json aggiungere il vincolo: se tipo == \"approfondimento\", il campo `artefatto` non può contenere l'id della carta stessa. In engine/validate.py (funzione validate_all) sollevare errore di autoreferenza quando `artefatto` include la propria `carta`.",
+"osservazione": "Due carte di tipo approfondimento (BAC-35026555608-1, BAC-35027770871-1) hanno il campo artefatto coincidente con il proprio id: la carta confermata dal proponente è essa stessa l'artefatto, senza contenuto distinto. Il ciclo di validazione diventa autoreferenziale e non produce nulla di verificabile.",
+"prove": [
+"BAC-35026555608-1",
+"BAC-35027770871-1"
+]
+},
+"postata_da": "redattore",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [],
+"scade": null,
+"stato": "attesa_curatore",
+"storia": [
+{
+"agente": "redattore",
+"da": "redattore",
+"quando": "2026-09-16T19:29:23Z",
 "stato": "attesa_curatore"
 }
 ],

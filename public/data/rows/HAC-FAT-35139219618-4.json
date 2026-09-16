@@ -1,0 +1,19 @@
+{
+"branch": "main",
+"cluster": "HAC-INV-0037",
+"created": "2026-09-16",
+"id": "HAC-FAT-35139219618-4",
+"momento": 4,
+"reversibile": true,
+"schema_version": 1,
+"soggetti": [
+"HAC-PER-0023",
+"HAC-PER-0024"
+],
+"stabilito_da": "2026-09-16-un-grado-piu-chiaro",
+"status": "canon",
+"testo": "Il 10 settembre Layla Rakabazi legge quella pagina del brogliaccio di Ragnhild Kvivik al banco operatori della dogana digitale.",
+"tipo": "fatto",
+"tipo_fatto": "evento",
+"universo": "hackverse"
+}

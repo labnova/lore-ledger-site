@@ -3,7 +3,7 @@
 "alias": [],
 "descrizione": "Rigattiere di Rostkirche che smercia sestanti orbitali dismessi e Bollini Parallasse contraffatti a chi non può permettersi un restauro certificato.",
 "ha_prosa": false,
-"n_ricorrenze": 4,
+"n_ricorrenze": 7,
 "nome": "Ivo Reinacher",
 "prima_apparizione": 78,
 "prosa": null,
@@ -44,9 +44,46 @@
 "riga_id": "CYB-INV-0068",
 "riga_tipo": "invenzione",
 "riga_titolo": "L'Archivio Rubato"
+},
+{
+"estrazione": 89,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 89,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0038",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Sestante di Ivo"
+},
+{
+"estrazione": 89,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0040",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Bollino Buono"
 }
 ],
 "righe": [
+{
+"id": "CYB-GAD-0038",
+"tipo": "gadget",
+"titolo": "Il Sestante di Ivo"
+},
+{
+"id": "CYB-GAD-0040",
+"tipo": "gadget",
+"titolo": "Il Bollino Buono"
+},
 {
 "id": "CYB-INV-0062",
 "tipo": "invenzione",

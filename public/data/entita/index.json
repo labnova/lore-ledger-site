@@ -21,7 +21,7 @@
 "ha_prosa": false,
 "nome": "Rostkirche",
 "prima_apparizione": 16,
-"ricorrenze": 65,
+"ricorrenze": 76,
 "slug": "rostkirche",
 "sopra_soglia": true,
 "tipo": "luogo",
@@ -84,6 +84,18 @@
 "universo": "hackverse"
 },
 {
+"alias": [],
+"descrizione": "Corporazione che rilascia il Bollino di restauro autorizzato a Vetrasca, validando ogni facciata contro l'archivio delle posizioni orbitali registrato al momento della sua ultima ristrutturazione.",
+"ha_prosa": false,
+"nome": "Parallasse Certificazioni™",
+"prima_apparizione": 78,
+"ricorrenze": 24,
+"slug": "parallasse-certificazionitm",
+"sopra_soglia": true,
+"tipo": "ente",
+"universo": "cyberverse"
+},
+{
 "alias": [
 "STE-REG-cancello-del-freddo",
 "STE-REG-ledoskol"
@@ -125,18 +137,6 @@
 "sopra_soglia": true,
 "tipo": "luogo",
 "universo": "hackverse"
-},
-{
-"alias": [],
-"descrizione": "Corporazione che rilascia il Bollino di restauro autorizzato a Vetrasca, validando ogni facciata contro l'archivio delle posizioni orbitali registrato al momento della sua ultima ristrutturazione.",
-"ha_prosa": false,
-"nome": "Parallasse Certificazioni™",
-"prima_apparizione": 78,
-"ricorrenze": 14,
-"slug": "parallasse-certificazionitm",
-"sopra_soglia": true,
-"tipo": "ente",
-"universo": "cyberverse"
 },
 {
 "alias": [
@@ -208,23 +208,11 @@
 },
 {
 "alias": [],
-"descrizione": "Mercante di talee e sementi che segue le squadre di bonifica canale per canale, vendendo piante già acclimatate al fango appena scavato; sa dove passerà l'acqua un anno prima della Diocesi.",
-"ha_prosa": false,
-"nome": "Idris Sabbagh",
-"prima_apparizione": 85,
-"ricorrenze": 6,
-"slug": "idris-sabbagh",
-"sopra_soglia": true,
-"tipo": "attore",
-"universo": "neofeudal"
-},
-{
-"alias": [],
 "descrizione": "Lo scarto crescente del faro orbitale di riferimento usato da Parallasse Certificazioni™, mai ricalibrato dopo le Faglie Sociali del 3167; ogni misura fatta con lui, dai bollini di restauro agli impianti di localizzazione, eredita lo stesso errore.",
 "ha_prosa": false,
 "nome": "La Deriva del Meridiano",
 "prima_apparizione": 78,
-"ricorrenze": 4,
+"ricorrenze": 9,
 "slug": "la-deriva-del-meridiano",
 "sopra_soglia": true,
 "tipo": "anomalia",
@@ -236,11 +224,23 @@
 "ha_prosa": false,
 "nome": "Ivo Reinacher",
 "prima_apparizione": 78,
-"ricorrenze": 4,
+"ricorrenze": 7,
 "slug": "ivo-reinacher",
 "sopra_soglia": true,
 "tipo": "attore",
 "universo": "cyberverse"
+},
+{
+"alias": [],
+"descrizione": "Mercante di talee e sementi che segue le squadre di bonifica canale per canale, vendendo piante già acclimatate al fango appena scavato; sa dove passerà l'acqua un anno prima della Diocesi.",
+"ha_prosa": false,
+"nome": "Idris Sabbagh",
+"prima_apparizione": 85,
+"ricorrenze": 6,
+"slug": "idris-sabbagh",
+"sopra_soglia": true,
+"tipo": "attore",
+"universo": "neofeudal"
 },
 {
 "alias": [],

@@ -3,7 +3,9 @@
 "orientamento": "pansessuale",
 "situazione": "single"
 },
-"appare_in": [],
+"appare_in": [
+"2026-09-16-un-grado-piu-chiaro"
+],
 "casta": "analisti",
 "ceppo": "arabo",
 "cognome": "Rakabazi",
@@ -13,7 +15,22 @@
 "epoca_relativa": 0,
 "estrazione": 74,
 "eta_fascia": "maturo",
-"fatti": [],
+"fatti": [
+{
+"id": "HAC-FAT-35139219618-2",
+"momento": 2,
+"stabilito_da": "2026-09-16-un-grado-piu-chiaro",
+"testo": "Layla Rakabazi ha venduto il fascicolo sul soggetto 14-B a Hallik Screening OÜ il 4 marzo e a Verrone Due Diligence B.V. l'11 giugno.",
+"tipo_fatto": "evento"
+},
+{
+"id": "HAC-FAT-35139219618-4",
+"momento": 4,
+"stabilito_da": "2026-09-16-un-grado-piu-chiaro",
+"testo": "Il 10 settembre Layla Rakabazi legge quella pagina del brogliaccio di Ragnhild Kvivik al banco operatori della dogana digitale.",
+"tipo_fatto": "evento"
+}
+],
 "gancio": "Una notte a Tallinn si accorge di aver già venduto lo stesso identikit tre mesi prima, sotto un nome diverso, e non ricorda a chi.",
 "id": "HAC-PER-0024",
 "invenzione_id": "HAC-INV-0037",

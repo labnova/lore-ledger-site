@@ -1,0 +1,18 @@
+{
+"branch": "main",
+"cluster": "HAC-INV-0037",
+"created": "2026-09-16",
+"id": "HAC-FAT-35139219618-3",
+"momento": 3,
+"reversibile": true,
+"schema_version": 1,
+"soggetti": [
+"HAC-PER-0023"
+],
+"stabilito_da": "2026-09-16-un-grado-piu-chiaro",
+"status": "canon",
+"testo": "Ragnhild Kvivik tiene un brogliaccio personale, non previsto da nessuna procedura, in cui annota ora, numero di verifica ed esito di ogni firma, e vi ha registrato la segnalazione sul fondo 14 aperta e chiusa il 14 marzo.",
+"tipo": "fatto",
+"tipo_fatto": "stato",
+"universo": "hackverse"
+}

@@ -3,7 +3,9 @@
 "orientamento": "pansessuale",
 "situazione": "promesso_per_contratto"
 },
-"appare_in": [],
+"appare_in": [
+"2026-09-16-un-grado-piu-chiaro"
+],
 "casta": "analisti",
 "ceppo": "ibrido",
 "cognome": "Arrizabal",
@@ -13,7 +15,15 @@
 "epoca_relativa": 0,
 "estrazione": 74,
 "eta_fascia": "adulto",
-"fatti": [],
+"fatti": [
+{
+"id": "HAC-FAT-35139219618-1",
+"momento": 1,
+"stabilito_da": "2026-09-16-un-grado-piu-chiaro",
+"testo": "Dmitri Arrizabal firma ogni commit di irisdrift con l'handle machinesdream, che usa in pubblico da nove anni.",
+"tipo_fatto": "stato"
+}
+],
 "gancio": "Il suo promesso per contratto scopre la firma nascosta nel codice e capisce, prima ancora dei colleghi, che Dmitri ha appena reso tracciabile ogni analista che ha usato quello strumento.",
 "id": "HAC-PER-0025",
 "invenzione_id": "HAC-INV-0037",

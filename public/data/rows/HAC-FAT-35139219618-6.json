@@ -1,0 +1,18 @@
+{
+"branch": "main",
+"cluster": "HAC-INV-0037",
+"created": "2026-09-16",
+"id": "HAC-FAT-35139219618-6",
+"momento": 6,
+"reversibile": true,
+"schema_version": 1,
+"soggetti": [
+"HAC-PER-0028"
+],
+"stabilito_da": "2026-09-16-un-grado-piu-chiaro",
+"status": "canon",
+"testo": "Nadezhda Tavasaczyk, arrivata a ventisei settimane di deriva, scopre l'avvertenza del venditore e ordina comunque una nuova confezione.",
+"tipo": "fatto",
+"tipo_fatto": "evento",
+"universo": "hackverse"
+}

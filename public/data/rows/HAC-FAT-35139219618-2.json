@@ -1,0 +1,18 @@
+{
+"branch": "main",
+"cluster": "HAC-INV-0037",
+"created": "2026-09-16",
+"id": "HAC-FAT-35139219618-2",
+"momento": 2,
+"reversibile": true,
+"schema_version": 1,
+"soggetti": [
+"HAC-PER-0024"
+],
+"stabilito_da": "2026-09-16-un-grado-piu-chiaro",
+"status": "canon",
+"testo": "Layla Rakabazi ha venduto il fascicolo sul soggetto 14-B a Hallik Screening OÜ il 4 marzo e a Verrone Due Diligence B.V. l'11 giugno.",
+"tipo": "fatto",
+"tipo_fatto": "evento",
+"universo": "hackverse"
+}

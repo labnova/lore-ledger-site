@@ -3627,5 +3627,30 @@
 "CYB-INV-0073"
 ],
 "universo": "cyberverse"
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"ELA-GAD-0003",
+"ELA-INV-0001",
+"ELA-PER-0008"
+],
+"chiavi": {
+"canale": "reels",
+"formato": "making_of",
+"medium": "video_corto",
+"sorgente_id": "ELA-GAD-0003",
+"veridicita": "making_of"
+},
+"created": "2026-09-16",
+"esito": "ok",
+"estrazione": 90,
+"forzata": false,
+"lotto": "lotto-contenuti",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"ELA-CON-0008"
+],
+"universo": "elabverse"
 }
 ]

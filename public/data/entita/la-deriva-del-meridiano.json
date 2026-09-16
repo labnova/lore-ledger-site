@@ -3,7 +3,7 @@
 "alias": [],
 "descrizione": "Lo scarto crescente del faro orbitale di riferimento usato da Parallasse Certificazioni™, mai ricalibrato dopo le Faglie Sociali del 3167; ogni misura fatta con lui, dai bollini di restauro agli impianti di localizzazione, eredita lo stesso errore.",
 "ha_prosa": false,
-"n_ricorrenze": 4,
+"n_ricorrenze": 9,
 "nome": "La Deriva del Meridiano",
 "prima_apparizione": 78,
 "prosa": null,
@@ -44,9 +44,74 @@
 "riga_id": "CYB-INV-0069",
 "riga_tipo": "invenzione",
 "riga_titolo": "Il Segnale che non Dorme"
+},
+{
+"estrazione": 89,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 89,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0032",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Correttore da Polso"
+},
+{
+"estrazione": 89,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0036",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Taccuino di Turno"
+},
+{
+"estrazione": 89,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0037",
+"riga_tipo": "gadget",
+"riga_titolo": "Lo Spauracchio Ottico"
+},
+{
+"estrazione": 89,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0040",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Bollino Buono"
 }
 ],
 "righe": [
+{
+"id": "CYB-GAD-0032",
+"tipo": "gadget",
+"titolo": "Il Correttore da Polso"
+},
+{
+"id": "CYB-GAD-0036",
+"tipo": "gadget",
+"titolo": "Il Taccuino di Turno"
+},
+{
+"id": "CYB-GAD-0037",
+"tipo": "gadget",
+"titolo": "Lo Spauracchio Ottico"
+},
+{
+"id": "CYB-GAD-0040",
+"tipo": "gadget",
+"titolo": "Il Bollino Buono"
+},
 {
 "id": "CYB-INV-0058",
 "tipo": "invenzione",
