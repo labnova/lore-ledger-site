@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-ambiente-gli-animali",
+"created": "2026-09-16",
+"discipline": [
+"botanica/etnobotanica",
+"idraulica/bonifica"
+],
+"entita_usate": [
+"Sarakan",
+"Diocesi del Cielo"
+],
+"epoca_relativa": 0,
+"estrazione": 85,
+"fatti": [],
+"gancio": "Le capre di Sarakan rifiutano ormai ogni altro pascolo, e le sue radici fittissime prosciugano la falda più in fretta di quanto la Diocesi del Cielo ridistribuisca il turno d'acqua.",
+"id": "NEO-INV-0078",
+"media": [],
+"nome": "L'Erba delle Capre",
+"nome_reale": "Erba a crescita rapida seminata per gli argini di bonifica, diventata l'unico foraggio accettato dal bestiame di Sarakan",
+"oggetto": "Un'erba a crescita rapida, seminata per tenere gli argini dei canali di bonifica, è diventata l'unico foraggio che il bestiame di Sarakan accetta.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "dipendenza",
+"universo": "neofeudal"
+}

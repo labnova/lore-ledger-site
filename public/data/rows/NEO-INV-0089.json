@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "l-utente-ultimo",
+"created": "2026-09-16",
+"discipline": [
+"botanica/etnobotanica",
+"idraulica/bonifica"
+],
+"entita_usate": [
+"La Semina dell'Anno Storto"
+],
+"epoca_relativa": 0,
+"estrazione": 85,
+"fatti": [],
+"gancio": "Chi semina oggi la Semina dell'Anno Storto crede di coltivare grano resistente al ristagno, e si ritrova radici che intasano il proprio canale.",
+"id": "NEO-INV-0089",
+"media": [],
+"nome": "Il Grano d'Argine",
+"nome_reale": "Sacco di sementi scambiato per errore nella grande bonifica di tre inverni fa, coltivato ancora oggi come falso «grano d'argine»",
+"oggetto": "Durante la bonifica di tre inverni fa un sacco di sementi fu scambiato per errore: quello che tutti chiamano «grano d'argine» non è la varietà del registro.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "errore-di-etichetta",
+"universo": "neofeudal"
+}

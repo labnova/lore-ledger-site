@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "il-costruttore",
+"created": "2026-09-16",
+"discipline": [
+"botanica/etnobotanica",
+"idraulica/bonifica"
+],
+"entita_usate": [
+"Diocesi del Cielo",
+"Sarakan"
+],
+"epoca_relativa": 0,
+"estrazione": 85,
+"fatti": [],
+"gancio": "Chi costruisce ancora secondo la vecchia misura si vede il lavoro dichiarato non canonico e da rifare, anche se regge l'acqua meglio della misura nuova.",
+"id": "NEO-INV-0090",
+"media": [],
+"nome": "La Misura Doppia",
+"nome_reale": "Misura unica di canale imposta dalla Diocesi del Cielo a Sarakan per ogni nuova bonifica, il doppio della misura tradizionale",
+"oggetto": "La Diocesi del Cielo impone a Sarakan una misura unica di canale, larga il doppio di quella tradizionale, per ogni nuova bonifica.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "standard-imposto",
+"universo": "neofeudal"
+}

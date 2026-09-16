@@ -1,0 +1,33 @@
+{
+"affettivo": null,
+"appare_in": [],
+"casta": "clero",
+"ceppo": "slavo",
+"cognome": "Vranić",
+"contraddizione": "Registra ogni volo dei falchi come prova sacra del debito di ciascun cavaliere, ma quando due falchi circolano sulla stessa bestia, presagio di un debito doppio, cancella la voce invece di trascriverla, convinto che un debito non scritto non vada mai pagato.",
+"created": "2026-09-16",
+"difetto": "bugiardo",
+"epoca_relativa": 0,
+"estrazione": 85,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "Ha bruciato la pagina del registro il giorno in cui i due falchi di Tatiana sono circolati sulla stessa bestia, ma lei aveva già sognato quella pagina tre notti prima, parola per parola.",
+"id": "NEO-PER-0078",
+"invenzione_id": "NEO-INV-0013",
+"media": [],
+"nome": "Bogumil",
+"parent_id": "NEO-PER-0041",
+"rapporto": "falsifica",
+"regione": "Vranidol",
+"relazione": "espansione",
+"ritratto": null,
+"segno": "capricorno",
+"spirituale": {
+"credenza": "dottrina del debito",
+"rapporto": "devoto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "meticoloso",
+"universo": "neofeudal"
+}

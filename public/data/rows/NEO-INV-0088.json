@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-ambiente-gli-animali",
+"created": "2026-09-16",
+"discipline": [
+"botanica/etnobotanica",
+"idraulica/bonifica"
+],
+"entita_usate": [
+"La Semina dell'Anno Storto",
+"Diocesi del Cielo"
+],
+"epoca_relativa": 0,
+"estrazione": 85,
+"fatti": [],
+"gancio": "Le rane del Canale Basso muoiono a ondate ogni volta che la Diocesi del Cielo ordina una bonifica straordinaria, e nessuno collega ancora le due cose.",
+"id": "NEO-INV-0088",
+"media": [],
+"nome": "La Corteccia Doppia",
+"nome_reale": "Diserbante a base di corteccia macerata, usato nei canali contro le radici della Semina dell'Anno Storto e come purga forte dagli erboristi",
+"oggetto": "Il diserbante di corteccia macerata, sparso contro le radici della Semina dell'Anno Storto, è il medesimo composto che gli erboristi usano per purghe forti.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "doppio-uso",
+"universo": "neofeudal"
+}

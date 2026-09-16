@@ -3379,5 +3379,98 @@
 "ELA-CON-0007"
 ],
 "universo": "elabverse"
+},
+{
+"campi_forzati": [],
+"chiavi": {
+"manca": {
+"gadget": 0,
+"personaggi": 0,
+"regione": true
+},
+"regione": "Vasperdine",
+"universo": "neofeudal"
+},
+"cluster_target": "NEO-INV-0044",
+"created": "2026-09-16",
+"esito": "nessuna riga necessaria — il cluster ha già 10 personaggi con 5 rapporti diversi e 1 gadget (NEO-GAD-0072), maturo per engine.cluster (personaggi=10 gadget=1). Il \"manca regione\" del piano è un falso positivo, stesso caso già visto per HAC-INV-0001 (estrazioni 048, 059): il campo `regione` dei 10 personaggi esistenti riporta l'id della riga regione (NEO-REG-zastavena) invece del nome (Zastavena), quindi il lookup per nome non trova corrispondenza. Le righe esistenti sono già committate e non vengono toccate (append-only); regione_esistente risolta casualmente su Vasperdine ma nessun nuovo file scritto perché non c'è alcuna riga personaggio o gadget mancante a cui assegnarla.\n",
+"estrazione": 84,
+"forzata": false,
+"lotto": "lotto-maturazione",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [],
+"universo": "neofeudal"
+},
+{
+"ambientazione": "borgo-era-amministrata",
+"bibbia_pescata": [
+"Il costo delle bugie è il sistema operativo del mondo. Ogni menzogna produce"
+],
+"campi_forzati": [],
+"canone_pescato": [
+"NEO-GAD-0065",
+"NEO-PER-0041",
+"NEO-SEM-0004"
+],
+"chiavi": {
+"discipline": [
+"botanica/etnobotanica",
+"idraulica/bonifica"
+],
+"universo": "neofeudal"
+},
+"created": "2026-09-16",
+"entita": {
+"anomalia": {
+"descrizione": "Un lotto di sementi distribuito per errore durante la grande bonifica di tre inverni fa, le cui radici crescono nelle giunture dei canali invece che nei campi; ogni ostruzione da allora viene incolpata di qualcos'altro.",
+"nome": "La Semina dell'Anno Storto"
+},
+"attore": {
+"descrizione": "Mercante di talee e sementi che segue le squadre di bonifica canale per canale, vendendo piante già acclimatate al fango appena scavato; sa dove passerà l'acqua un anno prima della Diocesi.",
+"nome": "Idris Sabbagh"
+},
+"ente": {
+"descrizione": "Autorità che fissa il turno d'acqua di Sarakan e benedice ogni bonifica prima che la vanga tocchi terra; ciò che non passa dal suo registro delle piogge non è mai davvero successo.",
+"nome": "Diocesi del Cielo"
+},
+"luogo": {
+"descrizione": "Terra di canali e cascine ai margini coltivabili del pianeta, dove il turno d'acqua è fissato dalla Diocesi del Cielo e i Cerusici passano una volta l'anno a riaprire i passaggi ostruiti con la stessa manovra che usano sui corpi vivi.",
+"nome": "Sarakan"
+}
+},
+"entita_riusate": [
+"Sarakan"
+],
+"esito": "ok",
+"espansioni": [
+"NEO-PER-0078"
+],
+"estrazione": 85,
+"forzata": false,
+"lotto": "lotto-lore",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"NEO-INV-0073",
+"NEO-INV-0074",
+"NEO-INV-0075",
+"NEO-INV-0076",
+"NEO-INV-0077",
+"NEO-INV-0078",
+"NEO-INV-0079",
+"NEO-INV-0080",
+"NEO-INV-0081",
+"NEO-INV-0082",
+"NEO-INV-0083",
+"NEO-INV-0084",
+"NEO-INV-0085",
+"NEO-INV-0086",
+"NEO-INV-0087",
+"NEO-INV-0088",
+"NEO-INV-0089",
+"NEO-INV-0090",
+"NEO-INV-0091",
+"NEO-INV-0092"
+],
+"universo": "neofeudal"
 }
 ]

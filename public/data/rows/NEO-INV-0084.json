@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "l-istituzione",
+"created": "2026-09-16",
+"discipline": [
+"botanica/etnobotanica",
+"idraulica/bonifica"
+],
+"entita_usate": [
+"Diocesi del Cielo"
+],
+"epoca_relativa": 0,
+"estrazione": 85,
+"fatti": [],
+"gancio": "Davanti alla disputa, è il palo marcito a parlare, non i registri della Diocesi del Cielo, riscritti due volte nel frattempo.",
+"id": "NEO-INV-0084",
+"media": [],
+"nome": "Il Palo delle Tacche",
+"nome_reale": "Palo di confine del canale, inciso con le tacche di ogni bonifica autorizzata, unica prova di una diversione concessa e poi negata",
+"oggetto": "Un vecchio palo di confine del canale, inciso con le tacche di ogni bonifica autorizzata, è l'unica prova di una diversione concessa e poi negata.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "oggetto-testimone",
+"universo": "neofeudal"
+}

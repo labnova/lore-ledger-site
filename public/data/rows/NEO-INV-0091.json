@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "l-istituzione",
+"created": "2026-09-16",
+"discipline": [
+"botanica/etnobotanica",
+"idraulica/bonifica"
+],
+"entita_usate": [
+"Diocesi del Cielo"
+],
+"epoca_relativa": 0,
+"estrazione": 85,
+"fatti": [],
+"gancio": "Quando la Diocesi del Cielo nega di aver mai autorizzato la deviazione verso gli orti proibiti, bastano gli anelli del portello a smentirla.",
+"id": "NEO-INV-0091",
+"media": [],
+"nome": "Il Portello degli Anelli",
+"nome_reale": "Portello di legno del Canale Comune, inciso anello dopo anello con le tacche di ogni diversione d'acqua mai concessa o negata",
+"oggetto": "Il vecchio portello di legno del Canale Comune porta incise, anello dopo anello, le tacche di ogni diversione d'acqua mai concessa o negata.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "memoria-dell-oggetto",
+"universo": "neofeudal"
+}

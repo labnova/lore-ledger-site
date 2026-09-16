@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-ambiente-gli-animali",
+"created": "2026-09-16",
+"discipline": [
+"botanica/etnobotanica",
+"idraulica/bonifica"
+],
+"entita_usate": [
+"La Semina dell'Anno Storto",
+"Idris Sabbagh"
+],
+"epoca_relativa": 0,
+"estrazione": 85,
+"fatti": [],
+"gancio": "L'ostruzione sembra naturale, ma Idris Sabbagh riconosce il taglio delle talee: le ha vendute lui, due lune prima, a un cliente che non ha mai detto dove le avrebbe portate.",
+"id": "NEO-INV-0092",
+"media": [],
+"nome": "Il Taglio di Idris",
+"nome_reale": "Radici della Semina dell'Anno Storto piantate di proposito in un tratto di canale mai toccato dall'errore originario",
+"oggetto": "Qualcuno ha piantato di proposito le radici della Semina dell'Anno Storto in un tratto di canale mai toccato dall'errore originario.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "sabotaggio",
+"universo": "neofeudal"
+}

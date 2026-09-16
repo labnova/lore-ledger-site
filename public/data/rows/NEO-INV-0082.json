@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "il-futuro",
+"created": "2026-09-16",
+"discipline": [
+"botanica/etnobotanica",
+"idraulica/bonifica"
+],
+"entita_usate": [
+"Idris Sabbagh",
+"Sarakan"
+],
+"epoca_relativa": 0,
+"estrazione": 85,
+"fatti": [],
+"gancio": "Idris Sabbagh rivende quelle sementi due valli più in là, e Sarakan non saprà più bonificare i campi bassi con la stessa sicurezza di prima.",
+"id": "NEO-INV-0082",
+"media": [],
+"nome": "Il Deposito della Piena",
+"nome_reale": "Deposito di sementi resistenti alla piena, conservato per le bonifiche future e svaligiato in una notte",
+"oggetto": "Un deposito di sementi resistenti alla piena, conservato per le bonifiche future di Sarakan, viene svaligiato in una sola notte.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "furto",
+"universo": "neofeudal"
+}

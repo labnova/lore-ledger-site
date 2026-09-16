@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "un-terzo-ignaro",
+"created": "2026-09-16",
+"discipline": [
+"botanica/etnobotanica",
+"idraulica/bonifica"
+],
+"entita_usate": [
+"Idris Sabbagh"
+],
+"epoca_relativa": 0,
+"estrazione": 85,
+"fatti": [],
+"gancio": "Chi le compra da Idris Sabbagh risparmia una stagione e ne perde una successiva, quando l'acqua filtra proprio dove a valle nessuno se l'aspettava.",
+"id": "NEO-INV-0086",
+"media": [],
+"nome": "Le Stuoie di Resina",
+"nome_reale": "Stuoie di canna intrise di resina d'erbe, vendute come rivestimento economico dei canali al posto della pietra",
+"oggetto": "Stuoie di canna intrise di resina d'erbe vengono vendute come rivestimento economico dei canali di bonifica al posto della pietra.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "sostituto-povero",
+"universo": "neofeudal"
+}

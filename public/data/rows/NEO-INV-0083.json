@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "la-comunita",
+"created": "2026-09-16",
+"discipline": [
+"botanica/etnobotanica",
+"idraulica/bonifica"
+],
+"entita_usate": [
+"Diocesi del Cielo"
+],
+"epoca_relativa": 0,
+"estrazione": 85,
+"fatti": [],
+"gancio": "Chi non ha turno quella settimana guarda le proprie piante appassire mentre l'orto del vicino, con la tessera giusta, fiorisce a un passo di distanza.",
+"id": "NEO-INV-0083",
+"media": [],
+"nome": "La Tessera del Turno",
+"nome_reale": "Tessere del turno d'acqua della Diocesi del Cielo estese a regolare anche l'accesso agli orti di erbe medicinali",
+"oggetto": "Le tessere del turno d'acqua della Diocesi del Cielo regolano ormai anche l'accesso agli orti di erbe medicinali lungo il canale.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "razionamento",
+"universo": "neofeudal"
+}

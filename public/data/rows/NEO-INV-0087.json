@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "l-inventore-originario",
+"created": "2026-09-16",
+"discipline": [
+"botanica/etnobotanica",
+"idraulica/bonifica"
+],
+"entita_usate": [
+"Idris Sabbagh"
+],
+"epoca_relativa": 0,
+"estrazione": 85,
+"fatti": [],
+"gancio": "Chi l'ha selezionata per prima la vede ormai venduta di contrabbando da Idris Sabbagh, senza che il proprio nome sia mai stato registrato da nessuna parte.",
+"id": "NEO-INV-0087",
+"media": [],
+"nome": "L'Erba che Vira",
+"nome_reale": "Talee di un'erba che cambia colore nell'acqua salmastra, usata per scoprire le infiltrazioni nei canali di bonifica, ora vendute di contrabbando",
+"oggetto": "Talee di un'erba che vira colore nell'acqua salmastra, usata per scoprire infiltrazioni nei canali di bonifica, circolano ormai fuori dai canali ufficiali.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "contrabbando",
+"universo": "neofeudal"
+}

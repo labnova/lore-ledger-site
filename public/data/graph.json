@@ -2106,6 +2106,21 @@
 "to": "NEO-REG-vranidol"
 },
 {
+"from": "NEO-PER-0041",
+"kind": "parent",
+"to": "NEO-PER-0078"
+},
+{
+"from": "NEO-PER-0078",
+"kind": "invenzione",
+"to": "NEO-INV-0013"
+},
+{
+"from": "NEO-PER-0078",
+"kind": "regione",
+"to": "NEO-REG-vranidol"
+},
+{
 "from": "STE-PER-0001",
 "kind": "invenzione",
 "to": "STE-INV-0012"
@@ -8900,6 +8915,126 @@
 "universo": "neofeudal"
 },
 {
+"id": "NEO-INV-0073",
+"tipo": "invenzione",
+"titolo": "La Paratoia Storta",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0074",
+"tipo": "invenzione",
+"titolo": "La Pompa dei Voti",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0075",
+"tipo": "invenzione",
+"titolo": "La Barba di Canale",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0076",
+"tipo": "invenzione",
+"titolo": "La Livella del Raccolto Giusto",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0077",
+"tipo": "invenzione",
+"titolo": "I Tubi del Buio",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0078",
+"tipo": "invenzione",
+"titolo": "L'Erba delle Capre",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0079",
+"tipo": "invenzione",
+"titolo": "Il Canale dell'Inchiostro",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0080",
+"tipo": "invenzione",
+"titolo": "Il Grano del Bordo",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0081",
+"tipo": "invenzione",
+"titolo": "I Canali Non Segnati",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0082",
+"tipo": "invenzione",
+"titolo": "Il Deposito della Piena",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0083",
+"tipo": "invenzione",
+"titolo": "La Tessera del Turno",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0084",
+"tipo": "invenzione",
+"titolo": "Il Palo delle Tacche",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0085",
+"tipo": "invenzione",
+"titolo": "Le Talee di Casa",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0086",
+"tipo": "invenzione",
+"titolo": "Le Stuoie di Resina",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0087",
+"tipo": "invenzione",
+"titolo": "L'Erba che Vira",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0088",
+"tipo": "invenzione",
+"titolo": "La Corteccia Doppia",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0089",
+"tipo": "invenzione",
+"titolo": "Il Grano d'Argine",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0090",
+"tipo": "invenzione",
+"titolo": "La Misura Doppia",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0091",
+"tipo": "invenzione",
+"titolo": "Il Portello degli Anelli",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0092",
+"tipo": "invenzione",
+"titolo": "Il Taglio di Idris",
+"universo": "neofeudal"
+},
+{
 "id": "NEO-PER-0001",
 "tipo": "personaggio",
 "titolo": "Juma Mwangaza",
@@ -9359,6 +9494,12 @@
 "id": "NEO-PER-0077",
 "tipo": "personaggio",
 "titolo": "Bogdan Draveski",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0078",
+"tipo": "personaggio",
+"titolo": "Bogumil Vranić",
 "universo": "neofeudal"
 },
 {

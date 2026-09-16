@@ -1,0 +1,27 @@
+{
+"appare_in": [],
+"chi_paga": "un-terzo-ignaro",
+"created": "2026-09-16",
+"discipline": [
+"botanica/etnobotanica",
+"idraulica/bonifica"
+],
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 85,
+"fatti": [],
+"gancio": "Un mercante di passaggio la compra credendola il nuovo standard e la rivende a un villaggio lontano, che si ritrova un raccolto che nessun registro riconosce.",
+"id": "NEO-INV-0080",
+"media": [],
+"nome": "Il Grano del Bordo",
+"nome_reale": "Vecchia varietà di grano tollerante al ristagno, ufficialmente sostituita ma ancora seminata di nascosto sul bordo dei campi",
+"oggetto": "Una vecchia varietà di grano, tollerante all'acqua stagnante dei terreni appena bonificati, è stata sostituita ma qualcuno la semina ancora sul bordo dei campi.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "versione-precedente",
+"universo": "neofeudal"
+}

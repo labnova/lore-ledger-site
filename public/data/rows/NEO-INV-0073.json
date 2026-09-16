@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "l-utente-ultimo",
+"created": "2026-09-16",
+"discipline": [
+"botanica/etnobotanica",
+"idraulica/bonifica"
+],
+"entita_usate": [
+"Idris Sabbagh"
+],
+"epoca_relativa": 0,
+"estrazione": 85,
+"fatti": [],
+"gancio": "Idris Sabbagh vende i suoi germogli solo a chi promette di riaprire la paratoia dopo l'alba, perché un'ora di allagamento in più li uccide quanto un'ora in meno li lascia secchi.",
+"id": "NEO-INV-0073",
+"media": [],
+"nome": "La Paratoia Storta",
+"nome_reale": "Paratoia del Canale Basso tenuta chiusa oltre l'alba per allagare apposta i semenzai sull'argine",
+"oggetto": "La paratoia del Canale Basso, pensata per prosciugare i campi in caso di piena, viene tenuta chiusa oltre l'alba per allagare apposta i semenzai sull'argine.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "inversione-di-funzione",
+"universo": "neofeudal"
+}

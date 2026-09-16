@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "la-comunita",
+"created": "2026-09-16",
+"discipline": [
+"botanica/etnobotanica",
+"idraulica/bonifica"
+],
+"entita_usate": [
+"Diocesi del Cielo"
+],
+"epoca_relativa": 0,
+"estrazione": 85,
+"fatti": [],
+"gancio": "La Diocesi del Cielo non conferma né smentisce il potere della pompa, e ogni anno la coda per toccarla è più lunga di quella per l'acqua vera.",
+"id": "NEO-INV-0074",
+"media": [],
+"nome": "La Pompa dei Voti",
+"nome_reale": "Pompa idraulica dell'era precedente, muta e arrugginita, portata in processione come reliquia di fertilità prima della semina",
+"oggetto": "Una pompa idraulica dell'era precedente, arrugginita e muta da decenni, viene portata in processione ogni primavera perché si crede benedica le radici.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "reliquia",
+"universo": "neofeudal"
+}

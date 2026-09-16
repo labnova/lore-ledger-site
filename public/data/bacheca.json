@@ -1314,6 +1314,71 @@
 },
 {
 "chiusa_il": null,
+"creata": "2026-09-16T12:51:40Z",
+"esito": null,
+"id": "BAC-35098259246-1",
+"payload": {
+"bozza": "Documentary photograph of an object where it actually sits on a worn desk among cables and cups, available light, film grain, no isolation, no styling, label with illegible product code. Subject: Il Modello del Coro Perduto — Modello SIR (simulazione epidemiologica susceptible-infected-recovered). Quella che c'è: luce disponibile, bilanciamento del bianco imperfetto, dominanti di lampada al tungsteno o di finestra grigia. Fotografia documentaria, reportage: scatto rubato o posato senza messa in scena, sfondo reale e ingombro, cavi, tazze, cartacce. low lighting, shot on 55mm lens, shot on grainy film stock, aspect ratio 16:9, high resolution, UHD --ar 4:3 --no HUD, overlay, scrolling green code, hoodie in shadow, masks, terminal reflections in glasses, coloured LED lights, hacker poster aesthetic, illegible lettering, watermark",
+"chiave": "m1",
+"contesto": "id: HAC-INV-0057\ntipo: invenzione\nuniverso: hackverse\nestrazione: 66\ncreated: '2026-09-15'\nparent_id: null\nrelazione: null\nepoca_relativa: 0\nregione: null\nstatus: canon\nschema_version: 1\nnome_reale: Modello SIR (simulazione epidemiologica susceptible-infected-recovered)\nnome: Il Modello del Coro Perduto\ndiscipline:\n- sanita_pubblica/quarantena\n- musica/canto\npoc: true",
+"manifest": {
+"caricato_il": null,
+"creato": "2026-09-16",
+"id": "MED-35098259246-1",
+"note": "oggetto: Il Modello del Coro Perduto; gancio: Un matematico usa lo stesso foglio di calcolo per due consulenze diverse e consegna per sbaglio il grafico sbagliato al cliente sbagliato.; torsione: Le equazioni che prevedono quanti si ammaleranno in un focolaio vengono riscritte per prevedere quanti coristi smetteranno di cantare in un coro, il contagio sostituito dalla stanchezza.; sref non fissato; variante medium",
+"parametri": {
+"ar": "4:3",
+"atomi": [
+"ATM-35059284514-11",
+"ATM-35059284514-5",
+"ATM-35059284514-51",
+"ATM-34809499246-21",
+"ATM-34809499246-20"
+],
+"cref": null,
+"sref": null
+},
+"prompt": "Documentary photograph of an object where it actually sits on a worn desk among cables and cups, available light, film grain, no isolation, no styling, label with illegible product code. Subject: Il Modello del Coro Perduto — Modello SIR (simulazione epidemiologica susceptible-infected-recovered). Quella che c'è: luce disponibile, bilanciamento del bianco imperfetto, dominanti di lampada al tungsteno o di finestra grigia. Fotografia documentaria, reportage: scatto rubato o posato senza messa in scena, sfondo reale e ingombro, cavi, tazze, cartacce. low lighting, shot on 55mm lens, shot on grainy film stock, aspect ratio 16:9, high resolution, UHD --ar 4:3 --no HUD, overlay, scrolling green code, hoodie in shadow, masks, terminal reflections in glasses, coloured LED lights, hacker poster aesthetic, illegible lettering, watermark",
+"sha256": null,
+"sorgente": {
+"ref": "HAC-INV-0057",
+"tipo": "riga"
+},
+"stato": "proposto",
+"strumento": "midjourney",
+"tipo": "tavola",
+"universo": "hackverse",
+"url": null
+},
+"strumento": "midjourney",
+"tipo": "tavola"
+},
+"postata_da": "media-random",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"HAC-INV-0057"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "media-random",
+"da": "media-random",
+"quando": "2026-09-16T12:51:40Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_tavola",
+"universi": [
+"hackverse"
+]
+},
+{
+"chiusa_il": null,
 "creata": "2026-09-15T23:21:24Z",
 "esito": null,
 "id": "BAC-35034876036-2",

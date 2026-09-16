@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "nessuno-apparentemente",
+"created": "2026-09-16",
+"discipline": [
+"botanica/etnobotanica",
+"idraulica/bonifica"
+],
+"entita_usate": [
+"Sarakan"
+],
+"epoca_relativa": 0,
+"estrazione": 85,
+"fatti": [],
+"gancio": "Nessuno sembra pagarne il prezzo apertamente, ma ogni argine rinforzato con legno diverso cede una stagione prima degli altri.",
+"id": "NEO-INV-0085",
+"media": [],
+"nome": "Le Talee di Casa",
+"nome_reale": "Talee di salice per rinforzare gli argini dei canali di bonifica, possedute da una sola famiglia di Sarakan",
+"oggetto": "Solo una famiglia di Sarakan possiede le talee di salice buone per rinforzare gli argini dei canali di bonifica.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "monopolio",
+"universo": "neofeudal"
+}

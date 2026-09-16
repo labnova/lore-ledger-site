@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-istituzione",
+"created": "2026-09-16",
+"discipline": [
+"botanica/etnobotanica",
+"idraulica/bonifica"
+],
+"entita_usate": [
+"Diocesi del Cielo",
+"Sarakan"
+],
+"epoca_relativa": 0,
+"estrazione": 85,
+"fatti": [],
+"gancio": "Tutta Sarakan sa dove scorrono i canali clandestini, e la Diocesi del Cielo continua a ispezionare solo quelli segnati sul registro.",
+"id": "NEO-INV-0081",
+"media": [],
+"nome": "I Canali Non Segnati",
+"nome_reale": "Piccole bonifiche private non autorizzate che irrigano orti di erbe proibite tramite canali abusivi",
+"oggetto": "Piccole bonifiche private, mai autorizzate dalla Diocesi del Cielo, tagliano canali abusivi per irrigare orti di erbe proibite.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "divieto-ignorato",
+"universo": "neofeudal"
+}

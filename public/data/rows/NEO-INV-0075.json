@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "nessuno-apparentemente",
+"created": "2026-09-16",
+"discipline": [
+"botanica/etnobotanica",
+"idraulica/bonifica"
+],
+"entita_usate": [
+"Sarakan"
+],
+"epoca_relativa": 0,
+"estrazione": 85,
+"fatti": [],
+"gancio": "Un cerusico convocato da un villaggio cerca «l'erba del pianto» e trova solo «barba di canale», identica pianta, e se ne va convinto che manchi.",
+"id": "NEO-INV-0075",
+"media": [],
+"nome": "La Barba di Canale",
+"nome_reale": "Erba spia della salinità nei terreni bonificati, chiamata con due nomi diversi da due ceppi che non incrociano i registri",
+"oggetto": "A Sarakan l'erba che segnala il sale nella terra bonificata ha due nomi, uno per ceppo, e i registri di canale non si parlano tra loro.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "malinteso-linguistico",
+"universo": "neofeudal"
+}

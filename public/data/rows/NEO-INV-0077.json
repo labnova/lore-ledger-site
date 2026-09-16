@@ -1,0 +1,27 @@
+{
+"appare_in": [],
+"chi_paga": "il-costruttore",
+"created": "2026-09-16",
+"discipline": [
+"botanica/etnobotanica",
+"idraulica/bonifica"
+],
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 85,
+"fatti": [],
+"gancio": "Chi li posa per il Canale Comune se ne ritrova a dover interrare il doppio, perché metà finiscono murati nelle cantine degli erboristi.",
+"id": "NEO-INV-0077",
+"media": [],
+"nome": "I Tubi del Buio",
+"nome_reale": "Tubi di scolo della bonifica riadattati al buio per forzare radici sbiancate più pregiate di quelle di campo",
+"oggetto": "I tubi di scolo della bonifica, pensati per portare via l'acqua stagnante, vengono murati al buio dagli erboristi per forzare radici sbiancate pregiate.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "riuso-improprio",
+"universo": "neofeudal"
+}

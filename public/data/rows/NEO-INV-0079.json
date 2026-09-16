@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "il-futuro",
+"created": "2026-09-16",
+"discipline": [
+"botanica/etnobotanica",
+"idraulica/bonifica"
+],
+"entita_usate": [
+"Diocesi del Cielo"
+],
+"epoca_relativa": 0,
+"estrazione": 85,
+"fatti": [],
+"gancio": "Mantenerlo costa alla comunità più di quanto renda, ma chiuderlo vorrebbe dire lasciare ai figli un registro scritto con inchiostro comprato altrove, meno fedele.",
+"id": "NEO-INV-0079",
+"media": [],
+"nome": "Il Canale dell'Inchiostro",
+"nome_reale": "Vecchio canale di bonifica mantenuto aperto solo per la pianta da cui si estrae l'inchiostro dei registri della Diocesi",
+"oggetto": "Un vecchio canale di bonifica, inutile ormai ai campi che serviva, resta aperto solo perché sulle sue rive cresce la pianta dell'inchiostro dei registri.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "obsolescenza",
+"universo": "neofeudal"
+}

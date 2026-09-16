@@ -1,0 +1,27 @@
+{
+"appare_in": [],
+"chi_paga": "l-inventore-originario",
+"created": "2026-09-16",
+"discipline": [
+"botanica/etnobotanica",
+"idraulica/bonifica"
+],
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 85,
+"fatti": [],
+"gancio": "Da quando chi l'ha ideata è morto senza lasciare il raccolto giusto, ogni livella tarata da altri sbaglia di una spanna, e nessuno lo ammette.",
+"id": "NEO-INV-0076",
+"media": [],
+"nome": "La Livella del Raccolto Giusto",
+"nome_reale": "Livella a semi tarata su un unico raccolto per misurare il dislivello dei canali di bonifica",
+"oggetto": "Una livella a semi, tarata coi grani di un unico raccolto, misura il dislivello dei canali di bonifica meglio di una bolla d'aria.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "calibrazione",
+"universo": "neofeudal"
+}
