@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "l-utente-ultimo",
+"created": "2026-09-16",
+"discipline": [
+"telecomunicazioni/fibra_ottica",
+"illuminazione/lampade_a_olio"
+],
+"entita_usate": [
+"Qattoum"
+],
+"epoca_relativa": 0,
+"estrazione": 92,
+"fatti": [],
+"gancio": "La fiaschetta di prima serie leggeva anche i lampi deboli della nebbia salina; quella nuova no, ma un vecchio telegrafista di Qattoum ne tiene ancora una nascosta sotto il banco per i turni di scirocco.",
+"id": "STE-INV-0032",
+"media": [],
+"nome": "La Fiaschetta dell'Ascolto",
+"nome_reale": "Fiaschetta-spia, piccola lampada portatile per intercettare il codice dalle canne di vetro",
+"oggetto": "Fiaschetta-spia: piccola lampada portatile che i telegrafisti usano per intercettare il codice dalle canne di vetro.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "versione-precedente",
+"universo": "steamverse"
+}

@@ -1,0 +1,24 @@
+{
+"appare_in": [],
+"created": "2026-09-16",
+"discipline": [
+"logistica/catena_del_freddo",
+"geografia/idrografia"
+],
+"epoca_relativa": 1,
+"estrazione": 92,
+"fatti": [],
+"gancio": "Il pilota che teneva il taccuino viene convocato non come colpevole ma come unico testimone capace di leggere il proprio codice, e scopre che il debito segnato a margine da anni corrisponde esattamente al numero di rotte «dimenticate» per la compagnia rivale.",
+"id": "STE-INV-0049",
+"media": [],
+"nome": "Il Libro dei Debiti di Ghiaccio",
+"nome_reale": "Registro di compensazione informale tra le compagnie di aratri, che scambia rotte «dimenticate» invece di gettoni-vapore",
+"parent_id": "STE-INV-0008",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il taccuino che un pilota teneva come garanzia personale diventa la prova che le compagnie rivali si scambiano rotte aperte in anticipo come moneta: non gettoni-vapore, ma debiti di ghiaccio annotati e mai dichiarati, e il giorno che un giudice lo chiede davvero la compagnia deve inventare in fretta una giustificazione che prima non esisteva.",
+"universo": "steamverse"
+}

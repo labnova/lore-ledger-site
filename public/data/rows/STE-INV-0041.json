@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "il-costruttore",
+"created": "2026-09-16",
+"discipline": [
+"telecomunicazioni/fibra_ottica",
+"illuminazione/lampade_a_olio"
+],
+"entita_usate": [
+"Halim Zaffran",
+"Consorzio del Vetro e del Sale"
+],
+"epoca_relativa": 0,
+"estrazione": 92,
+"fatti": [],
+"gancio": "Halim Zaffran l'aveva costruita per testare i propri relè in officina; ora i lampadai la usano per rispedire al Consorzio del Vetro e del Sale i messaggi che non vogliono consegnare, ed è lui a dover rispondere delle bollette sparite.",
+"id": "STE-INV-0041",
+"media": [],
+"nome": "La Chiave del Ritorno",
+"nome_reale": "Chiave ottica, un prisma che ruotato rimanda al mittente il segnale luminoso",
+"oggetto": "Chiave ottica: un prisma che, ruotato, rimanda al mittente il segnale luminoso invece di trasmetterlo avanti.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "inversione-di-funzione",
+"universo": "steamverse"
+}

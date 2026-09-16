@@ -5,7 +5,7 @@
 ],
 "descrizione": "Anello d'attracco del convoglio popolato in prevalenza da discendenti anatolici; i nomi restano legati alla città d'origine perché i registri d'imbarco, generazioni fa, assegnarono le cabine per città natale e nessuno li ha più aggiornati.",
 "ha_prosa": false,
-"n_ricorrenze": 60,
+"n_ricorrenze": 61,
 "nome": "Konya",
 "prima_apparizione": 8,
 "prosa": null,
@@ -550,6 +550,15 @@
 "riga_id": "ELA-CON-0006",
 "riga_tipo": "contenuto",
 "riga_titolo": "Pagina di zine ritrovata: come è nato l’Anello a Sigillo Concavo"
+},
+{
+"estrazione": 90,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-CON-0008",
+"riga_tipo": "contenuto",
+"riga_titolo": "Reel: perché Ayşe porta una lente di ricambio cucita in tasca"
 }
 ],
 "righe": [
@@ -562,6 +571,11 @@
 "id": "ELA-CON-0006",
 "tipo": "contenuto",
 "titolo": "Pagina di zine ritrovata: come è nato l’Anello a Sigillo Concavo"
+},
+{
+"id": "ELA-CON-0008",
+"tipo": "contenuto",
+"titolo": "Reel: perché Ayşe porta una lente di ricambio cucita in tasca"
 },
 {
 "id": "ELA-GAD-0001",

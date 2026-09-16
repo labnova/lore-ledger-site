@@ -461,6 +461,11 @@
 "to": "STE-INV-0028"
 },
 {
+"from": "STE-INV-0008",
+"kind": "parent",
+"to": "STE-INV-0049"
+},
+{
 "from": "CYB-PER-0001",
 "kind": "invenzione",
 "to": "CYB-INV-0015"
@@ -10373,6 +10378,132 @@
 "id": "STE-INV-0028",
 "tipo": "invenzione",
 "titolo": "I Fogli dei Passi",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0029",
+"tipo": "invenzione",
+"titolo": "Il Filo di Luce delle Saline",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0030",
+"tipo": "invenzione",
+"titolo": "La Torre del Rabbocco",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0031",
+"tipo": "invenzione",
+"titolo": "L'Otturatore di Zaffran",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0032",
+"tipo": "invenzione",
+"titolo": "La Fiaschetta dell'Ascolto",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0033",
+"tipo": "invenzione",
+"titolo": "Il Rullo della Memoria",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0034",
+"tipo": "invenzione",
+"titolo": "La Giuntura Sommersa",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0035",
+"tipo": "invenzione",
+"titolo": "Lo Specchio della Nebbia",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0036",
+"tipo": "invenzione",
+"titolo": "Lo Stoppino delle Torri Lontane",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0037",
+"tipo": "invenzione",
+"titolo": "Il Contatore delle Luci",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0038",
+"tipo": "invenzione",
+"titolo": "La Boa del Passaggio",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0039",
+"tipo": "invenzione",
+"titolo": "La Miscela Riservata",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0040",
+"tipo": "invenzione",
+"titolo": "La Lampada di Veglia",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0041",
+"tipo": "invenzione",
+"titolo": "La Chiave del Ritorno",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0042",
+"tipo": "invenzione",
+"titolo": "La Canna Cieca",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0043",
+"tipo": "invenzione",
+"titolo": "Il Fumaiolo del Consorzio",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0044",
+"tipo": "invenzione",
+"titolo": "Il Vetro di Seconda Mano",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0045",
+"tipo": "invenzione",
+"titolo": "Il Calibro Unico",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0046",
+"tipo": "invenzione",
+"titolo": "La Chiave di Zaffran",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0047",
+"tipo": "invenzione",
+"titolo": "Il Contratto di Fiamma",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0048",
+"tipo": "invenzione",
+"titolo": "L'Etichetta Storta",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0049",
+"tipo": "invenzione",
+"titolo": "Il Libro dei Debiti di Ghiaccio",
 "universo": "steamverse"
 },
 {

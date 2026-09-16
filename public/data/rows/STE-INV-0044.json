@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-inventore-originario",
+"created": "2026-09-16",
+"discipline": [
+"telecomunicazioni/fibra_ottica",
+"illuminazione/lampade_a_olio"
+],
+"entita_usate": [
+"Halim Zaffran",
+"Consorzio del Vetro e del Sale"
+],
+"epoca_relativa": 0,
+"estrazione": 92,
+"fatti": [],
+"gancio": "Halim Zaffran l'aveva pensata come ripiego temporaneo per le saline più povere; oggi è la sola canna che il Consorzio del Vetro e del Sale installa, e il suo nome resta legato al vetro peggiore della rete invece che al primo otturatore.",
+"id": "STE-INV-0044",
+"media": [],
+"nome": "Il Vetro di Seconda Mano",
+"nome_reale": "Canna di vetro riciclato, più opaca, usata dove il Consorzio non investe in vetro puro",
+"oggetto": "Canna di vetro riciclato, più opaca, usata dove il Consorzio del Vetro e del Sale non vuole investire in vetro puro.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "sostituto-povero",
+"universo": "steamverse"
+}

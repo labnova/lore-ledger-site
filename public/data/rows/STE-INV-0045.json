@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "l-ambiente-gli-animali",
+"created": "2026-09-16",
+"discipline": [
+"telecomunicazioni/fibra_ottica",
+"illuminazione/lampade_a_olio"
+],
+"entita_usate": [
+"Consorzio del Vetro e del Sale"
+],
+"epoca_relativa": 0,
+"estrazione": 92,
+"fatti": [],
+"gancio": "Il nuovo calibro esclude le vecchie canne più sottili, tarate apposta per non riscaldare l'acqua delle vasche dove nidificano gli uccelli di palude; le torri che rispettano lo standard bruciano l'acqua bassa tutto l'anno.",
+"id": "STE-INV-0045",
+"media": [],
+"nome": "Il Calibro Unico",
+"nome_reale": "Calibro di passo che fissa lo spessore obbligatorio delle canne di vetro su tutte le saline",
+"oggetto": "Calibro di passo che fissa lo spessore obbligatorio delle canne di vetro su tutte le saline del Consorzio del Vetro e del Sale.",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "standard-imposto",
+"universo": "steamverse"
+}

@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "la-comunita",
+"created": "2026-09-16",
+"discipline": [
+"telecomunicazioni/fibra_ottica",
+"illuminazione/lampade_a_olio"
+],
+"entita_usate": [
+"Qattoum",
+"Consorzio del Vetro e del Sale"
+],
+"epoca_relativa": 0,
+"estrazione": 92,
+"fatti": [],
+"gancio": "Di notte qualcuno intercetta la canna a metà percorso e vi innesta lampi propri, spacciando messaggi di contrabbando per traffico regolare del Consorzio del Vetro e del Sale; il sovrapprezzo lo paga tutto il quartiere del porto, nella tariffa che sale per «manutenzione straordinaria».",
+"id": "STE-INV-0029",
+"media": [],
+"nome": "Il Filo di Luce delle Saline",
+"nome_reale": "Canna di vetro soffiato per segnali luminosi lungo gli argini delle saline di Qattoum, illuminata da lucignoli a olio scaglionati ogni cento passi",
+"oggetto": "Canna di vetro soffiato che porta segnali luminosi lungo gli argini delle saline, illuminata da lucignoli a olio scaglionati ogni cento passi.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "contrabbando",
+"universo": "steamverse"
+}

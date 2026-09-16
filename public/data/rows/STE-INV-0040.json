@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "l-utente-ultimo",
+"created": "2026-09-16",
+"discipline": [
+"telecomunicazioni/fibra_ottica",
+"illuminazione/lampade_a_olio"
+],
+"entita_usate": [
+"Qattoum"
+],
+"epoca_relativa": 0,
+"estrazione": 92,
+"fatti": [],
+"gancio": "Chi tiene il turno alla torre più esposta di Qattoum lo decide un'estrazione a sorte tra i lampadai, e chi perde dorme tre notti su quattro accanto alla fiamma.",
+"id": "STE-INV-0040",
+"media": [],
+"nome": "La Lampada di Veglia",
+"nome_reale": "Turno-lampada, la lampada che un guardiano deve tenere accesa per l'intero turno di veglia",
+"oggetto": "Turno-lampada: la lampada che un guardiano deve tenere accesa per l'intero turno di veglia, pena l'interruzione della linea.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "sorte",
+"universo": "steamverse"
+}

@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "il-costruttore",
+"created": "2026-09-16",
+"discipline": [
+"telecomunicazioni/fibra_ottica",
+"illuminazione/lampade_a_olio"
+],
+"entita_usate": [
+"Lo Sfarfallio delle Nove"
+],
+"epoca_relativa": 0,
+"estrazione": 92,
+"fatti": [],
+"gancio": "Il rullo recuperato dopo un incidente mostra che la torre segnalava Lo Sfarfallio delle Nove un'ora prima del crollo, e il vetraio che lo montò viene convocato a testimoniare contro la propria opera.",
+"id": "STE-INV-0033",
+"media": [],
+"nome": "Il Rullo della Memoria",
+"nome_reale": "Registro luminoso, rullo di vetro affumicato che imprime la sequenza dei lampi passati",
+"oggetto": "Registro luminoso: rullo di vetro affumicato che imprime la sequenza dei lampi passati, come una bobina.",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "oggetto-testimone",
+"universo": "steamverse"
+}

@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-istituzione",
+"created": "2026-09-16",
+"discipline": [
+"telecomunicazioni/fibra_ottica",
+"illuminazione/lampade_a_olio"
+],
+"entita_usate": [
+"Lo Sfarfallio delle Nove",
+"Consorzio del Vetro e del Sale"
+],
+"epoca_relativa": 0,
+"estrazione": 92,
+"fatti": [],
+"gancio": "Quando Lo Sfarfallio delle Nove manda in tilt tre contatori in fila, il Consorzio del Vetro e del Sale scopre di non sapere più quanto le città debbano pagargli per l'ultimo mese.",
+"id": "STE-INV-0037",
+"media": [],
+"nome": "Il Contatore delle Luci",
+"nome_reale": "Contatore a impulsi luminosi che registra le letture di una canna per fatturare il traffico",
+"oggetto": "Contatore a impulsi luminosi che registra quante volte una canna è stata «letta» da un relè, per fatturare il traffico.",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "guasto",
+"universo": "steamverse"
+}

@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "un-terzo-ignaro",
+"created": "2026-09-16",
+"discipline": [
+"telecomunicazioni/fibra_ottica",
+"illuminazione/lampade_a_olio"
+],
+"entita_usate": [
+"Consorzio del Vetro e del Sale",
+"Halim Zaffran"
+],
+"epoca_relativa": 0,
+"estrazione": 92,
+"fatti": [],
+"gancio": "Halim Zaffran ne vende di nascosto anche ai lampadai di casa, che ormai non sanno più accendere una sera senza quella miscela; il fornitore che gliela lavora non ha idea di dove finisca.",
+"id": "STE-INV-0039",
+"media": [],
+"nome": "La Miscela Riservata",
+"nome_reale": "Fiala di olio raffinato riservata ai relè del Consorzio del Vetro e del Sale",
+"oggetto": "Fiala di olio raffinato riservata ai relè del Consorzio del Vetro e del Sale, diversa da quella venduta al pubblico.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "dipendenza",
+"universo": "steamverse"
+}

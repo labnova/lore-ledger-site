@@ -1,187 +1,5 @@
 [
 {
-"chiusa_il": null,
-"creata": "2026-09-15T23:21:24Z",
-"esito": null,
-"id": "BAC-35034876036-1",
-"payload": {
-"cluster": "ELA-INV-0030",
-"racconto": "2026-09-15-la-fascia-sicura",
-"regione": "Konya",
-"titolo": "La Fascia Sicura"
-},
-"postata_da": "giudizio",
-"presa_da": null,
-"presa_il": null,
-"priorita": 1,
-"racconto": "2026-09-15-la-fascia-sicura",
-"righe": [
-"ELA-INV-0030",
-"ELA-PER-0012",
-"ELA-PER-0013",
-"ELA-PER-0014",
-"ELA-PER-0016",
-"ELA-PER-0019",
-"ELA-PER-0021",
-"ELA-GAD-0018",
-"ELA-GAD-0022",
-"ELA-GAD-0023",
-"ELA-GAD-0026",
-"ELA-REG-konya",
-"ELA-SEM-0002"
-],
-"scade": null,
-"stato": "aperta",
-"storia": [
-{
-"agente": "giudizio",
-"da": "giudizio",
-"quando": "2026-09-15T23:21:24Z",
-"stato": "aperta"
-}
-],
-"tentativi": 0,
-"tipo": "media_copertina",
-"universi": [
-"elabverse"
-]
-},
-{
-"chiusa_il": null,
-"creata": "2026-09-16T19:28:28Z",
-"esito": null,
-"id": "BAC-35139219618-1",
-"payload": {
-"cluster": "HAC-INV-0037",
-"racconto": "2026-09-16-un-grado-piu-chiaro",
-"regione": "Tallinn",
-"titolo": "Un grado più chiaro"
-},
-"postata_da": "giudizio",
-"presa_da": null,
-"presa_il": null,
-"priorita": 1,
-"racconto": "2026-09-16-un-grado-piu-chiaro",
-"righe": [
-"HAC-INV-0037",
-"HAC-PER-0023",
-"HAC-PER-0024",
-"HAC-PER-0025",
-"HAC-PER-0026",
-"HAC-PER-0028",
-"HAC-PER-0029",
-"HAC-PER-0030",
-"HAC-SEM-0002"
-],
-"scade": null,
-"stato": "aperta",
-"storia": [
-{
-"agente": "giudizio",
-"da": "giudizio",
-"quando": "2026-09-16T19:28:28Z",
-"stato": "aperta"
-}
-],
-"tentativi": 0,
-"tipo": "media_copertina",
-"universi": [
-"hackverse"
-]
-},
-{
-"chiusa_il": null,
-"creata": "2026-09-15T23:21:24Z",
-"esito": null,
-"id": "BAC-35034876036-3",
-"payload": {
-"cluster": "ELA-INV-0030",
-"punteggio": 70,
-"racconto": "2026-09-15-la-fascia-sicura",
-"regione": "Konya",
-"titolo": "La Fascia Sicura"
-},
-"postata_da": "giudizio",
-"presa_da": null,
-"presa_il": null,
-"priorita": 2,
-"racconto": "2026-09-15-la-fascia-sicura",
-"righe": [
-"ELA-INV-0030",
-"ELA-PER-0012",
-"ELA-PER-0013",
-"ELA-PER-0014",
-"ELA-PER-0016",
-"ELA-PER-0019",
-"ELA-PER-0021",
-"ELA-GAD-0018",
-"ELA-GAD-0022",
-"ELA-GAD-0023",
-"ELA-GAD-0026",
-"ELA-REG-konya",
-"ELA-SEM-0002"
-],
-"scade": null,
-"stato": "aperta",
-"storia": [
-{
-"agente": "giudizio",
-"da": "giudizio",
-"quando": "2026-09-15T23:21:24Z",
-"stato": "aperta"
-}
-],
-"tentativi": 0,
-"tipo": "pubblicazione",
-"universi": [
-"elabverse"
-]
-},
-{
-"chiusa_il": null,
-"creata": "2026-09-16T19:28:29Z",
-"esito": null,
-"id": "BAC-35139219618-3",
-"payload": {
-"cluster": "HAC-INV-0037",
-"punteggio": 70,
-"racconto": "2026-09-16-un-grado-piu-chiaro",
-"regione": "Tallinn",
-"titolo": "Un grado più chiaro"
-},
-"postata_da": "giudizio",
-"presa_da": null,
-"presa_il": null,
-"priorita": 2,
-"racconto": "2026-09-16-un-grado-piu-chiaro",
-"righe": [
-"HAC-INV-0037",
-"HAC-PER-0023",
-"HAC-PER-0024",
-"HAC-PER-0025",
-"HAC-PER-0026",
-"HAC-PER-0028",
-"HAC-PER-0029",
-"HAC-PER-0030",
-"HAC-SEM-0002"
-],
-"scade": null,
-"stato": "aperta",
-"storia": [
-{
-"agente": "giudizio",
-"da": "giudizio",
-"quando": "2026-09-16T19:28:29Z",
-"stato": "aperta"
-}
-],
-"tentativi": 0,
-"tipo": "pubblicazione",
-"universi": [
-"hackverse"
-]
-},
-{
 "alternativa_dettaglio": null,
 "alternative": [],
 "auto_riferimento": false,
@@ -1650,6 +1468,68 @@
 ]
 },
 {
+"alternativa_dettaglio": null,
+"alternative": [],
+"auto_riferimento": false,
+"carta_madre": "BAC-35108427138-1",
+"chiusa_il": null,
+"contro_cercato_marcato": [
+{
+"auto_riferimento": false,
+"id": "CYB-PER-0005"
+},
+{
+"auto_riferimento": false,
+"id": "CYB-INV-0011"
+},
+{
+"auto_riferimento": false,
+"id": "CYB-PER-0011"
+}
+],
+"creata": "2026-09-16T21:50:13Z",
+"esito": null,
+"id": "BAC-35154498175-1",
+"payload": {
+"alternativa_testo": null,
+"artefatto_alternativo": null,
+"carta_madre": "BAC-35108427138-1",
+"contraddizione_id": null,
+"contro_cercato": [
+"CYB-PER-0005",
+"CYB-INV-0011",
+"CYB-PER-0011"
+],
+"lacuna": "specifica della fodera schermata del doppio fondo",
+"letto_a": "85e015103a1be955022e350a57b442d6d318ee60",
+"posizione": "accolgo",
+"testo": "Accolgo: CYB-GAD-0019 è radice (parent_id/relazione null per schema), quindi la figlia non tocca la madre; il suo tradimento_tech enuncia l'effetto della fodera, non la specifica, e il vuoto regge. CYB-PER-0005 lo sostiene — protettiva e smemorata, coerente con i documenti spariti — e CYB-INV-0011 fa solo da cornice al registro. Unico monito: la figlia specifichi la fodera senza chiudere il gancio della sparizione."
+},
+"postata_da": "editore",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"CYB-GAD-0019"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "editore",
+"da": "editore",
+"quando": "2026-09-16T21:50:13Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "commento",
+"universi": [
+"cyberverse"
+]
+},
+{
 "chiusa_il": null,
 "creata": "2026-09-15T23:21:24Z",
 "esito": null,
@@ -1737,212 +1617,6 @@
 "tipo": "media_suono",
 "universi": [
 "hackverse"
-]
-},
-{
-"alternative": [],
-"artefatti_prodotti": [
-"approfondimenti/2026-09-16-STE-INV-0010-riparatore.v2.md"
-],
-"artefatto_dettaglio": null,
-"chiusa_il": null,
-"creata": "2026-09-14T21:50:04Z",
-"esito": null,
-"id": "BAC-34900933278-1",
-"letto_a": null,
-"payload": {
-"arbitro": {
-"artefatti_prodotti": [
-"STE-INV-0027"
-],
-"letto_a": null,
-"obiezioni_valide": 0,
-"scartate": [
-{
-"agente": "editore",
-"auto_riferimento": [
-"STE-INV-0027"
-],
-"commento": "BAC-34900935322-2",
-"contraddizione_valida": false,
-"posizione": "obietto",
-"prove_valide": [],
-"scartata": "cita solo artefatti della carta (prodotti o ancora in proposte/righe/) o righe posteriori a letto_a"
-}
-],
-"valide": [
-{
-"agente": "redattore",
-"auto_riferimento": [
-"STE-INV-0027"
-],
-"commento": "BAC-34900935322-1",
-"contraddizione_valida": false,
-"posizione": "obietto",
-"prove_valide": [
-"STE-INV-0010"
-]
-},
-{
-"agente": "guardiano",
-"auto_riferimento": [],
-"commento": "BAC-34915383580-1",
-"contraddizione_valida": false,
-"posizione": "forma_diversa",
-"prove_valide": [
-"STE-INV-0001",
-"STE-INV-0002",
-"STE-INV-0011",
-"STE-INV-0012",
-"STE-INV-0013"
-]
-}
-]
-},
-"artefatti_prodotti": [
-"approfondimenti/2026-09-16-STE-INV-0010-riparatore.v2.md"
-],
-"artefatto": "approfondimenti/2026-09-16-STE-INV-0010-riparatore.v2.md",
-"candidati": [
-"STE-INV-0010",
-"STE-INV-0021",
-"HAC-PER-0011"
-],
-"commenti_visti": 3,
-"forma": "snippet",
-"lacuna": "nessuna figlia e regione non assegnata",
-"migrata": "riga STE-INV-0027 tornata provvisoria (era entrata nel ledger senza giudizio)",
-"motivazione": "Non creo di nuovo STE-INV-0027: esiste già come espansione di STE-INV-0010 con regione Aetheria e va verificato, non duplicato. Per STE-INV-0010 il vuoto da riparare è la regione: parent_id null su radice è relazione, non lacuna, e «nessuna figlia» è scelta di sviluppo. Propongo snippet che valorizzi la regione mancante, senza toccare il corpo della madre.",
-"motivazioni_precedenti": [
-{
-"motivazione": "STE-INV-0010 ha parent_id null, regione null e nessuna figlia a ledger: due vuoti e un'orfanità che posso riparare senza toccare la madre, che madre non ha. STE-INV-0021 è già espansione di STE-INV-0013: una figlia in più la sovraccarica, e il suo gancio chiede narrazione, non struttura. HAC-PER-0011 ha un solo campo vuoto, affettivo null, ed è già legata a HAC-INV-0001: poco lavoro per un restauratore. Il Fiume Secondo invece chiede una figlia che registri il tracciato e la piena alternata: la regione mancante è precisamente ciò che quella figlia può fissare. Propongo espansione, non tocco il corpo della madre.",
-"versione": 1
-}
-],
-"pronta_per_arbitro": "2026-09-16T03:17:41Z",
-"revisioni": 1,
-"scelto": "STE-INV-0010",
-"versione": 2
-},
-"postata_da": "riparatore",
-"presa_da": null,
-"presa_il": null,
-"priorita": 3,
-"racconto": null,
-"righe": [
-"STE-INV-0010"
-],
-"scade": null,
-"stato": "attesa_arbitro",
-"storia": [
-{
-"agente": "riparatore",
-"da": "riparatore",
-"quando": "2026-09-14T21:50:04Z",
-"stato": "aperta"
-},
-{
-"agente": "riparatore",
-"da": "riparatore",
-"motivo": "Regge STE-INV-0027: è già figlia espansione di STE-INV-0010 e ha regione Aetheria, quindi «nessuna figlia» e «regione non assegnata» sono false. Regge anche il guardiano: un'espansione non compila regione; per il solo vuoto di STE-INV-0010 la forma snippet è più economica.",
-"quando": "2026-09-16T00:58:54Z",
-"stato": "rivista"
-},
-{
-"agente": "igiene",
-"da": "igiene",
-"motivo": "migrazione: la carta ha gia commenti, decide l'arbitro",
-"quando": "2026-09-16T10:27:48Z",
-"stato": "attesa_arbitro"
-}
-],
-"tentativi": 0,
-"tipo": "approfondimento",
-"universi": [
-"steamverse"
-]
-},
-{
-"alternative": [],
-"artefatti_prodotti": [
-"approfondimenti/2026-09-14-NEO-INV-0027-redattore.md"
-],
-"artefatto_dettaglio": null,
-"chiusa_il": null,
-"creata": "2026-09-14T23:15:53Z",
-"esito": null,
-"id": "BAC-34908018186-1",
-"letto_a": "4137401092b0012e67128ca227a889c998656df0",
-"payload": {
-"arbitro": {
-"artefatti_prodotti": [
-"approfondimenti/2026-09-14-NEO-INV-0027-redattore.md"
-],
-"letto_a": "4137401092b0012e67128ca227a889c998656df0",
-"obiezioni_valide": 0,
-"scartate": [],
-"valide": [
-{
-"agente": "editore",
-"auto_riferimento": [],
-"commento": "BAC-35027770871-2",
-"contraddizione_valida": false,
-"posizione": "accolgo",
-"prove_valide": [
-"NEO-INV-0001",
-"NEO-INV-0007",
-"NEO-INV-0010",
-"NEO-INV-0012"
-]
-}
-]
-},
-"artefatti_prodotti": [
-"approfondimenti/2026-09-14-NEO-INV-0027-redattore.md"
-],
-"artefatto": "approfondimenti/2026-09-14-NEO-INV-0027-redattore.md",
-"candidati": [
-"NEO-INV-0027",
-"STE-GAD-0009",
-"NEO-INV-0014"
-],
-"commenti_visti": 1,
-"forma": "snippet",
-"lacuna": "manca la regione dei dormitori popolari",
-"letto_a": "4137401092b0012e67128ca227a889c998656df0",
-"motivazione": "Su NEO-INV-0027 la regione è vuota, ed è l'unico dei tre a lasciare scoperto il dove della scena: NEO-INV-0014 dichiara Calvenna, STE-GAD-0009 dichiara Ledoskol e ha già portatore e tradimento_tech al completo. Il gancio però è il più forte del lotto: il fiato che si interrompe lo stesso giorno in cui muore l'ultima vacca della stalla madre, con il clero che copre l'origine. Tra le mie forme preferite scelgo lo snippet: un testo breve per canale lavora proprio sull'effetto del blackout e sul silenzio del clero, senza aggiungere impianti che la riga non regge. Non tocco il resto: le discipline reggono, la torsione è dichiarata, la mancanza di figlie è una scelta di sviluppo, non una lacuna.",
-"pronta_per_arbitro": "2026-09-16T03:17:41Z",
-"scelto": "NEO-INV-0027"
-},
-"postata_da": "redattore",
-"presa_da": null,
-"presa_il": null,
-"priorita": 3,
-"racconto": null,
-"righe": [
-"NEO-INV-0027"
-],
-"scade": null,
-"stato": "attesa_arbitro",
-"storia": [
-{
-"agente": "redattore",
-"da": "redattore",
-"quando": "2026-09-14T23:15:53Z",
-"stato": "aperta"
-},
-{
-"agente": "igiene",
-"da": "igiene",
-"motivo": "migrazione: la carta ha gia commenti, decide l'arbitro",
-"quando": "2026-09-16T10:27:48Z",
-"stato": "attesa_arbitro"
-}
-],
-"tentativi": 0,
-"tipo": "approfondimento",
-"universi": [
-"neofeudal"
 ]
 },
 {
@@ -2572,6 +2246,105 @@
 "universi": []
 },
 {
+"chiusa_il": null,
+"creata": "2026-09-16T19:28:28Z",
+"esito": null,
+"id": "BAC-35139219618-1",
+"payload": {
+"cluster": "HAC-INV-0037",
+"racconto": "2026-09-16-un-grado-piu-chiaro",
+"regione": "Tallinn",
+"titolo": "Un grado più chiaro"
+},
+"postata_da": "giudizio",
+"presa_da": "illustratore",
+"presa_il": "2026-09-16T20:40:25Z",
+"priorita": 1,
+"racconto": "2026-09-16-un-grado-piu-chiaro",
+"righe": [
+"HAC-INV-0037",
+"HAC-PER-0023",
+"HAC-PER-0024",
+"HAC-PER-0025",
+"HAC-PER-0026",
+"HAC-PER-0028",
+"HAC-PER-0029",
+"HAC-PER-0030",
+"HAC-SEM-0002"
+],
+"scade": "2026-09-17T02:40:25Z",
+"stato": "presa",
+"storia": [
+{
+"agente": "giudizio",
+"da": "giudizio",
+"quando": "2026-09-16T19:28:28Z",
+"stato": "aperta"
+},
+{
+"agente": "illustratore",
+"da": "illustratore",
+"quando": "2026-09-16T20:40:25Z",
+"stato": "presa"
+}
+],
+"tentativi": 1,
+"tipo": "media_copertina",
+"universi": [
+"hackverse"
+]
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-16T19:28:29Z",
+"esito": null,
+"id": "BAC-35139219618-3",
+"payload": {
+"cluster": "HAC-INV-0037",
+"punteggio": 70,
+"racconto": "2026-09-16-un-grado-piu-chiaro",
+"regione": "Tallinn",
+"titolo": "Un grado più chiaro"
+},
+"postata_da": "giudizio",
+"presa_da": "redattore",
+"presa_il": "2026-09-16T21:50:12Z",
+"priorita": 2,
+"racconto": "2026-09-16-un-grado-piu-chiaro",
+"righe": [
+"HAC-INV-0037",
+"HAC-PER-0023",
+"HAC-PER-0024",
+"HAC-PER-0025",
+"HAC-PER-0026",
+"HAC-PER-0028",
+"HAC-PER-0029",
+"HAC-PER-0030",
+"HAC-SEM-0002"
+],
+"scade": "2026-09-17T03:50:12Z",
+"stato": "presa",
+"storia": [
+{
+"agente": "giudizio",
+"da": "giudizio",
+"quando": "2026-09-16T19:28:29Z",
+"stato": "aperta"
+},
+{
+"agente": "redattore",
+"da": "redattore",
+"quando": "2026-09-16T21:50:12Z",
+"stato": "presa"
+}
+],
+"tentativi": 1,
+"tipo": "pubblicazione",
+"universi": [
+"hackverse"
+]
+},
+{
 "chiusa_il": "2026-09-15T20:38:11Z",
 "creata": "2026-09-14T21:31:16Z",
 "esito": "media/MED-35020795849-1.yaml",
@@ -2611,6 +2384,65 @@
 "tipo": "media_tavola",
 "universi": [
 "neofeudal"
+]
+},
+{
+"chiusa_il": "2026-09-16T20:40:25Z",
+"creata": "2026-09-15T23:21:24Z",
+"esito": "media/MED-35147873753-1.yaml",
+"id": "BAC-35034876036-1",
+"payload": {
+"cluster": "ELA-INV-0030",
+"racconto": "2026-09-15-la-fascia-sicura",
+"regione": "Konya",
+"titolo": "La Fascia Sicura"
+},
+"postata_da": "giudizio",
+"presa_da": "illustratore",
+"presa_il": "2026-09-16T20:40:07Z",
+"priorita": 1,
+"racconto": "2026-09-15-la-fascia-sicura",
+"righe": [
+"ELA-INV-0030",
+"ELA-PER-0012",
+"ELA-PER-0013",
+"ELA-PER-0014",
+"ELA-PER-0016",
+"ELA-PER-0019",
+"ELA-PER-0021",
+"ELA-GAD-0018",
+"ELA-GAD-0022",
+"ELA-GAD-0023",
+"ELA-GAD-0026",
+"ELA-REG-konya",
+"ELA-SEM-0002"
+],
+"scade": "2026-09-17T02:40:07Z",
+"stato": "chiusa",
+"storia": [
+{
+"agente": "giudizio",
+"da": "giudizio",
+"quando": "2026-09-15T23:21:24Z",
+"stato": "aperta"
+},
+{
+"agente": "illustratore",
+"da": "illustratore",
+"quando": "2026-09-16T20:40:07Z",
+"stato": "presa"
+},
+{
+"agente": "illustratore",
+"da": "illustratore",
+"quando": "2026-09-16T20:40:25Z",
+"stato": "chiusa"
+}
+],
+"tentativi": 1,
+"tipo": "media_copertina",
+"universi": [
+"elabverse"
 ]
 },
 {
@@ -3028,6 +2860,298 @@
 "tipo": "guasto",
 "universi": [],
 "verifica": null
+},
+{
+"chiusa_il": "2026-09-16T21:50:12Z",
+"creata": "2026-09-15T23:21:24Z",
+"esito": "pubblicazioni/2026-09-15-la-fascia-sicura.yaml",
+"id": "BAC-35034876036-3",
+"payload": {
+"cluster": "ELA-INV-0030",
+"punteggio": 70,
+"racconto": "2026-09-15-la-fascia-sicura",
+"regione": "Konya",
+"titolo": "La Fascia Sicura"
+},
+"postata_da": "giudizio",
+"presa_da": "redattore",
+"presa_il": "2026-09-16T21:50:01Z",
+"priorita": 2,
+"racconto": "2026-09-15-la-fascia-sicura",
+"righe": [
+"ELA-INV-0030",
+"ELA-PER-0012",
+"ELA-PER-0013",
+"ELA-PER-0014",
+"ELA-PER-0016",
+"ELA-PER-0019",
+"ELA-PER-0021",
+"ELA-GAD-0018",
+"ELA-GAD-0022",
+"ELA-GAD-0023",
+"ELA-GAD-0026",
+"ELA-REG-konya",
+"ELA-SEM-0002"
+],
+"scade": "2026-09-17T03:50:01Z",
+"stato": "chiusa",
+"storia": [
+{
+"agente": "giudizio",
+"da": "giudizio",
+"quando": "2026-09-15T23:21:24Z",
+"stato": "aperta"
+},
+{
+"agente": "redattore",
+"da": "redattore",
+"quando": "2026-09-16T21:50:01Z",
+"stato": "presa"
+},
+{
+"agente": "redattore",
+"da": "redattore",
+"quando": "2026-09-16T21:50:12Z",
+"stato": "chiusa"
+}
+],
+"tentativi": 1,
+"tipo": "pubblicazione",
+"universi": [
+"elabverse"
+]
+},
+{
+"alternative": [],
+"artefatti_prodotti": [
+"approfondimenti/2026-09-16-STE-INV-0010-riparatore.v2.md"
+],
+"artefatto_dettaglio": null,
+"chiusa_il": "2026-09-16T20:36:58Z",
+"creata": "2026-09-14T21:50:04Z",
+"esito": "confermata dall'arbitro: Nessuna obiezione valida (0/2); il riparatore ha già corretto la propria proposta iniziale evitando di duplicare STE-INV-0027 e centrando il vero vuoto (regione di STE-INV-0010). Snippet approvato, nessuna riga da promuovere.",
+"id": "BAC-34900933278-1",
+"letto_a": null,
+"payload": {
+"arbitro": {
+"artefatti_prodotti": [
+"STE-INV-0027"
+],
+"letto_a": null,
+"obiezioni_valide": 0,
+"scartate": [
+{
+"agente": "editore",
+"auto_riferimento": [
+"STE-INV-0027"
+],
+"commento": "BAC-34900935322-2",
+"contraddizione_valida": false,
+"posizione": "obietto",
+"prove_valide": [],
+"scartata": "cita solo artefatti della carta (prodotti o ancora in proposte/righe/) o righe posteriori a letto_a"
+}
+],
+"valide": [
+{
+"agente": "redattore",
+"auto_riferimento": [
+"STE-INV-0027"
+],
+"commento": "BAC-34900935322-1",
+"contraddizione_valida": false,
+"posizione": "obietto",
+"prove_valide": [
+"STE-INV-0010"
+]
+},
+{
+"agente": "guardiano",
+"auto_riferimento": [],
+"commento": "BAC-34915383580-1",
+"contraddizione_valida": false,
+"posizione": "forma_diversa",
+"prove_valide": [
+"STE-INV-0001",
+"STE-INV-0002",
+"STE-INV-0011",
+"STE-INV-0012",
+"STE-INV-0013"
+]
+}
+]
+},
+"artefatti_prodotti": [
+"approfondimenti/2026-09-16-STE-INV-0010-riparatore.v2.md"
+],
+"artefatto": "approfondimenti/2026-09-16-STE-INV-0010-riparatore.v2.md",
+"candidati": [
+"STE-INV-0010",
+"STE-INV-0021",
+"HAC-PER-0011"
+],
+"commenti_visti": 3,
+"esito": "confermata",
+"forma": "snippet",
+"lacuna": "nessuna figlia e regione non assegnata",
+"migrata": "riga STE-INV-0027 tornata provvisoria (era entrata nel ledger senza giudizio)",
+"motivazione": "Non creo di nuovo STE-INV-0027: esiste già come espansione di STE-INV-0010 con regione Aetheria e va verificato, non duplicato. Per STE-INV-0010 il vuoto da riparare è la regione: parent_id null su radice è relazione, non lacuna, e «nessuna figlia» è scelta di sviluppo. Propongo snippet che valorizzi la regione mancante, senza toccare il corpo della madre.",
+"motivazioni_precedenti": [
+{
+"motivazione": "STE-INV-0010 ha parent_id null, regione null e nessuna figlia a ledger: due vuoti e un'orfanità che posso riparare senza toccare la madre, che madre non ha. STE-INV-0021 è già espansione di STE-INV-0013: una figlia in più la sovraccarica, e il suo gancio chiede narrazione, non struttura. HAC-PER-0011 ha un solo campo vuoto, affettivo null, ed è già legata a HAC-INV-0001: poco lavoro per un restauratore. Il Fiume Secondo invece chiede una figlia che registri il tracciato e la piena alternata: la regione mancante è precisamente ciò che quella figlia può fissare. Propongo espansione, non tocco il corpo della madre.",
+"versione": 1
+}
+],
+"pronta_per_arbitro": "2026-09-16T03:17:41Z",
+"revisioni": 1,
+"scelto": "STE-INV-0010",
+"verdetto_arbitro": {
+"alternativa": null,
+"esito": "confermata",
+"motivo": "Nessuna obiezione valida (0/2); il riparatore ha già corretto la propria proposta iniziale evitando di duplicare STE-INV-0027 e centrando il vero vuoto (regione di STE-INV-0010). Snippet approvato, nessuna riga da promuovere.",
+"quando": "2026-09-16T20:36:58Z"
+},
+"versione": 2
+},
+"postata_da": "riparatore",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"STE-INV-0010"
+],
+"scade": null,
+"stato": "chiusa",
+"storia": [
+{
+"agente": "riparatore",
+"da": "riparatore",
+"quando": "2026-09-14T21:50:04Z",
+"stato": "aperta"
+},
+{
+"agente": "riparatore",
+"da": "riparatore",
+"motivo": "Regge STE-INV-0027: è già figlia espansione di STE-INV-0010 e ha regione Aetheria, quindi «nessuna figlia» e «regione non assegnata» sono false. Regge anche il guardiano: un'espansione non compila regione; per il solo vuoto di STE-INV-0010 la forma snippet è più economica.",
+"quando": "2026-09-16T00:58:54Z",
+"stato": "rivista"
+},
+{
+"agente": "igiene",
+"da": "igiene",
+"motivo": "migrazione: la carta ha gia commenti, decide l'arbitro",
+"quando": "2026-09-16T10:27:48Z",
+"stato": "attesa_arbitro"
+},
+{
+"agente": "arbitro",
+"da": "arbitro",
+"quando": "2026-09-16T20:36:58Z",
+"stato": "chiusa"
+}
+],
+"tentativi": 0,
+"tipo": "approfondimento",
+"universi": [
+"steamverse"
+]
+},
+{
+"alternative": [],
+"artefatti_prodotti": [
+"approfondimenti/2026-09-14-NEO-INV-0027-redattore.md"
+],
+"artefatto_dettaglio": null,
+"chiusa_il": "2026-09-16T20:37:00Z",
+"creata": "2026-09-14T23:15:53Z",
+"esito": "confermata dall'arbitro: Nessuna obiezione valida (0/1), un commento a favore (editore, accolgo). Lo snippet colma un vuoto reale (regione dei dormitori popolari) senza toccare discipline e torsione già solide. Nessuna riga da promuovere.",
+"id": "BAC-34908018186-1",
+"letto_a": "4137401092b0012e67128ca227a889c998656df0",
+"payload": {
+"arbitro": {
+"artefatti_prodotti": [
+"approfondimenti/2026-09-14-NEO-INV-0027-redattore.md"
+],
+"letto_a": "4137401092b0012e67128ca227a889c998656df0",
+"obiezioni_valide": 0,
+"scartate": [],
+"valide": [
+{
+"agente": "editore",
+"auto_riferimento": [],
+"commento": "BAC-35027770871-2",
+"contraddizione_valida": false,
+"posizione": "accolgo",
+"prove_valide": [
+"NEO-INV-0001",
+"NEO-INV-0007",
+"NEO-INV-0010",
+"NEO-INV-0012"
+]
+}
+]
+},
+"artefatti_prodotti": [
+"approfondimenti/2026-09-14-NEO-INV-0027-redattore.md"
+],
+"artefatto": "approfondimenti/2026-09-14-NEO-INV-0027-redattore.md",
+"candidati": [
+"NEO-INV-0027",
+"STE-GAD-0009",
+"NEO-INV-0014"
+],
+"commenti_visti": 1,
+"esito": "confermata",
+"forma": "snippet",
+"lacuna": "manca la regione dei dormitori popolari",
+"letto_a": "4137401092b0012e67128ca227a889c998656df0",
+"motivazione": "Su NEO-INV-0027 la regione è vuota, ed è l'unico dei tre a lasciare scoperto il dove della scena: NEO-INV-0014 dichiara Calvenna, STE-GAD-0009 dichiara Ledoskol e ha già portatore e tradimento_tech al completo. Il gancio però è il più forte del lotto: il fiato che si interrompe lo stesso giorno in cui muore l'ultima vacca della stalla madre, con il clero che copre l'origine. Tra le mie forme preferite scelgo lo snippet: un testo breve per canale lavora proprio sull'effetto del blackout e sul silenzio del clero, senza aggiungere impianti che la riga non regge. Non tocco il resto: le discipline reggono, la torsione è dichiarata, la mancanza di figlie è una scelta di sviluppo, non una lacuna.",
+"pronta_per_arbitro": "2026-09-16T03:17:41Z",
+"scelto": "NEO-INV-0027",
+"verdetto_arbitro": {
+"alternativa": null,
+"esito": "confermata",
+"motivo": "Nessuna obiezione valida (0/1), un commento a favore (editore, accolgo). Lo snippet colma un vuoto reale (regione dei dormitori popolari) senza toccare discipline e torsione già solide. Nessuna riga da promuovere.",
+"quando": "2026-09-16T20:37:00Z"
+}
+},
+"postata_da": "redattore",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"NEO-INV-0027"
+],
+"scade": null,
+"stato": "chiusa",
+"storia": [
+{
+"agente": "redattore",
+"da": "redattore",
+"quando": "2026-09-14T23:15:53Z",
+"stato": "aperta"
+},
+{
+"agente": "igiene",
+"da": "igiene",
+"motivo": "migrazione: la carta ha gia commenti, decide l'arbitro",
+"quando": "2026-09-16T10:27:48Z",
+"stato": "attesa_arbitro"
+},
+{
+"agente": "arbitro",
+"da": "arbitro",
+"quando": "2026-09-16T20:37:00Z",
+"stato": "chiusa"
+}
+],
+"tentativi": 0,
+"tipo": "approfondimento",
+"universi": [
+"neofeudal"
+]
 },
 {
 "chiusa_il": "2026-09-15T19:07:22Z",

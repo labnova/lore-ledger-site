@@ -3652,5 +3652,99 @@
 "ELA-CON-0008"
 ],
 "universo": "elabverse"
+},
+{
+"campi_forzati": [],
+"chiavi": {
+"manca": {
+"gadget": 0,
+"personaggi": 0,
+"regione": true
+},
+"regione": "Rotterdam",
+"universo": "hackverse"
+},
+"cluster_target": "HAC-INV-0001",
+"created": "2026-09-16",
+"esito": "nessuna riga necessaria — il cluster ha già 22 personaggi con 6 rapporti diversi e 1 gadget (HAC-GAD-0001), maturo per engine.cluster (personaggi=22 gadget=1). Il \"manca regione\" del piano è lo stesso falso positivo già documentato nelle estrazioni 048, 059, 084: il campo `regione` dei personaggi esistenti riporta l'id della riga regione (es. HAC-REG-tallinn) invece del nome, quindi il lookup per nome non trova corrispondenza. Le righe esistenti sono già committate e non vengono toccate (append-only); regione_esistente risolta casualmente su Rotterdam ma nessun nuovo file scritto perché non c'è alcuna riga personaggio o gadget mancante a cui assegnarla.\n",
+"estrazione": 91,
+"forzata": false,
+"lotto": "lotto-maturazione",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [],
+"universo": "hackverse"
+},
+{
+"ambientazione": "patrimonio-industriale-siciliano",
+"bibbia_pescata": [
+"<!-- entita:inizio -->",
+"> Substrato iniziale scritto a mano (12 set 2026). Append-on"
+],
+"campi_forzati": [],
+"canone_pescato": [
+"STE-FAT-m20260913-3",
+"STE-INV-0008",
+"STE-CON-0001"
+],
+"chiavi": {
+"discipline": [
+"telecomunicazioni/fibra_ottica",
+"illuminazione/lampade_a_olio"
+],
+"universo": "steamverse"
+},
+"created": "2026-09-16",
+"entita": {
+"anomalia": {
+"descrizione": "Ogni sera, all'ora del cambio turno, la luce nelle canne di vetro del telegrafo vacilla per pochi secondi; nessuno ha mai spiegato perché, e ogni scheda del Consorzio lo registra come «normale».",
+"nome": "Lo Sfarfallio delle Nove"
+},
+"attore": {
+"descrizione": "Mercante di olio da lampada e canne di vetro soffiato, fa la spola tra le saline e il porto vendendo scorte a chi tiene acceso il telegrafo ottico del Consorzio.",
+"nome": "Halim Zaffran"
+},
+"ente": {
+"descrizione": "Gilda mercantile che possiede le canne di vetro del telegrafo ottico tese sulle saline e impone una tariffa di passaggio in gettoni-vapore a chiunque le attraversi.",
+"nome": "Consorzio del Vetro e del Sale"
+},
+"luogo": {
+"descrizione": "Porto di delta dove il fiume si divide in tre bracci salmastri; la gilda degli ingegneri del freddo costruisce e mantiene qui le chiatte refrigerate che risalgono la corrente fino alle città dell'interno, e quasi metà dei cognomi nasce ancora dal mestiere di chi ripara gli scafi.",
+"nome": "Qattoum"
+}
+},
+"entita_riusate": [
+"Qattoum"
+],
+"esito": "ok",
+"espansioni": [
+"STE-INV-0049"
+],
+"estrazione": 92,
+"forzata": false,
+"lotto": "lotto-lore",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"STE-INV-0029",
+"STE-INV-0030",
+"STE-INV-0031",
+"STE-INV-0032",
+"STE-INV-0033",
+"STE-INV-0034",
+"STE-INV-0035",
+"STE-INV-0036",
+"STE-INV-0037",
+"STE-INV-0038",
+"STE-INV-0039",
+"STE-INV-0040",
+"STE-INV-0041",
+"STE-INV-0042",
+"STE-INV-0043",
+"STE-INV-0044",
+"STE-INV-0045",
+"STE-INV-0046",
+"STE-INV-0047",
+"STE-INV-0048"
+],
+"universo": "steamverse"
 }
 ]

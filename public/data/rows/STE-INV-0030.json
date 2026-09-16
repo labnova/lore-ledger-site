@@ -1,0 +1,27 @@
+{
+"appare_in": [],
+"chi_paga": "il-futuro",
+"created": "2026-09-16",
+"discipline": [
+"telecomunicazioni/fibra_ottica",
+"illuminazione/lampade_a_olio"
+],
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 92,
+"fatti": [],
+"gancio": "Una notte rubano la chiave del serbatoio insieme al registro di manutenzione, e da allora nessuno sa più quando la lampada dell'ultimo relè sia stata davvero rabboccata; chi erediterà la torre tra vent'anni troverà ingranaggi mai oliati.",
+"id": "STE-INV-0030",
+"media": [],
+"nome": "La Torre del Rabbocco",
+"nome_reale": "Torre-relè a olio che rilancia i messaggi luminosi da un molo all'altro lungo la costa delle saline",
+"oggetto": "Torre-relè a olio che rilancia i messaggi luminosi da un molo all'altro lungo la costa delle saline, con serbatoio di scorta chiuso a chiave.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "furto",
+"universo": "steamverse"
+}

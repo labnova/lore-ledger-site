@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "il-futuro",
+"created": "2026-09-16",
+"discipline": [
+"telecomunicazioni/fibra_ottica",
+"illuminazione/lampade_a_olio"
+],
+"entita_usate": [
+"Lo Sfarfallio delle Nove",
+"Consorzio del Vetro e del Sale"
+],
+"epoca_relativa": 0,
+"estrazione": 92,
+"fatti": [],
+"gancio": "Un magazziniere scambiò due cifre nell'etichetta di una fiala diretta alla torre coinvolta da Lo Sfarfallio delle Nove, e da allora il Consorzio del Vetro e del Sale continua a rifornirla con la scorta sbagliata, convinto che sia sempre stato così.",
+"id": "STE-INV-0048",
+"media": [],
+"nome": "L'Etichetta Storta",
+"nome_reale": "Etichetta di smistamento appesa alle fiale d'olio, con un codice numerico che indica la torre di destinazione",
+"oggetto": "Etichetta di smistamento appesa alle fiale d'olio, con un codice numerico che indica la torre di destinazione.",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "errore-di-etichetta",
+"universo": "steamverse"
+}

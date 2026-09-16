@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "nessuno-apparentemente",
+"created": "2026-09-16",
+"discipline": [
+"telecomunicazioni/fibra_ottica",
+"illuminazione/lampade_a_olio"
+],
+"entita_usate": [
+"Consorzio del Vetro e del Sale"
+],
+"epoca_relativa": 0,
+"estrazione": 92,
+"fatti": [],
+"gancio": "Per tagliare gli stoppini a misura serve un dito fermo e un occhio che non lacrimi nel fumo; il Consorzio del Vetro e del Sale paga a cottimo, e i tagliatori si consumano le dita più in fretta delle lampade.",
+"id": "STE-INV-0036",
+"media": [],
+"nome": "Lo Stoppino delle Torri Lontane",
+"nome_reale": "Stoppino a doppia mecha che allunga la vita della fiamma nelle torri-relè più isolate",
+"oggetto": "Stoppino a doppia mecha che allunga la vita della fiamma nelle torri-relè più isolate.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "costo-umano-nascosto",
+"universo": "steamverse"
+}

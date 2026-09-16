@@ -1,0 +1,27 @@
+{
+"appare_in": [],
+"chi_paga": "un-terzo-ignaro",
+"created": "2026-09-16",
+"discipline": [
+"telecomunicazioni/fibra_ottica",
+"illuminazione/lampade_a_olio"
+],
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 92,
+"fatti": [],
+"gancio": "La guarnizione porta incise le iniziali di un operaio che l'ha forgiata trent'anni fa per un impianto ormai smantellato del Consorzio del Vetro e del Sale; il pescatore che ne ripara la barca oggi non sa nemmeno che la sua chiglia contiene un pezzo di telegrafo.",
+"id": "STE-INV-0034",
+"media": [],
+"nome": "La Giuntura Sommersa",
+"nome_reale": "Guarnizione a olio che tiene stagna la canna di vetro nei tratti sommersi del canale",
+"oggetto": "Guarnizione a olio che tiene stagna la canna di vetro nei tratti sommersi del canale.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "memoria-dell-oggetto",
+"universo": "steamverse"
+}

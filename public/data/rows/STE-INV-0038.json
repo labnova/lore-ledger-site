@@ -1,0 +1,27 @@
+{
+"appare_in": [],
+"chi_paga": "la-comunita",
+"created": "2026-09-16",
+"discipline": [
+"telecomunicazioni/fibra_ottica",
+"illuminazione/lampade_a_olio"
+],
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 92,
+"fatti": [],
+"gancio": "È una boa pensata per un canale largo come un fiume, calata invece in uno stretto rigagnolo dietro le case del porto: la fiamma scalda l'acqua bassa abbastanza da far bollire le vasche dei pescatori vicini.",
+"id": "STE-INV-0038",
+"media": [],
+"nome": "La Boa del Passaggio",
+"nome_reale": "Boa luminosa a olio che segna il punto in cui la canna di vetro passa sott'acqua",
+"oggetto": "Boa luminosa a olio che segna il punto in cui la canna di vetro passa sott'acqua.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "scala-sbagliata",
+"universo": "steamverse"
+}

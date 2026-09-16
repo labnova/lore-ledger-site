@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "il-futuro",
+"created": "2026-09-16",
+"discipline": [
+"telecomunicazioni/fibra_ottica",
+"illuminazione/lampade_a_olio"
+],
+"entita_usate": [
+"Halim Zaffran",
+"Qattoum"
+],
+"epoca_relativa": 0,
+"estrazione": 92,
+"fatti": [],
+"gancio": "Solo Halim Zaffran sa ancora leggere le tacche consumate della sua chiave originale; il giorno che smetterà di girarla, nessuna torre di Qattoum saprà più tarare la propria fiamma.",
+"id": "STE-INV-0046",
+"media": [],
+"nome": "La Chiave di Zaffran",
+"nome_reale": "Chiave di taratura che allinea lo specchio-collimatore alla fiamma esatta di un singolo lampadaio",
+"oggetto": "Chiave di taratura che allinea lo specchio-collimatore alla fiamma esatta di un singolo lampadaio.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "calibrazione",
+"universo": "steamverse"
+}

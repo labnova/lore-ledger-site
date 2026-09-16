@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-inventore-originario",
+"created": "2026-09-16",
+"discipline": [
+"telecomunicazioni/fibra_ottica",
+"illuminazione/lampade_a_olio"
+],
+"entita_usate": [
+"Halim Zaffran",
+"Consorzio del Vetro e del Sale"
+],
+"epoca_relativa": 0,
+"estrazione": 92,
+"fatti": [],
+"gancio": "Halim Zaffran progettò il primo otturatore con un solo dente d'ingranaggio per contare i battiti; la copia venduta oggi dal Consorzio del Vetro e del Sale ne ha tre, legge più veloce, e porta ancora il suo nome inciso sul coperchio.",
+"id": "STE-INV-0031",
+"media": [],
+"nome": "L'Otturatore di Zaffran",
+"nome_reale": "Lente-otturatore che scandisce il codice luminoso aprendo e chiudendo il getto d'olio in impulsi regolari",
+"oggetto": "Lente-otturatore che scandisce il codice luminoso aprendo e chiudendo il getto d'olio in impulsi regolari.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "falsificazione",
+"universo": "steamverse"
+}

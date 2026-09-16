@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "l-inventore-originario",
+"created": "2026-09-16",
+"discipline": [
+"telecomunicazioni/fibra_ottica",
+"illuminazione/lampade_a_olio"
+],
+"entita_usate": [
+"Consorzio del Vetro e del Sale"
+],
+"epoca_relativa": 0,
+"estrazione": 92,
+"fatti": [],
+"gancio": "Il contratto porta ancora la firma del primo vetraio che disegnò la canna, ma il figlio che l'ha ereditata l'ha rivenduta al Consorzio del Vetro e del Sale il giorno dopo il funerale, senza che nessuno gliene chiedesse conto.",
+"id": "STE-INV-0047",
+"media": [],
+"nome": "Il Contratto di Fiamma",
+"nome_reale": "Contratto-lampada, la lampada e il tratto di canna che un lampadaio riceve in eredità con l'obbligo di tenerla accesa",
+"oggetto": "Contratto-lampada: la lampada e il tratto di canna che un lampadaio riceve in eredità dal padre, con l'obbligo di tenerla accesa.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "eredita-lascito",
+"universo": "steamverse"
+}
