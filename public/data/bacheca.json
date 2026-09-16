@@ -174,6 +174,7 @@
 "versione": 1
 }
 ],
+"pronta_per_arbitro": "2026-09-16T03:17:41Z",
 "revisioni": 1,
 "scelto": "STE-INV-0010",
 "versione": 2
@@ -363,6 +364,7 @@
 "lacuna": "manca la regione dei dormitori popolari",
 "letto_a": "4137401092b0012e67128ca227a889c998656df0",
 "motivazione": "Su NEO-INV-0027 la regione è vuota, ed è l'unico dei tre a lasciare scoperto il dove della scena: NEO-INV-0014 dichiara Calvenna, STE-GAD-0009 dichiara Ledoskol e ha già portatore e tradimento_tech al completo. Il gancio però è il più forte del lotto: il fiato che si interrompe lo stesso giorno in cui muore l'ultima vacca della stalla madre, con il clero che copre l'origine. Tra le mie forme preferite scelgo lo snippet: un testo breve per canale lavora proprio sull'effetto del blackout e sul silenzio del clero, senza aggiungere impianti che la riga non regge. Non tocco il resto: le discipline reggono, la torsione è dichiarata, la mancanza di figlie è una scelta di sviluppo, non una lacuna.",
+"pronta_per_arbitro": "2026-09-16T03:17:41Z",
 "scelto": "NEO-INV-0027"
 },
 "postata_da": "redattore",
@@ -459,6 +461,83 @@
 "tipo": "commento",
 "universi": [
 "steamverse"
+]
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-15T01:10:42Z",
+"esito": null,
+"id": "BAC-34916202240-1",
+"payload": {
+"bozza": "Reliquary panel: a technological object shown as a venerated relic in a painted shrine, wrapped in cloth or under a glass case on a cushion, gold-leaf ground, flat tempera colours, compartments like a polyptych, label with illegible product code. Subject: Borsa di Cuoio a Doppio Fondo — Bisaccia da viaggio in cuoio conciato, con un doppio fondo cucito così bene da sembrare un solo strato. — carried by I pellegrini diretti a Vasperdine la comprano da Baraka per portare offerte e quote senza distinguerle.. Fondo oro in foglia, lapislazzuli, rosso lacca, verde malachite, bianco di piombo per gli incarnati. Miniatura da codice o pala d'altare a fondo oro: prospettiva piatta o rovesciata, dimensione delle figure per gerarchia e non per distanza, aureole e cornici architettoniche dipinte, craquelure leggera. --ar 4:3 --no photographic realism, naturalistic light, fantasy armour, dragons, taverns, steampunk gears, pseudo-latin lettering, blurred faces, 3D render, illegible lettering, watermark",
+"chiave": "m2",
+"contesto": "id: NEO-GAD-0038\ntipo: gadget\nuniverso: neofeudal\nestrazione: 26\ncreated: '2026-09-13'\nparent_id: null\nrelazione: null\nepoca_relativa: 0\nregione: Calvenna\nstatus: canon\nschema_version: 1\nnome: Borsa di Cuoio a Doppio Fondo\ncosa: Bisaccia da viaggio in cuoio conciato, con un doppio fondo cucito così bene da sembrare un solo strato.\nchi_lo_porta: I pellegrini diretti a Vasperdine la comprano da Baraka per portare offerte e quote senza distinguerle.\ninvenzione_id: NEO-INV-0021\npersonaggio_id: NEO-PER-0003\ntradimento_tech: Il doppio fondo non nasconde monete ma ritagli di pergamena, che Baraka fa circolare fuori da Calvenna senza passare dai copisti.\nprod: false",
+"manifest": {
+"caricato_il": null,
+"creato": "2026-09-15",
+"id": "MED-34916202240-2",
+"note": "oggetto: Borsa di Cuoio a Doppio Fondo; gancio: Un pellegrino l'ha aperta per errore davanti a un chierico, e ora Baraka aspetta che qualcuno bussi alla sua porta.; tradimento_tech: Il doppio fondo non nasconde monete ma ritagli di pergamena, che Baraka fa circolare fuori da Calvenna senza passare dai copisti.; sref non fissato",
+"parametri": {
+"ar": "4:3",
+"atomi": [],
+"cref": null,
+"sref": null
+},
+"prompt": "Reliquary panel: a technological object shown as a venerated relic in a painted shrine, wrapped in cloth or under a glass case on a cushion, gold-leaf ground, flat tempera colours, compartments like a polyptych, label with illegible product code. Subject: Borsa di Cuoio a Doppio Fondo — Bisaccia da viaggio in cuoio conciato, con un doppio fondo cucito così bene da sembrare un solo strato. — carried by I pellegrini diretti a Vasperdine la comprano da Baraka per portare offerte e quote senza distinguerle.. Fondo oro in foglia, lapislazzuli, rosso lacca, verde malachite, bianco di piombo per gli incarnati. Miniatura da codice o pala d'altare a fondo oro: prospettiva piatta o rovesciata, dimensione delle figure per gerarchia e non per distanza, aureole e cornici architettoniche dipinte, craquelure leggera. --ar 4:3 --no photographic realism, naturalistic light, fantasy armour, dragons, taverns, steampunk gears, pseudo-latin lettering, blurred faces, 3D render, illegible lettering, watermark",
+"sha256": null,
+"sorgente": {
+"ref": "NEO-GAD-0038",
+"tipo": "riga"
+},
+"stato": "proposto",
+"strumento": "midjourney",
+"tipo": "tavola",
+"universo": "neofeudal",
+"url": null
+},
+"strumento": "midjourney",
+"tipo": "tavola"
+},
+"postata_da": "media-random",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"NEO-GAD-0038"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "media-random",
+"da": "media-random",
+"quando": "2026-09-15T01:10:42Z",
+"stato": "aperta"
+},
+{
+"agente": "illustratore",
+"da": "illustratore",
+"quando": "2026-09-15T20:38:11Z",
+"stato": "presa"
+},
+{
+"agente": "igiene",
+"da": "igiene",
+"quando": "2026-09-16T03:17:41Z",
+"stato": "scaduta"
+},
+{
+"agente": "igiene",
+"da": "igiene",
+"quando": "2026-09-16T03:17:41Z",
+"stato": "aperta"
+}
+],
+"tentativi": 1,
+"tipo": "media_tavola",
+"universi": [
+"neofeudal"
 ]
 },
 {
@@ -1401,71 +1480,6 @@
 "tentativi": 0,
 "tipo": "nota",
 "universi": []
-},
-{
-"chiusa_il": null,
-"creata": "2026-09-15T01:10:42Z",
-"esito": null,
-"id": "BAC-34916202240-1",
-"payload": {
-"bozza": "Reliquary panel: a technological object shown as a venerated relic in a painted shrine, wrapped in cloth or under a glass case on a cushion, gold-leaf ground, flat tempera colours, compartments like a polyptych, label with illegible product code. Subject: Borsa di Cuoio a Doppio Fondo — Bisaccia da viaggio in cuoio conciato, con un doppio fondo cucito così bene da sembrare un solo strato. — carried by I pellegrini diretti a Vasperdine la comprano da Baraka per portare offerte e quote senza distinguerle.. Fondo oro in foglia, lapislazzuli, rosso lacca, verde malachite, bianco di piombo per gli incarnati. Miniatura da codice o pala d'altare a fondo oro: prospettiva piatta o rovesciata, dimensione delle figure per gerarchia e non per distanza, aureole e cornici architettoniche dipinte, craquelure leggera. --ar 4:3 --no photographic realism, naturalistic light, fantasy armour, dragons, taverns, steampunk gears, pseudo-latin lettering, blurred faces, 3D render, illegible lettering, watermark",
-"chiave": "m2",
-"contesto": "id: NEO-GAD-0038\ntipo: gadget\nuniverso: neofeudal\nestrazione: 26\ncreated: '2026-09-13'\nparent_id: null\nrelazione: null\nepoca_relativa: 0\nregione: Calvenna\nstatus: canon\nschema_version: 1\nnome: Borsa di Cuoio a Doppio Fondo\ncosa: Bisaccia da viaggio in cuoio conciato, con un doppio fondo cucito così bene da sembrare un solo strato.\nchi_lo_porta: I pellegrini diretti a Vasperdine la comprano da Baraka per portare offerte e quote senza distinguerle.\ninvenzione_id: NEO-INV-0021\npersonaggio_id: NEO-PER-0003\ntradimento_tech: Il doppio fondo non nasconde monete ma ritagli di pergamena, che Baraka fa circolare fuori da Calvenna senza passare dai copisti.\nprod: false",
-"manifest": {
-"caricato_il": null,
-"creato": "2026-09-15",
-"id": "MED-34916202240-2",
-"note": "oggetto: Borsa di Cuoio a Doppio Fondo; gancio: Un pellegrino l'ha aperta per errore davanti a un chierico, e ora Baraka aspetta che qualcuno bussi alla sua porta.; tradimento_tech: Il doppio fondo non nasconde monete ma ritagli di pergamena, che Baraka fa circolare fuori da Calvenna senza passare dai copisti.; sref non fissato",
-"parametri": {
-"ar": "4:3",
-"atomi": [],
-"cref": null,
-"sref": null
-},
-"prompt": "Reliquary panel: a technological object shown as a venerated relic in a painted shrine, wrapped in cloth or under a glass case on a cushion, gold-leaf ground, flat tempera colours, compartments like a polyptych, label with illegible product code. Subject: Borsa di Cuoio a Doppio Fondo — Bisaccia da viaggio in cuoio conciato, con un doppio fondo cucito così bene da sembrare un solo strato. — carried by I pellegrini diretti a Vasperdine la comprano da Baraka per portare offerte e quote senza distinguerle.. Fondo oro in foglia, lapislazzuli, rosso lacca, verde malachite, bianco di piombo per gli incarnati. Miniatura da codice o pala d'altare a fondo oro: prospettiva piatta o rovesciata, dimensione delle figure per gerarchia e non per distanza, aureole e cornici architettoniche dipinte, craquelure leggera. --ar 4:3 --no photographic realism, naturalistic light, fantasy armour, dragons, taverns, steampunk gears, pseudo-latin lettering, blurred faces, 3D render, illegible lettering, watermark",
-"sha256": null,
-"sorgente": {
-"ref": "NEO-GAD-0038",
-"tipo": "riga"
-},
-"stato": "proposto",
-"strumento": "midjourney",
-"tipo": "tavola",
-"universo": "neofeudal",
-"url": null
-},
-"strumento": "midjourney",
-"tipo": "tavola"
-},
-"postata_da": "media-random",
-"presa_da": "illustratore",
-"presa_il": "2026-09-15T20:38:11Z",
-"priorita": 3,
-"racconto": null,
-"righe": [
-"NEO-GAD-0038"
-],
-"scade": "2026-09-16T02:38:11Z",
-"stato": "presa",
-"storia": [
-{
-"agente": "media-random",
-"da": "media-random",
-"quando": "2026-09-15T01:10:42Z",
-"stato": "aperta"
-},
-{
-"agente": "illustratore",
-"da": "illustratore",
-"quando": "2026-09-15T20:38:11Z",
-"stato": "presa"
-}
-],
-"tentativi": 1,
-"tipo": "media_tavola",
-"universi": [
-"neofeudal"
-]
 },
 {
 "chiusa_il": "2026-09-15T20:38:11Z",
