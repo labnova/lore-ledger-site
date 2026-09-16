@@ -4656,6 +4656,16 @@
 "to": "ELA-INV-0043"
 },
 {
+"from": "ELA-CON-0006",
+"kind": "sorgente",
+"to": "ELA-GAD-0019"
+},
+{
+"from": "ELA-CON-0006",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
 "from": "HAC-CON-0001",
 "kind": "sorgente",
 "to": "HAC-INV-0017"
@@ -5667,6 +5677,12 @@
 "id": "ELA-CON-0005",
 "tipo": "contenuto",
 "titolo": "Nota di redazione: perché il secondo cifrario non doveva funzionare",
+"universo": "elabverse"
+},
+{
+"id": "ELA-CON-0006",
+"tipo": "contenuto",
+"titolo": "Pagina di zine ritrovata: come è nato l’Anello a Sigillo Concavo",
 "universo": "elabverse"
 },
 {

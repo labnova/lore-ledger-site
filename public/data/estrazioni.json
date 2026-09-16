@@ -3130,5 +3130,30 @@
 "CYB-PER-0012"
 ],
 "universo": "cyberverse"
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"ELA-GAD-0019",
+"ELA-INV-0002",
+"ELA-PER-0019"
+],
+"chiavi": {
+"canale": "zine",
+"formato": "documento_ritrovato",
+"medium": "fisico",
+"sorgente_id": "ELA-GAD-0019",
+"veridicita": "making_of"
+},
+"created": "2026-09-16",
+"esito": "ok",
+"estrazione": 76,
+"forzata": false,
+"lotto": "lotto-contenuti",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"ELA-CON-0006"
+],
+"universo": "elabverse"
 }
 ]

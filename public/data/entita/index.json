@@ -29,6 +29,20 @@
 },
 {
 "alias": [
+"CYB-REG-rostkirche"
+],
+"descrizione": "Accampamento di nomadi urbani cresciuto attorno a uno snodo ferroviario dismesso ai margini del distretto trapianti; i cognomi restano legati ai mestieri di chi ci transitava prima del collasso della linea, e se ne guadagna uno nuovo solo restando abbastanza a lungo.",
+"ha_prosa": false,
+"nome": "Rostkirche",
+"prima_apparizione": 16,
+"ricorrenze": 46,
+"slug": "rostkirche",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "cyberverse"
+},
+{
+"alias": [
 "NEO-REG-sarakan"
 ],
 "descrizione": "Terra di canali e cascine ai margini coltivabili del pianeta, dove il turno d'acqua è fissato dalla Diocesi del Cielo e i Cerusici passano una volta l'anno a riaprire i passaggi ostruiti con la stessa manovra che usano sui corpi vivi.",
@@ -40,20 +54,6 @@
 "sopra_soglia": true,
 "tipo": "luogo",
 "universo": "neofeudal"
-},
-{
-"alias": [
-"CYB-REG-rostkirche"
-],
-"descrizione": "Accampamento di nomadi urbani cresciuto attorno a uno snodo ferroviario dismesso ai margini del distretto trapianti; i cognomi restano legati ai mestieri di chi ci transitava prima del collasso della linea, e se ne guadagna uno nuovo solo restando abbastanza a lungo.",
-"ha_prosa": false,
-"nome": "Rostkirche",
-"prima_apparizione": 16,
-"ricorrenze": 35,
-"slug": "rostkirche",
-"sopra_soglia": true,
-"tipo": "luogo",
-"universo": "cyberverse"
 },
 {
 "alias": [

@@ -202,6 +202,20 @@
 },
 {
 "appare_in": [],
+"chiavi": "fisico · zine · documento_ritrovato",
+"created": "2026-09-16",
+"estrazione": 76,
+"id": "ELA-CON-0006",
+"parent_id": null,
+"regione": "Konya",
+"relazione": null,
+"sommario": "Pagina di zine ritrovata: come è nato l’Anello a Sigillo Concavo",
+"tipo": "contenuto",
+"titolo": "Pagina di zine ritrovata: come è nato l’Anello a Sigillo Concavo",
+"universo": "elabverse"
+},
+{
+"appare_in": [],
 "chiavi": "nomadi_urbani · acquario · metodica · ossessiva",
 "created": "2026-09-16",
 "estrazione": 75,

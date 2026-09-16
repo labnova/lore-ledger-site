@@ -1,11 +1,11 @@
 {
-"aggiornata": "2026-09-15",
+"aggiornata": "2026-09-16",
 "alias": [
 "CYB-REG-rostkirche"
 ],
 "descrizione": "Accampamento di nomadi urbani cresciuto attorno a uno snodo ferroviario dismesso ai margini del distretto trapianti; i cognomi restano legati ai mestieri di chi ci transitava prima del collasso della linea, e se ne guadagna uno nuovo solo restando abbastanza a lungo.",
 "ha_prosa": false,
-"n_ricorrenze": 35,
+"n_ricorrenze": 46,
 "nome": "Rostkirche",
 "prima_apparizione": 16,
 "prosa": null,
@@ -325,6 +325,105 @@
 "riga_id": "CYB-CON-0002",
 "riga_tipo": "contenuto",
 "riga_titolo": "Formazione trasportatori, modulo 3: la scheda non mente, il lettore sì"
+},
+{
+"estrazione": 75,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0021",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Bracciale del Primo Voto"
+},
+{
+"estrazione": 75,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0022",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Bracciale Zittito"
+},
+{
+"estrazione": 75,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0023",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Silenzio del Polso"
+},
+{
+"estrazione": 75,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0024",
+"riga_tipo": "gadget",
+"riga_titolo": "I Dadi del Voto"
+},
+{
+"estrazione": 75,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0025",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Bracciale Spento"
+},
+{
+"estrazione": 75,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0026",
+"riga_tipo": "gadget",
+"riga_titolo": "Le Pile della Fede"
+},
+{
+"estrazione": 75,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0027",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Cinturino Franco"
+},
+{
+"estrazione": 75,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0028",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Notaio al Polso"
+},
+{
+"estrazione": 75,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0029",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Bollino Sbagliato"
+},
+{
+"estrazione": 75,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0030",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Pegno di Fede"
+},
+{
+"estrazione": 75,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-PER-0012",
+"riga_tipo": "personaggio",
+"riga_titolo": "Ilse Kranzler"
 }
 ],
 "righe": [
@@ -434,6 +533,56 @@
 "titolo": "Ciondolo del Controllo Notturno"
 },
 {
+"id": "CYB-GAD-0021",
+"tipo": "gadget",
+"titolo": "Il Bracciale del Primo Voto"
+},
+{
+"id": "CYB-GAD-0022",
+"tipo": "gadget",
+"titolo": "Il Bracciale Zittito"
+},
+{
+"id": "CYB-GAD-0023",
+"tipo": "gadget",
+"titolo": "Il Silenzio del Polso"
+},
+{
+"id": "CYB-GAD-0024",
+"tipo": "gadget",
+"titolo": "I Dadi del Voto"
+},
+{
+"id": "CYB-GAD-0025",
+"tipo": "gadget",
+"titolo": "Il Bracciale Spento"
+},
+{
+"id": "CYB-GAD-0026",
+"tipo": "gadget",
+"titolo": "Le Pile della Fede"
+},
+{
+"id": "CYB-GAD-0027",
+"tipo": "gadget",
+"titolo": "Il Cinturino Franco"
+},
+{
+"id": "CYB-GAD-0028",
+"tipo": "gadget",
+"titolo": "Il Notaio al Polso"
+},
+{
+"id": "CYB-GAD-0029",
+"tipo": "gadget",
+"titolo": "Il Bollino Sbagliato"
+},
+{
+"id": "CYB-GAD-0030",
+"tipo": "gadget",
+"titolo": "Il Pegno di Fede"
+},
+{
 "id": "CYB-PER-0001",
 "tipo": "personaggio",
 "titolo": "Eszter Etxeondo"
@@ -487,6 +636,11 @@
 "id": "CYB-PER-0011",
 "tipo": "personaggio",
 "titolo": "Greta Weber"
+},
+{
+"id": "CYB-PER-0012",
+"tipo": "personaggio",
+"titolo": "Ilse Kranzler"
 },
 {
 "id": "CYB-REG-rostkirche",
