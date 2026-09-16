@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "il-costruttore",
+"created": "2026-09-16",
+"discipline": [
+"astronomia/astrometria",
+"architettura/restauro"
+],
+"entita_usate": [
+"Parallasse Certificazioni™"
+],
+"epoca_relativa": 0,
+"estrazione": 78,
+"fatti": [],
+"gancio": "Un capocantiere che salta l'Alba di Squadra per finire prima viene isolato dagli operai per settimane, anche se il restauro passa comunque il controllo di Parallasse Certificazioni™.",
+"id": "CYB-INV-0057",
+"media": [],
+"nome": "L'Alba di Squadra",
+"nome_reale": "L'Alba di Squadra, il gesto di puntare lo strumento al faro all'alba ripetuto come benedizione a ogni cantiere",
+"oggetto": "L'Alba di Squadra è il gesto di puntare lo strumento al faro all'alba, ripetuto a ogni cantiere come una benedizione anche dove il segnale non serve più.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "rito",
+"universo": "cyberverse"
+}

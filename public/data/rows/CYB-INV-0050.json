@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "un-terzo-ignaro",
+"created": "2026-09-16",
+"discipline": [
+"astronomia/astrometria",
+"architettura/restauro"
+],
+"entita_usate": [
+"Parallasse Certificazioni™"
+],
+"epoca_relativa": 0,
+"estrazione": 78,
+"fatti": [],
+"gancio": "Quando Parallasse Certificazioni™ sospende le licenze di lettura del Bollino per un contenzioso, il fruttivendolo sotto la facciata appena certificata si ritrova lo sfratto bloccato per mesi, senza aver mai chiesto un restauro in vita sua.",
+"id": "CYB-INV-0050",
+"media": [],
+"nome": "Il Bollino Parallasse",
+"nome_reale": "Bollino Parallasse, marchio digitale unico che certifica un restauro a Vetrasca",
+"oggetto": "Parallasse Certificazioni™ è l'unica corp autorizzata a incidere il Bollino, il marchio digitale che rende legale un restauro a Vetrasca.",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "monopolio",
+"universo": "cyberverse"
+}

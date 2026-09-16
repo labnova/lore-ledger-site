@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-utente-ultimo",
+"created": "2026-09-16",
+"discipline": [
+"astronomia/astrometria",
+"architettura/restauro"
+],
+"entita_usate": [
+"Parallasse Certificazioni™",
+"Rostkirche"
+],
+"epoca_relativa": 0,
+"estrazione": 78,
+"fatti": [],
+"gancio": "Un restauratore indipendente di Rostkirche continua a cercare sui banchi dell'usato quel vecchio ricevitore, perché solo il segnale grezzo gli permette di certificare da solo le facciate che la nuova versione rifiuta di misurare.",
+"id": "CYB-INV-0055",
+"media": [],
+"nome": "Il Ricevitore Grezzo",
+"nome_reale": "Ricevitore del faro di prima generazione, l'unico ancora capace di agganciare il segnale grezzo non filtrato",
+"oggetto": "Il ricevitore del faro di prima generazione, dismesso da Parallasse Certificazioni™, resta l'unico capace di agganciare il segnale grezzo non filtrato.",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "versione-precedente",
+"universo": "cyberverse"
+}

@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "nessuno-apparentemente",
+"created": "2026-09-16",
+"discipline": [
+"astronomia/astrometria",
+"architettura/restauro"
+],
+"entita_usate": [
+"Rostkirche",
+"Parallasse Certificazioni™"
+],
+"epoca_relativa": 0,
+"estrazione": 78,
+"fatti": [],
+"gancio": "Un archivista che incrocia per la prima volta le due liste capisce che da anni due nomi diversi contano due volte il medesimo lotto di strumenti, gonfiando un inventario che nessuno ha mai avuto motivo di correggere.",
+"id": "CYB-INV-0056",
+"media": [],
+"nome": "Il Piombino delle Stelle",
+"nome_reale": "Piombino delle stelle a Rostkirche e unità di riferimento zenitale nei moduli Parallasse: lo stesso strumento con due nomi",
+"oggetto": "A Rostkirche lo chiamano 'piombino delle stelle'; nei moduli Parallasse Certificazioni™ lo stesso strumento è registrato come 'unità di riferimento zenitale'.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "malinteso-linguistico",
+"universo": "cyberverse"
+}

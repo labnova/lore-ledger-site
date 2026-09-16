@@ -1,0 +1,27 @@
+{
+"appare_in": [],
+"chi_paga": "un-terzo-ignaro",
+"created": "2026-09-16",
+"discipline": [
+"astronomia/astrometria",
+"architettura/restauro"
+],
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 78,
+"fatti": [],
+"gancio": "Un vicino che abita tre portoni più in là si ritrova la porta blindata che non riconosce più il suo impianto di accesso, perché la ricalibrazione fatta a misura di balcone ha spostato di un soffio anche il suo cancello.",
+"id": "CYB-INV-0061",
+"media": [],
+"nome": "Il Teodolite da Balcone",
+"nome_reale": "Teodolite da tasca tarato per un singolo balcone usato per errore a ricalibrare un intero isolato",
+"oggetto": "Un teodolite da tasca, tarato per un singolo balcone, viene usato per errore a ricalibrare un intero isolato dopo il guasto del faro condiviso.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "scala-sbagliata",
+"universo": "cyberverse"
+}

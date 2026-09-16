@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "la-comunita",
+"created": "2026-09-16",
+"discipline": [
+"astronomia/astrometria",
+"architettura/restauro"
+],
+"entita_usate": [
+"Rostkirche",
+"Parallasse Certificazioni™"
+],
+"epoca_relativa": 0,
+"estrazione": 78,
+"fatti": [],
+"gancio": "A Rostkirche il turno di guardia si prova ormai solo appoggiando il polso al lettore rubato a un cantiere, e chi non ha un chip da riciclare non viene creduto quando giura di aver fatto la ronda.",
+"id": "CYB-INV-0052",
+"media": [],
+"nome": "Il Chip della Ronda",
+"nome_reale": "Chip di autenticazione Parallasse riprogrammato dai portinai per timbrare i turni di sorveglianza",
+"oggetto": "I portinai di Rostkirche riprogrammano il chip di autenticazione Parallasse per timbrare i turni di sorveglianza notturna invece delle facciate.",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "riuso-improprio",
+"universo": "cyberverse"
+}

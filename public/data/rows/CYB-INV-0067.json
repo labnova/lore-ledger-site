@@ -1,0 +1,27 @@
+{
+"appare_in": [],
+"chi_paga": "nessuno-apparentemente",
+"created": "2026-09-16",
+"discipline": [
+"astronomia/astrometria",
+"architettura/restauro"
+],
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 78,
+"fatti": [],
+"gancio": "Il Bollino che arriva il giorno dopo non porta scritto da nessuna parte quante persone hanno rischiato la caduta quella notte per farlo tornare esatto.",
+"id": "CYB-INV-0067",
+"media": [],
+"nome": "Il Turno in Quota",
+"nome_reale": "Il turno in quota che obbliga un tecnico a salire a mani nude sulle gru di restauro per allineare il teodolite al faro",
+"oggetto": "Il turno in quota obbliga un tecnico a salire a mani nude sulle gru di restauro per allineare a occhio lo specchio del teodolite al faro.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "costo-umano-nascosto",
+"universo": "cyberverse"
+}

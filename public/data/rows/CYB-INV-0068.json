@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_paga": "la-comunita",
+"created": "2026-09-16",
+"discipline": [
+"astronomia/astrometria",
+"architettura/restauro"
+],
+"entita_usate": [
+"Parallasse Certificazioni™",
+"Rostkirche",
+"Ivo Reinacher"
+],
+"epoca_relativa": 0,
+"estrazione": 78,
+"fatti": [],
+"gancio": "Senza l'archivio nessuno può più provare quale facciata sia stata davvero restaurata prima delle Faglie Sociali, e il quartiere si ritrova un pezzo di prova collettiva finito sul banco di Ivo Reinacher.",
+"id": "CYB-INV-0068",
+"media": [],
+"nome": "L'Archivio Rubato",
+"nome_reale": "Archivio delle posizioni orbitali storiche di Vetrasca, rubato dai server Parallasse e rivenduto a pezzi",
+"oggetto": "L'archivio delle posizioni orbitali storiche di Vetrasca sparisce dai server di Parallasse Certificazioni™ e viene rivenduto a pezzi sui banchi di Rostkirche.",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "furto",
+"universo": "cyberverse"
+}

@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "il-costruttore",
+"created": "2026-09-16",
+"discipline": [
+"astronomia/astrometria",
+"architettura/restauro"
+],
+"entita_usate": [
+"Parallasse Certificazioni™",
+"Rostkirche"
+],
+"epoca_relativa": 0,
+"estrazione": 78,
+"fatti": [],
+"gancio": "Un tecnico di Rostkirche che ne parla in un forum di quartiere viene richiamato entro un'ora, e da allora il registro si discute solo per allusioni, chiamandolo 'il libro che non c'è'.",
+"id": "CYB-INV-0059",
+"media": [],
+"nome": "Il Libro che non c'è",
+"nome_reale": "Registro delle ricalibrazioni fallite, che Parallasse vieta per contratto di nominare fuori da un rapporto interno",
+"oggetto": "Parallasse Certificazioni™ vieta per contratto ai tecnici di nominare fuori da un rapporto interno il registro delle ricalibrazioni fallite.",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "censura",
+"universo": "cyberverse"
+}

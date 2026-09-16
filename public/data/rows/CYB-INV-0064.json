@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "l-istituzione",
+"created": "2026-09-16",
+"discipline": [
+"astronomia/astrometria",
+"architettura/restauro"
+],
+"entita_usate": [
+"Parallasse Certificazioni™"
+],
+"epoca_relativa": 0,
+"estrazione": 78,
+"fatti": [],
+"gancio": "Parallasse Certificazioni™ non sa più spiegare perché un consorzio aspetti la ricalibrazione da sette anni e un altro l'abbia avuta due volte, ma cambiare il sorteggio adesso vorrebbe dire ammettere che non è mai stato equo.",
+"id": "CYB-INV-0064",
+"media": [],
+"nome": "L'Estrazione del Meridiano",
+"nome_reale": "L'Estrazione del Meridiano, il sorteggio annuale dei turni di ricalibrazione in base alla posizione del faro",
+"oggetto": "L'Estrazione del Meridiano assegna ogni anno i turni di ricalibrazione ai cantieri in base alla posizione del faro nel cielo la notte del sorteggio.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "sorte",
+"universo": "cyberverse"
+}

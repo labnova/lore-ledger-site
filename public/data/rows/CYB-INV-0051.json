@@ -1,0 +1,27 @@
+{
+"appare_in": [],
+"chi_paga": "l-ambiente-gli-animali",
+"created": "2026-09-16",
+"discipline": [
+"astronomia/astrometria",
+"architettura/restauro"
+],
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 78,
+"fatti": [],
+"gancio": "Il nipote che eredita lo strumento lo pianta sul tetto per rispettare il lascito, e i dissuasori a ultrasuoni che vi ha agganciato per pagarsi la manutenzione spopolano la colonia di pipistrelli di due isolati.",
+"id": "CYB-INV-0051",
+"media": [],
+"nome": "Il Teodolite del Lascito",
+"nome_reale": "Teodolite di famiglia vincolato da un lascito testamentario a restare puntato sul faro orbitale",
+"oggetto": "Un teodolite di famiglia passa in eredità con un vincolo: resta puntato sul faro orbitale finché la casa non crolla o non viene ribollinata.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "eredita-lascito",
+"universo": "cyberverse"
+}

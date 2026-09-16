@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "l-ambiente-gli-animali",
+"created": "2026-09-16",
+"discipline": [
+"astronomia/astrometria",
+"architettura/restauro"
+],
+"entita_usate": [
+"La Deriva del Meridiano"
+],
+"epoca_relativa": 0,
+"estrazione": 78,
+"fatti": [],
+"gancio": "Le rondini che tornavano a nidificare sui cornicioni restaurati hanno smesso di tornare, e nessuno in città ricorda più come restaurare una facciata al buio.",
+"id": "CYB-INV-0069",
+"media": [],
+"nome": "Il Segnale che non Dorme",
+"nome_reale": "Il segnale del faro e il suo lampo di calibrazione, che non si spengono più nemmeno d'estate da quando la Deriva impone controlli ogni notte",
+"oggetto": "Da quando la Deriva del Meridiano impone controlli ogni notte, il segnale del faro e il suo lampo di calibrazione non si spengono più nemmeno d'estate.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "dipendenza",
+"universo": "cyberverse"
+}

@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "l-inventore-originario",
+"created": "2026-09-16",
+"discipline": [
+"astronomia/astrometria",
+"architettura/restauro"
+],
+"entita_usate": [
+"Parallasse Certificazioni™"
+],
+"epoca_relativa": 0,
+"estrazione": 78,
+"fatti": [],
+"gancio": "L'ingegnere che progettò il sistema per l'accesso libero a chiunque avesse uno strumento tarato si ritrova in fila come tutti gli altri, davanti a un sistema di turni che porta ancora il suo nome nel manuale.",
+"id": "CYB-INV-0065",
+"media": [],
+"nome": "Le Finestre di Calibrazione",
+"nome_reale": "Finestre di calibrazione Parallasse ridotte a due turni a settimana per cantiere da quando il faro va sorvegliato senza sosta",
+"oggetto": "Da quando il faro va sorvegliato senza sosta, le finestre di calibrazione Parallasse sono ridotte a due turni a settimana per cantiere.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "razionamento",
+"universo": "cyberverse"
+}

@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-istituzione",
+"created": "2026-09-16",
+"discipline": [
+"astronomia/astrometria",
+"architettura/restauro"
+],
+"entita_usate": [
+"Parallasse Certificazioni™",
+"La Deriva del Meridiano"
+],
+"epoca_relativa": 0,
+"estrazione": 78,
+"fatti": [],
+"gancio": "Quando Parallasse Certificazioni™ scopre che ogni bollino emesso negli ultimi due anni eredita l'errore della Deriva, non può ritirarli senza ammettere di aver certificato a vuoto mezza Vetrasca.",
+"id": "CYB-INV-0058",
+"media": [],
+"nome": "La Deriva del Meridiano",
+"nome_reale": "La Deriva del Meridiano, lo scarto crescente del faro orbitale di riferimento mai ricalibrato dopo le Faglie Sociali",
+"oggetto": "La Deriva del Meridiano è lo scarto crescente del faro orbitale di riferimento, mai ricalibrato dopo le Faglie Sociali del 3167.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "guasto",
+"universo": "cyberverse"
+}

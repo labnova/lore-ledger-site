@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "l-inventore-originario",
+"created": "2026-09-16",
+"discipline": [
+"astronomia/astrometria",
+"architettura/restauro"
+],
+"entita_usate": [
+"Parallasse Certificazioni™"
+],
+"epoca_relativa": 0,
+"estrazione": 78,
+"fatti": [],
+"gancio": "L'ingegnera che lo ha progettato per tarare facciate scopre che il suo strumento vende benissimo nel reparto bambini, e nessun restauro lo accetta più come prova.",
+"id": "CYB-INV-0053",
+"media": [],
+"nome": "Il Sestante Giocattolo",
+"nome_reale": "Sestante orbitale portatile archiviato per errore come giocattolo educativo nei cataloghi Parallasse",
+"oggetto": "Nei cataloghi Parallasse il sestante orbitale portatile finisce archiviato come 'giocattolo educativo' invece che come strumento di misura certificata.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "errore-di-etichetta",
+"universo": "cyberverse"
+}

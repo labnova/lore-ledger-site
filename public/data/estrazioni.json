@@ -3155,5 +3155,76 @@
 "ELA-CON-0006"
 ],
 "universo": "elabverse"
+},
+{
+"ambientazione": "citta-di-base-reale-eterna-roma-vetrasca-genova",
+"bibbia_pescata": [
+"Anno 3177. Le corporazioni hanno sostituito gli stati, le città sono ve"
+],
+"campi_forzati": [],
+"canone_pescato": [
+"CYB-GAD-0028",
+"CYB-GAD-0020",
+"CYB-FAT-34885804207-2",
+"CYB-REG-rostkirche"
+],
+"chiavi": {
+"discipline": [
+"astronomia/astrometria",
+"architettura/restauro"
+],
+"universo": "cyberverse"
+},
+"created": "2026-09-16",
+"entita": {
+"anomalia": {
+"descrizione": "Lo scarto crescente del faro orbitale di riferimento usato da Parallasse Certificazioni™, mai ricalibrato dopo le Faglie Sociali del 3167; ogni misura fatta con lui, dai bollini di restauro agli impianti di localizzazione, eredita lo stesso errore.",
+"nome": "La Deriva del Meridiano"
+},
+"attore": {
+"descrizione": "Rigattiere di Rostkirche che smercia sestanti orbitali dismessi e Bollini Parallasse contraffatti a chi non può permettersi un restauro certificato.",
+"nome": "Ivo Reinacher"
+},
+"ente": {
+"descrizione": "Corporazione che rilascia il Bollino di restauro autorizzato a Vetrasca, validando ogni facciata contro l'archivio delle posizioni orbitali registrato al momento della sua ultima ristrutturazione.",
+"nome": "Parallasse Certificazioni™"
+},
+"luogo": {
+"descrizione": "Accampamento di nomadi urbani cresciuto attorno a uno snodo ferroviario dismesso ai margini del distretto trapianti; i cognomi restano legati ai mestieri di chi ci transitava prima del collasso della linea, e se ne guadagna uno nuovo solo restando abbastanza a lungo.",
+"nome": "Rostkirche"
+}
+},
+"entita_riusate": [
+"Rostkirche"
+],
+"esito": "ok",
+"espansioni": [],
+"estrazione": 78,
+"forzata": false,
+"lotto": "lotto-lore",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"CYB-INV-0050",
+"CYB-INV-0051",
+"CYB-INV-0052",
+"CYB-INV-0053",
+"CYB-INV-0054",
+"CYB-INV-0055",
+"CYB-INV-0056",
+"CYB-INV-0057",
+"CYB-INV-0058",
+"CYB-INV-0059",
+"CYB-INV-0060",
+"CYB-INV-0061",
+"CYB-INV-0062",
+"CYB-INV-0063",
+"CYB-INV-0064",
+"CYB-INV-0065",
+"CYB-INV-0066",
+"CYB-INV-0067",
+"CYB-INV-0068",
+"CYB-INV-0069"
+],
+"universo": "cyberverse"
 }
 ]

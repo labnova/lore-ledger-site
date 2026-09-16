@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-ambiente-gli-animali",
+"created": "2026-09-16",
+"discipline": [
+"astronomia/astrometria",
+"architettura/restauro"
+],
+"entita_usate": [
+"Parallasse Certificazioni™",
+"Rostkirche"
+],
+"epoca_relativa": 0,
+"estrazione": 78,
+"fatti": [],
+"gancio": "Sui tetti di Rostkirche gli storni non nidificano più da quando il lampo di calibrazione scandisce le notti, e la corp lo considera un effetto trascurabile rispetto al Bollino che ne dipende.",
+"id": "CYB-INV-0066",
+"media": [],
+"nome": "Il Lampo di Calibrazione",
+"nome_reale": "Impulso luminoso sparato ogni notte dal teodolite di calibrazione Parallasse verso il faro, visibile per chilometri",
+"oggetto": "Il teodolite di calibrazione Parallasse spara ogni notte un impulso luminoso al faro per tarare la misura, visibile per chilometri sopra i tetti.",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "effetto-collaterale",
+"universo": "cyberverse"
+}

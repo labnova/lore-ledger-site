@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "la-comunita",
+"created": "2026-09-16",
+"discipline": [
+"astronomia/astrometria",
+"architettura/restauro"
+],
+"entita_usate": [
+"Ivo Reinacher",
+"Rostkirche"
+],
+"epoca_relativa": 0,
+"estrazione": 78,
+"fatti": [],
+"gancio": "Da Ivo Reinacher tutto il quartiere compra il bollino falso pur di chiudere la pratica prima dell'inverno, e nessuno controlla più se dietro una facciata approvata ci sia stata davvero una misura o solo una firma comprata.",
+"id": "CYB-INV-0062",
+"media": [],
+"nome": "Il Bollino di Ivo",
+"nome_reale": "Bollino Parallasse contraffatto venduto a un decimo del prezzo, indistinguibile dall'originale a occhio nudo",
+"oggetto": "Ivo Reinacher vende a Rostkirche, a un decimo del prezzo, un Bollino Parallasse contraffatto ma indistinguibile dall'originale a occhio nudo.",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "falsificazione",
+"universo": "cyberverse"
+}

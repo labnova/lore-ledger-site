@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "il-futuro",
+"created": "2026-09-16",
+"discipline": [
+"astronomia/astrometria",
+"architettura/restauro"
+],
+"entita_usate": [
+"Parallasse Certificazioni™",
+"La Deriva del Meridiano"
+],
+"epoca_relativa": 0,
+"estrazione": 78,
+"fatti": [],
+"gancio": "Chi restaura una facciata di due secoli fa con lo scanner Parallasse legge, insieme all'errore della Deriva del Meridiano, anche la data e l'ora esatta in cui una mano sconosciuta posò quella pietra per la prima volta.",
+"id": "CYB-INV-0060",
+"media": [],
+"nome": "La Pietra che Ricorda",
+"nome_reale": "Microcoordinate orbitali incise nel taglio di ogni pietra di facciata al momento della sua prima posa",
+"oggetto": "Nel taglio di ogni pietra di facciata restano incise le microcoordinate orbitali registrate al momento della sua prima posa, ben oltre il restauro.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "memoria-dell-oggetto",
+"universo": "cyberverse"
+}

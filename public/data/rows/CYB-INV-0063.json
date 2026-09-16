@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "l-utente-ultimo",
+"created": "2026-09-16",
+"discipline": [
+"astronomia/astrometria",
+"architettura/restauro"
+],
+"entita_usate": [
+"Ivo Reinacher"
+],
+"epoca_relativa": 0,
+"estrazione": 78,
+"fatti": [],
+"gancio": "Chi lo compra da Ivo Reinacher non vuole mai controllare una facciata: vuole che una facciata smetta di dire quando e come è stata rifatta.",
+"id": "CYB-INV-0063",
+"media": [],
+"nome": "Il Cancellabollino",
+"nome_reale": "Il cancellabollino, venduto come strumento di verifica ma comprato per azzerare le microincisioni orbitali di un restauro abusivo",
+"oggetto": "Il 'cancellabollino' si vende come strumento di verifica, ma si compra solo per azzerare le microincisioni orbitali di un restauro non autorizzato.",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "inversione-di-funzione",
+"universo": "cyberverse"
+}

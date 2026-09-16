@@ -1,0 +1,27 @@
+{
+"appare_in": [],
+"chi_paga": "il-futuro",
+"created": "2026-09-16",
+"discipline": [
+"astronomia/astrometria",
+"architettura/restauro"
+],
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 78,
+"fatti": [],
+"gancio": "Mentre i piani alti restaurano a cielo vero, i condomini bassi accettano l'imitazione sintetica pur di avere il Bollino in tempo, e nessuno controlla cosa succede alla pietra finta tra vent'anni di piogge acide.",
+"id": "CYB-INV-0054",
+"media": [],
+"nome": "Il Restauro a Cielo Vero",
+"nome_reale": "Restauro a cielo vero con pietra autentica riposizionata secondo l'ombra reale del mezzogiorno, riservato ai piani alti",
+"oggetto": "Il restauro 'a cielo vero' riposiziona pietra autentica secondo l'ombra reale del mezzogiorno, ed è un privilegio riservato ai piani alti.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "lusso-proibito",
+"universo": "cyberverse"
+}
