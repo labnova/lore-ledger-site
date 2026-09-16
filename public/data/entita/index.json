@@ -49,7 +49,7 @@
 "ha_prosa": false,
 "nome": "Sarakan",
 "prima_apparizione": 56,
-"ricorrenze": 43,
+"ricorrenze": 50,
 "slug": "sarakan",
 "sopra_soglia": true,
 "tipo": "luogo",
@@ -106,7 +106,7 @@
 "ha_prosa": false,
 "nome": "Vranidol",
 "prima_apparizione": 24,
-"ricorrenze": 18,
+"ricorrenze": 19,
 "slug": "vranidol",
 "sopra_soglia": true,
 "tipo": "luogo",
@@ -196,6 +196,30 @@
 },
 {
 "alias": [],
+"descrizione": "Autorità che fissa il turno d'acqua di Sarakan e benedice ogni bonifica prima che la vanga tocchi terra; ciò che non passa dal suo registro delle piogge non è mai davvero successo.",
+"ha_prosa": false,
+"nome": "Diocesi del Cielo",
+"prima_apparizione": 85,
+"ricorrenze": 10,
+"slug": "diocesi-del-cielo",
+"sopra_soglia": true,
+"tipo": "ente",
+"universo": "neofeudal"
+},
+{
+"alias": [],
+"descrizione": "Mercante di talee e sementi che segue le squadre di bonifica canale per canale, vendendo piante già acclimatate al fango appena scavato; sa dove passerà l'acqua un anno prima della Diocesi.",
+"ha_prosa": false,
+"nome": "Idris Sabbagh",
+"prima_apparizione": 85,
+"ricorrenze": 6,
+"slug": "idris-sabbagh",
+"sopra_soglia": true,
+"tipo": "attore",
+"universo": "neofeudal"
+},
+{
+"alias": [],
 "descrizione": "Lo scarto crescente del faro orbitale di riferimento usato da Parallasse Certificazioni™, mai ricalibrato dopo le Faglie Sociali del 3167; ogni misura fatta con lui, dai bollini di restauro agli impianti di localizzazione, eredita lo stesso errore.",
 "ha_prosa": false,
 "nome": "La Deriva del Meridiano",
@@ -217,5 +241,17 @@
 "sopra_soglia": true,
 "tipo": "attore",
 "universo": "cyberverse"
+},
+{
+"alias": [],
+"descrizione": "Un lotto di sementi distribuito per errore durante la grande bonifica di tre inverni fa, le cui radici crescono nelle giunture dei canali invece che nei campi; ogni ostruzione da allora viene incolpata di qualcos'altro.",
+"ha_prosa": false,
+"nome": "La Semina dell'Anno Storto",
+"prima_apparizione": 85,
+"ricorrenze": 4,
+"slug": "la-semina-dell-anno-storto",
+"sopra_soglia": true,
+"tipo": "anomalia",
+"universo": "neofeudal"
 }
 ]

@@ -1,0 +1,38 @@
+{
+"adotta": "CYB-SOS-34885804207-2",
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "sposato"
+},
+"appare_in": [],
+"casta": "nomadi_urbani",
+"ceppo": "germanico",
+"cognome": "Klingbrechwald",
+"contraddizione": "Da apostata del culto degli antenati dovrebbe essersene lasciato alle spalle i segreti, ma la sua avarizia — in un campo dove tutto si condivide — lo rende il primo a rivendere ciò che ricorda dell'indice del culto.",
+"created": "2026-09-16",
+"difetto": "avaro",
+"epoca_relativa": 0,
+"estrazione": 87,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Gerd ricorda ancora come l'indice del culto degli antenati registri chi interroga una copia prima che la copia stessa esista, e ha iniziato a rivendere quell'anticipo a chi, a Rostkirche, vuole sapere in tempo cosa deciderà il Punteggio Sereno.",
+"id": "CYB-PER-0019",
+"invenzione_id": "CYB-INV-0035",
+"media": [],
+"nome": "Gerd",
+"parent_id": null,
+"rapporto": "costruita",
+"regione": "Rostkirche",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "cancro",
+"spirituale": {
+"credenza": "culto_degli_antenati",
+"rapporto": "apostata"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ospitale",
+"universo": "cyberverse"
+}

@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "sposato"
+},
+"appare_in": [],
+"casta": "nomadi_urbani",
+"ceppo": "ibrido",
+"cognome": "Dranoova",
+"contraddizione": "Studia il Punteggio Sereno convinta che riveli come è davvero amministrato il cielo, ma la sua incostanza le fa abbandonare a metà ogni pratica, comprese quelle delle famiglie che le hanno chiesto aiuto.",
+"created": "2026-09-16",
+"difetto": "incostante",
+"epoca_relativa": 0,
+"estrazione": 87,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "Ainhoa ha promesso a tre famiglie di ricostruire da capo il loro punteggio, e nessuna delle tre sa che le altre due stanno aspettando la stessa identica cosa.",
+"id": "CYB-PER-0022",
+"invenzione_id": "CYB-INV-0035",
+"media": [],
+"nome": "Ainhoa",
+"parent_id": null,
+"rapporto": "studia",
+"regione": "Rostkirche",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "sagittario",
+"spirituale": {
+"credenza": "il_cielo_amministrato",
+"rapporto": "funzionario_del_culto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "sognatore",
+"universo": "cyberverse"
+}

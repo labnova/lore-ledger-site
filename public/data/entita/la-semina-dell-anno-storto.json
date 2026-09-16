@@ -1,0 +1,70 @@
+{
+"aggiornata": "2026-09-16",
+"alias": [],
+"descrizione": "Un lotto di sementi distribuito per errore durante la grande bonifica di tre inverni fa, le cui radici crescono nelle giunture dei canali invece che nei campi; ogni ostruzione da allora viene incolpata di qualcos'altro.",
+"ha_prosa": false,
+"n_ricorrenze": 4,
+"nome": "La Semina dell'Anno Storto",
+"prima_apparizione": 85,
+"prosa": null,
+"racconti": [],
+"ricorrenze": [
+{
+"estrazione": 85,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 85,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0088",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Corteccia Doppia"
+},
+{
+"estrazione": 85,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0089",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Grano d'Argine"
+},
+{
+"estrazione": 85,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0092",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Taglio di Idris"
+}
+],
+"righe": [
+{
+"id": "NEO-INV-0088",
+"tipo": "invenzione",
+"titolo": "La Corteccia Doppia"
+},
+{
+"id": "NEO-INV-0089",
+"tipo": "invenzione",
+"titolo": "Il Grano d'Argine"
+},
+{
+"id": "NEO-INV-0092",
+"tipo": "invenzione",
+"titolo": "Il Taglio di Idris"
+}
+],
+"slug": "la-semina-dell-anno-storto",
+"sopra_soglia": true,
+"tipo": "anomalia",
+"universo": "neofeudal"
+}

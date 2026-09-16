@@ -576,6 +576,106 @@
 "to": "CYB-REG-rostkirche"
 },
 {
+"from": "CYB-PER-0013",
+"kind": "invenzione",
+"to": "CYB-INV-0035"
+},
+{
+"from": "CYB-PER-0013",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-PER-0014",
+"kind": "invenzione",
+"to": "CYB-INV-0035"
+},
+{
+"from": "CYB-PER-0014",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-PER-0015",
+"kind": "invenzione",
+"to": "CYB-INV-0035"
+},
+{
+"from": "CYB-PER-0015",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-PER-0016",
+"kind": "invenzione",
+"to": "CYB-INV-0035"
+},
+{
+"from": "CYB-PER-0016",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-PER-0017",
+"kind": "invenzione",
+"to": "CYB-INV-0035"
+},
+{
+"from": "CYB-PER-0017",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-PER-0018",
+"kind": "invenzione",
+"to": "CYB-INV-0035"
+},
+{
+"from": "CYB-PER-0018",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-PER-0019",
+"kind": "invenzione",
+"to": "CYB-INV-0035"
+},
+{
+"from": "CYB-PER-0019",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-PER-0020",
+"kind": "invenzione",
+"to": "CYB-INV-0035"
+},
+{
+"from": "CYB-PER-0020",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-PER-0021",
+"kind": "invenzione",
+"to": "CYB-INV-0035"
+},
+{
+"from": "CYB-PER-0021",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-PER-0022",
+"kind": "invenzione",
+"to": "CYB-INV-0035"
+},
+{
+"from": "CYB-PER-0022",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
 "from": "ELA-PER-0001",
 "kind": "invenzione",
 "to": "ELA-INV-0005"
@@ -5101,6 +5201,11 @@
 "to": "STE-INV-0001"
 },
 {
+"from": "STE-SEM-0002",
+"kind": "cluster",
+"to": "STE-INV-0010"
+},
+{
 "from": "CYB-FAT-34885804207-1",
 "kind": "soggetto",
 "to": "CYB-INV-0015"
@@ -6056,6 +6161,66 @@
 "id": "CYB-PER-0012",
 "tipo": "personaggio",
 "titolo": "Ilse Kranzler",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0013",
+"tipo": "personaggio",
+"titolo": "Thomas Eicherwald",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0014",
+"tipo": "personaggio",
+"titolo": "Ulrich Schuster",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0015",
+"tipo": "personaggio",
+"titolo": "Hans Grünbrechberg",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0016",
+"tipo": "personaggio",
+"titolo": "Ingrid Rotherinner",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0017",
+"tipo": "personaggio",
+"titolo": "Bertha Brandmann",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0018",
+"tipo": "personaggio",
+"titolo": "Nuru Nduni",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0019",
+"tipo": "personaggio",
+"titolo": "Gerd Klingbrechwald",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0020",
+"tipo": "personaggio",
+"titolo": "Samir Ramangamba",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0021",
+"tipo": "personaggio",
+"titolo": "Jürgen Steinbach",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0022",
+"tipo": "personaggio",
+"titolo": "Ainhoa Dranoova",
 "universo": "cyberverse"
 },
 {
@@ -10040,6 +10205,12 @@
 "id": "STE-SEM-0001",
 "tipo": "seme",
 "titolo": "seme STE-INV-0001",
+"universo": "steamverse"
+},
+{
+"id": "STE-SEM-0002",
+"tipo": "seme",
+"titolo": "seme STE-INV-0010",
 "universo": "steamverse"
 }
 ]

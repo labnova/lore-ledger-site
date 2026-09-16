@@ -3472,5 +3472,72 @@
 "NEO-INV-0092"
 ],
 "universo": "neofeudal"
+},
+{
+"campi_forzati": [],
+"chiavi": {
+"cluster": [
+"STE-INV-0010"
+]
+},
+"created": "2026-09-16",
+"esito": "ok",
+"estrazione": 86,
+"forzata": false,
+"lotto": "lotto-semi",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"STE-SEM-0002"
+],
+"universi": [
+"steamverse"
+],
+"universo": "cross"
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"CYB-INV-0035",
+"CYB-REG-rostkirche",
+"CYB-SOS-34885804207-2"
+],
+"chiavi": {
+"casta": "nomadi_urbani",
+"invenzione_id": "CYB-INV-0035",
+"personaggi": [
+"CYB-PER-0013",
+"CYB-PER-0014",
+"CYB-PER-0015",
+"CYB-PER-0016",
+"CYB-PER-0017",
+"CYB-PER-0018",
+"CYB-PER-0019",
+"CYB-PER-0020",
+"CYB-PER-0021",
+"CYB-PER-0022"
+],
+"regione": "CYB-REG-rostkirche",
+"universo": "cyberverse"
+},
+"created": "2026-09-16",
+"esito": "ok",
+"espansioni": [],
+"estrazione": 87,
+"forzata": false,
+"lotto": "lotto-personaggi",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"CYB-PER-0013",
+"CYB-PER-0014",
+"CYB-PER-0015",
+"CYB-PER-0016",
+"CYB-PER-0017",
+"CYB-PER-0018",
+"CYB-PER-0019",
+"CYB-PER-0020",
+"CYB-PER-0021",
+"CYB-PER-0022"
+],
+"universo": "cyberverse"
 }
 ]

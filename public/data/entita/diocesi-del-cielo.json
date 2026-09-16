@@ -1,0 +1,154 @@
+{
+"aggiornata": "2026-09-16",
+"alias": [],
+"descrizione": "Autorità che fissa il turno d'acqua di Sarakan e benedice ogni bonifica prima che la vanga tocchi terra; ciò che non passa dal suo registro delle piogge non è mai davvero successo.",
+"ha_prosa": false,
+"n_ricorrenze": 10,
+"nome": "Diocesi del Cielo",
+"prima_apparizione": 85,
+"prosa": null,
+"racconti": [],
+"ricorrenze": [
+{
+"estrazione": 85,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 85,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0074",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Pompa dei Voti"
+},
+{
+"estrazione": 85,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0078",
+"riga_tipo": "invenzione",
+"riga_titolo": "L'Erba delle Capre"
+},
+{
+"estrazione": 85,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0079",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Canale dell'Inchiostro"
+},
+{
+"estrazione": 85,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0081",
+"riga_tipo": "invenzione",
+"riga_titolo": "I Canali Non Segnati"
+},
+{
+"estrazione": 85,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0083",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Tessera del Turno"
+},
+{
+"estrazione": 85,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0084",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Palo delle Tacche"
+},
+{
+"estrazione": 85,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0088",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Corteccia Doppia"
+},
+{
+"estrazione": 85,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0090",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Misura Doppia"
+},
+{
+"estrazione": 85,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0091",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Portello degli Anelli"
+}
+],
+"righe": [
+{
+"id": "NEO-INV-0074",
+"tipo": "invenzione",
+"titolo": "La Pompa dei Voti"
+},
+{
+"id": "NEO-INV-0078",
+"tipo": "invenzione",
+"titolo": "L'Erba delle Capre"
+},
+{
+"id": "NEO-INV-0079",
+"tipo": "invenzione",
+"titolo": "Il Canale dell'Inchiostro"
+},
+{
+"id": "NEO-INV-0081",
+"tipo": "invenzione",
+"titolo": "I Canali Non Segnati"
+},
+{
+"id": "NEO-INV-0083",
+"tipo": "invenzione",
+"titolo": "La Tessera del Turno"
+},
+{
+"id": "NEO-INV-0084",
+"tipo": "invenzione",
+"titolo": "Il Palo delle Tacche"
+},
+{
+"id": "NEO-INV-0088",
+"tipo": "invenzione",
+"titolo": "La Corteccia Doppia"
+},
+{
+"id": "NEO-INV-0090",
+"tipo": "invenzione",
+"titolo": "La Misura Doppia"
+},
+{
+"id": "NEO-INV-0091",
+"tipo": "invenzione",
+"titolo": "Il Portello degli Anelli"
+}
+],
+"slug": "diocesi-del-cielo",
+"sopra_soglia": true,
+"tipo": "ente",
+"universo": "neofeudal"
+}

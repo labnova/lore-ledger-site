@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "bisessuale",
+"situazione": "promesso_per_contratto"
+},
+"appare_in": [],
+"casta": "nomadi_urbani",
+"ceppo": "swahili",
+"cognome": "Nduni",
+"contraddizione": "Da funzionario del culto predica che il cielo sia amministrato come un ufficio equo, ma vende sottobanco posizioni più alte nella lista del Punteggio Sereno a chi può permettersele, rancoroso verso chi un tempo lo scavalcò.",
+"created": "2026-09-16",
+"difetto": "rancoroso",
+"epoca_relativa": 0,
+"estrazione": 87,
+"eta_fascia": "adulto",
+"fatti": [],
+"gancio": "Nuru tiene un elenco parallelo di chi ha già pagato per salire nella lista, e la promessa di matrimonio per contratto potrebbe essere solo l'ultima transazione che sta per chiudere.",
+"id": "CYB-PER-0018",
+"invenzione_id": "CYB-INV-0035",
+"media": [],
+"nome": "Nuru",
+"parent_id": null,
+"rapporto": "vende",
+"regione": "Rostkirche",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "gemelli",
+"spirituale": {
+"credenza": "il_cielo_amministrato",
+"rapporto": "funzionario_del_culto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ambizioso",
+"universo": "cyberverse"
+}

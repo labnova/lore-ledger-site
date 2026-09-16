@@ -1,11 +1,11 @@
 {
-"aggiornata": "2026-09-15",
+"aggiornata": "2026-09-16",
 "alias": [
 "NEO-REG-sarakan"
 ],
 "descrizione": "Terra di canali e cascine ai margini coltivabili del pianeta, dove il turno d'acqua è fissato dalla Diocesi del Cielo e i Cerusici passano una volta l'anno a riaprire i passaggi ostruiti con la stessa manovra che usano sui corpi vivi.",
 "ha_prosa": false,
-"n_ricorrenze": 43,
+"n_ricorrenze": 50,
 "nome": "Sarakan",
 "prima_apparizione": 56,
 "prosa": null,
@@ -397,6 +397,69 @@
 "riga_id": "NEO-GAD-0082",
 "riga_tipo": "gadget",
 "riga_titolo": "Il Quaderno di Carta Oleata"
+},
+{
+"estrazione": 85,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 85,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0075",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Barba di Canale"
+},
+{
+"estrazione": 85,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0078",
+"riga_tipo": "invenzione",
+"riga_titolo": "L'Erba delle Capre"
+},
+{
+"estrazione": 85,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0081",
+"riga_tipo": "invenzione",
+"riga_titolo": "I Canali Non Segnati"
+},
+{
+"estrazione": 85,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0082",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Deposito della Piena"
+},
+{
+"estrazione": 85,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0085",
+"riga_tipo": "invenzione",
+"riga_titolo": "Le Talee di Casa"
+},
+{
+"estrazione": 85,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0090",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Misura Doppia"
 }
 ],
 "righe": [
@@ -549,6 +612,36 @@
 "id": "NEO-GAD-0082",
 "tipo": "gadget",
 "titolo": "Il Quaderno di Carta Oleata"
+},
+{
+"id": "NEO-INV-0075",
+"tipo": "invenzione",
+"titolo": "La Barba di Canale"
+},
+{
+"id": "NEO-INV-0078",
+"tipo": "invenzione",
+"titolo": "L'Erba delle Capre"
+},
+{
+"id": "NEO-INV-0081",
+"tipo": "invenzione",
+"titolo": "I Canali Non Segnati"
+},
+{
+"id": "NEO-INV-0082",
+"tipo": "invenzione",
+"titolo": "Il Deposito della Piena"
+},
+{
+"id": "NEO-INV-0085",
+"tipo": "invenzione",
+"titolo": "Le Talee di Casa"
+},
+{
+"id": "NEO-INV-0090",
+"tipo": "invenzione",
+"titolo": "La Misura Doppia"
 },
 {
 "id": "NEO-PER-0052",

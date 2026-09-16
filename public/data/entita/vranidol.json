@@ -1,11 +1,11 @@
 {
-"aggiornata": "2026-09-15",
+"aggiornata": "2026-09-16",
 "alias": [
 "NEO-REG-vranidol"
 ],
 "descrizione": "Marca di confine lungo le piste di caccia dei cavalieri, dove le famiglie vivono a cavallo tra il debito e l'onore; il registro dei falchi è tenuto più stretto di quello delle nascite.",
 "ha_prosa": false,
-"n_ricorrenze": 18,
+"n_ricorrenze": 19,
 "nome": "Vranidol",
 "prima_apparizione": 24,
 "prosa": null,
@@ -172,6 +172,15 @@
 "riga_id": "NEO-PER-0077",
 "riga_tipo": "personaggio",
 "riga_titolo": "Bogdan Draveski"
+},
+{
+"estrazione": 85,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0078",
+"riga_tipo": "personaggio",
+"riga_titolo": "Bogumil Vranić"
 }
 ],
 "righe": [
@@ -244,6 +253,11 @@
 "id": "NEO-PER-0077",
 "tipo": "personaggio",
 "titolo": "Bogdan Draveski"
+},
+{
+"id": "NEO-PER-0078",
+"tipo": "personaggio",
+"titolo": "Bogumil Vranić"
 },
 {
 "id": "NEO-REG-vranidol",

@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "pansessuale",
+"situazione": "promesso_per_contratto"
+},
+"appare_in": [],
+"casta": "nomadi_urbani",
+"ceppo": "germanico",
+"cognome": "Eicherwald",
+"contraddizione": "Teme il Punteggio Sereno perché rispedisce le famiglie proprio nelle piane che dice di voler evitare, ma la sua invidia per chi ha ottenuto un punteggio più basso lo spinge a sperare, in segreto, di finire nella stessa lista.",
+"created": "2026-09-16",
+"difetto": "invidioso",
+"epoca_relativa": 0,
+"estrazione": 87,
+"eta_fascia": "anziano",
+"fatti": [],
+"gancio": "Thomas scopre che il suo matrimonio per contratto gli darebbe due punti in più nel Punteggio Sereno, e non riesce più a capire se vuole sposarsi per l'affetto promesso o per l'algoritmo.",
+"id": "CYB-PER-0013",
+"invenzione_id": "CYB-INV-0035",
+"media": [],
+"nome": "Thomas",
+"parent_id": null,
+"rapporto": "teme",
+"regione": "Rostkirche",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "acquario",
+"spirituale": {
+"credenza": "le_macchine_sognano",
+"rapporto": "praticante_tiepido"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "riservato",
+"universo": "cyberverse"
+}

@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "asessuale",
+"situazione": "single"
+},
+"appare_in": [],
+"casta": "nomadi_urbani",
+"ceppo": "germanico",
+"cognome": "Steinbach",
+"contraddizione": "Crede che il sacro sia solo una bugia utile e applica la stessa logica al Punteggio Sereno, falsificandolo per crediti che gli servono a pagare debiti di gioco sempre più grandi.",
+"created": "2026-09-16",
+"difetto": "giocatore",
+"epoca_relativa": 0,
+"estrazione": 87,
+"eta_fascia": "adulto",
+"fatti": [],
+"gancio": "Jürgen ha messo in palio, in una partita persa, l'ultima copia falsificata che gli restava, e ora qualcun altro ha in mano il suo unico modo per salire nella lista.",
+"id": "CYB-PER-0021",
+"invenzione_id": "CYB-INV-0035",
+"media": [],
+"nome": "Jürgen",
+"parent_id": null,
+"rapporto": "falsifica",
+"regione": "Rostkirche",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "vergine",
+"spirituale": {
+"credenza": "il_sacro_e_una_bugia_utile",
+"rapporto": "devoto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ironico",
+"universo": "cyberverse"
+}

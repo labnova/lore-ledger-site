@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "asessuale",
+"situazione": "vedovo"
+},
+"appare_in": [],
+"casta": "nomadi_urbani",
+"ceppo": "germanico",
+"cognome": "Brandmann",
+"contraddizione": "È leale al campo fino a falsificare i moduli del Punteggio Sereno per tenere le famiglie di Rostkirche fuori dalla piana alluvionale, ma la sua fede nel ciclo del ritorno le dice che ogni bugia scritta le tornerà indietro, prima o poi.",
+"created": "2026-09-16",
+"difetto": "vanitoso",
+"epoca_relativa": 0,
+"estrazione": 87,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "Bertha nasconde nel telaio del suo carro tutte le copie autentiche dei moduli che ha sostituito, vedova di un uomo morto proprio in un alloggio assegnato dall'algoritmo.",
+"id": "CYB-PER-0017",
+"invenzione_id": "CYB-INV-0035",
+"media": [],
+"nome": "Bertha",
+"parent_id": null,
+"rapporto": "falsifica",
+"regione": "Rostkirche",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "ariete",
+"spirituale": {
+"credenza": "ciclo_del_ritorno",
+"rapporto": "devoto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "leale",
+"universo": "cyberverse"
+}

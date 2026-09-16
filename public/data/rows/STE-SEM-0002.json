@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"cluster": "STE-INV-0010",
+"created": "2026-09-16",
+"epoca_relativa": 0,
+"estrazione": 86,
+"fatti": [],
+"id": "STE-SEM-0002",
+"media": [],
+"origine": "arricchimento",
+"ostacolo": "Imre Tathy, che nel suo taccuino misura ogni piena del fiume segreto al minuto più di chiunque altro, comincia a notare che gli orari delle vincite di Sándor coincidono sempre con le aperture registrate, e minaccia di portare il taccuino ai capisquadra se Sándor non gli cede una parte dei gettoni-vapore vinti.",
+"parent_id": null,
+"premessa": "Sándor Kovács vuole ripianare i propri debiti di gioco prima che il capomastro gli tolga l'accesso ai registri, scommettendo ogni volta sull'ora esatta della prossima piena del Fiume Secondo, sicuro di vincere perché conosce in anticipo i turni in cui Bjørn Sandvivik apre le chiuse.",
+"regione": null,
+"relazione": null,
+"rottura": "Per liberarsi di un ordine che non tornava con i suoi stessi calcoli, Bjørn apre una chiusa fuori dal turno che Sándor si aspettava; la piena arriva un'ora prima del previsto, la scommessa salta, e nei pozzi sottostanti si trova Marek Rain, che ci scende anche quando nessuno glielo chiede.",
+"schema_version": 1,
+"status": "canon",
+"tipo": "seme",
+"tono": "ottone bagnato, nervi sul filo",
+"universi": [
+"steamverse"
+],
+"universo": "steamverse"
+}
