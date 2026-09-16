@@ -1,0 +1,32 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Thomas lo orienta a mano a ogni turno secondo istruzioni scritte, senza sapere che il vero motivo per cui i piccioni non tornano più su quel tetto non è la luce, ma la rotta migratoria che ormai evita l'intera zona.",
+"chi_paga": "l-ambiente-gli-animali",
+"cosa": "Specchio orientabile installato sui tetti dei cantieri per tenere lontani i piccioni dalle superfici di calibrazione, regolato sulla stessa frequenza di lampeggio del faro Parallasse.",
+"created": "2026-09-16",
+"entita_usate": [
+"Parallasse Certificazioni™",
+"La Deriva del Meridiano",
+"Rostkirche"
+],
+"epoca_relativa": 0,
+"estrazione": 89,
+"fatti": [],
+"gancio": "Un vecchio di Rostkirche nota che gli storni non tornano più in autunno da quando i tetti si sono riempiti di specchi tarati come il faro, e nessuno gli crede finché non smette di piovere sterco sui ponteggi.",
+"id": "CYB-GAD-0037",
+"invenzione_id": "CYB-INV-0065",
+"media": [],
+"nome": "Lo Spauracchio Ottico",
+"oggetto": "Specchio orientabile da tetto, tarato sul lampeggio del faro Parallasse per allontanare i piccioni dai cantieri.",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0013",
+"prod": false,
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "inversione-di-funzione",
+"tradimento_tech": "Lo specchio non spaventa più solo i piccioni, il suo lampeggio replica lo scarto della Deriva del Meridiano abbastanza da confondere anche le rotte degli storni che una volta passavano su Rostkirche ogni autunno.",
+"universo": "cyberverse"
+}

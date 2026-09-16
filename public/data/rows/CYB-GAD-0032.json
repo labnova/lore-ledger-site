@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Thomas lo indossa sotto la manica durante il turno di calibrazione, e lo consulta di nascosto quando lo strumento ufficiale del cantiere restituisce un valore che sa già essere sbagliato.",
+"chi_paga": "l-istituzione",
+"cosa": "Bracciale con una piccola meridiana incisa a mano, tarata da chi lavora fuori dai registri Parallasse per correggere lo scarto della Deriva del Meridiano meglio degli strumenti ufficiali.",
+"created": "2026-09-16",
+"entita_usate": [
+"Parallasse Certificazioni™",
+"La Deriva del Meridiano"
+],
+"epoca_relativa": 0,
+"estrazione": 89,
+"fatti": [],
+"gancio": "Un tecnico Parallasse chiede in prestito il bracciale di Thomas prima di firmare un bollino, perché lo strumento dell'ufficio è tarato peggio del suo.",
+"id": "CYB-GAD-0032",
+"invenzione_id": "CYB-INV-0065",
+"media": [],
+"nome": "Il Correttore da Polso",
+"oggetto": "Bracciale con meridiana incisa, tarato a mano per compensare lo scarto del faro orbitale Parallasse.",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0013",
+"prod": false,
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "dipendenza",
+"tradimento_tech": "Parallasse Certificazioni™ ha smesso di correggere davvero i propri fari e si affida, senza ammetterlo, alle tarature artigianali che circolano tra chi lavora ai cantieri.",
+"universo": "cyberverse"
+}

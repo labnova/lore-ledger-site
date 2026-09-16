@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Thomas lo applica sul taccuino di cantiere e lo dimentica lì per settimane, senza sapere che ogni bollino scansionato registra anche chi gli sta accanto in quel momento.",
+"chi_paga": "un-terzo-ignaro",
+"cosa": "Adesivo olografico che certifica il turno di calibrazione svolto, da esibire all'uscita del cantiere.",
+"created": "2026-09-16",
+"entita_usate": [
+"Parallasse Certificazioni™"
+],
+"epoca_relativa": 0,
+"estrazione": 89,
+"fatti": [],
+"gancio": "La promessa sposa di Thomas scopre di comparire nei registri Parallasse dei cantieri, mai avendoci messo piede, solo per essere andata a prenderlo troppe volte allo stesso orario.",
+"id": "CYB-GAD-0033",
+"invenzione_id": "CYB-INV-0065",
+"media": [],
+"nome": "Il Bollino di Presenza",
+"oggetto": "Adesivo olografico che certifica il turno di calibrazione svolto al cantiere Parallasse.",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0013",
+"prod": false,
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "sorveglianza-incorporata",
+"tradimento_tech": "Il bollino non certifica solo la presenza di chi lo porta, il lettore fotografa un raggio di due metri, e chi va a prenderlo all'uscita finisce nello stesso registro senza aver mai firmato niente.",
+"universo": "cyberverse"
+}

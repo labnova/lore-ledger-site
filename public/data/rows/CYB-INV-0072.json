@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-16",
+"discipline": [
+"meteorologia/climatologia",
+"urbanistica/edilizia_popolare"
+],
+"epoca_relativa": 1,
+"estrazione": 89,
+"fatti": [],
+"gancio": "Un funzionario che dovrebbe firmare mille rinnovi l'anno scopre che il sistema li firma già da solo da tre anni, e nessuno si è mai accorto che la sua firma non serviva più.",
+"id": "CYB-INV-0072",
+"media": [],
+"nome": "La Proroga Silenziosa",
+"nome_reale": "Clausola di rinnovo automatico della classificazione provvisoria, applicata retroattivamente a tutti gli alloggi già costruiti prima del modello previsionale",
+"parent_id": "CYB-INV-0038",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "L'autorità edilizia smette di dover riaggiornare ogni anno la lista dei container provvisori, basta una clausola che rinnova la classificazione da sola finché il modello prevede maltempo, e il modello prevede sempre maltempo.",
+"universo": "cyberverse"
+}

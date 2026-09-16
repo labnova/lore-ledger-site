@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Thomas lo firma e lo passa a fine turno, senza mai controllare le pagine vecchie, dove si accumulano anni di scarti mai corretti, solo trascritti.",
+"chi_paga": "il-futuro",
+"cosa": "Quaderno di cantiere dove ogni operatore annota a mano lo scarto misurato durante il proprio turno di calibrazione, prima di passarlo al successivo.",
+"created": "2026-09-16",
+"entita_usate": [
+"La Deriva del Meridiano"
+],
+"epoca_relativa": 0,
+"estrazione": 89,
+"fatti": [],
+"gancio": "Un apprendista che ricalcola tutto da zero scopre che il numero di partenza del quaderno non ha mai avuto riscontro nel cielo, solo nella pagina prima.",
+"id": "CYB-GAD-0036",
+"invenzione_id": "CYB-INV-0065",
+"media": [],
+"nome": "Il Taccuino di Turno",
+"oggetto": "Quaderno di cantiere su cui si trascrive a mano lo scarto di calibrazione misurato a ogni turno.",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0013",
+"prod": false,
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "memoria-dell-oggetto",
+"tradimento_tech": "Ogni nuova misura si taglia sulla precedente invece che sul faro reale, così l'errore del primo operatore che scrisse su quel quaderno vent'anni fa è ancora dentro ogni numero scritto oggi.",
+"universo": "cyberverse"
+}

@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Thomas lo porta al collo, infilato in un laccio di cuoio insieme a quello della settimana prima, che tiene solo perché buttarlo gli sembra ammettere che il tempo passato in fila non è servito a niente.",
+"chi_paga": "la-comunita",
+"cosa": "Disco di lega riciclata stampato con il codice della finestra di calibrazione assegnata quella settimana; senza il numero giusto inciso sopra, il cantiere non fa passare nessuno.",
+"created": "2026-09-16",
+"entita_usate": [
+"Parallasse Certificazioni™"
+],
+"epoca_relativa": 0,
+"estrazione": 89,
+"fatti": [],
+"gancio": "Al cambio turno Thomas vede un ragazzo rifondere il proprio gettone della settimana scorsa per farne uno nuovo, perché il metallo costa più della fila.",
+"id": "CYB-GAD-0031",
+"invenzione_id": "CYB-INV-0065",
+"media": [],
+"nome": "Il Gettone di Turno",
+"oggetto": "Disco metallico con inciso il numero della finestra di calibrazione Parallasse valida quella settimana per il cantiere.",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0013",
+"prod": true,
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "standard-imposto",
+"tradimento_tech": "Il gettone non misura niente, si limita a certificare che qualcun altro ha già misurato per te, e quel certificato scade prima che tu abbia finito di usarlo.",
+"universo": "cyberverse"
+}

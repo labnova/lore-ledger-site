@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Thomas lo tiene in tasca durante ogni turno, senza mai provare a spenderlo, perché disfarsene significherebbe ammettere che la fila di suo nonno non è mai davvero finita.",
+"chi_paga": "nessuno-apparentemente",
+"cosa": "Vecchio gettone di turno, di un modello che il cantiere non accetta più, tramandato in famiglia come fosse un anello.",
+"created": "2026-09-16",
+"entita_usate": [
+"Parallasse Certificazioni™",
+"Rostkirche"
+],
+"epoca_relativa": 0,
+"estrazione": 89,
+"fatti": [],
+"gancio": "Thomas scopre per caso, chiedendo in giro, che il numero inciso sul gettone del nonno corrisponde a una finestra di calibrazione mai assegnata a nessuno, in nessun registro Parallasse esistente.",
+"id": "CYB-GAD-0039",
+"invenzione_id": "CYB-INV-0065",
+"media": [],
+"nome": "Il Gettone del Nonno",
+"oggetto": "Gettone di turno di un modello ormai fuori uso, tramandato da tre generazioni nella stessa famiglia.",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0013",
+"prod": true,
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "eredita-lascito",
+"tradimento_tech": "Il gettone porta ancora inciso un numero di finestra che oggi non esiste più, e nessuno a Rostkirche osa dire chiaramente che qualcuno, un tempo, quella finestra l'ha pagata e non l'ha mai vista aprirsi.",
+"universo": "cyberverse"
+}

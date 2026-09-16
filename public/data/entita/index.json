@@ -15,6 +15,20 @@
 },
 {
 "alias": [
+"CYB-REG-rostkirche"
+],
+"descrizione": "Accampamento di nomadi urbani cresciuto attorno a uno snodo ferroviario dismesso ai margini del distretto trapianti; i cognomi restano legati ai mestieri di chi ci transitava prima del collasso della linea, e se ne guadagna uno nuovo solo restando abbastanza a lungo.",
+"ha_prosa": false,
+"nome": "Rostkirche",
+"prima_apparizione": 16,
+"ricorrenze": 65,
+"slug": "rostkirche",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "cyberverse"
+},
+{
+"alias": [
 "ELA-REG-konya"
 ],
 "descrizione": "Anello d'attracco del convoglio popolato in prevalenza da discendenti anatolici; i nomi restano legati alla città d'origine perché i registri d'imbarco, generazioni fa, assegnarono le cabine per città natale e nessuno li ha più aggiornati.",
@@ -26,20 +40,6 @@
 "sopra_soglia": true,
 "tipo": "luogo",
 "universo": "elabverse"
-},
-{
-"alias": [
-"CYB-REG-rostkirche"
-],
-"descrizione": "Accampamento di nomadi urbani cresciuto attorno a uno snodo ferroviario dismesso ai margini del distretto trapianti; i cognomi restano legati ai mestieri di chi ci transitava prima del collasso della linea, e se ne guadagna uno nuovo solo restando abbastanza a lungo.",
-"ha_prosa": false,
-"nome": "Rostkirche",
-"prima_apparizione": 16,
-"ricorrenze": 54,
-"slug": "rostkirche",
-"sopra_soglia": true,
-"tipo": "luogo",
-"universo": "cyberverse"
 },
 {
 "alias": [
@@ -106,7 +106,7 @@
 "ha_prosa": false,
 "nome": "Vranidol",
 "prima_apparizione": 24,
-"ricorrenze": 19,
+"ricorrenze": 20,
 "slug": "vranidol",
 "sopra_soglia": true,
 "tipo": "luogo",

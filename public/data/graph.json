@@ -51,6 +51,21 @@
 "to": "CYB-INV-0070"
 },
 {
+"from": "CYB-INV-0003",
+"kind": "parent",
+"to": "CYB-INV-0071"
+},
+{
+"from": "CYB-INV-0038",
+"kind": "parent",
+"to": "CYB-INV-0072"
+},
+{
+"from": "CYB-INV-0039",
+"kind": "parent",
+"to": "CYB-INV-0073"
+},
+{
 "from": "ELA-INV-0009",
 "kind": "parent",
 "to": "ELA-INV-0041"
@@ -2221,6 +2236,21 @@
 "to": "NEO-REG-vranidol"
 },
 {
+"from": "NEO-PER-0078",
+"kind": "parent",
+"to": "NEO-PER-0079"
+},
+{
+"from": "NEO-PER-0079",
+"kind": "invenzione",
+"to": "NEO-INV-0013"
+},
+{
+"from": "NEO-PER-0079",
+"kind": "regione",
+"to": "NEO-REG-vranidol"
+},
+{
 "from": "STE-PER-0001",
 "kind": "invenzione",
 "to": "STE-INV-0012"
@@ -2982,6 +3012,156 @@
 },
 {
 "from": "CYB-GAD-0030",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0031",
+"kind": "invenzione",
+"to": "CYB-INV-0065"
+},
+{
+"from": "CYB-GAD-0031",
+"kind": "personaggio",
+"to": "CYB-PER-0013"
+},
+{
+"from": "CYB-GAD-0031",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0032",
+"kind": "invenzione",
+"to": "CYB-INV-0065"
+},
+{
+"from": "CYB-GAD-0032",
+"kind": "personaggio",
+"to": "CYB-PER-0013"
+},
+{
+"from": "CYB-GAD-0032",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0033",
+"kind": "invenzione",
+"to": "CYB-INV-0065"
+},
+{
+"from": "CYB-GAD-0033",
+"kind": "personaggio",
+"to": "CYB-PER-0013"
+},
+{
+"from": "CYB-GAD-0033",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0034",
+"kind": "invenzione",
+"to": "CYB-INV-0065"
+},
+{
+"from": "CYB-GAD-0034",
+"kind": "personaggio",
+"to": "CYB-PER-0013"
+},
+{
+"from": "CYB-GAD-0034",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0035",
+"kind": "invenzione",
+"to": "CYB-INV-0065"
+},
+{
+"from": "CYB-GAD-0035",
+"kind": "personaggio",
+"to": "CYB-PER-0013"
+},
+{
+"from": "CYB-GAD-0035",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0036",
+"kind": "invenzione",
+"to": "CYB-INV-0065"
+},
+{
+"from": "CYB-GAD-0036",
+"kind": "personaggio",
+"to": "CYB-PER-0013"
+},
+{
+"from": "CYB-GAD-0036",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0037",
+"kind": "invenzione",
+"to": "CYB-INV-0065"
+},
+{
+"from": "CYB-GAD-0037",
+"kind": "personaggio",
+"to": "CYB-PER-0013"
+},
+{
+"from": "CYB-GAD-0037",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0038",
+"kind": "invenzione",
+"to": "CYB-INV-0065"
+},
+{
+"from": "CYB-GAD-0038",
+"kind": "personaggio",
+"to": "CYB-PER-0013"
+},
+{
+"from": "CYB-GAD-0038",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0039",
+"kind": "invenzione",
+"to": "CYB-INV-0065"
+},
+{
+"from": "CYB-GAD-0039",
+"kind": "personaggio",
+"to": "CYB-PER-0013"
+},
+{
+"from": "CYB-GAD-0039",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0040",
+"kind": "invenzione",
+"to": "CYB-INV-0065"
+},
+{
+"from": "CYB-GAD-0040",
+"kind": "personaggio",
+"to": "CYB-PER-0013"
+},
+{
+"from": "CYB-GAD-0040",
 "kind": "regione",
 "to": "CYB-REG-rostkirche"
 },
@@ -5672,6 +5852,66 @@
 "universo": "cyberverse"
 },
 {
+"id": "CYB-GAD-0031",
+"tipo": "gadget",
+"titolo": "Il Gettone di Turno",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0032",
+"tipo": "gadget",
+"titolo": "Il Correttore da Polso",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0033",
+"tipo": "gadget",
+"titolo": "Il Bollino di Presenza",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0034",
+"tipo": "gadget",
+"titolo": "La Lente di Ricambio",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0035",
+"tipo": "gadget",
+"titolo": "Il Righello da Fila",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0036",
+"tipo": "gadget",
+"titolo": "Il Taccuino di Turno",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0037",
+"tipo": "gadget",
+"titolo": "Lo Spauracchio Ottico",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0038",
+"tipo": "gadget",
+"titolo": "Il Sestante di Ivo",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0039",
+"tipo": "gadget",
+"titolo": "Il Gettone del Nonno",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0040",
+"tipo": "gadget",
+"titolo": "Il Bollino Buono",
+"universo": "cyberverse"
+},
+{
 "id": "CYB-INV-0001",
 "tipo": "invenzione",
 "titolo": "Il Libro della Grazia",
@@ -6089,6 +6329,24 @@
 "id": "CYB-INV-0070",
 "tipo": "invenzione",
 "titolo": "L'Anima di Scorta",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0071",
+"tipo": "invenzione",
+"titolo": "Il Perdono per Parentela",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0072",
+"tipo": "invenzione",
+"titolo": "La Proroga Silenziosa",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0073",
+"tipo": "invenzione",
+"titolo": "Il Muro che Riferisce",
 "universo": "cyberverse"
 },
 {
@@ -9663,6 +9921,12 @@
 },
 {
 "id": "NEO-PER-0078",
+"tipo": "personaggio",
+"titolo": "Bogumil Vranić",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0079",
 "tipo": "personaggio",
 "titolo": "Bogumil Vranić",
 "universo": "neofeudal"

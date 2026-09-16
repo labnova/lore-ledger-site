@@ -5,7 +5,7 @@
 ],
 "descrizione": "Accampamento di nomadi urbani cresciuto attorno a uno snodo ferroviario dismesso ai margini del distretto trapianti; i cognomi restano legati ai mestieri di chi ci transitava prima del collasso della linea, e se ne guadagna uno nuovo solo restando abbastanza a lungo.",
 "ha_prosa": false,
-"n_ricorrenze": 54,
+"n_ricorrenze": 65,
 "nome": "Rostkirche",
 "prima_apparizione": 16,
 "prosa": null,
@@ -496,6 +496,105 @@
 "riga_id": "CYB-INV-0068",
 "riga_tipo": "invenzione",
 "riga_titolo": "L'Archivio Rubato"
+},
+{
+"estrazione": 87,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 87,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-PER-0013",
+"riga_tipo": "personaggio",
+"riga_titolo": "Thomas Eicherwald"
+},
+{
+"estrazione": 87,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-PER-0014",
+"riga_tipo": "personaggio",
+"riga_titolo": "Ulrich Schuster"
+},
+{
+"estrazione": 87,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-PER-0015",
+"riga_tipo": "personaggio",
+"riga_titolo": "Hans Grünbrechberg"
+},
+{
+"estrazione": 87,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-PER-0016",
+"riga_tipo": "personaggio",
+"riga_titolo": "Ingrid Rotherinner"
+},
+{
+"estrazione": 87,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-PER-0017",
+"riga_tipo": "personaggio",
+"riga_titolo": "Bertha Brandmann"
+},
+{
+"estrazione": 87,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-PER-0018",
+"riga_tipo": "personaggio",
+"riga_titolo": "Nuru Nduni"
+},
+{
+"estrazione": 87,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-PER-0019",
+"riga_tipo": "personaggio",
+"riga_titolo": "Gerd Klingbrechwald"
+},
+{
+"estrazione": 87,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-PER-0020",
+"riga_tipo": "personaggio",
+"riga_titolo": "Samir Ramangamba"
+},
+{
+"estrazione": 87,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-PER-0021",
+"riga_tipo": "personaggio",
+"riga_titolo": "Jürgen Steinbach"
+},
+{
+"estrazione": 87,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-PER-0022",
+"riga_tipo": "personaggio",
+"riga_titolo": "Ainhoa Dranoova"
 }
 ],
 "righe": [
@@ -748,6 +847,56 @@
 "id": "CYB-PER-0012",
 "tipo": "personaggio",
 "titolo": "Ilse Kranzler"
+},
+{
+"id": "CYB-PER-0013",
+"tipo": "personaggio",
+"titolo": "Thomas Eicherwald"
+},
+{
+"id": "CYB-PER-0014",
+"tipo": "personaggio",
+"titolo": "Ulrich Schuster"
+},
+{
+"id": "CYB-PER-0015",
+"tipo": "personaggio",
+"titolo": "Hans Grünbrechberg"
+},
+{
+"id": "CYB-PER-0016",
+"tipo": "personaggio",
+"titolo": "Ingrid Rotherinner"
+},
+{
+"id": "CYB-PER-0017",
+"tipo": "personaggio",
+"titolo": "Bertha Brandmann"
+},
+{
+"id": "CYB-PER-0018",
+"tipo": "personaggio",
+"titolo": "Nuru Nduni"
+},
+{
+"id": "CYB-PER-0019",
+"tipo": "personaggio",
+"titolo": "Gerd Klingbrechwald"
+},
+{
+"id": "CYB-PER-0020",
+"tipo": "personaggio",
+"titolo": "Samir Ramangamba"
+},
+{
+"id": "CYB-PER-0021",
+"tipo": "personaggio",
+"titolo": "Jürgen Steinbach"
+},
+{
+"id": "CYB-PER-0022",
+"tipo": "personaggio",
+"titolo": "Ainhoa Dranoova"
 },
 {
 "id": "CYB-REG-rostkirche",

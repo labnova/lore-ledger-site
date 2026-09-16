@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-16",
+"discipline": [
+"meteorologia/climatologia",
+"urbanistica/edilizia_popolare"
+],
+"epoca_relativa": 1,
+"estrazione": 89,
+"fatti": [],
+"gancio": "Un debitore smette di aprire le finestre per non far risaltare la vernice, e scopre che proprio l'assenza di lettura è già di per sé un segnale che l'agenzia interpreta come \"si nasconde in casa\".",
+"id": "CYB-INV-0073",
+"media": [],
+"nome": "Il Muro che Riferisce",
+"nome_reale": "Rivendita dei dati di presenza raccolti dai sensori ottici della vernice riflettente alle agenzie di recupero crediti",
+"parent_id": "CYB-INV-0039",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "I dati di presenza raccolti per calibrare la vernice vengono ceduti alle agenzie di recupero crediti, che sanno quando bussare perché il muro ha già detto loro chi è in casa.",
+"universo": "cyberverse"
+}

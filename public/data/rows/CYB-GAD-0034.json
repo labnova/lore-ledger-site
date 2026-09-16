@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Thomas la tiene avvolta in un panno nella cassetta degli attrezzi, razionata come se fosse oro, perché sostituirla di nascosto costerebbe il doppio.",
+"chi_paga": "l-inventore-originario",
+"cosa": "Lente di calibrazione sostitutiva, unico pezzo compatibile con gli strumenti da cantiere, venduta solo da Parallasse Certificazioni™ a un prezzo che sale ogni volta che se ne rompe una.",
+"created": "2026-09-16",
+"entita_usate": [
+"Parallasse Certificazioni™"
+],
+"epoca_relativa": 0,
+"estrazione": 89,
+"fatti": [],
+"gancio": "Thomas ripara la sua lente incrinata con la colla piuttosto che comprarne una nuova, sapendo che il prezzo è salito ancora la settimana in cui il vecchio ingegnere che la progettò è morto povero.",
+"id": "CYB-GAD-0034",
+"invenzione_id": "CYB-INV-0065",
+"media": [],
+"nome": "La Lente di Ricambio",
+"oggetto": "Lente di calibrazione sostitutiva per strumenti da cantiere, unico modello compatibile venduto da Parallasse.",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0013",
+"prod": false,
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "monopolio",
+"tradimento_tech": "Il disegno originale della lente era libero, pensato per essere copiato da chiunque avesse un tornio; oggi lo stesso disegno, con lo stampo cambiato appena quanto basta, è venduto solo da chi lo ha sottratto a chi lo aveva reso libero.",
+"universo": "cyberverse"
+}

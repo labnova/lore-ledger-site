@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Thomas la pianta a terra per tenere il suo posto in fila quando deve allontanarsi, come fanno tutti a Rostkirche, anche se il cantiere la considera attrezzatura tecnica da restituire a fine turno.",
+"chi_paga": "l-utente-ultimo",
+"cosa": "Asta graduata pensata per misurare l'allineamento dei ponteggi durante la calibrazione, oggi usata soprattutto per marcare i posti in coda ai turni.",
+"created": "2026-09-16",
+"entita_usate": [
+"Parallasse Certificazioni™"
+],
+"epoca_relativa": 0,
+"estrazione": 89,
+"fatti": [],
+"gancio": "Un sorvegliante confisca il righello piantato da Thomas per tenere il posto, e per la prima volta in mesi la fila si scioglie nel caos perché nessuno sa più dove finiva il proprio turno.",
+"id": "CYB-GAD-0035",
+"invenzione_id": "CYB-INV-0065",
+"media": [],
+"nome": "Il Righello da Fila",
+"oggetto": "Asta graduata da cantiere per l'allineamento dei ponteggi durante la calibrazione Parallasse.",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0013",
+"prod": false,
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "riuso-improprio",
+"tradimento_tech": "Nessuno la usa più per allineare niente, il righello è diventato un segnaposto, e la fila che regola è più lunga e più importante di qualunque ponteggio abbia mai misurato.",
+"universo": "cyberverse"
+}

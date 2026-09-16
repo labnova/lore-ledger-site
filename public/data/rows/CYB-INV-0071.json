@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-16",
+"discipline": [
+"religione/teologia",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 1,
+"estrazione": 89,
+"fatti": [],
+"gancio": "Un neonato viene battezzato con in mano una copia del modulo di assoluzione firmato dal nonno vent'anni prima del trapianto, e il prete si chiede se stia benedicendo un bambino o convalidando un contratto.",
+"id": "CYB-INV-0071",
+"media": [],
+"nome": "Il Perdono per Parentela",
+"nome_reale": "Registro delle assoluzioni preventive esteso ai familiari del ricevente, per coprire anche le conseguenze ereditarie del peccato tecnologico",
+"parent_id": "CYB-INV-0003",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "La curia scopre che il modulo di assoluzione firmato in anticipo non basta più a placare le voci sui figli nati dopo un trapianto di carne impura, così ne estende la copertura a due generazioni, retroattivamente, senza che nessuno dei nascituri abbia mai potuto firmare nulla.",
+"universo": "cyberverse"
+}
