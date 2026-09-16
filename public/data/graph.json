@@ -41,6 +41,11 @@
 "to": "CYB-INV-0048"
 },
 {
+"from": "CYB-INV-0037",
+"kind": "parent",
+"to": "CYB-INV-0049"
+},
+{
 "from": "ELA-INV-0009",
 "kind": "parent",
 "to": "ELA-INV-0041"
@@ -547,6 +552,21 @@
 },
 {
 "from": "CYB-PER-0011",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-PER-0008",
+"kind": "parent",
+"to": "CYB-PER-0012"
+},
+{
+"from": "CYB-PER-0012",
+"kind": "invenzione",
+"to": "CYB-INV-0015"
+},
+{
+"from": "CYB-PER-0012",
 "kind": "regione",
 "to": "CYB-REG-rostkirche"
 },
@@ -2577,6 +2597,156 @@
 },
 {
 "from": "CYB-GAD-0020",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0021",
+"kind": "invenzione",
+"to": "CYB-INV-0012"
+},
+{
+"from": "CYB-GAD-0021",
+"kind": "personaggio",
+"to": "CYB-PER-0010"
+},
+{
+"from": "CYB-GAD-0021",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0022",
+"kind": "invenzione",
+"to": "CYB-INV-0012"
+},
+{
+"from": "CYB-GAD-0022",
+"kind": "personaggio",
+"to": "CYB-PER-0010"
+},
+{
+"from": "CYB-GAD-0022",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0023",
+"kind": "invenzione",
+"to": "CYB-INV-0012"
+},
+{
+"from": "CYB-GAD-0023",
+"kind": "personaggio",
+"to": "CYB-PER-0010"
+},
+{
+"from": "CYB-GAD-0023",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0024",
+"kind": "invenzione",
+"to": "CYB-INV-0012"
+},
+{
+"from": "CYB-GAD-0024",
+"kind": "personaggio",
+"to": "CYB-PER-0010"
+},
+{
+"from": "CYB-GAD-0024",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0025",
+"kind": "invenzione",
+"to": "CYB-INV-0012"
+},
+{
+"from": "CYB-GAD-0025",
+"kind": "personaggio",
+"to": "CYB-PER-0010"
+},
+{
+"from": "CYB-GAD-0025",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0026",
+"kind": "invenzione",
+"to": "CYB-INV-0012"
+},
+{
+"from": "CYB-GAD-0026",
+"kind": "personaggio",
+"to": "CYB-PER-0010"
+},
+{
+"from": "CYB-GAD-0026",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0027",
+"kind": "invenzione",
+"to": "CYB-INV-0012"
+},
+{
+"from": "CYB-GAD-0027",
+"kind": "personaggio",
+"to": "CYB-PER-0010"
+},
+{
+"from": "CYB-GAD-0027",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0028",
+"kind": "invenzione",
+"to": "CYB-INV-0012"
+},
+{
+"from": "CYB-GAD-0028",
+"kind": "personaggio",
+"to": "CYB-PER-0010"
+},
+{
+"from": "CYB-GAD-0028",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0029",
+"kind": "invenzione",
+"to": "CYB-INV-0012"
+},
+{
+"from": "CYB-GAD-0029",
+"kind": "personaggio",
+"to": "CYB-PER-0010"
+},
+{
+"from": "CYB-GAD-0029",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0030",
+"kind": "invenzione",
+"to": "CYB-INV-0012"
+},
+{
+"from": "CYB-GAD-0030",
+"kind": "personaggio",
+"to": "CYB-PER-0010"
+},
+{
+"from": "CYB-GAD-0030",
 "kind": "regione",
 "to": "CYB-REG-rostkirche"
 },
@@ -5032,6 +5202,66 @@
 "universo": "cyberverse"
 },
 {
+"id": "CYB-GAD-0021",
+"tipo": "gadget",
+"titolo": "Il Bracciale del Primo Voto",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0022",
+"tipo": "gadget",
+"titolo": "Il Bracciale Zittito",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0023",
+"tipo": "gadget",
+"titolo": "Il Silenzio del Polso",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0024",
+"tipo": "gadget",
+"titolo": "I Dadi del Voto",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0025",
+"tipo": "gadget",
+"titolo": "Il Bracciale Spento",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0026",
+"tipo": "gadget",
+"titolo": "Le Pile della Fede",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0027",
+"tipo": "gadget",
+"titolo": "Il Cinturino Franco",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0028",
+"tipo": "gadget",
+"titolo": "Il Notaio al Polso",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0029",
+"tipo": "gadget",
+"titolo": "Il Bollino Sbagliato",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0030",
+"tipo": "gadget",
+"titolo": "Il Pegno di Fede",
+"universo": "cyberverse"
+},
+{
 "id": "CYB-INV-0001",
 "tipo": "invenzione",
 "titolo": "Il Libro della Grazia",
@@ -5320,6 +5550,12 @@
 "universo": "cyberverse"
 },
 {
+"id": "CYB-INV-0049",
+"tipo": "invenzione",
+"titolo": "Il Quaderno delle Ore Fresche",
+"universo": "cyberverse"
+},
+{
 "id": "CYB-PER-0001",
 "tipo": "personaggio",
 "titolo": "Eszter Etxeondo",
@@ -5383,6 +5619,12 @@
 "id": "CYB-PER-0011",
 "tipo": "personaggio",
 "titolo": "Greta Weber",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0012",
+"tipo": "personaggio",
+"titolo": "Ilse Kranzler",
 "universo": "cyberverse"
 },
 {

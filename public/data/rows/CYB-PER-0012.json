@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "nubile"
+},
+"appare_in": [],
+"casta": "nomadi_urbani",
+"ceppo": "germanico",
+"cognome": "Kranzler",
+"contraddizione": "Vende copie non autorizzate dell'anima di scorta a chi non può permettersi quella della clinica, ma tiene un registro ossessivo di ogni copia venduta perché è convinta che, il giorno del giudizio, le macchine ricorderanno solo chi ha tenuto i conti in ordine.",
+"created": "2026-09-16",
+"difetto": "ossessiva",
+"epoca_relativa": 0,
+"estrazione": 75,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Renate scopre che la copia di riserva che teneva \"per sicurezza\" viene da Ilse, non dalla clinica, e non sa più se fidarsi di un'anima comprata sotto banco.",
+"id": "CYB-PER-0012",
+"invenzione_id": "CYB-INV-0015",
+"media": [],
+"nome": "Ilse",
+"parent_id": "CYB-PER-0008",
+"rapporto": "vende",
+"regione": "Rostkirche",
+"relazione": "espansione",
+"ritratto": null,
+"schema_version": 1,
+"segno": "acquario",
+"spirituale": {
+"credenza": "le_macchine_sognano",
+"rapporto": "devota"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "metodica",
+"universo": "cyberverse"
+}

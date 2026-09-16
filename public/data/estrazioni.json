@@ -3083,5 +3083,52 @@
 "HAC-INV-0072"
 ],
 "universo": "hackverse"
+},
+{
+"ambientazione": "citta-di-base-reale-eterna-roma-vetrasca-genova",
+"campi_forzati": [],
+"canone_pescato": [
+"CYB-GAD-0005",
+"CYB-INV-0037",
+"CYB-PER-0008"
+],
+"chiavi": {
+"invenzione_id": "CYB-INV-0012",
+"n_prod": 4,
+"personaggio_id": "CYB-PER-0010",
+"universo": "cyberverse"
+},
+"created": "2026-09-16",
+"esito": "ok",
+"espansioni": [
+"CYB-INV-0049",
+"CYB-PER-0012"
+],
+"estrazione": 75,
+"estrazione_madre": 15,
+"forzata": false,
+"lotto": "lotto-gadget",
+"modello": "claude-sonnet-5",
+"prod": [
+"CYB-GAD-0021",
+"CYB-GAD-0024",
+"CYB-GAD-0026",
+"CYB-GAD-0029"
+],
+"righe_prodotte": [
+"CYB-GAD-0021",
+"CYB-GAD-0022",
+"CYB-GAD-0023",
+"CYB-GAD-0024",
+"CYB-GAD-0025",
+"CYB-GAD-0026",
+"CYB-GAD-0027",
+"CYB-GAD-0028",
+"CYB-GAD-0029",
+"CYB-GAD-0030",
+"CYB-INV-0049",
+"CYB-PER-0012"
+],
+"universo": "cyberverse"
 }
 ]

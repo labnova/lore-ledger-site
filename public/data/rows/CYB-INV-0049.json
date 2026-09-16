@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-16",
+"discipline": [
+"meteorologia/climatologia",
+"urbanistica/edilizia_popolare"
+],
+"epoca_relativa": 0,
+"estrazione": 75,
+"fatti": [],
+"gancio": "Un portinaio nuovo brucia per errore un quaderno di tre anni di crediti informali, e il condominio si spacca tra chi si fida ancora della sua memoria e chi pretende un nuovo conteggio da zero.",
+"id": "CYB-INV-0049",
+"media": [],
+"nome": "Il Quaderno delle Ore Fresche",
+"nome_reale": "Quaderno condominiale di compensazione delle ore d'aria fresca non consumate",
+"parent_id": "CYB-INV-0037",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Se Ore di Sollievo scade ogni notte e regala al gestore le ore non consumate dai turnisti, nei condomini più poveri i portinai hanno iniziato a tenere un quaderno a mano che registra chi ha \"regalato\" ore quel giorno, per farsele restituire in favori quando toccherà a loro fare il turno di notte.",
+"universo": "cyberverse"
+}

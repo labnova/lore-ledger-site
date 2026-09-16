@@ -71,6 +71,20 @@
 },
 {
 "alias": [
+"HAC-REG-tallinn"
+],
+"descrizione": "Hub baltico dell'e-residency e dei registri digitali statali, attira broker di dati da ogni continente: nessun ceppo prevale, i cognomi restano quelli d'origine perché qui si arriva già adulti, con una identità digitale costruita altrove.",
+"ha_prosa": false,
+"nome": "Tallinn",
+"prima_apparizione": 32,
+"ricorrenze": 26,
+"slug": "tallinn",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "hackverse"
+},
+{
+"alias": [
 "STE-REG-cancello-del-freddo",
 "STE-REG-ledoskol"
 ],
@@ -108,20 +122,6 @@
 "prima_apparizione": 43,
 "ricorrenze": 15,
 "slug": "rotterdam",
-"sopra_soglia": true,
-"tipo": "luogo",
-"universo": "hackverse"
-},
-{
-"alias": [
-"HAC-REG-tallinn"
-],
-"descrizione": "Hub baltico dell'e-residency e dei registri digitali statali, attira broker di dati da ogni continente: nessun ceppo prevale, i cognomi restano quelli d'origine perché qui si arriva già adulti, con una identità digitale costruita altrove.",
-"ha_prosa": false,
-"nome": "Tallinn",
-"prima_apparizione": 32,
-"ricorrenze": 15,
-"slug": "tallinn",
 "sopra_soglia": true,
 "tipo": "luogo",
 "universo": "hackverse"

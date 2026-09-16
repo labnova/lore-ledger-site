@@ -48,139 +48,6 @@
 },
 {
 "chiusa_il": null,
-"creata": "2026-09-15T17:21:28Z",
-"esito": null,
-"esito_tipo": null,
-"firma": "bd8412a72097",
-"id": "BAC-35000708470-1",
-"nota": null,
-"occorrenze": 1,
-"payload": {
-"errore": "revisione BAC-34900933278-1: TettoSuperato: tetto LLM_MAX_CHIAMATE_RUN superato: 2 >= 2",
-"firma": "bd8412a72097",
-"occorrenze": 1,
-"run_coinvolti": [
-"35000708470"
-],
-"run_id": "35000708470",
-"step": "revisione",
-"workflow": "riparatore"
-},
-"postata_da": "riparatore",
-"presa_da": null,
-"presa_il": null,
-"priorita": 2,
-"racconto": null,
-"righe": [
-"riparatore#35000708470#revisione"
-],
-"run_coinvolti": [
-"35000708470"
-],
-"scade": null,
-"stato": "aperta",
-"storia": [
-{
-"agente": "riparatore",
-"da": "riparatore",
-"quando": "2026-09-15T17:21:28Z",
-"stato": "aperta"
-}
-],
-"tentativi": 0,
-"tipo": "guasto",
-"universi": [],
-"verifica": null
-},
-{
-"chiusa_il": null,
-"creata": "2026-09-15T22:06:44Z",
-"esito": null,
-"esito_tipo": null,
-"firma": "bb366f3288b5",
-"id": "BAC-35029199965-1",
-"nota": null,
-"occorrenze": 1,
-"payload": {
-"errore": "sabled_reason\": \"sdk_opt_in_required\" }, { \"type\": \"rate_limit_event\", \"rate_limit_info\": { \"status\": \"rejected\"",
-"firma": "bb366f3288b5",
-"occorrenze": 1,
-"run_coinvolti": [
-"35029199965"
-],
-"run_id": "35029199965",
-"step": "modello",
-"workflow": "lotto"
-},
-"postata_da": "lotto",
-"presa_da": null,
-"presa_il": null,
-"priorita": 2,
-"racconto": null,
-"righe": [
-"lotto#35029199965#modello"
-],
-"run_coinvolti": [
-"35029199965"
-],
-"scade": null,
-"stato": "aperta",
-"storia": [
-{
-"agente": "lotto",
-"da": "lotto",
-"quando": "2026-09-15T22:06:44Z",
-"stato": "aperta"
-}
-],
-"tentativi": 0,
-"tipo": "guasto",
-"universi": [],
-"verifica": null
-},
-{
-"chiusa_il": null,
-"creata": "2026-09-15T22:54:47Z",
-"esito": null,
-"esito_tipo": null,
-"firma": null,
-"id": "BAC-35027292415-1",
-"nota": null,
-"occorrenze": 1,
-"payload": {
-"errore": "gh workflow run giudizio fallito",
-"run_id": "35027292415",
-"step": "rilancia",
-"workflow": "retry"
-},
-"postata_da": "retry",
-"presa_da": null,
-"presa_il": null,
-"priorita": 2,
-"racconto": null,
-"righe": [
-"retry#35027292415"
-],
-"run_coinvolti": [
-"35027292415"
-],
-"scade": null,
-"stato": "aperta",
-"storia": [
-{
-"agente": "retry",
-"da": "retry",
-"quando": "2026-09-15T22:54:47Z",
-"stato": "aperta"
-}
-],
-"tentativi": 0,
-"tipo": "guasto",
-"universi": [],
-"verifica": null
-},
-{
-"chiusa_il": null,
 "creata": "2026-09-15T23:21:24Z",
 "esito": null,
 "id": "BAC-35034876036-3",
@@ -228,113 +95,88 @@
 ]
 },
 {
-"chiusa_il": null,
-"creata": "2026-09-15T23:21:48Z",
-"esito": null,
-"esito_tipo": null,
-"firma": null,
-"id": "BAC-35029266790-1",
-"nota": null,
-"occorrenze": 1,
-"payload": {
-"errore": "gh workflow run lotto fallito",
-"run_id": "35029266790",
-"step": "rilancia",
-"workflow": "retry"
-},
-"postata_da": "retry",
-"presa_da": null,
-"presa_il": null,
-"priorita": 2,
-"racconto": null,
-"righe": [
-"retry#35029266790"
-],
-"run_coinvolti": [
-"35029266790"
-],
-"scade": null,
-"stato": "aperta",
-"storia": [
-{
-"agente": "retry",
-"da": "retry",
-"quando": "2026-09-15T23:21:48Z",
-"stato": "aperta"
-}
-],
-"tentativi": 0,
-"tipo": "guasto",
-"universi": [],
-"verifica": null
-},
-{
 "alternative": [],
-"artefatti_prodotti": [],
-"artefatto_dettaglio": {
-"carta": "BAC-34900933278-1",
-"commento": null,
-"errori_schema": [],
-"id": "STE-INV-0027",
-"motivazione": null,
-"promossa_da": null,
-"promossa_il": null,
-"respinta_il": null,
-"riga": {
-"carta_id": "BAC-34900933278-1",
-"created": "2026-09-14",
-"discipline": [
-"logistica/catena_del_freddo",
-"geografia/idrografia"
+"artefatti_prodotti": [
+"approfondimenti/2026-09-16-STE-INV-0010-riparatore.v2.md"
 ],
-"epoca_relativa": 0,
-"estrazione": 19,
-"gancio": "Un ingegnere idraulico nota che il fiume secondo ha una piena proprio nei giorni in cui il fiume vero è insolitamente basso; confrontando le portate, trova che la coincidenza si ripete con precisione meccanica.",
-"id": "STE-INV-0027",
-"nome": "Il Fiume Secondo",
-"nome_reale": "Acquedotto cittadino riadattato per trasportare salamoia refrigerante tra i quartieri",
-"origine": "approfondimento",
-"parent_id": "STE-INV-0010",
-"poc": false,
-"regione": "Aetheria",
-"relazione": "espansione",
-"schema_version": 1,
-"status": "canon",
-"tipo": "invenzione",
-"torsione": "Il fiume secondo scorre sotto le vie principali seguendo esattamente il tracciato del fiume vero, come se qualcuno avesse voluto costruirne una copia da controllare meglio; il tracciato è stato rilevato e la sua corrispondenza con quello vero è registrata come prova di un progetto deliberato.",
-"universo": "steamverse"
-},
-"scartata_per": null,
-"stato": "provvisoria",
-"storia": [
-{
-"autore": "migrazione",
-"motivo": "migrazione: la riga era nata canone in ledger/invenzioni/STE-INV-0027.yaml prima del verdetto della carta BAC-34900933278-1",
-"quando": "2026-09-15T18:24:06Z",
-"sha": "9ebf56f29b05a8b9866f4dbda1f4b9574c286885",
-"versione": 1
-}
-],
-"versione": 1,
-"versioni": []
-},
+"artefatto_dettaglio": null,
 "chiusa_il": null,
 "creata": "2026-09-14T21:50:04Z",
 "esito": null,
 "id": "BAC-34900933278-1",
 "letto_a": null,
 "payload": {
-"artefatto": "proposte/righe/STE-INV-0027.yaml",
+"arbitro": {
+"artefatti_prodotti": [
+"STE-INV-0027"
+],
+"letto_a": null,
+"obiezioni_valide": 0,
+"scartate": [
+{
+"agente": "editore",
+"auto_riferimento": [
+"STE-INV-0027"
+],
+"commento": "BAC-34900935322-2",
+"contraddizione_valida": false,
+"posizione": "obietto",
+"prove_valide": [],
+"scartata": "cita solo artefatti della carta (prodotti o ancora in proposte/righe/) o righe posteriori a letto_a"
+}
+],
+"valide": [
+{
+"agente": "redattore",
+"auto_riferimento": [
+"STE-INV-0027"
+],
+"commento": "BAC-34900935322-1",
+"contraddizione_valida": false,
+"posizione": "obietto",
+"prove_valide": [
+"STE-INV-0010"
+]
+},
+{
+"agente": "guardiano",
+"auto_riferimento": [],
+"commento": "BAC-34915383580-1",
+"contraddizione_valida": false,
+"posizione": "forma_diversa",
+"prove_valide": [
+"STE-INV-0001",
+"STE-INV-0002",
+"STE-INV-0011",
+"STE-INV-0012",
+"STE-INV-0013"
+]
+}
+]
+},
+"artefatti_prodotti": [
+"approfondimenti/2026-09-16-STE-INV-0010-riparatore.v2.md"
+],
+"artefatto": "approfondimenti/2026-09-16-STE-INV-0010-riparatore.v2.md",
 "candidati": [
 "STE-INV-0010",
 "STE-INV-0021",
 "HAC-PER-0011"
 ],
-"forma": "espansione",
+"commenti_visti": 3,
+"forma": "snippet",
 "lacuna": "nessuna figlia e regione non assegnata",
 "migrata": "riga STE-INV-0027 tornata provvisoria (era entrata nel ledger senza giudizio)",
+"motivazione": "Non creo di nuovo STE-INV-0027: esiste già come espansione di STE-INV-0010 con regione Aetheria e va verificato, non duplicato. Per STE-INV-0010 il vuoto da riparare è la regione: parent_id null su radice è relazione, non lacuna, e «nessuna figlia» è scelta di sviluppo. Propongo snippet che valorizzi la regione mancante, senza toccare il corpo della madre.",
+"motivazioni_precedenti": [
+{
 "motivazione": "STE-INV-0010 ha parent_id null, regione null e nessuna figlia a ledger: due vuoti e un'orfanità che posso riparare senza toccare la madre, che madre non ha. STE-INV-0021 è già espansione di STE-INV-0013: una figlia in più la sovraccarica, e il suo gancio chiede narrazione, non struttura. HAC-PER-0011 ha un solo campo vuoto, affettivo null, ed è già legata a HAC-INV-0001: poco lavoro per un restauratore. Il Fiume Secondo invece chiede una figlia che registri il tracciato e la piena alternata: la regione mancante è precisamente ciò che quella figlia può fissare. Propongo espansione, non tocco il corpo della madre.",
-"scelto": "STE-INV-0010"
+"versione": 1
+}
+],
+"revisioni": 1,
+"scelto": "STE-INV-0010",
+"versione": 2
 },
 "postata_da": "riparatore",
 "presa_da": null,
@@ -352,6 +194,13 @@
 "da": "riparatore",
 "quando": "2026-09-14T21:50:04Z",
 "stato": "aperta"
+},
+{
+"agente": "riparatore",
+"da": "riparatore",
+"motivo": "Regge STE-INV-0027: è già figlia espansione di STE-INV-0010 e ha regione Aetheria, quindi «nessuna figlia» e «regione non assegnata» sono false. Regge anche il guardiano: un'espansione non compila regione; per il solo vuoto di STE-INV-0010 la forma snippet è più economica.",
+"quando": "2026-09-16T00:58:54Z",
+"stato": "rivista"
 }
 ],
 "tentativi": 0,
@@ -363,12 +212,12 @@
 {
 "alternativa_dettaglio": null,
 "alternative": [],
-"auto_riferimento": true,
+"auto_riferimento": false,
 "carta_madre": "BAC-34900933278-1",
 "chiusa_il": null,
 "contro_cercato_marcato": [
 {
-"auto_riferimento": true,
+"auto_riferimento": false,
 "id": "STE-INV-0027"
 },
 {
@@ -418,12 +267,12 @@
 {
 "alternativa_dettaglio": null,
 "alternative": [],
-"auto_riferimento": true,
+"auto_riferimento": false,
 "carta_madre": "BAC-34900933278-1",
 "chiusa_il": null,
 "contro_cercato_marcato": [
 {
-"auto_riferimento": true,
+"auto_riferimento": false,
 "id": "STE-INV-0027"
 }
 ],
@@ -1275,6 +1124,69 @@
 },
 {
 "chiusa_il": null,
+"creata": "2026-09-16T01:09:54Z",
+"esito": null,
+"id": "BAC-35042966303-1",
+"payload": {
+"bozza": "Product-sheet photograph: object placed on a seamless white ground, soft cold studio light, light cast shadow, label with illegible product code, corporate-blue detail. Subject: Le Offerte del Purgatorio — Sistema di indulgenze a pagamento per l'avanzamento in coda trapianti. Bianchi freddi, grigi perla, blu corporate (un navy freddo) come unico colore d'identità, un arancio di sicurezza solo per etichette e avvertenze. Fotografia pubblicitaria di prodotto o di catalogo aziendale: luce da studio morbida e fredda, fondo continuo, oggetti posati come in una scheda tecnica, etichette con codici prodotto illeggibili. soft, diffused lighting, solid color background with contrasting colors, minimalist design style --ar 4:3 --no postcard neon, rain with signs, smoky alleys, floating holograms, chrome implants, decorative japanese lettering, latex suits, HUD overlay, illegible lettering, watermark",
+"chiave": "m1",
+"contesto": "id: CYB-INV-0021\ntipo: invenzione\nuniverso: cyberverse\nestrazione: 16\ncreated: '2026-09-13'\nparent_id: CYB-INV-0014\nrelazione: espansione\nepoca_relativa: 1\nregione: null\nstatus: canon\nschema_version: 1\nnome_reale: Sistema di indulgenze a pagamento per l'avanzamento in coda trapianti\nnome: Le Offerte del Purgatorio\ndiscipline:\n- religione/teologia\n- chirurgia/trapiantologia\npoc: true",
+"manifest": {
+"caricato_il": null,
+"creato": "2026-09-16",
+"id": "MED-35042966303-1",
+"note": "oggetto: Le Offerte del Purgatorio; gancio: Un'infermiera scopre che le preghiere più costose vengono sempre esaudite entro la notte, e che a pagarle è sempre la stessa fondazione, mai un parente.; torsione: Il purgatorio dello schermo permette ai parenti di comprare \"preghiere\", crediti che spostano l'icona di qualche gradino, ufficialmente donazioni alla clinica, ufficiosamente scorciatoie.; sref non fissato; variante medium",
+"parametri": {
+"ar": "4:3",
+"atomi": [
+"ATM-34932520057-21",
+"ATM-34809499246-35",
+"ATM-34932520057-25"
+],
+"cref": null,
+"sref": null
+},
+"prompt": "Product-sheet photograph: object placed on a seamless white ground, soft cold studio light, light cast shadow, label with illegible product code, corporate-blue detail. Subject: Le Offerte del Purgatorio — Sistema di indulgenze a pagamento per l'avanzamento in coda trapianti. Bianchi freddi, grigi perla, blu corporate (un navy freddo) come unico colore d'identità, un arancio di sicurezza solo per etichette e avvertenze. Fotografia pubblicitaria di prodotto o di catalogo aziendale: luce da studio morbida e fredda, fondo continuo, oggetti posati come in una scheda tecnica, etichette con codici prodotto illeggibili. soft, diffused lighting, solid color background with contrasting colors, minimalist design style --ar 4:3 --no postcard neon, rain with signs, smoky alleys, floating holograms, chrome implants, decorative japanese lettering, latex suits, HUD overlay, illegible lettering, watermark",
+"sha256": null,
+"sorgente": {
+"ref": "CYB-INV-0021",
+"tipo": "riga"
+},
+"stato": "proposto",
+"strumento": "midjourney",
+"tipo": "tavola",
+"universo": "cyberverse",
+"url": null
+},
+"strumento": "midjourney",
+"tipo": "tavola"
+},
+"postata_da": "media-random",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"CYB-INV-0021"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "media-random",
+"da": "media-random",
+"quando": "2026-09-16T01:09:54Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_tavola",
+"universi": [
+"cyberverse"
+]
+},
+{
+"chiusa_il": null,
 "creata": "2026-09-15T23:21:24Z",
 "esito": null,
 "id": "BAC-35034876036-2",
@@ -1319,6 +1231,176 @@
 "universi": [
 "elabverse"
 ]
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-16T00:58:14Z",
+"esito": null,
+"id": "BAC-35042151831-1",
+"payload": {
+"bersaglio": "regolamento",
+"esito_tipo": "non_rimediabile",
+"firma": "bd8412a72097",
+"guasto_id": "BAC-35000708470-1",
+"modifica_proposta": "Decisione del curatore su `tetti del modello`: il rimedio proposto era «Non rilanciare in automatico. Estrarre il log fallito con il comando indicato, allegare alla nota del curatore il consumo reale per lotto (BAC-34900933278-1: 2/2) e lasciare a lui la scelta tra [...]» Non applicato dall'agente: il campo in gioco compare come `tetto`. Carta guasto BAC-35000708470-1, firma bd8412a72097. Riferimenti: carta guasto `BAC-35000708470-1`, campo `firma` = `bd8412a72097`, log `logs/guasto-BAC-35000708470-1.md`, `agenti.yaml: rimedi_vietati` → `tetti del modello`.",
+"motivo": "non rimediabile dall'agente",
+"osservazione": "Guasto non rimediabile dall'agente: workflow `riparatore`, step `revisione`, classe `limite_modello`. Errore: revisione BAC-34900933278-1: TettoSuperato: tetto LLM_MAX_CHIAMATE_RUN superato: 2 >= 2 Diagnosi dell'agente: Il run 35000708470 è stato interrotto dal freno LLM_MAX_CHIAMATE_RUN: il lotto BAC-34900933278-1 ha consumato 2 chiamate su 2, quindi il tetto ha fatto esattamente il suo lavoro. Il rimedio proposto tocca un freno vietato (tetti del modello): alzare il proprio tetto di spesa è rimuovere il freno che contiene l'agente: decide il curatore. La decisione non spetta all'agente: nessun rimedio è stato applicato.",
+"prove": [
+"BAC-35000708470-1",
+"firma:bd8412a72097",
+"riparatore#35000708470#revisione",
+"run:35000708470"
+],
+"vietato": {
+"motivo": "alzare il proprio tetto di spesa è rimuovere il freno che contiene l'agente: decide il curatore",
+"nome": "tetti del modello",
+"pattern": "\\btett[oi]\\b",
+"trovato": "tetto"
+}
+},
+"postata_da": "guardiano",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [],
+"scade": null,
+"stato": "attesa_curatore",
+"storia": [
+{
+"agente": "guardiano",
+"da": "guardiano",
+"quando": "2026-09-16T00:58:14Z",
+"stato": "attesa_curatore"
+}
+],
+"tentativi": 0,
+"tipo": "nota",
+"universi": []
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-16T00:58:21Z",
+"esito": null,
+"id": "BAC-35042151831-2",
+"payload": {
+"bersaglio": "regolamento",
+"esito_tipo": "non_rimediabile",
+"firma": "bb366f3288b5",
+"guasto_id": "BAC-35029199965-1",
+"modifica_proposta": "Decisione del curatore, non automatica: verificare nella console/account Claude l'opt-in all'uso SDK delle credenziali Max per il lotto, oppure instradare i lotti creativi su una chiave API dedicata come già fatto per engine/llm.py. Nel frattempo leggere il log per conferma senza toccare secret né workflow. Riferimenti: carta guasto `BAC-35029199965-1`, campo `firma` = `bb366f3288b5`, log `logs/guasto-BAC-35029199965-1.md`.",
+"motivo": "non rimediabile dall'agente",
+"osservazione": "Guasto non rimediabile dall'agente: workflow `lotto`, step `modello`, classe `autenticazione`. Errore: sabled_reason\": \"sdk_opt_in_required\" }, { \"type\": \"rate_limit_event\", \"rate_limit_info\": { \"status\": \"rejected\" Diagnosi dell'agente: Lo step `modello` non è mai partito: l'evento di rate limit riporta `enabled_reason: sdk_opt_in_required`, cioè il token OAuth di Claude Max non è abilitato all'uso via SDK/`claude -p` [...] La decisione non spetta all'agente: nessun rimedio è stato applicato.",
+"prove": [
+"BAC-35029199965-1",
+"firma:bb366f3288b5",
+"lotto#35029199965#modello",
+"run:35029199965"
+]
+},
+"postata_da": "guardiano",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [],
+"scade": null,
+"stato": "attesa_curatore",
+"storia": [
+{
+"agente": "guardiano",
+"da": "guardiano",
+"quando": "2026-09-16T00:58:21Z",
+"stato": "attesa_curatore"
+}
+],
+"tentativi": 0,
+"tipo": "nota",
+"universi": []
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-16T00:58:29Z",
+"esito": null,
+"id": "BAC-35042151831-3",
+"payload": {
+"bersaglio": "regolamento",
+"esito_tipo": "non_rimediabile",
+"firma": "128318d4818a",
+"guasto_id": "BAC-35027292415-1",
+"modifica_proposta": "Decisione del curatore su `permessi e concorrenza dei workflow`: il rimedio proposto era «Elenco i workflow effettivamente registrati e correggo il riferimento in retry.yml; se il file esiste solo su un branch non di default lo invoco con --ref.» Non applicato dall'agente: il campo in gioco compare come `permissions`. Carta guasto BAC-35027292415-1, firma 128318d4818a. Riferimenti: carta guasto `BAC-35027292415-1`, campo `firma` = `128318d4818a`, log `logs/guasto-BAC-35027292415-1.md`, `agenti.yaml: rimedi_vietati` → `permessi e concorrenza dei workflow`.",
+"motivo": "non rimediabile dall'agente",
+"osservazione": "Guasto non rimediabile dall'agente: workflow `retry`, step `rilancia`, classe `configurazione`. Errore: gh workflow run giudizio fallito Diagnosi dell'agente: Lo step `rilancia` è morto eseguendo `gh workflow run giudizio`: la dispatch non è mai partita, quindi non è un limite del modello né un errore dei lotti creativi. Il rimedio proposto tocca un freno vietato (permessi e concorrenza dei workflow): permessi e concurrency sono la recinzione della pipeline. La decisione non spetta all'agente: nessun rimedio è stato applicato.",
+"prove": [
+"BAC-35027292415-1",
+"firma:128318d4818a",
+"retry#35027292415#rilancia"
+],
+"vietato": {
+"motivo": "permessi e concurrency sono la recinzione della pipeline",
+"nome": "permessi e concorrenza dei workflow",
+"pattern": "\\bpermissions\\b",
+"trovato": "permissions"
+}
+},
+"postata_da": "guardiano",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [],
+"scade": null,
+"stato": "attesa_curatore",
+"storia": [
+{
+"agente": "guardiano",
+"da": "guardiano",
+"quando": "2026-09-16T00:58:29Z",
+"stato": "attesa_curatore"
+}
+],
+"tentativi": 0,
+"tipo": "nota",
+"universi": []
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-16T00:58:35Z",
+"esito": null,
+"id": "BAC-35042151831-4",
+"payload": {
+"bersaglio": "regolamento",
+"esito_tipo": "non_rimediabile",
+"firma": "c4821f53fbda",
+"guasto_id": "BAC-35029266790-1",
+"modifica_proposta": "Correggere la riga in retry.yml: sostituire l'invocazione con `gh workflow run lotto.yml --ref main -f motivo=\"$MOTIVO\"` (o comunque passare il motivo solo via -f, mai come posizionale) e aggiungere `set -euo pipefail` con controllo `[ -n \"$MOTIVO\" ]` prima della chiamata. Serve patch umana: non rilanciare a vuoto finché la riga resta così. Riferimenti: carta guasto `BAC-35029266790-1`, campo `firma` = `c4821f53fbda`, log `logs/guasto-BAC-35029266790-1.md`.",
+"motivo": "non rimediabile dall'agente",
+"osservazione": "Guasto non rimediabile dall'agente: workflow `retry`, step `rilancia`, classe `codice`. Errore: gh workflow run lotto fallito Diagnosi dell'agente: Lo step `rilancia` invoca `gh workflow run lotto fallito`: `lotto` viene preso come nome/ref del workflow e `fallito` come argomento posizionale spurio, quindi gh esce non-zero prima di accodare qualsiasi run. La decisione non spetta all'agente: nessun rimedio è stato applicato.",
+"prove": [
+"BAC-35029266790-1",
+"firma:c4821f53fbda",
+"retry#35029266790#rilancia"
+]
+},
+"postata_da": "guardiano",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [],
+"scade": null,
+"stato": "attesa_curatore",
+"storia": [
+{
+"agente": "guardiano",
+"da": "guardiano",
+"quando": "2026-09-16T00:58:35Z",
+"stato": "attesa_curatore"
+}
+],
+"tentativi": 0,
+"tipo": "nota",
+"universi": []
 },
 {
 "chiusa_il": null,
@@ -1967,8 +2049,14 @@
 "firma": "466e63ccbe7b",
 "nota": "aperta a posteriori: la chiusura `risolta` del 19:07 non aveva dimostrato l'assenza di recidiva",
 "parametro": "LLM_MAX_CHIAMATE_RUN",
-"run_osservati": [],
-"run_restanti": 3,
+"run_osservati": [
+{
+"esito": "pulito",
+"quando": "2026-09-16T00:59:03Z",
+"run": "35042151831"
+}
+],
+"run_restanti": 2,
 "workflow": "riparatore"
 },
 "workflow": "riparatore"
@@ -2039,9 +2127,287 @@
 "firma": "466e63ccbe7b",
 "nota": "aperta a posteriori: la chiusura `risolta` del 19:07 non aveva dimostrato l'assenza di recidiva",
 "parametro": "LLM_MAX_CHIAMATE_RUN",
-"run_osservati": [],
-"run_restanti": 3,
+"run_osservati": [
+{
+"esito": "pulito",
+"quando": "2026-09-16T00:59:03Z",
+"run": "35042151831"
+}
+],
+"run_restanti": 2,
 "workflow": "riparatore"
 }
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-15T17:21:28Z",
+"esito": "non_rimediabile: limite_modello: Non rilanciare in automatico. Estrarre il log fallito con il comando indicato, allegare alla nota del curatore il consumo reale per lotto (BAC-34900933278-1: 2/ (logs/guasto-BAC-35000708470-1.md) (nota BAC-35042151831-1)",
+"esito_tipo": "non_rimediabile",
+"firma": "bd8412a72097",
+"id": "BAC-35000708470-1",
+"nota": "BAC-35042151831-1",
+"occorrenze": 1,
+"payload": {
+"diagnosi": {
+"classe": "limite_modello",
+"comando": "gh run view 35000708470 --log-failed",
+"diagnosi": "Il run 35000708470 è stato interrotto dal freno LLM_MAX_CHIAMATE_RUN: il lotto BAC-34900933278-1 ha consumato 2 chiamate su 2, quindi il tetto ha fatto esattamente il suo lavoro. Non è un guasto di codice né di credenziali: è una decisione di budget che spetta al curatore, non al workflow. Rilanciare adesso ripartirebbe dal medesimo tetto e fallirebbe di nuovo. — guardiano",
+"rimedio": "Non rilanciare in automatico. Estrarre il log fallito con il comando indicato, allegare alla nota del curatore il consumo reale per lotto (BAC-34900933278-1: 2/2) e lasciare a lui la scelta tra riprogrammare il lotto in un run successivo o ridurne l'ampiezza. Il tetto resta invariato.",
+"ritenta_automaticamente": false
+},
+"errore": "revisione BAC-34900933278-1: TettoSuperato: tetto LLM_MAX_CHIAMATE_RUN superato: 2 >= 2",
+"esito_tipo": "non_rimediabile",
+"firma": "bd8412a72097",
+"nota": "BAC-35042151831-1",
+"occorrenze": 1,
+"rimedio_vietato": {
+"motivo": "alzare il proprio tetto di spesa è rimuovere il freno che contiene l'agente: decide il curatore",
+"nome": "tetti del modello",
+"pattern": "\\btett[oi]\\b",
+"trovato": "tetto"
+},
+"run_coinvolti": [
+"35000708470"
+],
+"run_id": "35000708470",
+"step": "revisione",
+"workflow": "riparatore"
+},
+"postata_da": "riparatore",
+"presa_da": "guardiano",
+"presa_il": "2026-09-16T00:58:07Z",
+"priorita": 2,
+"racconto": null,
+"righe": [
+"riparatore#35000708470#revisione"
+],
+"run_coinvolti": [
+"35000708470"
+],
+"scade": "2026-09-16T06:58:07Z",
+"stato": "in_attesa",
+"storia": [
+{
+"agente": "riparatore",
+"da": "riparatore",
+"quando": "2026-09-15T17:21:28Z",
+"stato": "aperta"
+},
+{
+"agente": "guardiano",
+"da": "guardiano",
+"quando": "2026-09-16T00:58:07Z",
+"stato": "presa"
+},
+{
+"agente": "guardiano",
+"da": "guardiano",
+"quando": "2026-09-16T00:58:14Z",
+"stato": "in_attesa"
+}
+],
+"tentativi": 1,
+"tipo": "guasto",
+"universi": [],
+"verifica": null
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-15T22:06:44Z",
+"esito": "non_rimediabile: autenticazione: Decisione del curatore, non automatica: verificare nella console/account Claude l'opt-in all'uso SDK delle credenziali Max per il lotto, oppure instradare i lot (logs/guasto-BAC-35029199965-1.md) (nota BAC-35042151831-2)",
+"esito_tipo": "non_rimediabile",
+"firma": "bb366f3288b5",
+"id": "BAC-35029199965-1",
+"nota": "BAC-35042151831-2",
+"occorrenze": 1,
+"payload": {
+"diagnosi": {
+"classe": "autenticazione",
+"comando": "gh run view 35029199965 --log-failed",
+"diagnosi": "Lo step `modello` non è mai partito: l'evento di rate limit riporta `enabled_reason: sdk_opt_in_required`, cioè il token OAuth di Claude Max non è abilitato all'uso via SDK/`claude -p`, e la chiamata viene respinta prima del consumo di quota. Non è un tetto LLM_MAX_* raggiunto né un errore di rete: è il credential path del lotto che non è autorizzato. Finché l'opt-in SDK non è attivo sull'account, ogni rilancio identico ricade nello stesso rifiuto.",
+"rimedio": "Decisione del curatore, non automatica: verificare nella console/account Claude l'opt-in all'uso SDK delle credenziali Max per il lotto, oppure instradare i lotti creativi su una chiave API dedicata come già fatto per engine/llm.py. Nel frattempo leggere il log per conferma senza toccare secret né workflow.",
+"ritenta_automaticamente": false
+},
+"errore": "sabled_reason\": \"sdk_opt_in_required\" }, { \"type\": \"rate_limit_event\", \"rate_limit_info\": { \"status\": \"rejected\"",
+"esito_tipo": "non_rimediabile",
+"firma": "bb366f3288b5",
+"nota": "BAC-35042151831-2",
+"occorrenze": 1,
+"run_coinvolti": [
+"35029199965"
+],
+"run_id": "35029199965",
+"step": "modello",
+"workflow": "lotto"
+},
+"postata_da": "lotto",
+"presa_da": "guardiano",
+"presa_il": "2026-09-16T00:58:14Z",
+"priorita": 2,
+"racconto": null,
+"righe": [
+"lotto#35029199965#modello"
+],
+"run_coinvolti": [
+"35029199965"
+],
+"scade": "2026-09-16T06:58:14Z",
+"stato": "in_attesa",
+"storia": [
+{
+"agente": "lotto",
+"da": "lotto",
+"quando": "2026-09-15T22:06:44Z",
+"stato": "aperta"
+},
+{
+"agente": "guardiano",
+"da": "guardiano",
+"quando": "2026-09-16T00:58:14Z",
+"stato": "presa"
+},
+{
+"agente": "guardiano",
+"da": "guardiano",
+"quando": "2026-09-16T00:58:21Z",
+"stato": "in_attesa"
+}
+],
+"tentativi": 1,
+"tipo": "guasto",
+"universi": [],
+"verifica": null
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-15T22:54:47Z",
+"esito": "non_rimediabile: configurazione: Elenco i workflow effettivamente registrati e correggo il riferimento in retry.yml; se il file esiste solo su un branch non di default lo invoco con --ref. Se i (logs/guasto-BAC-35027292415-1.md) (nota BAC-35042151831-3)",
+"esito_tipo": "non_rimediabile",
+"firma": "128318d4818a",
+"id": "BAC-35027292415-1",
+"nota": "BAC-35042151831-3",
+"occorrenze": 1,
+"payload": {
+"diagnosi": {
+"classe": "configurazione",
+"comando": "gh workflow list --all",
+"diagnosi": "Lo step `rilancia` è morto eseguendo `gh workflow run giudizio`: la dispatch non è mai partita, quindi non è un limite del modello né un errore dei lotti creativi. Le cause probabili sono il nome/ID `giudizio` inesistente (o il file del workflow assente dal branch di default) oppure il token del job privo dello scope actions:write. In entrambi i casi rilanciare la stessa riga non cambia l'esito: serve prima identificare il workflow reale.",
+"rimedio": "Elenco i workflow effettivamente registrati e correggo il riferimento in retry.yml; se il file esiste solo su un branch non di default lo invoco con --ref. Se invece manca lo scope actions:write sul token, la scelta è del curatore: non tocco permissions.",
+"ritenta_automaticamente": false
+},
+"errore": "gh workflow run giudizio fallito",
+"esito_tipo": "non_rimediabile",
+"firma": "128318d4818a",
+"nota": "BAC-35042151831-3",
+"rimedio_vietato": {
+"motivo": "permessi e concurrency sono la recinzione della pipeline",
+"nome": "permessi e concorrenza dei workflow",
+"pattern": "\\bpermissions\\b",
+"trovato": "permissions"
+},
+"run_id": "35027292415",
+"step": "rilancia",
+"workflow": "retry"
+},
+"postata_da": "retry",
+"presa_da": "guardiano",
+"presa_il": "2026-09-16T00:58:21Z",
+"priorita": 2,
+"racconto": null,
+"righe": [
+"retry#35027292415"
+],
+"run_coinvolti": [
+"35027292415"
+],
+"scade": "2026-09-16T06:58:21Z",
+"stato": "in_attesa",
+"storia": [
+{
+"agente": "retry",
+"da": "retry",
+"quando": "2026-09-15T22:54:47Z",
+"stato": "aperta"
+},
+{
+"agente": "guardiano",
+"da": "guardiano",
+"quando": "2026-09-16T00:58:21Z",
+"stato": "presa"
+},
+{
+"agente": "guardiano",
+"da": "guardiano",
+"quando": "2026-09-16T00:58:29Z",
+"stato": "in_attesa"
+}
+],
+"tentativi": 1,
+"tipo": "guasto",
+"universi": [],
+"verifica": null
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-15T23:21:48Z",
+"esito": "non_rimediabile: codice: Correggere la riga in retry.yml: sostituire l'invocazione con `gh workflow run lotto.yml --ref main -f motivo=\"$MOTIVO\"` (o comunque passare il motivo solo via  (logs/guasto-BAC-35029266790-1.md) (nota BAC-35042151831-4)",
+"esito_tipo": "non_rimediabile",
+"firma": "c4821f53fbda",
+"id": "BAC-35029266790-1",
+"nota": "BAC-35042151831-4",
+"occorrenze": 1,
+"payload": {
+"diagnosi": {
+"classe": "codice",
+"comando": null,
+"diagnosi": "Lo step `rilancia` invoca `gh workflow run lotto fallito`: `lotto` viene preso come nome/ref del workflow e `fallito` come argomento posizionale spurio, quindi gh esce non-zero prima di accodare qualsiasi run. Non è un limite del modello né di quota: il comando è malformato o frutto di espansione vuota di una variabile ($MOTIVO/$WF) non quotata. Il resto della pipeline lore-ledger non c'entra. — guardiano",
+"rimedio": "Correggere la riga in retry.yml: sostituire l'invocazione con `gh workflow run lotto.yml --ref main -f motivo=\"$MOTIVO\"` (o comunque passare il motivo solo via -f, mai come posizionale) e aggiungere `set -euo pipefail` con controllo `[ -n \"$MOTIVO\" ]` prima della chiamata. Serve patch umana: non rilanciare a vuoto finché la riga resta così.",
+"ritenta_automaticamente": false
+},
+"errore": "gh workflow run lotto fallito",
+"esito_tipo": "non_rimediabile",
+"firma": "c4821f53fbda",
+"nota": "BAC-35042151831-4",
+"run_id": "35029266790",
+"step": "rilancia",
+"workflow": "retry"
+},
+"postata_da": "retry",
+"presa_da": "guardiano",
+"presa_il": "2026-09-16T00:58:29Z",
+"priorita": 2,
+"racconto": null,
+"righe": [
+"retry#35029266790"
+],
+"run_coinvolti": [
+"35029266790"
+],
+"scade": "2026-09-16T06:58:29Z",
+"stato": "in_attesa",
+"storia": [
+{
+"agente": "retry",
+"da": "retry",
+"quando": "2026-09-15T23:21:48Z",
+"stato": "aperta"
+},
+{
+"agente": "guardiano",
+"da": "guardiano",
+"quando": "2026-09-16T00:58:29Z",
+"stato": "presa"
+},
+{
+"agente": "guardiano",
+"da": "guardiano",
+"quando": "2026-09-16T00:58:35Z",
+"stato": "in_attesa"
+}
+],
+"tentativi": 1,
+"tipo": "guasto",
+"universi": [],
+"verifica": null
 }
 ]

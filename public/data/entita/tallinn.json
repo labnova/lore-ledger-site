@@ -1,11 +1,11 @@
 {
-"aggiornata": "2026-09-15",
+"aggiornata": "2026-09-16",
 "alias": [
 "HAC-REG-tallinn"
 ],
 "descrizione": "Hub baltico dell'e-residency e dei registri digitali statali, attira broker di dati da ogni continente: nessun ceppo prevale, i cognomi restano quelli d'origine perché qui si arriva già adulti, con una identità digitale costruita altrove.",
 "ha_prosa": false,
-"n_ricorrenze": 15,
+"n_ricorrenze": 26,
 "nome": "Tallinn",
 "prima_apparizione": 32,
 "prosa": null,
@@ -145,6 +145,105 @@
 "riga_id": "HAC-PER-0021",
 "riga_tipo": "personaggio",
 "riga_titolo": "Kenji Arase"
+},
+{
+"estrazione": 74,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 74,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0023",
+"riga_tipo": "personaggio",
+"riga_titolo": "Ragnhild Kvivik"
+},
+{
+"estrazione": 74,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0024",
+"riga_tipo": "personaggio",
+"riga_titolo": "Layla Rakabazi"
+},
+{
+"estrazione": 74,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0025",
+"riga_tipo": "personaggio",
+"riga_titolo": "Dmitri Arrizabal"
+},
+{
+"estrazione": 74,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0026",
+"riga_tipo": "personaggio",
+"riga_titolo": "István Veváthy"
+},
+{
+"estrazione": 74,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0027",
+"riga_tipo": "personaggio",
+"riga_titolo": "Kenji Hataya"
+},
+{
+"estrazione": 74,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0028",
+"riga_tipo": "personaggio",
+"riga_titolo": "Nadezhda Tavasaczyk"
+},
+{
+"estrazione": 74,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0029",
+"riga_tipo": "personaggio",
+"riga_titolo": "Hülya Sarcı"
+},
+{
+"estrazione": 74,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0030",
+"riga_tipo": "personaggio",
+"riga_titolo": "Jürgen Becker"
+},
+{
+"estrazione": 74,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0031",
+"riga_tipo": "personaggio",
+"riga_titolo": "Julen Olalaaga"
+},
+{
+"estrazione": 74,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0032",
+"riga_tipo": "personaggio",
+"riga_titolo": "Bahati Mvuvi"
 }
 ],
 "righe": [
@@ -207,6 +306,56 @@
 "id": "HAC-PER-0021",
 "tipo": "personaggio",
 "titolo": "Kenji Arase"
+},
+{
+"id": "HAC-PER-0023",
+"tipo": "personaggio",
+"titolo": "Ragnhild Kvivik"
+},
+{
+"id": "HAC-PER-0024",
+"tipo": "personaggio",
+"titolo": "Layla Rakabazi"
+},
+{
+"id": "HAC-PER-0025",
+"tipo": "personaggio",
+"titolo": "Dmitri Arrizabal"
+},
+{
+"id": "HAC-PER-0026",
+"tipo": "personaggio",
+"titolo": "István Veváthy"
+},
+{
+"id": "HAC-PER-0027",
+"tipo": "personaggio",
+"titolo": "Kenji Hataya"
+},
+{
+"id": "HAC-PER-0028",
+"tipo": "personaggio",
+"titolo": "Nadezhda Tavasaczyk"
+},
+{
+"id": "HAC-PER-0029",
+"tipo": "personaggio",
+"titolo": "Hülya Sarcı"
+},
+{
+"id": "HAC-PER-0030",
+"tipo": "personaggio",
+"titolo": "Jürgen Becker"
+},
+{
+"id": "HAC-PER-0031",
+"tipo": "personaggio",
+"titolo": "Julen Olalaaga"
+},
+{
+"id": "HAC-PER-0032",
+"tipo": "personaggio",
+"titolo": "Bahati Mvuvi"
 },
 {
 "id": "HAC-REG-tallinn",
