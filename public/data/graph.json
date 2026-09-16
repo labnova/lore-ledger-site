@@ -46,6 +46,11 @@
 "to": "CYB-INV-0049"
 },
 {
+"from": "CYB-INV-0015",
+"kind": "parent",
+"to": "CYB-INV-0070"
+},
+{
 "from": "ELA-INV-0009",
 "kind": "parent",
 "to": "ELA-INV-0041"
@@ -4931,6 +4936,11 @@
 "to": "ELA-REG-konya"
 },
 {
+"from": "ELA-CON-0007",
+"kind": "sorgente",
+"to": "ELA-INV-0076"
+},
+{
 "from": "HAC-CON-0001",
 "kind": "sorgente",
 "to": "HAC-INV-0017"
@@ -5956,6 +5966,12 @@
 "universo": "cyberverse"
 },
 {
+"id": "CYB-INV-0070",
+"tipo": "invenzione",
+"titolo": "L'Anima di Scorta",
+"universo": "cyberverse"
+},
+{
 "id": "CYB-PER-0001",
 "tipo": "personaggio",
 "titolo": "Eszter Etxeondo",
@@ -6073,6 +6089,12 @@
 "id": "ELA-CON-0006",
 "tipo": "contenuto",
 "titolo": "Pagina di zine ritrovata: come è nato l’Anello a Sigillo Concavo",
+"universo": "elabverse"
+},
+{
+"id": "ELA-CON-0007",
+"tipo": "contenuto",
+"titolo": "Album Flickr: la vasca che ha deciso i piani delle cabine",
 "universo": "elabverse"
 },
 {

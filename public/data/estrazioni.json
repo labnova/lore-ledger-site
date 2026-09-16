@@ -3339,5 +3339,45 @@
 "NEO-GAD-0092"
 ],
 "universo": "neofeudal"
+},
+{
+"chiavi": {
+"sospesi": [
+"CYB-SOS-34885804207-1",
+"CYB-SOS-34885804207-2"
+]
+},
+"created": "2026-09-16",
+"esito": "ok",
+"estrazione": 82,
+"lotto": "lotto-innesto",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"CYB-INV-0070"
+],
+"universo": "cyberverse"
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"ELA-INV-0076"
+],
+"chiavi": {
+"canale": "flickr",
+"formato": "making_of",
+"medium": "immagini",
+"sorgente_id": "ELA-INV-0076",
+"veridicita": "making_of"
+},
+"created": "2026-09-16",
+"esito": "ok",
+"estrazione": 83,
+"forzata": false,
+"lotto": "lotto-contenuti",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"ELA-CON-0007"
+],
+"universo": "elabverse"
 }
 ]

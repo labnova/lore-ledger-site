@@ -97,6 +97,31 @@
 ],
 "gancio": "Una donna sopravvive all'intervento ma pretende indietro anche la copia, convinta che due anime nello stesso corpo aumentino le sue probabilità con qualunque dio stia ascoltando.",
 "id": "CYB-INV-0015",
+"innesti": [
+{
+"created": "2026-09-16",
+"discipline": [
+"religione/teologia",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 15,
+"gancio": "Una donna sopravvive all'intervento ma pretende indietro anche la copia, convinta che due anime nello stesso corpo aumentino le sue probabilità con qualunque dio stia ascoltando.",
+"id": "CYB-INV-0070",
+"nome": "L'Anima di Scorta",
+"nome_reale": "Backup digitale della coscienza pre-intervento ad alto rischio",
+"origine": "sospeso",
+"parent_id": "CYB-INV-0015",
+"poc": true,
+"regione": null,
+"relazione": "innesto",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Prima di ogni trapianto ad alto rischio la clinica registra una copia dei ricordi recenti del paziente, ufficialmente per motivi legali, ufficiosamente perché il cappellano la chiama l'anima di scorta. L'istanza di rilascio della copia può essere presentata solo dall'intestatario corrente, e la clausola sul mancato pagamento trasferisce l'intestazione alla clinica stessa, che da quel momento resta l'unica ad avere titolo per chiedersi indietro quello che ha già in mano.",
+"universo": "cyberverse"
+}
+],
 "media": [],
 "nome": "L'Anima di Scorta",
 "nome_reale": "Backup digitale della coscienza pre-intervento ad alto rischio",

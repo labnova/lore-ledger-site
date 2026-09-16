@@ -588,6 +588,20 @@
 },
 {
 "appare_in": [],
+"chiavi": "immagini · flickr · making_of",
+"created": "2026-09-16",
+"estrazione": 83,
+"id": "ELA-CON-0007",
+"parent_id": null,
+"regione": null,
+"relazione": null,
+"sommario": "Album Flickr: la vasca che ha deciso i piani delle cabine",
+"tipo": "contenuto",
+"titolo": "Album Flickr: la vasca che ha deciso i piani delle cabine",
+"universo": "elabverse"
+},
+{
+"appare_in": [],
 "chiavi": "fisico · zine · documento_ritrovato",
 "created": "2026-09-16",
 "estrazione": 76,
@@ -8650,6 +8664,9 @@
 "estrazione": 15,
 "gancio": "Una donna sopravvive all'intervento ma pretende indietro anche la copia, convinta che due anime nello stesso corpo aumentino le sue probabilità con qualunque dio stia ascoltando.",
 "id": "CYB-INV-0015",
+"innesti": [
+"CYB-INV-0070"
+],
 "parent_id": null,
 "poc": true,
 "regione": null,
