@@ -1,0 +1,184 @@
+{
+"aggiornata": "2026-09-16",
+"alias": [
+"STE-REG-ikerviz"
+],
+"descrizione": "Città posata su un doppio letto fluviale, dove il canale sotterraneo della gilda scorre parallelo al fiume vero portando salamoia refrigerante ai quartieri alti; quasi un cognome su due nasce ancora dal mestiere di chi lo porta.",
+"ha_prosa": false,
+"n_ricorrenze": 12,
+"nome": "Ikervíz",
+"prima_apparizione": 80,
+"prosa": null,
+"racconti": [],
+"ricorrenze": [
+{
+"estrazione": 80,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 80,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0021",
+"riga_tipo": "personaggio",
+"riga_titolo": "Imre Tathy"
+},
+{
+"estrazione": 80,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0022",
+"riga_tipo": "personaggio",
+"riga_titolo": "Miklós Szacs"
+},
+{
+"estrazione": 80,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0023",
+"riga_tipo": "personaggio",
+"riga_titolo": "Anikó Halász"
+},
+{
+"estrazione": 80,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0024",
+"riga_tipo": "personaggio",
+"riga_titolo": "Réka Talyi"
+},
+{
+"estrazione": 80,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0025",
+"riga_tipo": "personaggio",
+"riga_titolo": "Zoltán Molnár"
+},
+{
+"estrazione": 80,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0026",
+"riga_tipo": "personaggio",
+"riga_titolo": "Bjørn Sandvivik"
+},
+{
+"estrazione": 80,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0027",
+"riga_tipo": "personaggio",
+"riga_titolo": "Eszter Fazekas"
+},
+{
+"estrazione": 80,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0028",
+"riga_tipo": "personaggio",
+"riga_titolo": "Sándor Kovács"
+},
+{
+"estrazione": 80,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0029",
+"riga_tipo": "personaggio",
+"riga_titolo": "Emil Nystrand"
+},
+{
+"estrazione": 80,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0030",
+"riga_tipo": "personaggio",
+"riga_titolo": "Marek Rain"
+},
+{
+"estrazione": 80,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-REG-ikerviz",
+"riga_tipo": "regione",
+"riga_titolo": "Ikervíz"
+}
+],
+"righe": [
+{
+"id": "STE-PER-0021",
+"tipo": "personaggio",
+"titolo": "Imre Tathy"
+},
+{
+"id": "STE-PER-0022",
+"tipo": "personaggio",
+"titolo": "Miklós Szacs"
+},
+{
+"id": "STE-PER-0023",
+"tipo": "personaggio",
+"titolo": "Anikó Halász"
+},
+{
+"id": "STE-PER-0024",
+"tipo": "personaggio",
+"titolo": "Réka Talyi"
+},
+{
+"id": "STE-PER-0025",
+"tipo": "personaggio",
+"titolo": "Zoltán Molnár"
+},
+{
+"id": "STE-PER-0026",
+"tipo": "personaggio",
+"titolo": "Bjørn Sandvivik"
+},
+{
+"id": "STE-PER-0027",
+"tipo": "personaggio",
+"titolo": "Eszter Fazekas"
+},
+{
+"id": "STE-PER-0028",
+"tipo": "personaggio",
+"titolo": "Sándor Kovács"
+},
+{
+"id": "STE-PER-0029",
+"tipo": "personaggio",
+"titolo": "Emil Nystrand"
+},
+{
+"id": "STE-PER-0030",
+"tipo": "personaggio",
+"titolo": "Marek Rain"
+},
+{
+"id": "STE-REG-ikerviz",
+"tipo": "regione",
+"titolo": "Ikervíz"
+}
+],
+"slug": "ikerviz",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "steamverse"
+}

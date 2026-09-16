@@ -174,8 +174,22 @@
 "ha_prosa": false,
 "nome": "Qattoum",
 "prima_apparizione": 68,
-"ricorrenze": 12,
+"ricorrenze": 13,
 "slug": "qattoum",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "steamverse"
+},
+{
+"alias": [
+"STE-REG-ikerviz"
+],
+"descrizione": "Città posata su un doppio letto fluviale, dove il canale sotterraneo della gilda scorre parallelo al fiume vero portando salamoia refrigerante ai quartieri alti; quasi un cognome su due nasce ancora dal mestiere di chi lo porta.",
+"ha_prosa": false,
+"nome": "Ikervíz",
+"prima_apparizione": 80,
+"ricorrenze": 12,
+"slug": "ikerviz",
 "sopra_soglia": true,
 "tipo": "luogo",
 "universo": "steamverse"

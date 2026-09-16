@@ -3297,5 +3297,47 @@
 "STE-REG-ikerviz"
 ],
 "universo": "steamverse"
+},
+{
+"ambientazione": "borgo-era-amministrata",
+"campi_forzati": [],
+"canone_pescato": [
+"NEO-INV-0057",
+"NEO-PER-0008"
+],
+"chiavi": {
+"invenzione_id": "NEO-INV-0057",
+"n_prod": 5,
+"personaggio_id": "NEO-PER-0008",
+"universo": "neofeudal"
+},
+"created": "2026-09-16",
+"esito": "ok",
+"espansioni": [],
+"estrazione": 81,
+"estrazione_madre": 54,
+"forzata": false,
+"lotto": "lotto-gadget",
+"modello": "claude-sonnet-5",
+"prod": [
+"NEO-GAD-0083",
+"NEO-GAD-0088",
+"NEO-GAD-0089",
+"NEO-GAD-0091",
+"NEO-GAD-0092"
+],
+"righe_prodotte": [
+"NEO-GAD-0083",
+"NEO-GAD-0084",
+"NEO-GAD-0085",
+"NEO-GAD-0086",
+"NEO-GAD-0087",
+"NEO-GAD-0088",
+"NEO-GAD-0089",
+"NEO-GAD-0090",
+"NEO-GAD-0091",
+"NEO-GAD-0092"
+],
+"universo": "neofeudal"
 }
 ]

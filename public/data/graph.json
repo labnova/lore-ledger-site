@@ -4576,6 +4576,156 @@
 "to": "NEO-REG-sarakan"
 },
 {
+"from": "NEO-GAD-0083",
+"kind": "invenzione",
+"to": "NEO-INV-0057"
+},
+{
+"from": "NEO-GAD-0083",
+"kind": "personaggio",
+"to": "NEO-PER-0008"
+},
+{
+"from": "NEO-GAD-0083",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-GAD-0084",
+"kind": "invenzione",
+"to": "NEO-INV-0057"
+},
+{
+"from": "NEO-GAD-0084",
+"kind": "personaggio",
+"to": "NEO-PER-0008"
+},
+{
+"from": "NEO-GAD-0084",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-GAD-0085",
+"kind": "invenzione",
+"to": "NEO-INV-0057"
+},
+{
+"from": "NEO-GAD-0085",
+"kind": "personaggio",
+"to": "NEO-PER-0008"
+},
+{
+"from": "NEO-GAD-0085",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-GAD-0086",
+"kind": "invenzione",
+"to": "NEO-INV-0057"
+},
+{
+"from": "NEO-GAD-0086",
+"kind": "personaggio",
+"to": "NEO-PER-0008"
+},
+{
+"from": "NEO-GAD-0086",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-GAD-0087",
+"kind": "invenzione",
+"to": "NEO-INV-0057"
+},
+{
+"from": "NEO-GAD-0087",
+"kind": "personaggio",
+"to": "NEO-PER-0008"
+},
+{
+"from": "NEO-GAD-0087",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-GAD-0088",
+"kind": "invenzione",
+"to": "NEO-INV-0057"
+},
+{
+"from": "NEO-GAD-0088",
+"kind": "personaggio",
+"to": "NEO-PER-0008"
+},
+{
+"from": "NEO-GAD-0088",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-GAD-0089",
+"kind": "invenzione",
+"to": "NEO-INV-0057"
+},
+{
+"from": "NEO-GAD-0089",
+"kind": "personaggio",
+"to": "NEO-PER-0008"
+},
+{
+"from": "NEO-GAD-0089",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-GAD-0090",
+"kind": "invenzione",
+"to": "NEO-INV-0057"
+},
+{
+"from": "NEO-GAD-0090",
+"kind": "personaggio",
+"to": "NEO-PER-0008"
+},
+{
+"from": "NEO-GAD-0090",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-GAD-0091",
+"kind": "invenzione",
+"to": "NEO-INV-0057"
+},
+{
+"from": "NEO-GAD-0091",
+"kind": "personaggio",
+"to": "NEO-PER-0008"
+},
+{
+"from": "NEO-GAD-0091",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-GAD-0092",
+"kind": "invenzione",
+"to": "NEO-INV-0057"
+},
+{
+"from": "NEO-GAD-0092",
+"kind": "personaggio",
+"to": "NEO-PER-0008"
+},
+{
+"from": "NEO-GAD-0092",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
 "from": "STE-GAD-0001",
 "kind": "invenzione",
 "to": "STE-INV-0001"
@@ -8233,6 +8383,66 @@
 "id": "NEO-GAD-0082",
 "tipo": "gadget",
 "titolo": "Il Quaderno di Carta Oleata",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0083",
+"tipo": "gadget",
+"titolo": "Il Corno di Taratura",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0084",
+"tipo": "gadget",
+"titolo": "Il Tubo Corto",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0085",
+"tipo": "gadget",
+"titolo": "La Forcella d'Ascolto",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0086",
+"tipo": "gadget",
+"titolo": "Il Rosario dei Passi",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0087",
+"tipo": "gadget",
+"titolo": "La Tavoletta Muta",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0088",
+"tipo": "gadget",
+"titolo": "Il Doppio Tubo",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0089",
+"tipo": "gadget",
+"titolo": "La Cintura d'Ascolto",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0090",
+"tipo": "gadget",
+"titolo": "Il Filtro di Cera",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0091",
+"tipo": "gadget",
+"titolo": "Il Cono d'Ascolto",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0092",
+"tipo": "gadget",
+"titolo": "L'Auricolare Consumato",
 "universo": "neofeudal"
 },
 {
