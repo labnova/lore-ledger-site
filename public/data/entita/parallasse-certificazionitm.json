@@ -1,0 +1,210 @@
+{
+"aggiornata": "2026-09-16",
+"alias": [],
+"descrizione": "Corporazione che rilascia il Bollino di restauro autorizzato a Vetrasca, validando ogni facciata contro l'archivio delle posizioni orbitali registrato al momento della sua ultima ristrutturazione.",
+"ha_prosa": false,
+"n_ricorrenze": 14,
+"nome": "Parallasse Certificazioni™",
+"prima_apparizione": 78,
+"prosa": null,
+"racconti": [],
+"ricorrenze": [
+{
+"estrazione": 78,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 78,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0050",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Bollino Parallasse"
+},
+{
+"estrazione": 78,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0052",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Chip della Ronda"
+},
+{
+"estrazione": 78,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0053",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Sestante Giocattolo"
+},
+{
+"estrazione": 78,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0055",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Ricevitore Grezzo"
+},
+{
+"estrazione": 78,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0056",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Piombino delle Stelle"
+},
+{
+"estrazione": 78,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0057",
+"riga_tipo": "invenzione",
+"riga_titolo": "L'Alba di Squadra"
+},
+{
+"estrazione": 78,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0058",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Deriva del Meridiano"
+},
+{
+"estrazione": 78,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0059",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Libro che non c'è"
+},
+{
+"estrazione": 78,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0060",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Pietra che Ricorda"
+},
+{
+"estrazione": 78,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0064",
+"riga_tipo": "invenzione",
+"riga_titolo": "L'Estrazione del Meridiano"
+},
+{
+"estrazione": 78,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0065",
+"riga_tipo": "invenzione",
+"riga_titolo": "Le Finestre di Calibrazione"
+},
+{
+"estrazione": 78,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0066",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Lampo di Calibrazione"
+},
+{
+"estrazione": 78,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0068",
+"riga_tipo": "invenzione",
+"riga_titolo": "L'Archivio Rubato"
+}
+],
+"righe": [
+{
+"id": "CYB-INV-0050",
+"tipo": "invenzione",
+"titolo": "Il Bollino Parallasse"
+},
+{
+"id": "CYB-INV-0052",
+"tipo": "invenzione",
+"titolo": "Il Chip della Ronda"
+},
+{
+"id": "CYB-INV-0053",
+"tipo": "invenzione",
+"titolo": "Il Sestante Giocattolo"
+},
+{
+"id": "CYB-INV-0055",
+"tipo": "invenzione",
+"titolo": "Il Ricevitore Grezzo"
+},
+{
+"id": "CYB-INV-0056",
+"tipo": "invenzione",
+"titolo": "Il Piombino delle Stelle"
+},
+{
+"id": "CYB-INV-0057",
+"tipo": "invenzione",
+"titolo": "L'Alba di Squadra"
+},
+{
+"id": "CYB-INV-0058",
+"tipo": "invenzione",
+"titolo": "La Deriva del Meridiano"
+},
+{
+"id": "CYB-INV-0059",
+"tipo": "invenzione",
+"titolo": "Il Libro che non c'è"
+},
+{
+"id": "CYB-INV-0060",
+"tipo": "invenzione",
+"titolo": "La Pietra che Ricorda"
+},
+{
+"id": "CYB-INV-0064",
+"tipo": "invenzione",
+"titolo": "L'Estrazione del Meridiano"
+},
+{
+"id": "CYB-INV-0065",
+"tipo": "invenzione",
+"titolo": "Le Finestre di Calibrazione"
+},
+{
+"id": "CYB-INV-0066",
+"tipo": "invenzione",
+"titolo": "Il Lampo di Calibrazione"
+},
+{
+"id": "CYB-INV-0068",
+"tipo": "invenzione",
+"titolo": "L'Archivio Rubato"
+}
+],
+"slug": "parallasse-certificazionitm",
+"sopra_soglia": true,
+"tipo": "ente",
+"universo": "cyberverse"
+}

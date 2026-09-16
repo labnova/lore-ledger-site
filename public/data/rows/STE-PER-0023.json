@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "omosessuale",
+"situazione": "promesso_per_contratto"
+},
+"appare_in": [],
+"casta": "ingegneri",
+"ceppo": "magiaro",
+"cognome": "Halász",
+"contraddizione": "Da ingegnere che teme il Fiume Secondo più di chiunque altro, si affida ai contratti e alle clausole per tenere a bada la paura, ma il contratto che la promette in matrimonio la stringe allo stesso modo, e non può firmarne uno che le tolga il fiato senza tradire chi ama davvero.",
+"created": "2026-09-16",
+"difetto": "ingenuo",
+"epoca_relativa": 0,
+"estrazione": 80,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "Anikó ha ricalcolato tre volte la piena del fiume segreto pur di non firmare l'atto di promessa, come se un errore nei numeri potesse comprare tempo.",
+"id": "STE-PER-0023",
+"invenzione_id": "STE-INV-0010",
+"media": [],
+"nome": "Anikó",
+"parent_id": null,
+"rapporto": "teme",
+"regione": "STE-REG-ikerviz",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "sagittario",
+"spirituale": {
+"credenza": "culto_degli_antenati",
+"rapporto": "eretico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "silenzioso",
+"universo": "steamverse"
+}

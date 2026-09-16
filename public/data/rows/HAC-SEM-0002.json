@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"cluster": "HAC-INV-0037",
+"created": "2026-09-16",
+"epoca_relativa": 0,
+"estrazione": 79,
+"fatti": [],
+"id": "HAC-SEM-0002",
+"media": [],
+"origine": "arricchimento",
+"ostacolo": "Ragnhild Kvivik ha cancellato dal proprio turno la segnalazione sull'iride che schiarisce di settimana in settimana, e ora, troppo servile per contraddire i superiori che hanno già timbrato quella scansione come pulita, si rifiuta di riaprire l'archivio per Layla.",
+"parent_id": null,
+"premessa": "Layla Rakabazi ha già venduto lo stesso identikit costruito su Rilascio Lento a due acquirenti diversi, sotto due nomi diversi, e vuole rientrare in uno dei due dossier prima che i compratori confrontino le foto e si scoprano a vicenda.",
+"regione": null,
+"relazione": null,
+"rottura": "Nel codice che rileva il rilascio lento del colorante, Dmitri Arrizabal ha lasciato la propria firma leggibile nei changelog interni; basta che uno dei due acquirenti di Layla faccia analizzare l'identikit da chi legge quei log per risalire, nello stesso colpo, sia alla doppia vendita sia a chi ha scritto lo strumento.",
+"schema_version": 1,
+"status": "canon",
+"tipo": "seme",
+"tono": "burocratico, ansioso, luci fredde di frontiera",
+"universi": [
+"hackverse"
+],
+"universo": "hackverse"
+}

@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "bisessuale",
+"situazione": "poliamoroso"
+},
+"appare_in": [],
+"casta": "ingegneri",
+"ceppo": "magiaro",
+"cognome": "Fazekas",
+"contraddizione": "Da giovane ingegnera che usa il Fiume Secondo per dimostrare le sue soluzioni ai capisquadra, il bisogno di essere ammirata la spinge a mostrare i calcoli più arditi invece dei più sicuri, e la vanità la fa correre rischi che il suo lato protettivo vorrebbe evitare per gli apprendisti intorno a lei.",
+"created": "2026-09-16",
+"difetto": "vanitoso",
+"epoca_relativa": 0,
+"estrazione": 80,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Eszter ha proposto di aprire una nuova diramazione del fiume segreto davanti a tutta la gilda, sapendo che i numeri non sono ancora del tutto sicuri.",
+"id": "STE-PER-0027",
+"invenzione_id": "STE-INV-0010",
+"media": [],
+"nome": "Eszter",
+"parent_id": null,
+"rapporto": "usa",
+"regione": "STE-REG-ikerviz",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "ariete",
+"spirituale": {
+"credenza": "ciclo_del_ritorno",
+"rapporto": "funzionario_del_culto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "protettivo",
+"universo": "steamverse"
+}

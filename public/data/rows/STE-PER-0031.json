@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "fidanzato"
+},
+"appare_in": [],
+"casta": "ingegneri",
+"ceppo": "arabo",
+"cognome": "Qassabi",
+"contraddizione": "Da apprendista ingegnere dovrebbe fidarsi dei propri calcoli tanto quanto di quelli del maestro Tariq, ma la sua insicurezza lo spinge a ricontare ogni benedizione che lo osserva scandire, e ha iniziato a notare che la cadenza segue la marea più che la liturgia.",
+"created": "2026-09-16",
+"difetto": "insicuro",
+"epoca_relativa": 0,
+"estrazione": 80,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Yusuf ha smesso di segnare gli errori di calcolo altrui sul suo quaderno, e ha iniziato invece a segnare i tempi delle benedizioni di Tariq.",
+"id": "STE-PER-0031",
+"invenzione_id": "STE-INV-0001",
+"media": [],
+"nome": "Yusuf",
+"parent_id": "STE-PER-0018",
+"rapporto": "studia",
+"regione": "STE-REG-qattoum",
+"relazione": "espansione",
+"ritratto": null,
+"schema_version": 1,
+"segno": "vergine",
+"spirituale": {
+"credenza": "ciclo_del_ritorno",
+"rapporto": "praticante_tiepido"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "meticoloso",
+"universo": "steamverse"
+}

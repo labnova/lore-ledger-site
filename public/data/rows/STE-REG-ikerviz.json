@@ -1,0 +1,21 @@
+{
+"appare_in": [],
+"ceppo_dominante": "magiaro",
+"created": "2026-09-16",
+"epoca_relativa": 0,
+"estrazione": 80,
+"fatti": [],
+"id": "STE-REG-ikerviz",
+"media": [],
+"nome": "Ikervíz",
+"note": "Città posata su un doppio letto fluviale, dove il canale sotterraneo della gilda scorre parallelo al fiume vero portando salamoia refrigerante ai quartieri alti; quasi un cognome su due nasce ancora dal mestiere di chi lo porta.",
+"onomastica": "legata",
+"p_cognome_mestiere": 0.47,
+"parent_id": null,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "regione",
+"universo": "steamverse"
+}

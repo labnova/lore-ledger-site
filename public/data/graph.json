@@ -2301,6 +2301,121 @@
 "to": "STE-REG-qattoum"
 },
 {
+"from": "STE-PER-0021",
+"kind": "invenzione",
+"to": "STE-INV-0010"
+},
+{
+"from": "STE-PER-0021",
+"kind": "regione",
+"to": "STE-REG-ikerviz"
+},
+{
+"from": "STE-PER-0022",
+"kind": "invenzione",
+"to": "STE-INV-0010"
+},
+{
+"from": "STE-PER-0022",
+"kind": "regione",
+"to": "STE-REG-ikerviz"
+},
+{
+"from": "STE-PER-0023",
+"kind": "invenzione",
+"to": "STE-INV-0010"
+},
+{
+"from": "STE-PER-0023",
+"kind": "regione",
+"to": "STE-REG-ikerviz"
+},
+{
+"from": "STE-PER-0024",
+"kind": "invenzione",
+"to": "STE-INV-0010"
+},
+{
+"from": "STE-PER-0024",
+"kind": "regione",
+"to": "STE-REG-ikerviz"
+},
+{
+"from": "STE-PER-0025",
+"kind": "invenzione",
+"to": "STE-INV-0010"
+},
+{
+"from": "STE-PER-0025",
+"kind": "regione",
+"to": "STE-REG-ikerviz"
+},
+{
+"from": "STE-PER-0026",
+"kind": "invenzione",
+"to": "STE-INV-0010"
+},
+{
+"from": "STE-PER-0026",
+"kind": "regione",
+"to": "STE-REG-ikerviz"
+},
+{
+"from": "STE-PER-0027",
+"kind": "invenzione",
+"to": "STE-INV-0010"
+},
+{
+"from": "STE-PER-0027",
+"kind": "regione",
+"to": "STE-REG-ikerviz"
+},
+{
+"from": "STE-PER-0028",
+"kind": "invenzione",
+"to": "STE-INV-0010"
+},
+{
+"from": "STE-PER-0028",
+"kind": "regione",
+"to": "STE-REG-ikerviz"
+},
+{
+"from": "STE-PER-0029",
+"kind": "invenzione",
+"to": "STE-INV-0010"
+},
+{
+"from": "STE-PER-0029",
+"kind": "regione",
+"to": "STE-REG-ikerviz"
+},
+{
+"from": "STE-PER-0030",
+"kind": "invenzione",
+"to": "STE-INV-0010"
+},
+{
+"from": "STE-PER-0030",
+"kind": "regione",
+"to": "STE-REG-ikerviz"
+},
+{
+"from": "STE-PER-0018",
+"kind": "parent",
+"to": "STE-PER-0031"
+},
+{
+"from": "STE-PER-0031",
+"kind": "invenzione",
+"to": "STE-INV-0001"
+},
+{
+"from": "STE-PER-0031",
+"kind": "regione",
+"to": "STE-REG-qattoum"
+},
+{
 "from": "CYB-GAD-0001",
 "kind": "invenzione",
 "to": "CYB-INV-0013"
@@ -4754,6 +4869,11 @@
 "from": "HAC-SEM-0001",
 "kind": "cluster",
 "to": "HAC-INV-0001"
+},
+{
+"from": "HAC-SEM-0002",
+"kind": "cluster",
+"to": "HAC-INV-0037"
 },
 {
 "from": "NEO-SEM-0001",
@@ -7606,6 +7726,12 @@
 "universo": "hackverse"
 },
 {
+"id": "HAC-SEM-0002",
+"tipo": "seme",
+"titolo": "seme HAC-INV-0037",
+"universo": "hackverse"
+},
+{
 "id": "NEO-CON-0001",
 "tipo": "contenuto",
 "titolo": "Come nasce una che non ci crede: il making-of di Nina Szabó",
@@ -9448,9 +9574,81 @@
 "universo": "steamverse"
 },
 {
+"id": "STE-PER-0021",
+"tipo": "personaggio",
+"titolo": "Imre Tathy",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0022",
+"tipo": "personaggio",
+"titolo": "Miklós Szacs",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0023",
+"tipo": "personaggio",
+"titolo": "Anikó Halász",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0024",
+"tipo": "personaggio",
+"titolo": "Réka Talyi",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0025",
+"tipo": "personaggio",
+"titolo": "Zoltán Molnár",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0026",
+"tipo": "personaggio",
+"titolo": "Bjørn Sandvivik",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0027",
+"tipo": "personaggio",
+"titolo": "Eszter Fazekas",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0028",
+"tipo": "personaggio",
+"titolo": "Sándor Kovács",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0029",
+"tipo": "personaggio",
+"titolo": "Emil Nystrand",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0030",
+"tipo": "personaggio",
+"titolo": "Marek Rain",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0031",
+"tipo": "personaggio",
+"titolo": "Yusuf Qassabi",
+"universo": "steamverse"
+},
+{
 "id": "STE-REG-cancello-del-freddo",
 "tipo": "regione",
 "titolo": "Ledoskol",
+"universo": "steamverse"
+},
+{
+"id": "STE-REG-ikerviz",
+"tipo": "regione",
+"titolo": "Ikervíz",
 "universo": "steamverse"
 },
 {

@@ -1,0 +1,70 @@
+{
+"aggiornata": "2026-09-16",
+"alias": [],
+"descrizione": "Rigattiere di Rostkirche che smercia sestanti orbitali dismessi e Bollini Parallasse contraffatti a chi non può permettersi un restauro certificato.",
+"ha_prosa": false,
+"n_ricorrenze": 4,
+"nome": "Ivo Reinacher",
+"prima_apparizione": 78,
+"prosa": null,
+"racconti": [],
+"ricorrenze": [
+{
+"estrazione": 78,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 78,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0062",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Bollino di Ivo"
+},
+{
+"estrazione": 78,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0063",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Cancellabollino"
+},
+{
+"estrazione": 78,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0068",
+"riga_tipo": "invenzione",
+"riga_titolo": "L'Archivio Rubato"
+}
+],
+"righe": [
+{
+"id": "CYB-INV-0062",
+"tipo": "invenzione",
+"titolo": "Il Bollino di Ivo"
+},
+{
+"id": "CYB-INV-0063",
+"tipo": "invenzione",
+"titolo": "Il Cancellabollino"
+},
+{
+"id": "CYB-INV-0068",
+"tipo": "invenzione",
+"titolo": "L'Archivio Rubato"
+}
+],
+"slug": "ivo-reinacher",
+"sopra_soglia": true,
+"tipo": "attore",
+"universo": "cyberverse"
+}

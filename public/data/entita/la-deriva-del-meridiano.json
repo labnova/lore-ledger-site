@@ -1,0 +1,70 @@
+{
+"aggiornata": "2026-09-16",
+"alias": [],
+"descrizione": "Lo scarto crescente del faro orbitale di riferimento usato da Parallasse Certificazioni™, mai ricalibrato dopo le Faglie Sociali del 3167; ogni misura fatta con lui, dai bollini di restauro agli impianti di localizzazione, eredita lo stesso errore.",
+"ha_prosa": false,
+"n_ricorrenze": 4,
+"nome": "La Deriva del Meridiano",
+"prima_apparizione": 78,
+"prosa": null,
+"racconti": [],
+"ricorrenze": [
+{
+"estrazione": 78,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 78,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0058",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Deriva del Meridiano"
+},
+{
+"estrazione": 78,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0060",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Pietra che Ricorda"
+},
+{
+"estrazione": 78,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0069",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Segnale che non Dorme"
+}
+],
+"righe": [
+{
+"id": "CYB-INV-0058",
+"tipo": "invenzione",
+"titolo": "La Deriva del Meridiano"
+},
+{
+"id": "CYB-INV-0060",
+"tipo": "invenzione",
+"titolo": "La Pietra che Ricorda"
+},
+{
+"id": "CYB-INV-0069",
+"tipo": "invenzione",
+"titolo": "Il Segnale che non Dorme"
+}
+],
+"slug": "la-deriva-del-meridiano",
+"sopra_soglia": true,
+"tipo": "anomalia",
+"universo": "cyberverse"
+}

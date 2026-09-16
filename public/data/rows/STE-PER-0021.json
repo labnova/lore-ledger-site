@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "bisessuale",
+"situazione": "poliamoroso"
+},
+"appare_in": [],
+"casta": "ingegneri",
+"ceppo": "magiaro",
+"cognome": "Tathy",
+"contraddizione": "Da ingegnere della gilda deve misurare ogni piena del Fiume Secondo al minuto, ma la sua distrazione crudele gli fa dimenticare turni e nomi degli apprendisti che manda a controllare i pozzi più pericolosi.",
+"created": "2026-09-16",
+"difetto": "crudele_per_distrazione",
+"epoca_relativa": 0,
+"estrazione": 80,
+"eta_fascia": "anziano",
+"fatti": [],
+"gancio": "Imre tiene un taccuino dei livelli dell'acqua più preciso di chiunque altro, ma non ricorda mai chi ha mandato a leggerli.",
+"id": "STE-PER-0021",
+"invenzione_id": "STE-INV-0010",
+"media": [],
+"nome": "Imre",
+"parent_id": null,
+"rapporto": "studia",
+"regione": "STE-REG-ikerviz",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "scorpione",
+"spirituale": {
+"credenza": "il_crollo_come_giudizio",
+"rapporto": "indifferente"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "generoso",
+"universo": "steamverse"
+}

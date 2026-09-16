@@ -1422,6 +1422,130 @@
 },
 {
 "chiusa_il": null,
+"creata": "2026-09-16T06:55:02Z",
+"esito": null,
+"id": "BAC-35065907985-1",
+"payload": {
+"bozza": "Wide view drawn as an 1880s illustrated-newspaper engraving: ink on yellowed paper, high horizon, cross-hatched sky, small figures at work, one brass accent. Subject: Lyudmila Krawiec — aeronauti — anziano — ospitale. Inchiostro seppia e nero su carta ingiallita; accento unico in ottone caldo per il pezzo che conta. Tavola tecnica da manuale d'ingegneria del 1880: linee di contorno pulite, tratteggio incrociato per le ombre, sezioni numerate con richiami (1, 2, 3…) collegati da linee sottili a una legenda a margine. simple black line illustration --ar 4:3 --no neon, plastic, coloured glass, polished chrome, saturated blue sky, decorative gears, aviator goggles, corsets, top hats, illegible lettering, watermark",
+"chiave": "m1",
+"contesto": "id: STE-PER-0004\ntipo: personaggio\nuniverso: steamverse\nestrazione: 20\ncreated: '2026-09-13'\nparent_id: null\nrelazione: null\nepoca_relativa: 0\nregione: Ledoskol\nstatus: canon\nschema_version: 1\nnome: Lyudmila\ncognome: Krawiec\nceppo: slavo\ncasta: aeronauti\ninvenzione_id: STE-INV-0012\nrapporto: costruita\neta_fascia: anziano\nsegno: scorpione\ntratto: ospitale\ndifetto: collerico\naffettivo:\n  orientamento: pansessuale\n  situazione: vedovo\nspirituale:\n  rapporto: indifferente\n  credenza: nessun_dio_solo_registri",
+"manifest": {
+"caricato_il": null,
+"creato": "2026-09-16",
+"id": "MED-35065907985-1",
+"note": "oggetto: Lyudmila Krawiec; gancio: Ha costruito lei il telaio che regge il Barometro delle Cantine nella gondola di comando; da vedova, dice che è l'unica cosa che le resta da tenere in equilibrio.; contraddizione: Accoglie ogni recluta a bordo con caffè caldo e più coperte del dovuto, ma la stessa ospitalità si spegne in un attimo se qualcuno tocca i suoi strumenti, e l'ultimo apprendista è sceso a terra in anticipo per questo.; sref non fissato",
+"parametri": {
+"ar": "4:3",
+"atomi": [
+"ATM-35059284514-26"
+],
+"cref": null,
+"sref": null
+},
+"prompt": "Wide view drawn as an 1880s illustrated-newspaper engraving: ink on yellowed paper, high horizon, cross-hatched sky, small figures at work, one brass accent. Subject: Lyudmila Krawiec — aeronauti — anziano — ospitale. Inchiostro seppia e nero su carta ingiallita; accento unico in ottone caldo per il pezzo che conta. Tavola tecnica da manuale d'ingegneria del 1880: linee di contorno pulite, tratteggio incrociato per le ombre, sezioni numerate con richiami (1, 2, 3…) collegati da linee sottili a una legenda a margine. simple black line illustration --ar 4:3 --no neon, plastic, coloured glass, polished chrome, saturated blue sky, decorative gears, aviator goggles, corsets, top hats, illegible lettering, watermark",
+"sha256": null,
+"sorgente": {
+"ref": "STE-PER-0004",
+"tipo": "riga"
+},
+"stato": "proposto",
+"strumento": "midjourney",
+"tipo": "scena",
+"universo": "steamverse",
+"url": null
+},
+"strumento": "midjourney",
+"tipo": "scena"
+},
+"postata_da": "media-random",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"STE-PER-0004"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "media-random",
+"da": "media-random",
+"quando": "2026-09-16T06:55:02Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_tavola",
+"universi": [
+"steamverse"
+]
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-16T06:55:02Z",
+"esito": null,
+"id": "BAC-35065907985-2",
+"payload": {
+"bozza": "Numbered technical plate from an 1880s engineering manual: ink on yellowed paper, exploded or sectioned view with callout numbers linked by thin lines to a margin legend, one brass accent on the working part, label with illegible product code. Subject: Il Quaderno delle Letture Sporche — Taccuino di carta grezza dove, sotto le letture ufficiali del Barometro, compaiono piccoli disegni di chiatte. — carried by Zaid lo tiene cucito nella fodera della giacca, mai negli zaini regolamentari degli aeronauti.. Inchiostro seppia e nero su carta ingiallita; accento unico in ottone caldo per il pezzo che conta. Tavola tecnica da manuale d'ingegneria del 1880: linee di contorno pulite, tratteggio incrociato per le ombre, sezioni numerate con richiami (1, 2, 3…) collegati da linee sottili a una legenda a margine. black line around the image, aspect ratio 16:9, high resolution, UHD --ar 4:3 --no neon, plastic, coloured glass, polished chrome, saturated blue sky, decorative gears, aviator goggles, corsets, top hats, illegible lettering, watermark",
+"chiave": "m2",
+"contesto": "id: STE-GAD-0005\ntipo: gadget\nuniverso: steamverse\nestrazione: 21\ncreated: '2026-09-13'\nparent_id: null\nrelazione: null\nepoca_relativa: 0\nregione: Ledoskol\nstatus: canon\nschema_version: 1\ninvenzione_id: STE-INV-0001\npersonaggio_id: STE-PER-0005\nnome: Il Quaderno delle Letture Sporche\ncosa: Taccuino di carta grezza dove, sotto le letture ufficiali del Barometro, compaiono piccoli disegni di chiatte.\nchi_lo_porta: Zaid lo tiene cucito nella fodera della giacca, mai negli zaini regolamentari degli aeronauti.\ntradimento_tech: Ogni disegno di chiatta corrisponde in realtà a una lettura falsificata, un diario cifrato delle volte in cui ha coperto il passaggio delle Barche Bianche.\nprod: false",
+"manifest": {
+"caricato_il": null,
+"creato": "2026-09-16",
+"id": "MED-35065907985-2",
+"note": "oggetto: Il Quaderno delle Letture Sporche; gancio: Se qualcuno contasse i disegni e li confrontasse con il registro ufficiale, scoprirebbe che combaciano esattamente con gli errori del Barometro.; tradimento_tech: Ogni disegno di chiatta corrisponde in realtà a una lettura falsificata, un diario cifrato delle volte in cui ha coperto il passaggio delle Barche Bianche.; sref non fissato; variante medium",
+"parametri": {
+"ar": "4:3",
+"atomi": [
+"ATM-35059284514-2",
+"ATM-34809499246-21",
+"ATM-34809499246-20"
+],
+"cref": null,
+"sref": null
+},
+"prompt": "Numbered technical plate from an 1880s engineering manual: ink on yellowed paper, exploded or sectioned view with callout numbers linked by thin lines to a margin legend, one brass accent on the working part, label with illegible product code. Subject: Il Quaderno delle Letture Sporche — Taccuino di carta grezza dove, sotto le letture ufficiali del Barometro, compaiono piccoli disegni di chiatte. — carried by Zaid lo tiene cucito nella fodera della giacca, mai negli zaini regolamentari degli aeronauti.. Inchiostro seppia e nero su carta ingiallita; accento unico in ottone caldo per il pezzo che conta. Tavola tecnica da manuale d'ingegneria del 1880: linee di contorno pulite, tratteggio incrociato per le ombre, sezioni numerate con richiami (1, 2, 3…) collegati da linee sottili a una legenda a margine. black line around the image, aspect ratio 16:9, high resolution, UHD --ar 4:3 --no neon, plastic, coloured glass, polished chrome, saturated blue sky, decorative gears, aviator goggles, corsets, top hats, illegible lettering, watermark",
+"sha256": null,
+"sorgente": {
+"ref": "STE-GAD-0005",
+"tipo": "riga"
+},
+"stato": "proposto",
+"strumento": "midjourney",
+"tipo": "tavola",
+"universo": "steamverse",
+"url": null
+},
+"strumento": "midjourney",
+"tipo": "tavola"
+},
+"postata_da": "media-random",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"STE-GAD-0005"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "media-random",
+"da": "media-random",
+"quando": "2026-09-16T06:55:02Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_tavola",
+"universi": [
+"steamverse"
+]
+},
+{
+"chiusa_il": null,
 "creata": "2026-09-15T23:21:24Z",
 "esito": null,
 "id": "BAC-35034876036-2",

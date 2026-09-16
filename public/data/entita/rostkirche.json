@@ -5,7 +5,7 @@
 ],
 "descrizione": "Accampamento di nomadi urbani cresciuto attorno a uno snodo ferroviario dismesso ai margini del distretto trapianti; i cognomi restano legati ai mestieri di chi ci transitava prima del collasso della linea, e se ne guadagna uno nuovo solo restando abbastanza a lungo.",
 "ha_prosa": false,
-"n_ricorrenze": 46,
+"n_ricorrenze": 54,
 "nome": "Rostkirche",
 "prima_apparizione": 16,
 "prosa": null,
@@ -424,6 +424,78 @@
 "riga_id": "CYB-PER-0012",
 "riga_tipo": "personaggio",
 "riga_titolo": "Ilse Kranzler"
+},
+{
+"estrazione": 78,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 78,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0052",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Chip della Ronda"
+},
+{
+"estrazione": 78,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0055",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Ricevitore Grezzo"
+},
+{
+"estrazione": 78,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0056",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Piombino delle Stelle"
+},
+{
+"estrazione": 78,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0059",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Libro che non c'è"
+},
+{
+"estrazione": 78,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0062",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Bollino di Ivo"
+},
+{
+"estrazione": 78,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0066",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Lampo di Calibrazione"
+},
+{
+"estrazione": 78,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0068",
+"riga_tipo": "invenzione",
+"riga_titolo": "L'Archivio Rubato"
 }
 ],
 "righe": [
@@ -581,6 +653,41 @@
 "id": "CYB-GAD-0030",
 "tipo": "gadget",
 "titolo": "Il Pegno di Fede"
+},
+{
+"id": "CYB-INV-0052",
+"tipo": "invenzione",
+"titolo": "Il Chip della Ronda"
+},
+{
+"id": "CYB-INV-0055",
+"tipo": "invenzione",
+"titolo": "Il Ricevitore Grezzo"
+},
+{
+"id": "CYB-INV-0056",
+"tipo": "invenzione",
+"titolo": "Il Piombino delle Stelle"
+},
+{
+"id": "CYB-INV-0059",
+"tipo": "invenzione",
+"titolo": "Il Libro che non c'è"
+},
+{
+"id": "CYB-INV-0062",
+"tipo": "invenzione",
+"titolo": "Il Bollino di Ivo"
+},
+{
+"id": "CYB-INV-0066",
+"tipo": "invenzione",
+"titolo": "Il Lampo di Calibrazione"
+},
+{
+"id": "CYB-INV-0068",
+"tipo": "invenzione",
+"titolo": "L'Archivio Rubato"
 },
 {
 "id": "CYB-PER-0001",

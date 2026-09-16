@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "pansessuale",
+"situazione": "vedovo"
+},
+"appare_in": [],
+"casta": "ingegneri",
+"ceppo": "scandinavo",
+"cognome": "Sandvivik",
+"contraddizione": "Da ingegnere che usa il Fiume Secondo per far scorrere la salamoia dei suoi turni, dovrebbe essere l'ultima parola su cosa è sicuro aprire, ma la sua servilità lo spinge ad aprire ogni chiusa che un superiore gli ordina, anche quando i suoi stessi calcoli gli dicono di aspettare.",
+"created": "2026-09-16",
+"difetto": "servile",
+"epoca_relativa": 0,
+"estrazione": 80,
+"eta_fascia": "adulto",
+"fatti": [],
+"gancio": "Bjørn ha smesso di contare le volte in cui ha aperto una valvola sapendo che non doveva, perché contarle vorrebbe dire ammettere qualcosa a se stesso.",
+"id": "STE-PER-0026",
+"invenzione_id": "STE-INV-0010",
+"media": [],
+"nome": "Bjørn",
+"parent_id": null,
+"rapporto": "usa",
+"regione": "STE-REG-ikerviz",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "capricorno",
+"spirituale": {
+"credenza": "dottrina_del_debito",
+"rapporto": "devoto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ostinato",
+"universo": "steamverse"
+}

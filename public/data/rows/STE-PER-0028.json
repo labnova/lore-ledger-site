@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "promesso_per_contratto"
+},
+"appare_in": [],
+"casta": "ingegneri",
+"ceppo": "magiaro",
+"cognome": "Kovács",
+"contraddizione": "Da ingegnere pragmatico che usa il Fiume Secondo per calcolare margini di sicurezza esatti, applica la stessa freddezza ai tavoli da gioco della gilda, dove scommette sui turni di chiusura delle valvole come se fossero carte, e i debiti che accumula minacciano di costargli l'accesso ai registri.",
+"created": "2026-09-16",
+"difetto": "giocatore",
+"epoca_relativa": 0,
+"estrazione": 80,
+"eta_fascia": "adulto",
+"fatti": [],
+"gancio": "Sándor ha iniziato a scommettere sull'ora esatta della prossima piena del fiume segreto, e finora ha sempre vinto.",
+"id": "STE-PER-0028",
+"invenzione_id": "STE-INV-0010",
+"media": [],
+"nome": "Sándor",
+"parent_id": null,
+"rapporto": "usa",
+"regione": "STE-REG-ikerviz",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "leone",
+"spirituale": {
+"credenza": "il_cielo_amministrato",
+"rapporto": "apostata"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "pragmatico",
+"universo": "steamverse"
+}
