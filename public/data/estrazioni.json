@@ -4296,5 +4296,73 @@
 "CYB-INV-0097"
 ],
 "universo": "cyberverse"
+},
+{
+"campi_forzati": [],
+"chiavi": {
+"campi_completati": {
+"STE-PER-0032": [
+"affettivo"
+]
+},
+"madri": [
+"STE-PER-0032"
+]
+},
+"created": "2026-09-17",
+"esito": "ok",
+"estrazione": 106,
+"forzata": false,
+"lotto": "lotto-completamento",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"STE-PER-0034"
+],
+"universo": "steamverse"
+},
+{
+"ambientazione": "omaggio-cross-universe",
+"campi_forzati": [],
+"canone_pescato": [
+"HAC-INV-0007",
+"HAC-PER-0036"
+],
+"chiavi": {
+"invenzione_id": "HAC-INV-0007",
+"n_prod": 3,
+"personaggio_id": "HAC-PER-0036",
+"universo": "hackverse"
+},
+"created": "2026-09-17",
+"esito": "ok",
+"espansioni": [
+"HAC-INV-0075",
+"HAC-PER-0044"
+],
+"estrazione": 107,
+"estrazione_madre": 6,
+"forzata": false,
+"lotto": "lotto-gadget",
+"modello": "claude-sonnet-5",
+"prod": [
+"HAC-GAD-0003",
+"HAC-GAD-0008",
+"HAC-GAD-0009"
+],
+"righe_prodotte": [
+"HAC-GAD-0003",
+"HAC-GAD-0004",
+"HAC-GAD-0005",
+"HAC-GAD-0006",
+"HAC-GAD-0007",
+"HAC-GAD-0008",
+"HAC-GAD-0009",
+"HAC-GAD-0010",
+"HAC-GAD-0011",
+"HAC-GAD-0012",
+"HAC-INV-0075",
+"HAC-PER-0044"
+],
+"universo": "hackverse"
 }
 ]

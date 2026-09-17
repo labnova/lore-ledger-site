@@ -281,6 +281,11 @@
 "to": "HAC-INV-0074"
 },
 {
+"from": "HAC-INV-0033",
+"kind": "parent",
+"to": "HAC-INV-0075"
+},
+{
 "from": "NEO-INV-0001",
 "kind": "regione",
 "to": "NEO-REG-calvenna"
@@ -1751,6 +1756,21 @@
 "to": "HAC-REG-tallinn"
 },
 {
+"from": "HAC-PER-0013",
+"kind": "parent",
+"to": "HAC-PER-0044"
+},
+{
+"from": "HAC-PER-0044",
+"kind": "invenzione",
+"to": "HAC-INV-0001"
+},
+{
+"from": "HAC-PER-0044",
+"kind": "regione",
+"to": "HAC-REG-rotterdam"
+},
+{
 "from": "NEO-PER-0001",
 "kind": "invenzione",
 "to": "NEO-INV-0009"
@@ -2979,6 +2999,21 @@
 "from": "STE-PER-0033",
 "kind": "regione",
 "to": "STE-REG-qattoum"
+},
+{
+"from": "STE-PER-0032",
+"kind": "parent",
+"to": "STE-PER-0034"
+},
+{
+"from": "STE-PER-0034",
+"kind": "invenzione",
+"to": "STE-INV-0010"
+},
+{
+"from": "STE-PER-0034",
+"kind": "regione",
+"to": "STE-REG-ikerviz"
 },
 {
 "from": "CYB-GAD-0001",
@@ -4224,6 +4259,156 @@
 "from": "HAC-GAD-0002",
 "kind": "regione",
 "to": "HAC-REG-tallinn"
+},
+{
+"from": "HAC-GAD-0003",
+"kind": "invenzione",
+"to": "HAC-INV-0007"
+},
+{
+"from": "HAC-GAD-0003",
+"kind": "personaggio",
+"to": "HAC-PER-0036"
+},
+{
+"from": "HAC-GAD-0003",
+"kind": "regione",
+"to": "HAC-REG-singapore"
+},
+{
+"from": "HAC-GAD-0004",
+"kind": "invenzione",
+"to": "HAC-INV-0007"
+},
+{
+"from": "HAC-GAD-0004",
+"kind": "personaggio",
+"to": "HAC-PER-0036"
+},
+{
+"from": "HAC-GAD-0004",
+"kind": "regione",
+"to": "HAC-REG-singapore"
+},
+{
+"from": "HAC-GAD-0005",
+"kind": "invenzione",
+"to": "HAC-INV-0007"
+},
+{
+"from": "HAC-GAD-0005",
+"kind": "personaggio",
+"to": "HAC-PER-0036"
+},
+{
+"from": "HAC-GAD-0005",
+"kind": "regione",
+"to": "HAC-REG-singapore"
+},
+{
+"from": "HAC-GAD-0006",
+"kind": "invenzione",
+"to": "HAC-INV-0007"
+},
+{
+"from": "HAC-GAD-0006",
+"kind": "personaggio",
+"to": "HAC-PER-0036"
+},
+{
+"from": "HAC-GAD-0006",
+"kind": "regione",
+"to": "HAC-REG-singapore"
+},
+{
+"from": "HAC-GAD-0007",
+"kind": "invenzione",
+"to": "HAC-INV-0007"
+},
+{
+"from": "HAC-GAD-0007",
+"kind": "personaggio",
+"to": "HAC-PER-0036"
+},
+{
+"from": "HAC-GAD-0007",
+"kind": "regione",
+"to": "HAC-REG-singapore"
+},
+{
+"from": "HAC-GAD-0008",
+"kind": "invenzione",
+"to": "HAC-INV-0007"
+},
+{
+"from": "HAC-GAD-0008",
+"kind": "personaggio",
+"to": "HAC-PER-0036"
+},
+{
+"from": "HAC-GAD-0008",
+"kind": "regione",
+"to": "HAC-REG-singapore"
+},
+{
+"from": "HAC-GAD-0009",
+"kind": "invenzione",
+"to": "HAC-INV-0007"
+},
+{
+"from": "HAC-GAD-0009",
+"kind": "personaggio",
+"to": "HAC-PER-0036"
+},
+{
+"from": "HAC-GAD-0009",
+"kind": "regione",
+"to": "HAC-REG-singapore"
+},
+{
+"from": "HAC-GAD-0010",
+"kind": "invenzione",
+"to": "HAC-INV-0007"
+},
+{
+"from": "HAC-GAD-0010",
+"kind": "personaggio",
+"to": "HAC-PER-0036"
+},
+{
+"from": "HAC-GAD-0010",
+"kind": "regione",
+"to": "HAC-REG-singapore"
+},
+{
+"from": "HAC-GAD-0011",
+"kind": "invenzione",
+"to": "HAC-INV-0007"
+},
+{
+"from": "HAC-GAD-0011",
+"kind": "personaggio",
+"to": "HAC-PER-0036"
+},
+{
+"from": "HAC-GAD-0011",
+"kind": "regione",
+"to": "HAC-REG-singapore"
+},
+{
+"from": "HAC-GAD-0012",
+"kind": "invenzione",
+"to": "HAC-INV-0007"
+},
+{
+"from": "HAC-GAD-0012",
+"kind": "personaggio",
+"to": "HAC-PER-0036"
+},
+{
+"from": "HAC-GAD-0012",
+"kind": "regione",
+"to": "HAC-REG-singapore"
 },
 {
 "from": "NEO-GAD-0001",
@@ -8967,6 +9152,66 @@
 "universo": "hackverse"
 },
 {
+"id": "HAC-GAD-0003",
+"tipo": "gadget",
+"titolo": "La Pellicola di Prima Generazione",
+"universo": "hackverse"
+},
+{
+"id": "HAC-GAD-0004",
+"tipo": "gadget",
+"titolo": "La Fiala del Doppio Nome",
+"universo": "hackverse"
+},
+{
+"id": "HAC-GAD-0005",
+"tipo": "gadget",
+"titolo": "Il Tarocco del Rigetto",
+"universo": "hackverse"
+},
+{
+"id": "HAC-GAD-0006",
+"tipo": "gadget",
+"titolo": "La Scorta Regalata",
+"universo": "hackverse"
+},
+{
+"id": "HAC-GAD-0007",
+"tipo": "gadget",
+"titolo": "La Pellicola da Cortile",
+"universo": "hackverse"
+},
+{
+"id": "HAC-GAD-0008",
+"tipo": "gadget",
+"titolo": "Il Nastro della Benedizione",
+"universo": "hackverse"
+},
+{
+"id": "HAC-GAD-0009",
+"tipo": "gadget",
+"titolo": "La Matrice a Mano",
+"universo": "hackverse"
+},
+{
+"id": "HAC-GAD-0010",
+"tipo": "gadget",
+"titolo": "Il Gettone di Turno",
+"universo": "hackverse"
+},
+{
+"id": "HAC-GAD-0011",
+"tipo": "gadget",
+"titolo": "Il Lascito del Tecnico",
+"universo": "hackverse"
+},
+{
+"id": "HAC-GAD-0012",
+"tipo": "gadget",
+"titolo": "La Doppia Etichetta",
+"universo": "hackverse"
+},
+{
 "id": "HAC-INV-0001",
 "tipo": "invenzione",
 "titolo": "Goccia Cieca",
@@ -9411,6 +9656,12 @@
 "universo": "hackverse"
 },
 {
+"id": "HAC-INV-0075",
+"tipo": "invenzione",
+"titolo": "Il Tremore che Non Si Falsifica",
+"universo": "hackverse"
+},
+{
 "id": "HAC-PER-0001",
 "tipo": "personaggio",
 "titolo": "Misaki Ikaguchi",
@@ -9666,6 +9917,12 @@
 "id": "HAC-PER-0043",
 "tipo": "personaggio",
 "titolo": "Sigrid Lindqvist",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0044",
+"tipo": "personaggio",
+"titolo": "Zawadi Mwangata",
 "universo": "hackverse"
 },
 {
@@ -12132,6 +12389,12 @@
 "id": "STE-PER-0033",
 "tipo": "personaggio",
 "titolo": "Fatima al-Rashidi",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0034",
+"tipo": "personaggio",
+"titolo": "Tamás Vörös",
 "universo": "steamverse"
 },
 {

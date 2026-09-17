@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-17",
+"discipline": [
+"moda/cosmesi",
+"ottica/lenti"
+],
+"epoca_relativa": 1,
+"estrazione": 107,
+"fatti": [],
+"gancio": "Il laboratorio che ha inventato il test del micro-tremore scopre che il primo cliente a pagarlo per intero è la stessa azienda che vende le lenti stampate.",
+"id": "HAC-INV-0075",
+"media": [],
+"nome": "Il Tremore che Non Si Falsifica",
+"nome_reale": "Protocollo contro-ottico che distingue una lente stampata da un occhio vivo tramite il micro-tremore pupillare",
+"parent_id": "HAC-INV-0033",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il protocollo nato per smascherare le lenti stampate che imitano un occhio vivo viene comprato dai marchi cosmetici per certificare come \"vivo\" il colore delle lenti a contatto di lusso, autenticando esattamente il tipo di falso che avrebbe dovuto scoprire.",
+"universo": "hackverse"
+}

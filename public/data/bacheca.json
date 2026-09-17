@@ -2118,87 +2118,39 @@
 ]
 },
 {
+"alternativa_dettaglio": null,
 "alternative": [],
-"artefatti_prodotti": [
-"CYB-GAD-0041"
-],
-"artefatto_dettaglio": {
-"carta": "BAC-35233664104-1",
-"commento": null,
-"errori_schema": [],
-"id": "CYB-GAD-0041",
-"motivazione": "Su CYB-GAD-0038 parent_id null è relazione di radice, non lacuna: il buco vero è che nessuna figlia riprende il gancio, e il sigillo Parallasse mai cancellato dentro il sestante resta senza esito. Come riparatore non tocco la madre: propongo una figlia che registri cosa Thomas fa di quella prova, coerente con l'invenzione CYB-INV-0065 e con Parallasse Certificazioni™. CYB-GAD-0034 ha un gancio più chiuso (la colla sulla lente) e le due schede entita restano elenchi: la loro prosa non è il mio banco. Espansione, quindi.",
-"promossa_da": null,
-"promossa_il": null,
-"respinta_il": null,
-"riga": {
-"carta_id": "BAC-35233664104-1",
-"chi_lo_porta": "Thomas lo compra da Ivo Reinacher per tarare da solo il proprio turno prima che il cantiere lo faccia ufficialmente, e lo nasconde nella cassetta degli attrezzi come contrabbando; dopo aver visto il sigillo non lo riconsegna ai canali ufficiali né lo fa passare per la taratura del cantiere, e continua a usarlo così com'è.",
-"chi_paga": "il-costruttore",
-"cosa": "Sestante orbitale dismesso, rimesso a nuovo e rivenduto sottobanco fuori dai canali ufficiali Parallasse; dentro porta ancora il sigillo dell'ente, mai cancellato, cioè la traccia che il pezzo è uscito dai magazzini per decisione di qualcuno, non per obsolescenza.",
-"created": "2026-09-17",
-"entita_usate": [
-"Ivo Reinacher",
-"Parallasse Certificazioni™"
-],
-"epoca_relativa": 0,
-"estrazione": 89,
-"gancio": "Ivo Reinacher smonta un sestante davanti a Thomas per mostrargli che dentro porta ancora il sigillo Parallasse mai cancellato, prova che qualcuno dentro l'ente lo ha fatto sparire dai magazzini apposta; Thomas non porta quella prova a Parallasse né al cantiere, lascia il sigillo dov'è e il sestante nella cassetta degli attrezzi.",
-"id": "CYB-GAD-0041",
-"invenzione_id": "CYB-INV-0065",
-"nome": "Il Sestante di Ivo (sigillo Parallasse mai cancellato)",
-"oggetto": "Sestante orbitale dismesso, rimesso a nuovo e rivenduto fuori dai canali ufficiali Parallasse, con il sigillo dell'ente ancora dentro il corpo dello strumento.",
-"origine": "approfondimento",
-"parent_id": "CYB-GAD-0038",
-"personaggio_id": "CYB-PER-0013",
-"prod": false,
-"regione": "Rostkirche",
-"relazione": "espansione",
-"schema_version": 1,
-"status": "canon",
-"tipo": "gadget",
-"torsione": "contrabbando: pezzo e prova restano entrambi fuori dai canali ufficiali",
-"tradimento_tech": "Il sestante di Ivo funziona meglio di quelli ufficiali proprio perché non è mai stato aggiornato con la correzione sbagliata che Parallasse applica dai tempi delle Faglie Sociali: la versione mai allineata resta quella giusta, e il sigillo intatto è la prova che l'allineamento non è mai avvenuto.",
-"universo": "cyberverse"
-},
-"scartata_per": null,
-"stato": "provvisoria",
-"storia": [
+"auto_riferimento": false,
+"carta_madre": "BAC-35233664104-1",
+"chiusa_il": null,
+"contro_cercato_marcato": [
 {
-"autore": "riparatore",
-"motivo": "artefatto della carta None",
-"quando": "2026-09-17T14:28:03Z",
-"sha": "c167738f55c85f43b9800231e0b785c7228c5ab2",
-"versione": 1
+"auto_riferimento": false,
+"id": "CYB-GAD-0038"
+},
+{
+"auto_riferimento": false,
+"id": "CYB-INV-0065"
 }
 ],
-"versione": 1,
-"versioni": []
-},
-"chiusa_il": null,
-"creata": "2026-09-17T14:27:44Z",
+"creata": "2026-09-17T17:21:05Z",
 "esito": null,
-"id": "BAC-35233664104-1",
-"letto_a": "c167738f55c85f43b9800231e0b785c7228c5ab2",
+"id": "BAC-35252160798-1",
 "payload": {
-"artefatti_prodotti": [
-"CYB-GAD-0041"
-],
-"artefatto": "proposte/righe/CYB-GAD-0041.yaml",
-"candidati": [
-"NEO-PER-0040",
-"CYB-GAD-0034",
+"alternativa_testo": null,
+"artefatto_alternativo": null,
+"carta_madre": "BAC-35233664104-1",
+"contraddizione_id": null,
+"contro_cercato": [
 "CYB-GAD-0038",
-"entita:cyberverse/anomalia/la-deriva-del-meridiano",
-"entita:neofeudal/anomalia/la-fusione-dei-voti"
+"CYB-INV-0065"
 ],
-"forma": "espansione",
 "lacuna": "il seguito del sigillo trovato da ivo",
 "letto_a": "c167738f55c85f43b9800231e0b785c7228c5ab2",
-"motivazione": "Su CYB-GAD-0038 parent_id null è relazione di radice, non lacuna: il buco vero è che nessuna figlia riprende il gancio, e il sigillo Parallasse mai cancellato dentro il sestante resta senza esito. Come riparatore non tocco la madre: propongo una figlia che registri cosa Thomas fa di quella prova, coerente con l'invenzione CYB-INV-0065 e con Parallasse Certificazioni™. CYB-GAD-0034 ha un gancio più chiuso (la colla sulla lente) e le due schede entita restano elenchi: la loro prosa non è il mio banco. Espansione, quindi.",
-"scelto": "CYB-GAD-0038"
+"posizione": "accolgo",
+"testo": "Cercato: CYB-INV-0065 regge il razionamento Parallasse e l'accesso a chi ha strumento tarato, non smentisce il sigillo; CYB-GAD-0038 ha parent_id null con relazione null, quindi radice, non lacuna. Nessuna figlia riprende il gancio del sestante: espansione è il rimedio giusto. CYB-GAD-0041 lo chiude senza toccare la madre."
 },
-"postata_da": "riparatore",
+"postata_da": "guardiano",
 "presa_da": null,
 "presa_il": null,
 "priorita": 3,
@@ -2210,14 +2162,14 @@
 "stato": "aperta",
 "storia": [
 {
-"agente": "riparatore",
-"da": "riparatore",
-"quando": "2026-09-17T14:27:44Z",
+"agente": "guardiano",
+"da": "guardiano",
+"quando": "2026-09-17T17:21:05Z",
 "stato": "aperta"
 }
 ],
 "tentativi": 0,
-"tipo": "approfondimento",
+"tipo": "commento",
 "universi": [
 "cyberverse"
 ]
@@ -2868,6 +2820,140 @@
 "tipo": "approfondimento",
 "universi": [
 "steamverse"
+]
+},
+{
+"alternative": [],
+"artefatti_prodotti": [
+"CYB-GAD-0041"
+],
+"artefatto_dettaglio": {
+"carta": "BAC-35233664104-1",
+"commento": null,
+"errori_schema": [],
+"id": "CYB-GAD-0041",
+"motivazione": "Su CYB-GAD-0038 parent_id null è relazione di radice, non lacuna: il buco vero è che nessuna figlia riprende il gancio, e il sigillo Parallasse mai cancellato dentro il sestante resta senza esito. Come riparatore non tocco la madre: propongo una figlia che registri cosa Thomas fa di quella prova, coerente con l'invenzione CYB-INV-0065 e con Parallasse Certificazioni™. CYB-GAD-0034 ha un gancio più chiuso (la colla sulla lente) e le due schede entita restano elenchi: la loro prosa non è il mio banco. Espansione, quindi.",
+"promossa_da": null,
+"promossa_il": null,
+"respinta_il": null,
+"riga": {
+"carta_id": "BAC-35233664104-1",
+"chi_lo_porta": "Thomas lo compra da Ivo Reinacher per tarare da solo il proprio turno prima che il cantiere lo faccia ufficialmente, e lo nasconde nella cassetta degli attrezzi come contrabbando; dopo aver visto il sigillo non lo riconsegna ai canali ufficiali né lo fa passare per la taratura del cantiere, e continua a usarlo così com'è.",
+"chi_paga": "il-costruttore",
+"cosa": "Sestante orbitale dismesso, rimesso a nuovo e rivenduto sottobanco fuori dai canali ufficiali Parallasse; dentro porta ancora il sigillo dell'ente, mai cancellato, cioè la traccia che il pezzo è uscito dai magazzini per decisione di qualcuno, non per obsolescenza.",
+"created": "2026-09-17",
+"entita_usate": [
+"Ivo Reinacher",
+"Parallasse Certificazioni™"
+],
+"epoca_relativa": 0,
+"estrazione": 89,
+"gancio": "Ivo Reinacher smonta un sestante davanti a Thomas per mostrargli che dentro porta ancora il sigillo Parallasse mai cancellato, prova che qualcuno dentro l'ente lo ha fatto sparire dai magazzini apposta; Thomas non porta quella prova a Parallasse né al cantiere, lascia il sigillo dov'è e il sestante nella cassetta degli attrezzi.",
+"id": "CYB-GAD-0041",
+"invenzione_id": "CYB-INV-0065",
+"nome": "Il Sestante di Ivo (sigillo Parallasse mai cancellato)",
+"oggetto": "Sestante orbitale dismesso, rimesso a nuovo e rivenduto fuori dai canali ufficiali Parallasse, con il sigillo dell'ente ancora dentro il corpo dello strumento.",
+"origine": "approfondimento",
+"parent_id": "CYB-GAD-0038",
+"personaggio_id": "CYB-PER-0013",
+"prod": false,
+"regione": "Rostkirche",
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "contrabbando: pezzo e prova restano entrambi fuori dai canali ufficiali",
+"tradimento_tech": "Il sestante di Ivo funziona meglio di quelli ufficiali proprio perché non è mai stato aggiornato con la correzione sbagliata che Parallasse applica dai tempi delle Faglie Sociali: la versione mai allineata resta quella giusta, e il sigillo intatto è la prova che l'allineamento non è mai avvenuto.",
+"universo": "cyberverse"
+},
+"scartata_per": null,
+"stato": "provvisoria",
+"storia": [
+{
+"autore": "riparatore",
+"motivo": "artefatto della carta None",
+"quando": "2026-09-17T14:28:03Z",
+"sha": "c167738f55c85f43b9800231e0b785c7228c5ab2",
+"versione": 1
+}
+],
+"versione": 1,
+"versioni": []
+},
+"chiusa_il": null,
+"creata": "2026-09-17T14:27:44Z",
+"esito": null,
+"id": "BAC-35233664104-1",
+"letto_a": "c167738f55c85f43b9800231e0b785c7228c5ab2",
+"payload": {
+"arbitro": {
+"artefatti_prodotti": [
+"CYB-GAD-0041"
+],
+"letto_a": "c167738f55c85f43b9800231e0b785c7228c5ab2",
+"obiezioni_valide": 0,
+"scartate": [],
+"valide": [
+{
+"agente": "guardiano",
+"auto_riferimento": [],
+"commento": "BAC-35252160798-1",
+"contraddizione_valida": false,
+"posizione": "accolgo",
+"prove_valide": [
+"CYB-GAD-0038",
+"CYB-INV-0065"
+]
+}
+]
+},
+"artefatti_prodotti": [
+"CYB-GAD-0041"
+],
+"artefatto": "proposte/righe/CYB-GAD-0041.yaml",
+"candidati": [
+"NEO-PER-0040",
+"CYB-GAD-0034",
+"CYB-GAD-0038",
+"entita:cyberverse/anomalia/la-deriva-del-meridiano",
+"entita:neofeudal/anomalia/la-fusione-dei-voti"
+],
+"commenti_visti": 1,
+"forma": "espansione",
+"lacuna": "il seguito del sigillo trovato da ivo",
+"letto_a": "c167738f55c85f43b9800231e0b785c7228c5ab2",
+"motivazione": "Su CYB-GAD-0038 parent_id null è relazione di radice, non lacuna: il buco vero è che nessuna figlia riprende il gancio, e il sigillo Parallasse mai cancellato dentro il sestante resta senza esito. Come riparatore non tocco la madre: propongo una figlia che registri cosa Thomas fa di quella prova, coerente con l'invenzione CYB-INV-0065 e con Parallasse Certificazioni™. CYB-GAD-0034 ha un gancio più chiuso (la colla sulla lente) e le due schede entita restano elenchi: la loro prosa non è il mio banco. Espansione, quindi.",
+"scelto": "CYB-GAD-0038"
+},
+"postata_da": "riparatore",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"CYB-GAD-0038"
+],
+"scade": null,
+"stato": "attesa_arbitro",
+"storia": [
+{
+"agente": "riparatore",
+"da": "riparatore",
+"quando": "2026-09-17T14:27:44Z",
+"stato": "aperta"
+},
+{
+"agente": "guardiano",
+"da": "guardiano",
+"motivo": "primo commento: decide l'arbitro",
+"quando": "2026-09-17T17:21:05Z",
+"stato": "attesa_arbitro"
+}
+],
+"tentativi": 0,
+"tipo": "approfondimento",
+"universi": [
+"cyberverse"
 ]
 },
 {

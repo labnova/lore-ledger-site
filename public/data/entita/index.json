@@ -204,6 +204,20 @@
 },
 {
 "alias": [
+"STE-REG-ikerviz"
+],
+"descrizione": "Città posata su un doppio letto fluviale, dove il canale sotterraneo della gilda scorre parallelo al fiume vero portando salamoia refrigerante ai quartieri alti; quasi un cognome su due nasce ancora dal mestiere di chi lo porta.",
+"ha_prosa": false,
+"nome": "Ikervíz",
+"prima_apparizione": 80,
+"ricorrenze": 14,
+"slug": "ikerviz",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "steamverse"
+},
+{
+"alias": [
 "NEO-REG-zastavena"
 ],
 "descrizione": "Avamposto oltre il Passo di Vermasca dove i custodi dell'era precedente vivono asserragliati attorno ai relitti del vecchio sistema, tramandando a memoria gli ordini di un sergente che forse non esiste più.",
@@ -218,17 +232,17 @@
 },
 {
 "alias": [
-"STE-REG-ikerviz"
+"CYB-REG-meridiana-alta"
 ],
-"descrizione": "Città posata su un doppio letto fluviale, dove il canale sotterraneo della gilda scorre parallelo al fiume vero portando salamoia refrigerante ai quartieri alti; quasi un cognome su due nasce ancora dal mestiere di chi lo porta.",
+"descrizione": "Enclave corporativa costruita sulla quota più alta della città, fuori dalla portata delle ondate di calore che colpiscono i blocchi popolari sottostanti; il personale arriva per contratto da ogni filiale di Parallasse Certificazioni™ nel mondo, così nessun ceppo prevale e i cognomi restano quelli di partenza più spesso del mestiere svolto qui.",
 "ha_prosa": false,
-"nome": "Ikervíz",
-"prima_apparizione": 80,
-"ricorrenze": 13,
-"slug": "ikerviz",
+"nome": "Meridiana Alta",
+"prima_apparizione": 105,
+"ricorrenze": 12,
+"slug": "meridiana-alta",
 "sopra_soglia": true,
 "tipo": "luogo",
-"universo": "steamverse"
+"universo": "cyberverse"
 },
 {
 "alias": [

@@ -5,7 +5,7 @@
 ],
 "descrizione": "Città posata su un doppio letto fluviale, dove il canale sotterraneo della gilda scorre parallelo al fiume vero portando salamoia refrigerante ai quartieri alti; quasi un cognome su due nasce ancora dal mestiere di chi lo porta.",
 "ha_prosa": false,
-"n_ricorrenze": 13,
+"n_ricorrenze": 14,
 "nome": "Ikervíz",
 "prima_apparizione": 80,
 "prosa": null,
@@ -127,6 +127,15 @@
 "riga_id": "STE-PER-0032",
 "riga_tipo": "personaggio",
 "riga_titolo": "Tamás Vörös"
+},
+{
+"estrazione": 106,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0034",
+"riga_tipo": "personaggio",
+"riga_titolo": "Tamás Vörös"
 }
 ],
 "righe": [
@@ -182,6 +191,11 @@
 },
 {
 "id": "STE-PER-0032",
+"tipo": "personaggio",
+"titolo": "Tamás Vörös"
+},
+{
+"id": "STE-PER-0034",
 "tipo": "personaggio",
 "titolo": "Tamás Vörös"
 },
