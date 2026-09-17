@@ -21,7 +21,7 @@
 "ha_prosa": false,
 "nome": "Rostkirche",
 "prima_apparizione": 16,
-"ricorrenze": 88,
+"ricorrenze": 101,
 "slug": "rostkirche",
 "sopra_soglia": true,
 "tipo": "luogo",
@@ -70,6 +70,18 @@
 "universo": "neofeudal"
 },
 {
+"alias": [],
+"descrizione": "Corporazione che rilascia il Bollino di restauro autorizzato a Vetrasca, validando ogni facciata contro l'archivio delle posizioni orbitali registrato al momento della sua ultima ristrutturazione.",
+"ha_prosa": false,
+"nome": "Parallasse Certificazioni™",
+"prima_apparizione": 78,
+"ricorrenze": 34,
+"slug": "parallasse-certificazionitm",
+"sopra_soglia": true,
+"tipo": "ente",
+"universo": "cyberverse"
+},
+{
 "alias": [
 "STE-REG-cancello-del-freddo",
 "STE-REG-ledoskol"
@@ -97,18 +109,6 @@
 "sopra_soglia": true,
 "tipo": "luogo",
 "universo": "hackverse"
-},
-{
-"alias": [],
-"descrizione": "Corporazione che rilascia il Bollino di restauro autorizzato a Vetrasca, validando ogni facciata contro l'archivio delle posizioni orbitali registrato al momento della sua ultima ristrutturazione.",
-"ha_prosa": false,
-"nome": "Parallasse Certificazioni™",
-"prima_apparizione": 78,
-"ricorrenze": 24,
-"slug": "parallasse-certificazionitm",
-"sopra_soglia": true,
-"tipo": "ente",
-"universo": "cyberverse"
 },
 {
 "alias": [
@@ -246,6 +246,18 @@
 },
 {
 "alias": [],
+"descrizione": "Rigattiere di Rostkirche che smercia sestanti orbitali dismessi e Bollini Parallasse contraffatti a chi non può permettersi un restauro certificato.",
+"ha_prosa": false,
+"nome": "Ivo Reinacher",
+"prima_apparizione": 78,
+"ricorrenze": 11,
+"slug": "ivo-reinacher",
+"sopra_soglia": true,
+"tipo": "attore",
+"universo": "cyberverse"
+},
+{
+"alias": [],
 "descrizione": "Lo scarto crescente del faro orbitale di riferimento usato da Parallasse Certificazioni™, mai ricalibrato dopo le Faglie Sociali del 3167; ogni misura fatta con lui, dai bollini di restauro agli impianti di localizzazione, eredita lo stesso errore.",
 "ha_prosa": false,
 "nome": "La Deriva del Meridiano",
@@ -254,18 +266,6 @@
 "slug": "la-deriva-del-meridiano",
 "sopra_soglia": true,
 "tipo": "anomalia",
-"universo": "cyberverse"
-},
-{
-"alias": [],
-"descrizione": "Rigattiere di Rostkirche che smercia sestanti orbitali dismessi e Bollini Parallasse contraffatti a chi non può permettersi un restauro certificato.",
-"ha_prosa": false,
-"nome": "Ivo Reinacher",
-"prima_apparizione": 78,
-"ricorrenze": 7,
-"slug": "ivo-reinacher",
-"sopra_soglia": true,
-"tipo": "attore",
 "universo": "cyberverse"
 },
 {
@@ -327,5 +327,17 @@
 "sopra_soglia": true,
 "tipo": "anomalia",
 "universo": "neofeudal"
+},
+{
+"alias": [],
+"descrizione": "Piastra da incisione usata da generazioni per stampare tanto il Bollino di Parallasse Certificazioni™ quanto il marchio della gilda dei cappellai di Rostkirche; il rilievo, consumato dall'uso, preme ormai un segno ambiguo che entrambe le autorità rivendicano come proprio.",
+"ha_prosa": false,
+"nome": "La Matrice Consumata",
+"prima_apparizione": 103,
+"ricorrenze": 2,
+"slug": "la-matrice-consumata",
+"sopra_soglia": false,
+"tipo": "anomalia",
+"universo": "cyberverse"
 }
 ]

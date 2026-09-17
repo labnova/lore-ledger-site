@@ -1,0 +1,33 @@
+{
+"affettivo": null,
+"appare_in": [],
+"casta": "corporati",
+"ceppo": "scandinavo",
+"cognome": "Norriström",
+"contraddizione": "È già funzionaria minorenne del culto che legge le stelle come registro, ma usa quell'autorità per vendere sottobanco ai figli del personale patch benedette che promettono di accecare la Sentinella Termica.",
+"created": "2026-09-17",
+"difetto": "rancoroso",
+"epoca_relativa": 0,
+"estrazione": 105,
+"eta_fascia": "bambino",
+"fatti": [],
+"gancio": "Una delle sue patch viene trovata cucita nel colletto di un compagno di scuola, e il padre di lui viene licenziato prima che qualcuno risalga a chi gliel'ha venduta.",
+"id": "CYB-PER-0035",
+"invenzione_id": "CYB-INV-0029",
+"media": [],
+"nome": "Åsa",
+"parent_id": null,
+"rapporto": "vende",
+"regione": "CYB-REG-meridiana-alta",
+"relazione": null,
+"ritratto": null,
+"segno": "scorpione",
+"spirituale": {
+"credenza": "le_stelle_come_registro",
+"rapporto": "funzionario_del_culto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "paziente",
+"universo": "cyberverse"
+}

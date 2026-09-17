@@ -1,9 +1,9 @@
 {
-"aggiornata": "2026-09-16",
+"aggiornata": "2026-09-17",
 "alias": [],
 "descrizione": "Corporazione che rilascia il Bollino di restauro autorizzato a Vetrasca, validando ogni facciata contro l'archivio delle posizioni orbitali registrato al momento della sua ultima ristrutturazione.",
 "ha_prosa": false,
-"n_ricorrenze": 24,
+"n_ricorrenze": 34,
 "nome": "Parallasse Certificazioni™",
 "prima_apparizione": 78,
 "prosa": null,
@@ -224,6 +224,96 @@
 "riga_id": "CYB-GAD-0040",
 "riga_tipo": "gadget",
 "riga_titolo": "Il Bollino Buono"
+},
+{
+"estrazione": 103,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 103,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0077",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Matrice Madre"
+},
+{
+"estrazione": 103,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0079",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Punzone di Scarto"
+},
+{
+"estrazione": 103,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0080",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Cappello che Non Doveva Uscire"
+},
+{
+"estrazione": 103,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0082",
+"riga_tipo": "invenzione",
+"riga_titolo": "I Fumi di Sopra"
+},
+{
+"estrazione": 103,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0085",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Punzone Senza Nome"
+},
+{
+"estrazione": 103,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0087",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Matrice Rubata"
+},
+{
+"estrazione": 103,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0090",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Pressa Troppo Grande"
+},
+{
+"estrazione": 103,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0092",
+"riga_tipo": "invenzione",
+"riga_titolo": "Gli Occhi degli Apprendisti"
+},
+{
+"estrazione": 103,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0093",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Bollino Quasi Vero"
 }
 ],
 "righe": [
@@ -336,6 +426,51 @@
 "id": "CYB-INV-0068",
 "tipo": "invenzione",
 "titolo": "L'Archivio Rubato"
+},
+{
+"id": "CYB-INV-0077",
+"tipo": "invenzione",
+"titolo": "La Matrice Madre"
+},
+{
+"id": "CYB-INV-0079",
+"tipo": "invenzione",
+"titolo": "Il Punzone di Scarto"
+},
+{
+"id": "CYB-INV-0080",
+"tipo": "invenzione",
+"titolo": "Il Cappello che Non Doveva Uscire"
+},
+{
+"id": "CYB-INV-0082",
+"tipo": "invenzione",
+"titolo": "I Fumi di Sopra"
+},
+{
+"id": "CYB-INV-0085",
+"tipo": "invenzione",
+"titolo": "Il Punzone Senza Nome"
+},
+{
+"id": "CYB-INV-0087",
+"tipo": "invenzione",
+"titolo": "La Matrice Rubata"
+},
+{
+"id": "CYB-INV-0090",
+"tipo": "invenzione",
+"titolo": "La Pressa Troppo Grande"
+},
+{
+"id": "CYB-INV-0092",
+"tipo": "invenzione",
+"titolo": "Gli Occhi degli Apprendisti"
+},
+{
+"id": "CYB-INV-0093",
+"tipo": "invenzione",
+"titolo": "Il Bollino Quasi Vero"
 }
 ],
 "slug": "parallasse-certificazionitm",

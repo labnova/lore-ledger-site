@@ -1,0 +1,42 @@
+{
+"aggiornata": "2026-09-17",
+"alias": [],
+"descrizione": "Piastra da incisione usata da generazioni per stampare tanto il Bollino di Parallasse Certificazioni™ quanto il marchio della gilda dei cappellai di Rostkirche; il rilievo, consumato dall'uso, preme ormai un segno ambiguo che entrambe le autorità rivendicano come proprio.",
+"ha_prosa": false,
+"n_ricorrenze": 2,
+"nome": "La Matrice Consumata",
+"prima_apparizione": 103,
+"prosa": null,
+"racconti": [],
+"ricorrenze": [
+{
+"estrazione": 103,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 103,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0078",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Crepa nella Matrice"
+}
+],
+"righe": [
+{
+"id": "CYB-INV-0078",
+"tipo": "invenzione",
+"titolo": "La Crepa nella Matrice"
+}
+],
+"slug": "la-matrice-consumata",
+"sopra_soglia": false,
+"tipo": "anomalia",
+"universo": "cyberverse"
+}

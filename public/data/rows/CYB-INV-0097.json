@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-17",
+"discipline": [
+"moda/cappelleria",
+"tipografia/incisione"
+],
+"epoca_relativa": 1,
+"estrazione": 105,
+"fatti": [],
+"gancio": "Quando un cliente chiede una fattura per un lavoro urgente, il cappellaio si accorge di non avere alcun modo legale di giustificare da dove venga quella macchina, né i soldi che ci sta facendo sopra.",
+"id": "CYB-INV-0097",
+"media": [],
+"nome": "Il Turno del Cappellaio",
+"nome_reale": "Turni di noleggio clandestino della pressa troppo grande, venduti dal cappellaio ai tipografi del distretto trapianti che non possono permettersi una macchina propria",
+"parent_id": "CYB-INV-0090",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il cappellaio smette di aspettare che Parallasse Certificazioni™ si riprenda l'errore e comincia ad affittare turni notturni sulla pressa ai tipografi del distretto trapianti, che ora dipendono da una macchina che ufficialmente non esiste in quella bottega.",
+"universo": "cyberverse"
+}

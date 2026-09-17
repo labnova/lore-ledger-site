@@ -1,0 +1,36 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "vedovo"
+},
+"appare_in": [],
+"casta": "corporati",
+"ceppo": "arabo",
+"cognome": "Bin-lasadad",
+"contraddizione": "Come funzionaria della dottrina del debito crede che falsificare un registro per saldare un debito di vita chiuda comunque il conto, e resta sorda ai colleghi più giovani che la avvertono che un audit interno può ancora scoprirla.",
+"created": "2026-09-17",
+"difetto": "sordo_ai_consigli",
+"epoca_relativa": 0,
+"estrazione": 105,
+"eta_fascia": "anziano",
+"fatti": [],
+"gancio": "Un audit riapre proprio il caso della donna salvata dall'allarme e poi sfrattata, e la traccia del registro alterato risale fino al terminale personale di Mona.",
+"id": "CYB-PER-0037",
+"invenzione_id": "CYB-INV-0029",
+"media": [],
+"nome": "Mona",
+"parent_id": null,
+"rapporto": "falsifica",
+"regione": "CYB-REG-meridiana-alta",
+"relazione": null,
+"ritratto": null,
+"segno": "pesci",
+"spirituale": {
+"credenza": "dottrina_del_debito",
+"rapporto": "funzionario_del_culto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ostinato",
+"universo": "cyberverse"
+}

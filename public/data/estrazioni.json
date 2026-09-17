@@ -4225,5 +4225,76 @@
 "CYB-INV-0094"
 ],
 "universo": "cyberverse"
+},
+{
+"campi_forzati": [],
+"chiavi": {
+"cluster": [
+"HAC-INV-0064"
+]
+},
+"created": "2026-09-17",
+"esito": "ok",
+"estrazione": 104,
+"forzata": false,
+"lotto": "lotto-semi",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"HAC-SEM-0003"
+],
+"universi": [
+"hackverse"
+],
+"universo": "cross"
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"CYB-INV-0029",
+"CYB-INV-0090",
+"CYB-REG-rostkirche"
+],
+"chiavi": {
+"casta": "corporati",
+"invenzione_id": "CYB-INV-0029",
+"personaggi": [
+"CYB-PER-0034",
+"CYB-PER-0035",
+"CYB-PER-0036",
+"CYB-PER-0037",
+"CYB-PER-0038",
+"CYB-PER-0039",
+"CYB-PER-0040",
+"CYB-PER-0041",
+"CYB-PER-0042",
+"CYB-PER-0043"
+],
+"regione": "CYB-REG-meridiana-alta",
+"universo": "cyberverse"
+},
+"created": "2026-09-17",
+"esito": "ok",
+"espansioni": [
+"CYB-INV-0097"
+],
+"estrazione": 105,
+"forzata": false,
+"lotto": "lotto-personaggi",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"CYB-REG-meridiana-alta",
+"CYB-PER-0034",
+"CYB-PER-0035",
+"CYB-PER-0036",
+"CYB-PER-0037",
+"CYB-PER-0038",
+"CYB-PER-0039",
+"CYB-PER-0040",
+"CYB-PER-0041",
+"CYB-PER-0042",
+"CYB-PER-0043",
+"CYB-INV-0097"
+],
+"universo": "cyberverse"
 }
 ]

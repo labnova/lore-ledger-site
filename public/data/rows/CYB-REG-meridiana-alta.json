@@ -1,0 +1,21 @@
+{
+"appare_in": [],
+"ceppo_dominante": null,
+"created": "2026-09-17",
+"epoca_relativa": 0,
+"estrazione": 105,
+"fatti": [],
+"id": "CYB-REG-meridiana-alta",
+"media": [],
+"nome": "Meridiana Alta",
+"note": "Enclave corporativa costruita sulla quota più alta della città, fuori dalla portata delle ondate di calore che colpiscono i blocchi popolari sottostanti; il personale arriva per contratto da ogni filiale di Parallasse Certificazioni™ nel mondo, così nessun ceppo prevale e i cognomi restano quelli di partenza più spesso del mestiere svolto qui.",
+"onomastica": "totale",
+"p_cognome_mestiere": 0.34,
+"parent_id": null,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "regione",
+"universo": "cyberverse"
+}

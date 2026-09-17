@@ -1,0 +1,33 @@
+{
+"affettivo": null,
+"appare_in": [],
+"casta": "corporati",
+"ceppo": "ibrido",
+"cognome": "Korocs",
+"contraddizione": "Dovrebbe essere il caso esemplare di un bambino ben monitorato, ma passa le notti sveglio a manomettere il proprio impianto perché segnali sempre un sonno perfetto, proprio mentre non dorme mai.",
+"created": "2026-09-17",
+"difetto": "insonne",
+"epoca_relativa": 0,
+"estrazione": 105,
+"eta_fascia": "bambino",
+"fatti": [],
+"gancio": "I suoi dati falsificati vengono scelti dall'azienda come caso studio pubblicitario del monitoraggio ideale, e ora deve continuare a violare il sistema ogni notte per non farsi scoprire.",
+"id": "CYB-PER-0039",
+"invenzione_id": "CYB-INV-0029",
+"media": [],
+"nome": "Ute",
+"parent_id": null,
+"rapporto": "usa",
+"regione": "CYB-REG-meridiana-alta",
+"relazione": null,
+"ritratto": null,
+"segno": "ariete",
+"spirituale": {
+"credenza": "le_stelle_come_registro",
+"rapporto": "apostata"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "inventivo",
+"universo": "cyberverse"
+}

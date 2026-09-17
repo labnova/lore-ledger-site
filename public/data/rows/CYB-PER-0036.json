@@ -1,0 +1,36 @@
+{
+"affettivo": {
+"orientamento": "bisessuale",
+"situazione": "fidanzato"
+},
+"appare_in": [],
+"casta": "corporati",
+"ceppo": "turco",
+"cognome": "Akteay",
+"contraddizione": "Costruisce modelli di rischio pragmatici che riducono le persone a punteggi senza storia, ma resta funzionaria del culto degli antenati e tiene in casa un altare che registra debiti e benedizioni di ogni parente morto.",
+"created": "2026-09-17",
+"difetto": "rancoroso",
+"epoca_relativa": 0,
+"estrazione": 105,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "Il suo fidanzato lavora alla manutenzione proprio nei blocchi che il suo modello ha appena segnalato, e lei deve scegliere se avvisarlo prima del prossimo giro di sfratti.",
+"id": "CYB-PER-0036",
+"invenzione_id": "CYB-INV-0029",
+"media": [],
+"nome": "Nazlı",
+"parent_id": null,
+"rapporto": "teme",
+"regione": "CYB-REG-meridiana-alta",
+"relazione": null,
+"ritratto": null,
+"segno": "sagittario",
+"spirituale": {
+"credenza": "culto_degli_antenati",
+"rapporto": "funzionario_del_culto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "pragmatico",
+"universo": "cyberverse"
+}

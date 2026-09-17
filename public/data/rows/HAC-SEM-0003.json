@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"cluster": "HAC-INV-0064",
+"created": "2026-09-17",
+"epoca_relativa": 0,
+"estrazione": 104,
+"fatti": [],
+"id": "HAC-SEM-0003",
+"media": [],
+"origine": "arricchimento",
+"ostacolo": "Hülya Taşçı ha già rivenduto quello stesso turno a un altro broker, giurando come sempre che il registro non sbaglia mai; ammettere l'errore a Nadja significherebbe ammettere quanti nomi ha già confuso.",
+"parent_id": null,
+"premessa": "Nadja Kari, che tiene di nascosto un quaderno con ogni nome che cancella dal registro dei richiami dell'Hub delle Voci, riconosce nella fila delle audizioni notturne la stessa anziana che quella mattina aveva depennato, e vuole restituirle il turno che le ha tolto prima che il canto finisca.",
+"regione": null,
+"relazione": null,
+"rottura": "Bogdan Vlamiak, il più vigile del giro, nota la discrepanza tra le due file prima che Nadja riesca a rimediare, e capisce che il nome è lo stesso che aveva già intravisto una volta, in una fascia oraria che non ricorda di aver controllato.",
+"schema_version": 1,
+"status": "canon",
+"tipo": "seme",
+"tono": "notturno, colpa trattenuta, cori sovrapposti",
+"universi": [
+"hackverse"
+],
+"universo": "hackverse"
+}

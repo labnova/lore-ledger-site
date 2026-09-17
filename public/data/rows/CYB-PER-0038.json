@@ -1,0 +1,36 @@
+{
+"affettivo": {
+"orientamento": "bisessuale",
+"situazione": "separato"
+},
+"appare_in": [],
+"casta": "corporati",
+"ceppo": "giapponese",
+"cognome": "Naguchi",
+"contraddizione": "Ha progettato un sensore per interrompere in anticipo la sofferenza, ma la sua fede nel ciclo del ritorno le dice che ogni sofferenza interrotta prima del tempo resta un ciclo incompiuto, non un bene compiuto.",
+"created": "2026-09-17",
+"difetto": "rancoroso",
+"epoca_relativa": 0,
+"estrazione": 105,
+"eta_fascia": "anziano",
+"fatti": [],
+"gancio": "Accende un incenso al santuario del ritorno per ogni sfratto che il suo sensore ha reso possibile, tenendo un conto privato che contraddice i numeri celebrativi dell'azienda.",
+"id": "CYB-PER-0038",
+"invenzione_id": "CYB-INV-0029",
+"media": [],
+"nome": "Ayumi",
+"parent_id": null,
+"rapporto": "costruita",
+"regione": "CYB-REG-meridiana-alta",
+"relazione": null,
+"ritratto": null,
+"segno": "leone",
+"spirituale": {
+"credenza": "ciclo_del_ritorno",
+"rapporto": "devoto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "paziente",
+"universo": "cyberverse"
+}

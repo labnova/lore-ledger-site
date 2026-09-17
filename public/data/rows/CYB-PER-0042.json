@@ -1,0 +1,36 @@
+{
+"affettivo": {
+"orientamento": "bisessuale",
+"situazione": "single"
+},
+"appare_in": [],
+"casta": "corporati",
+"ceppo": "slavo",
+"cognome": "Pevaenko",
+"contraddizione": "Mantiene in funzione il sistema di allarmi della Sentinella Termica pur credendo, da apostata, che il crollo dell'azienda sarà un giudizio meritato, e non ascolta i superiori che gli dicono di smettere di scavare tra le anomalie.",
+"created": "2026-09-17",
+"difetto": "sordo_ai_consigli",
+"epoca_relativa": 0,
+"estrazione": 105,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Tiene nascosto nel suo terminale un dossier privato con ogni sfratto ingiusto tracciato fino al sensore, in attesa di un crollo in cui crede ma che non provoca lui stesso.",
+"id": "CYB-PER-0042",
+"invenzione_id": "CYB-INV-0029",
+"media": [],
+"nome": "Yaroslav",
+"parent_id": null,
+"rapporto": "teme",
+"regione": "CYB-REG-meridiana-alta",
+"relazione": null,
+"ritratto": null,
+"segno": "bilancia",
+"spirituale": {
+"credenza": "il_crollo_come_giudizio",
+"rapporto": "apostata"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "silenzioso",
+"universo": "cyberverse"
+}

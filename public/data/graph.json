@@ -81,6 +81,11 @@
 "to": "CYB-INV-0096"
 },
 {
+"from": "CYB-INV-0090",
+"kind": "parent",
+"to": "CYB-INV-0097"
+},
+{
 "from": "ELA-INV-0009",
 "kind": "parent",
 "to": "ELA-INV-0041"
@@ -854,6 +859,106 @@
 "from": "CYB-PER-0033",
 "kind": "regione",
 "to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-PER-0034",
+"kind": "invenzione",
+"to": "CYB-INV-0029"
+},
+{
+"from": "CYB-PER-0034",
+"kind": "regione",
+"to": "CYB-REG-meridiana-alta"
+},
+{
+"from": "CYB-PER-0035",
+"kind": "invenzione",
+"to": "CYB-INV-0029"
+},
+{
+"from": "CYB-PER-0035",
+"kind": "regione",
+"to": "CYB-REG-meridiana-alta"
+},
+{
+"from": "CYB-PER-0036",
+"kind": "invenzione",
+"to": "CYB-INV-0029"
+},
+{
+"from": "CYB-PER-0036",
+"kind": "regione",
+"to": "CYB-REG-meridiana-alta"
+},
+{
+"from": "CYB-PER-0037",
+"kind": "invenzione",
+"to": "CYB-INV-0029"
+},
+{
+"from": "CYB-PER-0037",
+"kind": "regione",
+"to": "CYB-REG-meridiana-alta"
+},
+{
+"from": "CYB-PER-0038",
+"kind": "invenzione",
+"to": "CYB-INV-0029"
+},
+{
+"from": "CYB-PER-0038",
+"kind": "regione",
+"to": "CYB-REG-meridiana-alta"
+},
+{
+"from": "CYB-PER-0039",
+"kind": "invenzione",
+"to": "CYB-INV-0029"
+},
+{
+"from": "CYB-PER-0039",
+"kind": "regione",
+"to": "CYB-REG-meridiana-alta"
+},
+{
+"from": "CYB-PER-0040",
+"kind": "invenzione",
+"to": "CYB-INV-0029"
+},
+{
+"from": "CYB-PER-0040",
+"kind": "regione",
+"to": "CYB-REG-meridiana-alta"
+},
+{
+"from": "CYB-PER-0041",
+"kind": "invenzione",
+"to": "CYB-INV-0029"
+},
+{
+"from": "CYB-PER-0041",
+"kind": "regione",
+"to": "CYB-REG-meridiana-alta"
+},
+{
+"from": "CYB-PER-0042",
+"kind": "invenzione",
+"to": "CYB-INV-0029"
+},
+{
+"from": "CYB-PER-0042",
+"kind": "regione",
+"to": "CYB-REG-meridiana-alta"
+},
+{
+"from": "CYB-PER-0043",
+"kind": "invenzione",
+"to": "CYB-INV-0029"
+},
+{
+"from": "CYB-PER-0043",
+"kind": "regione",
+"to": "CYB-REG-meridiana-alta"
 },
 {
 "from": "ELA-PER-0001",
@@ -6006,6 +6111,11 @@
 "to": "HAC-INV-0037"
 },
 {
+"from": "HAC-SEM-0003",
+"kind": "cluster",
+"to": "HAC-INV-0064"
+},
+{
 "from": "NEO-SEM-0001",
 "kind": "cluster",
 "to": "NEO-INV-0009"
@@ -7213,6 +7323,12 @@
 "universo": "cyberverse"
 },
 {
+"id": "CYB-INV-0097",
+"tipo": "invenzione",
+"titolo": "Il Turno del Cappellaio",
+"universo": "cyberverse"
+},
+{
 "id": "CYB-PER-0001",
 "tipo": "personaggio",
 "titolo": "Eszter Etxeondo",
@@ -7408,6 +7524,72 @@
 "id": "CYB-PER-0033",
 "tipo": "personaggio",
 "titolo": "Marlen Osterholt",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0034",
+"tipo": "personaggio",
+"titolo": "Ander Elaondo",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0035",
+"tipo": "personaggio",
+"titolo": "Åsa Norriström",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0036",
+"tipo": "personaggio",
+"titolo": "Nazlı Akteay",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0037",
+"tipo": "personaggio",
+"titolo": "Mona Bin-lasadad",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0038",
+"tipo": "personaggio",
+"titolo": "Ayumi Naguchi",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0039",
+"tipo": "personaggio",
+"titolo": "Ute Korocs",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0040",
+"tipo": "personaggio",
+"titolo": "Emese Nekenevics",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0041",
+"tipo": "personaggio",
+"titolo": "Anke Weinstein",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0042",
+"tipo": "personaggio",
+"titolo": "Yaroslav Pevaenko",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0043",
+"tipo": "personaggio",
+"titolo": "Asha Seremala",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-REG-meridiana-alta",
+"tipo": "regione",
+"titolo": "Meridiana Alta",
 "universo": "cyberverse"
 },
 {
@@ -9514,6 +9696,12 @@
 "id": "HAC-SEM-0002",
 "tipo": "seme",
 "titolo": "seme HAC-INV-0037",
+"universo": "hackverse"
+},
+{
+"id": "HAC-SEM-0003",
+"tipo": "seme",
+"titolo": "seme HAC-INV-0064",
 "universo": "hackverse"
 },
 {
