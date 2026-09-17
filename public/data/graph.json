@@ -191,6 +191,11 @@
 "to": "ELA-INV-0116"
 },
 {
+"from": "ELA-INV-0087",
+"kind": "parent",
+"to": "ELA-INV-0117"
+},
+{
 "from": "HAC-INV-0002",
 "kind": "parent",
 "to": "HAC-INV-0041"
@@ -7941,6 +7946,12 @@
 "id": "ELA-INV-0116",
 "tipo": "invenzione",
 "titolo": "Il Chiodo dell'Angolo Esatto",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0117",
+"tipo": "invenzione",
+"titolo": "Il Disegno Sepolto, o la Terra di Sinope",
 "universo": "elabverse"
 },
 {

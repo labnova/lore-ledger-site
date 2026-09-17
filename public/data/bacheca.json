@@ -1,5 +1,66 @@
 [
 {
+"chiusa_il": null,
+"creata": "2026-09-16T19:28:28Z",
+"esito": null,
+"id": "BAC-35139219618-1",
+"payload": {
+"cluster": "HAC-INV-0037",
+"racconto": "2026-09-16-un-grado-piu-chiaro",
+"regione": "Tallinn",
+"titolo": "Un grado più chiaro"
+},
+"postata_da": "giudizio",
+"presa_da": null,
+"presa_il": null,
+"priorita": 1,
+"racconto": "2026-09-16-un-grado-piu-chiaro",
+"righe": [
+"HAC-INV-0037",
+"HAC-PER-0023",
+"HAC-PER-0024",
+"HAC-PER-0025",
+"HAC-PER-0026",
+"HAC-PER-0028",
+"HAC-PER-0029",
+"HAC-PER-0030",
+"HAC-SEM-0002"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "giudizio",
+"da": "giudizio",
+"quando": "2026-09-16T19:28:28Z",
+"stato": "aperta"
+},
+{
+"agente": "illustratore",
+"da": "illustratore",
+"quando": "2026-09-16T20:40:25Z",
+"stato": "presa"
+},
+{
+"agente": "igiene",
+"da": "igiene",
+"quando": "2026-09-17T03:17:56Z",
+"stato": "scaduta"
+},
+{
+"agente": "igiene",
+"da": "igiene",
+"quando": "2026-09-17T03:17:56Z",
+"stato": "aperta"
+}
+],
+"tentativi": 1,
+"tipo": "media_copertina",
+"universi": [
+"hackverse"
+]
+},
+{
 "alternativa_dettaglio": null,
 "alternative": [],
 "auto_riferimento": false,
@@ -1937,6 +1998,7 @@
 "lacuna": "nessun legame affettivo dichiarato",
 "letto_a": "fcd4d7681aa126ccb6bed0a0e85dca1e2f097c1f",
 "motivazione": "HAC-PER-0011 porta già gancio e contraddizione carichi: calendario di riti fisso contro turni d'attracco che non aspettano, e una cassa da sigillare all'alba. Il campo affettivo è però vuoto, e proprio su famiglia e culto poggia tutta la contraddizione: è lì che la scheda non regge ancora. Un'espansione figlia ancora quel vuoto a un rito preciso, senza toccare HAC-INV-0001 né riscrivere la riga madre. HAC-INV-0065 ha parent_id null perché è radice per schema: non le manca la madre.",
+"pronta_per_arbitro": "2026-09-17T03:17:56Z",
 "scelto": "HAC-PER-0011"
 },
 "postata_da": "redattore",
@@ -2038,6 +2100,7 @@
 "lacuna": "scheda luogo priva di prosa",
 "letto_a": "6bfc175f87feceda045cf50bbfda712f25a0b06e",
 "motivazione": "Calvenna ricorre 102 volte e resta un elenco: NEO-INV-0070 e NEO-GAD-0051 la nominano solo come «regione: Calvenna», senza mai dirla. NEO-INV-0070 ha gancio e torsione saldi, ma la figlia mancante è una scelta di sviluppo, non una lacuna; ELA-GAD-0023 e NEO-GAD-0051 sono saturi nei loro campi. La bottega che mutila e invecchia, i giovani che non restano, i registri segreti di Madre Iselda chiedono voce: è il mio mestiere. Accodo, non riscrivo.",
+"pronta_per_arbitro": "2026-09-17T03:17:56Z",
 "scelto": "entita:neofeudal/luogo/calvenna"
 },
 "postata_da": "redattore",
@@ -2458,55 +2521,6 @@
 "tentativi": 0,
 "tipo": "nota",
 "universi": []
-},
-{
-"chiusa_il": null,
-"creata": "2026-09-16T19:28:28Z",
-"esito": null,
-"id": "BAC-35139219618-1",
-"payload": {
-"cluster": "HAC-INV-0037",
-"racconto": "2026-09-16-un-grado-piu-chiaro",
-"regione": "Tallinn",
-"titolo": "Un grado più chiaro"
-},
-"postata_da": "giudizio",
-"presa_da": "illustratore",
-"presa_il": "2026-09-16T20:40:25Z",
-"priorita": 1,
-"racconto": "2026-09-16-un-grado-piu-chiaro",
-"righe": [
-"HAC-INV-0037",
-"HAC-PER-0023",
-"HAC-PER-0024",
-"HAC-PER-0025",
-"HAC-PER-0026",
-"HAC-PER-0028",
-"HAC-PER-0029",
-"HAC-PER-0030",
-"HAC-SEM-0002"
-],
-"scade": "2026-09-17T02:40:25Z",
-"stato": "presa",
-"storia": [
-{
-"agente": "giudizio",
-"da": "giudizio",
-"quando": "2026-09-16T19:28:28Z",
-"stato": "aperta"
-},
-{
-"agente": "illustratore",
-"da": "illustratore",
-"quando": "2026-09-16T20:40:25Z",
-"stato": "presa"
-}
-],
-"tentativi": 1,
-"tipo": "media_copertina",
-"universi": [
-"hackverse"
-]
 },
 {
 "chiusa_il": null,

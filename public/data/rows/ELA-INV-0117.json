@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-17",
+"discipline": [
+"arte_visiva/affresco",
+"cartografia/proiezioni"
+],
+"epoca_relativa": 1,
+"estrazione": 38,
+"fatti": [],
+"gancio": "Un archivista mette a confronto le due schede e scopre che descrivono, tratto per tratto, la stessa sinopia, ma nessuno dei due registri accetta di essere quello sbagliato.",
+"id": "ELA-INV-0117",
+"media": [],
+"nome": "Il Disegno Sepolto, o la Terra di Sinope",
+"nome_reale": "Sinopia",
+"parent_id": "ELA-INV-0087",
+"poc": false,
+"regione": null,
+"relazione": "corruzione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Due registri di restauro custodiscono la stessa sinopia sotto nomi diversi — il Disegno Sepolto per chi lavora sulle carte stellari, la Terra di Sinope per chi lavora sugli affreschi — e nessuno dei due vuole ammettere che l'altro registro esista.",
+"universo": "elabverse"
+}
