@@ -1,0 +1,21 @@
+{
+"appare_in": [],
+"ceppo_dominante": null,
+"created": "2026-09-17",
+"epoca_relativa": 0,
+"estrazione": 99,
+"fatti": [],
+"id": "HAC-REG-singapore",
+"media": [],
+"nome": "Singapore",
+"note": "Città-stato crocevia di capitali e dati tra Asia ed Europa, dove ogni broker arriva già con passaporto e cognome propri: nessun ceppo prevale e pochi portano il cognome del mestiere, perché qui l'identità si compra e si vende, non si eredita.",
+"onomastica": "totale",
+"p_cognome_mestiere": 0.11,
+"parent_id": null,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "regione",
+"universo": "hackverse"
+}

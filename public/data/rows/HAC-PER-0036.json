@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "omosessuale",
+"situazione": "separato"
+},
+"appare_in": [],
+"casta": "broker_di_dati",
+"ceppo": "giapponese",
+"cognome": "Hokimukawa",
+"contraddizione": "È così ingenuamente devoto al lavoro da credere ancora che i dati dell'Hub delle Voci restino dentro l'hub, e nessuno tra i broker ha il cuore di dirgli dove finiscono davvero le liste dei richiami mancati.",
+"created": "2026-09-17",
+"difetto": "ingenuo",
+"epoca_relativa": 0,
+"estrazione": 99,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Ha iniziato a temere le notti in cui l'hub si riempie di voci che cantano, perché sono le uniche in cui nessuno gli spiega niente.",
+"id": "HAC-PER-0036",
+"invenzione_id": "HAC-INV-0064",
+"media": [],
+"nome": "Naoki",
+"parent_id": null,
+"rapporto": "teme",
+"regione": "HAC-REG-singapore",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "leone",
+"spirituale": {
+"credenza": "le_macchine_sognano",
+"rapporto": "praticante_tiepido"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "devoto_al_lavoro",
+"universo": "hackverse"
+}

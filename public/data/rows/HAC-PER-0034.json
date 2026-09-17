@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "omosessuale",
+"situazione": "separato"
+},
+"appare_in": [],
+"casta": "broker_di_dati",
+"ceppo": "basco",
+"cognome": "Bidenauria",
+"contraddizione": "È leale fino all'osso, la qualità più inutile per chi vende dati altrui, e infatti è l'unico broker dell'Hub delle Voci che continua ad avvertire di nascosto le persone il cui nome sta per finire nel lotto in vendita.",
+"created": "2026-09-17",
+"difetto": "paranoico",
+"epoca_relativa": 0,
+"estrazione": 99,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "Teme che il prossimo nome sul lotto sia il suo, da quando ha iniziato ad avvertire troppa gente.",
+"id": "HAC-PER-0034",
+"invenzione_id": "HAC-INV-0064",
+"media": [],
+"nome": "Jon",
+"parent_id": null,
+"rapporto": "teme",
+"regione": "HAC-REG-singapore",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "vergine",
+"spirituale": {
+"credenza": "il_sacro_e_una_bugia_utile",
+"rapporto": "indifferente"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "leale",
+"universo": "hackverse"
+}

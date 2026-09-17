@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "divorziata"
+},
+"appare_in": [],
+"casta": "broker_di_dati",
+"ceppo": "scandinavo",
+"cognome": "Lindqvist",
+"contraddizione": "È metodica come pochi nel giro, capace di isolare in un log SCADA il singolo impulso che conta, ma è la sua vena sentimentale a tradirla, perché prima di vendere il tracciato delle pompe di perfusione cancella sempre il nome del paziente che l'ha commossa quella settimana.",
+"created": "2026-09-17",
+"difetto": "sentimentale",
+"epoca_relativa": 0,
+"estrazione": 99,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "Ha iniziato a conservare per sé, in un file che non vende a nessuno, i nomi che ha cancellato dagli altri.",
+"id": "HAC-PER-0043",
+"invenzione_id": "HAC-INV-0001",
+"media": [],
+"nome": "Sigrid",
+"parent_id": "HAC-PER-0001",
+"rapporto": "vende",
+"regione": "HAC-REG-tallinn",
+"relazione": "espansione",
+"ritratto": null,
+"schema_version": 1,
+"segno": "capricorno",
+"spirituale": {
+"credenza": "il_debito_si_paga_in_dati",
+"rapporto": "scettico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "metodica",
+"universo": "hackverse"
+}

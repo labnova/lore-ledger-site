@@ -57,6 +57,20 @@
 },
 {
 "alias": [
+"NEO-REG-vasperdine"
+],
+"descrizione": "Crocevia di pellegrini e scommettitori di ogni stirpe diretti alla Selva delle Puntate; il clero registra le offerte come voti e le quote come grazie, e nessuno sa più distinguerle.",
+"ha_prosa": false,
+"nome": "Vasperdine",
+"prima_apparizione": 4,
+"ricorrenze": 40,
+"slug": "vasperdine",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "neofeudal"
+},
+{
+"alias": [
 "HAC-REG-tallinn"
 ],
 "descrizione": "Hub baltico dell'e-residency e dei registri digitali statali, attira broker di dati da ogni continente: nessun ceppo prevale, i cognomi restano quelli d'origine perché qui si arriva già adulti, con una identità digitale costruita altrove.",
@@ -68,20 +82,6 @@
 "sopra_soglia": true,
 "tipo": "luogo",
 "universo": "hackverse"
-},
-{
-"alias": [
-"NEO-REG-vasperdine"
-],
-"descrizione": "Crocevia di pellegrini e scommettitori di ogni stirpe diretti alla Selva delle Puntate; il clero registra le offerte come voti e le quote come grazie, e nessuno sa più distinguerle.",
-"ha_prosa": false,
-"nome": "Vasperdine",
-"prima_apparizione": 4,
-"ricorrenze": 28,
-"slug": "vasperdine",
-"sopra_soglia": true,
-"tipo": "luogo",
-"universo": "neofeudal"
 },
 {
 "alias": [],
@@ -136,6 +136,18 @@
 "slug": "vranidol",
 "sopra_soglia": true,
 "tipo": "luogo",
+"universo": "neofeudal"
+},
+{
+"alias": [],
+"descrizione": "Autorità che fissa il turno d'acqua di Sarakan e benedice ogni bonifica prima che la vanga tocchi terra; ciò che non passa dal suo registro delle piogge non è mai davvero successo.",
+"ha_prosa": false,
+"nome": "Diocesi del Cielo",
+"prima_apparizione": 85,
+"ricorrenze": 19,
+"slug": "diocesi-del-cielo",
+"sopra_soglia": true,
+"tipo": "ente",
 "universo": "neofeudal"
 },
 {
@@ -208,18 +220,6 @@
 },
 {
 "alias": [],
-"descrizione": "Autorità che fissa il turno d'acqua di Sarakan e benedice ogni bonifica prima che la vanga tocchi terra; ciò che non passa dal suo registro delle piogge non è mai davvero successo.",
-"ha_prosa": false,
-"nome": "Diocesi del Cielo",
-"prima_apparizione": 85,
-"ricorrenze": 10,
-"slug": "diocesi-del-cielo",
-"sopra_soglia": true,
-"tipo": "ente",
-"universo": "neofeudal"
-},
-{
-"alias": [],
 "descrizione": "Lo scarto crescente del faro orbitale di riferimento usato da Parallasse Certificazioni™, mai ricalibrato dopo le Faglie Sociali del 3167; ogni misura fatta con lui, dai bollini di restauro agli impianti di localizzazione, eredita lo stesso errore.",
 "ha_prosa": false,
 "nome": "La Deriva del Meridiano",
@@ -256,6 +256,18 @@
 },
 {
 "alias": [],
+"descrizione": "Lay-sorella itinerante che raccoglie mozziconi di candela e ritagli di pasta dai pellegrini di Vasperdine per renderli in cera-zucchero, l'unica a conoscere la giusta proporzione.",
+"ha_prosa": false,
+"nome": "Sorella Amata Ceroni",
+"prima_apparizione": 98,
+"ricorrenze": 6,
+"slug": "sorella-amata-ceroni",
+"sopra_soglia": true,
+"tipo": "attore",
+"universo": "neofeudal"
+},
+{
+"alias": [],
 "descrizione": "Mercante di olio da lampada e canne di vetro soffiato, fa la spola tra le saline e il porto vendendo scorte a chi tiene acceso il telegrafo ottico del Consorzio.",
 "ha_prosa": false,
 "nome": "Halim Zaffran",
@@ -265,6 +277,18 @@
 "sopra_soglia": true,
 "tipo": "attore",
 "universo": "steamverse"
+},
+{
+"alias": [],
+"descrizione": "Un lotto di cera da candela e zucchero bruciato fusi per errore durante la Fiera dei Pellegrini di tre anni fa, ridistribuito dalla Diocesi del Cielo come materiale benedetto senza separare i due; ogni oggetto fatto con questa pasta porta una doppia grazia che nessun prete sa più distinguere.",
+"ha_prosa": false,
+"nome": "La Fusione dei Voti",
+"prima_apparizione": 98,
+"ricorrenze": 4,
+"slug": "la-fusione-dei-voti",
+"sopra_soglia": true,
+"tipo": "anomalia",
+"universo": "neofeudal"
 },
 {
 "alias": [],

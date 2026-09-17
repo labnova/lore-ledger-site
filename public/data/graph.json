@@ -256,6 +256,16 @@
 "to": "HAC-INV-0072"
 },
 {
+"from": "HAC-INV-0051",
+"kind": "parent",
+"to": "HAC-INV-0073"
+},
+{
+"from": "HAC-INV-0047",
+"kind": "parent",
+"to": "HAC-INV-0074"
+},
+{
 "from": "NEO-INV-0001",
 "kind": "regione",
 "to": "NEO-REG-calvenna"
@@ -1487,6 +1497,121 @@
 },
 {
 "from": "HAC-PER-0032",
+"kind": "regione",
+"to": "HAC-REG-tallinn"
+},
+{
+"from": "HAC-PER-0033",
+"kind": "invenzione",
+"to": "HAC-INV-0064"
+},
+{
+"from": "HAC-PER-0033",
+"kind": "regione",
+"to": "HAC-REG-singapore"
+},
+{
+"from": "HAC-PER-0034",
+"kind": "invenzione",
+"to": "HAC-INV-0064"
+},
+{
+"from": "HAC-PER-0034",
+"kind": "regione",
+"to": "HAC-REG-singapore"
+},
+{
+"from": "HAC-PER-0035",
+"kind": "invenzione",
+"to": "HAC-INV-0064"
+},
+{
+"from": "HAC-PER-0035",
+"kind": "regione",
+"to": "HAC-REG-singapore"
+},
+{
+"from": "HAC-PER-0036",
+"kind": "invenzione",
+"to": "HAC-INV-0064"
+},
+{
+"from": "HAC-PER-0036",
+"kind": "regione",
+"to": "HAC-REG-singapore"
+},
+{
+"from": "HAC-PER-0037",
+"kind": "invenzione",
+"to": "HAC-INV-0064"
+},
+{
+"from": "HAC-PER-0037",
+"kind": "regione",
+"to": "HAC-REG-singapore"
+},
+{
+"from": "HAC-PER-0038",
+"kind": "invenzione",
+"to": "HAC-INV-0064"
+},
+{
+"from": "HAC-PER-0038",
+"kind": "regione",
+"to": "HAC-REG-singapore"
+},
+{
+"from": "HAC-PER-0039",
+"kind": "invenzione",
+"to": "HAC-INV-0064"
+},
+{
+"from": "HAC-PER-0039",
+"kind": "regione",
+"to": "HAC-REG-singapore"
+},
+{
+"from": "HAC-PER-0040",
+"kind": "invenzione",
+"to": "HAC-INV-0064"
+},
+{
+"from": "HAC-PER-0040",
+"kind": "regione",
+"to": "HAC-REG-singapore"
+},
+{
+"from": "HAC-PER-0041",
+"kind": "invenzione",
+"to": "HAC-INV-0064"
+},
+{
+"from": "HAC-PER-0041",
+"kind": "regione",
+"to": "HAC-REG-singapore"
+},
+{
+"from": "HAC-PER-0042",
+"kind": "invenzione",
+"to": "HAC-INV-0064"
+},
+{
+"from": "HAC-PER-0042",
+"kind": "regione",
+"to": "HAC-REG-singapore"
+},
+{
+"from": "HAC-PER-0001",
+"kind": "parent",
+"to": "HAC-PER-0043"
+},
+{
+"from": "HAC-PER-0043",
+"kind": "invenzione",
+"to": "HAC-INV-0001"
+},
+{
+"from": "HAC-PER-0043",
 "kind": "regione",
 "to": "HAC-REG-tallinn"
 },
@@ -8718,6 +8843,18 @@
 "universo": "hackverse"
 },
 {
+"id": "HAC-INV-0073",
+"tipo": "invenzione",
+"titolo": "Le Uscite Colorate",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0074",
+"tipo": "invenzione",
+"titolo": "Lo Stampo che Non Chiede Corrente",
+"universo": "hackverse"
+},
+{
 "id": "HAC-PER-0001",
 "tipo": "personaggio",
 "titolo": "Misaki Ikaguchi",
@@ -8910,9 +9047,81 @@
 "universo": "hackverse"
 },
 {
+"id": "HAC-PER-0033",
+"tipo": "personaggio",
+"titolo": "Rania Qannas",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0034",
+"tipo": "personaggio",
+"titolo": "Jon Bidenauria",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0035",
+"tipo": "personaggio",
+"titolo": "Nadja Kari",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0036",
+"tipo": "personaggio",
+"titolo": "Naoki Hokimukawa",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0037",
+"tipo": "personaggio",
+"titolo": "Bogdan Vlamiak",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0038",
+"tipo": "personaggio",
+"titolo": "Lajos Feny",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0039",
+"tipo": "personaggio",
+"titolo": "Tobias Lindlichelberg",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0040",
+"tipo": "personaggio",
+"titolo": "Zawadi Kimatara",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0041",
+"tipo": "personaggio",
+"titolo": "Kari Møller",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0042",
+"tipo": "personaggio",
+"titolo": "Hülya Taşçı",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0043",
+"tipo": "personaggio",
+"titolo": "Sigrid Lindqvist",
+"universo": "hackverse"
+},
+{
 "id": "HAC-REG-rotterdam",
 "tipo": "regione",
 "titolo": "Rotterdam",
+"universo": "hackverse"
+},
+{
+"id": "HAC-REG-singapore",
+"tipo": "regione",
+"titolo": "Singapore",
 "universo": "hackverse"
 },
 {

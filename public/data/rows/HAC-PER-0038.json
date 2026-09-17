@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "bisessuale",
+"situazione": "vedovo"
+},
+"appare_in": [],
+"casta": "broker_di_dati",
+"ceppo": "magiaro",
+"cognome": "Feny",
+"contraddizione": "Crede devotamente che il prossimo crollo sarà un giudizio meritato, eppure è lui che ha costruito il ponte tra il registro dell'Hub delle Voci e quello delle audizioni, il pezzo di codice che, se tutto crolla, crollerà per colpa sua.",
+"created": "2026-09-17",
+"difetto": "invidioso",
+"epoca_relativa": 0,
+"estrazione": 99,
+"eta_fascia": "anziano",
+"fatti": [],
+"gancio": "Ha iniziato a firmare il suo lavoro con un nome falso diverso ogni settimana, come se il giudizio potesse sbagliare persona.",
+"id": "HAC-PER-0038",
+"invenzione_id": "HAC-INV-0064",
+"media": [],
+"nome": "Lajos",
+"parent_id": null,
+"rapporto": "costruita",
+"regione": "HAC-REG-singapore",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "sagittario",
+"spirituale": {
+"credenza": "il_crollo_come_giudizio",
+"rapporto": "devoto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ironico",
+"universo": "hackverse"
+}

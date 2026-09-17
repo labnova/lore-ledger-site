@@ -1891,6 +1891,130 @@
 },
 {
 "chiusa_il": null,
+"creata": "2026-09-17T06:55:50Z",
+"esito": null,
+"id": "BAC-35192023105-1",
+"payload": {
+"bozza": "Numbered technical plate from an 1880s engineering manual: ink on yellowed paper, exploded or sectioned view with callout numbers linked by thin lines to a margin legend, one brass accent on the working part, label with illegible product code. Subject: Il Sigillo di Cera del Capobarca — Timbro di cera dura, inciso con il profilo di una chiatta, usato per marcare documenti di carico non ufficiali. — carried by Zaid lo tiene in una scatola di latta sotto il letto della caserma aeronautica, retaggio di uno zio imbarcato sulle Barche Bianche.. Inchiostro seppia e nero su carta ingiallita; accento unico in ottone caldo per il pezzo che conta. Tavola tecnica da manuale d'ingegneria del 1880: linee di contorno pulite, tratteggio incrociato per le ombre, sezioni numerate con richiami (1, 2, 3…) collegati da linee sottili a una legenda a margine. clean lines and geometric shapes, high resolution, UHD --ar 4:3 --no neon, plastic, coloured glass, polished chrome, saturated blue sky, decorative gears, aviator goggles, corsets, top hats, illegible lettering, watermark --sref random",
+"chiave": "m1",
+"contesto": "id: STE-GAD-0002\ntipo: gadget\nuniverso: steamverse\nestrazione: 21\ncreated: '2026-09-13'\nparent_id: null\nrelazione: null\nepoca_relativa: 0\nregione: Ledoskol\nstatus: canon\nschema_version: 1\ninvenzione_id: STE-INV-0001\npersonaggio_id: STE-PER-0005\nnome: Il Sigillo di Cera del Capobarca\ncosa: Timbro di cera dura, inciso con il profilo di una chiatta, usato per marcare documenti di carico non ufficiali.\nchi_lo_porta: Zaid lo tiene in una scatola di latta sotto il letto della caserma aeronautica, retaggio di uno zio imbarcato sulle Barche Bianche.\ntradimento_tech: Il profilo inciso corrisponde esattamente al marchio usato per segnalare le casse supplementari non registrate nel manifesto ufficiale.\nprod: true",
+"manifest": {
+"caricato_il": null,
+"creato": "2026-09-17",
+"id": "MED-35192023105-1",
+"note": "oggetto: Il Sigillo di Cera del Capobarca; gancio: Quando gli chiedono da dove venga, Zaid dice solo che suo zio gliel'ha lasciato per quando servirà mentire bene.; tradimento_tech: Il profilo inciso corrisponde esattamente al marchio usato per segnalare le casse supplementari non registrate nel manifesto ufficiale.; variante medium; sref random — promuovere con media_upload.py --promuovi-sref",
+"parametri": {
+"ar": "4:3",
+"atomi": [
+"ATM-35185545263-17",
+"ATM-34809499246-20"
+],
+"cref": null,
+"sref": "random"
+},
+"prompt": "Numbered technical plate from an 1880s engineering manual: ink on yellowed paper, exploded or sectioned view with callout numbers linked by thin lines to a margin legend, one brass accent on the working part, label with illegible product code. Subject: Il Sigillo di Cera del Capobarca — Timbro di cera dura, inciso con il profilo di una chiatta, usato per marcare documenti di carico non ufficiali. — carried by Zaid lo tiene in una scatola di latta sotto il letto della caserma aeronautica, retaggio di uno zio imbarcato sulle Barche Bianche.. Inchiostro seppia e nero su carta ingiallita; accento unico in ottone caldo per il pezzo che conta. Tavola tecnica da manuale d'ingegneria del 1880: linee di contorno pulite, tratteggio incrociato per le ombre, sezioni numerate con richiami (1, 2, 3…) collegati da linee sottili a una legenda a margine. clean lines and geometric shapes, high resolution, UHD --ar 4:3 --no neon, plastic, coloured glass, polished chrome, saturated blue sky, decorative gears, aviator goggles, corsets, top hats, illegible lettering, watermark --sref random",
+"sha256": null,
+"sorgente": {
+"ref": "STE-GAD-0002",
+"tipo": "riga"
+},
+"stato": "proposto",
+"strumento": "midjourney",
+"tipo": "tavola",
+"universo": "steamverse",
+"url": null
+},
+"strumento": "midjourney",
+"tipo": "tavola"
+},
+"postata_da": "media-random",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"STE-GAD-0002"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "media-random",
+"da": "media-random",
+"quando": "2026-09-17T06:55:50Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_tavola",
+"universi": [
+"steamverse"
+]
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-17T06:55:50Z",
+"esito": null,
+"id": "BAC-35192023105-2",
+"payload": {
+"bozza": "Numbered technical plate from an 1880s engineering manual: ink on yellowed paper, exploded or sectioned view with callout numbers linked by thin lines to a margin legend, one brass accent on the working part, label with illegible product code. Subject: La Leva del Silenzio — Freno a leva installato su ogni ruota idraulica dopo i tagli notturni non registrati. Inchiostro seppia e nero su carta ingiallita; accento unico in ottone caldo per il pezzo che conta. Tavola tecnica da manuale d'ingegneria del 1880: linee di contorno pulite, tratteggio incrociato per le ombre, sezioni numerate con richiami (1, 2, 3…) collegati da linee sottili a una legenda a margine. black line around the image, aspect ratio 16:9 --ar 4:3 --no neon, plastic, coloured glass, polished chrome, saturated blue sky, decorative gears, aviator goggles, corsets, top hats, illegible lettering, watermark",
+"chiave": "m2",
+"contesto": "id: STE-INV-0025\ntipo: invenzione\nuniverso: steamverse\nestrazione: 21\ncreated: '2026-09-13'\nparent_id: STE-INV-0015\nrelazione: espansione\nepoca_relativa: 1\nregione: null\nstatus: canon\nschema_version: 1\nnome_reale: Freno a leva installato su ogni ruota idraulica dopo i tagli notturni non registrati\nnome: La Leva del Silenzio\ndiscipline:\n- logistica/catena_del_freddo\n- geografia/idrografia\npoc: false",
+"manifest": {
+"caricato_il": null,
+"creato": "2026-09-17",
+"id": "MED-35192023105-2",
+"note": "oggetto: La Leva del Silenzio; gancio: L'ispettore che doveva certificare il freno lo trova già bloccato in posizione aperta, con la vernice ancora fresca sopra la leva.; torsione: Il freno non blocca mai la ruota per davvero, perché chi lo installa ha scoperto che i tagli notturni tenevano libero un canale che di giorno nessuno avrebbe il coraggio di scavare.; sref non fissato",
+"parametri": {
+"ar": "4:3",
+"atomi": [
+"ATM-35059284514-2",
+"ATM-34809499246-21"
+],
+"cref": null,
+"sref": null
+},
+"prompt": "Numbered technical plate from an 1880s engineering manual: ink on yellowed paper, exploded or sectioned view with callout numbers linked by thin lines to a margin legend, one brass accent on the working part, label with illegible product code. Subject: La Leva del Silenzio — Freno a leva installato su ogni ruota idraulica dopo i tagli notturni non registrati. Inchiostro seppia e nero su carta ingiallita; accento unico in ottone caldo per il pezzo che conta. Tavola tecnica da manuale d'ingegneria del 1880: linee di contorno pulite, tratteggio incrociato per le ombre, sezioni numerate con richiami (1, 2, 3…) collegati da linee sottili a una legenda a margine. black line around the image, aspect ratio 16:9 --ar 4:3 --no neon, plastic, coloured glass, polished chrome, saturated blue sky, decorative gears, aviator goggles, corsets, top hats, illegible lettering, watermark",
+"sha256": null,
+"sorgente": {
+"ref": "STE-INV-0025",
+"tipo": "riga"
+},
+"stato": "proposto",
+"strumento": "midjourney",
+"tipo": "tavola",
+"universo": "steamverse",
+"url": null
+},
+"strumento": "midjourney",
+"tipo": "tavola"
+},
+"postata_da": "media-random",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"STE-INV-0025"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "media-random",
+"da": "media-random",
+"quando": "2026-09-17T06:55:50Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_tavola",
+"universi": [
+"steamverse"
+]
+},
+{
+"chiusa_il": null,
 "creata": "2026-09-15T23:21:24Z",
 "esito": null,
 "id": "BAC-35034876036-2",

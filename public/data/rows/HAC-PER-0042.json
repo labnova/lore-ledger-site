@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "asessuale",
+"situazione": "sposato"
+},
+"appare_in": [],
+"casta": "broker_di_dati",
+"ceppo": "turco",
+"cognome": "Taşçı",
+"contraddizione": "Vende ai broker più giovani l'accesso ai turni dell'Hub delle Voci giurando che le stelle sono il solo registro che non sbaglia mai, ma è lei, sempre più smemorata, a confondere ogni settimana un nome con un altro.",
+"created": "2026-09-17",
+"difetto": "smemorato",
+"epoca_relativa": 0,
+"estrazione": 99,
+"eta_fascia": "anziano",
+"fatti": [],
+"gancio": "Ha iniziato a farsi ripetere due volte ogni nome prima di venderlo, mentendo che è solo scaramanzia.",
+"id": "HAC-PER-0042",
+"invenzione_id": "HAC-INV-0064",
+"media": [],
+"nome": "Hülya",
+"parent_id": null,
+"rapporto": "vende",
+"regione": "HAC-REG-singapore",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "acquario",
+"spirituale": {
+"credenza": "le_stelle_come_registro",
+"rapporto": "mistico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "inventivo",
+"universo": "hackverse"
+}

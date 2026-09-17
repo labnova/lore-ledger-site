@@ -1,0 +1,70 @@
+{
+"aggiornata": "2026-09-17",
+"alias": [],
+"descrizione": "Un lotto di cera da candela e zucchero bruciato fusi per errore durante la Fiera dei Pellegrini di tre anni fa, ridistribuito dalla Diocesi del Cielo come materiale benedetto senza separare i due; ogni oggetto fatto con questa pasta porta una doppia grazia che nessun prete sa più distinguere.",
+"ha_prosa": false,
+"n_ricorrenze": 4,
+"nome": "La Fusione dei Voti",
+"prima_apparizione": 98,
+"prosa": null,
+"racconti": [],
+"ricorrenze": [
+{
+"estrazione": 98,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 98,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0096",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Cucchiaio della Doppia Grazia"
+},
+{
+"estrazione": 98,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0110",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Quaderno Bruciato"
+},
+{
+"estrazione": 98,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0111",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Torta dei Poveri"
+}
+],
+"righe": [
+{
+"id": "NEO-INV-0096",
+"tipo": "invenzione",
+"titolo": "Il Cucchiaio della Doppia Grazia"
+},
+{
+"id": "NEO-INV-0110",
+"tipo": "invenzione",
+"titolo": "Il Quaderno Bruciato"
+},
+{
+"id": "NEO-INV-0111",
+"tipo": "invenzione",
+"titolo": "La Torta dei Poveri"
+}
+],
+"slug": "la-fusione-dei-voti",
+"sopra_soglia": true,
+"tipo": "anomalia",
+"universo": "neofeudal"
+}

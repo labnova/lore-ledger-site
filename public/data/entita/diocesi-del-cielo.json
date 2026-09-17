@@ -1,9 +1,9 @@
 {
-"aggiornata": "2026-09-16",
+"aggiornata": "2026-09-17",
 "alias": [],
 "descrizione": "Autorità che fissa il turno d'acqua di Sarakan e benedice ogni bonifica prima che la vanga tocchi terra; ciò che non passa dal suo registro delle piogge non è mai davvero successo.",
 "ha_prosa": false,
-"n_ricorrenze": 10,
+"n_ricorrenze": 19,
 "nome": "Diocesi del Cielo",
 "prima_apparizione": 85,
 "prosa": null,
@@ -98,6 +98,87 @@
 "riga_id": "NEO-INV-0091",
 "riga_tipo": "invenzione",
 "riga_titolo": "Il Portello degli Anelli"
+},
+{
+"estrazione": 98,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 98,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0094",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Crisma Tradito"
+},
+{
+"estrazione": 98,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0100",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Ricettario Vincolato"
+},
+{
+"estrazione": 98,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0102",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Torta dei Canonici"
+},
+{
+"estrazione": 98,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0103",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Calibro della Forma Unica"
+},
+{
+"estrazione": 98,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0105",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Boccone Superstite"
+},
+{
+"estrazione": 98,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0107",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Sigillo Vecchio"
+},
+{
+"estrazione": 98,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0111",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Torta dei Poveri"
+},
+{
+"estrazione": 98,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0112",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Crisma Falso"
 }
 ],
 "righe": [
@@ -145,6 +226,46 @@
 "id": "NEO-INV-0091",
 "tipo": "invenzione",
 "titolo": "Il Portello degli Anelli"
+},
+{
+"id": "NEO-INV-0094",
+"tipo": "invenzione",
+"titolo": "Il Crisma Tradito"
+},
+{
+"id": "NEO-INV-0100",
+"tipo": "invenzione",
+"titolo": "Il Ricettario Vincolato"
+},
+{
+"id": "NEO-INV-0102",
+"tipo": "invenzione",
+"titolo": "La Torta dei Canonici"
+},
+{
+"id": "NEO-INV-0103",
+"tipo": "invenzione",
+"titolo": "Il Calibro della Forma Unica"
+},
+{
+"id": "NEO-INV-0105",
+"tipo": "invenzione",
+"titolo": "Il Boccone Superstite"
+},
+{
+"id": "NEO-INV-0107",
+"tipo": "invenzione",
+"titolo": "Il Sigillo Vecchio"
+},
+{
+"id": "NEO-INV-0111",
+"tipo": "invenzione",
+"titolo": "La Torta dei Poveri"
+},
+{
+"id": "NEO-INV-0112",
+"tipo": "invenzione",
+"titolo": "Il Crisma Falso"
 }
 ],
 "slug": "diocesi-del-cielo",

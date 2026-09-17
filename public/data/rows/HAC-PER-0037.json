@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "single"
+},
+"appare_in": [],
+"casta": "broker_di_dati",
+"ceppo": "slavo",
+"cognome": "Vlamiak",
+"contraddizione": "È il broker più vigile del giro, quello che nota ogni discrepanza nei log dell'Hub delle Voci, e proprio per questo è l'unico a cui i suoi capi non lasciano mai vedere il registro per intero.",
+"created": "2026-09-17",
+"difetto": "insonne",
+"epoca_relativa": 0,
+"estrazione": 99,
+"eta_fascia": "adulto",
+"fatti": [],
+"gancio": "Teme di aver già visto, in una fascia oraria che non ricorda di aver controllato, un nome che non doveva esserci.",
+"id": "HAC-PER-0037",
+"invenzione_id": "HAC-INV-0064",
+"media": [],
+"nome": "Bogdan",
+"parent_id": null,
+"rapporto": "teme",
+"regione": "HAC-REG-singapore",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "scorpione",
+"spirituale": {
+"credenza": "il_sacro_e_una_bugia_utile",
+"rapporto": "scettico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "vigile",
+"universo": "hackverse"
+}

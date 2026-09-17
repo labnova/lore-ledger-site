@@ -3980,5 +3980,60 @@
 "NEO-INV-0112"
 ],
 "universo": "neofeudal"
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"HAC-INV-0064",
+"HAC-INV-0051",
+"HAC-INV-0047",
+"HAC-PER-0001"
+],
+"chiavi": {
+"casta": "broker_di_dati",
+"invenzione_id": "HAC-INV-0064",
+"personaggi": [
+"HAC-PER-0033",
+"HAC-PER-0034",
+"HAC-PER-0035",
+"HAC-PER-0036",
+"HAC-PER-0037",
+"HAC-PER-0038",
+"HAC-PER-0039",
+"HAC-PER-0040",
+"HAC-PER-0041",
+"HAC-PER-0042"
+],
+"regione": "HAC-REG-singapore",
+"universo": "hackverse"
+},
+"created": "2026-09-17",
+"esito": "ok",
+"espansioni": [
+"HAC-INV-0073",
+"HAC-INV-0074",
+"HAC-PER-0043"
+],
+"estrazione": 99,
+"forzata": false,
+"lotto": "lotto-personaggi",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"HAC-PER-0033",
+"HAC-PER-0034",
+"HAC-PER-0035",
+"HAC-PER-0036",
+"HAC-PER-0037",
+"HAC-PER-0038",
+"HAC-PER-0039",
+"HAC-PER-0040",
+"HAC-PER-0041",
+"HAC-PER-0042",
+"HAC-REG-singapore",
+"HAC-INV-0073",
+"HAC-INV-0074",
+"HAC-PER-0043"
+],
+"universo": "hackverse"
 }
 ]

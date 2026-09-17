@@ -1,0 +1,98 @@
+{
+"aggiornata": "2026-09-17",
+"alias": [],
+"descrizione": "Lay-sorella itinerante che raccoglie mozziconi di candela e ritagli di pasta dai pellegrini di Vasperdine per renderli in cera-zucchero, l'unica a conoscere la giusta proporzione.",
+"ha_prosa": false,
+"n_ricorrenze": 6,
+"nome": "Sorella Amata Ceroni",
+"prima_apparizione": 98,
+"prosa": null,
+"racconti": [],
+"ricorrenze": [
+{
+"estrazione": 98,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 98,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0095",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Cera dei Due Mestieri"
+},
+{
+"estrazione": 98,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0100",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Ricettario Vincolato"
+},
+{
+"estrazione": 98,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0104",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Formula che Conservava"
+},
+{
+"estrazione": 98,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0109",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Bilancia di Sorella Amata"
+},
+{
+"estrazione": 98,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0110",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Quaderno Bruciato"
+}
+],
+"righe": [
+{
+"id": "NEO-INV-0095",
+"tipo": "invenzione",
+"titolo": "La Cera dei Due Mestieri"
+},
+{
+"id": "NEO-INV-0100",
+"tipo": "invenzione",
+"titolo": "Il Ricettario Vincolato"
+},
+{
+"id": "NEO-INV-0104",
+"tipo": "invenzione",
+"titolo": "La Formula che Conservava"
+},
+{
+"id": "NEO-INV-0109",
+"tipo": "invenzione",
+"titolo": "La Bilancia di Sorella Amata"
+},
+{
+"id": "NEO-INV-0110",
+"tipo": "invenzione",
+"titolo": "Il Quaderno Bruciato"
+}
+],
+"slug": "sorella-amata-ceroni",
+"sopra_soglia": true,
+"tipo": "attore",
+"universo": "neofeudal"
+}

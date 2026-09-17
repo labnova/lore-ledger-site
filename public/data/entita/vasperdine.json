@@ -1,11 +1,11 @@
 {
-"aggiornata": "2026-09-16",
+"aggiornata": "2026-09-17",
 "alias": [
 "NEO-REG-vasperdine"
 ],
 "descrizione": "Crocevia di pellegrini e scommettitori di ogni stirpe diretti alla Selva delle Puntate; il clero registra le offerte come voti e le quote come grazie, e nessuno sa più distinguerle.",
 "ha_prosa": false,
-"n_ricorrenze": 28,
+"n_ricorrenze": 40,
 "nome": "Vasperdine",
 "prima_apparizione": 4,
 "prosa": null,
@@ -262,6 +262,114 @@
 "riga_id": null,
 "riga_tipo": null,
 "riga_titolo": null
+},
+{
+"estrazione": 98,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 98,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0093",
+"riga_tipo": "invenzione",
+"riga_titolo": "Lo Stampo della Sorte Dolce"
+},
+{
+"estrazione": 98,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0094",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Crisma Tradito"
+},
+{
+"estrazione": 98,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0096",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Cucchiaio della Doppia Grazia"
+},
+{
+"estrazione": 98,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0099",
+"riga_tipo": "invenzione",
+"riga_titolo": "L'Alambicco a Doppia Serpentina"
+},
+{
+"estrazione": 98,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0101",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Pasta dai Due Nomi"
+},
+{
+"estrazione": 98,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0103",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Calibro della Forma Unica"
+},
+{
+"estrazione": 98,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0104",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Formula che Conservava"
+},
+{
+"estrazione": 98,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0106",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Forno Fuori Misura"
+},
+{
+"estrazione": 98,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0108",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Terza Cera"
+},
+{
+"estrazione": 98,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0111",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Torta dei Poveri"
+},
+{
+"estrazione": 98,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0112",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Crisma Falso"
 }
 ],
 "righe": [
@@ -314,6 +422,61 @@
 "id": "NEO-GAD-0030",
 "tipo": "gadget",
 "titolo": "Velo delle Levatrici"
+},
+{
+"id": "NEO-INV-0093",
+"tipo": "invenzione",
+"titolo": "Lo Stampo della Sorte Dolce"
+},
+{
+"id": "NEO-INV-0094",
+"tipo": "invenzione",
+"titolo": "Il Crisma Tradito"
+},
+{
+"id": "NEO-INV-0096",
+"tipo": "invenzione",
+"titolo": "Il Cucchiaio della Doppia Grazia"
+},
+{
+"id": "NEO-INV-0099",
+"tipo": "invenzione",
+"titolo": "L'Alambicco a Doppia Serpentina"
+},
+{
+"id": "NEO-INV-0101",
+"tipo": "invenzione",
+"titolo": "La Pasta dai Due Nomi"
+},
+{
+"id": "NEO-INV-0103",
+"tipo": "invenzione",
+"titolo": "Il Calibro della Forma Unica"
+},
+{
+"id": "NEO-INV-0104",
+"tipo": "invenzione",
+"titolo": "La Formula che Conservava"
+},
+{
+"id": "NEO-INV-0106",
+"tipo": "invenzione",
+"titolo": "Il Forno Fuori Misura"
+},
+{
+"id": "NEO-INV-0108",
+"tipo": "invenzione",
+"titolo": "La Terza Cera"
+},
+{
+"id": "NEO-INV-0111",
+"tipo": "invenzione",
+"titolo": "La Torta dei Poveri"
+},
+{
+"id": "NEO-INV-0112",
+"tipo": "invenzione",
+"titolo": "Il Crisma Falso"
 },
 {
 "id": "NEO-PER-0011",

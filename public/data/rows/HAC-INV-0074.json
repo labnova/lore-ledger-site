@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-17",
+"discipline": [
+"chirurgia/trapiantologia",
+"veterinaria/chirurgia_rurale"
+],
+"epoca_relativa": 0,
+"estrazione": 99,
+"fatti": [],
+"gancio": "Un veterinario riconosce, incisa sul retro dello stent che ha appena impiantato in un cane, la stessa sigla di lotto trovata nella tenda chirurgica umana a duecento chilometri di distanza.",
+"id": "HAC-INV-0074",
+"media": [],
+"nome": "Lo Stampo che Non Chiede Corrente",
+"nome_reale": "Stent biliare passivo, adattato da stampi chirurgici non numerati",
+"parent_id": "HAC-INV-0047",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Lo stesso stampo 3D delle valvole a sifone viene riscalato per stent biliari destinati a cliniche veterinarie rurali, dove nessuno chiede il numero di lotto perché il paziente non può firmare un consenso.",
+"universo": "hackverse"
+}

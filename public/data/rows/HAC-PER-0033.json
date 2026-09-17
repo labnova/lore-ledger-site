@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "bisessuale",
+"situazione": "separato"
+},
+"appare_in": [],
+"casta": "broker_di_dati",
+"ceppo": "arabo",
+"cognome": "Qannas",
+"contraddizione": "È funzionaria del culto del ciclo del ritorno, convinta che ogni anima incontri di nuovo ciò che ha lasciato indietro, ma è lei a decidere quali pazienti dell'Hub delle Voci non ricevano mai la convocazione per il richiamo, cancellandoli dal ciclo per rivendere il turno libero.",
+"created": "2026-09-17",
+"difetto": "incostante",
+"epoca_relativa": 0,
+"estrazione": 99,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Ha iniziato a tenere per sé, sul registro del culto e non su quello dell'Hub delle Voci, i nomi di chi ha fatto sparire.",
+"id": "HAC-PER-0033",
+"invenzione_id": "HAC-INV-0064",
+"media": [],
+"nome": "Rania",
+"parent_id": null,
+"rapporto": "falsifica",
+"regione": "HAC-REG-singapore",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "bilancia",
+"spirituale": {
+"credenza": "ciclo_del_ritorno",
+"rapporto": "funzionario_del_culto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "generoso",
+"universo": "hackverse"
+}

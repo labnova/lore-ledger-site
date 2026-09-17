@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-17",
+"discipline": [
+"sanita_pubblica/quarantena",
+"logistica/evacuazione"
+],
+"epoca_relativa": 0,
+"estrazione": 99,
+"fatti": [],
+"gancio": "Un tecnico dell'evacuazione scopre che la mappa dei percorsi coincide, cartellino per cartellino, con l'ultimo elenco dei tamponi positivi mai distrutto.",
+"id": "HAC-INV-0073",
+"media": [],
+"nome": "Le Uscite Colorate",
+"nome_reale": "Piano di evacuazione per settori (assegnazione di percorsi di uscita in un evento di massa)",
+"parent_id": "HAC-INV-0051",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il colore di triage assegnato all'ingresso del coro diventa, senza che nessuno lo dichiari, anche il settore di uscita in caso di emergenza, e chi ha il cartellino rosso viene instradato verso la porta più lontana, quella che nessuno controlla.",
+"universo": "hackverse"
+}

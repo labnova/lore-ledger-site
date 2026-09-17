@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "pansessuale",
+"situazione": "vedovo"
+},
+"appare_in": [],
+"casta": "broker_di_dati",
+"ceppo": "germanico",
+"cognome": "Lindlichelberg",
+"contraddizione": "Studia i turni dell'Hub delle Voci come si legge un oracolo, convinto in cuor suo che nei pattern degli orari si nasconda qualcosa di sacro, ma il suo mestiere è imbustare esattamente quei pattern e venderli al miglior offerente entro la notte.",
+"created": "2026-09-17",
+"difetto": "insonne",
+"epoca_relativa": 0,
+"estrazione": 99,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Ha iniziato a tenersi per sé, prima di consegnarli, gli orari che gli sembrano più veri degli altri.",
+"id": "HAC-PER-0039",
+"invenzione_id": "HAC-INV-0064",
+"media": [],
+"nome": "Tobias",
+"parent_id": null,
+"rapporto": "studia",
+"regione": "HAC-REG-singapore",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "capricorno",
+"spirituale": {
+"credenza": "il_sacro_e_una_bugia_utile",
+"rapporto": "mistico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "curioso",
+"universo": "hackverse"
+}
