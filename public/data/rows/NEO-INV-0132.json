@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-utente-ultimo",
+"created": "2026-09-17",
+"discipline": [
+"musica/percussioni",
+"tessile/ricamo"
+],
+"entita_usate": [
+"Diocesi del Cielo",
+"La Fusione dei Voti"
+],
+"epoca_relativa": 0,
+"estrazione": 110,
+"fatti": [],
+"gancio": "Chi lo suona sa di rischiare la scomunica, ma smettere costerebbe alla sua famiglia l'unico reddito della stagione dei pellegrini.",
+"id": "NEO-INV-0132",
+"media": [],
+"nome": "Il Tamburo che Nessuno ha Smesso di Suonare",
+"nome_reale": "Tamburo a doppia pelle, proibito dalla Diocesi del Cielo dopo la Fusione dei Voti, ancora suonato clandestinamente ai margini della Selva delle Puntate",
+"oggetto": "Tamburo a doppia pelle, proibito dalla Diocesi del Cielo dopo la Fusione dei Voti, ancora suonato ai margini della Selva delle Puntate.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "divieto-ignorato",
+"universo": "neofeudal"
+}

@@ -1,0 +1,36 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "separata"
+},
+"appare_in": [],
+"casta": "chierici",
+"ceppo": "swahili",
+"cognome": "Kimambura",
+"contraddizione": "Devota che giura di temere il giudizio scritto nel Libro delle Stirpi Benedette, eppure ne riscrive di notte le pagine del Bestiario delle Quote che non tornano, convinta che i numeri corretti valgano più della fede dichiarata.",
+"created": "2026-09-17",
+"difetto": "bugiarda",
+"epoca_relativa": 0,
+"estrazione": 110,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "Nessuno a Calvenna sa che le pagine \"sbagliate\" del Bestiario tornano giuste ogni mattina per mano sua, nemmeno Bahati Chege, che continua a segnarle come un mistero da risolvere da solo.",
+"id": "NEO-PER-0080",
+"invenzione_id": "NEO-INV-0009",
+"media": [],
+"nome": "Nia",
+"parent_id": "NEO-PER-0048",
+"rapporto": "falsifica",
+"regione": "Calvenna",
+"relazione": "espansione",
+"ritratto": null,
+"segno": "capricorno",
+"spirituale": {
+"credenza": "i conti tornano solo se qualcuno li aggiusta",
+"rapporto": "devota"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "meticolosa",
+"universo": "neofeudal"
+}

@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-utente-ultimo",
+"created": "2026-09-17",
+"discipline": [
+"musica/percussioni",
+"tessile/ricamo"
+],
+"entita_usate": [
+"Diocesi del Cielo",
+"Il Cortile delle Grancasse Votive"
+],
+"epoca_relativa": 0,
+"estrazione": 110,
+"fatti": [],
+"gancio": "Chi arriva col tamburo del nonno, un dito più largo della misura, resta a guardare da fuori mentre gli altri suonano.",
+"id": "NEO-INV-0128",
+"media": [],
+"nome": "La Misura che Ha Zittito le Botteghe",
+"nome_reale": "Diametro e spessore di pelle imposti dalla Diocesi del Cielo per ogni tamburo votivo ammesso al Cortile delle Grancasse Votive",
+"oggetto": "Diametro e spessore di pelle imposti dalla Diocesi del Cielo per ogni tamburo votivo ammesso al Cortile.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "standard-imposto",
+"universo": "neofeudal"
+}

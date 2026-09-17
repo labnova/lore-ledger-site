@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "il-futuro",
+"created": "2026-09-17",
+"discipline": [
+"musica/percussioni",
+"tessile/ricamo"
+],
+"entita_usate": [
+"Diocesi del Cielo",
+"Il Cortile delle Grancasse Votive"
+],
+"epoca_relativa": 0,
+"estrazione": 110,
+"fatti": [],
+"gancio": "I futuri custodi del Cortile erediteranno una reliquia che nessuno ha più il coraggio di dichiarare falsa.",
+"id": "NEO-INV-0131",
+"media": [],
+"nome": "Il Tamburo Falso che Tutti Vogliono",
+"nome_reale": "Copia di un tamburo-reliquia della Diocesi del Cielo, ricamata con il motivo dell'originale e ormai preferita dai pellegrini all'originale",
+"oggetto": "Copia di un tamburo-reliquia della Diocesi del Cielo, ricamata con il motivo dell'originale e ormai preferita dai pellegrini all'originale.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "falsificazione",
+"universo": "neofeudal"
+}

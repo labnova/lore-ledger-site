@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "il-futuro",
+"created": "2026-09-17",
+"discipline": [
+"musica/percussioni",
+"tessile/ricamo"
+],
+"entita_usate": [
+"Diocesi del Cielo"
+],
+"epoca_relativa": 0,
+"estrazione": 110,
+"fatti": [],
+"gancio": "Quando il meccanismo si è bloccato per sempre sull'ultima nota accordata, la Diocesi del Cielo lo ha dichiarato un segno, e i bambini che erediteranno quel tono useranno per generazioni un tamburo muto.",
+"id": "NEO-INV-0120",
+"media": [],
+"nome": "Il Tamburo che si Accordava da Solo",
+"nome_reale": "Tamburo pre-Crollo che nasconde sotto la pelle ricamata un meccanismo elettronico di accordatura automatica, custodito come reliquia dalla Diocesi del Cielo",
+"oggetto": "Tamburo pre-Crollo che nasconde un meccanismo elettronico di accordatura automatica, custodito come reliquia dalla Diocesi del Cielo.",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "guasto",
+"universo": "neofeudal"
+}

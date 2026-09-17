@@ -1,0 +1,27 @@
+{
+"appare_in": [],
+"chi_paga": "l-inventore-originario",
+"created": "2026-09-17",
+"discipline": [
+"musica/percussioni",
+"tessile/ricamo"
+],
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 110,
+"fatti": [],
+"gancio": "Il vecchio che lo costruì per ricordare, non per suonare, non riconoscerebbe più la festa che oggi si celebra battendolo.",
+"id": "NEO-INV-0124",
+"media": [],
+"nome": "Il Tamburo che Ricorda la Data Vera",
+"nome_reale": "Tamburo con la data reale del Crollo incisa sotto la pelle, sopravvissuto a ogni riscrittura ufficiale della cronaca",
+"oggetto": "Tamburo con la data reale del Crollo incisa sotto la pelle, sopravvissuto a ogni riscrittura ufficiale della cronaca.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "oggetto-testimone",
+"universo": "neofeudal"
+}

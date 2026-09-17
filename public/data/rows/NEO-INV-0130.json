@@ -1,0 +1,27 @@
+{
+"appare_in": [],
+"chi_paga": "la-comunita",
+"created": "2026-09-17",
+"discipline": [
+"musica/percussioni",
+"tessile/ricamo"
+],
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 110,
+"fatti": [],
+"gancio": "Nessuna bottega di Vasperdine ha mai deciso di produrla, ma tutta la comunità ormai vive un po' di quella polvere che nessuno voleva.",
+"id": "NEO-INV-0130",
+"media": [],
+"nome": "La Polvere che Si Vende da Sola",
+"nome_reale": "Polvere di pigmento dorato, scarto della lavorazione dei fili da ricamo, che macchia le pelli dei tamburi vicini e finisce rivenduta come merce a sé",
+"oggetto": "Polvere di pigmento dorato, scarto della lavorazione dei fili da ricamo, che macchia i tamburi vicini e finisce rivenduta come merce a sé.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "effetto-collaterale",
+"universo": "neofeudal"
+}

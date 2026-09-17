@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "l-ambiente-gli-animali",
+"created": "2026-09-17",
+"discipline": [
+"musica/percussioni",
+"tessile/ricamo"
+],
+"entita_usate": [
+"Il Cortile delle Grancasse Votive"
+],
+"epoca_relativa": 0,
+"estrazione": 110,
+"fatti": [],
+"gancio": "Vasperdine ne consuma così tanta che le carovane arrivano con più bestie da colla che da soma, e nessuno calcola più quante ne restano vive a fine stagione.",
+"id": "NEO-INV-0129",
+"media": [],
+"nome": "La Colla che Vasperdine non Può Smettere di Fare",
+"nome_reale": "Colla animale ricavata dalle bestie da soma dei pellegrini di Vasperdine, diventata indispensabile a ogni bottega di tamburi e ricami del Cortile delle Grancasse Votive",
+"oggetto": "Colla animale ricavata dalle bestie da soma dei pellegrini, diventata indispensabile a ogni bottega di tamburi e ricami del Cortile.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "dipendenza",
+"universo": "neofeudal"
+}

@@ -1,0 +1,27 @@
+{
+"appare_in": [],
+"chi_paga": "il-costruttore",
+"created": "2026-09-17",
+"discipline": [
+"musica/percussioni",
+"tessile/ricamo"
+],
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 110,
+"fatti": [],
+"gancio": "Il costruttore che li ha ricavati dalle bobine finisce arrestato non per il ricamo ma per il rame, quando qualcuno lo fonde in un'antenna proibita.",
+"id": "NEO-INV-0121",
+"media": [],
+"nome": "I Fili che Luccicano Troppo",
+"nome_reale": "Fili di rame ricavati da vecchie bobine pre-Crollo, spacciati per filo prezioso da ricamo e rivenduti di contrabbando a chi li vuole per tutt'altro",
+"oggetto": "Fili di rame ricavati da vecchie bobine, spacciati per filo prezioso da ricamo e rivenduti di contrabbando a chi li vuole per tutt'altro.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "contrabbando",
+"universo": "neofeudal"
+}

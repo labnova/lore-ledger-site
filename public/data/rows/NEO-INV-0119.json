@@ -1,0 +1,27 @@
+{
+"appare_in": [],
+"chi_paga": "l-inventore-originario",
+"created": "2026-09-17",
+"discipline": [
+"musica/percussioni",
+"tessile/ricamo"
+],
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 110,
+"fatti": [],
+"gancio": "La bottega vende ormai casse che il primo intagliatore avrebbe rifiutato, ma nessuno può più confrontarle con l'originale.",
+"id": "NEO-INV-0119",
+"media": [],
+"nome": "Il Tornio dell'Ultima Bottega",
+"nome_reale": "Unico tornio ancora capace di intagliare le casse di risonanza dei tamburi votivi di Vasperdine, sopravvissuto al suo inventore in una sola bottega",
+"oggetto": "L'unico tornio ancora capace di intagliare le casse di risonanza dei tamburi votivi, sopravvissuto al suo inventore in una sola bottega di Vasperdine.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "monopolio",
+"universo": "neofeudal"
+}

@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-istituzione",
+"created": "2026-09-17",
+"discipline": [
+"musica/percussioni",
+"tessile/ricamo"
+],
+"entita_usate": [
+"Diocesi del Cielo",
+"La Fusione dei Voti"
+],
+"epoca_relativa": 0,
+"estrazione": 110,
+"fatti": [],
+"gancio": "La Diocesi del Cielo ha accettato il lascito senza leggerne fino in fondo la clausola, e ora custodisce un tamburo che può battere una sola notte l'anno, qualunque cosa succeda quella notte.",
+"id": "NEO-INV-0115",
+"media": [],
+"nome": "Il Tamburo del Legato",
+"nome_reale": "Tamburo-reliquia lasciato in eredità alla Diocesi del Cielo con vincolo testamentario di essere suonato solo la notte della Fusione dei Voti",
+"oggetto": "Tamburo-reliquia lasciato in eredità alla Diocesi del Cielo con vincolo di essere suonato solo la notte della Fusione dei Voti.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "eredita-lascito",
+"universo": "neofeudal"
+}

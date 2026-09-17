@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "l-ambiente-gli-animali",
+"created": "2026-09-17",
+"discipline": [
+"musica/percussioni",
+"tessile/ricamo"
+],
+"entita_usate": [
+"Il Cortile delle Grancasse Votive"
+],
+"epoca_relativa": 0,
+"estrazione": 110,
+"fatti": [],
+"gancio": "Al Cortile delle Grancasse Votive nessuna pelle nuova suona in pubblico finché un mulo da soma non l'ha portata tre giorni sul dorso; quelli che tornano zoppi sono il collaudo riuscito.",
+"id": "NEO-INV-0113",
+"media": [],
+"nome": "Il Tamburo dei Muli Zoppi",
+"nome_reale": "Pelle di tamburo votivo conciata con il mordente che fissa l'oro nei ricami liturgici, collaudata sui muli delle carovane di pellegrini prima della benedizione",
+"oggetto": "Pelle di tamburo conciata con il mordente che fissa l'oro nei ricami liturgici, collaudata sui muli delle carovane prima della benedizione.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "prova-collaudo",
+"universo": "neofeudal"
+}

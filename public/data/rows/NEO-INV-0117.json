@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "la-comunita",
+"created": "2026-09-17",
+"discipline": [
+"musica/percussioni",
+"tessile/ricamo"
+],
+"entita_usate": [
+"La Fusione dei Voti"
+],
+"epoca_relativa": 0,
+"estrazione": 110,
+"fatti": [],
+"gancio": "A Vasperdine nessuno sa più leggere il ritmo come un ordine di canali da aprire; lo cantano tutti a memoria come un salmo, e la comunità intera si ferma quando lo sente.",
+"id": "NEO-INV-0117",
+"media": [],
+"nome": "Il Rullo del Turno Perduto",
+"nome_reale": "Sequenza di rulli di tamburo che un tempo scandiva i turni dell'acqua a Sarakan, ora battuta soltanto per aprire la cerimonia della Fusione dei Voti",
+"oggetto": "Sequenza di rulli di tamburo che un tempo scandiva i turni dell'acqua, ora battuta soltanto per aprire la cerimonia della Fusione dei Voti.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "rito",
+"universo": "neofeudal"
+}

@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "l-istituzione",
+"created": "2026-09-17",
+"discipline": [
+"musica/percussioni",
+"tessile/ricamo"
+],
+"entita_usate": [
+"Diocesi del Cielo"
+],
+"epoca_relativa": 0,
+"estrazione": 110,
+"fatti": [],
+"gancio": "La Diocesi del Cielo continua a benedire ogni anno dei paramenti che in realtà rullano, perché correggere l'inventario costerebbe più di un miracolo.",
+"id": "NEO-INV-0125",
+"media": [],
+"nome": "I Tamburi Registrati come Vesti",
+"nome_reale": "Cassa di tamburi votivi etichettata per errore di scriba come \"paramenti\" nei registri della Diocesi del Cielo, mai corretta in trent'anni di inventari",
+"oggetto": "Cassa di tamburi votivi etichettata per errore di scriba come \"paramenti\" nei registri della Diocesi del Cielo, mai corretta in trent'anni.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "errore-di-etichetta",
+"universo": "neofeudal"
+}

@@ -476,6 +476,16 @@
 "to": "NEO-INV-0072"
 },
 {
+"from": "NEO-INV-0085",
+"kind": "parent",
+"to": "NEO-INV-0133"
+},
+{
+"from": "NEO-INV-0133",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
+},
+{
 "from": "STE-INV-0013",
 "kind": "parent",
 "to": "STE-INV-0021"
@@ -2654,6 +2664,21 @@
 "from": "NEO-PER-0079",
 "kind": "regione",
 "to": "NEO-REG-vranidol"
+},
+{
+"from": "NEO-PER-0048",
+"kind": "parent",
+"to": "NEO-PER-0080"
+},
+{
+"from": "NEO-PER-0080",
+"kind": "invenzione",
+"to": "NEO-INV-0009"
+},
+{
+"from": "NEO-PER-0080",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
 },
 {
 "from": "STE-PER-0001",
@@ -11209,6 +11234,132 @@
 "universo": "neofeudal"
 },
 {
+"id": "NEO-INV-0113",
+"tipo": "invenzione",
+"titolo": "Il Tamburo dei Muli Zoppi",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0114",
+"tipo": "invenzione",
+"titolo": "Le Bacchette Cucite nell'Orlo",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0115",
+"tipo": "invenzione",
+"titolo": "Il Tamburo del Legato",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0116",
+"tipo": "invenzione",
+"titolo": "Le Tessere Cucite del Turno",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0117",
+"tipo": "invenzione",
+"titolo": "Il Rullo del Turno Perduto",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0118",
+"tipo": "invenzione",
+"titolo": "Il Telaio che Gira di Nascosto",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0119",
+"tipo": "invenzione",
+"titolo": "Il Tornio dell'Ultima Bottega",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0120",
+"tipo": "invenzione",
+"titolo": "Il Tamburo che si Accordava da Solo",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0121",
+"tipo": "invenzione",
+"titolo": "I Fili che Luccicano Troppo",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0122",
+"tipo": "invenzione",
+"titolo": "Il Tamburo dei Morti che Chiama le Puntate",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0123",
+"tipo": "invenzione",
+"titolo": "Il Punto che Passa il Muro del Noviziato",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0124",
+"tipo": "invenzione",
+"titolo": "Il Tamburo che Ricorda la Data Vera",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0125",
+"tipo": "invenzione",
+"titolo": "I Tamburi Registrati come Vesti",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0126",
+"tipo": "invenzione",
+"titolo": "La Tensione che Solo Lei Sa Leggere",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0127",
+"tipo": "invenzione",
+"titolo": "Il Telaio Diventato Tamburo",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0128",
+"tipo": "invenzione",
+"titolo": "La Misura che Ha Zittito le Botteghe",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0129",
+"tipo": "invenzione",
+"titolo": "La Colla che Vasperdine non Può Smettere di Fare",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0130",
+"tipo": "invenzione",
+"titolo": "La Polvere che Si Vende da Sola",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0131",
+"tipo": "invenzione",
+"titolo": "Il Tamburo Falso che Tutti Vogliono",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0132",
+"tipo": "invenzione",
+"titolo": "Il Tamburo che Nessuno ha Smesso di Suonare",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0133",
+"tipo": "invenzione",
+"titolo": "Il Vivaio delle Radici Segrete",
+"universo": "neofeudal"
+},
+{
 "id": "NEO-PER-0001",
 "tipo": "personaggio",
 "titolo": "Juma Mwangaza",
@@ -11680,6 +11831,12 @@
 "id": "NEO-PER-0079",
 "tipo": "personaggio",
 "titolo": "Bogumil Vranić",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0080",
+"tipo": "personaggio",
+"titolo": "Nia Kimambura",
 "universo": "neofeudal"
 },
 {

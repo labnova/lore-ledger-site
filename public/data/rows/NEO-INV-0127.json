@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "il-costruttore",
+"created": "2026-09-17",
+"discipline": [
+"musica/percussioni",
+"tessile/ricamo"
+],
+"entita_usate": [
+"La Fusione dei Voti"
+],
+"epoca_relativa": 0,
+"estrazione": 110,
+"fatti": [],
+"gancio": "Il falegname che l'ha smontato per gioco si ritrova a doverne costruire altri dieci, perché nessuno accetta più una cassa fatta com'è sempre stata fatta.",
+"id": "NEO-INV-0127",
+"media": [],
+"nome": "Il Telaio Diventato Tamburo",
+"nome_reale": "Struttura di un vecchio telaio da ricamo, svuotata e chiusa a tamburo, che risuona meglio di qualunque cassa costruita apposta per la Fusione dei Voti",
+"oggetto": "Struttura di un telaio da ricamo, svuotata e chiusa a tamburo, che risuona meglio di qualunque cassa costruita apposta per la Fusione dei Voti.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "riuso-improprio",
+"universo": "neofeudal"
+}

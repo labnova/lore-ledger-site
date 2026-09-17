@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="206" viewBox="0 0 1180 206" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12">
+<title>La Piana Assegnata</title>
+<rect x="0" y="0" width="1180" height="206" fill="#fbfaf7"/>
+<text x="20" y="34" font-size="14" font-weight="bold" fill="#222">La Piana Assegnata</text>
+<text x="1160" y="34" text-anchor="end" fill="#666">2026-09-17-la-piana-assegnata</text>
+<g id="scena-1">
+<rect x="20" y="54" width="170" height="96" rx="6" fill="#9e9e9e" stroke="#333" stroke-width="1"/>
+<text x="30" y="74" font-size="13" font-weight="bold" fill="#fff">1</text>
+<text x="30" y="94" fill="#fff">pov CYB-PER-0013</text>
+<text x="30" y="112" fill="#fff">Il vagone-sportello d…</text>
+<text x="30" y="130" font-size="10" fill="#fff">Thomas smette di aspettar…</text>
+</g>
+<g id="scena-2">
+<rect x="214" y="54" width="170" height="96" rx="6" fill="#9e9e9e" stroke="#c62828" stroke-width="3"/>
+<text x="224" y="74" font-size="13" font-weight="bold" fill="#fff">2</text>
+<text x="224" y="94" fill="#fff">pov CYB-PER-0017</text>
+<text x="224" y="112" fill="#fff">Il carro di Bertha, t…</text>
+<text x="224" y="130" font-size="10" fill="#fff">La strada della falsifica…</text>
+</g>
+<g id="scena-3">
+<rect x="408" y="54" width="170" height="96" rx="6" fill="#9e9e9e" stroke="#333" stroke-width="1"/>
+<text x="418" y="74" font-size="13" font-weight="bold" fill="#fff">3</text>
+<text x="418" y="94" fill="#fff">pov CYB-PER-0018</text>
+<text x="418" y="112" fill="#fff">La tenda del cielo am…</text>
+<text x="418" y="130" font-size="10" fill="#fff">Thomas ottiene il prezzo…</text>
+</g>
+<g id="scena-4">
+<rect x="602" y="54" width="170" height="96" rx="6" fill="#9e9e9e" stroke="#333" stroke-width="1"/>
+<text x="612" y="74" font-size="13" font-weight="bold" fill="#fff">4</text>
+<text x="612" y="94" fill="#fff">pov CYB-PER-0016</text>
+<text x="612" y="112" fill="#fff">La baracca sull'argin…</text>
+<text x="612" y="130" font-size="10" fill="#fff">L'alloggio libero si rive…</text>
+</g>
+<g id="scena-5">
+<rect x="796" y="54" width="170" height="96" rx="6" fill="#9e9e9e" stroke="#c62828" stroke-width="3"/>
+<text x="806" y="74" font-size="13" font-weight="bold" fill="#fff">5</text>
+<text x="806" y="94" fill="#fff">pov CYB-PER-0020</text>
+<text x="806" y="112" fill="#fff">Il tendone comune acc…</text>
+<text x="806" y="130" font-size="10" fill="#fff">La famiglia di Samir sale…</text>
+</g>
+<g id="scena-6">
+<rect x="990" y="54" width="170" height="96" rx="6" fill="#9e9e9e" stroke="#c62828" stroke-width="3"/>
+<text x="1000" y="74" font-size="13" font-weight="bold" fill="#fff">6</text>
+<text x="1000" y="94" fill="#fff">pov CYB-PER-0022</text>
+<text x="1000" y="112" fill="#fff">Il vagone-biblioteca…</text>
+<text x="1000" y="130" font-size="10" fill="#fff">Thomas ha il punteggio ch…</text>
+</g>
+<text x="20" y="172" font-size="10" fill="#444">CYB-INV-0035</text>
+<line x1="105" y1="168" x2="493" y2="168" stroke="#444" stroke-width="1.5" stroke-dasharray="6 4"/>
+<line x1="493" y1="168" x2="687" y2="168" stroke="#444" stroke-width="1.5" stroke-dasharray="6 4"/>
+<line x1="687" y1="168" x2="1075" y2="168" stroke="#444" stroke-width="1.5" stroke-dasharray="6 4"/>
+<circle cx="105" cy="168" r="4" fill="#444"/>
+<circle cx="493" cy="168" r="4" fill="#444"/>
+<circle cx="687" cy="168" r="4" fill="#444"/>
+<circle cx="1075" cy="168" r="4" fill="#444"/>
+</svg>

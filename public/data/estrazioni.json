@@ -4387,5 +4387,103 @@
 "ELA-CON-0009"
 ],
 "universo": "elabverse"
+},
+{
+"campi_forzati": [],
+"chiavi": {
+"manca": {
+"gadget": 0,
+"personaggi": 0,
+"regione": true
+},
+"regione": "Tallinn",
+"universo": "hackverse"
+},
+"cluster_target": "HAC-INV-0001",
+"created": "2026-09-17",
+"esito": "ok",
+"estrazione": 109,
+"forzata": false,
+"lotto": "lotto-maturazione",
+"modello": "claude-sonnet-5",
+"note": "Nessuna riga da creare: personaggi (24, rapporti gia' 6 diversi) e gadget (HAC-GAD-0001) gia' presenti per il cluster. Il flag manca.regione e' dovuto al campo `regione` dei personaggi esistenti che riporta l'id della riga regione (es. HAC-REG-tallinn) invece del nome, per cui il lookup per nome non trova corrispondenza; le righe sono gia' committate e non vengono toccate (append-only). regione_esistente risolta su HAC-REG-tallinn, nessun nuovo file scritto. Stesso esito gia' registrato in estrazione 048 per questo cluster. python3 -m engine.cluster --lista conferma HAC-INV-0001 gia' fra i maturi (personaggi=24 gadget=1).\n",
+"righe_prodotte": [],
+"universo": "hackverse"
+},
+{
+"ambientazione": "vasperdine",
+"bibbia_pescata": [
+"Regole editoriali: nessun toponimo reale; i ceppi onomastici",
+"Il \"Crollo\" è l'evento fondativo, ed è contestato. Per il cl"
+],
+"campi_forzati": [],
+"canone_pescato": [
+"NEO-INV-0085",
+"NEO-GAD-0040",
+"NEO-PER-0048"
+],
+"chiavi": {
+"discipline": [
+"musica/percussioni",
+"tessile/ricamo"
+],
+"universo": "neofeudal"
+},
+"created": "2026-09-17",
+"entita": {
+"anomalia": {
+"descrizione": "Un lotto di cera da candela e zucchero bruciato fusi per errore durante la Fiera dei Pellegrini di tre anni fa, ridistribuito dalla Diocesi del Cielo come materiale benedetto senza separare i due; ogni oggetto fatto con questa pasta porta una doppia grazia che nessun prete sa più distinguere.",
+"nome": "La Fusione dei Voti"
+},
+"attore": {
+"descrizione": "Lay-sorella itinerante che raccoglie mozziconi di candela e ritagli di pasta dai pellegrini di Vasperdine per renderli in cera-zucchero, l'unica a conoscere la giusta proporzione.",
+"nome": "Sorella Amata Ceroni"
+},
+"ente": {
+"descrizione": "Autorità che fissa il turno d'acqua di Sarakan e benedice ogni bonifica prima che la vanga tocchi terra; ciò che non passa dal suo registro delle piogge non è mai davvero successo.",
+"nome": "Diocesi del Cielo"
+},
+"luogo": {
+"descrizione": "Piazzale coperto di Vasperdine dove tre tamburi di pelle consacrata scandiscono l'apertura delle quote ogni alba, e i pellegrini in attesa ricamano il proprio voto sull'orlo della cassula prima di consegnarlo al banco.",
+"nome": "Il Cortile delle Grancasse Votive"
+}
+},
+"entita_riusate": [
+"Diocesi del Cielo",
+"Sorella Amata Ceroni",
+"La Fusione dei Voti"
+],
+"esito": "ok",
+"espansioni": [
+"NEO-INV-0133",
+"NEO-PER-0080"
+],
+"estrazione": 110,
+"forzata": false,
+"lotto": "lotto-lore",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"NEO-INV-0113",
+"NEO-INV-0114",
+"NEO-INV-0115",
+"NEO-INV-0116",
+"NEO-INV-0117",
+"NEO-INV-0118",
+"NEO-INV-0119",
+"NEO-INV-0120",
+"NEO-INV-0121",
+"NEO-INV-0122",
+"NEO-INV-0123",
+"NEO-INV-0124",
+"NEO-INV-0125",
+"NEO-INV-0126",
+"NEO-INV-0127",
+"NEO-INV-0128",
+"NEO-INV-0129",
+"NEO-INV-0130",
+"NEO-INV-0131",
+"NEO-INV-0132"
+],
+"universo": "neofeudal"
 }
 ]

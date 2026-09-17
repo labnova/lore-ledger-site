@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "un-terzo-ignaro",
+"created": "2026-09-17",
+"discipline": [
+"musica/percussioni",
+"tessile/ricamo"
+],
+"entita_usate": [
+"Diocesi del Cielo",
+"Sorella Amata Ceroni"
+],
+"epoca_relativa": 0,
+"estrazione": 110,
+"fatti": [],
+"gancio": "Il pellegrino che ha ordinato l'orlo non sa che la sua cassula esce da un telaio già bollato guasto, riparato ogni notte da Sorella Amata Ceroni con lo spago che tiene per la cera.",
+"id": "NEO-INV-0118",
+"media": [],
+"nome": "Il Telaio che Gira di Nascosto",
+"nome_reale": "Vecchio telaio da ricamo a pedale, dichiarato superato per decreto della Diocesi del Cielo, che Sorella Amata Ceroni fa ancora girare di nascosto per finire gli orli promessi",
+"oggetto": "Vecchio telaio da ricamo a pedale, dichiarato superato per decreto della Diocesi del Cielo, che Sorella Amata Ceroni fa ancora girare di nascosto.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "obsolescenza",
+"universo": "neofeudal"
+}

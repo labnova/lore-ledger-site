@@ -1,0 +1,27 @@
+{
+"appare_in": [],
+"chi_paga": "nessuno-apparentemente",
+"created": "2026-09-17",
+"discipline": [
+"musica/percussioni",
+"tessile/ricamo"
+],
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 110,
+"fatti": [],
+"gancio": "Nessuno confessa di aver portato il punto sacro fuori dal noviziato, eppure i vincitori di Vasperdine portano tutti quella cucitura sul polsino.",
+"id": "NEO-INV-0123",
+"media": [],
+"nome": "Il Punto che Passa il Muro del Noviziato",
+"nome_reale": "Punto di ricamo che sigilla le vesti dei novizi e finisce, nodo per nodo, sul registro di stoffa delle quote alla Selva delle Puntate",
+"oggetto": "Punto di ricamo che sigilla le vesti dei novizi finisce, nodo per nodo, sul registro di stoffa delle quote alla Selva delle Puntate.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "doppio-uso",
+"universo": "neofeudal"
+}

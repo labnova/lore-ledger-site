@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "il-futuro",
+"created": "2026-09-17",
+"discipline": [
+"musica/percussioni",
+"tessile/ricamo"
+],
+"entita_usate": [
+"Sorella Amata Ceroni",
+"Il Cortile delle Grancasse Votive"
+],
+"epoca_relativa": 0,
+"estrazione": 110,
+"fatti": [],
+"gancio": "Quando Sorella Amata Ceroni non ci sarà più, i tamburi del Cortile suoneranno comunque, ma nessuno saprà più dire se stanno stonando.",
+"id": "NEO-INV-0126",
+"media": [],
+"nome": "La Tensione che Solo Lei Sa Leggere",
+"nome_reale": "Metodo per tendere le pelli dei tamburi votivi calcolando il consumo del filo da ricamo, noto soltanto a Sorella Amata Ceroni",
+"oggetto": "Metodo per tendere le pelli dei tamburi votivi calcolando il consumo del filo da ricamo, noto soltanto a Sorella Amata Ceroni.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "calibrazione",
+"universo": "neofeudal"
+}

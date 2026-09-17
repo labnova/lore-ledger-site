@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "l-utente-ultimo",
+"created": "2026-09-17",
+"discipline": [
+"musica/percussioni",
+"tessile/ricamo"
+],
+"entita_usate": [
+"Il Cortile delle Grancasse Votive"
+],
+"epoca_relativa": 0,
+"estrazione": 110,
+"fatti": [],
+"gancio": "Chi arriva senza la tessera cucita al polso aspetta il proprio turno anche tre giorni, mentre il tamburo tace sopra la sua testa.",
+"id": "NEO-INV-0116",
+"media": [],
+"nome": "Le Tessere Cucite del Turno",
+"nome_reale": "Tessera di stoffa ricamata che assegna a ogni famiglia di Vasperdine un turno preciso per far suonare i propri tamburi votivi nel Cortile delle Grancasse Votive",
+"oggetto": "Tessera di stoffa ricamata che assegna a ogni famiglia di Vasperdine un turno preciso per far suonare i propri tamburi votivi nel Cortile.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "razionamento",
+"universo": "neofeudal"
+}

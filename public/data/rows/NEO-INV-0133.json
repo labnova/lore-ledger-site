@@ -1,0 +1,27 @@
+{
+"appare_in": [],
+"chi_paga": "il-futuro",
+"created": "2026-09-17",
+"discipline": [
+"botanica/etnobotanica",
+"idraulica/bonifica"
+],
+"entita_usate": [],
+"epoca_relativa": 1,
+"estrazione": 110,
+"fatti": [],
+"gancio": "L'ultima erede sa innestare le talee resistenti al sale, ma non ha ancora insegnato il gesto a nessuno, e ogni argine che verrà dopo di lei dipende da una mano che potrebbe non esserci più.",
+"id": "NEO-INV-0133",
+"media": [],
+"nome": "Il Vivaio delle Radici Segrete",
+"nome_reale": "Vivaio nascosto dove l'unica famiglia di Sarakan che detiene il monopolio delle talee di salice ne coltiva di nascosto i cloni resistenti alla salsedine dei canali",
+"oggetto": "Vivaio segreto dove l'ultima erede di una famiglia di Sarakan coltiva le talee di salice resistenti al sale che nessun altro sa più innestare.",
+"parent_id": "NEO-INV-0085",
+"poc": false,
+"regione": "Sarakan",
+"relazione": "espansione",
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "monopolio",
+"universo": "neofeudal"
+}

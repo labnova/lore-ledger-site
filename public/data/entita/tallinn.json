@@ -5,7 +5,7 @@
 ],
 "descrizione": "Hub baltico dell'e-residency e dei registri digitali statali, attira broker di dati da ogni continente: nessun ceppo prevale, i cognomi restano quelli d'origine perché qui si arriva già adulti, con una identità digitale costruita altrove.",
 "ha_prosa": false,
-"n_ricorrenze": 29,
+"n_ricorrenze": 30,
 "nome": "Tallinn",
 "prima_apparizione": 32,
 "prosa": null,
@@ -271,6 +271,15 @@
 "riga_id": "HAC-PER-0043",
 "riga_tipo": "personaggio",
 "riga_titolo": "Sigrid Lindqvist"
+},
+{
+"estrazione": 109,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
 }
 ],
 "righe": [

@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "nessuno-apparentemente",
+"created": "2026-09-17",
+"discipline": [
+"musica/percussioni",
+"tessile/ricamo"
+],
+"entita_usate": [
+"Diocesi del Cielo"
+],
+"epoca_relativa": 0,
+"estrazione": 110,
+"fatti": [],
+"gancio": "Nessuno ha mai denunciato il furto, eppure il ricamo che imita le bacchette è così preciso che un vecchio suonatore lo riconosce a occhi chiusi.",
+"id": "NEO-INV-0114",
+"media": [],
+"nome": "Le Bacchette Cucite nell'Orlo",
+"nome_reale": "Corredo di bacchette da tamburo intarsiate sparito dal deposito della Diocesi del Cielo e ricomparso anni dopo ricamato, filo per filo, nell'orlo di un paramento",
+"oggetto": "Un corredo di bacchette intarsiate, sparito dal deposito della Diocesi del Cielo, ricomparso anni dopo cucito filo per filo nell'orlo di un paramento.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "furto",
+"universo": "neofeudal"
+}

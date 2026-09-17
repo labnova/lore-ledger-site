@@ -1,0 +1,27 @@
+{
+"appare_in": [],
+"chi_paga": "un-terzo-ignaro",
+"created": "2026-09-17",
+"discipline": [
+"musica/percussioni",
+"tessile/ricamo"
+],
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 110,
+"fatti": [],
+"gancio": "Chi lo sente rullare per la prima volta si inginocchia credendo a un lutto, e scopre solo dopo essersi genuflesso davanti al banco delle quote.",
+"id": "NEO-INV-0122",
+"media": [],
+"nome": "Il Tamburo dei Morti che Chiama le Puntate",
+"nome_reale": "Tamburo un tempo riservato ai funerali di Vasperdine, riadattato a richiamo per i pellegrini diretti alla Selva delle Puntate",
+"oggetto": "Tamburo un tempo riservato ai funerali di Vasperdine, riadattato a richiamo per i pellegrini diretti alla Selva delle Puntate.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "inversione-di-funzione",
+"universo": "neofeudal"
+}
