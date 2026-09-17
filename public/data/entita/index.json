@@ -97,6 +97,20 @@
 },
 {
 "alias": [
+"ELA-REG-scafo-zero"
+],
+"descrizione": "Uno scafo agganciato al convoglio senza mai essere stato registrato in nessun rollo d'imbarco; chi ci vive è arrivato da ogni ceppo e ha perso o rinnegato il cognome di città, così i nomi si mescolano liberamente e nessuno controlla più chi appartiene a chi.",
+"ha_prosa": false,
+"nome": "Scafo Zero",
+"prima_apparizione": 50,
+"ricorrenze": 24,
+"slug": "scafo-zero",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "elabverse"
+},
+{
+"alias": [
 "STE-REG-cancello-del-freddo",
 "STE-REG-ledoskol"
 ],
@@ -151,20 +165,6 @@
 "sopra_soglia": true,
 "tipo": "luogo",
 "universo": "hackverse"
-},
-{
-"alias": [
-"ELA-REG-scafo-zero"
-],
-"descrizione": "Uno scafo agganciato al convoglio senza mai essere stato registrato in nessun rollo d'imbarco; chi ci vive è arrivato da ogni ceppo e ha perso o rinnegato il cognome di città, così i nomi si mescolano liberamente e nessuno controlla più chi appartiene a chi.",
-"ha_prosa": false,
-"nome": "Scafo Zero",
-"prima_apparizione": 50,
-"ricorrenze": 14,
-"slug": "scafo-zero",
-"sopra_soglia": true,
-"tipo": "luogo",
-"universo": "elabverse"
 },
 {
 "alias": [

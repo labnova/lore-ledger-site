@@ -5526,6 +5526,16 @@
 "to": "HAC-INV-0017"
 },
 {
+"from": "HAC-CON-0002",
+"kind": "sorgente",
+"to": "HAC-PER-0024"
+},
+{
+"from": "HAC-CON-0002",
+"kind": "regione",
+"to": "HAC-REG-tallinn"
+},
+{
 "from": "NEO-CON-0001",
 "kind": "sorgente",
 "to": "NEO-PER-0010"
@@ -8186,6 +8196,12 @@
 "id": "HAC-CON-0001",
 "tipo": "contenuto",
 "titolo": "thread #bug-bounty-idraulico: \"lo stesso identico bug, due settori diversi\"",
+"universo": "hackverse"
+},
+{
+"id": "HAC-CON-0002",
+"tipo": "contenuto",
+"titolo": "Snap teaser \"Rilascio Lento\" — account @deriva.iridi, 19s",
 "universo": "hackverse"
 },
 {

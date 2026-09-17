@@ -1,6 +1,20 @@
 [
 {
 "appare_in": [],
+"chiavi": "video_corto · snapchat · trailer_20s",
+"created": "2026-09-17",
+"estrazione": 96,
+"id": "HAC-CON-0002",
+"parent_id": null,
+"regione": "HAC-REG-tallinn",
+"relazione": null,
+"sommario": "Snap teaser \"Rilascio Lento\" — account @deriva.iridi, 19s",
+"tipo": "contenuto",
+"titolo": "Snap teaser \"Rilascio Lento\" — account @deriva.iridi, 19s",
+"universo": "hackverse"
+},
+{
+"appare_in": [],
 "chiavi": "arte_visiva/affresco × cartografia/proiezioni",
 "created": "2026-09-17",
 "estrazione": 38,

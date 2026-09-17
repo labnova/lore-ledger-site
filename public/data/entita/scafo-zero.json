@@ -1,11 +1,11 @@
 {
-"aggiornata": "2026-09-15",
+"aggiornata": "2026-09-17",
 "alias": [
 "ELA-REG-scafo-zero"
 ],
 "descrizione": "Uno scafo agganciato al convoglio senza mai essere stato registrato in nessun rollo d'imbarco; chi ci vive è arrivato da ogni ceppo e ha perso o rinnegato il cognome di città, così i nomi si mescolano liberamente e nessuno controlla più chi appartiene a chi.",
 "ha_prosa": false,
-"n_ricorrenze": 14,
+"n_ricorrenze": 24,
 "nome": "Scafo Zero",
 "prima_apparizione": 50,
 "prosa": null,
@@ -136,6 +136,96 @@
 "riga_id": "ELA-SEM-0003",
 "riga_tipo": "seme",
 "riga_titolo": "seme ELA-INV-0107"
+},
+{
+"estrazione": 95,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0032",
+"riga_tipo": "gadget",
+"riga_titolo": "La Tavoletta del Volto di Cera"
+},
+{
+"estrazione": 95,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0033",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Pettine di Prova"
+},
+{
+"estrazione": 95,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0034",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Volto Contraffatto di Scafo Zero"
+},
+{
+"estrazione": 95,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0035",
+"riga_tipo": "gadget",
+"riga_titolo": "La Lastra di Cera di Contrabbando"
+},
+{
+"estrazione": 95,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0036",
+"riga_tipo": "gadget",
+"riga_titolo": "La Cornice di Formato Unico"
+},
+{
+"estrazione": 95,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0037",
+"riga_tipo": "gadget",
+"riga_titolo": "Lo Stilo a Manovella"
+},
+{
+"estrazione": 95,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0038",
+"riga_tipo": "gadget",
+"riga_titolo": "La Placca di Doppio Conto"
+},
+{
+"estrazione": 95,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0039",
+"riga_tipo": "gadget",
+"riga_titolo": "La Matrice Rubata"
+},
+{
+"estrazione": 95,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0040",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Telaio da Volto"
+},
+{
+"estrazione": 95,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0041",
+"riga_tipo": "gadget",
+"riga_titolo": "La Punta di Ricambio"
 }
 ],
 "righe": [
@@ -143,6 +233,56 @@
 "id": "ELA-GAD-0031",
 "tipo": "gadget",
 "titolo": "La Lanterna dal Doppio Lampeggio"
+},
+{
+"id": "ELA-GAD-0032",
+"tipo": "gadget",
+"titolo": "La Tavoletta del Volto di Cera"
+},
+{
+"id": "ELA-GAD-0033",
+"tipo": "gadget",
+"titolo": "Il Pettine di Prova"
+},
+{
+"id": "ELA-GAD-0034",
+"tipo": "gadget",
+"titolo": "Il Volto Contraffatto di Scafo Zero"
+},
+{
+"id": "ELA-GAD-0035",
+"tipo": "gadget",
+"titolo": "La Lastra di Cera di Contrabbando"
+},
+{
+"id": "ELA-GAD-0036",
+"tipo": "gadget",
+"titolo": "La Cornice di Formato Unico"
+},
+{
+"id": "ELA-GAD-0037",
+"tipo": "gadget",
+"titolo": "Lo Stilo a Manovella"
+},
+{
+"id": "ELA-GAD-0038",
+"tipo": "gadget",
+"titolo": "La Placca di Doppio Conto"
+},
+{
+"id": "ELA-GAD-0039",
+"tipo": "gadget",
+"titolo": "La Matrice Rubata"
+},
+{
+"id": "ELA-GAD-0040",
+"tipo": "gadget",
+"titolo": "Il Telaio da Volto"
+},
+{
+"id": "ELA-GAD-0041",
+"tipo": "gadget",
+"titolo": "La Punta di Ricambio"
 },
 {
 "id": "ELA-PER-0024",

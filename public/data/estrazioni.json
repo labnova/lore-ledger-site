@@ -3862,5 +3862,29 @@
 "ELA-INV-0116"
 ],
 "universo": "elabverse"
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"HAC-PER-0024",
+"HAC-INV-0037"
+],
+"chiavi": {
+"canale": "snapchat",
+"formato": "trailer_20s",
+"medium": "video_corto",
+"sorgente_id": "HAC-PER-0024",
+"veridicita": "in_universe"
+},
+"created": "2026-09-17",
+"esito": "ok",
+"estrazione": 96,
+"forzata": false,
+"lotto": "lotto-contenuti",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"HAC-CON-0002"
+],
+"universo": "hackverse"
 }
 ]
