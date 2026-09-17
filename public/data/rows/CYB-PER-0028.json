@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "separato"
+},
+"appare_in": [],
+"casta": "medici_clandestini",
+"ceppo": "germanico",
+"cognome": "Schäfer",
+"contraddizione": "È devota al lavoro fino a incidere Anime di Scorta perfette anche a notte fonda, ma ogni marco guadagnato vendendone i frammenti sottobanco finisce sui tavoli da gioco, e la donna che dice di non credere in nessun dio, solo nei registri, è la prima a non tenere mai in ordine il proprio.",
+"created": "2026-09-17",
+"difetto": "giocatore",
+"epoca_relativa": 0,
+"estrazione": 94,
+"eta_fascia": "anziano",
+"fatti": [],
+"gancio": "Clara perde al tavolo l'incasso di una settimana di incisioni proprio la notte in cui una famiglia si presenta per ritirare la copia che ha già venduto due volte per coprire un debito.",
+"id": "CYB-PER-0028",
+"invenzione_id": "CYB-INV-0015",
+"media": [],
+"nome": "Clara",
+"parent_id": null,
+"rapporto": "vende",
+"regione": "Rostkirche",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "scorpione",
+"spirituale": {
+"credenza": "nessun_dio_solo_registri",
+"rapporto": "apostata"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "devoto_al_lavoro",
+"universo": "cyberverse"
+}

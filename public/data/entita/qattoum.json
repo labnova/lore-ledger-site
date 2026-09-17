@@ -5,7 +5,7 @@
 ],
 "descrizione": "Porto di delta dove il fiume si divide in tre bracci salmastri; la gilda degli ingegneri del freddo costruisce e mantiene qui le chiatte refrigerate che risalgono la corrente fino alle città dell'interno, e quasi metà dei cognomi nasce ancora dal mestiere di chi ripara gli scafi.",
 "ha_prosa": false,
-"n_ricorrenze": 13,
+"n_ricorrenze": 19,
 "nome": "Qattoum",
 "prima_apparizione": 68,
 "prosa": null,
@@ -127,9 +127,88 @@
 "riga_id": "STE-PER-0031",
 "riga_tipo": "personaggio",
 "riga_titolo": "Yusuf Qassabi"
+},
+{
+"estrazione": 92,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 92,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-INV-0029",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Filo di Luce delle Saline"
+},
+{
+"estrazione": 92,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-INV-0032",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Fiaschetta dell'Ascolto"
+},
+{
+"estrazione": 92,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-INV-0035",
+"riga_tipo": "invenzione",
+"riga_titolo": "Lo Specchio della Nebbia"
+},
+{
+"estrazione": 92,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-INV-0040",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Lampada di Veglia"
+},
+{
+"estrazione": 92,
+"quando": "2026-09-16",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-INV-0046",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Chiave di Zaffran"
 }
 ],
 "righe": [
+{
+"id": "STE-INV-0029",
+"tipo": "invenzione",
+"titolo": "Il Filo di Luce delle Saline"
+},
+{
+"id": "STE-INV-0032",
+"tipo": "invenzione",
+"titolo": "La Fiaschetta dell'Ascolto"
+},
+{
+"id": "STE-INV-0035",
+"tipo": "invenzione",
+"titolo": "Lo Specchio della Nebbia"
+},
+{
+"id": "STE-INV-0040",
+"tipo": "invenzione",
+"titolo": "La Lampada di Veglia"
+},
+{
+"id": "STE-INV-0046",
+"tipo": "invenzione",
+"titolo": "La Chiave di Zaffran"
+},
 {
 "id": "STE-PER-0011",
 "tipo": "personaggio",

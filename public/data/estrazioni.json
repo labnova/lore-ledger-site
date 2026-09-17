@@ -3746,5 +3746,76 @@
 "STE-INV-0048"
 ],
 "universo": "steamverse"
+},
+{
+"campi_forzati": [],
+"chiavi": {
+"cluster": [
+"CYB-INV-0035"
+]
+},
+"created": "2026-09-16",
+"esito": "ok",
+"estrazione": 93,
+"forzata": false,
+"lotto": "lotto-semi",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"CYB-SEM-0002"
+],
+"universi": [
+"cyberverse"
+],
+"universo": "cross"
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"CYB-INV-0015",
+"CYB-REG-rostkirche"
+],
+"chiavi": {
+"casta": "medici_clandestini",
+"invenzione_id": "CYB-INV-0015",
+"personaggi": [
+"CYB-PER-0023",
+"CYB-PER-0024",
+"CYB-PER-0025",
+"CYB-PER-0026",
+"CYB-PER-0027",
+"CYB-PER-0028",
+"CYB-PER-0029",
+"CYB-PER-0030",
+"CYB-PER-0031",
+"CYB-PER-0032"
+],
+"regione": "CYB-REG-rostkirche",
+"universo": "cyberverse"
+},
+"created": "2026-09-17",
+"esito": "ok",
+"espansioni": [
+{
+"id": "CYB-INV-0074",
+"parent_id": "CYB-INV-0050"
+}
+],
+"estrazione": 94,
+"forzata": false,
+"lotto": "lotto-personaggi",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"CYB-PER-0023",
+"CYB-PER-0024",
+"CYB-PER-0025",
+"CYB-PER-0026",
+"CYB-PER-0027",
+"CYB-PER-0028",
+"CYB-PER-0029",
+"CYB-PER-0030",
+"CYB-PER-0031",
+"CYB-PER-0032"
+],
+"universo": "cyberverse"
 }
 ]

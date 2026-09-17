@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-17",
+"discipline": [
+"astronomia/astrometria",
+"architettura/restauro"
+],
+"epoca_relativa": 1,
+"estrazione": 94,
+"fatti": [],
+"gancio": "Un ispettore incaricato di verificare le letture sospette scopre che la falsificazione più diffusa in città usa proprio il suo stesso codice di osservatore, rubato mesi prima senza che se ne accorgesse.",
+"id": "CYB-INV-0074",
+"media": [],
+"nome": "Le Stelle Bollinate",
+"nome_reale": "Mercato nero di letture astrometriche falsificate per aggirare la sospensione del Bollino Parallasse",
+"parent_id": "CYB-INV-0050",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Con le licenze di lettura del Bollino sospese per il contenzioso, chi ha bisogno di sbloccare uno sfratto compra da astrometri paralleli letture false, timbrate come se venissero dagli osservatori ufficiali di Parallasse Certificazioni™.",
+"universo": "cyberverse"
+}

@@ -66,6 +66,11 @@
 "to": "CYB-INV-0073"
 },
 {
+"from": "CYB-INV-0050",
+"kind": "parent",
+"to": "CYB-INV-0074"
+},
+{
 "from": "ELA-INV-0009",
 "kind": "parent",
 "to": "ELA-INV-0041"
@@ -692,6 +697,106 @@
 },
 {
 "from": "CYB-PER-0022",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-PER-0023",
+"kind": "invenzione",
+"to": "CYB-INV-0015"
+},
+{
+"from": "CYB-PER-0023",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-PER-0024",
+"kind": "invenzione",
+"to": "CYB-INV-0015"
+},
+{
+"from": "CYB-PER-0024",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-PER-0025",
+"kind": "invenzione",
+"to": "CYB-INV-0015"
+},
+{
+"from": "CYB-PER-0025",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-PER-0026",
+"kind": "invenzione",
+"to": "CYB-INV-0015"
+},
+{
+"from": "CYB-PER-0026",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-PER-0027",
+"kind": "invenzione",
+"to": "CYB-INV-0015"
+},
+{
+"from": "CYB-PER-0027",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-PER-0028",
+"kind": "invenzione",
+"to": "CYB-INV-0015"
+},
+{
+"from": "CYB-PER-0028",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-PER-0029",
+"kind": "invenzione",
+"to": "CYB-INV-0015"
+},
+{
+"from": "CYB-PER-0029",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-PER-0030",
+"kind": "invenzione",
+"to": "CYB-INV-0015"
+},
+{
+"from": "CYB-PER-0030",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-PER-0031",
+"kind": "invenzione",
+"to": "CYB-INV-0015"
+},
+{
+"from": "CYB-PER-0031",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-PER-0032",
+"kind": "invenzione",
+"to": "CYB-INV-0015"
+},
+{
+"from": "CYB-PER-0032",
 "kind": "regione",
 "to": "CYB-REG-rostkirche"
 },
@@ -5306,6 +5411,16 @@
 "to": "CYB-REG-rostkirche"
 },
 {
+"from": "CYB-SEM-0002",
+"kind": "cluster",
+"to": "CYB-INV-0035"
+},
+{
+"from": "CYB-SEM-0002",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
 "from": "ELA-SEM-0001",
 "kind": "cluster",
 "to": "ELA-INV-0005"
@@ -6415,6 +6530,12 @@
 "universo": "cyberverse"
 },
 {
+"id": "CYB-INV-0074",
+"tipo": "invenzione",
+"titolo": "Le Stelle Bollinate",
+"universo": "cyberverse"
+},
+{
 "id": "CYB-PER-0001",
 "tipo": "personaggio",
 "titolo": "Eszter Etxeondo",
@@ -6547,6 +6668,66 @@
 "universo": "cyberverse"
 },
 {
+"id": "CYB-PER-0023",
+"tipo": "personaggio",
+"titolo": "Wilhelm Zimhardt",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0024",
+"tipo": "personaggio",
+"titolo": "Elke Zimner",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0025",
+"tipo": "personaggio",
+"titolo": "Detlef Waldbrechinner",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0026",
+"tipo": "personaggio",
+"titolo": "Sabine Steiningenhoff",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0027",
+"tipo": "personaggio",
+"titolo": "Rainer Brandler",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0028",
+"tipo": "personaggio",
+"titolo": "Clara Schäfer",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0029",
+"tipo": "personaggio",
+"titolo": "Ulrich Kremberg",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0030",
+"tipo": "personaggio",
+"titolo": "Wolfgang Falkhauler",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0031",
+"tipo": "personaggio",
+"titolo": "Helga Lindinghoff",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0032",
+"tipo": "personaggio",
+"titolo": "Ute Waldingbach",
+"universo": "cyberverse"
+},
+{
 "id": "CYB-REG-rostkirche",
 "tipo": "regione",
 "titolo": "Rostkirche",
@@ -6556,6 +6737,12 @@
 "id": "CYB-SEM-0001",
 "tipo": "seme",
 "titolo": "seme CYB-INV-0015",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-SEM-0002",
+"tipo": "seme",
+"titolo": "seme CYB-INV-0035",
 "universo": "cyberverse"
 },
 {

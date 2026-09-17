@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "pansessuale",
+"situazione": "promesso_per_contratto"
+},
+"appare_in": [],
+"casta": "medici_clandestini",
+"ceppo": "germanico",
+"cognome": "Zimhardt",
+"contraddizione": "Scherza su ogni copia dell'Anima di Scorta che incide, chiamandola \"il secondo giro gratis\" per chi crede nel ciclo del ritorno, ma è l'unico della bottega che controlla due volte se il backup si è davvero spento, troppo ingenuo per capire che ridere non basta a nascondere la sua paura.",
+"created": "2026-09-17",
+"difetto": "ingenuo",
+"epoca_relativa": 0,
+"estrazione": 94,
+"eta_fascia": "anziano",
+"fatti": [],
+"gancio": "Wilhelm scopre che una delle copie che credeva spenta da anni risponde ancora a una domanda, e non riesce a decidere se distruggerla o continuare a fingere, ridendo, che non sia successo niente.",
+"id": "CYB-PER-0023",
+"invenzione_id": "CYB-INV-0015",
+"media": [],
+"nome": "Wilhelm",
+"parent_id": null,
+"rapporto": "teme",
+"regione": "Rostkirche",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "acquario",
+"spirituale": {
+"credenza": "ciclo_del_ritorno",
+"rapporto": "scettico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ironico",
+"universo": "cyberverse"
+}

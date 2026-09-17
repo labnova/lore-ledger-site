@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "promesso_per_contratto"
+},
+"appare_in": [],
+"casta": "medici_clandestini",
+"ceppo": "germanico",
+"cognome": "Waldingbach",
+"contraddizione": "È stata costruita anni fa come il primo corpo d'appoggio riuscito per un'Anima di Scorta, e il suo silenzio sulla propria natura ha protetto la bottega per tutto questo tempo, ma la vanità la tradisce: cura il proprio aspetto con una precisione che nessun corpo comprato in fretta dovrebbe permettersi, e qualcuno ha cominciato a notarlo.",
+"created": "2026-09-17",
+"difetto": "vanitoso",
+"epoca_relativa": 0,
+"estrazione": 94,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "L'uomo a cui Ute è promessa per contratto le chiede perché non invecchia come le altre donne di Rostkirche, e lei, per la prima volta, non trova un silenzio abbastanza convincente da darle come risposta.",
+"id": "CYB-PER-0032",
+"invenzione_id": "CYB-INV-0015",
+"media": [],
+"nome": "Ute",
+"parent_id": null,
+"rapporto": "costruita",
+"regione": "Rostkirche",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "ariete",
+"spirituale": {
+"credenza": "dottrina_del_debito",
+"rapporto": "eretico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "silenzioso",
+"universo": "cyberverse"
+}

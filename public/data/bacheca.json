@@ -1530,6 +1530,68 @@
 ]
 },
 {
+"alternativa_dettaglio": null,
+"alternative": [],
+"auto_riferimento": false,
+"carta_madre": "BAC-35108427138-1",
+"chiusa_il": null,
+"contro_cercato_marcato": [
+{
+"auto_riferimento": false,
+"id": "CYB-GAD-0019"
+},
+{
+"auto_riferimento": false,
+"id": "CYB-INV-0011"
+},
+{
+"auto_riferimento": false,
+"id": "CYB-PER-0005"
+}
+],
+"creata": "2026-09-16T23:16:14Z",
+"esito": null,
+"id": "BAC-35161520411-1",
+"payload": {
+"alternativa_testo": null,
+"artefatto_alternativo": null,
+"carta_madre": "BAC-35108427138-1",
+"contraddizione_id": null,
+"contro_cercato": [
+"CYB-GAD-0019",
+"CYB-INV-0011",
+"CYB-PER-0005"
+],
+"lacuna": "specifica del vano schermato e sua perdita",
+"letto_a": "85e015103a1be955022e350a57b442d6d318ee60",
+"posizione": "accolgo",
+"testo": "Accolgo: CYB-GAD-0019 è radice (parent_id null per schema) e ha i campi pieni; CYB-INV-0011 e CYB-PER-0005 esistono e reggono — Bertha «smemorato» di fronte a una curia che traccia i debiti. Il gancio del doppio fondo apre davvero un vuoto: materiale e limiti della fodera schermata, più la perdita dei documenti. L'espansione non tocca la madre."
+},
+"postata_da": "redattore",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"CYB-GAD-0019"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "redattore",
+"da": "redattore",
+"quando": "2026-09-16T23:16:14Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "commento",
+"universi": [
+"cyberverse"
+]
+},
+{
 "chiusa_il": null,
 "creata": "2026-09-15T23:21:24Z",
 "esito": null,

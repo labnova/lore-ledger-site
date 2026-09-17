@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"cluster": "CYB-INV-0035",
+"created": "2026-09-16",
+"epoca_relativa": 0,
+"estrazione": 93,
+"fatti": [],
+"id": "CYB-SEM-0002",
+"media": [],
+"origine": "arricchimento",
+"ostacolo": "Bertha Brandmann, vedova anche lei di un uomo morto in un alloggio assegnato dall'algoritmo, falsifica i moduli del campo per tenere le famiglie di Rostkirche fuori dalla piana, ma si rifiuta di truccare anche quello di Thomas, convinta che un matrimonio scritto per finta le riporterebbe addosso proprio la bugia che teme.",
+"parent_id": null,
+"premessa": "Thomas Eicherwald, che teme di essere rispedito dal Punteggio Sereno nella stessa piana alluvionale, vuole i due punti che l'algoritmo assegna ai coniugati e si offre in sposo per contratto solo per quelli, sperando bastino a spostarlo fuori dalla lista degli edifici a rischio.",
+"regione": "Rostkirche",
+"relazione": null,
+"rottura": "Nuru Nduni offre a Thomas di saltare la fila comprando punti sottobanco, e se accetta il posto che ottiene è proprio l'alloggio sull'argine promesso alla famiglia già colpita due volte dalla stessa piena: qualcuno dovrà essere spostato al posto suo.",
+"schema_version": 1,
+"status": "canon",
+"tipo": "seme",
+"tono": "noir amministrativo, colpa sommersa",
+"universi": [
+"cyberverse"
+],
+"universo": "cyberverse"
+}
