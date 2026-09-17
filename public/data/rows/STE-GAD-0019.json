@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Svetlana l'ha comprata per due gettoni da un fabbro di Qattoum che voleva liberarsene, e la tiene tra gli attrezzi del suo Barometro come pezzo da studiare.",
+"chi_paga": "il-costruttore",
+"cosa": "Chiave di taratura forgiata in serie, con inciso un numero di torre che non è mai esistito lungo la costa.",
+"created": "2026-09-17",
+"entita_usate": [
+"Halim Zaffran"
+],
+"epoca_relativa": 0,
+"estrazione": 100,
+"fatti": [],
+"gancio": "Il fabbro che forgiò il lotto incise a martello il numero di una torre inesistente mentre Zaffran dettava a voce, e da allora ogni torre che riceve quella chiave la rimanda indietro convinta sia un suo errore, mai dell'inventore.",
+"id": "STE-GAD-0019",
+"invenzione_id": "STE-INV-0046",
+"media": [],
+"nome": "La Chiave dal Numero Sbagliato",
+"oggetto": "Chiave di taratura con inciso un numero di torre inesistente, forgiata per errore in serie.",
+"parent_id": null,
+"personaggio_id": "STE-PER-0006",
+"prod": false,
+"regione": "Ledoskol",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "errore-di-etichetta",
+"tradimento_tech": "La tacca è tarata correttamente, il numero è solo sbagliato, funzionerebbe alla perfezione se qualcuno si fidasse ancora abbastanza del fabbro da provarla.",
+"universo": "steamverse"
+}

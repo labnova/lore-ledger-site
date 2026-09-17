@@ -496,6 +496,11 @@
 "to": "STE-INV-0049"
 },
 {
+"from": "STE-INV-0048",
+"kind": "parent",
+"to": "STE-INV-0050"
+},
+{
 "from": "CYB-PER-0001",
 "kind": "invenzione",
 "to": "CYB-INV-0015"
@@ -2812,6 +2817,36 @@
 },
 {
 "from": "STE-PER-0031",
+"kind": "regione",
+"to": "STE-REG-qattoum"
+},
+{
+"from": "STE-PER-0022",
+"kind": "parent",
+"to": "STE-PER-0032"
+},
+{
+"from": "STE-PER-0032",
+"kind": "invenzione",
+"to": "STE-INV-0010"
+},
+{
+"from": "STE-PER-0032",
+"kind": "regione",
+"to": "STE-REG-ikerviz"
+},
+{
+"from": "STE-PER-0014",
+"kind": "parent",
+"to": "STE-PER-0033"
+},
+{
+"from": "STE-PER-0033",
+"kind": "invenzione",
+"to": "STE-INV-0001"
+},
+{
+"from": "STE-PER-0033",
 "kind": "regione",
 "to": "STE-REG-qattoum"
 },
@@ -5587,6 +5622,156 @@
 },
 {
 "from": "STE-GAD-0010",
+"kind": "regione",
+"to": "STE-REG-ledoskol"
+},
+{
+"from": "STE-GAD-0011",
+"kind": "invenzione",
+"to": "STE-INV-0046"
+},
+{
+"from": "STE-GAD-0011",
+"kind": "personaggio",
+"to": "STE-PER-0006"
+},
+{
+"from": "STE-GAD-0011",
+"kind": "regione",
+"to": "STE-REG-ledoskol"
+},
+{
+"from": "STE-GAD-0012",
+"kind": "invenzione",
+"to": "STE-INV-0046"
+},
+{
+"from": "STE-GAD-0012",
+"kind": "personaggio",
+"to": "STE-PER-0006"
+},
+{
+"from": "STE-GAD-0012",
+"kind": "regione",
+"to": "STE-REG-ledoskol"
+},
+{
+"from": "STE-GAD-0013",
+"kind": "invenzione",
+"to": "STE-INV-0046"
+},
+{
+"from": "STE-GAD-0013",
+"kind": "personaggio",
+"to": "STE-PER-0006"
+},
+{
+"from": "STE-GAD-0013",
+"kind": "regione",
+"to": "STE-REG-ledoskol"
+},
+{
+"from": "STE-GAD-0014",
+"kind": "invenzione",
+"to": "STE-INV-0046"
+},
+{
+"from": "STE-GAD-0014",
+"kind": "personaggio",
+"to": "STE-PER-0006"
+},
+{
+"from": "STE-GAD-0014",
+"kind": "regione",
+"to": "STE-REG-ledoskol"
+},
+{
+"from": "STE-GAD-0015",
+"kind": "invenzione",
+"to": "STE-INV-0046"
+},
+{
+"from": "STE-GAD-0015",
+"kind": "personaggio",
+"to": "STE-PER-0006"
+},
+{
+"from": "STE-GAD-0015",
+"kind": "regione",
+"to": "STE-REG-ledoskol"
+},
+{
+"from": "STE-GAD-0016",
+"kind": "invenzione",
+"to": "STE-INV-0046"
+},
+{
+"from": "STE-GAD-0016",
+"kind": "personaggio",
+"to": "STE-PER-0006"
+},
+{
+"from": "STE-GAD-0016",
+"kind": "regione",
+"to": "STE-REG-ledoskol"
+},
+{
+"from": "STE-GAD-0017",
+"kind": "invenzione",
+"to": "STE-INV-0046"
+},
+{
+"from": "STE-GAD-0017",
+"kind": "personaggio",
+"to": "STE-PER-0006"
+},
+{
+"from": "STE-GAD-0017",
+"kind": "regione",
+"to": "STE-REG-ledoskol"
+},
+{
+"from": "STE-GAD-0018",
+"kind": "invenzione",
+"to": "STE-INV-0046"
+},
+{
+"from": "STE-GAD-0018",
+"kind": "personaggio",
+"to": "STE-PER-0006"
+},
+{
+"from": "STE-GAD-0018",
+"kind": "regione",
+"to": "STE-REG-ledoskol"
+},
+{
+"from": "STE-GAD-0019",
+"kind": "invenzione",
+"to": "STE-INV-0046"
+},
+{
+"from": "STE-GAD-0019",
+"kind": "personaggio",
+"to": "STE-PER-0006"
+},
+{
+"from": "STE-GAD-0019",
+"kind": "regione",
+"to": "STE-REG-ledoskol"
+},
+{
+"from": "STE-GAD-0020",
+"kind": "invenzione",
+"to": "STE-INV-0046"
+},
+{
+"from": "STE-GAD-0020",
+"kind": "personaggio",
+"to": "STE-PER-0006"
+},
+{
+"from": "STE-GAD-0020",
 "kind": "regione",
 "to": "STE-REG-ledoskol"
 },
@@ -11015,6 +11200,66 @@
 "universo": "steamverse"
 },
 {
+"id": "STE-GAD-0011",
+"tipo": "gadget",
+"titolo": "La Chiave del Sorteggio",
+"universo": "steamverse"
+},
+{
+"id": "STE-GAD-0012",
+"tipo": "gadget",
+"titolo": "Il Panno dell'Alba",
+"universo": "steamverse"
+},
+{
+"id": "STE-GAD-0013",
+"tipo": "gadget",
+"titolo": "La Goccia di Placazione",
+"universo": "steamverse"
+},
+{
+"id": "STE-GAD-0014",
+"tipo": "gadget",
+"titolo": "La Chiave Clandestina",
+"universo": "steamverse"
+},
+{
+"id": "STE-GAD-0015",
+"tipo": "gadget",
+"titolo": "La Chiave da Taschino",
+"universo": "steamverse"
+},
+{
+"id": "STE-GAD-0016",
+"tipo": "gadget",
+"titolo": "Lo Specchio d'Attracco",
+"universo": "steamverse"
+},
+{
+"id": "STE-GAD-0017",
+"tipo": "gadget",
+"titolo": "La Fiaschetta del Capoturno",
+"universo": "steamverse"
+},
+{
+"id": "STE-GAD-0018",
+"tipo": "gadget",
+"titolo": "Lo Specchio da Polso",
+"universo": "steamverse"
+},
+{
+"id": "STE-GAD-0019",
+"tipo": "gadget",
+"titolo": "La Chiave dal Numero Sbagliato",
+"universo": "steamverse"
+},
+{
+"id": "STE-GAD-0020",
+"tipo": "gadget",
+"titolo": "La Chiave Scambiata",
+"universo": "steamverse"
+},
+{
 "id": "STE-INV-0001",
 "tipo": "invenzione",
 "titolo": "Le Barche Bianche",
@@ -11303,6 +11548,12 @@
 "universo": "steamverse"
 },
 {
+"id": "STE-INV-0050",
+"tipo": "invenzione",
+"titolo": "Il Serbatoio che Corregge da Solo",
+"universo": "steamverse"
+},
+{
 "id": "STE-PER-0001",
 "tipo": "personaggio",
 "titolo": "Tatiana Gomiin",
@@ -11486,6 +11737,18 @@
 "id": "STE-PER-0031",
 "tipo": "personaggio",
 "titolo": "Yusuf Qassabi",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0032",
+"tipo": "personaggio",
+"titolo": "Tamás Vörös",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0033",
+"tipo": "personaggio",
+"titolo": "Fatima al-Rashidi",
 "universo": "steamverse"
 },
 {

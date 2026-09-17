@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_paga": "l-istituzione",
+"created": "2026-09-17",
+"discipline": [
+"telecomunicazioni/fibra_ottica",
+"illuminazione/lampade_a_olio"
+],
+"entita_usate": [
+"Lo Sfarfallio delle Nove",
+"Consorzio del Vetro e del Sale"
+],
+"epoca_relativa": 0,
+"estrazione": 100,
+"fatti": [],
+"gancio": "Da quando la torre coinvolta nello Sfarfallio delle Nove riceve sempre la scorta sbagliata, qualcuno vi ha montato un serbatoio che la corregge in silenzio prima che arrivi allo specchio, e ormai il Consorzio del Vetro e del Sale preferisce pagarne la manutenzione piuttosto che correggere l'etichetta che l'ha reso necessario.",
+"id": "STE-INV-0050",
+"media": [],
+"nome": "Il Serbatoio che Corregge da Solo",
+"nome_reale": "Serbatoio di compensazione che miscela qualunque partita d'olio ricevuta alla densità giusta per la torre, aggirando l'errore di smistamento invece di correggerlo",
+"oggetto": "Serbatoio di compensazione che miscela l'olio ricevuto alla densità giusta per la torre, aggirando l'errore di smistamento invece di correggerlo.",
+"parent_id": "STE-INV-0048",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "inversione-di-funzione",
+"universo": "steamverse"
+}

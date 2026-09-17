@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "bisessuale",
+"situazione": "sola_per_scelta"
+},
+"appare_in": [],
+"casta": "ingegneri",
+"ceppo": "arabo",
+"cognome": "al-Rashidi",
+"contraddizione": "Paziente da anni con Bilal, sopporta i suoi disegni sempre incompleti senza mai protestare, ma l'ossessione di completare da sola lo scafo della camera refrigerante la spinge a copiarne di notte, misura per misura, ogni sigillo che lui crede nascosto a tutti tranne che a sé stesso.",
+"created": "2026-09-17",
+"difetto": "ossessiva",
+"epoca_relativa": 0,
+"estrazione": 100,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Ha già ricostruito a memoria due terzi del disegno che Bilal le nega, e ogni notte controlla se il suo sigillo è cambiato, aspettando il giorno in cui somiglierà abbastanza all'originale da poterlo giurare suo.",
+"id": "STE-PER-0033",
+"invenzione_id": "STE-INV-0001",
+"media": [],
+"nome": "Fatima",
+"parent_id": "STE-PER-0014",
+"rapporto": "studia",
+"regione": "STE-REG-qattoum",
+"relazione": "espansione",
+"ritratto": null,
+"schema_version": 1,
+"segno": "pesci",
+"spirituale": {
+"credenza": "ciclo_del_ritorno",
+"rapporto": "scettica"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "paziente",
+"universo": "steamverse"
+}

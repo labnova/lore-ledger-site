@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Svetlana la porta al collo su un cordino, vinta al sorteggio annuale nonostante non sia nata a Qattoum né rechi la casta giusta.",
+"chi_paga": "l-inventore-originario",
+"cosa": "Copia in ottone della chiave di taratura di Zaffran, senza tacche proprie, assegnata ogni anno per sorteggio tra gli apprendisti di turno alle torri di Qattoum.",
+"created": "2026-09-17",
+"entita_usate": [
+"Halim Zaffran",
+"Qattoum"
+],
+"epoca_relativa": 0,
+"estrazione": 100,
+"fatti": [],
+"gancio": "Il sorteggio l'ha scelta senza guardare la sua casta né la sua città, e ora deve imparare a sentire sotto le dita la tacca giusta di una chiave che nessuno le ha spiegato, mentre calcola quanto quel favore possa valere per il suo Barometro.",
+"id": "STE-GAD-0011",
+"invenzione_id": "STE-INV-0046",
+"media": [],
+"nome": "La Chiave del Sorteggio",
+"oggetto": "Copia in ottone della chiave di taratura, senza tacche, assegnata per sorteggio annuale agli apprendisti delle torri.",
+"parent_id": null,
+"personaggio_id": "STE-PER-0006",
+"prod": true,
+"regione": "Ledoskol",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "sorte",
+"tradimento_tech": "Ogni vincitore del sorteggio lima un pelo la tacca per farla \"sua\", e generazioni di piccole correzioni hanno spostato la taratura lontano da quella originale di Zaffran, senza che nessuno osi confrontarla con la sua.",
+"universo": "steamverse"
+}

@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Svetlana la porta al taschino come vezzo, ricordo di un favore fatto a un taratore di Qattoum durante uno scalo, e non l'ha mai tolta dalla catena nemmeno in servizio.",
+"chi_paga": "un-terzo-ignaro",
+"cosa": "Copia in miniatura, in scala da orologiaio, della chiave di taratura di Zaffran, montata su una catena da taschino.",
+"created": "2026-09-17",
+"entita_usate": [
+"Halim Zaffran",
+"Qattoum"
+],
+"epoca_relativa": 0,
+"estrazione": 100,
+"fatti": [],
+"gancio": "Il giovane meccanico della sua aeronave, convinto che ogni chiave dello stesso disegno vada bene ovunque, gliela sfila dal taschino mentre dorme e la infila nello specchio-collimatore di bordo, spezzandola nel tentativo di far girare una tacca pensata per una torre, non per un'ala.",
+"id": "STE-GAD-0015",
+"invenzione_id": "STE-INV-0046",
+"media": [],
+"nome": "La Chiave da Taschino",
+"oggetto": "Copia in miniatura della chiave di taratura, montata come ciondolo su una catena da taschino.",
+"parent_id": null,
+"personaggio_id": "STE-PER-0006",
+"prod": true,
+"regione": "Ledoskol",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "scala-sbagliata",
+"tradimento_tech": "È identica nella forma alla vera chiave di Zaffran, ma nessuna delle sue tacche corrisponde a una fiamma reale, è un gioiello che finge una funzione che non ha mai avuto.",
+"universo": "steamverse"
+}

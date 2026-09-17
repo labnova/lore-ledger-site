@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Svetlana lo tiene incastrato nel cinturino, sotto la manica, come fosse un orologio comune.",
+"chi_paga": "nessuno-apparentemente",
+"cosa": "Piccolo specchio delle dimensioni di un orologio da taschino, tarato per catturare lo stesso lampo delle torri del telegrafo.",
+"created": "2026-09-17",
+"entita_usate": [
+"Lo Sfarfallio delle Nove",
+"Consorzio del Vetro e del Sale"
+],
+"epoca_relativa": 0,
+"estrazione": 100,
+"fatti": [],
+"gancio": "Per il Consorzio, lo Sfarfallio delle Nove è solo un'anomalia da ignorare ogni sera al cambio turno; per Svetlana e l'ispettore che dovrebbe approvare il suo brevetto, quello stesso vacillare è il segnale che il turno è libero e che possono vedersi senza essere cercati.",
+"id": "STE-GAD-0018",
+"invenzione_id": "STE-INV-0046",
+"media": [],
+"nome": "Lo Specchio da Polso",
+"oggetto": "Piccolo specchio da polso tarato sullo stesso lampo delle torri del telegrafo ottico.",
+"parent_id": null,
+"personaggio_id": "STE-PER-0006",
+"prod": false,
+"regione": "Ledoskol",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "doppio-uso",
+"tradimento_tech": "Nessuno collega mai lo specchio da polso alla Chiave di Zaffran, ma è tarato sulla stessa fiamma esatta, chi lo indossa legge in anticipo l'unico momento in cui la torre distoglie lo sguardo da sé stessa.",
+"universo": "steamverse"
+}

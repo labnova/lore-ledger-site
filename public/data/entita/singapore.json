@@ -1,0 +1,184 @@
+{
+"aggiornata": "2026-09-17",
+"alias": [
+"HAC-REG-singapore"
+],
+"descrizione": "Città-stato crocevia di capitali e dati tra Asia ed Europa, dove ogni broker arriva già con passaporto e cognome propri: nessun ceppo prevale e pochi portano il cognome del mestiere, perché qui l'identità si compra e si vende, non si eredita.",
+"ha_prosa": false,
+"n_ricorrenze": 12,
+"nome": "Singapore",
+"prima_apparizione": 99,
+"prosa": null,
+"racconti": [],
+"ricorrenze": [
+{
+"estrazione": 99,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 99,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0033",
+"riga_tipo": "personaggio",
+"riga_titolo": "Rania Qannas"
+},
+{
+"estrazione": 99,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0034",
+"riga_tipo": "personaggio",
+"riga_titolo": "Jon Bidenauria"
+},
+{
+"estrazione": 99,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0035",
+"riga_tipo": "personaggio",
+"riga_titolo": "Nadja Kari"
+},
+{
+"estrazione": 99,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0036",
+"riga_tipo": "personaggio",
+"riga_titolo": "Naoki Hokimukawa"
+},
+{
+"estrazione": 99,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0037",
+"riga_tipo": "personaggio",
+"riga_titolo": "Bogdan Vlamiak"
+},
+{
+"estrazione": 99,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0038",
+"riga_tipo": "personaggio",
+"riga_titolo": "Lajos Feny"
+},
+{
+"estrazione": 99,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0039",
+"riga_tipo": "personaggio",
+"riga_titolo": "Tobias Lindlichelberg"
+},
+{
+"estrazione": 99,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0040",
+"riga_tipo": "personaggio",
+"riga_titolo": "Zawadi Kimatara"
+},
+{
+"estrazione": 99,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0041",
+"riga_tipo": "personaggio",
+"riga_titolo": "Kari Møller"
+},
+{
+"estrazione": 99,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0042",
+"riga_tipo": "personaggio",
+"riga_titolo": "Hülya Taşçı"
+},
+{
+"estrazione": 99,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-REG-singapore",
+"riga_tipo": "regione",
+"riga_titolo": "Singapore"
+}
+],
+"righe": [
+{
+"id": "HAC-PER-0033",
+"tipo": "personaggio",
+"titolo": "Rania Qannas"
+},
+{
+"id": "HAC-PER-0034",
+"tipo": "personaggio",
+"titolo": "Jon Bidenauria"
+},
+{
+"id": "HAC-PER-0035",
+"tipo": "personaggio",
+"titolo": "Nadja Kari"
+},
+{
+"id": "HAC-PER-0036",
+"tipo": "personaggio",
+"titolo": "Naoki Hokimukawa"
+},
+{
+"id": "HAC-PER-0037",
+"tipo": "personaggio",
+"titolo": "Bogdan Vlamiak"
+},
+{
+"id": "HAC-PER-0038",
+"tipo": "personaggio",
+"titolo": "Lajos Feny"
+},
+{
+"id": "HAC-PER-0039",
+"tipo": "personaggio",
+"titolo": "Tobias Lindlichelberg"
+},
+{
+"id": "HAC-PER-0040",
+"tipo": "personaggio",
+"titolo": "Zawadi Kimatara"
+},
+{
+"id": "HAC-PER-0041",
+"tipo": "personaggio",
+"titolo": "Kari Møller"
+},
+{
+"id": "HAC-PER-0042",
+"tipo": "personaggio",
+"titolo": "Hülya Taşçı"
+},
+{
+"id": "HAC-REG-singapore",
+"tipo": "regione",
+"titolo": "Singapore"
+}
+],
+"slug": "singapore",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "hackverse"
+}

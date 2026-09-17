@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Svetlana se lo lega al polso ogni alba, turno di pulizia che ha accettato solo per restare abbastanza vicina da rubare con gli occhi i gesti di Zaffran.",
+"chi_paga": "la-comunita",
+"cosa": "Ritaglio di panno unto d'olio, usato per lucidare gli specchi-collimatori prima che il taratore arrivi ad allineare la fiamma.",
+"created": "2026-09-17",
+"entita_usate": [
+"Halim Zaffran",
+"Consorzio del Vetro e del Sale"
+],
+"epoca_relativa": 0,
+"estrazione": 100,
+"fatti": [],
+"gancio": "Nessuno alla torre chiede mai chi lucida gli specchi prima che Zaffran arrivi a tarare la fiamma, e il Consorzio del Vetro e del Sale paga quei turni in gettoni-vapore, contandoli come manutenzione e non come lavoro.",
+"id": "STE-GAD-0012",
+"invenzione_id": "STE-INV-0046",
+"media": [],
+"nome": "Il Panno dell'Alba",
+"oggetto": "Panno unto d'olio per lucidare gli specchi-collimatori delle torri prima dell'alba, turno dopo turno.",
+"parent_id": null,
+"personaggio_id": "STE-PER-0006",
+"prod": false,
+"regione": "Ledoskol",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "costo-umano-nascosto",
+"tradimento_tech": "La calibrazione di Zaffran funziona solo perché qualcun altro, ogni notte, ha già tolto dagli specchi la salsedine che la fiamma da sola non basterebbe a bruciare via.",
+"universo": "steamverse"
+}

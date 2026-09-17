@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Svetlana la porta cucita nella fodera della sacca di volo, scambiata con quella di Zaffran durante un turno di manutenzione che lei stessa ha chiesto di coprire.",
+"chi_paga": "l-inventore-originario",
+"cosa": "Copia della chiave di Zaffran, identica nella forma ma con le tacche lisce, mai consumate da un uso reale.",
+"created": "2026-09-17",
+"entita_usate": [
+"Halim Zaffran"
+],
+"epoca_relativa": 0,
+"estrazione": 100,
+"fatti": [],
+"gancio": "Zaffran porta ancora legata alla cintura la copia che lei gli ha lasciato al posto della vera, ignaro dello scambio, mentre Svetlana prova a leggere nelle tacche consumate trent'anni di correzioni che vorrebbe rubare per il proprio Barometro.",
+"id": "STE-GAD-0020",
+"invenzione_id": "STE-INV-0046",
+"media": [],
+"nome": "La Chiave Scambiata",
+"oggetto": "Copia della chiave di taratura, con tacche lisce e mai consumate, sostituita all'originale.",
+"parent_id": null,
+"personaggio_id": "STE-PER-0006",
+"prod": false,
+"regione": "Ledoskol",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "furto",
+"tradimento_tech": "La copia gira nello specchio-collimatore con la stessa fluidità dell'originale finché nessuno la preme a fondo, solo allora manca l'ultimo scatto, quello che solo trent'anni d'uso avevano scavato nella chiave vera.",
+"universo": "steamverse"
+}

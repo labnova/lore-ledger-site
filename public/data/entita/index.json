@@ -77,7 +77,7 @@
 "ha_prosa": false,
 "nome": "Tallinn",
 "prima_apparizione": 32,
-"ricorrenze": 28,
+"ricorrenze": 29,
 "slug": "tallinn",
 "sopra_soglia": true,
 "tipo": "luogo",
@@ -191,6 +191,20 @@
 "sopra_soglia": true,
 "tipo": "luogo",
 "universo": "neofeudal"
+},
+{
+"alias": [
+"HAC-REG-singapore"
+],
+"descrizione": "Città-stato crocevia di capitali e dati tra Asia ed Europa, dove ogni broker arriva già con passaporto e cognome propri: nessun ceppo prevale e pochi portano il cognome del mestiere, perché qui l'identità si compra e si vende, non si eredita.",
+"ha_prosa": false,
+"nome": "Singapore",
+"prima_apparizione": 99,
+"ricorrenze": 12,
+"slug": "singapore",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "hackverse"
 },
 {
 "alias": [],

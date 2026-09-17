@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Svetlana la porta in tasca insieme alle sue provviste, e non riesce mai a separare il gesto rituale dalla golosità che la spinge a portarsi dietro sempre qualcosa da succhiare durante il turno.",
+"chi_paga": "l-ambiente-gli-animali",
+"cosa": "Piccola ampolla di cera contenente un cucchiaino d'olio da lampada, versata ogni sera sulla salina al termine della taratura.",
+"created": "2026-09-17",
+"entita_usate": [
+"Halim Zaffran"
+],
+"epoca_relativa": 0,
+"estrazione": 100,
+"fatti": [],
+"gancio": "Ogni taratore versa la sua goccia d'olio sulla salina \"per placare la fiamma\", un gesto che ormai nemmeno Zaffran sa più spiegare; lei lo ripete meccanicamente ogni sera, più per scaramanzia sul proprio Barometro che per fede nel rito.",
+"id": "STE-GAD-0013",
+"invenzione_id": "STE-INV-0046",
+"media": [],
+"nome": "La Goccia di Placazione",
+"oggetto": "Ampolla di cera con un cucchiaino d'olio, versata rituale sulla salina dopo ogni taratura serale.",
+"parent_id": null,
+"personaggio_id": "STE-PER-0006",
+"prod": true,
+"regione": "Ledoskol",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "rito",
+"tradimento_tech": "L'olio versato ogni sera si accumula tra i canneti dove nidificano i fenicotteri della salina, e nessuno lo chiama scarico perché è un rito, non un inquinamento.",
+"universo": "steamverse"
+}

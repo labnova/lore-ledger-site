@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Svetlana la porta a tracolla sotto il giubbone di volo, regalo segreto dell'ispettore che dovrebbe solo approvare le sue carte, mai indossarla in pubblico.",
+"chi_paga": "l-utente-ultimo",
+"cosa": "Fiaschetta d'olio da lampada rivestita in cuoio inciso col sigillo di Zaffran, riservata ai capiturno del Consorzio.",
+"created": "2026-09-17",
+"entita_usate": [
+"Halim Zaffran",
+"Consorzio del Vetro e del Sale"
+],
+"epoca_relativa": 0,
+"estrazione": 100,
+"fatti": [],
+"gancio": "È riservata ai soli capiturno del Consorzio del Vetro e del Sale; i lampionai di rango più basso ne cuciono imitazioni per vendere olio scadente come \"di Zaffran\" a chi accende l'ultima fiamma della torre, quella che nessun capoturno controlla mai di persona.",
+"id": "STE-GAD-0017",
+"invenzione_id": "STE-INV-0046",
+"media": [],
+"nome": "La Fiaschetta del Capoturno",
+"oggetto": "Fiaschetta d'olio rivestita in cuoio col sigillo di Zaffran, riservata ai soli capiturno.",
+"parent_id": null,
+"personaggio_id": "STE-PER-0006",
+"prod": true,
+"regione": "Ledoskol",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "lusso-proibito",
+"tradimento_tech": "L'olio dentro alla fiaschetta vera è identico a quello comune, il lusso è solo il cuoio e il sigillo, ma è quel sigillo a decidere quale fiamma verrà tarata per prima e quale per ultima, quando la luce vacilla.",
+"universo": "steamverse"
+}

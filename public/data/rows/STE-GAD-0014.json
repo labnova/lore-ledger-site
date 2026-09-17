@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Svetlana la tiene avvolta in un panno dentro la sacca di volo, mai dichiarata alla dogana dell'aeroscalo.",
+"chi_paga": "il-futuro",
+"cosa": "Copia forgiata di nascosto della chiave di Zaffran, procurata da un fabbro di Qattoum disposto a rischiare il bando del Consorzio.",
+"created": "2026-09-17",
+"entita_usate": [
+"Consorzio del Vetro e del Sale",
+"Halim Zaffran"
+],
+"epoca_relativa": 0,
+"estrazione": 100,
+"fatti": [],
+"gancio": "Il Consorzio del Vetro e del Sale vieta ogni copia della chiave da quando Zaffran gliel'ha ceduta in appalto, ma lei l'ha comprata comunque, convinta che studiarne la taratura le serva a correggere il proprio Barometro.",
+"id": "STE-GAD-0014",
+"invenzione_id": "STE-INV-0046",
+"media": [],
+"nome": "La Chiave Clandestina",
+"oggetto": "Copia clandestina della chiave di taratura, forgiata su calco rubato dell'originale di Zaffran.",
+"parent_id": null,
+"personaggio_id": "STE-PER-0006",
+"prod": false,
+"regione": "Ledoskol",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "divieto-ignorato",
+"tradimento_tech": "Ogni copia clandestina è tarata un poco peggio dell'originale, e la torre che la userà per errore deriverà senza saperlo, un errore che si accumula finché qualcuno, tra vent'anni, dovrà spiegare perché mezza costa non riceve più segnali affidabili.",
+"universo": "steamverse"
+}

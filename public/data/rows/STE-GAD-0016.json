@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Svetlana lo tiene incastrato nel manico che si è intagliata da sola, appeso all'imbracatura di volo.",
+"chi_paga": "l-istituzione",
+"cosa": "Frammento di specchio-collimatore scartato, incastrato in un manico di legno intagliato a mano.",
+"created": "2026-09-17",
+"entita_usate": [
+"Consorzio del Vetro e del Sale"
+],
+"epoca_relativa": 0,
+"estrazione": 100,
+"fatti": [],
+"gancio": "L'ha ricavato da uno specchio scartato per segnalare da sola i propri attracchi fuori orario, e i mozzi delle chiatte hanno copiato il suo codice di lampi così in fretta che il Consorzio del Vetro e del Sale ha dovuto adottarlo come sistema ufficiale di smistamento, pur avendo bandito due volte l'uso di specchi non certificati.",
+"id": "STE-GAD-0016",
+"invenzione_id": "STE-INV-0046",
+"media": [],
+"nome": "Lo Specchio d'Attracco",
+"oggetto": "Frammento di specchio-collimatore scartato, montato su manico di legno per segnalazioni d'attracco.",
+"parent_id": null,
+"personaggio_id": "STE-PER-0006",
+"prod": false,
+"regione": "Ledoskol",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "riuso-improprio",
+"tradimento_tech": "Il vetro scheggiato riflette meglio dell'intero perché la crepa spezza la luce in più direzioni, un difetto che il Consorzio non ammetterà mai di aver copiato da un'aeronauta di passaggio.",
+"universo": "steamverse"
+}
