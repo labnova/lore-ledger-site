@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_paga": "l-inventore-originario",
+"created": "2026-09-17",
+"discipline": [
+"cucina/pasticceria",
+"moda/profumeria"
+],
+"entita_usate": [
+"La Fusione dei Voti",
+"Sorella Amata Ceroni"
+],
+"epoca_relativa": 0,
+"estrazione": 98,
+"fatti": [],
+"gancio": "Chi lo ruba non lo vende, lo brucia pagina per pagina, e Sorella Amata Ceroni capisce che qualcuno voleva che quella cera smettesse di esistere, non che diventasse sua.",
+"id": "NEO-INV-0110",
+"media": [],
+"nome": "Il Quaderno Bruciato",
+"nome_reale": "Quaderno con la formula della Fusione dei Voti, rubato dalla cella di Sorella Amata Ceroni.",
+"oggetto": "Quaderno con la formula della Fusione dei Voti, rubato dalla cella di Sorella Amata Ceroni.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "furto",
+"universo": "neofeudal"
+}

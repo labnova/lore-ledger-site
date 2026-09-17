@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-utente-ultimo",
+"created": "2026-09-17",
+"discipline": [
+"cucina/pasticceria",
+"moda/profumeria"
+],
+"entita_usate": [
+"Sorella Amata Ceroni"
+],
+"epoca_relativa": 0,
+"estrazione": 98,
+"fatti": [],
+"gancio": "Chi la eredita dopo di lei ottiene sempre dolci troppo dolci o troppo profumati, finché non impara a chiedersi cosa facessero davvero quelle mani, e non più solo cosa pesassero.",
+"id": "NEO-INV-0109",
+"media": [],
+"nome": "La Bilancia di Sorella Amata",
+"nome_reale": "Bilancia a due piatti per dosare insieme zucchero ed essenza, che funziona solo se tarata dalle mani di Sorella Amata Ceroni.",
+"oggetto": "Bilancia a due piatti per dosare insieme zucchero ed essenza, che funziona solo se tarata dalle mani di Sorella Amata Ceroni.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "calibrazione",
+"universo": "neofeudal"
+}

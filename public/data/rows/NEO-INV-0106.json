@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "il-costruttore",
+"created": "2026-09-17",
+"discipline": [
+"cucina/pasticceria",
+"moda/profumeria"
+],
+"entita_usate": [
+"Vasperdine"
+],
+"epoca_relativa": 0,
+"estrazione": 98,
+"fatti": [],
+"gancio": "Il fumo profumato invade tre quartieri di Vasperdine invece della sola navata, e l'artigiano che lo ha costruito non riesce più a mostrarsi in piazza.",
+"id": "NEO-INV-0106",
+"media": [],
+"nome": "Il Forno Fuori Misura",
+"nome_reale": "Forno-diffusore in scala cattedrale, costruito da un artigiano che aveva letto i disegni di uno da cucina domestica.",
+"oggetto": "Forno-diffusore in scala cattedrale, costruito da un artigiano che aveva letto i disegni di uno da cucina domestica.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "scala-sbagliata",
+"universo": "neofeudal"
+}

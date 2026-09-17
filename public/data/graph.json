@@ -3921,6 +3921,21 @@
 "to": "HAC-REG-tallinn"
 },
 {
+"from": "HAC-GAD-0002",
+"kind": "invenzione",
+"to": "HAC-INV-0037"
+},
+{
+"from": "HAC-GAD-0002",
+"kind": "personaggio",
+"to": "HAC-PER-0026"
+},
+{
+"from": "HAC-GAD-0002",
+"kind": "regione",
+"to": "HAC-REG-tallinn"
+},
+{
 "from": "NEO-GAD-0001",
 "kind": "invenzione",
 "to": "NEO-INV-0011"
@@ -8265,6 +8280,12 @@
 "universo": "hackverse"
 },
 {
+"id": "HAC-GAD-0002",
+"tipo": "gadget",
+"titolo": "IrisDrift",
+"universo": "hackverse"
+},
+{
 "id": "HAC-INV-0001",
 "tipo": "invenzione",
 "titolo": "Goccia Cieca",
@@ -10026,6 +10047,126 @@
 "id": "NEO-INV-0092",
 "tipo": "invenzione",
 "titolo": "Il Taglio di Idris",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0093",
+"tipo": "invenzione",
+"titolo": "Lo Stampo della Sorte Dolce",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0094",
+"tipo": "invenzione",
+"titolo": "Il Crisma Tradito",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0095",
+"tipo": "invenzione",
+"titolo": "La Cera dei Due Mestieri",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0096",
+"tipo": "invenzione",
+"titolo": "Il Cucchiaio della Doppia Grazia",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0097",
+"tipo": "invenzione",
+"titolo": "Il Diffusore delle Ostie Spente",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0098",
+"tipo": "invenzione",
+"titolo": "Lo Stampo dalle Tre Mani",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0099",
+"tipo": "invenzione",
+"titolo": "L'Alambicco a Doppia Serpentina",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0100",
+"tipo": "invenzione",
+"titolo": "Il Ricettario Vincolato",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0101",
+"tipo": "invenzione",
+"titolo": "La Pasta dai Due Nomi",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0102",
+"tipo": "invenzione",
+"titolo": "La Torta dei Canonici",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0103",
+"tipo": "invenzione",
+"titolo": "Il Calibro della Forma Unica",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0104",
+"tipo": "invenzione",
+"titolo": "La Formula che Conservava",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0105",
+"tipo": "invenzione",
+"titolo": "Il Boccone Superstite",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0106",
+"tipo": "invenzione",
+"titolo": "Il Forno Fuori Misura",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0107",
+"tipo": "invenzione",
+"titolo": "Il Sigillo Vecchio",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0108",
+"tipo": "invenzione",
+"titolo": "La Terza Cera",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0109",
+"tipo": "invenzione",
+"titolo": "La Bilancia di Sorella Amata",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0110",
+"tipo": "invenzione",
+"titolo": "Il Quaderno Bruciato",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0111",
+"tipo": "invenzione",
+"titolo": "La Torta dei Poveri",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0112",
+"tipo": "invenzione",
+"titolo": "Il Crisma Falso",
 "universo": "neofeudal"
 },
 {

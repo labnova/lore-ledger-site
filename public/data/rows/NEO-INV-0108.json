@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-ambiente-gli-animali",
+"created": "2026-09-17",
+"discipline": [
+"cucina/pasticceria",
+"moda/profumeria"
+],
+"entita_usate": [
+"Vasperdine"
+],
+"epoca_relativa": 0,
+"estrazione": 98,
+"fatti": [],
+"gancio": "La chiamano solo \"la terza cera\" tra pasticcieri e profumieri, e intorno al borgo gli animali da cortile si diradano di anno in anno senza che nessuno ne parli ad alta voce.",
+"id": "NEO-INV-0108",
+"media": [],
+"nome": "La Terza Cera",
+"nome_reale": "Essenza dolce di cui non si può dire l'origine, distillata da grasso animale raccolto di nascosto intorno a Vasperdine.",
+"oggetto": "Essenza dolce di cui non si può dire l'origine, distillata da grasso animale raccolto di nascosto intorno a Vasperdine.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "censura",
+"universo": "neofeudal"
+}

@@ -1,0 +1,28 @@
+{
+"appare_in": [],
+"chi_paga": "l-ambiente-gli-animali",
+"created": "2026-09-17",
+"discipline": [
+"cucina/pasticceria",
+"moda/profumeria"
+],
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 98,
+"fatti": [],
+"gancio": "I fedeli lo riempiono di cera e miele credendolo un utensile benedetto, e i vapori che rilascia bruciando fanno seccare gli alberi da frutto intorno alla cappella.",
+"id": "NEO-INV-0097",
+"media": [],
+"nome": "Il Diffusore delle Ostie Spente",
+"nome_reale": "Diffusore dell'era del Crollo, con un quadrante di cifre spente, venerato come stampo per ostie dolci e brucia-essenze.",
+"oggetto": "Diffusore dell'era del Crollo, con un quadrante di cifre spente, venerato come stampo per ostie dolci e brucia-essenze.",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "reliquia",
+"universo": "neofeudal"
+}

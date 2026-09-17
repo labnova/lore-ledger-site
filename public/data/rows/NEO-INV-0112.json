@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_paga": "nessuno-apparentemente",
+"created": "2026-09-17",
+"discipline": [
+"cucina/pasticceria",
+"moda/profumeria"
+],
+"entita_usate": [
+"Diocesi del Cielo",
+"Vasperdine"
+],
+"epoca_relativa": 0,
+"estrazione": 98,
+"fatti": [],
+"gancio": "I pellegrini di Vasperdine la preferiscono alla vera, e nessuno dei canonici si prende la briga di correggerli.",
+"id": "NEO-INV-0112",
+"media": [],
+"nome": "Il Crisma Falso",
+"nome_reale": "Copia della boccetta di crisma dolce della Diocesi del Cielo, fatta con un'essenza più forte dell'originale.",
+"oggetto": "Copia della boccetta di crisma dolce della Diocesi del Cielo, fatta con un'essenza più forte dell'originale.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "falsificazione",
+"universo": "neofeudal"
+}

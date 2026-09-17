@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "il-costruttore",
+"created": "2026-09-17",
+"discipline": [
+"cucina/pasticceria",
+"moda/profumeria"
+],
+"entita_usate": [
+"Vasperdine"
+],
+"epoca_relativa": 0,
+"estrazione": 98,
+"fatti": [],
+"gancio": "A Vasperdine il pasticciere tira le celle davanti ai pellegrini, ma la cella vincente cade sempre sulla torta pagata meglio, e lui giura di non saperlo mai in anticipo.",
+"id": "NEO-INV-0093",
+"media": [],
+"nome": "Lo Stampo della Sorte Dolce",
+"nome_reale": "Stampo a celle numerate per decidere a sorte quale torta nuziale riceve la glassa d'ambra vera e quale la finta.",
+"oggetto": "Stampo a celle numerate per decidere a sorte quale torta nuziale riceve la glassa d'ambra vera e quale la finta.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "sorte",
+"universo": "neofeudal"
+}

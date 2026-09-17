@@ -57,6 +57,20 @@
 },
 {
 "alias": [
+"HAC-REG-tallinn"
+],
+"descrizione": "Hub baltico dell'e-residency e dei registri digitali statali, attira broker di dati da ogni continente: nessun ceppo prevale, i cognomi restano quelli d'origine perché qui si arriva già adulti, con una identità digitale costruita altrove.",
+"ha_prosa": false,
+"nome": "Tallinn",
+"prima_apparizione": 32,
+"ricorrenze": 28,
+"slug": "tallinn",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "hackverse"
+},
+{
+"alias": [
 "NEO-REG-vasperdine"
 ],
 "descrizione": "Crocevia di pellegrini e scommettitori di ogni stirpe diretti alla Selva delle Puntate; il clero registra le offerte come voti e le quote come grazie, e nessuno sa più distinguerle.",
@@ -68,20 +82,6 @@
 "sopra_soglia": true,
 "tipo": "luogo",
 "universo": "neofeudal"
-},
-{
-"alias": [
-"HAC-REG-tallinn"
-],
-"descrizione": "Hub baltico dell'e-residency e dei registri digitali statali, attira broker di dati da ogni continente: nessun ceppo prevale, i cognomi restano quelli d'origine perché qui si arriva già adulti, con una identità digitale costruita altrove.",
-"ha_prosa": false,
-"nome": "Tallinn",
-"prima_apparizione": 32,
-"ricorrenze": 26,
-"slug": "tallinn",
-"sopra_soglia": true,
-"tipo": "luogo",
-"universo": "hackverse"
 },
 {
 "alias": [],

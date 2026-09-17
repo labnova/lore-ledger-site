@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "la-comunita",
+"created": "2026-09-17",
+"discipline": [
+"cucina/pasticceria",
+"moda/profumeria"
+],
+"entita_usate": [
+"Vasperdine"
+],
+"epoca_relativa": 0,
+"estrazione": 98,
+"fatti": [],
+"gancio": "Alla fiera le vendono a due banchi diversi e a due prezzi diversi, finché un vecchio non nota che escono da un'unica pentola.",
+"id": "NEO-INV-0101",
+"media": [],
+"nome": "La Pasta dai Due Nomi",
+"nome_reale": "Pasta di mandorle profumata, chiamata \"grazia dolce\" dai pellegrini e \"cera da messa\" dai residenti di Vasperdine.",
+"oggetto": "Pasta di mandorle profumata, chiamata \"grazia dolce\" dai pellegrini e \"cera da messa\" dai residenti di Vasperdine.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "malinteso-linguistico",
+"universo": "neofeudal"
+}

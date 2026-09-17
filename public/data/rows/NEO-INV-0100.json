@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_paga": "il-futuro",
+"created": "2026-09-17",
+"discipline": [
+"cucina/pasticceria",
+"moda/profumeria"
+],
+"entita_usate": [
+"Sorella Amata Ceroni",
+"Diocesi del Cielo"
+],
+"epoca_relativa": 0,
+"estrazione": 98,
+"fatti": [],
+"gancio": "La nipote che lo eredita scopre pagina dopo pagina che ogni ricetta è legata a un debito verso un pellegrino diverso, e il debito non si estingue con la morte di chi l'ha contratto.",
+"id": "NEO-INV-0100",
+"media": [],
+"nome": "Il Ricettario Vincolato",
+"nome_reale": "Ricettario di cera per dolci e profumi, lasciato in eredità alle figlie di Sorella Amata Ceroni con l'obbligo di non venderlo mai alla Diocesi.",
+"oggetto": "Ricettario di cera per dolci e profumi, lasciato in eredità alle figlie di Sorella Amata Ceroni con l'obbligo di non venderlo mai alla Diocesi.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "eredita-lascito",
+"universo": "neofeudal"
+}

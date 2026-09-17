@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_paga": "l-istituzione",
+"created": "2026-09-17",
+"discipline": [
+"cucina/pasticceria",
+"moda/profumeria"
+],
+"entita_usate": [
+"Diocesi del Cielo",
+"Vasperdine"
+],
+"epoca_relativa": 0,
+"estrazione": 98,
+"fatti": [],
+"gancio": "Qualcuno la riempie di essenza di zucchero bruciato la notte prima della grande benedizione, e la Diocesi del Cielo si ritrova a santificare una fornata che puzza di dolce andato a male.",
+"id": "NEO-INV-0094",
+"media": [],
+"nome": "Il Crisma Tradito",
+"nome_reale": "Boccetta di crisma profumato usata dalla Diocesi del Cielo per suggellare i dolci votivi di Vasperdine.",
+"oggetto": "Boccetta di crisma profumato usata dalla Diocesi del Cielo per suggellare i dolci votivi di Vasperdine.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "sabotaggio",
+"universo": "neofeudal"
+}

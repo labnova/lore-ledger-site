@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_paga": "nessuno-apparentemente",
+"created": "2026-09-17",
+"discipline": [
+"cucina/pasticceria",
+"moda/profumeria"
+],
+"entita_usate": [
+"Vasperdine",
+"La Fusione dei Voti"
+],
+"epoca_relativa": 0,
+"estrazione": 98,
+"fatti": [],
+"gancio": "Il cerimoniere lo passa sotto il naso e poi in bocca davanti alla folla di Vasperdine, e quello che sente non lo dice mai a nessuno.",
+"id": "NEO-INV-0096",
+"media": [],
+"nome": "Il Cucchiaio della Doppia Grazia",
+"nome_reale": "Cucchiaio d'argento inciso, usato per assaggiare e insieme annusare i dolci sigillati con la Fusione dei Voti.",
+"oggetto": "Cucchiaio d'argento inciso, usato per assaggiare e insieme annusare i dolci sigillati con la Fusione dei Voti.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "prova-collaudo",
+"universo": "neofeudal"
+}

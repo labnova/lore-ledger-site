@@ -1,0 +1,32 @@
+{
+"appare_in": [],
+"chi_paga": "l-istituzione",
+"created": "2026-09-17",
+"discipline": [
+"cucina/pasticceria",
+"moda/profumeria"
+],
+"entita_usate": [
+"Diocesi del Cielo",
+"Vasperdine",
+"La Fusione dei Voti"
+],
+"epoca_relativa": 0,
+"estrazione": 98,
+"fatti": [],
+"gancio": "La Diocesi del Cielo la tollera a Vasperdine perché altrimenti nessuno tra i pellegrini poveri porterebbe più un'offerta, e ormai metà degli altari ne è piena.",
+"id": "NEO-INV-0111",
+"media": [],
+"nome": "La Torta dei Poveri",
+"nome_reale": "Torta votiva di sego e zucchero grezzo, sostituto povero della Fusione dei Voti per chi non può pagare l'originale.",
+"oggetto": "Torta votiva di sego e zucchero grezzo, sostituto povero della Fusione dei Voti per chi non può pagare l'originale.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "sostituto-povero",
+"universo": "neofeudal"
+}

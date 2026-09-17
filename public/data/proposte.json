@@ -175,5 +175,71 @@
 "universo": "cyberverse",
 "versione": 1,
 "versioni": []
+},
+{
+"carta_chiusa_il": null,
+"carta_id": "BAC-35185664527-1",
+"carta_stato": "aperta",
+"commento": null,
+"created": "2026-09-17",
+"errori_schema": [
+"affettivo: 'il collega di vedetta che ignorò il suo primo allarme: unico appoggio, e insieme il torto che non perdona' is not valid under any of the given schemas"
+],
+"id": "STE-PER-0032",
+"motivazione": "STE-PER-0009 ha `affettivo: null`, mentre STE-PER-0001 — stessa invenzione STE-INV-0012, stesso `rapporto: teme` — ce l'ha compilato: la lacuna è di Layla, non della coppia. `parent_id: null` con `relazione: null` è radice per schema, non le manca la madre. Una figlia di espansione può registrare su chi si appoggia la vedetta che nessuno crede più, restando dentro il gancio già scritto. Nessuna figlia oggi non è una lacuna: è sviluppo fermo.",
+"motivo_respinta": null,
+"postata_da": "riparatore",
+"promossa_da": null,
+"promossa_il": null,
+"respinta_il": null,
+"riga": {
+"affettivo": "il collega di vedetta che ignorò il suo primo allarme: unico appoggio, e insieme il torto che non perdona",
+"carta": "BAC-35185664527-1",
+"carta_id": "BAC-35185664527-1",
+"casta": "aeronauti",
+"ceppo": "arabo",
+"cognome": "Iskafi",
+"contraddizione": "Ostinata a restare di vedetta anche oltre il proprio turno, non dimentica un torto nemmeno tra le nuvole e porta ancora rancore al collega che una volta ignorò il suo primo allarme sul Barometro; eppure è proprio su di lui che si appoggia quando nessuno le crede, come se solo chi l'ha delusa potesse confermarle che il pericolo è reale.",
+"created": "2026-09-17",
+"difetto": "rancoroso",
+"epoca_relativa": 0,
+"estrazione": 20,
+"eta_fascia": "adolescente",
+"gancio": "Teme lo strumento perché fu lei a suonarlo per prima l'anno del grande allagamento, e nessuno le crede più quando dice che stavolta il pericolo è reale: così resta di vedetta oltre il turno, in attesa che un secondo allarme — il suo — trovi qualcuno disposto a crederci prima che sia tardi.",
+"id": "STE-PER-0032",
+"invenzione_id": "STE-INV-0012",
+"nome": "Layla",
+"origine": "approfondimento",
+"parent_id": "STE-PER-0009",
+"rapporto": "teme",
+"regione": "Ledoskol",
+"relazione": "espansione",
+"schema_version": 1,
+"segno": "pesci",
+"spirituale": {
+"credenza": "il_cielo_amministrato",
+"rapporto": "praticante_tiepido"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ostinato",
+"universo": "steamverse"
+},
+"sommario": "Teme lo strumento perché fu lei a suonarlo per prima l'anno del grande allagamento, e nessuno le crede più quando dice che stavolta il pericolo è reale: così r…",
+"stato": "provvisoria",
+"storia": [
+{
+"autore": "riparatore",
+"motivo": "artefatto della carta None",
+"quando": "2026-09-17T05:34:41Z",
+"sha": "533cdbd2d891fdc8df103ba23cdb389ba20922f9",
+"versione": 1
+}
+],
+"tipo": "personaggio",
+"titolo": "Layla Iskafi",
+"universo": "steamverse",
+"versione": 1,
+"versioni": []
 }
 ]

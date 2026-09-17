@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "un-terzo-ignaro",
+"created": "2026-09-17",
+"discipline": [
+"cucina/pasticceria",
+"moda/profumeria"
+],
+"entita_usate": [
+"Diocesi del Cielo"
+],
+"epoca_relativa": 0,
+"estrazione": 98,
+"fatti": [],
+"gancio": "Chi non può permettersela la imita con grasso di pecora profumato di erbe, e un mercante di passaggio compra l'imitazione credendola l'originale, pagandola il triplo.",
+"id": "NEO-INV-0102",
+"media": [],
+"nome": "La Torta dei Canonici",
+"nome_reale": "Torta glassata all'ambra grigia, riservata alla tavola dei canonici della Diocesi del Cielo.",
+"oggetto": "Torta glassata all'ambra grigia, riservata alla tavola dei canonici della Diocesi del Cielo.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "lusso-proibito",
+"universo": "neofeudal"
+}

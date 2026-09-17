@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_paga": "la-comunita",
+"created": "2026-09-17",
+"discipline": [
+"cucina/pasticceria",
+"moda/profumeria"
+],
+"entita_usate": [
+"Diocesi del Cielo",
+"Vasperdine"
+],
+"epoca_relativa": 0,
+"estrazione": 98,
+"fatti": [],
+"gancio": "Ogni stampo di famiglia più vecchio della norma finisce fuso per farne fibbie, e a Vasperdine nessuno osa più cuocere una forma diversa da quella prescritta.",
+"id": "NEO-INV-0103",
+"media": [],
+"nome": "Il Calibro della Forma Unica",
+"nome_reale": "Calibro di ottone imposto dalla Diocesi del Cielo per la forma unica dei dolci votivi profumati.",
+"oggetto": "Calibro di ottone imposto dalla Diocesi del Cielo per la forma unica dei dolci votivi profumati.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "standard-imposto",
+"universo": "neofeudal"
+}

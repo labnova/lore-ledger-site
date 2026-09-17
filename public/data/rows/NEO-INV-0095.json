@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-inventore-originario",
+"created": "2026-09-17",
+"discipline": [
+"cucina/pasticceria",
+"moda/profumeria"
+],
+"entita_usate": [
+"Sorella Amata Ceroni"
+],
+"epoca_relativa": 0,
+"estrazione": 98,
+"fatti": [],
+"gancio": "Sorella Amata Ceroni è l'unica a saperla rendere, e il pasticciere-profumiere che l'ha inventata trent'anni fa la vede venduta sotto un altro nome.",
+"id": "NEO-INV-0095",
+"media": [],
+"nome": "La Cera dei Due Mestieri",
+"nome_reale": "Pasta di cera e zucchero fuso, ingrediente unico per glassare torte votive e sigillare boccette di profumo.",
+"oggetto": "Pasta di cera e zucchero fuso, ingrediente unico per glassare torte votive e sigillare boccette di profumo.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "monopolio",
+"universo": "neofeudal"
+}

@@ -1,0 +1,28 @@
+{
+"appare_in": [],
+"chi_paga": "l-utente-ultimo",
+"created": "2026-09-17",
+"discipline": [
+"cucina/pasticceria",
+"moda/profumeria"
+],
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 98,
+"fatti": [],
+"gancio": "L'ultima garzone che lo eredita sente, mescolato nell'impasto, il profumo di tre mani morte prima della sua, e non riesce più a distinguere la propria ricetta dalla loro.",
+"id": "NEO-INV-0098",
+"media": [],
+"nome": "Lo Stampo dalle Tre Mani",
+"nome_reale": "Stampo di legno per biscotti liturgici, imbevuto negli anni dell'essenza di ogni pasticciere che l'ha usato.",
+"oggetto": "Stampo di legno per biscotti liturgici, imbevuto negli anni dell'essenza di ogni pasticciere che l'ha usato.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "memoria-dell-oggetto",
+"universo": "neofeudal"
+}

@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_paga": "il-futuro",
+"created": "2026-09-17",
+"discipline": [
+"cucina/pasticceria",
+"moda/profumeria"
+],
+"entita_usate": [
+"Sorella Amata Ceroni",
+"Vasperdine"
+],
+"epoca_relativa": 0,
+"estrazione": 98,
+"fatti": [],
+"gancio": "Un garzone la ritrova tra le carte di Sorella Amata Ceroni e la rifà di nascosto, sperando che basti a sfamare Vasperdine nell'inverno che verrà.",
+"id": "NEO-INV-0104",
+"media": [],
+"nome": "La Formula che Conservava",
+"nome_reale": "Vecchia formula di cera-zucchero che conservava i dolci per un anno intero, abbandonata perché troppo simile a un incantesimo.",
+"oggetto": "Vecchia formula di cera-zucchero che conservava i dolci per un anno intero, abbandonata perché troppo simile a un incantesimo.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "versione-precedente",
+"universo": "neofeudal"
+}

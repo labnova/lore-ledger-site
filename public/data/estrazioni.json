@@ -3886,5 +3886,99 @@
 "HAC-CON-0002"
 ],
 "universo": "hackverse"
+},
+{
+"campi_forzati": [],
+"chiavi": {
+"manca": {
+"gadget": 1,
+"personaggi": 0,
+"regione": true
+},
+"universo": "hackverse"
+},
+"cluster_target": "HAC-INV-0037",
+"created": "2026-09-17",
+"esito": "ok",
+"estrazione": 97,
+"forzata": false,
+"lotto": "lotto-maturazione",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"HAC-GAD-0002"
+],
+"universo": "hackverse"
+},
+{
+"ambientazione": "omaggio-cross-universe",
+"bibbia_pescata": [
+"Il \"Crollo\" è l'evento fondativo, ed è contestato. Per il cl",
+"<!-- entita:fine -->"
+],
+"campi_forzati": [],
+"canone_pescato": [
+"NEO-GAD-0079",
+"NEO-GAD-0037",
+"NEO-GAD-0004"
+],
+"chiavi": {
+"discipline": [
+"cucina/pasticceria",
+"moda/profumeria"
+],
+"universo": "neofeudal"
+},
+"created": "2026-09-17",
+"entita": {
+"anomalia": {
+"descrizione": "Un lotto di cera da candela e zucchero bruciato fusi per errore durante la Fiera dei Pellegrini di tre anni fa, ridistribuito dalla Diocesi del Cielo come materiale benedetto senza separare i due; ogni oggetto fatto con questa pasta porta una doppia grazia che nessun prete sa più distinguere.",
+"nome": "La Fusione dei Voti"
+},
+"attore": {
+"descrizione": "Lay-sorella itinerante che raccoglie mozziconi di candela e ritagli di pasta dai pellegrini di Vasperdine per renderli in cera-zucchero, l'unica a conoscere la giusta proporzione.",
+"nome": "Sorella Amata Ceroni"
+},
+"ente": {
+"descrizione": "Autorità che fissa il turno d'acqua di Sarakan e benedice ogni bonifica prima che la vanga tocchi terra; ciò che non passa dal suo registro delle piogge non è mai davvero successo.",
+"nome": "Diocesi del Cielo"
+},
+"luogo": {
+"descrizione": "Crocevia di pellegrini e scommettitori di ogni stirpe diretti alla Selva delle Puntate; il clero registra le offerte come voti e le quote come grazie, e nessuno sa più distinguerle.",
+"nome": "Vasperdine"
+}
+},
+"entita_riusate": [
+"Diocesi del Cielo",
+"Vasperdine"
+],
+"esito": "ok",
+"espansioni": [],
+"estrazione": 98,
+"forzata": false,
+"lotto": "lotto-lore",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"NEO-INV-0093",
+"NEO-INV-0094",
+"NEO-INV-0095",
+"NEO-INV-0096",
+"NEO-INV-0097",
+"NEO-INV-0098",
+"NEO-INV-0099",
+"NEO-INV-0100",
+"NEO-INV-0101",
+"NEO-INV-0102",
+"NEO-INV-0103",
+"NEO-INV-0104",
+"NEO-INV-0105",
+"NEO-INV-0106",
+"NEO-INV-0107",
+"NEO-INV-0108",
+"NEO-INV-0109",
+"NEO-INV-0110",
+"NEO-INV-0111",
+"NEO-INV-0112"
+],
+"universo": "neofeudal"
 }
 ]

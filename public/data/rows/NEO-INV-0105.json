@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "nessuno-apparentemente",
+"created": "2026-09-17",
+"discipline": [
+"cucina/pasticceria",
+"moda/profumeria"
+],
+"entita_usate": [
+"Diocesi del Cielo"
+],
+"epoca_relativa": 0,
+"estrazione": 98,
+"fatti": [],
+"gancio": "Lo trovano ancora intatto nella credenza della Diocesi del Cielo mesi dopo, e il suo profumo è l'unica prova che quella cena c'è stata.",
+"id": "NEO-INV-0105",
+"media": [],
+"nome": "Il Boccone Superstite",
+"nome_reale": "Boccone di pasta profumata avanzato da un banchetto che nessuno ammette essere avvenuto.",
+"oggetto": "Boccone di pasta profumata avanzato da un banchetto che nessuno ammette essere avvenuto.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "oggetto-testimone",
+"universo": "neofeudal"
+}

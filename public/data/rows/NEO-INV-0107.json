@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-istituzione",
+"created": "2026-09-17",
+"discipline": [
+"cucina/pasticceria",
+"moda/profumeria"
+],
+"entita_usate": [
+"Diocesi del Cielo"
+],
+"epoca_relativa": 0,
+"estrazione": 98,
+"fatti": [],
+"gancio": "I chimici di passaggio la deridono apertamente, ma cambiare il sigillo vorrebbe dire ammettere che per trent'anni la Diocesi del Cielo ha certificato dolci con un metodo sbagliato.",
+"id": "NEO-INV-0107",
+"media": [],
+"nome": "Il Sigillo Vecchio",
+"nome_reale": "Sigillo di cera obsoleto che la Diocesi del Cielo continua a usare per certificare i dolci votivi.",
+"oggetto": "Sigillo di cera obsoleto che la Diocesi del Cielo continua a usare per certificare i dolci votivi.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "obsolescenza",
+"universo": "neofeudal"
+}
