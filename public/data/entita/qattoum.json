@@ -1,11 +1,11 @@
 {
-"aggiornata": "2026-09-16",
+"aggiornata": "2026-09-17",
 "alias": [
 "STE-REG-qattoum"
 ],
 "descrizione": "Porto di delta dove il fiume si divide in tre bracci salmastri; la gilda degli ingegneri del freddo costruisce e mantiene qui le chiatte refrigerate che risalgono la corrente fino alle città dell'interno, e quasi metà dei cognomi nasce ancora dal mestiere di chi ripara gli scafi.",
 "ha_prosa": false,
-"n_ricorrenze": 19,
+"n_ricorrenze": 23,
 "nome": "Qattoum",
 "prima_apparizione": 68,
 "prosa": null,
@@ -181,9 +181,55 @@
 "riga_id": "STE-INV-0046",
 "riga_tipo": "invenzione",
 "riga_titolo": "La Chiave di Zaffran"
+},
+{
+"estrazione": 100,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 100,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0011",
+"riga_tipo": "gadget",
+"riga_titolo": "La Chiave del Sorteggio"
+},
+{
+"estrazione": 100,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0015",
+"riga_tipo": "gadget",
+"riga_titolo": "La Chiave da Taschino"
+},
+{
+"estrazione": 100,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0033",
+"riga_tipo": "personaggio",
+"riga_titolo": "Fatima al-Rashidi"
 }
 ],
 "righe": [
+{
+"id": "STE-GAD-0011",
+"tipo": "gadget",
+"titolo": "La Chiave del Sorteggio"
+},
+{
+"id": "STE-GAD-0015",
+"tipo": "gadget",
+"titolo": "La Chiave da Taschino"
+},
 {
 "id": "STE-INV-0029",
 "tipo": "invenzione",
@@ -263,6 +309,11 @@
 "id": "STE-PER-0031",
 "tipo": "personaggio",
 "titolo": "Yusuf Qassabi"
+},
+{
+"id": "STE-PER-0033",
+"tipo": "personaggio",
+"titolo": "Fatima al-Rashidi"
 },
 {
 "id": "STE-REG-qattoum",

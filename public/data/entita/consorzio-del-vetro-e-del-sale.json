@@ -1,9 +1,9 @@
 {
-"aggiornata": "2026-09-16",
+"aggiornata": "2026-09-17",
 "alias": [],
 "descrizione": "Gilda mercantile che possiede le canne di vetro del telegrafo ottico tese sulle saline e impone una tariffa di passaggio in gettoni-vapore a chiunque le attraversi.",
 "ha_prosa": false,
-"n_ricorrenze": 12,
+"n_ricorrenze": 19,
 "nome": "Consorzio del Vetro e del Sale",
 "prima_apparizione": 92,
 "prosa": null,
@@ -116,9 +116,97 @@
 "riga_id": "STE-INV-0048",
 "riga_tipo": "invenzione",
 "riga_titolo": "L'Etichetta Storta"
+},
+{
+"estrazione": 100,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 100,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0012",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Panno dell'Alba"
+},
+{
+"estrazione": 100,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0014",
+"riga_tipo": "gadget",
+"riga_titolo": "La Chiave Clandestina"
+},
+{
+"estrazione": 100,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0016",
+"riga_tipo": "gadget",
+"riga_titolo": "Lo Specchio d'Attracco"
+},
+{
+"estrazione": 100,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0017",
+"riga_tipo": "gadget",
+"riga_titolo": "La Fiaschetta del Capoturno"
+},
+{
+"estrazione": 100,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0018",
+"riga_tipo": "gadget",
+"riga_titolo": "Lo Specchio da Polso"
+},
+{
+"estrazione": 100,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-INV-0050",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Serbatoio che Corregge da Solo"
 }
 ],
 "righe": [
+{
+"id": "STE-GAD-0012",
+"tipo": "gadget",
+"titolo": "Il Panno dell'Alba"
+},
+{
+"id": "STE-GAD-0014",
+"tipo": "gadget",
+"titolo": "La Chiave Clandestina"
+},
+{
+"id": "STE-GAD-0016",
+"tipo": "gadget",
+"titolo": "Lo Specchio d'Attracco"
+},
+{
+"id": "STE-GAD-0017",
+"tipo": "gadget",
+"titolo": "La Fiaschetta del Capoturno"
+},
+{
+"id": "STE-GAD-0018",
+"tipo": "gadget",
+"titolo": "Lo Specchio da Polso"
+},
 {
 "id": "STE-INV-0029",
 "tipo": "invenzione",
@@ -173,6 +261,11 @@
 "id": "STE-INV-0048",
 "tipo": "invenzione",
 "titolo": "L'Etichetta Storta"
+},
+{
+"id": "STE-INV-0050",
+"tipo": "invenzione",
+"titolo": "Il Serbatoio che Corregge da Solo"
 }
 ],
 "slug": "consorzio-del-vetro-e-del-sale",

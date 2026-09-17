@@ -4102,5 +4102,29 @@
 "STE-PER-0033"
 ],
 "universo": "steamverse"
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"HAC-INV-0046",
+"HAC-INV-0020"
+],
+"chiavi": {
+"canale": "reels",
+"formato": "trailer_20s",
+"medium": "video_corto",
+"sorgente_id": "HAC-INV-0046",
+"veridicita": "in_universe"
+},
+"created": "2026-09-17",
+"esito": "ok",
+"estrazione": 101,
+"forzata": false,
+"lotto": "lotto-contenuti",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"HAC-CON-0003"
+],
+"universo": "hackverse"
 }
 ]

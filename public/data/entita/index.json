@@ -71,6 +71,21 @@
 },
 {
 "alias": [
+"STE-REG-cancello-del-freddo",
+"STE-REG-ledoskol"
+],
+"descrizione": "Città-scalo aggrappata alle chiuse dell'estuario, dove la gilda del freddo governa le cantine di ghiaccio e gli aeronauti ne sorvegliano dall'alto le piene; quasi un cognome su due nasce ancora dal mestiere di chi lo porta. Il Cancello del Freddo è il varco della gilda dove i rifugiati di Zhenevka attendono la razione di ghiaccio scartato, aperto a ora fissa e a quantità chiusa.",
+"ha_prosa": false,
+"nome": "Ledoskol",
+"prima_apparizione": 20,
+"ricorrenze": 34,
+"slug": "ledoskol",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "steamverse"
+},
+{
+"alias": [
 "HAC-REG-tallinn"
 ],
 "descrizione": "Hub baltico dell'e-residency e dei registri digitali statali, attira broker di dati da ogni continente: nessun ceppo prevale, i cognomi restano quelli d'origine perché qui si arriva già adulti, con una identità digitale costruita altrove.",
@@ -111,15 +126,14 @@
 },
 {
 "alias": [
-"STE-REG-cancello-del-freddo",
-"STE-REG-ledoskol"
+"STE-REG-qattoum"
 ],
-"descrizione": "Città-scalo aggrappata alle chiuse dell'estuario, dove la gilda del freddo governa le cantine di ghiaccio e gli aeronauti ne sorvegliano dall'alto le piene; quasi un cognome su due nasce ancora dal mestiere di chi lo porta. Il Cancello del Freddo è il varco della gilda dove i rifugiati di Zhenevka attendono la razione di ghiaccio scartato, aperto a ora fissa e a quantità chiusa.",
+"descrizione": "Porto di delta dove il fiume si divide in tre bracci salmastri; la gilda degli ingegneri del freddo costruisce e mantiene qui le chiatte refrigerate che risalgono la corrente fino alle città dell'interno, e quasi metà dei cognomi nasce ancora dal mestiere di chi ripara gli scafi.",
 "ha_prosa": false,
-"nome": "Ledoskol",
-"prima_apparizione": 20,
-"ricorrenze": 24,
-"slug": "ledoskol",
+"nome": "Qattoum",
+"prima_apparizione": 68,
+"ricorrenze": 23,
+"slug": "qattoum",
 "sopra_soglia": true,
 "tipo": "luogo",
 "universo": "steamverse"
@@ -151,17 +165,15 @@
 "universo": "neofeudal"
 },
 {
-"alias": [
-"STE-REG-qattoum"
-],
-"descrizione": "Porto di delta dove il fiume si divide in tre bracci salmastri; la gilda degli ingegneri del freddo costruisce e mantiene qui le chiatte refrigerate che risalgono la corrente fino alle città dell'interno, e quasi metà dei cognomi nasce ancora dal mestiere di chi ripara gli scafi.",
+"alias": [],
+"descrizione": "Gilda mercantile che possiede le canne di vetro del telegrafo ottico tese sulle saline e impone una tariffa di passaggio in gettoni-vapore a chiunque le attraversi.",
 "ha_prosa": false,
-"nome": "Qattoum",
-"prima_apparizione": 68,
+"nome": "Consorzio del Vetro e del Sale",
+"prima_apparizione": 92,
 "ricorrenze": 19,
-"slug": "qattoum",
+"slug": "consorzio-del-vetro-e-del-sale",
 "sopra_soglia": true,
-"tipo": "luogo",
+"tipo": "ente",
 "universo": "steamverse"
 },
 {
@@ -179,6 +191,18 @@
 "universo": "hackverse"
 },
 {
+"alias": [],
+"descrizione": "Mercante di olio da lampada e canne di vetro soffiato, fa la spola tra le saline e il porto vendendo scorte a chi tiene acceso il telegrafo ottico del Consorzio.",
+"ha_prosa": false,
+"nome": "Halim Zaffran",
+"prima_apparizione": 92,
+"ricorrenze": 15,
+"slug": "halim-zaffran",
+"sopra_soglia": true,
+"tipo": "attore",
+"universo": "steamverse"
+},
+{
 "alias": [
 "NEO-REG-zastavena"
 ],
@@ -194,6 +218,20 @@
 },
 {
 "alias": [
+"STE-REG-ikerviz"
+],
+"descrizione": "Città posata su un doppio letto fluviale, dove il canale sotterraneo della gilda scorre parallelo al fiume vero portando salamoia refrigerante ai quartieri alti; quasi un cognome su due nasce ancora dal mestiere di chi lo porta.",
+"ha_prosa": false,
+"nome": "Ikervíz",
+"prima_apparizione": 80,
+"ricorrenze": 13,
+"slug": "ikerviz",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "steamverse"
+},
+{
+"alias": [
 "HAC-REG-singapore"
 ],
 "descrizione": "Città-stato crocevia di capitali e dati tra Asia ed Europa, dove ogni broker arriva già con passaporto e cognome propri: nessun ceppo prevale e pochi portano il cognome del mestiere, perché qui l'identità si compra e si vende, non si eredita.",
@@ -205,32 +243,6 @@
 "sopra_soglia": true,
 "tipo": "luogo",
 "universo": "hackverse"
-},
-{
-"alias": [],
-"descrizione": "Gilda mercantile che possiede le canne di vetro del telegrafo ottico tese sulle saline e impone una tariffa di passaggio in gettoni-vapore a chiunque le attraversi.",
-"ha_prosa": false,
-"nome": "Consorzio del Vetro e del Sale",
-"prima_apparizione": 92,
-"ricorrenze": 12,
-"slug": "consorzio-del-vetro-e-del-sale",
-"sopra_soglia": true,
-"tipo": "ente",
-"universo": "steamverse"
-},
-{
-"alias": [
-"STE-REG-ikerviz"
-],
-"descrizione": "Città posata su un doppio letto fluviale, dove il canale sotterraneo della gilda scorre parallelo al fiume vero portando salamoia refrigerante ai quartieri alti; quasi un cognome su due nasce ancora dal mestiere di chi lo porta.",
-"ha_prosa": false,
-"nome": "Ikervíz",
-"prima_apparizione": 80,
-"ricorrenze": 12,
-"slug": "ikerviz",
-"sopra_soglia": true,
-"tipo": "luogo",
-"universo": "steamverse"
 },
 {
 "alias": [],
@@ -258,6 +270,18 @@
 },
 {
 "alias": [],
+"descrizione": "Ogni sera, all'ora del cambio turno, la luce nelle canne di vetro del telegrafo vacilla per pochi secondi; nessuno ha mai spiegato perché, e ogni scheda del Consorzio lo registra come «normale».",
+"ha_prosa": false,
+"nome": "Lo Sfarfallio delle Nove",
+"prima_apparizione": 92,
+"ricorrenze": 7,
+"slug": "lo-sfarfallio-delle-nove",
+"sopra_soglia": true,
+"tipo": "anomalia",
+"universo": "steamverse"
+},
+{
+"alias": [],
 "descrizione": "Mercante di talee e sementi che segue le squadre di bonifica canale per canale, vendendo piante già acclimatate al fango appena scavato; sa dove passerà l'acqua un anno prima della Diocesi.",
 "ha_prosa": false,
 "nome": "Idris Sabbagh",
@@ -282,18 +306,6 @@
 },
 {
 "alias": [],
-"descrizione": "Mercante di olio da lampada e canne di vetro soffiato, fa la spola tra le saline e il porto vendendo scorte a chi tiene acceso il telegrafo ottico del Consorzio.",
-"ha_prosa": false,
-"nome": "Halim Zaffran",
-"prima_apparizione": 92,
-"ricorrenze": 6,
-"slug": "halim-zaffran",
-"sopra_soglia": true,
-"tipo": "attore",
-"universo": "steamverse"
-},
-{
-"alias": [],
 "descrizione": "Un lotto di cera da candela e zucchero bruciato fusi per errore durante la Fiera dei Pellegrini di tre anni fa, ridistribuito dalla Diocesi del Cielo come materiale benedetto senza separare i due; ogni oggetto fatto con questa pasta porta una doppia grazia che nessun prete sa più distinguere.",
 "ha_prosa": false,
 "nome": "La Fusione dei Voti",
@@ -315,17 +327,5 @@
 "sopra_soglia": true,
 "tipo": "anomalia",
 "universo": "neofeudal"
-},
-{
-"alias": [],
-"descrizione": "Ogni sera, all'ora del cambio turno, la luce nelle canne di vetro del telegrafo vacilla per pochi secondi; nessuno ha mai spiegato perché, e ogni scheda del Consorzio lo registra come «normale».",
-"ha_prosa": false,
-"nome": "Lo Sfarfallio delle Nove",
-"prima_apparizione": 92,
-"ricorrenze": 4,
-"slug": "lo-sfarfallio-delle-nove",
-"sopra_soglia": true,
-"tipo": "anomalia",
-"universo": "steamverse"
 }
 ]

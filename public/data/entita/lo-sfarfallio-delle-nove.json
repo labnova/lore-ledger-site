@@ -1,9 +1,9 @@
 {
-"aggiornata": "2026-09-16",
+"aggiornata": "2026-09-17",
 "alias": [],
 "descrizione": "Ogni sera, all'ora del cambio turno, la luce nelle canne di vetro del telegrafo vacilla per pochi secondi; nessuno ha mai spiegato perché, e ogni scheda del Consorzio lo registra come «normale».",
 "ha_prosa": false,
-"n_ricorrenze": 4,
+"n_ricorrenze": 7,
 "nome": "Lo Sfarfallio delle Nove",
 "prima_apparizione": 92,
 "prosa": null,
@@ -44,9 +44,41 @@
 "riga_id": "STE-INV-0048",
 "riga_tipo": "invenzione",
 "riga_titolo": "L'Etichetta Storta"
+},
+{
+"estrazione": 100,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 100,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0018",
+"riga_tipo": "gadget",
+"riga_titolo": "Lo Specchio da Polso"
+},
+{
+"estrazione": 100,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-INV-0050",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Serbatoio che Corregge da Solo"
 }
 ],
 "righe": [
+{
+"id": "STE-GAD-0018",
+"tipo": "gadget",
+"titolo": "Lo Specchio da Polso"
+},
 {
 "id": "STE-INV-0033",
 "tipo": "invenzione",
@@ -61,6 +93,11 @@
 "id": "STE-INV-0048",
 "tipo": "invenzione",
 "titolo": "L'Etichetta Storta"
+},
+{
+"id": "STE-INV-0050",
+"tipo": "invenzione",
+"titolo": "Il Serbatoio che Corregge da Solo"
 }
 ],
 "slug": "lo-sfarfallio-delle-nove",

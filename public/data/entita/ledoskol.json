@@ -1,12 +1,12 @@
 {
-"aggiornata": "2026-09-15",
+"aggiornata": "2026-09-17",
 "alias": [
 "STE-REG-cancello-del-freddo",
 "STE-REG-ledoskol"
 ],
 "descrizione": "Città-scalo aggrappata alle chiuse dell'estuario, dove la gilda del freddo governa le cantine di ghiaccio e gli aeronauti ne sorvegliano dall'alto le piene; quasi un cognome su due nasce ancora dal mestiere di chi lo porta. Il Cancello del Freddo è il varco della gilda dove i rifugiati di Zhenevka attendono la razione di ghiaccio scartato, aperto a ora fissa e a quantità chiusa.",
 "ha_prosa": false,
-"n_ricorrenze": 24,
+"n_ricorrenze": 34,
 "nome": "Ledoskol",
 "prima_apparizione": 20,
 "prosa": null,
@@ -227,6 +227,96 @@
 "riga_id": "STE-CON-0002",
 "riga_tipo": "contenuto",
 "riga_titolo": "Il Numero Esatto — trailer (Archivio Istruzione Aeronauti, Gilda del Freddo)"
+},
+{
+"estrazione": 100,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0011",
+"riga_tipo": "gadget",
+"riga_titolo": "La Chiave del Sorteggio"
+},
+{
+"estrazione": 100,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0012",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Panno dell'Alba"
+},
+{
+"estrazione": 100,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0013",
+"riga_tipo": "gadget",
+"riga_titolo": "La Goccia di Placazione"
+},
+{
+"estrazione": 100,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0014",
+"riga_tipo": "gadget",
+"riga_titolo": "La Chiave Clandestina"
+},
+{
+"estrazione": 100,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0015",
+"riga_tipo": "gadget",
+"riga_titolo": "La Chiave da Taschino"
+},
+{
+"estrazione": 100,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0016",
+"riga_tipo": "gadget",
+"riga_titolo": "Lo Specchio d'Attracco"
+},
+{
+"estrazione": 100,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0017",
+"riga_tipo": "gadget",
+"riga_titolo": "La Fiaschetta del Capoturno"
+},
+{
+"estrazione": 100,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0018",
+"riga_tipo": "gadget",
+"riga_titolo": "Lo Specchio da Polso"
+},
+{
+"estrazione": 100,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0019",
+"riga_tipo": "gadget",
+"riga_titolo": "La Chiave dal Numero Sbagliato"
+},
+{
+"estrazione": 100,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0020",
+"riga_tipo": "gadget",
+"riga_titolo": "La Chiave Scambiata"
 }
 ],
 "righe": [
@@ -284,6 +374,56 @@
 "id": "STE-GAD-0010",
 "tipo": "gadget",
 "titolo": "La Chiave Fittizia della Stiva"
+},
+{
+"id": "STE-GAD-0011",
+"tipo": "gadget",
+"titolo": "La Chiave del Sorteggio"
+},
+{
+"id": "STE-GAD-0012",
+"tipo": "gadget",
+"titolo": "Il Panno dell'Alba"
+},
+{
+"id": "STE-GAD-0013",
+"tipo": "gadget",
+"titolo": "La Goccia di Placazione"
+},
+{
+"id": "STE-GAD-0014",
+"tipo": "gadget",
+"titolo": "La Chiave Clandestina"
+},
+{
+"id": "STE-GAD-0015",
+"tipo": "gadget",
+"titolo": "La Chiave da Taschino"
+},
+{
+"id": "STE-GAD-0016",
+"tipo": "gadget",
+"titolo": "Lo Specchio d'Attracco"
+},
+{
+"id": "STE-GAD-0017",
+"tipo": "gadget",
+"titolo": "La Fiaschetta del Capoturno"
+},
+{
+"id": "STE-GAD-0018",
+"tipo": "gadget",
+"titolo": "Lo Specchio da Polso"
+},
+{
+"id": "STE-GAD-0019",
+"tipo": "gadget",
+"titolo": "La Chiave dal Numero Sbagliato"
+},
+{
+"id": "STE-GAD-0020",
+"tipo": "gadget",
+"titolo": "La Chiave Scambiata"
 },
 {
 "id": "STE-PER-0001",

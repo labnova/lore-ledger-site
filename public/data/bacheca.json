@@ -1781,115 +1781,6 @@
 ]
 },
 {
-"alternative": [],
-"artefatti_prodotti": [
-"STE-PER-0032"
-],
-"artefatto_dettaglio": {
-"carta": "BAC-35185664527-1",
-"commento": null,
-"errori_schema": [
-"affettivo: 'il collega di vedetta che ignorò il suo primo allarme: unico appoggio, e insieme il torto che non perdona' is not valid under any of the given schemas"
-],
-"id": "STE-PER-0032",
-"motivazione": "STE-PER-0009 ha `affettivo: null`, mentre STE-PER-0001 — stessa invenzione STE-INV-0012, stesso `rapporto: teme` — ce l'ha compilato: la lacuna è di Layla, non della coppia. `parent_id: null` con `relazione: null` è radice per schema, non le manca la madre. Una figlia di espansione può registrare su chi si appoggia la vedetta che nessuno crede più, restando dentro il gancio già scritto. Nessuna figlia oggi non è una lacuna: è sviluppo fermo.",
-"promossa_da": null,
-"promossa_il": null,
-"respinta_il": null,
-"riga": {
-"affettivo": "il collega di vedetta che ignorò il suo primo allarme: unico appoggio, e insieme il torto che non perdona",
-"carta_id": "BAC-35185664527-1",
-"casta": "aeronauti",
-"ceppo": "arabo",
-"cognome": "Iskafi",
-"contraddizione": "Ostinata a restare di vedetta anche oltre il proprio turno, non dimentica un torto nemmeno tra le nuvole e porta ancora rancore al collega che una volta ignorò il suo primo allarme sul Barometro; eppure è proprio su di lui che si appoggia quando nessuno le crede, come se solo chi l'ha delusa potesse confermarle che il pericolo è reale.",
-"created": "2026-09-17",
-"difetto": "rancoroso",
-"epoca_relativa": 0,
-"estrazione": 20,
-"eta_fascia": "adolescente",
-"gancio": "Teme lo strumento perché fu lei a suonarlo per prima l'anno del grande allagamento, e nessuno le crede più quando dice che stavolta il pericolo è reale: così resta di vedetta oltre il turno, in attesa che un secondo allarme — il suo — trovi qualcuno disposto a crederci prima che sia tardi.",
-"id": "STE-PER-0032",
-"invenzione_id": "STE-INV-0012",
-"nome": "Layla",
-"origine": "approfondimento",
-"parent_id": "STE-PER-0009",
-"rapporto": "teme",
-"regione": "Ledoskol",
-"relazione": "espansione",
-"schema_version": 1,
-"segno": "pesci",
-"spirituale": {
-"credenza": "il_cielo_amministrato",
-"rapporto": "praticante_tiepido"
-},
-"status": "canon",
-"tipo": "personaggio",
-"tratto": "ostinato",
-"universo": "steamverse"
-},
-"scartata_per": null,
-"stato": "provvisoria",
-"storia": [
-{
-"autore": "riparatore",
-"motivo": "artefatto della carta None",
-"quando": "2026-09-17T05:34:41Z",
-"sha": "533cdbd2d891fdc8df103ba23cdb389ba20922f9",
-"versione": 1
-}
-],
-"versione": 1,
-"versioni": []
-},
-"chiusa_il": null,
-"creata": "2026-09-17T05:34:21Z",
-"esito": null,
-"id": "BAC-35185664527-1",
-"letto_a": "533cdbd2d891fdc8df103ba23cdb389ba20922f9",
-"payload": {
-"artefatti_prodotti": [
-"STE-PER-0032"
-],
-"artefatto": "proposte/righe/STE-PER-0032.yaml",
-"candidati": [
-"STE-PER-0009",
-"STE-PER-0001",
-"STE-PER-0027",
-"entita:cyberverse/luogo/rostkirche",
-"entita:neofeudal/anomalia/la-semina-dell-anno-storto"
-],
-"forma": "espansione",
-"lacuna": "affettivo vuoto: nessun legame dichiarato",
-"letto_a": "533cdbd2d891fdc8df103ba23cdb389ba20922f9",
-"motivazione": "STE-PER-0009 ha `affettivo: null`, mentre STE-PER-0001 — stessa invenzione STE-INV-0012, stesso `rapporto: teme` — ce l'ha compilato: la lacuna è di Layla, non della coppia. `parent_id: null` con `relazione: null` è radice per schema, non le manca la madre. Una figlia di espansione può registrare su chi si appoggia la vedetta che nessuno crede più, restando dentro il gancio già scritto. Nessuna figlia oggi non è una lacuna: è sviluppo fermo.",
-"scelto": "STE-PER-0009"
-},
-"postata_da": "riparatore",
-"presa_da": null,
-"presa_il": null,
-"priorita": 3,
-"racconto": null,
-"righe": [
-"STE-PER-0009"
-],
-"scade": null,
-"stato": "aperta",
-"storia": [
-{
-"agente": "riparatore",
-"da": "riparatore",
-"quando": "2026-09-17T05:34:21Z",
-"stato": "aperta"
-}
-],
-"tentativi": 0,
-"tipo": "approfondimento",
-"universi": [
-"steamverse"
-]
-},
-{
 "chiusa_il": null,
 "creata": "2026-09-17T06:55:50Z",
 "esito": null,
@@ -2009,6 +1900,93 @@
 ],
 "tentativi": 0,
 "tipo": "media_tavola",
+"universi": [
+"steamverse"
+]
+},
+{
+"alternativa_dettaglio": null,
+"alternative": [],
+"auto_riferimento": false,
+"carta_madre": "BAC-35185664527-1",
+"chiusa_il": null,
+"contro_cercato_marcato": [
+{
+"auto_riferimento": false,
+"id": "STE-INV-0012"
+},
+{
+"auto_riferimento": false,
+"id": "STE-PER-0001"
+},
+{
+"auto_riferimento": false,
+"id": "STE-PER-0002"
+},
+{
+"auto_riferimento": false,
+"id": "STE-PER-0003"
+},
+{
+"auto_riferimento": false,
+"id": "STE-PER-0005"
+},
+{
+"auto_riferimento": false,
+"id": "STE-PER-0007"
+},
+{
+"auto_riferimento": false,
+"id": "STE-PER-0008"
+},
+{
+"auto_riferimento": false,
+"id": "STE-PER-0010"
+}
+],
+"creata": "2026-09-17T11:23:30Z",
+"esito": null,
+"id": "BAC-35215389221-1",
+"payload": {
+"alternativa_testo": null,
+"artefatto_alternativo": null,
+"carta_madre": "BAC-35185664527-1",
+"contraddizione_id": null,
+"contro_cercato": [
+"STE-INV-0012",
+"STE-PER-0001",
+"STE-PER-0002",
+"STE-PER-0003",
+"STE-PER-0005",
+"STE-PER-0007",
+"STE-PER-0008",
+"STE-PER-0010"
+],
+"lacuna": "affettivo vuoto: nessun legame dichiarato",
+"letto_a": "533cdbd2d891fdc8df103ba23cdb389ba20922f9",
+"posizione": "accolgo",
+"testo": "Verificato: STE-PER-0009 è l'unica riga con invenzione STE-INV-0012 e rapporto teme ad avere affettivo null; STE-PER-0001 lo compila, quindi il buco è suo e la lacuna dichiarata tiene. parent_id null + relazione null = radice per schema, non lacuna. L'espansione di una figlia resta dentro il gancio: forma adeguata."
+},
+"postata_da": "guardiano",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"STE-PER-0009"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "guardiano",
+"da": "guardiano",
+"quando": "2026-09-17T11:23:30Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "commento",
 "universi": [
 "steamverse"
 ]
@@ -2515,6 +2493,150 @@
 "tipo": "approfondimento",
 "universi": [
 "cyberverse"
+]
+},
+{
+"alternative": [],
+"artefatti_prodotti": [
+"STE-PER-0032"
+],
+"artefatto_dettaglio": {
+"carta": "BAC-35185664527-1",
+"commento": null,
+"errori_schema": [
+"affettivo: 'il collega di vedetta che ignorò il suo primo allarme: unico appoggio, e insieme il torto che non perdona' is not valid under any of the given schemas"
+],
+"id": "STE-PER-0032",
+"motivazione": "STE-PER-0009 ha `affettivo: null`, mentre STE-PER-0001 — stessa invenzione STE-INV-0012, stesso `rapporto: teme` — ce l'ha compilato: la lacuna è di Layla, non della coppia. `parent_id: null` con `relazione: null` è radice per schema, non le manca la madre. Una figlia di espansione può registrare su chi si appoggia la vedetta che nessuno crede più, restando dentro il gancio già scritto. Nessuna figlia oggi non è una lacuna: è sviluppo fermo.",
+"promossa_da": null,
+"promossa_il": null,
+"respinta_il": null,
+"riga": {
+"affettivo": "il collega di vedetta che ignorò il suo primo allarme: unico appoggio, e insieme il torto che non perdona",
+"carta_id": "BAC-35185664527-1",
+"casta": "aeronauti",
+"ceppo": "arabo",
+"cognome": "Iskafi",
+"contraddizione": "Ostinata a restare di vedetta anche oltre il proprio turno, non dimentica un torto nemmeno tra le nuvole e porta ancora rancore al collega che una volta ignorò il suo primo allarme sul Barometro; eppure è proprio su di lui che si appoggia quando nessuno le crede, come se solo chi l'ha delusa potesse confermarle che il pericolo è reale.",
+"created": "2026-09-17",
+"difetto": "rancoroso",
+"epoca_relativa": 0,
+"estrazione": 20,
+"eta_fascia": "adolescente",
+"gancio": "Teme lo strumento perché fu lei a suonarlo per prima l'anno del grande allagamento, e nessuno le crede più quando dice che stavolta il pericolo è reale: così resta di vedetta oltre il turno, in attesa che un secondo allarme — il suo — trovi qualcuno disposto a crederci prima che sia tardi.",
+"id": "STE-PER-0032",
+"invenzione_id": "STE-INV-0012",
+"nome": "Layla",
+"origine": "approfondimento",
+"parent_id": "STE-PER-0009",
+"rapporto": "teme",
+"regione": "Ledoskol",
+"relazione": "espansione",
+"schema_version": 1,
+"segno": "pesci",
+"spirituale": {
+"credenza": "il_cielo_amministrato",
+"rapporto": "praticante_tiepido"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ostinato",
+"universo": "steamverse"
+},
+"scartata_per": null,
+"stato": "provvisoria",
+"storia": [
+{
+"autore": "riparatore",
+"motivo": "artefatto della carta None",
+"quando": "2026-09-17T05:34:41Z",
+"sha": "533cdbd2d891fdc8df103ba23cdb389ba20922f9",
+"versione": 1
+}
+],
+"versione": 1,
+"versioni": []
+},
+"chiusa_il": null,
+"creata": "2026-09-17T05:34:21Z",
+"esito": null,
+"id": "BAC-35185664527-1",
+"letto_a": "533cdbd2d891fdc8df103ba23cdb389ba20922f9",
+"payload": {
+"arbitro": {
+"artefatti_prodotti": [
+"STE-PER-0032"
+],
+"letto_a": "533cdbd2d891fdc8df103ba23cdb389ba20922f9",
+"obiezioni_valide": 0,
+"scartate": [],
+"valide": [
+{
+"agente": "guardiano",
+"auto_riferimento": [],
+"commento": "BAC-35215389221-1",
+"contraddizione_valida": false,
+"posizione": "accolgo",
+"prove_valide": [
+"STE-INV-0012",
+"STE-PER-0001",
+"STE-PER-0002",
+"STE-PER-0003",
+"STE-PER-0005",
+"STE-PER-0007",
+"STE-PER-0008",
+"STE-PER-0010"
+]
+}
+]
+},
+"artefatti_prodotti": [
+"STE-PER-0032"
+],
+"artefatto": "proposte/righe/STE-PER-0032.yaml",
+"candidati": [
+"STE-PER-0009",
+"STE-PER-0001",
+"STE-PER-0027",
+"entita:cyberverse/luogo/rostkirche",
+"entita:neofeudal/anomalia/la-semina-dell-anno-storto"
+],
+"commenti_visti": 1,
+"forma": "espansione",
+"lacuna": "affettivo vuoto: nessun legame dichiarato",
+"letto_a": "533cdbd2d891fdc8df103ba23cdb389ba20922f9",
+"motivazione": "STE-PER-0009 ha `affettivo: null`, mentre STE-PER-0001 — stessa invenzione STE-INV-0012, stesso `rapporto: teme` — ce l'ha compilato: la lacuna è di Layla, non della coppia. `parent_id: null` con `relazione: null` è radice per schema, non le manca la madre. Una figlia di espansione può registrare su chi si appoggia la vedetta che nessuno crede più, restando dentro il gancio già scritto. Nessuna figlia oggi non è una lacuna: è sviluppo fermo.",
+"scelto": "STE-PER-0009"
+},
+"postata_da": "riparatore",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"STE-PER-0009"
+],
+"scade": null,
+"stato": "attesa_arbitro",
+"storia": [
+{
+"agente": "riparatore",
+"da": "riparatore",
+"quando": "2026-09-17T05:34:21Z",
+"stato": "aperta"
+},
+{
+"agente": "guardiano",
+"da": "guardiano",
+"motivo": "primo commento: decide l'arbitro",
+"quando": "2026-09-17T11:23:30Z",
+"stato": "attesa_arbitro"
+}
+],
+"tentativi": 0,
+"tipo": "approfondimento",
+"universi": [
+"steamverse"
 ]
 },
 {

@@ -5861,6 +5861,11 @@
 "to": "HAC-REG-tallinn"
 },
 {
+"from": "HAC-CON-0003",
+"kind": "sorgente",
+"to": "HAC-INV-0046"
+},
+{
 "from": "NEO-CON-0001",
 "kind": "sorgente",
 "to": "NEO-PER-0010"
@@ -8527,6 +8532,12 @@
 "id": "HAC-CON-0002",
 "tipo": "contenuto",
 "titolo": "Snap teaser \"Rilascio Lento\" — account @deriva.iridi, 19s",
+"universo": "hackverse"
+},
+{
+"id": "HAC-CON-0003",
+"tipo": "contenuto",
+"titolo": "Reel promozionale \"Notte Piena\" — account @agroterm.notturno, 20s",
 "universo": "hackverse"
 },
 {
