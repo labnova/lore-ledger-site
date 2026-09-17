@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "il-costruttore",
+"created": "2026-09-17",
+"discipline": [
+"moda/cappelleria",
+"tipografia/incisione"
+],
+"entita_usate": [
+"Parallasse Certificazioni™",
+"Rostkirche"
+],
+"epoca_relativa": 0,
+"estrazione": 103,
+"fatti": [],
+"gancio": "Tre esemplari compaiono al mercato di Rostkirche mesi prima della presentazione ufficiale, e i tecnici che li avevano incisi in laboratorio ricevono la visita degli ispettori a turno.",
+"id": "CYB-INV-0080",
+"media": [],
+"nome": "Il Cappello che Non Doveva Uscire",
+"nome_reale": "Cappello a tesa rigida con circuito inciso nel bordo, prototipo di identificazione non ancora omologato, uscito dai laboratori di Parallasse Certificazioni™",
+"oggetto": "Cappello a tesa rigida con un circuito inciso nel bordo, prototipo di identificazione non ancora omologato da Parallasse Certificazioni™.",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "versione-futura-trapelata",
+"universo": "cyberverse"
+}

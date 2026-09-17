@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "un-terzo-ignaro",
+"created": "2026-09-17",
+"discipline": [
+"moda/cappelleria",
+"tipografia/incisione"
+],
+"entita_usate": [
+"Rostkirche"
+],
+"epoca_relativa": 0,
+"estrazione": 103,
+"fatti": [],
+"gancio": "A Rostkirche un fabbro di serrature nota che il vecchio cappellaio pareggia i conti aprendo porte con la sua pressa da feltro, e da quel giorno nessuno in città si fida più della propria chiave.",
+"id": "CYB-INV-0075",
+"media": [],
+"nome": "Il Pettine di Feltro",
+"nome_reale": "Pressa da bordo per feltro tarata sui marchi della gilda dei cappellai, i cui aghi da incisione risultano calibrati sugli stessi passi delle serrature elettroniche a impulso",
+"oggetto": "Pressa da bordo per cappelli, con aghi calibrati sui marchi di gilda, che si è scoperto aprire le serrature elettroniche a impulso.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "riuso-improprio",
+"universo": "cyberverse"
+}

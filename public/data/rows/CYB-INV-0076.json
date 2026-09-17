@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "l-ambiente-gli-animali",
+"created": "2026-09-17",
+"discipline": [
+"moda/cappelleria",
+"tipografia/incisione"
+],
+"entita_usate": [
+"Rostkirche"
+],
+"epoca_relativa": 0,
+"estrazione": 103,
+"fatti": [],
+"gancio": "I cappellai di Rostkirche continuano a cercarlo sui banchi dell'usato, perché il feltro sintetico non tiene il marchio, e per ogni ferro ritrovato qualcuno torna a tendere trappole nella riserva.",
+"id": "CYB-INV-0076",
+"media": [],
+"nome": "Il Ferro Vecchio",
+"nome_reale": "Ferro da stiro per tese di prima serie, l'unico che fissa a caldo l'incisione sul feltro di pelo animale non sintetico",
+"oggetto": "Ferro da stiro per tese di prima serie, l'unico che trattiene l'incisione a caldo sul feltro di pelo animale.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "versione-precedente",
+"universo": "cyberverse"
+}

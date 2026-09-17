@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "la-comunita",
+"created": "2026-09-17",
+"discipline": [
+"moda/cappelleria",
+"tipografia/incisione"
+],
+"entita_usate": [
+"Rostkirche"
+],
+"epoca_relativa": 0,
+"estrazione": 103,
+"fatti": [],
+"gancio": "Nessuno sa chi lo abbia manomesso, ma a Rostkirche ogni cappello uscito da quel torchio viene ormai rifiutato al mercato, e la gilda paga per un errore che non è suo.",
+"id": "CYB-INV-0088",
+"media": [],
+"nome": "Il Torchio Storto",
+"nome_reale": "Torchio da incisione comunitario di Rostkirche, manomesso perché ogni marchio esca storto e la gilda ne paghi la fiducia perduta",
+"oggetto": "Torchio da incisione comunitario, manomesso perché ogni marchio prodotto esca leggermente storto.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "sabotaggio",
+"universo": "cyberverse"
+}

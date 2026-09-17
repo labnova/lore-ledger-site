@@ -1,0 +1,27 @@
+{
+"appare_in": [],
+"chi_paga": "l-inventore-originario",
+"created": "2026-09-17",
+"discipline": [
+"moda/cappelleria",
+"tipografia/incisione"
+],
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 103,
+"fatti": [],
+"gancio": "Chi lo ha progettato per una mostra di restauro lo ritrova anni dopo cucito nei cappelli da lavoro della propria bottega, che ora registrano ogni pausa dei suoi stessi operai.",
+"id": "CYB-INV-0089",
+"media": [],
+"nome": "Il Tracciante nella Tesa",
+"nome_reale": "Cappello con tesa incisa da un tracciante passivo, ideato per contare i visitatori di una mostra e oggi usato per sorvegliare i cappellai stessi",
+"oggetto": "Cappello con un tracciante passivo inciso nella tesa, originariamente pensato per contare visitatori.",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "sorveglianza-incorporata",
+"universo": "cyberverse"
+}

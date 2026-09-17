@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-17",
+"discipline": [
+"astronomia/astrometria",
+"architettura/restauro"
+],
+"epoca_relativa": 1,
+"estrazione": 103,
+"fatti": [],
+"gancio": "Chi la riceve la risolve come un compito di scuola, senza sapere che ogni coordinata corretta è un punto in cui il faro ha mentito, finché qualcuno non allinea l'intera sequenza e riconosce nella forma il profilo di Rostkirche.",
+"id": "CYB-INV-0095",
+"media": [],
+"nome": "Le Coordinate Senza Nome",
+"nome_reale": "Trascrizione clandestina del registro delle ricalibrazioni fallite, ricopiata a mano da un tecnico prima del richiamo e fatta circolare come sequenza di coordinate senza contesto",
+"parent_id": "CYB-INV-0059",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il registro vietato non si può più nominare per esteso, così un tecnico di Rostkirche lo ricopia a mano trasformandolo in una sequenza di coordinate senza etichetta, che circola come fosse un esercizio di calcolo e non la prova che Parallasse Certificazioni™ ha sempre negato.",
+"universo": "cyberverse"
+}

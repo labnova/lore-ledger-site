@@ -5,7 +5,7 @@
 ],
 "descrizione": "Porto di delta dove il fiume si divide in tre bracci salmastri; la gilda degli ingegneri del freddo costruisce e mantiene qui le chiatte refrigerate che risalgono la corrente fino alle città dell'interno, e quasi metà dei cognomi nasce ancora dal mestiere di chi ripara gli scafi.",
 "ha_prosa": false,
-"n_ricorrenze": 23,
+"n_ricorrenze": 24,
 "nome": "Qattoum",
 "prima_apparizione": 68,
 "prosa": null,
@@ -217,6 +217,15 @@
 "riga_id": "STE-PER-0033",
 "riga_tipo": "personaggio",
 "riga_titolo": "Fatima al-Rashidi"
+},
+{
+"estrazione": 102,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0021",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Manometro Senza Bollo"
 }
 ],
 "righe": [
@@ -229,6 +238,11 @@
 "id": "STE-GAD-0015",
 "tipo": "gadget",
 "titolo": "La Chiave da Taschino"
+},
+{
+"id": "STE-GAD-0021",
+"tipo": "gadget",
+"titolo": "Il Manometro Senza Bollo"
 },
 {
 "id": "STE-INV-0029",

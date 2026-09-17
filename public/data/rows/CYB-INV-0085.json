@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "il-costruttore",
+"created": "2026-09-17",
+"discipline": [
+"moda/cappelleria",
+"tipografia/incisione"
+],
+"entita_usate": [
+"Rostkirche",
+"Parallasse Certificazioni™"
+],
+"epoca_relativa": 0,
+"estrazione": 103,
+"fatti": [],
+"gancio": "Se ne parla solo come quello di prima, perché nominarlo per esteso significa ammettere che la gilda esisteva prima del contratto con Parallasse.",
+"id": "CYB-INV-0085",
+"media": [],
+"nome": "Il Punzone Senza Nome",
+"nome_reale": "Punzone del primo incisore della gilda dei cappellai di Rostkirche, il cui nome Parallasse Certificazioni™ vieta di scrivere nei registri",
+"oggetto": "Il punzone del primo incisore della gilda dei cappellai, il cui nome è vietato dai registri di Parallasse Certificazioni™.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "censura",
+"universo": "cyberverse"
+}

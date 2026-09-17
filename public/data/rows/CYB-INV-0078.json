@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "il-futuro",
+"created": "2026-09-17",
+"discipline": [
+"moda/cappelleria",
+"tipografia/incisione"
+],
+"entita_usate": [
+"La Matrice Consumata"
+],
+"epoca_relativa": 0,
+"estrazione": 103,
+"fatti": [],
+"gancio": "Nessuno se n'è accorto finché un archivista non ha provato a verificare un cappello di dieci anni fa contro uno stampato ieri, trovando lo stesso taglio storto su entrambi.",
+"id": "CYB-INV-0078",
+"media": [],
+"nome": "La Crepa nella Matrice",
+"nome_reale": "La Matrice Consumata, incrinata dopo l'ultima tiratura, che rende illeggibile il marchio a chiunque venga certificato da quel giorno in poi",
+"oggetto": "La Matrice Consumata si è incrinata durante l'ultima tiratura e ora lascia sulle tese un marchio illeggibile.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "guasto",
+"universo": "cyberverse"
+}

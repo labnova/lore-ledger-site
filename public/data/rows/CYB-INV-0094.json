@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "l-ambiente-gli-animali",
+"created": "2026-09-17",
+"discipline": [
+"moda/cappelleria",
+"tipografia/incisione"
+],
+"entita_usate": [
+"Rostkirche"
+],
+"epoca_relativa": 0,
+"estrazione": 103,
+"fatti": [],
+"gancio": "A Rostkirche nessuno si chiede perché siano gratis, finché qualcuno nota che ogni tesa porta incisa la stessa provenienza di una riserva che avrebbe dovuto restare intoccata.",
+"id": "CYB-INV-0094",
+"media": [],
+"nome": "Il Cappello del Censimento",
+"nome_reale": "Cappelli distribuiti gratis a Rostkirche durante il censimento, il cui feltro incide la provenienza da pellame raccolto in una riserva protetta",
+"oggetto": "Cappelli distribuiti gratis durante il censimento, con il feltro inciso da un marchio di provenienza da riserva protetta.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "gratuita-sospetta",
+"universo": "cyberverse"
+}

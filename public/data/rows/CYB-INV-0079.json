@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-inventore-originario",
+"created": "2026-09-17",
+"discipline": [
+"moda/cappelleria",
+"tipografia/incisione"
+],
+"entita_usate": [
+"Ivo Reinacher",
+"Parallasse Certificazioni™"
+],
+"epoca_relativa": 0,
+"estrazione": 103,
+"fatti": [],
+"gancio": "L'incisore che ha progettato la matrice originale scopre il suo disegno spezzato in dieci pezzi diversi, ognuno venduto come autentico da Ivo Reinacher a un cliente diverso.",
+"id": "CYB-INV-0079",
+"media": [],
+"nome": "Il Punzone di Scarto",
+"nome_reale": "Punzone assemblato da schegge di matrici Parallasse scartate, venduto da Ivo Reinacher a chi non può pagare il marchio ufficiale",
+"oggetto": "Punzone artigianale assemblato da frammenti di matrici scartate, venduto da Ivo Reinacher a chi non può pagare il Bollino ufficiale.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "sostituto-povero",
+"universo": "cyberverse"
+}

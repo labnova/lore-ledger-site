@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "l-utente-ultimo",
+"created": "2026-09-17",
+"discipline": [
+"moda/cappelleria",
+"tipografia/incisione"
+],
+"entita_usate": [
+"Parallasse Certificazioni™"
+],
+"epoca_relativa": 0,
+"estrazione": 103,
+"fatti": [],
+"gancio": "Il compratore guarda solo quanto è fine il dettaglio richiesto da Parallasse Certificazioni™, mai le mani che lo hanno inciso.",
+"id": "CYB-INV-0092",
+"media": [],
+"nome": "Gli Occhi degli Apprendisti",
+"nome_reale": "Incisione a mano dei Bollini minori sulle tese, affidata ad apprendisti che perdono la vista entro pochi anni per la finezza richiesta da Parallasse Certificazioni™",
+"oggetto": "Incisione a mano dei Bollini minori sulle tese, lavoro affidato ad apprendisti che perdono la vista in pochi anni.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "costo-umano-nascosto",
+"universo": "cyberverse"
+}

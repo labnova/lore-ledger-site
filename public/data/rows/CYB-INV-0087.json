@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "un-terzo-ignaro",
+"created": "2026-09-17",
+"discipline": [
+"moda/cappelleria",
+"tipografia/incisione"
+],
+"entita_usate": [
+"Parallasse Certificazioni™"
+],
+"epoca_relativa": 0,
+"estrazione": 103,
+"fatti": [],
+"gancio": "Chi compra il cappello marchiato non saprà mai che il suo Bollino viene da un furto avvenuto tre isolati più in là.",
+"id": "CYB-INV-0087",
+"media": [],
+"nome": "La Matrice Rubata",
+"nome_reale": "Matrice per l'incisione dei Bollini di seconda classe, rubata a Parallasse Certificazioni™ e usata per marchiare cappelli comuni come fossero certificati",
+"oggetto": "Matrice per Bollini di seconda classe, rubata a Parallasse Certificazioni™ e usata per marchiare cappelli comuni come certificati.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "furto",
+"universo": "cyberverse"
+}

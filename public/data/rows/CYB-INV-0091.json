@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "l-ambiente-gli-animali",
+"created": "2026-09-17",
+"discipline": [
+"moda/cappelleria",
+"tipografia/incisione"
+],
+"entita_usate": [
+"Rostkirche"
+],
+"epoca_relativa": 0,
+"estrazione": 103,
+"fatti": [],
+"gancio": "Un gruppo di cacciatori di Rostkirche segue il marchio giusto ma lo chiama con il nome sbagliato, e finisce a tendere trappole proprio nella riserva che doveva restare intatta.",
+"id": "CYB-INV-0091",
+"media": [],
+"nome": "Il Marchio dei Due Nomi",
+"nome_reale": "Marchio inciso sulle tese per segnalare le zone di caccia vietata, chiamato diversamente dai due ceppi di Rostkirche",
+"oggetto": "Marchio inciso sulle tese per segnalare le zone di caccia vietata, con due nomi diversi a seconda del ceppo.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "malinteso-linguistico",
+"universo": "cyberverse"
+}

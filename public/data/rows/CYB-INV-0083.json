@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "la-comunita",
+"created": "2026-09-17",
+"discipline": [
+"moda/cappelleria",
+"tipografia/incisione"
+],
+"entita_usate": [
+"Rostkirche"
+],
+"epoca_relativa": 0,
+"estrazione": 103,
+"fatti": [],
+"gancio": "Quando l'incisore itinerante salta un mese per malattia, a Rostkirche si accumulano lutti senza nome, e la comunità si organizza in turni pur di non perderne il prossimo passaggio.",
+"id": "CYB-INV-0083",
+"media": [],
+"nome": "Il Cappello del Morto",
+"nome_reale": "Servizio itinerante di incisione dei nomi sulle tese dei cappelli funebri, unico modo per registrare un morto senza documenti a Rostkirche",
+"oggetto": "Servizio itinerante che incide il nome del defunto sulla tesa di un cappello funebre, unica forma di registro per chi non ha documenti.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "dipendenza",
+"universo": "cyberverse"
+}

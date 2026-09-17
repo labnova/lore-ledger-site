@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "l-istituzione",
+"created": "2026-09-17",
+"discipline": [
+"moda/cappelleria",
+"tipografia/incisione"
+],
+"entita_usate": [
+"Parallasse Certificazioni™"
+],
+"epoca_relativa": 0,
+"estrazione": 103,
+"fatti": [],
+"gancio": "I fumi salgono dal piano dell'officina fino agli uffici di Parallasse Certificazioni™, e da un anno i dirigenti tengono le finestre chiuse senza dire perché.",
+"id": "CYB-INV-0082",
+"media": [],
+"nome": "I Fumi di Sopra",
+"nome_reale": "Elmetti obbligatori per i restauratori certificati, la cui incisione a caldo rilascia fumi che risalgono negli uffici sovrastanti di Parallasse Certificazioni™",
+"oggetto": "Elmetto obbligatorio per i restauratori certificati, la cui incisione a caldo del Bollino rilascia fumi tossici.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "effetto-collaterale",
+"universo": "cyberverse"
+}

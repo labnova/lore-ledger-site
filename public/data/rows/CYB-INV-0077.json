@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "l-utente-ultimo",
+"created": "2026-09-17",
+"discipline": [
+"moda/cappelleria",
+"tipografia/incisione"
+],
+"entita_usate": [
+"Parallasse Certificazioni™"
+],
+"epoca_relativa": 0,
+"estrazione": 103,
+"fatti": [],
+"gancio": "Chi vuole un elmetto certificato paga il prezzo che Parallasse Certificazioni™ decide quella settimana, perché non esiste una seconda matrice a cui rivolgersi.",
+"id": "CYB-INV-0077",
+"media": [],
+"nome": "La Matrice Madre",
+"nome_reale": "Matrice madre del Bollino, incisa una sola volta e mai duplicata, unica fonte legale dei timbri per gli elmetti cerimoniali dei restauratori",
+"oggetto": "L'unica matrice legale per incidere il Bollino sugli elmetti cerimoniali dei restauratori, custodita da Parallasse Certificazioni™.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "monopolio",
+"universo": "cyberverse"
+}

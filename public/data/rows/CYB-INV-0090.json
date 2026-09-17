@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-istituzione",
+"created": "2026-09-17",
+"discipline": [
+"moda/cappelleria",
+"tipografia/incisione"
+],
+"entita_usate": [
+"Rostkirche",
+"Parallasse Certificazioni™"
+],
+"epoca_relativa": 0,
+"estrazione": 103,
+"fatti": [],
+"gancio": "Occupa mezza bottega e consuma corrente per un intero isolato, ma nessun ufficio di Parallasse Certificazioni™ vuole ammettere l'errore di consegna e riprendersela.",
+"id": "CYB-INV-0090",
+"media": [],
+"nome": "La Pressa Troppo Grande",
+"nome_reale": "Pressa da incisione dimensionata per l'intero distretto trapianti, installata per errore nella bottega di un solo cappellaio di Rostkirche",
+"oggetto": "Pressa da incisione dimensionata per l'intero distretto trapianti, consegnata per errore a un singolo cappellaio.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "scala-sbagliata",
+"universo": "cyberverse"
+}

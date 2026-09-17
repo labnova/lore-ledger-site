@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "separata"
+},
+"appare_in": [],
+"casta": "revisori_parallasse",
+"ceppo": "germanico",
+"cognome": "Osterholt",
+"contraddizione": "Studia il registro delle Anime di Scorta per conto di Parallasse Certificazioni™, convinta che i numeri non mentano mai, ma ogni falsificazione che scopre assomiglia sempre di più al proprio modo di correggere gli errori altrui, al punto da ricontrollare le sue stesse verifiche per paura di essere lei la prossima calligrafia sbagliata.",
+"created": "2026-09-17",
+"difetto": "sospettosa",
+"epoca_relativa": 0,
+"estrazione": 103,
+"eta_fascia": "adulto",
+"fatti": [],
+"gancio": "Marlen isola una falsificazione con la calligrafia digitale di Detlef Waldbrechinner e si prepara a denunciarlo, finché non nota che la data corretta a mano coincide esattamente con l'errore che lei stessa aveva segnalato un mese prima, mai risolto.",
+"id": "CYB-PER-0033",
+"invenzione_id": "CYB-INV-0015",
+"media": [],
+"nome": "Marlen",
+"parent_id": "CYB-PER-0025",
+"rapporto": "studia",
+"regione": "Rostkirche",
+"relazione": "espansione",
+"ritratto": null,
+"schema_version": 1,
+"segno": "capricorno",
+"spirituale": {
+"credenza": "i_numeri_non_mentono",
+"rapporto": "scettica"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "scrupolosa",
+"universo": "cyberverse"
+}

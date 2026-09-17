@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "nessuno-apparentemente",
+"created": "2026-09-17",
+"discipline": [
+"moda/cappelleria",
+"tipografia/incisione"
+],
+"entita_usate": [
+"Rostkirche"
+],
+"epoca_relativa": 0,
+"estrazione": 103,
+"fatti": [],
+"gancio": "Ogni cappellaio di Rostkirche sa incidere un messaggio nella fodera, e ogni pattuglia sa dove non guardare quando conta i cappelli.",
+"id": "CYB-INV-0081",
+"media": [],
+"nome": "La Fodera che Parla",
+"nome_reale": "Cappelli a falda larga con messaggi incisi nella fodera, vietati dall'editto e portati comunque da chiunque a Rostkirche",
+"oggetto": "Cappelli a falda larga con frasi incise nella fodera, proibiti dall'editto e indossati apertamente.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "divieto-ignorato",
+"universo": "cyberverse"
+}

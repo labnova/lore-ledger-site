@@ -1993,6 +1993,132 @@
 },
 {
 "chiusa_il": null,
+"creata": "2026-09-17T12:51:13Z",
+"esito": null,
+"id": "BAC-35223469326-1",
+"payload": {
+"bozza": "Product-sheet photograph: object placed on a seamless white ground, soft cold studio light, light cast shadow, label with illegible product code, corporate-blue detail. Subject: Cauzione Temporale — Fondo obbligatorio di garanzia contro i danni da tempesta versato dagli inquilini di edilizia popolare a copertura del solo immobile. Bianchi freddi, grigi perla, blu corporate (un navy freddo) come unico colore d'identità, un arancio di sicurezza solo per etichette e avvertenze. Fotografia pubblicitaria di prodotto o di catalogo aziendale: luce da studio morbida e fredda, fondo continuo, oggetti posati come in una scheda tecnica, etichette con codici prodotto illeggibili. strong studio light, soft shadows, shot on 55mm lens, polished and sleek finish --ar 4:3 --no postcard neon, rain with signs, smoky alleys, floating holograms, chrome implants, decorative japanese lettering, latex suits, HUD overlay, illegible lettering, watermark --sref random",
+"chiave": "m2",
+"contesto": "id: CYB-INV-0045\ntipo: invenzione\nuniverso: cyberverse\nestrazione: 60\ncreated: '2026-09-15'\nparent_id: null\nrelazione: null\nepoca_relativa: 0\nregione: null\nstatus: canon\nschema_version: 1\nnome_reale: Fondo obbligatorio di garanzia contro i danni da tempesta versato dagli inquilini di edilizia popolare a copertura del solo immobile\nnome: Cauzione Temporale\ndiscipline:\n- meteorologia/climatologia\n- urbanistica/edilizia_popolare\npoc: true",
+"manifest": {
+"caricato_il": null,
+"creato": "2026-09-17",
+"id": "MED-35223469326-2",
+"note": "oggetto: Cauzione Temporale; gancio: Dopo la tempesta il palazzo viene ristrutturato in tre settimane con i soldi del fondo, mentre gli inquilini aspettano ancora un rimborso per i mobili perduti che nessuna polizza copriva.; torsione: Il fondo copre davvero per intero i danni da tempesta all'edificio, come promesso nel contratto, solo che il contratto non ha mai promesso nulla per quello che la tempesta porta via dentro casa.; sref random — promuovere con media_upload.py --promuovi-sref",
+"parametri": {
+"ar": "4:3",
+"atomi": [
+"ATM-35185545263-6",
+"ATM-35059284514-5",
+"ATM-35059284514-30"
+],
+"cref": null,
+"sref": "random"
+},
+"prompt": "Product-sheet photograph: object placed on a seamless white ground, soft cold studio light, light cast shadow, label with illegible product code, corporate-blue detail. Subject: Cauzione Temporale — Fondo obbligatorio di garanzia contro i danni da tempesta versato dagli inquilini di edilizia popolare a copertura del solo immobile. Bianchi freddi, grigi perla, blu corporate (un navy freddo) come unico colore d'identità, un arancio di sicurezza solo per etichette e avvertenze. Fotografia pubblicitaria di prodotto o di catalogo aziendale: luce da studio morbida e fredda, fondo continuo, oggetti posati come in una scheda tecnica, etichette con codici prodotto illeggibili. strong studio light, soft shadows, shot on 55mm lens, polished and sleek finish --ar 4:3 --no postcard neon, rain with signs, smoky alleys, floating holograms, chrome implants, decorative japanese lettering, latex suits, HUD overlay, illegible lettering, watermark --sref random",
+"sha256": null,
+"sorgente": {
+"ref": "CYB-INV-0045",
+"tipo": "riga"
+},
+"stato": "proposto",
+"strumento": "midjourney",
+"tipo": "tavola",
+"universo": "cyberverse",
+"url": null
+},
+"strumento": "midjourney",
+"tipo": "tavola"
+},
+"postata_da": "media-random",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"CYB-INV-0045"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "media-random",
+"da": "media-random",
+"quando": "2026-09-17T12:51:13Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_tavola",
+"universi": [
+"cyberverse"
+]
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-17T12:51:13Z",
+"esito": null,
+"id": "BAC-35223469326-2",
+"payload": {
+"bozza": "Corporate presentation render of a place: clean corridors or counters, cold even light, ordered furniture, screens switched off, people in company uniform seen from a respectful distance. Subject: Hans Grünbrechberg — nomadi urbani — maturo — inventivo. Bianchi freddi, grigi perla, blu corporate (un navy freddo) come unico colore d'identità, un arancio di sicurezza solo per etichette e avvertenze. Fotografia pubblicitaria di prodotto o di catalogo aziendale: luce da studio morbida e fredda, fondo continuo, oggetti posati come in una scheda tecnica, etichette con codici prodotto illeggibili. diffuse soft light, professional headshot, polished and sleek finish --ar 4:3 --no postcard neon, rain with signs, smoky alleys, floating holograms, chrome implants, decorative japanese lettering, latex suits, HUD overlay, illegible lettering, watermark",
+"chiave": "m3",
+"contesto": "id: CYB-PER-0015\ntipo: personaggio\nuniverso: cyberverse\nestrazione: 87\ncreated: '2026-09-16'\nparent_id: null\nrelazione: null\nepoca_relativa: 0\nregione: Rostkirche\nstatus: canon\nschema_version: 1\nnome: Hans\ncognome: Grünbrechberg\nceppo: germanico\ncasta: nomadi_urbani\ninvenzione_id: CYB-INV-0035\nrapporto: usa\neta_fascia: maturo\nsegno: bilancia\ntratto: inventivo\ndifetto: vanitoso\naffettivo:\n  orientamento: asessuale\n  situazione: fidanzato\nspirituale:\n  rapporto: mistico\n  credenza: ciclo_del_ritorno",
+"manifest": {
+"caricato_il": null,
+"creato": "2026-09-17",
+"id": "MED-35223469326-3",
+"note": "oggetto: Hans Grünbrechberg; gancio: Hans si vanta in giro di saper leggere l'algoritmo meglio di chiunque altro a Rostkirche, e qualcuno ha iniziato a pagarlo per un servizio che lui millanta soltanto di controllare.; contraddizione: Usa il Punteggio Sereno per piazzare le famiglie del campo nelle liste migliori, ma la sua vanità lo spinge a firmare ogni pratica con il proprio nome, come se il merito fosse suo e non del sistema che sfrutta.; sref non fissato",
+"parametri": {
+"ar": "4:3",
+"atomi": [
+"ATM-35059284514-15",
+"ATM-35059284514-3",
+"ATM-35059284514-30"
+],
+"cref": null,
+"sref": null
+},
+"prompt": "Corporate presentation render of a place: clean corridors or counters, cold even light, ordered furniture, screens switched off, people in company uniform seen from a respectful distance. Subject: Hans Grünbrechberg — nomadi urbani — maturo — inventivo. Bianchi freddi, grigi perla, blu corporate (un navy freddo) come unico colore d'identità, un arancio di sicurezza solo per etichette e avvertenze. Fotografia pubblicitaria di prodotto o di catalogo aziendale: luce da studio morbida e fredda, fondo continuo, oggetti posati come in una scheda tecnica, etichette con codici prodotto illeggibili. diffuse soft light, professional headshot, polished and sleek finish --ar 4:3 --no postcard neon, rain with signs, smoky alleys, floating holograms, chrome implants, decorative japanese lettering, latex suits, HUD overlay, illegible lettering, watermark",
+"sha256": null,
+"sorgente": {
+"ref": "CYB-PER-0015",
+"tipo": "riga"
+},
+"stato": "proposto",
+"strumento": "midjourney",
+"tipo": "scena",
+"universo": "cyberverse",
+"url": null
+},
+"strumento": "midjourney",
+"tipo": "scena"
+},
+"postata_da": "media-random",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"CYB-PER-0015"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "media-random",
+"da": "media-random",
+"quando": "2026-09-17T12:51:13Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_tavola",
+"universi": [
+"cyberverse"
+]
+},
+{
+"chiusa_il": null,
 "creata": "2026-09-15T23:21:24Z",
 "esito": null,
 "id": "BAC-35034876036-2",

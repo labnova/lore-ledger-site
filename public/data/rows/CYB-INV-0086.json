@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "il-futuro",
+"created": "2026-09-17",
+"discipline": [
+"moda/cappelleria",
+"tipografia/incisione"
+],
+"entita_usate": [
+"Rostkirche"
+],
+"epoca_relativa": 0,
+"estrazione": 103,
+"fatti": [],
+"gancio": "Un restauratore lo indossa ogni giorno senza sapere che porta addosso l'unica prova rimasta, e chi lo sa aspetta solo che qualcuno la chieda in un'aula sbagliata.",
+"id": "CYB-INV-0086",
+"media": [],
+"nome": "Il Cappello della Data",
+"nome_reale": "Cappello cerimoniale con la data incisa nella fodera, unica prova che il crollo del settore vecchio di Rostkirche non fu un incidente",
+"oggetto": "Cappello cerimoniale con una data incisa nella fodera, prova che il crollo del settore vecchio di Rostkirche non fu accidentale.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "oggetto-testimone",
+"universo": "cyberverse"
+}

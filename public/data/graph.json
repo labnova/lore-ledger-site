@@ -71,6 +71,16 @@
 "to": "CYB-INV-0074"
 },
 {
+"from": "CYB-INV-0059",
+"kind": "parent",
+"to": "CYB-INV-0095"
+},
+{
+"from": "CYB-INV-0055",
+"kind": "parent",
+"to": "CYB-INV-0096"
+},
+{
 "from": "ELA-INV-0009",
 "kind": "parent",
 "to": "ELA-INV-0041"
@@ -827,6 +837,21 @@
 },
 {
 "from": "CYB-PER-0032",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-PER-0025",
+"kind": "parent",
+"to": "CYB-PER-0033"
+},
+{
+"from": "CYB-PER-0033",
+"kind": "invenzione",
+"to": "CYB-INV-0015"
+},
+{
+"from": "CYB-PER-0033",
 "kind": "regione",
 "to": "CYB-REG-rostkirche"
 },
@@ -5776,6 +5801,21 @@
 "to": "STE-REG-ledoskol"
 },
 {
+"from": "STE-GAD-0021",
+"kind": "invenzione",
+"to": "STE-INV-0010"
+},
+{
+"from": "STE-GAD-0021",
+"kind": "personaggio",
+"to": "STE-PER-0029"
+},
+{
+"from": "STE-GAD-0021",
+"kind": "regione",
+"to": "STE-REG-qattoum"
+},
+{
 "from": "CYB-CON-0001",
 "kind": "sorgente",
 "to": "CYB-INV-0003"
@@ -7041,6 +7081,138 @@
 "universo": "cyberverse"
 },
 {
+"id": "CYB-INV-0075",
+"tipo": "invenzione",
+"titolo": "Il Pettine di Feltro",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0076",
+"tipo": "invenzione",
+"titolo": "Il Ferro Vecchio",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0077",
+"tipo": "invenzione",
+"titolo": "La Matrice Madre",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0078",
+"tipo": "invenzione",
+"titolo": "La Crepa nella Matrice",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0079",
+"tipo": "invenzione",
+"titolo": "Il Punzone di Scarto",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0080",
+"tipo": "invenzione",
+"titolo": "Il Cappello che Non Doveva Uscire",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0081",
+"tipo": "invenzione",
+"titolo": "La Fodera che Parla",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0082",
+"tipo": "invenzione",
+"titolo": "I Fumi di Sopra",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0083",
+"tipo": "invenzione",
+"titolo": "Il Cappello del Morto",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0084",
+"tipo": "invenzione",
+"titolo": "Il Cappello Anonimo",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0085",
+"tipo": "invenzione",
+"titolo": "Il Punzone Senza Nome",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0086",
+"tipo": "invenzione",
+"titolo": "Il Cappello della Data",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0087",
+"tipo": "invenzione",
+"titolo": "La Matrice Rubata",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0088",
+"tipo": "invenzione",
+"titolo": "Il Torchio Storto",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0089",
+"tipo": "invenzione",
+"titolo": "Il Tracciante nella Tesa",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0090",
+"tipo": "invenzione",
+"titolo": "La Pressa Troppo Grande",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0091",
+"tipo": "invenzione",
+"titolo": "Il Marchio dei Due Nomi",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0092",
+"tipo": "invenzione",
+"titolo": "Gli Occhi degli Apprendisti",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0093",
+"tipo": "invenzione",
+"titolo": "Il Bollino Quasi Vero",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0094",
+"tipo": "invenzione",
+"titolo": "Il Cappello del Censimento",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0095",
+"tipo": "invenzione",
+"titolo": "Le Coordinate Senza Nome",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0096",
+"tipo": "invenzione",
+"titolo": "L'Officina dei Ricevitori",
+"universo": "cyberverse"
+},
+{
 "id": "CYB-PER-0001",
 "tipo": "personaggio",
 "titolo": "Eszter Etxeondo",
@@ -7230,6 +7402,12 @@
 "id": "CYB-PER-0032",
 "tipo": "personaggio",
 "titolo": "Ute Waldingbach",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0033",
+"tipo": "personaggio",
+"titolo": "Marlen Osterholt",
 "universo": "cyberverse"
 },
 {
@@ -11268,6 +11446,12 @@
 "id": "STE-GAD-0020",
 "tipo": "gadget",
 "titolo": "La Chiave Scambiata",
+"universo": "steamverse"
+},
+{
+"id": "STE-GAD-0021",
+"tipo": "gadget",
+"titolo": "Il Manometro Senza Bollo",
 "universo": "steamverse"
 },
 {

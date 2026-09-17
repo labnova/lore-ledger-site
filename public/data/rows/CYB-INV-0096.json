@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-17",
+"discipline": [
+"astronomia/astrometria",
+"architettura/restauro"
+],
+"epoca_relativa": 1,
+"estrazione": 103,
+"fatti": [],
+"gancio": "Un restauratore compra uno di questi ricevitori ricostruiti credendolo autentico, e solo mesi dopo scopre che ogni facciata certificata con quello porta lo stesso piccolo errore, di un grado, sempre nella stessa direzione.",
+"id": "CYB-INV-0096",
+"media": [],
+"nome": "L'Officina dei Ricevitori",
+"nome_reale": "Officina clandestina che ricostruisce ricevitori di prima generazione da pezzi di scarto, per rivenderli a chi non può aspettare il mercato dell'usato",
+"parent_id": "CYB-INV-0055",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Con i ricevitori di prima generazione ormai introvabili sui banchi dell'usato, qualcuno a Rostkirche ha iniziato a fabbricarne di nuovi da pezzi di scarto, copiando lo schema originale pezzo per pezzo, senza mai riuscire ad agganciare il segnale grezzo con la stessa precisione del modello vero.",
+"universo": "cyberverse"
+}

@@ -4126,5 +4126,104 @@
 "HAC-CON-0003"
 ],
 "universo": "hackverse"
+},
+{
+"campi_forzati": [],
+"chiavi": {
+"manca": {
+"gadget": 1,
+"personaggi": 0,
+"regione": true
+},
+"universo": "steamverse"
+},
+"cluster_target": "STE-INV-0010",
+"created": "2026-09-17",
+"esito": "ok",
+"estrazione": 102,
+"forzata": false,
+"lotto": "lotto-maturazione",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"STE-GAD-0021"
+],
+"universo": "steamverse"
+},
+{
+"ambientazione": "era-canonica-cyberverse",
+"bibbia_pescata": [
+"Le entità ricorrenti di questo universo vivono in schede, no",
+"> Substrato iniziale scritto a mano (12 set 2026). Append-on"
+],
+"campi_forzati": [],
+"canone_pescato": [
+"CYB-INV-0059",
+"CYB-INV-0055",
+"CYB-PER-0025"
+],
+"chiavi": {
+"discipline": [
+"moda/cappelleria",
+"tipografia/incisione"
+],
+"universo": "cyberverse"
+},
+"created": "2026-09-17",
+"entita": {
+"anomalia": {
+"descrizione": "Piastra da incisione usata da generazioni per stampare tanto il Bollino di Parallasse Certificazioni™ quanto il marchio della gilda dei cappellai di Rostkirche; il rilievo, consumato dall'uso, preme ormai un segno ambiguo che entrambe le autorità rivendicano come proprio.",
+"nome": "La Matrice Consumata"
+},
+"attore": {
+"descrizione": "Rigattiere di Rostkirche che smercia sestanti orbitali dismessi e Bollini Parallasse contraffatti a chi non può permettersi un restauro certificato.",
+"nome": "Ivo Reinacher"
+},
+"ente": {
+"descrizione": "Corporazione che rilascia il Bollino di restauro autorizzato a Vetrasca, validando ogni facciata contro l'archivio delle posizioni orbitali registrato al momento della sua ultima ristrutturazione.",
+"nome": "Parallasse Certificazioni™"
+},
+"luogo": {
+"descrizione": "Accampamento di nomadi urbani cresciuto attorno a uno snodo ferroviario dismesso ai margini del distretto trapianti; i cognomi restano legati ai mestieri di chi ci transitava prima del collasso della linea, e se ne guadagna uno nuovo solo restando abbastanza a lungo.",
+"nome": "Rostkirche"
+}
+},
+"entita_riusate": [
+"Parallasse Certificazioni™",
+"Rostkirche",
+"Ivo Reinacher"
+],
+"esito": "ok",
+"espansioni": [
+"CYB-INV-0095",
+"CYB-INV-0096",
+"CYB-PER-0033"
+],
+"estrazione": 103,
+"forzata": false,
+"lotto": "lotto-lore",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"CYB-INV-0075",
+"CYB-INV-0076",
+"CYB-INV-0077",
+"CYB-INV-0078",
+"CYB-INV-0079",
+"CYB-INV-0080",
+"CYB-INV-0081",
+"CYB-INV-0082",
+"CYB-INV-0083",
+"CYB-INV-0084",
+"CYB-INV-0085",
+"CYB-INV-0086",
+"CYB-INV-0087",
+"CYB-INV-0088",
+"CYB-INV-0089",
+"CYB-INV-0090",
+"CYB-INV-0091",
+"CYB-INV-0092",
+"CYB-INV-0093",
+"CYB-INV-0094"
+],
+"universo": "cyberverse"
 }
 ]

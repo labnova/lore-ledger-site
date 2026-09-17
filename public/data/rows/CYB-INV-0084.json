@@ -1,0 +1,29 @@
+{
+"appare_in": [],
+"chi_paga": "nessuno-apparentemente",
+"created": "2026-09-17",
+"discipline": [
+"moda/cappelleria",
+"tipografia/incisione"
+],
+"entita_usate": [
+"Ivo Reinacher"
+],
+"epoca_relativa": 0,
+"estrazione": 103,
+"fatti": [],
+"gancio": "Lo comprano proprio per sparire, e Ivo Reinacher continua a venderlo sapendo che fa l'esatto contrario.",
+"id": "CYB-INV-0084",
+"media": [],
+"nome": "Il Cappello Anonimo",
+"nome_reale": "Cappello da anonimato con la tesa incisa da un microtag, venduto da Ivo Reinacher, che rivela l'identità di chi lo indossa",
+"oggetto": "Cappello venduto come strumento di anonimato, con un microtag inciso nella tesa che rivela l'identità di chi lo porta.",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "inversione-di-funzione",
+"universo": "cyberverse"
+}
