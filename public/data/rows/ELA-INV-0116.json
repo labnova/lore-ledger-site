@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-17",
+"discipline": [
+"arte_visiva/affresco",
+"cartografia/proiezioni"
+],
+"epoca_relativa": 0,
+"estrazione": 95,
+"fatti": [],
+"gancio": "Un cartografo trova tre chiodi diversi che pretendono di segnare lo stesso angolo esatto, e nessuno dei tre coincide con gli altri.",
+"id": "ELA-INV-0116",
+"media": [],
+"nome": "Il Chiodo dell'Angolo Esatto",
+"nome_reale": "Marcatura dell'angolo di apertura",
+"parent_id": "ELA-INV-0071",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Se le porte dipinte in trompe-l'oeil si aprono solo dall'angolo esatto di massima distorsione, qualcuno ha iniziato a marcare quell'angolo sul pavimento della sala mappe con un chiodo di ottone, e i chiodi spariscono e ricompaiono in punti diversi ogni volta che la sala viene ridisegnata.",
+"universo": "elabverse"
+}

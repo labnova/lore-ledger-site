@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-17",
+"discipline": [
+"arte_visiva/affresco",
+"cartografia/proiezioni"
+],
+"epoca_relativa": 0,
+"estrazione": 95,
+"fatti": [],
+"gancio": "Un ufficiale scopre il proprio nome annotato accanto a un avvistamento che giura di non aver mai fatto.",
+"id": "ELA-INV-0115",
+"media": [],
+"nome": "Il Registro dei Mostri Confermati",
+"nome_reale": "Registro dei mostri confermati",
+"parent_id": "ELA-INV-0036",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Se i frescanti di bordo dipingono ai margini delle carte mostri che nessuno ha mai visto ma tutti giurano di riconoscere, qualcuno ha iniziato a tenere un registro segreto di quali di quei mostri siano stati poi davvero avvistati da un equipaggio vivo, e i corridoi vicino ai margini con più avvistamenti confermati vengono evacuati senza spiegazione ufficiale.",
+"universo": "elabverse"
+}

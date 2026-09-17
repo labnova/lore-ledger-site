@@ -1593,6 +1593,134 @@
 },
 {
 "chiusa_il": null,
+"creata": "2026-09-17T01:10:09Z",
+"esito": null,
+"id": "BAC-35169476089-1",
+"payload": {
+"bozza": "Documentary still from a room or a street, 35 mm at eye level, available light, film grain, people mid-gesture, real clutter, nothing staged. Subject: Hikaru Yakiyama — corrieri — maturo — protettivo. Quella che c'è: luce disponibile, bilanciamento del bianco imperfetto, dominanti di lampada al tungsteno o di finestra grigia. Fotografia documentaria, reportage: scatto rubato o posato senza messa in scena, sfondo reale e ingombro, cavi, tazze, cartacce. harsh overhead lighting, unforgiving shadows, shot on 55mm lens, shot on grainy film stock, aspect ratio 16:9 --ar 4:3 --no HUD, overlay, scrolling green code, hoodie in shadow, masks, terminal reflections in glasses, coloured LED lights, hacker poster aesthetic, illegible lettering, watermark",
+"chiave": "m1",
+"contesto": "id: HAC-PER-0019\ntipo: personaggio\nuniverso: hackverse\nestrazione: 43\ncreated: '2026-09-14'\nparent_id: null\nrelazione: null\nepoca_relativa: 0\nregione: HAC-REG-rotterdam\nstatus: canon\nschema_version: 1\nnome: Hikaru\ncognome: Yakiyama\nceppo: giapponese\ncasta: corrieri\ninvenzione_id: HAC-INV-0001\nrapporto: studia\neta_fascia: maturo\nsegno: ariete\ntratto: protettivo\ndifetto: smemorato\naffettivo:\n  orientamento: omosessuale\n  situazione: vedovo\nspirituale:\n  rapporto: indifferente\n  credenza: le macchine sognano",
+"manifest": {
+"caricato_il": null,
+"creato": "2026-09-17",
+"id": "MED-35169476089-1",
+"note": "oggetto: Hikaru Yakiyama; gancio: Manda per errore le coordinate del terzo molo a un ragazzino diretto al primo, e se ne accorge solo quando è troppo tardi per fermarlo.; contraddizione: Studia le rotte di Goccia Cieca per proteggere i corrieri più giovani dagli errori che ha già commesso lui stesso, ma la sua memoria vacillante gli fa confondere due punti di consegna, mettendo in pericolo proprio chi voleva proteggere.; sref non fissato",
+"parametri": {
+"ar": "4:3",
+"atomi": [
+"ATM-34809499246-26",
+"ATM-35059284514-5",
+"ATM-35059284514-51",
+"ATM-34809499246-21"
+],
+"cref": null,
+"sref": null
+},
+"prompt": "Documentary still from a room or a street, 35 mm at eye level, available light, film grain, people mid-gesture, real clutter, nothing staged. Subject: Hikaru Yakiyama — corrieri — maturo — protettivo. Quella che c'è: luce disponibile, bilanciamento del bianco imperfetto, dominanti di lampada al tungsteno o di finestra grigia. Fotografia documentaria, reportage: scatto rubato o posato senza messa in scena, sfondo reale e ingombro, cavi, tazze, cartacce. harsh overhead lighting, unforgiving shadows, shot on 55mm lens, shot on grainy film stock, aspect ratio 16:9 --ar 4:3 --no HUD, overlay, scrolling green code, hoodie in shadow, masks, terminal reflections in glasses, coloured LED lights, hacker poster aesthetic, illegible lettering, watermark",
+"sha256": null,
+"sorgente": {
+"ref": "HAC-PER-0019",
+"tipo": "riga"
+},
+"stato": "proposto",
+"strumento": "midjourney",
+"tipo": "scena",
+"universo": "hackverse",
+"url": null
+},
+"strumento": "midjourney",
+"tipo": "scena"
+},
+"postata_da": "media-random",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"HAC-PER-0019"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "media-random",
+"da": "media-random",
+"quando": "2026-09-17T01:10:09Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_tavola",
+"universi": [
+"hackverse"
+]
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-17T01:10:09Z",
+"esito": null,
+"id": "BAC-35169476089-2",
+"payload": {
+"bozza": "Documentary still from a room or a street, 35 mm at eye level, available light, film grain, people mid-gesture, real clutter, nothing staged. Subject: Ragnhild Kvivik — analisti — giovane — ospitale — event: Ragnhild Kvivik tiene un brogliaccio personale, non previsto da nessuna procedura, in cui annota ora, numero di verifica ed esito di ogni firma, e vi ha registrato la segnalazione sul fondo 14 aperta e chiusa il 14 marzo.. Quella che c'è: luce disponibile, bilanciamento del bianco imperfetto, dominanti di lampada al tungsteno o di finestra grigia. Fotografia documentaria, reportage: scatto rubato o posato senza messa in scena, sfondo reale e ingombro, cavi, tazze, cartacce. natural daylight through a window, shot on 55mm lens, visible film grain, realistic documentary photography --ar 4:3 --no HUD, overlay, scrolling green code, hoodie in shadow, masks, terminal reflections in glasses, coloured LED lights, hacker poster aesthetic, illegible lettering, watermark",
+"chiave": "m2",
+"contesto": "id: HAC-PER-0023\ntipo: personaggio\nuniverso: hackverse\nestrazione: 74\ncreated: '2026-09-16'\nparent_id: null\nrelazione: null\nepoca_relativa: 0\nregione: HAC-REG-tallinn\nstatus: canon\nschema_version: 1\nnome: Ragnhild\ncognome: Kvivik\nceppo: scandinavo\ncasta: analisti\ninvenzione_id: HAC-INV-0037\nrapporto: teme\neta_fascia: giovane\nsegno: gemelli\ntratto: ospitale\ndifetto: servile\naffettivo:\n  orientamento: asessuale\n  situazione: single\nspirituale:\n  rapporto: scettico\n  credenza: il crollo come giudizio",
+"manifest": {
+"caricato_il": null,
+"creato": "2026-09-17",
+"id": "MED-35169476089-2",
+"note": "oggetto: Ragnhild Kvivik; gancio: Ragnhild nota per prima, in un archivio di foto segnaletiche, che gli occhi della stessa persona schiariscono di un grado ogni settimana, ma cancella la segnalazione dal suo turno prima che qualcuno le chieda di insistere.; contraddizione: Il suo ruolo di analista alla dogana digitale di Tallinn le impone di firmare ogni verifica di identità con riserva indipendente, ma è talmente servile verso i superiori del team OSINT che approva scansioni dubbie solo perché arrivano già timbrate da un nome più alto in gerarchia.; sref non fissato; variante medium",
+"parametri": {
+"ar": "4:3",
+"atomi": [
+"ATM-35059284514-9",
+"ATM-35059284514-5",
+"ATM-34809499246-6",
+"ATM-35059284514-48"
+],
+"cref": null,
+"sref": null
+},
+"prompt": "Documentary still from a room or a street, 35 mm at eye level, available light, film grain, people mid-gesture, real clutter, nothing staged. Subject: Ragnhild Kvivik — analisti — giovane — ospitale — event: Ragnhild Kvivik tiene un brogliaccio personale, non previsto da nessuna procedura, in cui annota ora, numero di verifica ed esito di ogni firma, e vi ha registrato la segnalazione sul fondo 14 aperta e chiusa il 14 marzo.. Quella che c'è: luce disponibile, bilanciamento del bianco imperfetto, dominanti di lampada al tungsteno o di finestra grigia. Fotografia documentaria, reportage: scatto rubato o posato senza messa in scena, sfondo reale e ingombro, cavi, tazze, cartacce. natural daylight through a window, shot on 55mm lens, visible film grain, realistic documentary photography --ar 4:3 --no HUD, overlay, scrolling green code, hoodie in shadow, masks, terminal reflections in glasses, coloured LED lights, hacker poster aesthetic, illegible lettering, watermark",
+"sha256": null,
+"sorgente": {
+"ref": "HAC-PER-0023",
+"tipo": "riga"
+},
+"stato": "proposto",
+"strumento": "midjourney",
+"tipo": "scena",
+"universo": "hackverse",
+"url": null
+},
+"strumento": "midjourney",
+"tipo": "scena"
+},
+"postata_da": "media-random",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"HAC-PER-0023"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "media-random",
+"da": "media-random",
+"quando": "2026-09-17T01:10:09Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_tavola",
+"universi": [
+"hackverse"
+]
+},
+{
+"chiusa_il": null,
 "creata": "2026-09-15T23:21:24Z",
 "esito": null,
 "id": "BAC-35034876036-2",
@@ -2017,6 +2145,30 @@
 "CYB-PER-0005",
 "CYB-PER-0011"
 ]
+},
+{
+"agente": "editore",
+"auto_riferimento": [],
+"commento": "BAC-35154498175-1",
+"contraddizione_valida": false,
+"posizione": "accolgo",
+"prove_valide": [
+"CYB-PER-0005",
+"CYB-INV-0011",
+"CYB-PER-0011"
+]
+},
+{
+"agente": "redattore",
+"auto_riferimento": [],
+"commento": "BAC-35161520411-1",
+"contraddizione_valida": false,
+"posizione": "accolgo",
+"prove_valide": [
+"CYB-GAD-0019",
+"CYB-INV-0011",
+"CYB-PER-0005"
+]
 }
 ]
 },
@@ -2031,7 +2183,7 @@
 "entita:elabverse/luogo/konya",
 "entita:cyberverse/ente/parallasse-certificazionitm"
 ],
-"commenti_visti": 1,
+"commenti_visti": 3,
 "forma": "espansione",
 "lacuna": "specifica del vano schermato e sua perdita",
 "letto_a": "85e015103a1be955022e350a57b442d6d318ee60",

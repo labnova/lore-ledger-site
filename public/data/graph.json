@@ -181,6 +181,16 @@
 "to": "ELA-INV-0114"
 },
 {
+"from": "ELA-INV-0036",
+"kind": "parent",
+"to": "ELA-INV-0115"
+},
+{
+"from": "ELA-INV-0071",
+"kind": "parent",
+"to": "ELA-INV-0116"
+},
+{
 "from": "HAC-INV-0002",
 "kind": "parent",
 "to": "HAC-INV-0041"
@@ -3741,6 +3751,156 @@
 "to": "ELA-REG-scafo-zero"
 },
 {
+"from": "ELA-GAD-0032",
+"kind": "invenzione",
+"to": "ELA-INV-0070"
+},
+{
+"from": "ELA-GAD-0032",
+"kind": "personaggio",
+"to": "ELA-PER-0029"
+},
+{
+"from": "ELA-GAD-0032",
+"kind": "regione",
+"to": "ELA-REG-scafo-zero"
+},
+{
+"from": "ELA-GAD-0033",
+"kind": "invenzione",
+"to": "ELA-INV-0070"
+},
+{
+"from": "ELA-GAD-0033",
+"kind": "personaggio",
+"to": "ELA-PER-0029"
+},
+{
+"from": "ELA-GAD-0033",
+"kind": "regione",
+"to": "ELA-REG-scafo-zero"
+},
+{
+"from": "ELA-GAD-0034",
+"kind": "invenzione",
+"to": "ELA-INV-0070"
+},
+{
+"from": "ELA-GAD-0034",
+"kind": "personaggio",
+"to": "ELA-PER-0029"
+},
+{
+"from": "ELA-GAD-0034",
+"kind": "regione",
+"to": "ELA-REG-scafo-zero"
+},
+{
+"from": "ELA-GAD-0035",
+"kind": "invenzione",
+"to": "ELA-INV-0070"
+},
+{
+"from": "ELA-GAD-0035",
+"kind": "personaggio",
+"to": "ELA-PER-0029"
+},
+{
+"from": "ELA-GAD-0035",
+"kind": "regione",
+"to": "ELA-REG-scafo-zero"
+},
+{
+"from": "ELA-GAD-0036",
+"kind": "invenzione",
+"to": "ELA-INV-0070"
+},
+{
+"from": "ELA-GAD-0036",
+"kind": "personaggio",
+"to": "ELA-PER-0029"
+},
+{
+"from": "ELA-GAD-0036",
+"kind": "regione",
+"to": "ELA-REG-scafo-zero"
+},
+{
+"from": "ELA-GAD-0037",
+"kind": "invenzione",
+"to": "ELA-INV-0070"
+},
+{
+"from": "ELA-GAD-0037",
+"kind": "personaggio",
+"to": "ELA-PER-0029"
+},
+{
+"from": "ELA-GAD-0037",
+"kind": "regione",
+"to": "ELA-REG-scafo-zero"
+},
+{
+"from": "ELA-GAD-0038",
+"kind": "invenzione",
+"to": "ELA-INV-0070"
+},
+{
+"from": "ELA-GAD-0038",
+"kind": "personaggio",
+"to": "ELA-PER-0029"
+},
+{
+"from": "ELA-GAD-0038",
+"kind": "regione",
+"to": "ELA-REG-scafo-zero"
+},
+{
+"from": "ELA-GAD-0039",
+"kind": "invenzione",
+"to": "ELA-INV-0070"
+},
+{
+"from": "ELA-GAD-0039",
+"kind": "personaggio",
+"to": "ELA-PER-0029"
+},
+{
+"from": "ELA-GAD-0039",
+"kind": "regione",
+"to": "ELA-REG-scafo-zero"
+},
+{
+"from": "ELA-GAD-0040",
+"kind": "invenzione",
+"to": "ELA-INV-0070"
+},
+{
+"from": "ELA-GAD-0040",
+"kind": "personaggio",
+"to": "ELA-PER-0029"
+},
+{
+"from": "ELA-GAD-0040",
+"kind": "regione",
+"to": "ELA-REG-scafo-zero"
+},
+{
+"from": "ELA-GAD-0041",
+"kind": "invenzione",
+"to": "ELA-INV-0070"
+},
+{
+"from": "ELA-GAD-0041",
+"kind": "personaggio",
+"to": "ELA-PER-0029"
+},
+{
+"from": "ELA-GAD-0041",
+"kind": "regione",
+"to": "ELA-REG-scafo-zero"
+},
+{
 "from": "HAC-GAD-0001",
 "kind": "invenzione",
 "to": "HAC-INV-0001"
@@ -7028,6 +7188,66 @@
 "universo": "elabverse"
 },
 {
+"id": "ELA-GAD-0032",
+"tipo": "gadget",
+"titolo": "La Tavoletta del Volto di Cera",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0033",
+"tipo": "gadget",
+"titolo": "Il Pettine di Prova",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0034",
+"tipo": "gadget",
+"titolo": "Il Volto Contraffatto di Scafo Zero",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0035",
+"tipo": "gadget",
+"titolo": "La Lastra di Cera di Contrabbando",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0036",
+"tipo": "gadget",
+"titolo": "La Cornice di Formato Unico",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0037",
+"tipo": "gadget",
+"titolo": "Lo Stilo a Manovella",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0038",
+"tipo": "gadget",
+"titolo": "La Placca di Doppio Conto",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0039",
+"tipo": "gadget",
+"titolo": "La Matrice Rubata",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0040",
+"tipo": "gadget",
+"titolo": "Il Telaio da Volto",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0041",
+"tipo": "gadget",
+"titolo": "La Punta di Ricambio",
+"universo": "elabverse"
+},
+{
 "id": "ELA-INV-0001",
 "tipo": "invenzione",
 "titolo": "Lettura delle Righe Nere",
@@ -7709,6 +7929,18 @@
 "id": "ELA-INV-0114",
 "tipo": "invenzione",
 "titolo": "La Pelle dello Scafo",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0115",
+"tipo": "invenzione",
+"titolo": "Il Registro dei Mostri Confermati",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0116",
+"tipo": "invenzione",
+"titolo": "Il Chiodo dell'Angolo Esatto",
 "universo": "elabverse"
 },
 {

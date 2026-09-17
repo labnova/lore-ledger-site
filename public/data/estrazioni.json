@@ -3817,5 +3817,50 @@
 "CYB-PER-0032"
 ],
 "universo": "cyberverse"
+},
+{
+"ambientazione": "omaggio-cross-universe",
+"campi_forzati": [],
+"canone_pescato": [
+"ELA-INV-0070",
+"ELA-PER-0029"
+],
+"chiavi": {
+"invenzione_id": "ELA-INV-0070",
+"n_prod": 3,
+"personaggio_id": "ELA-PER-0029",
+"universo": "elabverse"
+},
+"created": "2026-09-17",
+"esito": "ok",
+"espansioni": [
+"ELA-INV-0115",
+"ELA-INV-0116"
+],
+"estrazione": 95,
+"estrazione_madre": 11,
+"forzata": false,
+"lotto": "lotto-gadget",
+"modello": "claude-sonnet-5",
+"prod": [
+"ELA-GAD-0032",
+"ELA-GAD-0034",
+"ELA-GAD-0040"
+],
+"righe_prodotte": [
+"ELA-GAD-0032",
+"ELA-GAD-0033",
+"ELA-GAD-0034",
+"ELA-GAD-0035",
+"ELA-GAD-0036",
+"ELA-GAD-0037",
+"ELA-GAD-0038",
+"ELA-GAD-0039",
+"ELA-GAD-0040",
+"ELA-GAD-0041",
+"ELA-INV-0115",
+"ELA-INV-0116"
+],
+"universo": "elabverse"
 }
 ]

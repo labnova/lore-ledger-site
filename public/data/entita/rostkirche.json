@@ -5,7 +5,7 @@
 ],
 "descrizione": "Accampamento di nomadi urbani cresciuto attorno a uno snodo ferroviario dismesso ai margini del distretto trapianti; i cognomi restano legati ai mestieri di chi ci transitava prima del collasso della linea, e se ne guadagna uno nuovo solo restando abbastanza a lungo.",
 "ha_prosa": false,
-"n_ricorrenze": 77,
+"n_ricorrenze": 88,
 "nome": "Rostkirche",
 "prima_apparizione": 16,
 "prosa": null,
@@ -703,6 +703,105 @@
 "riga_id": "CYB-SEM-0002",
 "riga_tipo": "seme",
 "riga_titolo": "seme CYB-INV-0035"
+},
+{
+"estrazione": 94,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 94,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-PER-0023",
+"riga_tipo": "personaggio",
+"riga_titolo": "Wilhelm Zimhardt"
+},
+{
+"estrazione": 94,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-PER-0024",
+"riga_tipo": "personaggio",
+"riga_titolo": "Elke Zimner"
+},
+{
+"estrazione": 94,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-PER-0025",
+"riga_tipo": "personaggio",
+"riga_titolo": "Detlef Waldbrechinner"
+},
+{
+"estrazione": 94,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-PER-0026",
+"riga_tipo": "personaggio",
+"riga_titolo": "Sabine Steiningenhoff"
+},
+{
+"estrazione": 94,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-PER-0027",
+"riga_tipo": "personaggio",
+"riga_titolo": "Rainer Brandler"
+},
+{
+"estrazione": 94,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-PER-0028",
+"riga_tipo": "personaggio",
+"riga_titolo": "Clara Schäfer"
+},
+{
+"estrazione": 94,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-PER-0029",
+"riga_tipo": "personaggio",
+"riga_titolo": "Ulrich Kremberg"
+},
+{
+"estrazione": 94,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-PER-0030",
+"riga_tipo": "personaggio",
+"riga_titolo": "Wolfgang Falkhauler"
+},
+{
+"estrazione": 94,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-PER-0031",
+"riga_tipo": "personaggio",
+"riga_titolo": "Helga Lindinghoff"
+},
+{
+"estrazione": 94,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-PER-0032",
+"riga_tipo": "personaggio",
+"riga_titolo": "Ute Waldingbach"
 }
 ],
 "righe": [
@@ -1055,6 +1154,56 @@
 "id": "CYB-PER-0022",
 "tipo": "personaggio",
 "titolo": "Ainhoa Dranoova"
+},
+{
+"id": "CYB-PER-0023",
+"tipo": "personaggio",
+"titolo": "Wilhelm Zimhardt"
+},
+{
+"id": "CYB-PER-0024",
+"tipo": "personaggio",
+"titolo": "Elke Zimner"
+},
+{
+"id": "CYB-PER-0025",
+"tipo": "personaggio",
+"titolo": "Detlef Waldbrechinner"
+},
+{
+"id": "CYB-PER-0026",
+"tipo": "personaggio",
+"titolo": "Sabine Steiningenhoff"
+},
+{
+"id": "CYB-PER-0027",
+"tipo": "personaggio",
+"titolo": "Rainer Brandler"
+},
+{
+"id": "CYB-PER-0028",
+"tipo": "personaggio",
+"titolo": "Clara Schäfer"
+},
+{
+"id": "CYB-PER-0029",
+"tipo": "personaggio",
+"titolo": "Ulrich Kremberg"
+},
+{
+"id": "CYB-PER-0030",
+"tipo": "personaggio",
+"titolo": "Wolfgang Falkhauler"
+},
+{
+"id": "CYB-PER-0031",
+"tipo": "personaggio",
+"titolo": "Helga Lindinghoff"
+},
+{
+"id": "CYB-PER-0032",
+"tipo": "personaggio",
+"titolo": "Ute Waldingbach"
 },
 {
 "id": "CYB-REG-rostkirche",
