@@ -6176,6 +6176,11 @@
 "to": "ELA-REG-konya"
 },
 {
+"from": "ELA-CON-0009",
+"kind": "sorgente",
+"to": "ELA-INV-0097"
+},
+{
 "from": "HAC-CON-0001",
 "kind": "sorgente",
 "to": "HAC-INV-0017"
@@ -7841,6 +7846,12 @@
 "id": "ELA-CON-0008",
 "tipo": "contenuto",
 "titolo": "Reel: perché Ayşe porta una lente di ricambio cucita in tasca",
+"universo": "elabverse"
+},
+{
+"id": "ELA-CON-0009",
+"tipo": "contenuto",
+"titolo": "Protocollo delle Luci di Via (foglio di bordo, autore non dichiarato)",
 "universo": "elabverse"
 },
 {

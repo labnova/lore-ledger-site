@@ -1,11 +1,11 @@
 {
-"aggiornata": "2026-09-16",
+"aggiornata": "2026-09-17",
 "alias": [
 "HAC-REG-rotterdam"
 ],
 "descrizione": "Il porto più grande d'Europa smista container, turni di banchina e manifesti doganali ventiquattr'ore su ventiquattro: nessun ceppo prevale perché la manodopera arriva da ogni rotta commerciale, e chi diventa corriere qui porta il cognome della città da cui è partito, non di quella in cui ha attraccato.",
 "ha_prosa": false,
-"n_ricorrenze": 16,
+"n_ricorrenze": 17,
 "nome": "Rotterdam",
 "prima_apparizione": 43,
 "prosa": null,
@@ -154,6 +154,15 @@
 "riga_id": null,
 "riga_tipo": null,
 "riga_titolo": null
+},
+{
+"estrazione": 107,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0044",
+"riga_tipo": "personaggio",
+"riga_titolo": "Zawadi Mwangata"
 }
 ],
 "righe": [
@@ -211,6 +220,11 @@
 "id": "HAC-PER-0022",
 "tipo": "personaggio",
 "titolo": "Ilkay Demirtaş"
+},
+{
+"id": "HAC-PER-0044",
+"tipo": "personaggio",
+"titolo": "Zawadi Mwangata"
 },
 {
 "id": "HAC-REG-rotterdam",

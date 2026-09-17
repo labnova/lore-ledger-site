@@ -4364,5 +4364,28 @@
 "HAC-PER-0044"
 ],
 "universo": "hackverse"
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"ELA-INV-0097"
+],
+"chiavi": {
+"canale": "itchio",
+"formato": "documento_ritrovato",
+"medium": "community",
+"sorgente_id": "ELA-INV-0097",
+"veridicita": "in_universe"
+},
+"created": "2026-09-17",
+"esito": "ok",
+"estrazione": 108,
+"forzata": false,
+"lotto": "lotto-contenuti",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"ELA-CON-0009"
+],
+"universo": "elabverse"
 }
 ]

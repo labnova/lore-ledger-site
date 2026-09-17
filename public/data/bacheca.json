@@ -2176,6 +2176,280 @@
 },
 {
 "chiusa_il": null,
+"creata": "2026-09-17T18:47:18Z",
+"esito": null,
+"id": "BAC-35260914380-1",
+"payload": {
+"bozza": "Documentary photograph of an object where it actually sits on a worn desk among cables and cups, available light, film grain, no isolation, no styling, label with illegible product code. Subject: Il Taglio Giusto — Calcolo di centratura della lente sull'asse visivo del paziente. Quella che c'è: luce disponibile, bilanciamento del bianco imperfetto, dominanti di lampada al tungsteno o di finestra grigia. Fotografia documentaria, reportage: scatto rubato o posato senza messa in scena, sfondo reale e ingombro, cavi, tazze, cartacce. natural light, warm and inviting, shot on 55mm lens, film grain, natural, realistic photography, no special effects --ar 4:3 --no HUD, overlay, scrolling green code, hoodie in shadow, masks, terminal reflections in glasses, coloured LED lights, hacker poster aesthetic, illegible lettering, watermark --sref random",
+"chiave": "m1",
+"contesto": "id: HAC-INV-0027\ntipo: invenzione\nuniverso: hackverse\nestrazione: 23\ncreated: '2026-09-13'\nparent_id: null\nrelazione: null\nepoca_relativa: 0\nregione: null\nstatus: canon\nschema_version: 1\nnome_reale: Calcolo di centratura della lente sull'asse visivo del paziente\nnome: Il Taglio Giusto\ndiscipline:\n- moda/cosmesi\n- ottica/lenti\npoc: true",
+"manifest": {
+"caricato_il": null,
+"creato": "2026-09-17",
+"id": "MED-35260914380-1",
+"note": "oggetto: Il Taglio Giusto; gancio: Un'ottica di quartiere diventa, senza saperlo, il posto dove ci si fa \"tagliare\" il volto prima di un lavoro.; torsione: Il calcolo che centra una lente oftalmica sull'asse visivo del paziente viene riadattato per individuare, su un volto truccato, il punto esatto in cui il contouring inganna il software di riconoscimento facciale.; variante medium; sref random — promuovere con media_upload.py --promuovi-sref",
+"parametri": {
+"ar": "4:3",
+"atomi": [
+"ATM-35059284514-35",
+"ATM-35059284514-5",
+"ATM-34809499246-24",
+"ATM-35059284514-36"
+],
+"cref": null,
+"sref": "random"
+},
+"prompt": "Documentary photograph of an object where it actually sits on a worn desk among cables and cups, available light, film grain, no isolation, no styling, label with illegible product code. Subject: Il Taglio Giusto — Calcolo di centratura della lente sull'asse visivo del paziente. Quella che c'è: luce disponibile, bilanciamento del bianco imperfetto, dominanti di lampada al tungsteno o di finestra grigia. Fotografia documentaria, reportage: scatto rubato o posato senza messa in scena, sfondo reale e ingombro, cavi, tazze, cartacce. natural light, warm and inviting, shot on 55mm lens, film grain, natural, realistic photography, no special effects --ar 4:3 --no HUD, overlay, scrolling green code, hoodie in shadow, masks, terminal reflections in glasses, coloured LED lights, hacker poster aesthetic, illegible lettering, watermark --sref random",
+"sha256": null,
+"sorgente": {
+"ref": "HAC-INV-0027",
+"tipo": "riga"
+},
+"stato": "proposto",
+"strumento": "midjourney",
+"tipo": "tavola",
+"universo": "hackverse",
+"url": null
+},
+"strumento": "midjourney",
+"tipo": "tavola"
+},
+"postata_da": "media-random",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"HAC-INV-0027"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "media-random",
+"da": "media-random",
+"quando": "2026-09-17T18:47:18Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_tavola",
+"universi": [
+"hackverse"
+]
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-17T18:47:18Z",
+"esito": null,
+"id": "BAC-35260914380-2",
+"payload": {
+"bozza": "Documentary photograph of an object where it actually sits on a worn desk among cables and cups, available light, film grain, no isolation, no styling, label with illegible product code. Subject: Maglia Sotto Pelle — Rete di sensori dell'umidità del suolo (mesh IoT agricola). Quella che c'è: luce disponibile, bilanciamento del bianco imperfetto, dominanti di lampada al tungsteno o di finestra grigia. Fotografia documentaria, reportage: scatto rubato o posato senza messa in scena, sfondo reale e ingombro, cavi, tazze, cartacce. natural lighting, shot on 55mm lens, expired film emulsion, off-color, film grain --ar 4:3 --no HUD, overlay, scrolling green code, hoodie in shadow, masks, terminal reflections in glasses, coloured LED lights, hacker poster aesthetic, illegible lettering, watermark",
+"chiave": "m2",
+"contesto": "id: HAC-INV-0012\ntipo: invenzione\nuniverso: hackverse\nestrazione: 6\ncreated: '2026-09-12'\nparent_id: null\nrelazione: null\nepoca_relativa: 0\nregione: null\nstatus: canon\nschema_version: 1\nnome_reale: Rete di sensori dell'umidità del suolo (mesh IoT agricola)\nnome: Maglia Sotto Pelle\ndiscipline:\n- agricoltura/irrigazione\n- chirurgia/trapiantologia\npoc: true",
+"manifest": {
+"caricato_il": null,
+"creato": "2026-09-17",
+"id": "MED-35260914380-2",
+"note": "oggetto: Maglia Sotto Pelle; gancio: Per un guasto al gateway, un contadino e un trapiantato ricevono, la stessa notte, le notifiche l'uno dell'altro.; torsione: La rete a bassa potenza che misura l'umidità del terreno campo per campo viene miniaturizzata in una maglia di biosensori sottocutanei per seguire un innesto a distanza.; sref non fissato",
+"parametri": {
+"ar": "4:3",
+"atomi": [
+"ATM-35059284514-14",
+"ATM-35059284514-5",
+"ATM-34809499246-45"
+],
+"cref": null,
+"sref": null
+},
+"prompt": "Documentary photograph of an object where it actually sits on a worn desk among cables and cups, available light, film grain, no isolation, no styling, label with illegible product code. Subject: Maglia Sotto Pelle — Rete di sensori dell'umidità del suolo (mesh IoT agricola). Quella che c'è: luce disponibile, bilanciamento del bianco imperfetto, dominanti di lampada al tungsteno o di finestra grigia. Fotografia documentaria, reportage: scatto rubato o posato senza messa in scena, sfondo reale e ingombro, cavi, tazze, cartacce. natural lighting, shot on 55mm lens, expired film emulsion, off-color, film grain --ar 4:3 --no HUD, overlay, scrolling green code, hoodie in shadow, masks, terminal reflections in glasses, coloured LED lights, hacker poster aesthetic, illegible lettering, watermark",
+"sha256": null,
+"sorgente": {
+"ref": "HAC-INV-0012",
+"tipo": "riga"
+},
+"stato": "proposto",
+"strumento": "midjourney",
+"tipo": "tavola",
+"universo": "hackverse",
+"url": null
+},
+"strumento": "midjourney",
+"tipo": "tavola"
+},
+"postata_da": "media-random",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"HAC-INV-0012"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "media-random",
+"da": "media-random",
+"quando": "2026-09-17T18:47:18Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_tavola",
+"universi": [
+"hackverse"
+]
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-17T18:47:19Z",
+"esito": null,
+"id": "BAC-35260914380-3",
+"payload": {
+"bozza": "Documentary photograph of an object where it actually sits on a worn desk among cables and cups, available light, film grain, no isolation, no styling, label with illegible product code. Subject: La Pellicola di Prima Generazione — Cerotto di pellicola adesiva translucida, prima serie del sensore da biofilm, ritirata dal mercato dopo la certificazione ospedaliera del modello successivo. — carried by Naoki ne tiene un lotto intero comprato a peso da un magazzino di ricambi agricoli dismesso, e lo rivende a chi lo cerca ancora, un pezzo alla volta, senza mai spiegare da dove viene.. Quella che c'è: luce disponibile, bilanciamento del bianco imperfetto, dominanti di lampada al tungsteno o di finestra grigia. Fotografia documentaria, reportage: scatto rubato o posato senza messa in scena, sfondo reale e ingombro, cavi, tazze, cartacce. natural, available lighting, shot on 55mm lens, shot on grainy film stock --ar 4:3 --no HUD, overlay, scrolling green code, hoodie in shadow, masks, terminal reflections in glasses, coloured LED lights, hacker poster aesthetic, illegible lettering, watermark --sref random",
+"chiave": "m3",
+"contesto": "id: HAC-GAD-0003\ntipo: gadget\nuniverso: hackverse\nestrazione: 107\ncreated: '2026-09-17'\nparent_id: null\nrelazione: null\nepoca_relativa: 0\nregione: Singapore\nstatus: canon\nschema_version: 1\nnome: La Pellicola di Prima Generazione\ncosa: Cerotto di pellicola adesiva translucida, prima serie del sensore da biofilm, ritirata dal mercato dopo la certificazione ospedaliera del modello successivo.\nchi_lo_porta: Naoki ne tiene un lotto intero comprato a peso da un magazzino di ricambi agricoli dismesso, e lo rivende a chi lo cerca ancora, un pezzo alla volta, senza mai spiegare da dove viene.\ninvenzione_id: HAC-INV-0007\npersonaggio_id: HAC-PER-0036\ntradimento_tech: La vecchia pellicola vira colore sotto la luce diretta del sole, un effetto eliminato dalla versione clinica perché disturbava i lettori ospedalieri, ma è esattamente il segnale che i contadini senza corrente continuano a leggere a occhio nudo nei campi.\noggetto: Cerotto di pellicola adesiva translucida, prima serie del sensore da biofilm, ritirata dal mercato dopo la certificazione ospedaliera.\nchi_paga: la-comunita\nentita_usate: []\nprod: true",
+"manifest": {
+"caricato_il": null,
+"creato": "2026-09-17",
+"id": "MED-35260914380-3",
+"note": "oggetto: La Pellicola di Prima Generazione; gancio: I contadini delle risaie senza corrente continuano a cercare sottobanco la prima serie della pellicola, perché solo quella vira colore alla luce del sole, e Naoki è l'unico a Singapore che sa ancora dove trovarne una scatola intera.; torsione: versione-precedente; tradimento_tech: La vecchia pellicola vira colore sotto la luce diretta del sole, un effetto eliminato dalla versione clinica perché disturbava i lettori ospedalieri, ma è esattamente il segnale che i contadini senza corrente continuano a leggere a occhio nudo nei campi.; sref random — promuovere con media_upload.py --promuovi-sref",
+"parametri": {
+"ar": "4:3",
+"atomi": [
+"ATM-35185545263-16",
+"ATM-35059284514-5",
+"ATM-35059284514-51"
+],
+"cref": null,
+"sref": "random"
+},
+"prompt": "Documentary photograph of an object where it actually sits on a worn desk among cables and cups, available light, film grain, no isolation, no styling, label with illegible product code. Subject: La Pellicola di Prima Generazione — Cerotto di pellicola adesiva translucida, prima serie del sensore da biofilm, ritirata dal mercato dopo la certificazione ospedaliera del modello successivo. — carried by Naoki ne tiene un lotto intero comprato a peso da un magazzino di ricambi agricoli dismesso, e lo rivende a chi lo cerca ancora, un pezzo alla volta, senza mai spiegare da dove viene.. Quella che c'è: luce disponibile, bilanciamento del bianco imperfetto, dominanti di lampada al tungsteno o di finestra grigia. Fotografia documentaria, reportage: scatto rubato o posato senza messa in scena, sfondo reale e ingombro, cavi, tazze, cartacce. natural, available lighting, shot on 55mm lens, shot on grainy film stock --ar 4:3 --no HUD, overlay, scrolling green code, hoodie in shadow, masks, terminal reflections in glasses, coloured LED lights, hacker poster aesthetic, illegible lettering, watermark --sref random",
+"sha256": null,
+"sorgente": {
+"ref": "HAC-GAD-0003",
+"tipo": "riga"
+},
+"stato": "proposto",
+"strumento": "midjourney",
+"tipo": "tavola",
+"universo": "hackverse",
+"url": null
+},
+"strumento": "midjourney",
+"tipo": "tavola"
+},
+"postata_da": "media-random",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"HAC-GAD-0003"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "media-random",
+"da": "media-random",
+"quando": "2026-09-17T18:47:19Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_tavola",
+"universi": [
+"hackverse"
+]
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-17T19:27:29Z",
+"esito": null,
+"id": "BAC-35264553399-1",
+"payload": {
+"esito": "bocciato",
+"giro": 1,
+"punteggio": 10,
+"racconto": "2026-09-17-la-piana-assegnata",
+"scene_responsabili": [
+2,
+5,
+6
+],
+"violazioni": [
+{
+"id": "G-0004",
+"livello": "blocco",
+"motivo": "CYB-GAD-0039 stabilisce che Thomas tiene il gettone in tasca a ogni turno e nella scena 2 se lo riprende, ma qui il gettone è in mano a Bertha e resta sulla pratica di Ainhoa.",
+"passo": "tirò fuori l'ultima cosa che aveva portato. Il gettone del nonno.",
+"scena": 6
+},
+{
+"id": "G-0014",
+"livello": "penalita",
+"motivo": "La voce narrante è un \"noi\" collettivo che sa cose fuori dal punto di vista della scena, non una terza persona limitata su un solo personaggio.",
+"passo": "Non gli spiegò perché. A noi l'ha detto una volta sola, e in altri termini",
+"peso": 3,
+"scena": 2
+},
+{
+"id": "G-0011",
+"livello": "penalita",
+"motivo": "Il narratore spiega al lettore il funzionamento del lettore di bollini e della Deriva del Meridiano invece di lasciarlo dedurre da costi e gesti.",
+"passo": "il lettore confronta la data con le posizioni registrate dal faro di riferimento",
+"peso": 3,
+"scena": 5
+},
+{
+"id": "G-0017",
+"livello": "penalita",
+"motivo": "Il meccanismo del numero inciso e del quaderno delle finestre è descritto in dettaglio ma non cambia nessuna decisione né alcun esito.",
+"passo": "porta inciso un numero di finestra di calibrazione",
+"peso": 3,
+"scena": 2
+}
+]
+},
+"postata_da": "giudizio",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": "2026-09-17-la-piana-assegnata",
+"righe": [
+"CYB-INV-0035",
+"CYB-PER-0013",
+"CYB-PER-0015",
+"CYB-PER-0016",
+"CYB-PER-0017",
+"CYB-PER-0018",
+"CYB-PER-0020",
+"CYB-PER-0022",
+"CYB-GAD-0039",
+"CYB-GAD-0040",
+"CYB-REG-rostkirche",
+"CYB-SEM-0002"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "giudizio",
+"da": "giudizio",
+"quando": "2026-09-17T19:27:29Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "riscrittura",
+"universi": [
+"cyberverse"
+]
+},
+{
+"chiusa_il": null,
 "creata": "2026-09-15T23:21:24Z",
 "esito": null,
 "id": "BAC-35034876036-2",
@@ -4292,6 +4566,101 @@
 "tipo": "riscrittura",
 "universi": [
 "elabverse"
+]
+},
+{
+"chiusa_il": "2026-09-17T19:22:50Z",
+"creata": "2026-09-17T19:19:59Z",
+"esito": "riscritte scene [1, 2, 4] → stato bozza, giro 1, modello deepseek-flash, battute 19090→19900",
+"id": "BAC-35263830634-1",
+"payload": {
+"esito": "bocciato",
+"giro": 0,
+"punteggio": 40,
+"racconto": "2026-09-17-la-piana-assegnata",
+"scene_responsabili": [
+1,
+2,
+4
+],
+"violazioni": [
+{
+"id": "G-0004",
+"livello": "blocco",
+"motivo": "Il ledger CYB-GAD-0039 stabilisce che Thomas tiene il gettone in tasca a ogni turno, mentre il racconto lo fa portare al collo e cedere ad altri.",
+"passo": "sciolse il laccio di cuoio e appoggiò sul telaio il gettone del nonno",
+"scena": 2
+},
+{
+"id": "G-0026",
+"livello": "blocco",
+"motivo": "L'ufficio delle graduatorie e il collegio che emette il lodo compaiono come enti pubblici nudi, senza alcun marchio corporativo che li gestisca.",
+"passo": "Lo sportello chiamò il numero di Thomas alle sette e dieci.",
+"scena": 1
+},
+{
+"id": "G-0014",
+"livello": "penalita",
+"motivo": "La voce è un noi corale che sa cose fuori dal pov di scena (in scena 5, dal pov di Samir, rivela che il bollino di Thomas è falso), non una terza limitata.",
+"passo": "Le spese le abbiamo pagate noi, in parti uguali. Il reclamo l'avevamo firmato in quarantatré.",
+"peso": 3,
+"scena": 1
+},
+{
+"id": "G-0011",
+"livello": "penalita",
+"motivo": "Il narratore spiega direttamente al lettore la regola amministrativa di assegnabilità invece di lasciarla dedurre da un costo o da un timore.",
+"passo": "Il bollino è l'unità. Non i mattoni: il bollino. Senza bollino non autorizzato non revocato, il lotto non è assegnabile",
+"peso": 3,
+"scena": 4
+}
+]
+},
+"postata_da": "giudizio",
+"presa_da": "redattore",
+"presa_il": "2026-09-17T19:20:29Z",
+"priorita": 3,
+"racconto": "2026-09-17-la-piana-assegnata",
+"righe": [
+"CYB-INV-0035",
+"CYB-PER-0013",
+"CYB-PER-0015",
+"CYB-PER-0016",
+"CYB-PER-0017",
+"CYB-PER-0018",
+"CYB-PER-0020",
+"CYB-PER-0022",
+"CYB-GAD-0039",
+"CYB-GAD-0040",
+"CYB-REG-rostkirche",
+"CYB-SEM-0002"
+],
+"scade": "2026-09-18T01:20:29Z",
+"stato": "chiusa",
+"storia": [
+{
+"agente": "giudizio",
+"da": "giudizio",
+"quando": "2026-09-17T19:19:59Z",
+"stato": "aperta"
+},
+{
+"agente": "redattore",
+"da": "redattore",
+"quando": "2026-09-17T19:20:29Z",
+"stato": "presa"
+},
+{
+"agente": "redattore",
+"da": "redattore",
+"quando": "2026-09-17T19:22:50Z",
+"stato": "chiusa"
+}
+],
+"tentativi": 1,
+"tipo": "riscrittura",
+"universi": [
+"cyberverse"
 ]
 },
 {

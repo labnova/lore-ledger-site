@@ -140,6 +140,20 @@
 },
 {
 "alias": [
+"HAC-REG-singapore"
+],
+"descrizione": "Città-stato crocevia di capitali e dati tra Asia ed Europa, dove ogni broker arriva già con passaporto e cognome propri: nessun ceppo prevale e pochi portano il cognome del mestiere, perché qui l'identità si compra e si vende, non si eredita.",
+"ha_prosa": false,
+"nome": "Singapore",
+"prima_apparizione": 99,
+"ricorrenze": 22,
+"slug": "singapore",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "hackverse"
+},
+{
+"alias": [
 "NEO-REG-vranidol"
 ],
 "descrizione": "Marca di confine lungo le piste di caccia dei cavalieri, dove le famiglie vivono a cavallo tra il debito e l'onore; il registro dei falchi è tenuto più stretto di quello delle nascite.",
@@ -184,7 +198,7 @@
 "ha_prosa": false,
 "nome": "Rotterdam",
 "prima_apparizione": 43,
-"ricorrenze": 16,
+"ricorrenze": 17,
 "slug": "rotterdam",
 "sopra_soglia": true,
 "tipo": "luogo",
@@ -243,20 +257,6 @@
 "sopra_soglia": true,
 "tipo": "luogo",
 "universo": "cyberverse"
-},
-{
-"alias": [
-"HAC-REG-singapore"
-],
-"descrizione": "Città-stato crocevia di capitali e dati tra Asia ed Europa, dove ogni broker arriva già con passaporto e cognome propri: nessun ceppo prevale e pochi portano il cognome del mestiere, perché qui l'identità si compra e si vende, non si eredita.",
-"ha_prosa": false,
-"nome": "Singapore",
-"prima_apparizione": 99,
-"ricorrenze": 12,
-"slug": "singapore",
-"sopra_soglia": true,
-"tipo": "luogo",
-"universo": "hackverse"
 },
 {
 "alias": [],

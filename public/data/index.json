@@ -1481,6 +1481,20 @@
 },
 {
 "appare_in": [],
+"chiavi": "community · itchio · documento_ritrovato",
+"created": "2026-09-17",
+"estrazione": 108,
+"id": "ELA-CON-0009",
+"parent_id": null,
+"regione": null,
+"relazione": null,
+"sommario": "Protocollo delle Luci di Via (foglio di bordo, autore non dichiarato)",
+"tipo": "contenuto",
+"titolo": "Protocollo delle Luci di Via (foglio di bordo, autore non dichiarato)",
+"universo": "elabverse"
+},
+{
+"appare_in": [],
 "created": "2026-09-17",
 "estrazione": 105,
 "id": "CYB-REG-meridiana-alta",
