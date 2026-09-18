@@ -1,11 +1,11 @@
 {
-"aggiornata": "2026-09-17",
+"aggiornata": "2026-09-18",
 "alias": [
 "STE-REG-qattoum"
 ],
 "descrizione": "Porto di delta dove il fiume si divide in tre bracci salmastri; la gilda degli ingegneri del freddo costruisce e mantiene qui le chiatte refrigerate che risalgono la corrente fino alle città dell'interno, e quasi metà dei cognomi nasce ancora dal mestiere di chi ripara gli scafi.",
 "ha_prosa": false,
-"n_ricorrenze": 24,
+"n_ricorrenze": 28,
 "nome": "Qattoum",
 "prima_apparizione": 68,
 "prosa": null,
@@ -226,6 +226,42 @@
 "riga_id": "STE-GAD-0021",
 "riga_tipo": "gadget",
 "riga_titolo": "Il Manometro Senza Bollo"
+},
+{
+"estrazione": 113,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 113,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0025",
+"riga_tipo": "gadget",
+"riga_titolo": "La Tacca di Zaffran"
+},
+{
+"estrazione": 113,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0029",
+"riga_tipo": "gadget",
+"riga_titolo": "L'Eredità dello Scirocco"
+},
+{
+"estrazione": 113,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0030",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Carico di Vetro Rotto"
 }
 ],
 "righe": [
@@ -243,6 +279,21 @@
 "id": "STE-GAD-0021",
 "tipo": "gadget",
 "titolo": "Il Manometro Senza Bollo"
+},
+{
+"id": "STE-GAD-0025",
+"tipo": "gadget",
+"titolo": "La Tacca di Zaffran"
+},
+{
+"id": "STE-GAD-0029",
+"tipo": "gadget",
+"titolo": "L'Eredità dello Scirocco"
+},
+{
+"id": "STE-GAD-0030",
+"tipo": "gadget",
+"titolo": "Il Carico di Vetro Rotto"
 },
 {
 "id": "STE-INV-0029",

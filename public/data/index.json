@@ -463,6 +463,20 @@
 },
 {
 "appare_in": [],
+"chiavi": "testo_breve · mastodon · snippet_300",
+"created": "2026-09-18",
+"estrazione": 114,
+"id": "ELA-CON-0010",
+"parent_id": null,
+"regione": "Konya",
+"relazione": null,
+"sommario": "Hasan non sbaglia mai (thread)",
+"tipo": "contenuto",
+"titolo": "Hasan non sbaglia mai (thread)",
+"universo": "elabverse"
+},
+{
+"appare_in": [],
 "chiavi": "ingegneri · pesci · paziente · ossessiva",
 "created": "2026-09-17",
 "estrazione": 100,

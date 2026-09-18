@@ -1,9 +1,9 @@
 {
-"aggiornata": "2026-09-17",
+"aggiornata": "2026-09-18",
 "alias": [],
 "descrizione": "Mercante di olio da lampada e canne di vetro soffiato, fa la spola tra le saline e il porto vendendo scorte a chi tiene acceso il telegrafo ottico del Consorzio.",
 "ha_prosa": false,
-"n_ricorrenze": 15,
+"n_ricorrenze": 17,
 "nome": "Halim Zaffran",
 "prima_apparizione": 92,
 "prosa": null,
@@ -143,6 +143,24 @@
 "riga_id": "STE-GAD-0020",
 "riga_tipo": "gadget",
 "riga_titolo": "La Chiave Scambiata"
+},
+{
+"estrazione": 113,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 113,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0025",
+"riga_tipo": "gadget",
+"riga_titolo": "La Tacca di Zaffran"
 }
 ],
 "righe": [
@@ -185,6 +203,11 @@
 "id": "STE-GAD-0020",
 "tipo": "gadget",
 "titolo": "La Chiave Scambiata"
+},
+{
+"id": "STE-GAD-0025",
+"tipo": "gadget",
+"titolo": "La Tacca di Zaffran"
 },
 {
 "id": "STE-INV-0031",

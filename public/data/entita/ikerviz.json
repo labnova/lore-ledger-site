@@ -1,11 +1,11 @@
 {
-"aggiornata": "2026-09-17",
+"aggiornata": "2026-09-18",
 "alias": [
 "STE-REG-ikerviz"
 ],
 "descrizione": "Città posata su un doppio letto fluviale, dove il canale sotterraneo della gilda scorre parallelo al fiume vero portando salamoia refrigerante ai quartieri alti; quasi un cognome su due nasce ancora dal mestiere di chi lo porta.",
 "ha_prosa": false,
-"n_ricorrenze": 14,
+"n_ricorrenze": 25,
 "nome": "Ikervíz",
 "prima_apparizione": 80,
 "prosa": null,
@@ -136,9 +136,158 @@
 "riga_id": "STE-PER-0034",
 "riga_tipo": "personaggio",
 "riga_titolo": "Tamás Vörös"
+},
+{
+"estrazione": 113,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0022",
+"riga_tipo": "gadget",
+"riga_titolo": "La Fiaschetta Zoppa"
+},
+{
+"estrazione": 113,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0023",
+"riga_tipo": "gadget",
+"riga_titolo": "La Fiaschetta d'Ottone del Sovrintendente"
+},
+{
+"estrazione": 113,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0024",
+"riga_tipo": "gadget",
+"riga_titolo": "L'Ascolto del Molo"
+},
+{
+"estrazione": 113,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0025",
+"riga_tipo": "gadget",
+"riga_titolo": "La Tacca di Zaffran"
+},
+{
+"estrazione": 113,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0026",
+"riga_tipo": "gadget",
+"riga_titolo": "La Fiaschetta Senza Tessera"
+},
+{
+"estrazione": 113,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0027",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Gettone della Sorte"
+},
+{
+"estrazione": 113,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0028",
+"riga_tipo": "gadget",
+"riga_titolo": "La Fiaschetta con lo Scatto"
+},
+{
+"estrazione": 113,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0029",
+"riga_tipo": "gadget",
+"riga_titolo": "L'Eredità dello Scirocco"
+},
+{
+"estrazione": 113,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0030",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Carico di Vetro Rotto"
+},
+{
+"estrazione": 113,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0031",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Vizio dello Scirocco"
+},
+{
+"estrazione": 113,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0035",
+"riga_tipo": "personaggio",
+"riga_titolo": "Réka Farkas"
 }
 ],
 "righe": [
+{
+"id": "STE-GAD-0022",
+"tipo": "gadget",
+"titolo": "La Fiaschetta Zoppa"
+},
+{
+"id": "STE-GAD-0023",
+"tipo": "gadget",
+"titolo": "La Fiaschetta d'Ottone del Sovrintendente"
+},
+{
+"id": "STE-GAD-0024",
+"tipo": "gadget",
+"titolo": "L'Ascolto del Molo"
+},
+{
+"id": "STE-GAD-0025",
+"tipo": "gadget",
+"titolo": "La Tacca di Zaffran"
+},
+{
+"id": "STE-GAD-0026",
+"tipo": "gadget",
+"titolo": "La Fiaschetta Senza Tessera"
+},
+{
+"id": "STE-GAD-0027",
+"tipo": "gadget",
+"titolo": "Il Gettone della Sorte"
+},
+{
+"id": "STE-GAD-0028",
+"tipo": "gadget",
+"titolo": "La Fiaschetta con lo Scatto"
+},
+{
+"id": "STE-GAD-0029",
+"tipo": "gadget",
+"titolo": "L'Eredità dello Scirocco"
+},
+{
+"id": "STE-GAD-0030",
+"tipo": "gadget",
+"titolo": "Il Carico di Vetro Rotto"
+},
+{
+"id": "STE-GAD-0031",
+"tipo": "gadget",
+"titolo": "Il Vizio dello Scirocco"
+},
 {
 "id": "STE-PER-0021",
 "tipo": "personaggio",
@@ -198,6 +347,11 @@
 "id": "STE-PER-0034",
 "tipo": "personaggio",
 "titolo": "Tamás Vörös"
+},
+{
+"id": "STE-PER-0035",
+"tipo": "personaggio",
+"titolo": "Réka Farkas"
 },
 {
 "id": "STE-REG-ikerviz",

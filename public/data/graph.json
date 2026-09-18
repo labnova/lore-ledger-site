@@ -6511,6 +6511,16 @@
 "to": "ELA-INV-0097"
 },
 {
+"from": "ELA-CON-0010",
+"kind": "sorgente",
+"to": "ELA-GAD-0023"
+},
+{
+"from": "ELA-CON-0010",
+"kind": "regione",
+"to": "ELA-REG-konya"
+},
+{
 "from": "HAC-CON-0001",
 "kind": "sorgente",
 "to": "HAC-INV-0017"
@@ -8193,6 +8203,12 @@
 "id": "ELA-CON-0009",
 "tipo": "contenuto",
 "titolo": "Protocollo delle Luci di Via (foglio di bordo, autore non dichiarato)",
+"universo": "elabverse"
+},
+{
+"id": "ELA-CON-0010",
+"tipo": "contenuto",
+"titolo": "Hasan non sbaglia mai (thread)",
 "universo": "elabverse"
 },
 {

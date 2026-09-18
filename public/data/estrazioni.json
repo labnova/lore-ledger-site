@@ -4627,5 +4627,28 @@
 "STE-PER-0035"
 ],
 "universo": "steamverse"
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"ELA-GAD-0023"
+],
+"chiavi": {
+"canale": "mastodon",
+"formato": "snippet_300",
+"medium": "testo_breve",
+"sorgente_id": "ELA-GAD-0023",
+"veridicita": "in_universe"
+},
+"created": "2026-09-18",
+"esito": "ok",
+"estrazione": 114,
+"forzata": false,
+"lotto": "lotto-contenuti",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"ELA-CON-0010"
+],
+"universo": "elabverse"
 }
 ]

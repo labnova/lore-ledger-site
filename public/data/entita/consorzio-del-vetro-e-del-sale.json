@@ -1,9 +1,9 @@
 {
-"aggiornata": "2026-09-17",
+"aggiornata": "2026-09-18",
 "alias": [],
 "descrizione": "Gilda mercantile che possiede le canne di vetro del telegrafo ottico tese sulle saline e impone una tariffa di passaggio in gettoni-vapore a chiunque le attraversi.",
 "ha_prosa": false,
-"n_ricorrenze": 19,
+"n_ricorrenze": 28,
 "nome": "Consorzio del Vetro e del Sale",
 "prima_apparizione": 92,
 "prosa": null,
@@ -179,6 +179,87 @@
 "riga_id": "STE-INV-0050",
 "riga_tipo": "invenzione",
 "riga_titolo": "Il Serbatoio che Corregge da Solo"
+},
+{
+"estrazione": 113,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 113,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0022",
+"riga_tipo": "gadget",
+"riga_titolo": "La Fiaschetta Zoppa"
+},
+{
+"estrazione": 113,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0023",
+"riga_tipo": "gadget",
+"riga_titolo": "La Fiaschetta d'Ottone del Sovrintendente"
+},
+{
+"estrazione": 113,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0024",
+"riga_tipo": "gadget",
+"riga_titolo": "L'Ascolto del Molo"
+},
+{
+"estrazione": 113,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0026",
+"riga_tipo": "gadget",
+"riga_titolo": "La Fiaschetta Senza Tessera"
+},
+{
+"estrazione": 113,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0028",
+"riga_tipo": "gadget",
+"riga_titolo": "La Fiaschetta con lo Scatto"
+},
+{
+"estrazione": 113,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0030",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Carico di Vetro Rotto"
+},
+{
+"estrazione": 113,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-GAD-0031",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Vizio dello Scirocco"
+},
+{
+"estrazione": 113,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-INV-0051",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Vetro che Conferma"
 }
 ],
 "righe": [
@@ -206,6 +287,41 @@
 "id": "STE-GAD-0018",
 "tipo": "gadget",
 "titolo": "Lo Specchio da Polso"
+},
+{
+"id": "STE-GAD-0022",
+"tipo": "gadget",
+"titolo": "La Fiaschetta Zoppa"
+},
+{
+"id": "STE-GAD-0023",
+"tipo": "gadget",
+"titolo": "La Fiaschetta d'Ottone del Sovrintendente"
+},
+{
+"id": "STE-GAD-0024",
+"tipo": "gadget",
+"titolo": "L'Ascolto del Molo"
+},
+{
+"id": "STE-GAD-0026",
+"tipo": "gadget",
+"titolo": "La Fiaschetta Senza Tessera"
+},
+{
+"id": "STE-GAD-0028",
+"tipo": "gadget",
+"titolo": "La Fiaschetta con lo Scatto"
+},
+{
+"id": "STE-GAD-0030",
+"tipo": "gadget",
+"titolo": "Il Carico di Vetro Rotto"
+},
+{
+"id": "STE-GAD-0031",
+"tipo": "gadget",
+"titolo": "Il Vizio dello Scirocco"
 },
 {
 "id": "STE-INV-0029",
@@ -266,6 +382,11 @@
 "id": "STE-INV-0050",
 "tipo": "invenzione",
 "titolo": "Il Serbatoio che Corregge da Solo"
+},
+{
+"id": "STE-INV-0051",
+"tipo": "invenzione",
+"titolo": "Il Vetro che Conferma"
 }
 ],
 "slug": "consorzio-del-vetro-e-del-sale",

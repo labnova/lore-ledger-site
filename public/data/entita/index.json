@@ -123,6 +123,46 @@
 "universo": "neofeudal"
 },
 {
+"alias": [],
+"descrizione": "Gilda mercantile che possiede le canne di vetro del telegrafo ottico tese sulle saline e impone una tariffa di passaggio in gettoni-vapore a chiunque le attraversi.",
+"ha_prosa": false,
+"nome": "Consorzio del Vetro e del Sale",
+"prima_apparizione": 92,
+"ricorrenze": 28,
+"slug": "consorzio-del-vetro-e-del-sale",
+"sopra_soglia": true,
+"tipo": "ente",
+"universo": "steamverse"
+},
+{
+"alias": [
+"STE-REG-qattoum"
+],
+"descrizione": "Porto di delta dove il fiume si divide in tre bracci salmastri; la gilda degli ingegneri del freddo costruisce e mantiene qui le chiatte refrigerate che risalgono la corrente fino alle città dell'interno, e quasi metà dei cognomi nasce ancora dal mestiere di chi ripara gli scafi.",
+"ha_prosa": false,
+"nome": "Qattoum",
+"prima_apparizione": 68,
+"ricorrenze": 28,
+"slug": "qattoum",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "steamverse"
+},
+{
+"alias": [
+"STE-REG-ikerviz"
+],
+"descrizione": "Città posata su un doppio letto fluviale, dove il canale sotterraneo della gilda scorre parallelo al fiume vero portando salamoia refrigerante ai quartieri alti; quasi un cognome su due nasce ancora dal mestiere di chi lo porta.",
+"ha_prosa": false,
+"nome": "Ikervíz",
+"prima_apparizione": 80,
+"ricorrenze": 25,
+"slug": "ikerviz",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "steamverse"
+},
+{
 "alias": [
 "ELA-REG-scafo-zero"
 ],
@@ -135,20 +175,6 @@
 "sopra_soglia": true,
 "tipo": "luogo",
 "universo": "elabverse"
-},
-{
-"alias": [
-"STE-REG-qattoum"
-],
-"descrizione": "Porto di delta dove il fiume si divide in tre bracci salmastri; la gilda degli ingegneri del freddo costruisce e mantiene qui le chiatte refrigerate che risalgono la corrente fino alle città dell'interno, e quasi metà dei cognomi nasce ancora dal mestiere di chi ripara gli scafi.",
-"ha_prosa": false,
-"nome": "Qattoum",
-"prima_apparizione": 68,
-"ricorrenze": 24,
-"slug": "qattoum",
-"sopra_soglia": true,
-"tipo": "luogo",
-"universo": "steamverse"
 },
 {
 "alias": [
@@ -179,18 +205,6 @@
 "universo": "neofeudal"
 },
 {
-"alias": [],
-"descrizione": "Gilda mercantile che possiede le canne di vetro del telegrafo ottico tese sulle saline e impone una tariffa di passaggio in gettoni-vapore a chiunque le attraversi.",
-"ha_prosa": false,
-"nome": "Consorzio del Vetro e del Sale",
-"prima_apparizione": 92,
-"ricorrenze": 19,
-"slug": "consorzio-del-vetro-e-del-sale",
-"sopra_soglia": true,
-"tipo": "ente",
-"universo": "steamverse"
-},
-{
 "alias": [
 "HAC-REG-rotterdam"
 ],
@@ -210,24 +224,10 @@
 "ha_prosa": false,
 "nome": "Halim Zaffran",
 "prima_apparizione": 92,
-"ricorrenze": 15,
+"ricorrenze": 17,
 "slug": "halim-zaffran",
 "sopra_soglia": true,
 "tipo": "attore",
-"universo": "steamverse"
-},
-{
-"alias": [
-"STE-REG-ikerviz"
-],
-"descrizione": "Città posata su un doppio letto fluviale, dove il canale sotterraneo della gilda scorre parallelo al fiume vero portando salamoia refrigerante ai quartieri alti; quasi un cognome su due nasce ancora dal mestiere di chi lo porta.",
-"ha_prosa": false,
-"nome": "Ikervíz",
-"prima_apparizione": 80,
-"ricorrenze": 14,
-"slug": "ikerviz",
-"sopra_soglia": true,
-"tipo": "luogo",
 "universo": "steamverse"
 },
 {
@@ -308,6 +308,18 @@
 },
 {
 "alias": [],
+"descrizione": "Ogni sera, all'ora del cambio turno, la luce nelle canne di vetro del telegrafo vacilla per pochi secondi; nessuno ha mai spiegato perché, e ogni scheda del Consorzio lo registra come «normale».",
+"ha_prosa": false,
+"nome": "Lo Sfarfallio delle Nove",
+"prima_apparizione": 92,
+"ricorrenze": 9,
+"slug": "lo-sfarfallio-delle-nove",
+"sopra_soglia": true,
+"tipo": "anomalia",
+"universo": "steamverse"
+},
+{
+"alias": [],
 "descrizione": "Piazzale coperto di Vasperdine dove tre tamburi di pelle consacrata scandiscono l'apertura delle quote ogni alba, e i pellegrini in attesa ricamano il proprio voto sull'orlo della cassula prima di consegnarlo al banco.",
 "ha_prosa": false,
 "nome": "Il Cortile delle Grancasse Votive",
@@ -317,18 +329,6 @@
 "sopra_soglia": true,
 "tipo": "luogo",
 "universo": "neofeudal"
-},
-{
-"alias": [],
-"descrizione": "Ogni sera, all'ora del cambio turno, la luce nelle canne di vetro del telegrafo vacilla per pochi secondi; nessuno ha mai spiegato perché, e ogni scheda del Consorzio lo registra come «normale».",
-"ha_prosa": false,
-"nome": "Lo Sfarfallio delle Nove",
-"prima_apparizione": 92,
-"ricorrenze": 7,
-"slug": "lo-sfarfallio-delle-nove",
-"sopra_soglia": true,
-"tipo": "anomalia",
-"universo": "steamverse"
 },
 {
 "alias": [],
