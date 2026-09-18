@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Wilhelm lo tiene incollato all'ingresso della bottega al posto del bollino nuovo; un paziente glielo ha portato da un cantiere dismesso anni fa.",
+"chi_paga": "nessuno-apparentemente",
+"cosa": "Vecchio modello di bollino di calibrazione Parallasse, generazione precedente al Muro che Riferisce, che non trasmette dati di presenza.",
+"created": "2026-09-18",
+"entita_usate": [
+"Parallasse Certificazioni™",
+"Rostkirche"
+],
+"epoca_relativa": 0,
+"estrazione": 126,
+"fatti": [],
+"gancio": "A Rostkirche si scambiano ancora bollini muti sottobanco; nessuno li vieta esplicitamente, ma chi li porta smette in fretta di farsi vedere in giro con quelli nuovi.",
+"id": "CYB-GAD-0060",
+"invenzione_id": "CYB-INV-0073",
+"media": [],
+"nome": "Il Bollino Muto",
+"oggetto": "Vecchio bollino di calibrazione Parallasse, generazione precedente al Muro che Riferisce, privo di trasmissione dati.",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0023",
+"prod": false,
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "versione-precedente",
+"tradimento_tech": "Il bollino muto certifica una calibrazione tanto quanto quello nuovo, ma non parla con nessun archivio, ed è per questo che mezza Rostkirche lo cerca ancora nei magazzini dismessi invece di accettare l'aggiornamento.",
+"universo": "cyberverse"
+}

@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Wilhelm la mostra al distributore ogni sette giorni; si è fatto intestare tre tessere di pazienti morti per raddoppiare la razione.",
+"chi_paga": "l-ambiente-gli-animali",
+"cosa": "Tessera numerata che regola l'accesso settimanale alla vernice riflettente distribuita da Parallasse.",
+"created": "2026-09-18",
+"entita_usate": [
+"Parallasse Certificazioni™"
+],
+"epoca_relativa": 0,
+"estrazione": 126,
+"fatti": [],
+"gancio": "Il raccoglitore che rifornisce il pigmento ha smesso di contare i banchi vuoti, tanto sa già che la prossima tessera arriverà comunque.",
+"id": "CYB-GAD-0052",
+"invenzione_id": "CYB-INV-0073",
+"media": [],
+"nome": "La Tessera del Turno",
+"oggetto": "Tessera numerata che assegna il turno settimanale di ritiro della vernice riflettente Parallasse.",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0023",
+"prod": true,
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "razionamento",
+"tradimento_tech": "La tessera non razionalizza solo la vernice, il pigmento riflettente è polvere di conchiglie di laguna raccolte oltre la quota concessa, e ogni turno in più svuota un banco che non si riforma.",
+"universo": "cyberverse"
+}

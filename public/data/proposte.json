@@ -421,5 +421,61 @@
 "universo": "cyberverse",
 "versione": 1,
 "versioni": []
+},
+{
+"carta_chiusa_il": null,
+"carta_id": "BAC-35373695282-1",
+"carta_stato": "aperta",
+"commento": null,
+"created": "2026-09-18",
+"errori_schema": [],
+"id": "HAC-INV-0098",
+"motivazione": "HAC-INV-0072 ha l'unico campo davvero vuoto fra i candidati riga: regione mancante. La madre HAC-INV-0002 non si tocca: io accodo una figlia di espansione che ancora La Lista Che Si Riordina Da Sola a un territorio preciso, senza riscrivere la torsione sul bonifico. Il poc è già dichiarato, quindi la figlia porta il caso operativo, non la teoria. Le schede entita restano elenco: la loro lacuna di prosa non è la mia forma oggi. Firmato riparatore.",
+"motivo_respinta": null,
+"postata_da": "riparatore",
+"promossa_da": null,
+"promossa_il": null,
+"respinta_il": null,
+"riga": {
+"carta": "BAC-35373695282-1",
+"carta_id": "BAC-35373695282-1",
+"created": "2026-09-18",
+"discipline": [
+"agricoltura/irrigazione",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 74,
+"gancio": "Un parente disperato scopre che il conto in cima alla lista è cambiato tre volte nella stessa notte, sempre dopo un bonifico: tre riordini, tre pagamenti, un solo reparto. Il caso operativo del poc sta nel ricostruire quella notte dalla sequenza dei riordini, non dal contenuto clinico della lista.",
+"id": "HAC-INV-0098",
+"nome": "La Lista Che Si Riordina Da Sola",
+"nome_reale": "Sistema di priorità automatica nelle liste d'attesa per trapianto basato su compatibilità",
+"origine": "approfondimento",
+"parent_id": "HAC-INV-0072",
+"poc": true,
+"regione": "Bologna",
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "L'algoritmo che riordina in tempo reale la lista trapianti secondo compatibilità immunologica, in funzione a Bologna, viene manomesso perché ogni volta che un nome sale in cima, un pagamento tracciabile è appena arrivato su un conto collegato al reparto: il riordino non è un errore di calcolo, è una ricevuta.",
+"universo": "hackverse"
+},
+"sommario": "Un parente disperato scopre che il conto in cima alla lista è cambiato tre volte nella stessa notte, sempre dopo un bonifico: tre riordini, tre pagamenti, un s…",
+"stato": "provvisoria",
+"storia": [
+{
+"autore": "riparatore",
+"motivo": "artefatto della carta None",
+"quando": "2026-09-18T17:20:39Z",
+"sha": "07faaa3e40bda6cede1ef0420b31ed7c7fc3f29d",
+"versione": 1
+}
+],
+"tipo": "invenzione",
+"titolo": "La Lista Che Si Riordina Da Sola",
+"universo": "hackverse",
+"versione": 1,
+"versioni": []
 }
 ]

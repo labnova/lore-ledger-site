@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Wilhelm lo tiene in bottega perché è l'unico modello che Ivo Reinacher gli procura ancora funzionante; tutti gli altri rivenditori hanno smesso di importarlo.",
+"chi_paga": "l-utente-ultimo",
+"cosa": "Strumento portatile che legge la calibrazione della vernice confrontandola col faro orbitale di riferimento.",
+"created": "2026-09-18",
+"entita_usate": [
+"Ivo Reinacher",
+"La Deriva del Meridiano"
+],
+"epoca_relativa": 0,
+"estrazione": 126,
+"fatti": [],
+"gancio": "Un paziente si fida della diagnosi di Wilhelm senza sapere che l'unico strumento rimasto sul mercato sbaglia sempre nella stessa direzione, e nessun secondo parere può correggerlo perché nessun secondo strumento esiste più.",
+"id": "CYB-GAD-0056",
+"invenzione_id": "CYB-INV-0073",
+"media": [],
+"nome": "Il Lettore di Deriva",
+"oggetto": "Strumento portatile che confronta la calibrazione della vernice riflettente con il faro orbitale di riferimento.",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0023",
+"prod": false,
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "monopolio",
+"tradimento_tech": "Il lettore non misura una deriva neutra, eredita lo stesso scarto del faro orbitale mai ricalibrato, e ogni diagnosi che Wilhelm firma con quello strumento porta lo stesso errore cronico dentro il referto del paziente.",
+"universo": "cyberverse"
+}

@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Wilhelm lo tiene sotto il tavolo operatorio e ne stende un velo sulla porta della bottega ogni luna nuova, non sul muro per cui era stato assegnato.",
+"chi_paga": "l-istituzione",
+"cosa": "Fondo di secchiello di vernice di calibrazione Parallasse, requisito per una facciata e mai restituito.",
+"created": "2026-09-18",
+"entita_usate": [
+"Parallasse Certificazioni™"
+],
+"epoca_relativa": 0,
+"estrazione": 126,
+"fatti": [],
+"gancio": "Un ispettore Parallasse mandato a chiudere un cantiere fantasma scopre che il registro segna da mesi \"lavori in corso\" su una bottega che un cantiere non l'ha mai avuto.",
+"id": "CYB-GAD-0051",
+"invenzione_id": "CYB-INV-0073",
+"media": [],
+"nome": "Il Secchiello di Fondo",
+"oggetto": "Fondo di un secchiello di vernice riflettente Parallasse, requisito per calibrare una facciata e mai restituito all'ufficio cantieri.",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0023",
+"prod": false,
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "riuso-improprio",
+"tradimento_tech": "La vernice non certifica una facciata restaurata, registra chi entra ed esce dalla bottega clandestina e lo consegna al registro di Parallasse come fosse un cantiere regolare.",
+"universo": "cyberverse"
+}

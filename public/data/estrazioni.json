@@ -5099,5 +5099,72 @@
 "STE-PER-0045"
 ],
 "universo": "steamverse"
+},
+{
+"ambientazione": "era-canonica-cyberverse",
+"campi_forzati": [],
+"canone_pescato": [
+"CYB-INV-0073",
+"CYB-PER-0023",
+"CYB-GAD-0033",
+"CYB-INV-0009",
+"CYB-INV-0090",
+"CYB-REG-meridiana-alta",
+"CYB-REG-rostkirche"
+],
+"chiavi": {
+"invenzione_id": "CYB-INV-0073",
+"n_prod": 2,
+"personaggio_id": "CYB-PER-0023",
+"universo": "cyberverse"
+},
+"created": "2026-09-18",
+"entita": {
+"anomalia": {
+"descrizione": "Lo scarto crescente del faro orbitale di riferimento usato da Parallasse Certificazioni™, mai ricalibrato dopo le Faglie Sociali del 3167; ogni misura fatta con lui, dai bollini di restauro agli impianti di localizzazione, eredita lo stesso errore.",
+"nome": "La Deriva del Meridiano"
+},
+"attore": {
+"descrizione": "Rigattiere di Rostkirche che smercia sestanti orbitali dismessi e Bollini Parallasse contraffatti a chi non può permettersi un restauro certificato.",
+"nome": "Ivo Reinacher"
+},
+"ente": {
+"descrizione": "Corporazione che rilascia il Bollino di restauro autorizzato a Vetrasca, validando ogni facciata contro l'archivio delle posizioni orbitali registrato al momento della sua ultima ristrutturazione.",
+"nome": "Parallasse Certificazioni™"
+},
+"luogo": {
+"descrizione": "Accampamento di nomadi urbani cresciuto attorno a uno snodo ferroviario dismesso ai margini del distretto trapianti; i cognomi restano legati ai mestieri di chi ci transitava prima del collasso della linea, e se ne guadagna uno nuovo solo restando abbastanza a lungo.",
+"nome": "Rostkirche"
+}
+},
+"esito": "ok",
+"espansioni": [
+"CYB-INV-0121",
+"CYB-INV-0122"
+],
+"estrazione": 126,
+"estrazione_madre": 89,
+"forzata": false,
+"lotto": "lotto-gadget",
+"modello": "claude-sonnet-5",
+"prod": [
+"CYB-GAD-0052",
+"CYB-GAD-0054"
+],
+"righe_prodotte": [
+"CYB-GAD-0051",
+"CYB-GAD-0052",
+"CYB-GAD-0053",
+"CYB-GAD-0054",
+"CYB-GAD-0055",
+"CYB-GAD-0056",
+"CYB-GAD-0057",
+"CYB-GAD-0058",
+"CYB-GAD-0059",
+"CYB-GAD-0060",
+"CYB-INV-0121",
+"CYB-INV-0122"
+],
+"universo": "cyberverse"
 }
 ]

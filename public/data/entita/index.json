@@ -297,6 +297,20 @@
 "universo": "hackverse"
 },
 {
+"alias": [
+"STE-REG-tuzkaya"
+],
+"descrizione": "Cittadina di cava adagiata sulle saline dell'entroterra, dove si estrae il salgemma che i chimici della gilda usano per calibrare la purezza del ghiaccio prima del bollo; qui il mestiere cambia spesso di generazione in generazione, così pochi cognomi nascono ancora dal lavoro di chi li porta.",
+"ha_prosa": false,
+"nome": "Tuzkaya",
+"prima_apparizione": 125,
+"ricorrenze": 12,
+"slug": "tuzkaya",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "steamverse"
+},
+{
 "alias": [],
 "descrizione": "Un lotto di cera da candela e zucchero bruciato fusi per errore durante la Fiera dei Pellegrini di tre anni fa, ridistribuito dalla Diocesi del Cielo come materiale benedetto senza separare i due; ogni oggetto fatto con questa pasta porta una doppia grazia che nessun prete sa più distinguere.",
 "ha_prosa": false,

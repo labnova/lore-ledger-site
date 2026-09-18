@@ -3388,6 +3388,105 @@
 ]
 },
 {
+"alternative": [],
+"artefatti_prodotti": [
+"HAC-INV-0098"
+],
+"artefatto_dettaglio": {
+"carta": "BAC-35373695282-1",
+"commento": null,
+"errori_schema": [],
+"id": "HAC-INV-0098",
+"motivazione": "HAC-INV-0072 ha l'unico campo davvero vuoto fra i candidati riga: regione mancante. La madre HAC-INV-0002 non si tocca: io accodo una figlia di espansione che ancora La Lista Che Si Riordina Da Sola a un territorio preciso, senza riscrivere la torsione sul bonifico. Il poc è già dichiarato, quindi la figlia porta il caso operativo, non la teoria. Le schede entita restano elenco: la loro lacuna di prosa non è la mia forma oggi. Firmato riparatore.",
+"promossa_da": null,
+"promossa_il": null,
+"respinta_il": null,
+"riga": {
+"carta_id": "BAC-35373695282-1",
+"created": "2026-09-18",
+"discipline": [
+"agricoltura/irrigazione",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 0,
+"estrazione": 74,
+"gancio": "Un parente disperato scopre che il conto in cima alla lista è cambiato tre volte nella stessa notte, sempre dopo un bonifico: tre riordini, tre pagamenti, un solo reparto. Il caso operativo del poc sta nel ricostruire quella notte dalla sequenza dei riordini, non dal contenuto clinico della lista.",
+"id": "HAC-INV-0098",
+"nome": "La Lista Che Si Riordina Da Sola",
+"nome_reale": "Sistema di priorità automatica nelle liste d'attesa per trapianto basato su compatibilità",
+"origine": "approfondimento",
+"parent_id": "HAC-INV-0072",
+"poc": true,
+"regione": "Bologna",
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "L'algoritmo che riordina in tempo reale la lista trapianti secondo compatibilità immunologica, in funzione a Bologna, viene manomesso perché ogni volta che un nome sale in cima, un pagamento tracciabile è appena arrivato su un conto collegato al reparto: il riordino non è un errore di calcolo, è una ricevuta.",
+"universo": "hackverse"
+},
+"scartata_per": null,
+"stato": "provvisoria",
+"storia": [
+{
+"autore": "riparatore",
+"motivo": "artefatto della carta None",
+"quando": "2026-09-18T17:20:39Z",
+"sha": "07faaa3e40bda6cede1ef0420b31ed7c7fc3f29d",
+"versione": 1
+}
+],
+"versione": 1,
+"versioni": []
+},
+"chiusa_il": null,
+"creata": "2026-09-18T17:20:21Z",
+"esito": null,
+"id": "BAC-35373695282-1",
+"letto_a": "07faaa3e40bda6cede1ef0420b31ed7c7fc3f29d",
+"payload": {
+"artefatti_prodotti": [
+"HAC-INV-0098"
+],
+"artefatto": "proposte/righe/HAC-INV-0098.yaml",
+"candidati": [
+"CYB-PER-0036",
+"HAC-PER-0038",
+"HAC-INV-0072",
+"entita:neofeudal/luogo/sarakan",
+"entita:neofeudal/luogo/il-cortile-delle-grancasse-votive"
+],
+"forma": "espansione",
+"lacuna": "campo regione vuoto sulla riga",
+"letto_a": "07faaa3e40bda6cede1ef0420b31ed7c7fc3f29d",
+"motivazione": "HAC-INV-0072 ha l'unico campo davvero vuoto fra i candidati riga: regione mancante. La madre HAC-INV-0002 non si tocca: io accodo una figlia di espansione che ancora La Lista Che Si Riordina Da Sola a un territorio preciso, senza riscrivere la torsione sul bonifico. Il poc è già dichiarato, quindi la figlia porta il caso operativo, non la teoria. Le schede entita restano elenco: la loro lacuna di prosa non è la mia forma oggi. Firmato riparatore.",
+"scelto": "HAC-INV-0072"
+},
+"postata_da": "riparatore",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"HAC-INV-0072"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "riparatore",
+"da": "riparatore",
+"quando": "2026-09-18T17:20:21Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "approfondimento",
+"universi": [
+"hackverse"
+]
+},
+{
 "chiusa_il": null,
 "creata": "2026-09-15T23:21:24Z",
 "esito": null,

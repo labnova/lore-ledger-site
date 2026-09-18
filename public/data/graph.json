@@ -101,6 +101,16 @@
 "to": "CYB-INV-0120"
 },
 {
+"from": "CYB-INV-0009",
+"kind": "parent",
+"to": "CYB-INV-0121"
+},
+{
+"from": "CYB-INV-0090",
+"kind": "parent",
+"to": "CYB-INV-0122"
+},
+{
 "from": "ELA-INV-0009",
 "kind": "parent",
 "to": "ELA-INV-0041"
@@ -4291,6 +4301,156 @@
 "to": "CYB-REG-meridiana-alta"
 },
 {
+"from": "CYB-GAD-0051",
+"kind": "invenzione",
+"to": "CYB-INV-0073"
+},
+{
+"from": "CYB-GAD-0051",
+"kind": "personaggio",
+"to": "CYB-PER-0023"
+},
+{
+"from": "CYB-GAD-0051",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0052",
+"kind": "invenzione",
+"to": "CYB-INV-0073"
+},
+{
+"from": "CYB-GAD-0052",
+"kind": "personaggio",
+"to": "CYB-PER-0023"
+},
+{
+"from": "CYB-GAD-0052",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0053",
+"kind": "invenzione",
+"to": "CYB-INV-0073"
+},
+{
+"from": "CYB-GAD-0053",
+"kind": "personaggio",
+"to": "CYB-PER-0023"
+},
+{
+"from": "CYB-GAD-0053",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0054",
+"kind": "invenzione",
+"to": "CYB-INV-0073"
+},
+{
+"from": "CYB-GAD-0054",
+"kind": "personaggio",
+"to": "CYB-PER-0023"
+},
+{
+"from": "CYB-GAD-0054",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0055",
+"kind": "invenzione",
+"to": "CYB-INV-0073"
+},
+{
+"from": "CYB-GAD-0055",
+"kind": "personaggio",
+"to": "CYB-PER-0023"
+},
+{
+"from": "CYB-GAD-0055",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0056",
+"kind": "invenzione",
+"to": "CYB-INV-0073"
+},
+{
+"from": "CYB-GAD-0056",
+"kind": "personaggio",
+"to": "CYB-PER-0023"
+},
+{
+"from": "CYB-GAD-0056",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0057",
+"kind": "invenzione",
+"to": "CYB-INV-0073"
+},
+{
+"from": "CYB-GAD-0057",
+"kind": "personaggio",
+"to": "CYB-PER-0023"
+},
+{
+"from": "CYB-GAD-0057",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0058",
+"kind": "invenzione",
+"to": "CYB-INV-0073"
+},
+{
+"from": "CYB-GAD-0058",
+"kind": "personaggio",
+"to": "CYB-PER-0023"
+},
+{
+"from": "CYB-GAD-0058",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0059",
+"kind": "invenzione",
+"to": "CYB-INV-0073"
+},
+{
+"from": "CYB-GAD-0059",
+"kind": "personaggio",
+"to": "CYB-PER-0023"
+},
+{
+"from": "CYB-GAD-0059",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0060",
+"kind": "invenzione",
+"to": "CYB-INV-0073"
+},
+{
+"from": "CYB-GAD-0060",
+"kind": "personaggio",
+"to": "CYB-PER-0023"
+},
+{
+"from": "CYB-GAD-0060",
+"kind": "regione",
+"to": "CYB-REG-rostkirche"
+},
+{
 "from": "ELA-GAD-0001",
 "kind": "invenzione",
 "to": "ELA-INV-0001"
@@ -7872,6 +8032,66 @@
 "universo": "cyberverse"
 },
 {
+"id": "CYB-GAD-0051",
+"tipo": "gadget",
+"titolo": "Il Secchiello di Fondo",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0052",
+"tipo": "gadget",
+"titolo": "La Tessera del Turno",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0053",
+"tipo": "gadget",
+"titolo": "Il Barattolo di Scaglie",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0054",
+"tipo": "gadget",
+"titolo": "I Gettoni del Turno d'Anima",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0055",
+"tipo": "gadget",
+"titolo": "Lo Specchietto Riverniciato",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0056",
+"tipo": "gadget",
+"titolo": "Il Lettore di Deriva",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0057",
+"tipo": "gadget",
+"titolo": "La Vernice di Wilhelm",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0058",
+"tipo": "gadget",
+"titolo": "Il Diapason di Registrazione",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0059",
+"tipo": "gadget",
+"titolo": "L'Antenna da Tasca",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0060",
+"tipo": "gadget",
+"titolo": "Il Bollino Muto",
+"universo": "cyberverse"
+},
+{
 "id": "CYB-INV-0001",
 "tipo": "invenzione",
 "titolo": "Il Libro della Grazia",
@@ -8589,6 +8809,18 @@
 "id": "CYB-INV-0120",
 "tipo": "invenzione",
 "titolo": "Il Voto in Prestito",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0121",
+"tipo": "invenzione",
+"titolo": "Il Verbale Fasullo",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0122",
+"tipo": "invenzione",
+"titolo": "Il Contatore Che Non Torna",
 "universo": "cyberverse"
 },
 {

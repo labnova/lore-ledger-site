@@ -1,0 +1,184 @@
+{
+"aggiornata": "2026-09-18",
+"alias": [
+"STE-REG-tuzkaya"
+],
+"descrizione": "Cittadina di cava adagiata sulle saline dell'entroterra, dove si estrae il salgemma che i chimici della gilda usano per calibrare la purezza del ghiaccio prima del bollo; qui il mestiere cambia spesso di generazione in generazione, così pochi cognomi nascono ancora dal lavoro di chi li porta.",
+"ha_prosa": false,
+"n_ricorrenze": 12,
+"nome": "Tuzkaya",
+"prima_apparizione": 125,
+"prosa": null,
+"racconti": [],
+"ricorrenze": [
+{
+"estrazione": 125,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 125,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0036",
+"riga_tipo": "personaggio",
+"riga_titolo": "Elif Balderiay"
+},
+{
+"estrazione": 125,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0037",
+"riga_tipo": "personaggio",
+"riga_titolo": "Berk Taşsoy"
+},
+{
+"estrazione": 125,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0038",
+"riga_tipo": "personaggio",
+"riga_titolo": "Merve Yalıcı"
+},
+{
+"estrazione": 125,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0039",
+"riga_tipo": "personaggio",
+"riga_titolo": "Mustafa Kobasoy"
+},
+{
+"estrazione": 125,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0040",
+"riga_tipo": "personaggio",
+"riga_titolo": "Márton Bonevárai"
+},
+{
+"estrazione": 125,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0041",
+"riga_tipo": "personaggio",
+"riga_titolo": "Judit Baborassy"
+},
+{
+"estrazione": 125,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0042",
+"riga_tipo": "personaggio",
+"riga_titolo": "Fatma Çoban"
+},
+{
+"estrazione": 125,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0043",
+"riga_tipo": "personaggio",
+"riga_titolo": "Okan Kotaş"
+},
+{
+"estrazione": 125,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0044",
+"riga_tipo": "personaggio",
+"riga_titolo": "Leyla Çesoy"
+},
+{
+"estrazione": 125,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0045",
+"riga_tipo": "personaggio",
+"riga_titolo": "Hasan Kayaoğlu"
+},
+{
+"estrazione": 125,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-REG-tuzkaya",
+"riga_tipo": "regione",
+"riga_titolo": "Tuzkaya"
+}
+],
+"righe": [
+{
+"id": "STE-PER-0036",
+"tipo": "personaggio",
+"titolo": "Elif Balderiay"
+},
+{
+"id": "STE-PER-0037",
+"tipo": "personaggio",
+"titolo": "Berk Taşsoy"
+},
+{
+"id": "STE-PER-0038",
+"tipo": "personaggio",
+"titolo": "Merve Yalıcı"
+},
+{
+"id": "STE-PER-0039",
+"tipo": "personaggio",
+"titolo": "Mustafa Kobasoy"
+},
+{
+"id": "STE-PER-0040",
+"tipo": "personaggio",
+"titolo": "Márton Bonevárai"
+},
+{
+"id": "STE-PER-0041",
+"tipo": "personaggio",
+"titolo": "Judit Baborassy"
+},
+{
+"id": "STE-PER-0042",
+"tipo": "personaggio",
+"titolo": "Fatma Çoban"
+},
+{
+"id": "STE-PER-0043",
+"tipo": "personaggio",
+"titolo": "Okan Kotaş"
+},
+{
+"id": "STE-PER-0044",
+"tipo": "personaggio",
+"titolo": "Leyla Çesoy"
+},
+{
+"id": "STE-PER-0045",
+"tipo": "personaggio",
+"titolo": "Hasan Kayaoğlu"
+},
+{
+"id": "STE-REG-tuzkaya",
+"tipo": "regione",
+"titolo": "Tuzkaya"
+}
+],
+"slug": "tuzkaya",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "steamverse"
+}

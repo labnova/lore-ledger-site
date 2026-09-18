@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Wilhelm lo usa per controllarsi la mano prima di ogni incisione; gli hanno detto che riflette meglio la luce della sala.",
+"chi_paga": "un-terzo-ignaro",
+"cosa": "Piccolo specchio da barbiere ricoperto di un sottile strato della stessa vernice riflettente del Muro.",
+"created": "2026-09-18",
+"entita_usate": [
+"Parallasse Certificazioni™"
+],
+"epoca_relativa": 0,
+"estrazione": 126,
+"fatti": [],
+"gancio": "Una vicina che non ha mai messo piede nella bottega compare nel registro cantieri di Parallasse solo per essersi specchiata di sfuggita nella vetrina accanto.",
+"id": "CYB-GAD-0055",
+"invenzione_id": "CYB-INV-0073",
+"media": [],
+"nome": "Lo Specchietto Riverniciato",
+"oggetto": "Specchio da barbiere rivestito con un ritaglio della vernice riflettente del Muro che Riferisce.",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0023",
+"prod": false,
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "memoria-dell-oggetto",
+"tradimento_tech": "Lo specchio non riflette solo la luce, registra ogni volto che si china su di esso e lo aggiunge al registro presenze dello stesso lotto di vernice da cui è stato tagliato, un lotto appartenuto a un cantiere a due isolati di distanza.",
+"universo": "cyberverse"
+}

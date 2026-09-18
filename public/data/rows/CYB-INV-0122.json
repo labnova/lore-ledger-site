@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-18",
+"discipline": [
+"moda/cappelleria",
+"tipografia/incisione"
+],
+"epoca_relativa": 1,
+"estrazione": 126,
+"fatti": [],
+"gancio": "Il cappellaio convince il tecnico a chiudere un occhio offrendogli in cambio l'unico servizio che la pressa gli permette di fare gratis, ristampare il suo bollino di certificazione scaduto.",
+"id": "CYB-INV-0122",
+"media": [],
+"nome": "Il Contatore Che Non Torna",
+"nome_reale": "Ispezione a sorpresa di Parallasse Certificazioni™ innescata dai consumi elettrici anomali della pressa troppo grande mai dichiarata",
+"parent_id": "CYB-INV-0090",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "I consumi elettrici della pressa disegnano un picco che nessun contratto residenziale giustifica, e un tecnico Parallasse mandato a leggere il contatore si accorge che quella bottega beve corrente come un intero isolato.",
+"universo": "cyberverse"
+}

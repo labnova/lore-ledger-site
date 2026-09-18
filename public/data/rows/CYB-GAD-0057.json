@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Wilhelm la stende lui stesso sulla facciata della bottega perché non può permettersi il prodotto certificato Parallasse.",
+"chi_paga": "il-costruttore",
+"cosa": "Miscela artigianale che imita la vernice riflettente ufficiale, fatta con ossidi e resina di scarto.",
+"created": "2026-09-18",
+"entita_usate": [
+"Parallasse Certificazioni™"
+],
+"epoca_relativa": 0,
+"estrazione": 126,
+"fatti": [],
+"gancio": "Quando un paziente scompare senza lasciare traccia nel registro, i vicini vanno a bussare prima da Wilhelm che dalla polizia, la sua vernice è l'unica che non ha mai detto niente a nessuno.",
+"id": "CYB-GAD-0057",
+"invenzione_id": "CYB-INV-0073",
+"media": [],
+"nome": "La Vernice di Wilhelm",
+"oggetto": "Vernice riflettente fatta in casa da Wilhelm con ossidi e resina di scarto, per imitare il prodotto certificato Parallasse.",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0023",
+"prod": false,
+"regione": "Rostkirche",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "sostituto-povero",
+"tradimento_tech": "La miscela riflette abbastanza luce da ingannare un controllo visivo ma non registra nessun dato di presenza, così quando un cliente sparisce davvero nessun registro lo segnala.",
+"universo": "cyberverse"
+}

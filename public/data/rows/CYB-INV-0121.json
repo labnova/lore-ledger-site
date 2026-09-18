@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-18",
+"discipline": [
+"religione/teologia",
+"chirurgia/trapiantologia"
+],
+"epoca_relativa": 1,
+"estrazione": 126,
+"fatti": [],
+"gancio": "Un chirurgo scopre a innesto già iniziato che il verbale che teneva in mano non è mai stato letto in sala, e non sa più se fermarsi o finire quello che ha cominciato.",
+"id": "CYB-INV-0121",
+"media": [],
+"nome": "Il Verbale Fasullo",
+"nome_reale": "Registro dei voti conciliari falsificato per dare parvenza di approvazione a innesti mai discussi dai sette anziani",
+"parent_id": "CYB-INV-0009",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Un notaio del concilio comincia a vendere verbali di voto con firme copiate, così le famiglie disperate ottengono il timbro senza mai convocare i sette anziani.",
+"universo": "cyberverse"
+}
