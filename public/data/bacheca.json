@@ -1,6 +1,68 @@
 [
 {
 "chiusa_il": null,
+"creata": "2026-09-16T19:28:29Z",
+"esito": null,
+"id": "BAC-35139219618-3",
+"payload": {
+"cluster": "HAC-INV-0037",
+"punteggio": 70,
+"racconto": "2026-09-16-un-grado-piu-chiaro",
+"regione": "Tallinn",
+"titolo": "Un grado più chiaro"
+},
+"postata_da": "giudizio",
+"presa_da": null,
+"presa_il": null,
+"priorita": 2,
+"racconto": "2026-09-16-un-grado-piu-chiaro",
+"righe": [
+"HAC-INV-0037",
+"HAC-PER-0023",
+"HAC-PER-0024",
+"HAC-PER-0025",
+"HAC-PER-0026",
+"HAC-PER-0028",
+"HAC-PER-0029",
+"HAC-PER-0030",
+"HAC-SEM-0002"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "giudizio",
+"da": "giudizio",
+"quando": "2026-09-16T19:28:29Z",
+"stato": "aperta"
+},
+{
+"agente": "redattore",
+"da": "redattore",
+"quando": "2026-09-16T21:50:12Z",
+"stato": "presa"
+},
+{
+"agente": "igiene",
+"da": "igiene",
+"quando": "2026-09-18T03:17:35Z",
+"stato": "scaduta"
+},
+{
+"agente": "igiene",
+"da": "igiene",
+"quando": "2026-09-18T03:17:35Z",
+"stato": "aperta"
+}
+],
+"tentativi": 1,
+"tipo": "pubblicazione",
+"universi": [
+"hackverse"
+]
+},
+{
+"chiusa_il": null,
 "creata": "2026-09-18T00:58:47Z",
 "esito": null,
 "esito_tipo": null,
@@ -215,6 +277,86 @@
 "tipo": "commento",
 "universi": [
 "steamverse"
+]
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-15T06:54:46Z",
+"esito": null,
+"id": "BAC-34939065991-1",
+"payload": {
+"bozza": "Documentary photograph of an object where it actually sits on a worn desk among cables and cups, available light, film grain, no isolation, no styling, label with illegible product code. Subject: Il Sigillo che Mente — Software di verifica ottica degli ologrammi anticontraffazione sul packaging cosmetico. Quella che c'è: luce disponibile, bilanciamento del bianco imperfetto, dominanti di lampada al tungsteno o di finestra grigia. Fotografia documentaria, reportage: scatto rubato o posato senza messa in scena, sfondo reale e ingombro, cavi, tazze, cartacce. harsh overhead lighting, unforgiving shadows, visible film grain --ar 4:3 --no HUD, overlay, scrolling green code, hoodie in shadow, masks, terminal reflections in glasses, coloured LED lights, hacker poster aesthetic, illegible lettering, watermark",
+"chiave": "m1",
+"contesto": "id: HAC-INV-0033\ntipo: invenzione\nuniverso: hackverse\nestrazione: 23\ncreated: '2026-09-13'\nparent_id: null\nrelazione: null\nepoca_relativa: 0\nregione: null\nstatus: canon\nschema_version: 1\nnome_reale: Software di verifica ottica degli ologrammi anticontraffazione sul packaging cosmetico\nnome: Il Sigillo che Mente\ndiscipline:\n- moda/cosmesi\n- ottica/lenti\npoc: true",
+"manifest": {
+"caricato_il": null,
+"creato": "2026-09-15",
+"id": "MED-34939065991-1",
+"note": "oggetto: Il Sigillo che Mente; gancio: Un sistema di sicurezza dichiara \"vivo e autentico\" un occhio che, in laboratorio, risulta stampato su un substrato di due giorni prima.; torsione: Il software che verifica, tramite riflessi calibrati, l'autenticità di un ologramma su una confezione di cosmetici viene invertito per generare il pattern di riflessi che convince un sistema di liveness detection che una lente a contatto stampata è un occhio vivo.; sref non fissato",
+"parametri": {
+"ar": "4:3",
+"atomi": [
+"ATM-34809499246-26",
+"ATM-34809499246-6"
+],
+"cref": null,
+"sref": null
+},
+"prompt": "Documentary photograph of an object where it actually sits on a worn desk among cables and cups, available light, film grain, no isolation, no styling, label with illegible product code. Subject: Il Sigillo che Mente — Software di verifica ottica degli ologrammi anticontraffazione sul packaging cosmetico. Quella che c'è: luce disponibile, bilanciamento del bianco imperfetto, dominanti di lampada al tungsteno o di finestra grigia. Fotografia documentaria, reportage: scatto rubato o posato senza messa in scena, sfondo reale e ingombro, cavi, tazze, cartacce. harsh overhead lighting, unforgiving shadows, visible film grain --ar 4:3 --no HUD, overlay, scrolling green code, hoodie in shadow, masks, terminal reflections in glasses, coloured LED lights, hacker poster aesthetic, illegible lettering, watermark",
+"sha256": null,
+"sorgente": {
+"ref": "HAC-INV-0033",
+"tipo": "riga"
+},
+"stato": "proposto",
+"strumento": "midjourney",
+"tipo": "tavola",
+"universo": "hackverse",
+"url": null
+},
+"strumento": "midjourney",
+"tipo": "tavola"
+},
+"postata_da": "media-random",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"HAC-INV-0033"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "media-random",
+"da": "media-random",
+"quando": "2026-09-15T06:54:46Z",
+"stato": "aperta"
+},
+{
+"agente": "illustratore",
+"da": "illustratore",
+"quando": "2026-09-17T20:40:41Z",
+"stato": "presa"
+},
+{
+"agente": "igiene",
+"da": "igiene",
+"quando": "2026-09-18T03:17:35Z",
+"stato": "scaduta"
+},
+{
+"agente": "igiene",
+"da": "igiene",
+"quando": "2026-09-18T03:17:35Z",
+"stato": "aperta"
+}
+],
+"tentativi": 1,
+"tipo": "media_tavola",
+"universi": [
+"hackverse"
 ]
 },
 {
@@ -1498,6 +1640,7 @@
 "versione": 1
 }
 ],
+"pronta_per_arbitro": "2026-09-18T03:17:35Z",
 "revisioni": 1,
 "scelto": "CYB-GAD-0019",
 "verdetto_arbitro": {
@@ -3602,124 +3745,6 @@
 "tentativi": 0,
 "tipo": "nota",
 "universi": []
-},
-{
-"chiusa_il": null,
-"creata": "2026-09-16T19:28:29Z",
-"esito": null,
-"id": "BAC-35139219618-3",
-"payload": {
-"cluster": "HAC-INV-0037",
-"punteggio": 70,
-"racconto": "2026-09-16-un-grado-piu-chiaro",
-"regione": "Tallinn",
-"titolo": "Un grado più chiaro"
-},
-"postata_da": "giudizio",
-"presa_da": "redattore",
-"presa_il": "2026-09-16T21:50:12Z",
-"priorita": 2,
-"racconto": "2026-09-16-un-grado-piu-chiaro",
-"righe": [
-"HAC-INV-0037",
-"HAC-PER-0023",
-"HAC-PER-0024",
-"HAC-PER-0025",
-"HAC-PER-0026",
-"HAC-PER-0028",
-"HAC-PER-0029",
-"HAC-PER-0030",
-"HAC-SEM-0002"
-],
-"scade": "2026-09-17T03:50:12Z",
-"stato": "presa",
-"storia": [
-{
-"agente": "giudizio",
-"da": "giudizio",
-"quando": "2026-09-16T19:28:29Z",
-"stato": "aperta"
-},
-{
-"agente": "redattore",
-"da": "redattore",
-"quando": "2026-09-16T21:50:12Z",
-"stato": "presa"
-}
-],
-"tentativi": 1,
-"tipo": "pubblicazione",
-"universi": [
-"hackverse"
-]
-},
-{
-"chiusa_il": null,
-"creata": "2026-09-15T06:54:46Z",
-"esito": null,
-"id": "BAC-34939065991-1",
-"payload": {
-"bozza": "Documentary photograph of an object where it actually sits on a worn desk among cables and cups, available light, film grain, no isolation, no styling, label with illegible product code. Subject: Il Sigillo che Mente — Software di verifica ottica degli ologrammi anticontraffazione sul packaging cosmetico. Quella che c'è: luce disponibile, bilanciamento del bianco imperfetto, dominanti di lampada al tungsteno o di finestra grigia. Fotografia documentaria, reportage: scatto rubato o posato senza messa in scena, sfondo reale e ingombro, cavi, tazze, cartacce. harsh overhead lighting, unforgiving shadows, visible film grain --ar 4:3 --no HUD, overlay, scrolling green code, hoodie in shadow, masks, terminal reflections in glasses, coloured LED lights, hacker poster aesthetic, illegible lettering, watermark",
-"chiave": "m1",
-"contesto": "id: HAC-INV-0033\ntipo: invenzione\nuniverso: hackverse\nestrazione: 23\ncreated: '2026-09-13'\nparent_id: null\nrelazione: null\nepoca_relativa: 0\nregione: null\nstatus: canon\nschema_version: 1\nnome_reale: Software di verifica ottica degli ologrammi anticontraffazione sul packaging cosmetico\nnome: Il Sigillo che Mente\ndiscipline:\n- moda/cosmesi\n- ottica/lenti\npoc: true",
-"manifest": {
-"caricato_il": null,
-"creato": "2026-09-15",
-"id": "MED-34939065991-1",
-"note": "oggetto: Il Sigillo che Mente; gancio: Un sistema di sicurezza dichiara \"vivo e autentico\" un occhio che, in laboratorio, risulta stampato su un substrato di due giorni prima.; torsione: Il software che verifica, tramite riflessi calibrati, l'autenticità di un ologramma su una confezione di cosmetici viene invertito per generare il pattern di riflessi che convince un sistema di liveness detection che una lente a contatto stampata è un occhio vivo.; sref non fissato",
-"parametri": {
-"ar": "4:3",
-"atomi": [
-"ATM-34809499246-26",
-"ATM-34809499246-6"
-],
-"cref": null,
-"sref": null
-},
-"prompt": "Documentary photograph of an object where it actually sits on a worn desk among cables and cups, available light, film grain, no isolation, no styling, label with illegible product code. Subject: Il Sigillo che Mente — Software di verifica ottica degli ologrammi anticontraffazione sul packaging cosmetico. Quella che c'è: luce disponibile, bilanciamento del bianco imperfetto, dominanti di lampada al tungsteno o di finestra grigia. Fotografia documentaria, reportage: scatto rubato o posato senza messa in scena, sfondo reale e ingombro, cavi, tazze, cartacce. harsh overhead lighting, unforgiving shadows, visible film grain --ar 4:3 --no HUD, overlay, scrolling green code, hoodie in shadow, masks, terminal reflections in glasses, coloured LED lights, hacker poster aesthetic, illegible lettering, watermark",
-"sha256": null,
-"sorgente": {
-"ref": "HAC-INV-0033",
-"tipo": "riga"
-},
-"stato": "proposto",
-"strumento": "midjourney",
-"tipo": "tavola",
-"universo": "hackverse",
-"url": null
-},
-"strumento": "midjourney",
-"tipo": "tavola"
-},
-"postata_da": "media-random",
-"presa_da": "illustratore",
-"presa_il": "2026-09-17T20:40:41Z",
-"priorita": 3,
-"racconto": null,
-"righe": [
-"HAC-INV-0033"
-],
-"scade": "2026-09-18T02:40:41Z",
-"stato": "presa",
-"storia": [
-{
-"agente": "media-random",
-"da": "media-random",
-"quando": "2026-09-15T06:54:46Z",
-"stato": "aperta"
-},
-{
-"agente": "illustratore",
-"da": "illustratore",
-"quando": "2026-09-17T20:40:41Z",
-"stato": "presa"
-}
-],
-"tentativi": 1,
-"tipo": "media_tavola",
-"universi": [
-"hackverse"
-]
 },
 {
 "chiusa_il": null,
