@@ -1,0 +1,18 @@
+{
+"branch": "main",
+"cluster": "NEO-INV-0017",
+"created": "2026-09-18",
+"id": "NEO-FAT-35384810230-2",
+"momento": 2,
+"reversibile": false,
+"schema_version": 1,
+"soggetti": [
+"NEO-INV-0017"
+],
+"stabilito_da": "2026-09-18-le-venature-sbagliate",
+"status": "canon",
+"testo": "Alla Sala della Ruota di Calvenna ogni giocata è registrata su una scheda al banco, e il nome mandato a corte dopo una combinazione piena è quello scritto sulla scheda, non quello di chi tira la manovella.",
+"tipo": "fatto",
+"tipo_fatto": "regola_del_mondo",
+"universo": "neofeudal"
+}

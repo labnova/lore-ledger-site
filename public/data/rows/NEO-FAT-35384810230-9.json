@@ -1,0 +1,19 @@
+{
+"branch": "main",
+"cluster": "NEO-INV-0017",
+"created": "2026-09-18",
+"id": "NEO-FAT-35384810230-9",
+"momento": 9,
+"reversibile": true,
+"schema_version": 1,
+"soggetti": [
+"NEO-INV-0017",
+"NEO-PER-0083"
+],
+"stabilito_da": "2026-09-18-le-venature-sbagliate",
+"status": "canon",
+"testo": "Ksenia Zurgin ha riconosciuto sul quarto rullo un taglio di lama non suo e ha dichiarato comunque intatta la Ruota, senza consegnare nomi a corte.",
+"tipo": "fatto",
+"tipo_fatto": "evento",
+"universo": "neofeudal"
+}

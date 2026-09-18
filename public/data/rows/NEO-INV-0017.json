@@ -1,5 +1,7 @@
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-18-le-venature-sbagliate"
+],
 "created": "2026-09-12",
 "discipline": [
 "zoologia",
@@ -7,7 +9,78 @@
 ],
 "epoca_relativa": 0,
 "estrazione": 1,
-"fatti": [],
+"fatti": [
+{
+"id": "NEO-FAT-35384810230-1",
+"momento": 1,
+"stabilito_da": "2026-09-18-le-venature-sbagliate",
+"testo": "I Sette della Ruota dei Sette Animali a Calvenna sono il Bue, il Falco, la Lepre, il Cane, la Vipera, la Capra e il Corvo.",
+"tipo_fatto": "stato"
+},
+{
+"id": "NEO-FAT-35384810230-2",
+"momento": 2,
+"stabilito_da": "2026-09-18-le-venature-sbagliate",
+"testo": "Alla Sala della Ruota di Calvenna ogni giocata è registrata su una scheda al banco, e il nome mandato a corte dopo una combinazione piena è quello scritto sulla scheda, non quello di chi tira la manovella.",
+"tipo_fatto": "regola_del_mondo"
+},
+{
+"id": "NEO-FAT-35384810230-3",
+"momento": 3,
+"stabilito_da": "2026-09-18-le-venature-sbagliate",
+"testo": "Mosi Mwindaji trucca la Ruota tagliando i rulli con una lama stretta, non ridipingendoli, e il suo taglio ha portato via la punta dell'ala del Falco sul quarto rullo.",
+"tipo_fatto": "stato"
+},
+{
+"id": "NEO-FAT-35384810230-4",
+"momento": 4,
+"stabilito_da": "2026-09-18-le-venature-sbagliate",
+"testo": "La copia dell'audizione di ogni convocato viene mandata da corte a Calvenna e inchiodata al muro della Sala della Ruota.",
+"tipo_fatto": "regola_del_mondo"
+},
+{
+"id": "NEO-FAT-35384810230-5",
+"momento": 5,
+"stabilito_da": "2026-09-18-le-venature-sbagliate",
+"testo": "Emil Nornestrand ha venduto a Yuki Draak, per una misura di grano, una lettera che dichiara sicura la terza notte dopo la luna nuova; Nuru Mwatu la ricopia a pagamento e a Calvenna circola un calendario scritto delle notti sicure.",
+"tipo_fatto": "evento"
+},
+{
+"id": "NEO-FAT-35384810230-6",
+"momento": 6,
+"stabilito_da": "2026-09-18-le-venature-sbagliate",
+"testo": "Upendo Chalimbura ha fatto uscire sette Falchi tirando la manovella per la famiglia del fondo basso, nella notte in cui Hasina Mwasimba avrebbe dovuto inceppare il secondo rullo al posto di Furaha Nyakaye.",
+"tipo_fatto": "evento"
+},
+{
+"id": "NEO-FAT-35384810230-7",
+"momento": 7,
+"stabilito_da": "2026-09-18-le-venature-sbagliate",
+"testo": "Shani Seremala ha rimesso le schede in ordine di arrivo e non di turno, e per questo il nome partito per corte dopo quella combinazione piena è quello di Yuki Draak, che quel giro non lo aveva tirato.",
+"tipo_fatto": "evento"
+},
+{
+"id": "NEO-FAT-35384810230-8",
+"momento": 8,
+"stabilito_da": "2026-09-18-le-venature-sbagliate",
+"testo": "Hasina Mwasimba ha perso al gioco le monete, la coperta, le tazze, il falcetto e l'anello d'ottone di casa Mwasimba, e a Calvenna la colpa di quella notte è attribuita a lei.",
+"tipo_fatto": "stato"
+},
+{
+"id": "NEO-FAT-35384810230-9",
+"momento": 9,
+"stabilito_da": "2026-09-18-le-venature-sbagliate",
+"testo": "Ksenia Zurgin ha riconosciuto sul quarto rullo un taglio di lama non suo e ha dichiarato comunque intatta la Ruota, senza consegnare nomi a corte.",
+"tipo_fatto": "evento"
+},
+{
+"id": "NEO-FAT-35384810230-10",
+"momento": 10,
+"stabilito_da": "2026-09-18-le-venature-sbagliate",
+"testo": "Sefu Rako tiene in coda al suo quaderno delle combinazioni la recensione del Bestiario delle Sette Notti, trattato che non esiste.",
+"tipo_fatto": "stato"
+}
+],
 "gancio": "Chi fa jackpot viene convocato a corte e non torna.",
 "id": "NEO-INV-0017",
 "media": [],

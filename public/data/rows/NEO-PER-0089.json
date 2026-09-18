@@ -3,7 +3,9 @@
 "orientamento": "asessuale",
 "situazione": "sposato"
 },
-"appare_in": [],
+"appare_in": [
+"2026-09-18-le-venature-sbagliate"
+],
 "casta": "contadini",
 "ceppo": "swahili",
 "cognome": "Chalimbura",
@@ -13,7 +15,15 @@
 "epoca_relativa": 0,
 "estrazione": 112,
 "eta_fascia": "maturo",
-"fatti": [],
+"fatti": [
+{
+"id": "NEO-FAT-35384810230-6",
+"momento": 6,
+"stabilito_da": "2026-09-18-le-venature-sbagliate",
+"testo": "Upendo Chalimbura ha fatto uscire sette Falchi tirando la manovella per la famiglia del fondo basso, nella notte in cui Hasina Mwasimba avrebbe dovuto inceppare il secondo rullo al posto di Furaha Nyakaye.",
+"tipo_fatto": "evento"
+}
+],
 "gancio": "Le famiglie che aiuta non sanno che il prezzo reale dei suoi favori si misura in dispense sempre più vuote, non in monete.",
 "id": "NEO-PER-0089",
 "invenzione_id": "NEO-INV-0017",

@@ -1,6 +1,8 @@
 {
 "affettivo": null,
-"appare_in": [],
+"appare_in": [
+"2026-09-18-le-venature-sbagliate"
+],
 "casta": "contadini",
 "ceppo": "swahili",
 "cognome": "Nyakaye",
@@ -10,7 +12,15 @@
 "epoca_relativa": 0,
 "estrazione": 112,
 "eta_fascia": "bambino",
-"fatti": [],
+"fatti": [
+{
+"id": "NEO-FAT-35384810230-6",
+"momento": 6,
+"stabilito_da": "2026-09-18-le-venature-sbagliate",
+"testo": "Upendo Chalimbura ha fatto uscire sette Falchi tirando la manovella per la famiglia del fondo basso, nella notte in cui Hasina Mwasimba avrebbe dovuto inceppare il secondo rullo al posto di Furaha Nyakaye.",
+"tipo_fatto": "evento"
+}
+],
 "gancio": "Nessuno a Calvenna sa che è lui a far apparire \"sbagliate\" le combinazioni vincenti della Ruota dei Sette Animali, tranne Madre Iselda, che lo osserva ogni notte e non lo denuncia.",
 "id": "NEO-PER-0081",
 "invenzione_id": "NEO-INV-0017",

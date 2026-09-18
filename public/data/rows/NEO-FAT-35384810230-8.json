@@ -1,0 +1,18 @@
+{
+"branch": "main",
+"cluster": "NEO-INV-0017",
+"created": "2026-09-18",
+"id": "NEO-FAT-35384810230-8",
+"momento": 8,
+"reversibile": true,
+"schema_version": 1,
+"soggetti": [
+"NEO-PER-0090"
+],
+"stabilito_da": "2026-09-18-le-venature-sbagliate",
+"status": "canon",
+"testo": "Hasina Mwasimba ha perso al gioco le monete, la coperta, le tazze, il falcetto e l'anello d'ottone di casa Mwasimba, e a Calvenna la colpa di quella notte è attribuita a lei.",
+"tipo": "fatto",
+"tipo_fatto": "stato",
+"universo": "neofeudal"
+}

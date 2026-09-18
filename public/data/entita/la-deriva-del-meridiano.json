@@ -3,7 +3,7 @@
 "alias": [],
 "descrizione": "Lo scarto crescente del faro orbitale di riferimento usato da Parallasse Certificazioni™, mai ricalibrato dopo le Faglie Sociali del 3167; ogni misura fatta con lui, dai bollini di restauro agli impianti di localizzazione, eredita lo stesso errore.",
 "ha_prosa": false,
-"n_ricorrenze": 12,
+"n_ricorrenze": 14,
 "nome": "La Deriva del Meridiano",
 "prima_apparizione": 78,
 "prosa": null,
@@ -116,6 +116,24 @@
 "riga_id": "CYB-INV-0112",
 "riga_tipo": "invenzione",
 "riga_titolo": "Lo Scarto che Scarica nel Canale"
+},
+{
+"estrazione": 126,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 126,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0056",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Lettore di Deriva"
 }
 ],
 "righe": [
@@ -138,6 +156,11 @@
 "id": "CYB-GAD-0040",
 "tipo": "gadget",
 "titolo": "Il Bollino Buono"
+},
+{
+"id": "CYB-GAD-0056",
+"tipo": "gadget",
+"titolo": "Il Lettore di Deriva"
 },
 {
 "id": "CYB-INV-0058",

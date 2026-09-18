@@ -1,0 +1,19 @@
+{
+"branch": "main",
+"cluster": "NEO-INV-0017",
+"created": "2026-09-18",
+"id": "NEO-FAT-35384810230-7",
+"momento": 7,
+"reversibile": false,
+"schema_version": 1,
+"soggetti": [
+"NEO-PER-0085",
+"NEO-PER-0088"
+],
+"stabilito_da": "2026-09-18-le-venature-sbagliate",
+"status": "canon",
+"testo": "Shani Seremala ha rimesso le schede in ordine di arrivo e non di turno, e per questo il nome partito per corte dopo quella combinazione piena è quello di Yuki Draak, che quel giro non lo aveva tirato.",
+"tipo": "fatto",
+"tipo_fatto": "evento",
+"universo": "neofeudal"
+}

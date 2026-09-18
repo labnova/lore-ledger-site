@@ -1,0 +1,20 @@
+{
+"branch": "main",
+"cluster": "NEO-INV-0017",
+"created": "2026-09-18",
+"id": "NEO-FAT-35384810230-6",
+"momento": 6,
+"reversibile": false,
+"schema_version": 1,
+"soggetti": [
+"NEO-PER-0081",
+"NEO-PER-0089",
+"NEO-PER-0090"
+],
+"stabilito_da": "2026-09-18-le-venature-sbagliate",
+"status": "canon",
+"testo": "Upendo Chalimbura ha fatto uscire sette Falchi tirando la manovella per la famiglia del fondo basso, nella notte in cui Hasina Mwasimba avrebbe dovuto inceppare il secondo rullo al posto di Furaha Nyakaye.",
+"tipo": "fatto",
+"tipo_fatto": "evento",
+"universo": "neofeudal"
+}

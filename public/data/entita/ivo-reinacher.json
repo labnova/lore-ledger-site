@@ -3,7 +3,7 @@
 "alias": [],
 "descrizione": "Rigattiere di Rostkirche che smercia sestanti orbitali dismessi e Bollini Parallasse contraffatti a chi non può permettersi un restauro certificato.",
 "ha_prosa": false,
-"n_ricorrenze": 13,
+"n_ricorrenze": 15,
 "nome": "Ivo Reinacher",
 "prima_apparizione": 78,
 "prosa": null,
@@ -125,6 +125,24 @@
 "riga_id": "CYB-GAD-0041",
 "riga_tipo": "gadget",
 "riga_titolo": "L'Occhio che Conta"
+},
+{
+"estrazione": 126,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 126,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0056",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Lettore di Deriva"
 }
 ],
 "righe": [
@@ -142,6 +160,11 @@
 "id": "CYB-GAD-0041",
 "tipo": "gadget",
 "titolo": "L'Occhio che Conta"
+},
+{
+"id": "CYB-GAD-0056",
+"tipo": "gadget",
+"titolo": "Il Lettore di Deriva"
 },
 {
 "id": "CYB-INV-0062",

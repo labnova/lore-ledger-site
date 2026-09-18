@@ -3,7 +3,9 @@
 "orientamento": "pansessuale",
 "situazione": "poliamoroso"
 },
-"appare_in": [],
+"appare_in": [
+"2026-09-18-le-venature-sbagliate"
+],
 "casta": "contadini",
 "ceppo": "swahili",
 "cognome": "Seremala",
@@ -13,7 +15,15 @@
 "epoca_relativa": 0,
 "estrazione": 112,
 "eta_fascia": "giovane",
-"fatti": [],
+"fatti": [
+{
+"id": "NEO-FAT-35384810230-7",
+"momento": 7,
+"stabilito_da": "2026-09-18-le-venature-sbagliate",
+"testo": "Shani Seremala ha rimesso le schede in ordine di arrivo e non di turno, e per questo il nome partito per corte dopo quella combinazione piena è quello di Yuki Draak, che quel giro non lo aveva tirato.",
+"tipo_fatto": "evento"
+}
+],
 "gancio": "Il vicino sbagliato non è più tornato da corte, e Shani non ha mai detto a nessuno che l'errore era suo.",
 "id": "NEO-PER-0085",
 "invenzione_id": "NEO-INV-0017",

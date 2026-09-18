@@ -7121,6 +7121,11 @@
 "to": "CYB-REG-rostkirche"
 },
 {
+"from": "CYB-CON-0003",
+"kind": "sorgente",
+"to": "CYB-INV-0093"
+},
+{
 "from": "ELA-CON-0001",
 "kind": "sorgente",
 "to": "ELA-INV-0002"
@@ -7616,6 +7621,91 @@
 "to": "HAC-PER-0026"
 },
 {
+"from": "NEO-FAT-35384810230-1",
+"kind": "soggetto",
+"to": "NEO-INV-0017"
+},
+{
+"from": "NEO-FAT-35384810230-10",
+"kind": "soggetto",
+"to": "NEO-PER-0084"
+},
+{
+"from": "NEO-FAT-35384810230-2",
+"kind": "soggetto",
+"to": "NEO-INV-0017"
+},
+{
+"from": "NEO-FAT-35384810230-3",
+"kind": "soggetto",
+"to": "NEO-INV-0017"
+},
+{
+"from": "NEO-FAT-35384810230-3",
+"kind": "soggetto",
+"to": "NEO-PER-0086"
+},
+{
+"from": "NEO-FAT-35384810230-4",
+"kind": "soggetto",
+"to": "NEO-INV-0017"
+},
+{
+"from": "NEO-FAT-35384810230-5",
+"kind": "soggetto",
+"to": "NEO-PER-0082"
+},
+{
+"from": "NEO-FAT-35384810230-5",
+"kind": "soggetto",
+"to": "NEO-PER-0087"
+},
+{
+"from": "NEO-FAT-35384810230-5",
+"kind": "soggetto",
+"to": "NEO-PER-0088"
+},
+{
+"from": "NEO-FAT-35384810230-6",
+"kind": "soggetto",
+"to": "NEO-PER-0081"
+},
+{
+"from": "NEO-FAT-35384810230-6",
+"kind": "soggetto",
+"to": "NEO-PER-0089"
+},
+{
+"from": "NEO-FAT-35384810230-6",
+"kind": "soggetto",
+"to": "NEO-PER-0090"
+},
+{
+"from": "NEO-FAT-35384810230-7",
+"kind": "soggetto",
+"to": "NEO-PER-0085"
+},
+{
+"from": "NEO-FAT-35384810230-7",
+"kind": "soggetto",
+"to": "NEO-PER-0088"
+},
+{
+"from": "NEO-FAT-35384810230-8",
+"kind": "soggetto",
+"to": "NEO-PER-0090"
+},
+{
+"from": "NEO-FAT-35384810230-9",
+"kind": "soggetto",
+"to": "NEO-INV-0017"
+},
+{
+"from": "NEO-FAT-35384810230-9",
+"kind": "soggetto",
+"to": "NEO-PER-0083"
+},
+{
 "from": "STE-FAT-m20260913-1",
 "kind": "soggetto",
 "to": "STE-REG-ledoskol"
@@ -7657,6 +7747,12 @@
 "id": "CYB-CON-0002",
 "tipo": "contenuto",
 "titolo": "Formazione trasportatori, modulo 3: la scheda non mente, il lettore sì",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-CON-0003",
+"tipo": "contenuto",
+"titolo": "Podcast \"Il Bollino Quasi Vero\": il copione dietro la puntata",
 "universo": "cyberverse"
 },
 {
@@ -11557,6 +11653,66 @@
 "id": "NEO-CON-0003",
 "tipo": "contenuto",
 "titolo": "Nota di redazione: perché il balsamo dura una sola lettura",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-FAT-35384810230-1",
+"tipo": "fatto",
+"titolo": "I Sette della Ruota dei Sette Animali a Calvenna sono il Bue, il Falco, la Lepre",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-FAT-35384810230-10",
+"tipo": "fatto",
+"titolo": "Sefu Rako tiene in coda al suo quaderno delle combinazioni la recensione del Bes",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-FAT-35384810230-2",
+"tipo": "fatto",
+"titolo": "Alla Sala della Ruota di Calvenna ogni giocata è registrata su una scheda al ban",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-FAT-35384810230-3",
+"tipo": "fatto",
+"titolo": "Mosi Mwindaji trucca la Ruota tagliando i rulli con una lama stretta, non ridipi",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-FAT-35384810230-4",
+"tipo": "fatto",
+"titolo": "La copia dell'audizione di ogni convocato viene mandata da corte a Calvenna e in",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-FAT-35384810230-5",
+"tipo": "fatto",
+"titolo": "Emil Nornestrand ha venduto a Yuki Draak, per una misura di grano, una lettera c",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-FAT-35384810230-6",
+"tipo": "fatto",
+"titolo": "Upendo Chalimbura ha fatto uscire sette Falchi tirando la manovella per la famig",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-FAT-35384810230-7",
+"tipo": "fatto",
+"titolo": "Shani Seremala ha rimesso le schede in ordine di arrivo e non di turno, e per qu",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-FAT-35384810230-8",
+"tipo": "fatto",
+"titolo": "Hasina Mwasimba ha perso al gioco le monete, la coperta, le tazze, il falcetto e",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-FAT-35384810230-9",
+"tipo": "fatto",
+"titolo": "Ksenia Zurgin ha riconosciuto sul quarto rullo un taglio di lama non suo e ha di",
 "universo": "neofeudal"
 },
 {

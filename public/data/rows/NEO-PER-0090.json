@@ -1,6 +1,8 @@
 {
 "affettivo": null,
-"appare_in": [],
+"appare_in": [
+"2026-09-18-le-venature-sbagliate"
+],
 "casta": "contadini",
 "ceppo": "swahili",
 "cognome": "Mwasimba",
@@ -10,7 +12,22 @@
 "epoca_relativa": 0,
 "estrazione": 112,
 "eta_fascia": "adolescente",
-"fatti": [],
+"fatti": [
+{
+"id": "NEO-FAT-35384810230-6",
+"momento": 6,
+"stabilito_da": "2026-09-18-le-venature-sbagliate",
+"testo": "Upendo Chalimbura ha fatto uscire sette Falchi tirando la manovella per la famiglia del fondo basso, nella notte in cui Hasina Mwasimba avrebbe dovuto inceppare il secondo rullo al posto di Furaha Nyakaye.",
+"tipo_fatto": "evento"
+},
+{
+"id": "NEO-FAT-35384810230-8",
+"momento": 8,
+"stabilito_da": "2026-09-18-le-venature-sbagliate",
+"testo": "Hasina Mwasimba ha perso al gioco le monete, la coperta, le tazze, il falcetto e l'anello d'ottone di casa Mwasimba, e a Calvenna la colpa di quella notte è attribuita a lei.",
+"tipo_fatto": "stato"
+}
+],
 "gancio": "Sa esattamente quale rullo inceppare per salvare chiunque dalla convocazione a corte, ma non è mai riuscita a fermarsi prima di giocarsi lei stessa l'ultima moneta della famiglia.",
 "id": "NEO-PER-0090",
 "invenzione_id": "NEO-INV-0017",

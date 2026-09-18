@@ -1,6 +1,8 @@
 {
 "affettivo": null,
-"appare_in": [],
+"appare_in": [
+"2026-09-18-le-venature-sbagliate"
+],
 "casta": "contadini",
 "ceppo": "swahili",
 "cognome": "Mwatu",
@@ -10,7 +12,15 @@
 "epoca_relativa": 0,
 "estrazione": 112,
 "eta_fascia": "bambino",
-"fatti": [],
+"fatti": [
+{
+"id": "NEO-FAT-35384810230-5",
+"momento": 5,
+"stabilito_da": "2026-09-18-le-venature-sbagliate",
+"testo": "Emil Nornestrand ha venduto a Yuki Draak, per una misura di grano, una lettera che dichiara sicura la terza notte dopo la luna nuova; Nuru Mwatu la ricopia a pagamento e a Calvenna circola un calendario scritto delle notti sicure.",
+"tipo_fatto": "evento"
+}
+],
 "gancio": "Ha già venduto tre volte la stessa \"leva segreta\" mai completata a tre famiglie diverse, e la dottrina del debito a Calvenna dice che ora deve loro tre stagioni di lavoro.",
 "id": "NEO-PER-0087",
 "invenzione_id": "NEO-INV-0017",

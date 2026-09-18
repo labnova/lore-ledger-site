@@ -5166,5 +5166,28 @@
 "CYB-INV-0122"
 ],
 "universo": "cyberverse"
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"CYB-INV-0093"
+],
+"chiavi": {
+"canale": "soundcloud",
+"formato": "podcast_3min",
+"medium": "audio",
+"sorgente_id": "CYB-INV-0093",
+"veridicita": "making_of"
+},
+"created": "2026-09-18",
+"esito": "ok",
+"estrazione": 127,
+"forzata": false,
+"lotto": "lotto-contenuti",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"CYB-CON-0003"
+],
+"universo": "cyberverse"
 }
 ]

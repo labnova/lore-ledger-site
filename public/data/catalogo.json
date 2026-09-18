@@ -194,5 +194,61 @@
 "tipo": "racconto",
 "titolo": "Un grado più chiaro",
 "universo": "hackverse"
+},
+{
+"battute": 18491,
+"branch": "main",
+"canali": [],
+"cluster": "NEO-INV-0017",
+"creato": "2026-09-18",
+"fatti_stabiliti": [
+"NEO-FAT-35384810230-1",
+"NEO-FAT-35384810230-2",
+"NEO-FAT-35384810230-3",
+"NEO-FAT-35384810230-4",
+"NEO-FAT-35384810230-5",
+"NEO-FAT-35384810230-6",
+"NEO-FAT-35384810230-7",
+"NEO-FAT-35384810230-8",
+"NEO-FAT-35384810230-9",
+"NEO-FAT-35384810230-10"
+],
+"id": "2026-09-18-le-venature-sbagliate",
+"numero": null,
+"personaggi": [
+"NEO-PER-0081",
+"NEO-PER-0082",
+"NEO-PER-0083",
+"NEO-PER-0084",
+"NEO-PER-0085",
+"NEO-PER-0086",
+"NEO-PER-0087",
+"NEO-PER-0088",
+"NEO-PER-0089",
+"NEO-PER-0090"
+],
+"regione": "Calvenna",
+"righe_usate": [
+"NEO-INV-0017",
+"NEO-PER-0081",
+"NEO-PER-0082",
+"NEO-PER-0083",
+"NEO-PER-0084",
+"NEO-PER-0085",
+"NEO-PER-0086",
+"NEO-PER-0087",
+"NEO-PER-0088",
+"NEO-PER-0089",
+"NEO-PER-0090",
+"NEO-GAD-0093",
+"NEO-SEM-0006"
+],
+"scene": 6,
+"sinossi": "A Calvenna un giro alla Ruota dei Sette Animali costa una moneta di rame, e chi fa la combinazione piena viene convocato a corte e non torna. Furaha, che ha otto anni e non dorme, ridipinge di notte i musi sui rulli perché le vincite escano sbagliate. Ma una mano con lo scalpello lavora sullo stesso legno, un vicino vende per una misura di grano il calendario delle notti sicure, e la ragazza che sa inceppare i rulli meglio di chiunque si offre di coprire un turno.",
+"stato": "approvato",
+"testata": null,
+"tipo": "racconto",
+"titolo": "Le venature sbagliate",
+"universo": "neofeudal"
 }
 ]

@@ -1,0 +1,18 @@
+{
+"branch": "main",
+"cluster": "NEO-INV-0017",
+"created": "2026-09-18",
+"id": "NEO-FAT-35384810230-1",
+"momento": 1,
+"reversibile": true,
+"schema_version": 1,
+"soggetti": [
+"NEO-INV-0017"
+],
+"stabilito_da": "2026-09-18-le-venature-sbagliate",
+"status": "canon",
+"testo": "I Sette della Ruota dei Sette Animali a Calvenna sono il Bue, il Falco, la Lepre, il Cane, la Vipera, la Capra e il Corvo.",
+"tipo": "fatto",
+"tipo_fatto": "stato",
+"universo": "neofeudal"
+}

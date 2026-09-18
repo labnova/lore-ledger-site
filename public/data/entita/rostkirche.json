@@ -5,7 +5,7 @@
 ],
 "descrizione": "Accampamento di nomadi urbani cresciuto attorno a uno snodo ferroviario dismesso ai margini del distretto trapianti; i cognomi restano legati ai mestieri di chi ci transitava prima del collasso della linea, e se ne guadagna uno nuovo solo restando abbastanza a lungo.",
 "ha_prosa": false,
-"n_ricorrenze": 119,
+"n_ricorrenze": 130,
 "nome": "Rostkirche",
 "prima_apparizione": 16,
 "prosa": null,
@@ -1081,6 +1081,105 @@
 "riga_id": "CYB-PER-0046",
 "riga_tipo": "personaggio",
 "riga_titolo": "Elke Brandt"
+},
+{
+"estrazione": 126,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 126,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0051",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Secchiello di Fondo"
+},
+{
+"estrazione": 126,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0052",
+"riga_tipo": "gadget",
+"riga_titolo": "La Tessera del Turno"
+},
+{
+"estrazione": 126,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0053",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Barattolo di Scaglie"
+},
+{
+"estrazione": 126,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0054",
+"riga_tipo": "gadget",
+"riga_titolo": "I Gettoni del Turno d'Anima"
+},
+{
+"estrazione": 126,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0055",
+"riga_tipo": "gadget",
+"riga_titolo": "Lo Specchietto Riverniciato"
+},
+{
+"estrazione": 126,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0056",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Lettore di Deriva"
+},
+{
+"estrazione": 126,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0057",
+"riga_tipo": "gadget",
+"riga_titolo": "La Vernice di Wilhelm"
+},
+{
+"estrazione": 126,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0058",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Diapason di Registrazione"
+},
+{
+"estrazione": 126,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0059",
+"riga_tipo": "gadget",
+"riga_titolo": "L'Antenna da Tasca"
+},
+{
+"estrazione": 126,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0060",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Bollino Muto"
 }
 ],
 "righe": [
@@ -1318,6 +1417,56 @@
 "id": "CYB-GAD-0050",
 "tipo": "gadget",
 "titolo": "Il Modello Unico"
+},
+{
+"id": "CYB-GAD-0051",
+"tipo": "gadget",
+"titolo": "Il Secchiello di Fondo"
+},
+{
+"id": "CYB-GAD-0052",
+"tipo": "gadget",
+"titolo": "La Tessera del Turno"
+},
+{
+"id": "CYB-GAD-0053",
+"tipo": "gadget",
+"titolo": "Il Barattolo di Scaglie"
+},
+{
+"id": "CYB-GAD-0054",
+"tipo": "gadget",
+"titolo": "I Gettoni del Turno d'Anima"
+},
+{
+"id": "CYB-GAD-0055",
+"tipo": "gadget",
+"titolo": "Lo Specchietto Riverniciato"
+},
+{
+"id": "CYB-GAD-0056",
+"tipo": "gadget",
+"titolo": "Il Lettore di Deriva"
+},
+{
+"id": "CYB-GAD-0057",
+"tipo": "gadget",
+"titolo": "La Vernice di Wilhelm"
+},
+{
+"id": "CYB-GAD-0058",
+"tipo": "gadget",
+"titolo": "Il Diapason di Registrazione"
+},
+{
+"id": "CYB-GAD-0059",
+"tipo": "gadget",
+"titolo": "L'Antenna da Tasca"
+},
+{
+"id": "CYB-GAD-0060",
+"tipo": "gadget",
+"titolo": "Il Bollino Muto"
 },
 {
 "id": "CYB-INV-0052",

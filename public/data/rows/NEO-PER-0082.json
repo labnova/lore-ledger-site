@@ -3,7 +3,9 @@
 "orientamento": "asessuale",
 "situazione": "promesso_per_contratto"
 },
-"appare_in": [],
+"appare_in": [
+"2026-09-18-le-venature-sbagliate"
+],
 "casta": "contadini",
 "ceppo": "scandinavo",
 "cognome": "Nornestrand",
@@ -13,7 +15,15 @@
 "epoca_relativa": 0,
 "estrazione": 112,
 "eta_fascia": "giovane",
-"fatti": [],
+"fatti": [
+{
+"id": "NEO-FAT-35384810230-5",
+"momento": 5,
+"stabilito_da": "2026-09-18-le-venature-sbagliate",
+"testo": "Emil Nornestrand ha venduto a Yuki Draak, per una misura di grano, una lettera che dichiara sicura la terza notte dopo la luna nuova; Nuru Mwatu la ricopia a pagamento e a Calvenna circola un calendario scritto delle notti sicure.",
+"tipo_fatto": "evento"
+}
+],
 "gancio": "Chi ha comprato le sue letture ha smesso di uscire nei campi nelle notti di luna nuova, convinto che i rulli della Ruota si allineino secondo un calendario che solo Emil sa leggere.",
 "id": "NEO-PER-0082",
 "invenzione_id": "NEO-INV-0017",

@@ -3,7 +3,7 @@
 "alias": [],
 "descrizione": "Corporazione che rilascia il Bollino di restauro autorizzato a Vetrasca, validando ogni facciata contro l'archivio delle posizioni orbitali registrato al momento della sua ultima ristrutturazione.",
 "ha_prosa": false,
-"n_ricorrenze": 51,
+"n_ricorrenze": 57,
 "nome": "Parallasse Certificazioni™",
 "prima_apparizione": 78,
 "prosa": null,
@@ -467,6 +467,60 @@
 "riga_id": "CYB-INV-0117",
 "riga_tipo": "invenzione",
 "riga_titolo": "Il Reagente da Cui Non Si Torna"
+},
+{
+"estrazione": 126,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 126,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0051",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Secchiello di Fondo"
+},
+{
+"estrazione": 126,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0052",
+"riga_tipo": "gadget",
+"riga_titolo": "La Tessera del Turno"
+},
+{
+"estrazione": 126,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0055",
+"riga_tipo": "gadget",
+"riga_titolo": "Lo Specchietto Riverniciato"
+},
+{
+"estrazione": 126,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0057",
+"riga_tipo": "gadget",
+"riga_titolo": "La Vernice di Wilhelm"
+},
+{
+"estrazione": 126,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0060",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Bollino Muto"
 }
 ],
 "righe": [
@@ -549,6 +603,31 @@
 "id": "CYB-GAD-0050",
 "tipo": "gadget",
 "titolo": "Il Modello Unico"
+},
+{
+"id": "CYB-GAD-0051",
+"tipo": "gadget",
+"titolo": "Il Secchiello di Fondo"
+},
+{
+"id": "CYB-GAD-0052",
+"tipo": "gadget",
+"titolo": "La Tessera del Turno"
+},
+{
+"id": "CYB-GAD-0055",
+"tipo": "gadget",
+"titolo": "Lo Specchietto Riverniciato"
+},
+{
+"id": "CYB-GAD-0057",
+"tipo": "gadget",
+"titolo": "La Vernice di Wilhelm"
+},
+{
+"id": "CYB-GAD-0060",
+"tipo": "gadget",
+"titolo": "Il Bollino Muto"
 },
 {
 "id": "CYB-INV-0050",

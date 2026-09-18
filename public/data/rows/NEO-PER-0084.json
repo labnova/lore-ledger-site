@@ -1,6 +1,8 @@
 {
 "affettivo": null,
-"appare_in": [],
+"appare_in": [
+"2026-09-18-le-venature-sbagliate"
+],
 "casta": "contadini",
 "ceppo": "swahili",
 "cognome": "Rako",
@@ -10,7 +12,15 @@
 "epoca_relativa": 0,
 "estrazione": 112,
 "eta_fascia": "adolescente",
-"fatti": [],
+"fatti": [
+{
+"id": "NEO-FAT-35384810230-10",
+"momento": 10,
+"stabilito_da": "2026-09-18-le-venature-sbagliate",
+"testo": "Sefu Rako tiene in coda al suo quaderno delle combinazioni la recensione del Bestiario delle Sette Notti, trattato che non esiste.",
+"tipo_fatto": "stato"
+}
+],
 "gancio": "Il suo quaderno di combinazioni è più preciso di qualsiasi registro di corte, ma nessuno gli crede quando dice di sentire un ordine nella sequenza degli animali.",
 "id": "NEO-PER-0084",
 "invenzione_id": "NEO-INV-0017",

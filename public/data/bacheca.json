@@ -1,6 +1,53 @@
 [
 {
 "chiusa_il": null,
+"creata": "2026-09-18T19:21:06Z",
+"esito": null,
+"id": "BAC-35384810230-1",
+"payload": {
+"cluster": "NEO-INV-0017",
+"racconto": "2026-09-18-le-venature-sbagliate",
+"regione": "Calvenna",
+"titolo": "Le venature sbagliate"
+},
+"postata_da": "giudizio",
+"presa_da": null,
+"presa_il": null,
+"priorita": 1,
+"racconto": "2026-09-18-le-venature-sbagliate",
+"righe": [
+"NEO-INV-0017",
+"NEO-PER-0081",
+"NEO-PER-0082",
+"NEO-PER-0083",
+"NEO-PER-0084",
+"NEO-PER-0085",
+"NEO-PER-0086",
+"NEO-PER-0087",
+"NEO-PER-0088",
+"NEO-PER-0089",
+"NEO-PER-0090",
+"NEO-GAD-0093",
+"NEO-SEM-0006"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "giudizio",
+"da": "giudizio",
+"quando": "2026-09-18T19:21:06Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_copertina",
+"universi": [
+"neofeudal"
+]
+},
+{
+"chiusa_il": null,
 "creata": "2026-09-16T19:28:29Z",
 "esito": null,
 "id": "BAC-35139219618-3",
@@ -59,6 +106,54 @@
 "tipo": "pubblicazione",
 "universi": [
 "hackverse"
+]
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-18T19:21:06Z",
+"esito": null,
+"id": "BAC-35384810230-3",
+"payload": {
+"cluster": "NEO-INV-0017",
+"punteggio": 70,
+"racconto": "2026-09-18-le-venature-sbagliate",
+"regione": "Calvenna",
+"titolo": "Le venature sbagliate"
+},
+"postata_da": "giudizio",
+"presa_da": null,
+"presa_il": null,
+"priorita": 2,
+"racconto": "2026-09-18-le-venature-sbagliate",
+"righe": [
+"NEO-INV-0017",
+"NEO-PER-0081",
+"NEO-PER-0082",
+"NEO-PER-0083",
+"NEO-PER-0084",
+"NEO-PER-0085",
+"NEO-PER-0086",
+"NEO-PER-0087",
+"NEO-PER-0088",
+"NEO-PER-0089",
+"NEO-PER-0090",
+"NEO-GAD-0093",
+"NEO-SEM-0006"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "giudizio",
+"da": "giudizio",
+"quando": "2026-09-18T19:21:06Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "pubblicazione",
+"universi": [
+"neofeudal"
 ]
 },
 {
@@ -3488,6 +3583,135 @@
 },
 {
 "chiusa_il": null,
+"creata": "2026-09-18T18:43:45Z",
+"esito": null,
+"id": "BAC-35381835033-1",
+"payload": {
+"bozza": "Altarpiece scene in registers: flat perspective, figures sized by rank not by distance, gold-leaf sky, painted architecture dividing the panel into compartments, tempera colours, dark outlines. Subject: Upendo Chalimbura — contadini — maturo — generoso. Fondo oro in foglia, lapislazzuli, rosso lacca, verde malachite, bianco di piombo per gli incarnati. Miniatura da codice o pala d'altare a fondo oro: prospettiva piatta o rovesciata, dimensione delle figure per gerarchia e non per distanza, aureole e cornici architettoniche dipinte, craquelure leggera. full shot profile side view, clean lines and geometric shapes --ar 4:3 --no photographic realism, naturalistic light, fantasy armour, dragons, taverns, steampunk gears, pseudo-latin lettering, blurred faces, 3D render, illegible lettering, watermark",
+"chiave": "m1",
+"contesto": "id: NEO-PER-0089\ntipo: personaggio\nuniverso: neofeudal\nestrazione: 112\ncreated: '2026-09-18'\nparent_id: null\nrelazione: null\nepoca_relativa: 0\nregione: NEO-REG-calvenna\nstatus: canon\nnome: Upendo\ncognome: Chalimbura\nceppo: swahili\ncasta: contadini\ninvenzione_id: NEO-INV-0017\nrapporto: falsifica\neta_fascia: maturo\nsegno: capricorno\ntratto: generoso\ndifetto: goloso\naffettivo:\n  orientamento: asessuale\n  situazione: sposato\nspirituale:\n  rapporto: mistico\n  credenza: dottrina_del_debito",
+"manifest": {
+"caricato_il": null,
+"creato": "2026-09-18",
+"id": "MED-35381835033-1",
+"note": "oggetto: Upendo Chalimbura; gancio: Le famiglie che aiuta non sanno che il prezzo reale dei suoi favori si misura in dispense sempre più vuote, non in monete.; contraddizione: Generosa al punto da truccare gratis la Ruota per le famiglie più povere di Calvenna, ma la sua golosità la spinge a farsi pagare in cibo dalle stesse famiglie, che finiscono con meno nella dispensa di quanto avrebbero avuto perdendo onestamente.; sref non fissato",
+"parametri": {
+"ar": "4:3",
+"atomi": [
+"ATM-35310512448-8",
+"ATM-35185545263-17"
+],
+"cref": null,
+"sref": null
+},
+"prompt": "Altarpiece scene in registers: flat perspective, figures sized by rank not by distance, gold-leaf sky, painted architecture dividing the panel into compartments, tempera colours, dark outlines. Subject: Upendo Chalimbura — contadini — maturo — generoso. Fondo oro in foglia, lapislazzuli, rosso lacca, verde malachite, bianco di piombo per gli incarnati. Miniatura da codice o pala d'altare a fondo oro: prospettiva piatta o rovesciata, dimensione delle figure per gerarchia e non per distanza, aureole e cornici architettoniche dipinte, craquelure leggera. full shot profile side view, clean lines and geometric shapes --ar 4:3 --no photographic realism, naturalistic light, fantasy armour, dragons, taverns, steampunk gears, pseudo-latin lettering, blurred faces, 3D render, illegible lettering, watermark",
+"sha256": null,
+"sorgente": {
+"ref": "NEO-PER-0089",
+"tipo": "riga"
+},
+"stato": "proposto",
+"strumento": "midjourney",
+"tipo": "scena",
+"universo": "neofeudal",
+"url": null
+},
+"strumento": "midjourney",
+"tipo": "scena"
+},
+"postata_da": "media-random",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"NEO-PER-0089"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "media-random",
+"da": "media-random",
+"quando": "2026-09-18T18:43:45Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_tavola",
+"universi": [
+"neofeudal"
+]
+},
+{
+"alternativa_dettaglio": null,
+"alternative": [],
+"auto_riferimento": false,
+"carta_madre": "BAC-35339254089-1",
+"chiusa_il": null,
+"contro_cercato_marcato": [
+{
+"auto_riferimento": false,
+"id": "CYB-INV-0032"
+},
+{
+"auto_riferimento": false,
+"id": "CYB-INV-0061"
+},
+{
+"auto_riferimento": false,
+"id": "ELA-CON-0002"
+},
+{
+"auto_riferimento": false,
+"id": "entita:neofeudal/anomalia/la-semina-dell-anno-storto"
+}
+],
+"creata": "2026-09-18T19:21:39Z",
+"esito": null,
+"id": "BAC-35385456832-1",
+"payload": {
+"alternativa_testo": null,
+"artefatto_alternativo": null,
+"carta_madre": "BAC-35339254089-1",
+"contraddizione_id": null,
+"contro_cercato": [
+"CYB-INV-0032",
+"CYB-INV-0061",
+"ELA-CON-0002",
+"entita:neofeudal/anomalia/la-semina-dell-anno-storto"
+],
+"lacuna": "prosa della scheda mai scritta: elenco, non prosa",
+"letto_a": "dc9502ad826c817580086b309a75f1adacb3107b",
+"posizione": "accolgo",
+"testo": "Ho cercato fra CYB-INV-0032 (già poc: true), CYB-INV-0061 (entita_usate: [] senza materia per una figlia) e la semina dell'anno storto: nessuna riga contraddice il riparatore. Prosa_entita è la mia forma, e Ikervíz con otto citazioni STE-GAD-0022…STE-GAD-0029 è l'unica lacuna con carne addosso: prosa mai scritta, non campi vuoti da riempire. Firmato: redattore."
+},
+"postata_da": "redattore",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"entita:steamverse/luogo/ikerviz"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "redattore",
+"da": "redattore",
+"quando": "2026-09-18T19:21:39Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "commento",
+"universi": [
+"steamverse"
+]
+},
+{
+"chiusa_il": null,
 "creata": "2026-09-15T23:21:24Z",
 "esito": null,
 "id": "BAC-35034876036-2",
@@ -3574,6 +3798,53 @@
 "tipo": "media_suono",
 "universi": [
 "hackverse"
+]
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-18T19:21:06Z",
+"esito": null,
+"id": "BAC-35384810230-2",
+"payload": {
+"cluster": "NEO-INV-0017",
+"racconto": "2026-09-18-le-venature-sbagliate",
+"regione": "Calvenna",
+"titolo": "Le venature sbagliate"
+},
+"postata_da": "giudizio",
+"presa_da": null,
+"presa_il": null,
+"priorita": 4,
+"racconto": "2026-09-18-le-venature-sbagliate",
+"righe": [
+"NEO-INV-0017",
+"NEO-PER-0081",
+"NEO-PER-0082",
+"NEO-PER-0083",
+"NEO-PER-0084",
+"NEO-PER-0085",
+"NEO-PER-0086",
+"NEO-PER-0087",
+"NEO-PER-0088",
+"NEO-PER-0089",
+"NEO-PER-0090",
+"NEO-GAD-0093",
+"NEO-SEM-0006"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "giudizio",
+"da": "giudizio",
+"quando": "2026-09-18T19:21:06Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_suono",
+"universi": [
+"neofeudal"
 ]
 },
 {

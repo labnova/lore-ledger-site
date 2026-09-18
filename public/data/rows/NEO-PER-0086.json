@@ -3,7 +3,9 @@
 "orientamento": "eterosessuale",
 "situazione": "separato"
 },
-"appare_in": [],
+"appare_in": [
+"2026-09-18-le-venature-sbagliate"
+],
 "casta": "contadini",
 "ceppo": "swahili",
 "cognome": "Mwindaji",
@@ -13,7 +15,15 @@
 "epoca_relativa": 0,
 "estrazione": 112,
 "eta_fascia": "adulto",
-"fatti": [],
+"fatti": [
+{
+"id": "NEO-FAT-35384810230-3",
+"momento": 3,
+"stabilito_da": "2026-09-18-le-venature-sbagliate",
+"testo": "Mosi Mwindaji trucca la Ruota tagliando i rulli con una lama stretta, non ridipingendoli, e il suo taglio ha portato via la punta dell'ala del Falco sul quarto rullo.",
+"tipo_fatto": "stato"
+}
+],
 "gancio": "Il campo del vicino invidiato rende ogni anno di meno, e nessuno sa che è la mano silenziosa di Mosi sui rulli a spegnere la sua fortuna, non la terra.",
 "id": "NEO-PER-0086",
 "invenzione_id": "NEO-INV-0017",

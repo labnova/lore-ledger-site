@@ -422,7 +422,9 @@
 "universo": "steamverse"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-18-le-venature-sbagliate"
+],
 "cluster": "NEO-INV-0017",
 "created": "2026-09-18",
 "estrazione": 117,
@@ -455,7 +457,9 @@
 "universo": "neofeudal"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-18-le-venature-sbagliate"
+],
 "chiavi": "contadini · pesci · curioso · giocatore",
 "created": "2026-09-18",
 "estrazione": 112,
@@ -470,7 +474,9 @@
 "universo": "neofeudal"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-18-le-venature-sbagliate"
+],
 "chiavi": "contadini · capricorno · generoso · goloso",
 "created": "2026-09-18",
 "estrazione": 112,
@@ -485,7 +491,9 @@
 "universo": "neofeudal"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-18-le-venature-sbagliate"
+],
 "chiavi": "contadini · leone · ospitale · vanitoso",
 "created": "2026-09-18",
 "estrazione": 112,
@@ -500,7 +508,9 @@
 "universo": "neofeudal"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-18-le-venature-sbagliate"
+],
 "chiavi": "contadini · sagittario · inventivo · incostante",
 "created": "2026-09-18",
 "estrazione": 112,
@@ -515,7 +525,9 @@
 "universo": "neofeudal"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-18-le-venature-sbagliate"
+],
 "chiavi": "contadini · toro · silenzioso · invidioso",
 "created": "2026-09-18",
 "estrazione": 112,
@@ -530,7 +542,9 @@
 "universo": "neofeudal"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-18-le-venature-sbagliate"
+],
 "chiavi": "contadini · bilancia · leale · crudele_per_distrazione",
 "created": "2026-09-18",
 "estrazione": 112,
@@ -545,7 +559,9 @@
 "universo": "neofeudal"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-18-le-venature-sbagliate"
+],
 "chiavi": "contadini · gemelli · sognatore · smemorato",
 "created": "2026-09-18",
 "estrazione": 112,
@@ -560,7 +576,9 @@
 "universo": "neofeudal"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-18-le-venature-sbagliate"
+],
 "chiavi": "contadini · vergine · ironico · vanitoso",
 "created": "2026-09-18",
 "estrazione": 112,
@@ -575,7 +593,9 @@
 "universo": "neofeudal"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-18-le-venature-sbagliate"
+],
 "chiavi": "contadini · ariete · sognatore · insonne",
 "created": "2026-09-18",
 "estrazione": 112,
@@ -590,7 +610,9 @@
 "universo": "neofeudal"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-18-le-venature-sbagliate"
+],
 "chiavi": "contadini · scorpione · leale · insonne",
 "created": "2026-09-18",
 "estrazione": 112,
@@ -643,7 +665,9 @@
 "universo": "neofeudal"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-18-le-venature-sbagliate"
+],
 "chiavi": "Emil Nornestrand, appeso alla cintola, estratto solo per i clienti paganti.",
 "created": "2026-09-18",
 "estrazione": 115,
@@ -2392,6 +2416,20 @@
 "tipo": "gadget",
 "titolo": "L'Occhio che Conta",
 "torsione": "sorveglianza-incorporata",
+"universo": "cyberverse"
+},
+{
+"appare_in": [],
+"chiavi": "audio · soundcloud · podcast_3min",
+"created": "2026-09-18",
+"estrazione": 127,
+"id": "CYB-CON-0003",
+"parent_id": null,
+"regione": null,
+"relazione": null,
+"sommario": "Podcast \"Il Bollino Quasi Vero\": il copione dietro la puntata",
+"tipo": "contenuto",
+"titolo": "Podcast \"Il Bollino Quasi Vero\": il copione dietro la puntata",
 "universo": "cyberverse"
 },
 {
@@ -16476,7 +16514,9 @@
 "universo": "neofeudal"
 },
 {
-"appare_in": [],
+"appare_in": [
+"2026-09-18-le-venature-sbagliate"
+],
 "chiavi": "zoologia × gioco_azzardo",
 "created": "2026-09-12",
 "estrazione": 1,

@@ -1,0 +1,20 @@
+{
+"branch": "main",
+"cluster": "NEO-INV-0017",
+"created": "2026-09-18",
+"id": "NEO-FAT-35384810230-5",
+"momento": 5,
+"reversibile": true,
+"schema_version": 1,
+"soggetti": [
+"NEO-PER-0082",
+"NEO-PER-0087",
+"NEO-PER-0088"
+],
+"stabilito_da": "2026-09-18-le-venature-sbagliate",
+"status": "canon",
+"testo": "Emil Nornestrand ha venduto a Yuki Draak, per una misura di grano, una lettera che dichiara sicura la terza notte dopo la luna nuova; Nuru Mwatu la ricopia a pagamento e a Calvenna circola un calendario scritto delle notti sicure.",
+"tipo": "fatto",
+"tipo_fatto": "evento",
+"universo": "neofeudal"
+}

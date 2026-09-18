@@ -3,7 +3,9 @@
 "orientamento": "bisessuale",
 "situazione": "sposato"
 },
-"appare_in": [],
+"appare_in": [
+"2026-09-18-le-venature-sbagliate"
+],
 "casta": "contadini",
 "ceppo": "ibrido",
 "cognome": "Zurgin",
@@ -13,7 +15,15 @@
 "epoca_relativa": 0,
 "estrazione": 112,
 "eta_fascia": "adulto",
-"fatti": [],
+"fatti": [
+{
+"id": "NEO-FAT-35384810230-9",
+"momento": 9,
+"stabilito_da": "2026-09-18-le-venature-sbagliate",
+"testo": "Ksenia Zurgin ha riconosciuto sul quarto rullo un taglio di lama non suo e ha dichiarato comunque intatta la Ruota, senza consegnare nomi a corte.",
+"tipo_fatto": "evento"
+}
+],
 "gancio": "Nessuno dei fedeli sa che le venature che dice di leggere come segni del giudizio nel legno della Ruota sono soltanto i tagli del suo scalpello.",
 "id": "NEO-PER-0083",
 "invenzione_id": "NEO-INV-0017",

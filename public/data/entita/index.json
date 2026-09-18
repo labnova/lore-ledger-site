@@ -1,6 +1,20 @@
 [
 {
 "alias": [
+"CYB-REG-rostkirche"
+],
+"descrizione": "Accampamento di nomadi urbani cresciuto attorno a uno snodo ferroviario dismesso ai margini del distretto trapianti; i cognomi restano legati ai mestieri di chi ci transitava prima del collasso della linea, e se ne guadagna uno nuovo solo restando abbastanza a lungo.",
+"ha_prosa": false,
+"nome": "Rostkirche",
+"prima_apparizione": 16,
+"ricorrenze": 130,
+"slug": "rostkirche",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "cyberverse"
+},
+{
+"alias": [
 "NEO-REG-calvenna"
 ],
 "descrizione": "borgo chiuso; la bottega mutila e invecchia, i giovani non restano; Madre Iselda tiene registri segreti delle nascite",
@@ -12,20 +26,6 @@
 "sopra_soglia": true,
 "tipo": "luogo",
 "universo": "neofeudal"
-},
-{
-"alias": [
-"CYB-REG-rostkirche"
-],
-"descrizione": "Accampamento di nomadi urbani cresciuto attorno a uno snodo ferroviario dismesso ai margini del distretto trapianti; i cognomi restano legati ai mestieri di chi ci transitava prima del collasso della linea, e se ne guadagna uno nuovo solo restando abbastanza a lungo.",
-"ha_prosa": false,
-"nome": "Rostkirche",
-"prima_apparizione": 16,
-"ricorrenze": 119,
-"slug": "rostkirche",
-"sopra_soglia": true,
-"tipo": "luogo",
-"universo": "cyberverse"
 },
 {
 "alias": [
@@ -42,6 +42,18 @@
 "universo": "elabverse"
 },
 {
+"alias": [],
+"descrizione": "Corporazione che rilascia il Bollino di restauro autorizzato a Vetrasca, validando ogni facciata contro l'archivio delle posizioni orbitali registrato al momento della sua ultima ristrutturazione.",
+"ha_prosa": false,
+"nome": "Parallasse Certificazioni™",
+"prima_apparizione": 78,
+"ricorrenze": 57,
+"slug": "parallasse-certificazionitm",
+"sopra_soglia": true,
+"tipo": "ente",
+"universo": "cyberverse"
+},
+{
 "alias": [
 "NEO-REG-sarakan"
 ],
@@ -54,18 +66,6 @@
 "sopra_soglia": true,
 "tipo": "luogo",
 "universo": "neofeudal"
-},
-{
-"alias": [],
-"descrizione": "Corporazione che rilascia il Bollino di restauro autorizzato a Vetrasca, validando ogni facciata contro l'archivio delle posizioni orbitali registrato al momento della sua ultima ristrutturazione.",
-"ha_prosa": false,
-"nome": "Parallasse Certificazioni™",
-"prima_apparizione": 78,
-"ricorrenze": 51,
-"slug": "parallasse-certificazionitm",
-"sopra_soglia": true,
-"tipo": "ente",
-"universo": "cyberverse"
 },
 {
 "alias": [
@@ -250,10 +250,22 @@
 "ha_prosa": false,
 "nome": "Ivo Reinacher",
 "prima_apparizione": 78,
-"ricorrenze": 13,
+"ricorrenze": 15,
 "slug": "ivo-reinacher",
 "sopra_soglia": true,
 "tipo": "attore",
+"universo": "cyberverse"
+},
+{
+"alias": [],
+"descrizione": "Lo scarto crescente del faro orbitale di riferimento usato da Parallasse Certificazioni™, mai ricalibrato dopo le Faglie Sociali del 3167; ogni misura fatta con lui, dai bollini di restauro agli impianti di localizzazione, eredita lo stesso errore.",
+"ha_prosa": false,
+"nome": "La Deriva del Meridiano",
+"prima_apparizione": 78,
+"ricorrenze": 14,
+"slug": "la-deriva-del-meridiano",
+"sopra_soglia": true,
+"tipo": "anomalia",
 "universo": "cyberverse"
 },
 {
@@ -269,18 +281,6 @@
 "sopra_soglia": true,
 "tipo": "luogo",
 "universo": "neofeudal"
-},
-{
-"alias": [],
-"descrizione": "Lo scarto crescente del faro orbitale di riferimento usato da Parallasse Certificazioni™, mai ricalibrato dopo le Faglie Sociali del 3167; ogni misura fatta con lui, dai bollini di restauro agli impianti di localizzazione, eredita lo stesso errore.",
-"ha_prosa": false,
-"nome": "La Deriva del Meridiano",
-"prima_apparizione": 78,
-"ricorrenze": 12,
-"slug": "la-deriva-del-meridiano",
-"sopra_soglia": true,
-"tipo": "anomalia",
-"universo": "cyberverse"
 },
 {
 "alias": [

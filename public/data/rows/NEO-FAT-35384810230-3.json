@@ -1,0 +1,19 @@
+{
+"branch": "main",
+"cluster": "NEO-INV-0017",
+"created": "2026-09-18",
+"id": "NEO-FAT-35384810230-3",
+"momento": 3,
+"reversibile": true,
+"schema_version": 1,
+"soggetti": [
+"NEO-INV-0017",
+"NEO-PER-0086"
+],
+"stabilito_da": "2026-09-18-le-venature-sbagliate",
+"status": "canon",
+"testo": "Mosi Mwindaji trucca la Ruota tagliando i rulli con una lama stretta, non ridipingendoli, e il suo taglio ha portato via la punta dell'ala del Falco sul quarto rullo.",
+"tipo": "fatto",
+"tipo_fatto": "stato",
+"universo": "neofeudal"
+}
