@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Åsa lo tiene tra le cianfrusaglie del suo banco di patch e lo cede a chi le porta in dono per una lettura delle stelle, spacciandolo per un pezzo sopravvissuto alla Matrice originale.",
+"chi_paga": "un-terzo-ignaro",
+"cosa": "Timbro di cera che riproduce esattamente il rilievo ambiguo della Matrice Consumata, venduto come cimelio autentico della gilda dei cappellai.",
+"created": "2026-09-18",
+"entita_usate": [
+"La Matrice Consumata",
+"Rostkirche"
+],
+"epoca_relativa": 0,
+"estrazione": 119,
+"fatti": [],
+"gancio": "Un cappellaio di Rostkirche mostra con orgoglio il timbro ricevuto in eredità dal nonno, senza sapere che è uscito dal banco di Åsa appena due inverni prima.",
+"id": "CYB-GAD-0042",
+"invenzione_id": "CYB-INV-0092",
+"media": [],
+"nome": "Il Marchio Doppio",
+"oggetto": "Timbro di cera che riproduce il rilievo ambiguo della Matrice Consumata, spacciato per pezzo autentico della gilda dei cappellai.",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0035",
+"prod": true,
+"regione": "Meridiana Alta",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "falsificazione",
+"tradimento_tech": "Il timbro non riproduce né il marchio di Parallasse né quello della gilda, ma l'ambiguità stessa, così chi lo riceve può giurare di possedere l'uno o l'altro a seconda di chi ha davanti.",
+"universo": "cyberverse"
+}

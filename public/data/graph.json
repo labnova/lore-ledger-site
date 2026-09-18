@@ -86,6 +86,16 @@
 "to": "CYB-INV-0097"
 },
 {
+"from": "CYB-INV-0014",
+"kind": "parent",
+"to": "CYB-INV-0098"
+},
+{
+"from": "CYB-INV-0023",
+"kind": "parent",
+"to": "CYB-INV-0099"
+},
+{
 "from": "ELA-INV-0009",
 "kind": "parent",
 "to": "ELA-INV-0041"
@@ -1007,6 +1017,21 @@
 },
 {
 "from": "CYB-PER-0043",
+"kind": "regione",
+"to": "CYB-REG-meridiana-alta"
+},
+{
+"from": "CYB-PER-0042",
+"kind": "parent",
+"to": "CYB-PER-0044"
+},
+{
+"from": "CYB-PER-0044",
+"kind": "invenzione",
+"to": "CYB-INV-0029"
+},
+{
+"from": "CYB-PER-0044",
 "kind": "regione",
 "to": "CYB-REG-meridiana-alta"
 },
@@ -3964,6 +3989,156 @@
 "from": "CYB-GAD-0040",
 "kind": "regione",
 "to": "CYB-REG-rostkirche"
+},
+{
+"from": "CYB-GAD-0041",
+"kind": "invenzione",
+"to": "CYB-INV-0092"
+},
+{
+"from": "CYB-GAD-0041",
+"kind": "personaggio",
+"to": "CYB-PER-0035"
+},
+{
+"from": "CYB-GAD-0041",
+"kind": "regione",
+"to": "CYB-REG-meridiana-alta"
+},
+{
+"from": "CYB-GAD-0042",
+"kind": "invenzione",
+"to": "CYB-INV-0092"
+},
+{
+"from": "CYB-GAD-0042",
+"kind": "personaggio",
+"to": "CYB-PER-0035"
+},
+{
+"from": "CYB-GAD-0042",
+"kind": "regione",
+"to": "CYB-REG-meridiana-alta"
+},
+{
+"from": "CYB-GAD-0043",
+"kind": "invenzione",
+"to": "CYB-INV-0092"
+},
+{
+"from": "CYB-GAD-0043",
+"kind": "personaggio",
+"to": "CYB-PER-0035"
+},
+{
+"from": "CYB-GAD-0043",
+"kind": "regione",
+"to": "CYB-REG-meridiana-alta"
+},
+{
+"from": "CYB-GAD-0044",
+"kind": "invenzione",
+"to": "CYB-INV-0092"
+},
+{
+"from": "CYB-GAD-0044",
+"kind": "personaggio",
+"to": "CYB-PER-0035"
+},
+{
+"from": "CYB-GAD-0044",
+"kind": "regione",
+"to": "CYB-REG-meridiana-alta"
+},
+{
+"from": "CYB-GAD-0045",
+"kind": "invenzione",
+"to": "CYB-INV-0092"
+},
+{
+"from": "CYB-GAD-0045",
+"kind": "personaggio",
+"to": "CYB-PER-0035"
+},
+{
+"from": "CYB-GAD-0045",
+"kind": "regione",
+"to": "CYB-REG-meridiana-alta"
+},
+{
+"from": "CYB-GAD-0046",
+"kind": "invenzione",
+"to": "CYB-INV-0092"
+},
+{
+"from": "CYB-GAD-0046",
+"kind": "personaggio",
+"to": "CYB-PER-0035"
+},
+{
+"from": "CYB-GAD-0046",
+"kind": "regione",
+"to": "CYB-REG-meridiana-alta"
+},
+{
+"from": "CYB-GAD-0047",
+"kind": "invenzione",
+"to": "CYB-INV-0092"
+},
+{
+"from": "CYB-GAD-0047",
+"kind": "personaggio",
+"to": "CYB-PER-0035"
+},
+{
+"from": "CYB-GAD-0047",
+"kind": "regione",
+"to": "CYB-REG-meridiana-alta"
+},
+{
+"from": "CYB-GAD-0048",
+"kind": "invenzione",
+"to": "CYB-INV-0092"
+},
+{
+"from": "CYB-GAD-0048",
+"kind": "personaggio",
+"to": "CYB-PER-0035"
+},
+{
+"from": "CYB-GAD-0048",
+"kind": "regione",
+"to": "CYB-REG-meridiana-alta"
+},
+{
+"from": "CYB-GAD-0049",
+"kind": "invenzione",
+"to": "CYB-INV-0092"
+},
+{
+"from": "CYB-GAD-0049",
+"kind": "personaggio",
+"to": "CYB-PER-0035"
+},
+{
+"from": "CYB-GAD-0049",
+"kind": "regione",
+"to": "CYB-REG-meridiana-alta"
+},
+{
+"from": "CYB-GAD-0050",
+"kind": "invenzione",
+"to": "CYB-INV-0092"
+},
+{
+"from": "CYB-GAD-0050",
+"kind": "personaggio",
+"to": "CYB-PER-0035"
+},
+{
+"from": "CYB-GAD-0050",
+"kind": "regione",
+"to": "CYB-REG-meridiana-alta"
 },
 {
 "from": "ELA-GAD-0001",
@@ -7472,6 +7647,66 @@
 "universo": "cyberverse"
 },
 {
+"id": "CYB-GAD-0041",
+"tipo": "gadget",
+"titolo": "L'Occhio che Conta",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0042",
+"tipo": "gadget",
+"titolo": "Il Marchio Doppio",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0043",
+"tipo": "gadget",
+"titolo": "Gli Aghi Piccoli",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0044",
+"tipo": "gadget",
+"titolo": "Il Collirio delle Due Botteghe",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0045",
+"tipo": "gadget",
+"titolo": "Gli Occhiali che Allungano",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0046",
+"tipo": "gadget",
+"titolo": "Il Nome Raschiato",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0047",
+"tipo": "gadget",
+"titolo": "La Lampada che Non si Cambia",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0048",
+"tipo": "gadget",
+"titolo": "Il Calibro Cieco",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0049",
+"tipo": "gadget",
+"titolo": "Lo Spillo di Mira",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-GAD-0050",
+"tipo": "gadget",
+"titolo": "Il Modello Unico",
+"universo": "cyberverse"
+},
+{
 "id": "CYB-INV-0001",
 "tipo": "invenzione",
 "titolo": "Il Libro della Grazia",
@@ -8054,6 +8289,18 @@
 "universo": "cyberverse"
 },
 {
+"id": "CYB-INV-0098",
+"tipo": "invenzione",
+"titolo": "L'Eredità dei Gradini",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-INV-0099",
+"tipo": "invenzione",
+"titolo": "Il Gettone di Stagno",
+"universo": "cyberverse"
+},
+{
 "id": "CYB-PER-0001",
 "tipo": "personaggio",
 "titolo": "Eszter Etxeondo",
@@ -8309,6 +8556,12 @@
 "id": "CYB-PER-0043",
 "tipo": "personaggio",
 "titolo": "Asha Seremala",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-PER-0044",
+"tipo": "personaggio",
+"titolo": "Brigitte Hallenstein",
 "universo": "cyberverse"
 },
 {

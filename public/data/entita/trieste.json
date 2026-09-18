@@ -1,0 +1,184 @@
+{
+"aggiornata": "2026-09-18",
+"alias": [
+"HAC-REG-trieste"
+],
+"descrizione": "Porto franco all'incrocio tra Adriatico e Balcani, dove per secoli è passata la merce che non doveva lasciare traccia doganale: chi fa il corriere qui arriva da ogni rotta mediterranea e centroeuropea, nessun ceppo prevale e pochi portano il cognome del mestiere, perché la rotta si eredita per fiducia, non per sangue.",
+"ha_prosa": false,
+"n_ricorrenze": 12,
+"nome": "Trieste",
+"prima_apparizione": 118,
+"prosa": null,
+"racconti": [],
+"ricorrenze": [
+{
+"estrazione": 118,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 118,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0047",
+"riga_tipo": "personaggio",
+"riga_titolo": "Emil Engstad"
+},
+{
+"estrazione": 118,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0048",
+"riga_tipo": "personaggio",
+"riga_titolo": "Marina Mitoleova"
+},
+{
+"estrazione": 118,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0049",
+"riga_tipo": "personaggio",
+"riga_titolo": "Daichi Mumura"
+},
+{
+"estrazione": 118,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0050",
+"riga_tipo": "personaggio",
+"riga_titolo": "Thomas Kremhoff"
+},
+{
+"estrazione": 118,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0051",
+"riga_tipo": "personaggio",
+"riga_titolo": "Umut Demirteritaş"
+},
+{
+"estrazione": 118,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0052",
+"riga_tipo": "personaggio",
+"riga_titolo": "Layla Hitsujikai"
+},
+{
+"estrazione": 118,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0053",
+"riga_tipo": "personaggio",
+"riga_titolo": "Mária Kinyi"
+},
+{
+"estrazione": 118,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0054",
+"riga_tipo": "personaggio",
+"riga_titolo": "Farid Ramikawi"
+},
+{
+"estrazione": 118,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0055",
+"riga_tipo": "personaggio",
+"riga_titolo": "Naroa Irirrigaray"
+},
+{
+"estrazione": 118,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0056",
+"riga_tipo": "personaggio",
+"riga_titolo": "Hasina Ndumbumbo"
+},
+{
+"estrazione": 118,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-REG-trieste",
+"riga_tipo": "regione",
+"riga_titolo": "Trieste"
+}
+],
+"righe": [
+{
+"id": "HAC-PER-0047",
+"tipo": "personaggio",
+"titolo": "Emil Engstad"
+},
+{
+"id": "HAC-PER-0048",
+"tipo": "personaggio",
+"titolo": "Marina Mitoleova"
+},
+{
+"id": "HAC-PER-0049",
+"tipo": "personaggio",
+"titolo": "Daichi Mumura"
+},
+{
+"id": "HAC-PER-0050",
+"tipo": "personaggio",
+"titolo": "Thomas Kremhoff"
+},
+{
+"id": "HAC-PER-0051",
+"tipo": "personaggio",
+"titolo": "Umut Demirteritaş"
+},
+{
+"id": "HAC-PER-0052",
+"tipo": "personaggio",
+"titolo": "Layla Hitsujikai"
+},
+{
+"id": "HAC-PER-0053",
+"tipo": "personaggio",
+"titolo": "Mária Kinyi"
+},
+{
+"id": "HAC-PER-0054",
+"tipo": "personaggio",
+"titolo": "Farid Ramikawi"
+},
+{
+"id": "HAC-PER-0055",
+"tipo": "personaggio",
+"titolo": "Naroa Irirrigaray"
+},
+{
+"id": "HAC-PER-0056",
+"tipo": "personaggio",
+"titolo": "Hasina Ndumbumbo"
+},
+{
+"id": "HAC-REG-trieste",
+"tipo": "regione",
+"titolo": "Trieste"
+}
+],
+"slug": "trieste",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "hackverse"
+}

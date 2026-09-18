@@ -5,7 +5,7 @@
 ],
 "descrizione": "Hub baltico dell'e-residency e dei registri digitali statali, attira broker di dati da ogni continente: nessun ceppo prevale, i cognomi restano quelli d'origine perché qui si arriva già adulti, con una identità digitale costruita altrove.",
 "ha_prosa": false,
-"n_ricorrenze": 31,
+"n_ricorrenze": 32,
 "nome": "Tallinn",
 "prima_apparizione": 32,
 "prosa": null,
@@ -289,6 +289,15 @@
 "riga_id": "HAC-PER-0045",
 "riga_tipo": "personaggio",
 "riga_titolo": "Kiril Sokolov"
+},
+{
+"estrazione": 118,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0057",
+"riga_tipo": "personaggio",
+"riga_titolo": "Priit Kaldoja"
 }
 ],
 "righe": [
@@ -421,6 +430,11 @@
 "id": "HAC-PER-0045",
 "tipo": "personaggio",
 "titolo": "Kiril Sokolov"
+},
+{
+"id": "HAC-PER-0057",
+"tipo": "personaggio",
+"titolo": "Priit Kaldoja"
 },
 {
 "id": "HAC-REG-tallinn",

@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Åsa lo vende come pezzo unico ai figli dei corporati di Meridiana Alta, senza dire che l'apprendista che l'ha inciso ci ha lasciato dentro anche l'ultimo margine di vista che gli restava.",
+"chi_paga": "il-costruttore",
+"cosa": "Spillo da cappello inciso a mano con lo stesso punto fine richiesto per i Bollini minori, realizzato da un apprendista come lavoro proprio nelle ore fuori turno.",
+"created": "2026-09-18",
+"entita_usate": [
+"Parallasse Certificazioni™"
+],
+"epoca_relativa": 0,
+"estrazione": 119,
+"fatti": [],
+"gancio": "L'apprendista che ha inciso lo spillo lo cerca ancora tra le sue cose per rivederlo da vicino, ma da quando ha finito di lavorarlo non riesce più a metterlo a fuoco.",
+"id": "CYB-GAD-0049",
+"invenzione_id": "CYB-INV-0092",
+"media": [],
+"nome": "Lo Spillo di Mira",
+"oggetto": "Spillo da cappello inciso a mano con la stessa tecnica fine richiesta per i Bollini minori di Parallasse.",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0035",
+"prod": true,
+"regione": "Meridiana Alta",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "costo-umano-nascosto",
+"tradimento_tech": "Lo spillo è più fine di qualunque Bollino ufficiale perché l'apprendista, sapendo che sarebbe stato il suo ultimo lavoro di precisione, non si è risparmiato.",
+"universo": "cyberverse"
+}

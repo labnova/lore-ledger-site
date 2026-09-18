@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Åsa li scambia con le patch che vende, così un apprendista può iniziare a incidere due anni prima del permesso, senza che nessuno chieda età o licenza.",
+"chi_paga": "nessuno-apparentemente",
+"cosa": "Set di aghi da incisione a punta sottilissima, vietati sotto una certa età da un regolamento di Parallasse Certificazioni™ che nessuno fa rispettare in bottega.",
+"created": "2026-09-18",
+"entita_usate": [
+"Parallasse Certificazioni™"
+],
+"epoca_relativa": 0,
+"estrazione": 119,
+"fatti": [],
+"gancio": "Il regolamento che vieta gli aghi piccoli è appeso ancora in bottega, ingiallito, sotto lo scaffale dove ne tengono sempre una scatola aperta.",
+"id": "CYB-GAD-0043",
+"invenzione_id": "CYB-INV-0092",
+"media": [],
+"nome": "Gli Aghi Piccoli",
+"oggetto": "Set di aghi da incisione a punta sottile, il cui uso sotto una certa età è vietato da un regolamento mai davvero applicato.",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0035",
+"prod": false,
+"regione": "Meridiana Alta",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "divieto-ignorato",
+"tradimento_tech": "L'ago piccolo obbliga l'occhio a una messa a fuoco più vicina di quella per cui è stato progettato, e il regolamento che lo vieta esiste proprio perché lo si sapeva già molto prima di scriverlo.",
+"universo": "cyberverse"
+}

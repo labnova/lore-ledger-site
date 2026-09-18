@@ -1,0 +1,28 @@
+{
+"appare_in": [],
+"chi_paga": "la-comunita",
+"created": "2026-09-18",
+"discipline": [
+"religione/teologia",
+"chirurgia/trapiantologia"
+],
+"entita_usate": [],
+"epoca_relativa": 1,
+"estrazione": 119,
+"fatti": [],
+"gancio": "Una donna lascia in eredità i suoi gradini a uno sconosciuto scelto a caso sullo schermo il giorno prima del trapianto, e negli anni l'ospedale scopre che è diventata una pratica comune tra chi non ha nessuno a cui lasciarli davvero.",
+"id": "CYB-INV-0098",
+"media": [],
+"nome": "L'Eredità dei Gradini",
+"nome_reale": "Funzione dell'interfaccia del Purgatorio dei Trapiantati che permette di lasciare in eredità i propri gradini di priorità residui a un altro nome sulla lista, al momento del decesso o dell'uscita dalla coda.",
+"oggetto": "Funzione dell'interfaccia del Purgatorio dei Trapiantati che permette di lasciare in eredità i propri gradini di priorità residui a un altro paziente.",
+"parent_id": "CYB-INV-0014",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "eredita-lascito",
+"universo": "cyberverse"
+}

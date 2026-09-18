@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Åsa li rivende usati ai più piccoli del suo giro di patch, spacciandoli per un vantaggio - con quelli si vede meglio e si guadagna prima l'iniziazione al registro delle stelle.",
+"chi_paga": "il-futuro",
+"cosa": "Occhiali correttivi venduti da Parallasse Certificazioni™ come protezione per la vista degli apprendisti, in realtà tarati per permettere di incidere più a lungo prima che compaiano i sintomi.",
+"created": "2026-09-18",
+"entita_usate": [
+"Parallasse Certificazioni™"
+],
+"epoca_relativa": 0,
+"estrazione": 119,
+"fatti": [],
+"gancio": "Un incisore ormai cieco ricorda ancora il giorno in cui quegli occhiali gli avevano permesso di finire due tese in un solo turno, il doppio del suo record.",
+"id": "CYB-GAD-0045",
+"invenzione_id": "CYB-INV-0092",
+"media": [],
+"nome": "Gli Occhiali che Allungano",
+"oggetto": "Occhiali correttivi venduti come protezione per la vista degli apprendisti incisori del Bollino.",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0035",
+"prod": false,
+"regione": "Meridiana Alta",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "inversione-di-funzione",
+"tradimento_tech": "Più gli occhiali funzionano bene, più tardi arriva il primo segnale di cedimento, e quando arriva il danno è già troppo esteso per essere corretto.",
+"universo": "cyberverse"
+}

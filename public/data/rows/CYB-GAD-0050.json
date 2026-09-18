@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Åsa la include nei lotti che smercia agli apprendisti più giovani, insieme agli aghi, perché senza quella sagoma il Bollino non viene accettato da nessun ispettore Parallasse.",
+"chi_paga": "l-ambiente-gli-animali",
+"cosa": "Sagoma di misura in ottone che impone lo stesso passo di incisione per ogni Bollino minore, a prescindere dal cappello o dalla tesa su cui va applicato.",
+"created": "2026-09-18",
+"entita_usate": [
+"Rostkirche",
+"Parallasse Certificazioni™"
+],
+"epoca_relativa": 0,
+"estrazione": 119,
+"fatti": [],
+"gancio": "Nei canali sotto Rostkirche gli uccelli hanno imparato a nidificare tra le tese scartate perché non rispettavano la sagoma imposta da Parallasse Certificazioni™, e nessuno le ha mai rimosse.",
+"id": "CYB-GAD-0050",
+"invenzione_id": "CYB-INV-0092",
+"media": [],
+"nome": "Il Modello Unico",
+"oggetto": "Sagoma di misura in ottone che impone lo stesso passo di incisione a ogni Bollino minore, senza eccezioni.",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0035",
+"prod": false,
+"regione": "Meridiana Alta",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "standard-imposto",
+"tradimento_tech": "La sagoma impone una misura pensata per le teste di un secolo fa, così ogni tesa fuori standard va scartata e finisce accatastata nei canali dove nidificano gli uccelli di Rostkirche.",
+"universo": "cyberverse"
+}

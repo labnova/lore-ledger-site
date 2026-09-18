@@ -4826,5 +4826,72 @@
 "HAC-PER-0058"
 ],
 "universo": "hackverse"
+},
+{
+"ambientazione": "era-canonica-cyberverse",
+"campi_forzati": [],
+"canone_pescato": [
+"CYB-INV-0092",
+"CYB-PER-0035",
+"CYB-INV-0014",
+"CYB-INV-0023",
+"CYB-PER-0042"
+],
+"chiavi": {
+"invenzione_id": "CYB-INV-0092",
+"n_prod": 2,
+"personaggio_id": "CYB-PER-0035",
+"universo": "cyberverse"
+},
+"created": "2026-09-18",
+"entita": {
+"anomalia": {
+"descrizione": "Piastra da incisione usata da generazioni per stampare tanto il Bollino di Parallasse Certificazioni™ quanto il marchio della gilda dei cappellai di Rostkirche; il rilievo, consumato dall'uso, preme ormai un segno ambiguo che entrambe le autorità rivendicano come proprio.",
+"nome": "La Matrice Consumata"
+},
+"attore": {
+"descrizione": "Rigattiere di Rostkirche che smercia sestanti orbitali dismessi e Bollini Parallasse contraffatti a chi non può permettersi un restauro certificato.",
+"nome": "Ivo Reinacher"
+},
+"ente": {
+"descrizione": "Corporazione che rilascia il Bollino di restauro autorizzato a Vetrasca, validando ogni facciata contro l'archivio delle posizioni orbitali registrato al momento della sua ultima ristrutturazione.",
+"nome": "Parallasse Certificazioni™"
+},
+"luogo": {
+"descrizione": "Accampamento di nomadi urbani cresciuto attorno a uno snodo ferroviario dismesso ai margini del distretto trapianti; i cognomi restano legati ai mestieri di chi ci transitava prima del collasso della linea, e se ne guadagna uno nuovo solo restando abbastanza a lungo.",
+"nome": "Rostkirche"
+}
+},
+"esito": "ok",
+"espansioni": [
+"CYB-INV-0098",
+"CYB-INV-0099",
+"CYB-PER-0044"
+],
+"estrazione": 119,
+"estrazione_madre": 103,
+"forzata": false,
+"lotto": "lotto-gadget",
+"modello": "claude-sonnet-5",
+"prod": [
+"CYB-GAD-0042",
+"CYB-GAD-0049"
+],
+"righe_prodotte": [
+"CYB-GAD-0041",
+"CYB-GAD-0042",
+"CYB-GAD-0043",
+"CYB-GAD-0044",
+"CYB-GAD-0045",
+"CYB-GAD-0046",
+"CYB-GAD-0047",
+"CYB-GAD-0048",
+"CYB-GAD-0049",
+"CYB-GAD-0050",
+"CYB-INV-0098",
+"CYB-INV-0099",
+"CYB-PER-0044"
+],
+"universo": "cyberverse"
 }
 ]

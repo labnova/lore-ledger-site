@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Åsa la tiene appesa al banco come richiamo nostalgico per i vecchi clienti, ma continua a bruciare l'olio grezzo che i canali di Rostkirche assorbono da una stagione all'altra.",
+"chi_paga": "l-ambiente-gli-animali",
+"cosa": "Visiera con lente e lampada a olio grezzo, superata dai modelli a luce fredda ma tenuta in uso in bottega perché cambiarla vorrebbe dire ammettere che il lavoro fatto sotto quella luce non contava.",
+"created": "2026-09-18",
+"entita_usate": [
+"Rostkirche"
+],
+"epoca_relativa": 0,
+"estrazione": 119,
+"fatti": [],
+"gancio": "Il vecchio che ancora sa riparare la lampada a olio si rifiuta di insegnare il procedimento a chiunque, così quando lui non ci sarà più le ultime resteranno accese finché dureranno da sole.",
+"id": "CYB-GAD-0047",
+"invenzione_id": "CYB-INV-0092",
+"media": [],
+"nome": "La Lampada che Non si Cambia",
+"oggetto": "Visiera con lente e lampada a olio grezzo, modello superato ma ancora in uso in diverse botteghe di Rostkirche.",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0035",
+"prod": false,
+"regione": "Meridiana Alta",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "obsolescenza",
+"tradimento_tech": "Nessuno ha mai calcolato quanto olio bruciato sia finito nei canali sotto Rostkirche, perché nessun regolamento di Parallasse obbliga a misurarlo su una lampada ormai considerata un cimelio.",
+"universo": "cyberverse"
+}

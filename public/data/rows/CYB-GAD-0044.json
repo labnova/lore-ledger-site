@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Åsa lo compra a fiale dagli apprendisti di Rostkirche e ne rivende metà come balsamo per gli occhi, metà come base per le patch che promettono di accecare i sensori della Sentinella Termica.",
+"chi_paga": "la-comunita",
+"cosa": "Collirio oleoso distillato per calmare gli occhi affaticati degli incisori, la cui stessa base finisce anche nelle patch che Åsa smercia sottobanco.",
+"created": "2026-09-18",
+"entita_usate": [
+"Rostkirche"
+],
+"epoca_relativa": 0,
+"estrazione": 119,
+"fatti": [],
+"gancio": "In bottega nessuno collega mai le due file, quella degli incisori che comprano il collirio e quella dei genitori che pagano il medico quando la Sentinella smette di vederli entrare.",
+"id": "CYB-GAD-0044",
+"invenzione_id": "CYB-INV-0092",
+"media": [],
+"nome": "Il Collirio delle Due Botteghe",
+"oggetto": "Collirio oleoso distillato dagli apprendisti incisori per lenire gli occhi affaticati dal lavoro fine sui Bollini.",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0035",
+"prod": false,
+"regione": "Meridiana Alta",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "doppio-uso",
+"tradimento_tech": "La stessa formula che allevia il bruciore da incisione fine è anche ciò che disattiva temporaneamente un fotorecettore, e nessuna delle due botteghe sa che l'altra compra lo stesso ingrediente.",
+"universo": "cyberverse"
+}

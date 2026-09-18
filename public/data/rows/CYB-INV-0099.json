@@ -1,0 +1,28 @@
+{
+"appare_in": [],
+"chi_paga": "l-istituzione",
+"created": "2026-09-18",
+"discipline": [
+"religione/teologia",
+"chirurgia/trapiantologia"
+],
+"entita_usate": [],
+"epoca_relativa": 1,
+"estrazione": 119,
+"fatti": [],
+"gancio": "Un debitore paga con un gettone di stagno anziché con la rata ufficiale, e il registro della curia lo accetta comunque, perché un nome scritto in una casella vuota conta più del materiale con cui è stato pagato.",
+"id": "CYB-INV-0099",
+"media": [],
+"nome": "Il Gettone di Stagno",
+"nome_reale": "Gettone di indulgenza sostitutivo, di materiale scadente, usato da chi non può permettersi nemmeno una rata rivenduta sottocosto nel Baratto delle Rate.",
+"oggetto": "Gettone di indulgenza sostitutivo, di materiale scadente, usato da chi non può permettersi nemmeno una rata rivenduta sottocosto.",
+"parent_id": "CYB-INV-0023",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "sostituto-povero",
+"universo": "cyberverse"
+}

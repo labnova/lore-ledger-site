@@ -104,7 +104,7 @@
 "ha_prosa": false,
 "nome": "Tallinn",
 "prima_apparizione": 32,
-"ricorrenze": 31,
+"ricorrenze": 32,
 "slug": "tallinn",
 "sopra_soglia": true,
 "tipo": "luogo",
@@ -178,6 +178,20 @@
 },
 {
 "alias": [
+"HAC-REG-singapore"
+],
+"descrizione": "Città-stato crocevia di capitali e dati tra Asia ed Europa, dove ogni broker arriva già con passaporto e cognome propri: nessun ceppo prevale e pochi portano il cognome del mestiere, perché qui l'identità si compra e si vende, non si eredita.",
+"ha_prosa": false,
+"nome": "Singapore",
+"prima_apparizione": 99,
+"ricorrenze": 23,
+"slug": "singapore",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "hackverse"
+},
+{
+"alias": [
 "HAC-REG-rotterdam"
 ],
 "descrizione": "Il porto più grande d'Europa smista container, turni di banchina e manifesti doganali ventiquattr'ore su ventiquattro: nessun ceppo prevale perché la manodopera arriva da ogni rotta commerciale, e chi diventa corriere qui porta il cognome della città da cui è partito, non di quella in cui ha attraccato.",
@@ -186,20 +200,6 @@
 "prima_apparizione": 43,
 "ricorrenze": 22,
 "slug": "rotterdam",
-"sopra_soglia": true,
-"tipo": "luogo",
-"universo": "hackverse"
-},
-{
-"alias": [
-"HAC-REG-singapore"
-],
-"descrizione": "Città-stato crocevia di capitali e dati tra Asia ed Europa, dove ogni broker arriva già con passaporto e cognome propri: nessun ceppo prevale e pochi portano il cognome del mestiere, perché qui l'identità si compra e si vende, non si eredita.",
-"ha_prosa": false,
-"nome": "Singapore",
-"prima_apparizione": 99,
-"ricorrenze": 22,
-"slug": "singapore",
 "sopra_soglia": true,
 "tipo": "luogo",
 "universo": "hackverse"
@@ -257,6 +257,20 @@
 "sopra_soglia": true,
 "tipo": "luogo",
 "universo": "cyberverse"
+},
+{
+"alias": [
+"HAC-REG-trieste"
+],
+"descrizione": "Porto franco all'incrocio tra Adriatico e Balcani, dove per secoli è passata la merce che non doveva lasciare traccia doganale: chi fa il corriere qui arriva da ogni rotta mediterranea e centroeuropea, nessun ceppo prevale e pochi portano il cognome del mestiere, perché la rotta si eredita per fiducia, non per sangue.",
+"ha_prosa": false,
+"nome": "Trieste",
+"prima_apparizione": 118,
+"ricorrenze": 12,
+"slug": "trieste",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "hackverse"
 },
 {
 "alias": [],

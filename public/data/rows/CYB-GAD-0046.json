@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Åsa lo porta cucito nella fodera del mantello del culto e lo mostra solo a chi le paga in anticipo una lettura, come prova che il registro delle stelle non è l'unico a tenere il conto dei nomi cancellati.",
+"chi_paga": "l-inventore-originario",
+"cosa": "Medaglione di rame inciso col nome del primo apprendista che mise a punto la tecnica del Bollino minore, oggi vietato da esporre perché Parallasse Certificazioni™ ne rivendica la paternità.",
+"created": "2026-09-18",
+"entita_usate": [
+"Parallasse Certificazioni™",
+"Rostkirche"
+],
+"epoca_relativa": 0,
+"estrazione": 119,
+"fatti": [],
+"gancio": "A Rostkirche non si pronuncia più ad alta voce il nome sul medaglione, da quando un ispettore Parallasse ha confiscato tre copie nello stesso mese.",
+"id": "CYB-GAD-0046",
+"invenzione_id": "CYB-INV-0092",
+"media": [],
+"nome": "Il Nome Raschiato",
+"oggetto": "Medaglione di rame inciso col nome del primo apprendista inventore della tecnica del Bollino minore.",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0035",
+"prod": false,
+"regione": "Meridiana Alta",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "censura",
+"tradimento_tech": "Il nome sul medaglione è stato raschiato dai registri ufficiali di Parallasse tre anni dopo la sua morte, quando la tecnica era ormai troppo redditizia per restare legata a un solo apprendista.",
+"universo": "cyberverse"
+}

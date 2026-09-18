@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Åsa la rivende ai figli dei corporati come cimelio da collezione, senza dire che il chip dentro la montatura continua a contare gli sguardi anche fuori dalla bottega.",
+"chi_paga": "l-utente-ultimo",
+"cosa": "Lente da incisione regalata da Parallasse Certificazioni™ agli apprendisti, con un chip di registro nascosto nella montatura che segna ogni sguardo affaticato.",
+"created": "2026-09-18",
+"entita_usate": [
+"Parallasse Certificazioni™",
+"Ivo Reinacher"
+],
+"epoca_relativa": 0,
+"estrazione": 119,
+"fatti": [],
+"gancio": "Un ex apprendista scopre da un tecnico di Ivo Reinacher che la sua vecchia lente ha continuato a segnalare ogni sguardo affaticato anche tre anni dopo che aveva smesso di incidere.",
+"id": "CYB-GAD-0041",
+"invenzione_id": "CYB-INV-0092",
+"media": [],
+"nome": "L'Occhio che Conta",
+"oggetto": "Lente d'incisione con montatura in ottone, dono ufficiale di Parallasse Certificazioni™ agli apprendisti del Bollino.",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0035",
+"prod": false,
+"regione": "Meridiana Alta",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "sorveglianza-incorporata",
+"tradimento_tech": "Il chip non misura la fatica per proteggere la vista dell'apprendista ma per calcolare fino a che punto lo si può spingere prima che serva sostituirlo.",
+"universo": "cyberverse"
+}

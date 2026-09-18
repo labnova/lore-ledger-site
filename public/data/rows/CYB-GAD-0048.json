@@ -1,0 +1,32 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Åsa fa da tramite tra il vecchio e Parallasse Certificazioni™, portando il calibro avanti e indietro dalla bottega di Rostkirche ogni volta che la matrice slitta fuori tolleranza.",
+"chi_paga": "l-istituzione",
+"cosa": "Calibro per tarare la pressione della Matrice Consumata sui Bollini minori, leggibile ormai solo al tatto da un vecchio incisore che ha perso la vista incidendoli.",
+"created": "2026-09-18",
+"entita_usate": [
+"Parallasse Certificazioni™",
+"La Matrice Consumata",
+"Rostkirche"
+],
+"epoca_relativa": 0,
+"estrazione": 119,
+"fatti": [],
+"gancio": "Il giorno che il vecchio si ammala, la produzione dei Bollini minori si ferma per una settimana intera perché nessun altro in Parallasse Certificazioni™ sa più leggere la Matrice Consumata a occhi chiusi.",
+"id": "CYB-GAD-0048",
+"invenzione_id": "CYB-INV-0092",
+"media": [],
+"nome": "Il Calibro Cieco",
+"oggetto": "Calibro per tarare la pressione della matrice dei Bollini minori, leggibile ormai solo al tatto.",
+"parent_id": null,
+"personaggio_id": "CYB-PER-0035",
+"prod": false,
+"regione": "Meridiana Alta",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "calibrazione",
+"tradimento_tech": "Parallasse ha automatizzato ogni altro passaggio della produzione tranne questo, perché nessun sensore legge la matrice consumata meglio delle dita di chi l'ha resa tale incidendola per anni.",
+"universo": "cyberverse"
+}

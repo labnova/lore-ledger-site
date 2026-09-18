@@ -1,11 +1,11 @@
 {
-"aggiornata": "2026-09-17",
+"aggiornata": "2026-09-18",
 "alias": [
 "HAC-REG-singapore"
 ],
 "descrizione": "Città-stato crocevia di capitali e dati tra Asia ed Europa, dove ogni broker arriva già con passaporto e cognome propri: nessun ceppo prevale e pochi portano il cognome del mestiere, perché qui l'identità si compra e si vende, non si eredita.",
 "ha_prosa": false,
-"n_ricorrenze": 22,
+"n_ricorrenze": 23,
 "nome": "Singapore",
 "prima_apparizione": 99,
 "prosa": null,
@@ -208,6 +208,15 @@
 "riga_id": "HAC-GAD-0012",
 "riga_tipo": "gadget",
 "riga_titolo": "La Doppia Etichetta"
+},
+{
+"estrazione": 118,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0058",
+"riga_tipo": "personaggio",
+"riga_titolo": "Mei-Ling Farrokhzad"
 }
 ],
 "righe": [
@@ -310,6 +319,11 @@
 "id": "HAC-PER-0042",
 "tipo": "personaggio",
 "titolo": "Hülya Taşçı"
+},
+{
+"id": "HAC-PER-0058",
+"tipo": "personaggio",
+"titolo": "Mei-Ling Farrokhzad"
 },
 {
 "id": "HAC-REG-singapore",
