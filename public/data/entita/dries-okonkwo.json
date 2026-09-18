@@ -1,0 +1,70 @@
+{
+"aggiornata": "2026-09-18",
+"alias": [],
+"descrizione": "Broker di banchina che smista carichi reefer fuori manifesto, firmware ricondizionato, dadi truccati per i tornei clandestini, partite di farmaci refrigerati rietichettati.",
+"ha_prosa": false,
+"n_ricorrenze": 4,
+"nome": "Dries Okonkwo",
+"prima_apparizione": 116,
+"prosa": null,
+"racconti": [],
+"ricorrenze": [
+{
+"estrazione": 116,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 116,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-INV-0077",
+"riga_tipo": "invenzione",
+"riga_titolo": "resincurve"
+},
+{
+"estrazione": 116,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-INV-0079",
+"riga_tipo": "invenzione",
+"riga_titolo": "seal2dice"
+},
+{
+"estrazione": 116,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-INV-0094",
+"riga_tipo": "invenzione",
+"riga_titolo": "deurregister"
+}
+],
+"righe": [
+{
+"id": "HAC-INV-0077",
+"tipo": "invenzione",
+"titolo": "resincurve"
+},
+{
+"id": "HAC-INV-0079",
+"tipo": "invenzione",
+"titolo": "seal2dice"
+},
+{
+"id": "HAC-INV-0094",
+"tipo": "invenzione",
+"titolo": "deurregister"
+}
+],
+"slug": "dries-okonkwo",
+"sopra_soglia": true,
+"tipo": "attore",
+"universo": "hackverse"
+}

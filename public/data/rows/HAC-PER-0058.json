@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "bisessuale",
+"situazione": "single"
+},
+"appare_in": [],
+"casta": "informatori",
+"ceppo": "ibrido",
+"cognome": "Farrokhzad",
+"contraddizione": "Fa il turno di notte all'Hub delle Voci ed è così vigile da accorgersi che certi orari spariscono dai tabulati prima che Tobias li impacchetti, ma la sua paranoia la convince che denunciarlo la esporrebbe più di lui, così si limita ad annotare in segreto ogni buco, senza mai usarlo.",
+"created": "2026-09-18",
+"difetto": "paranoico",
+"epoca_relativa": 1,
+"estrazione": 118,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Ha un elenco crescente di orari mancanti e nessuna idea di cosa farne se non il giorno in cui qualcuno le chiederà conto del suo silenzio.",
+"id": "HAC-PER-0058",
+"invenzione_id": "HAC-INV-0064",
+"media": [],
+"nome": "Mei-Ling",
+"parent_id": "HAC-PER-0039",
+"rapporto": "teme",
+"regione": "HAC-REG-singapore",
+"relazione": "espansione",
+"ritratto": null,
+"schema_version": 1,
+"segno": "vergine",
+"spirituale": {
+"credenza": "il_crollo_come_giudizio",
+"rapporto": "scettico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "vigile",
+"universo": "hackverse"
+}

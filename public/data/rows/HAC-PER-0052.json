@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "bisessuale",
+"situazione": "promesso_per_contratto"
+},
+"appare_in": [],
+"casta": "corrieri",
+"ceppo": "ibrido",
+"cognome": "Hitsujikai",
+"contraddizione": "Studia le pubblicazioni tecniche sul rilevatore di tremore per capire quali rotte doganali non lo hanno ancora installato, ma il fidanzamento combinato che la vincola a un socio della crew le lascia sempre meno sere libere per farlo, e il lavoro si accumula proprio mentre il vantaggio si consuma.",
+"created": "2026-09-18",
+"difetto": "indolente",
+"epoca_relativa": 0,
+"estrazione": 118,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Sa esattamente quale valico resterà cieco ancora per sei settimane, ma non ha ancora deciso se dirlo all'uomo a cui è stata promessa o a qualcun altro.",
+"id": "HAC-PER-0052",
+"invenzione_id": "HAC-INV-0075",
+"media": [],
+"nome": "Layla",
+"parent_id": null,
+"rapporto": "studia",
+"regione": "HAC-REG-trieste",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "bilancia",
+"spirituale": {
+"credenza": "culto_degli_antenati",
+"rapporto": "indifferente"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "sognatore",
+"universo": "hackverse"
+}

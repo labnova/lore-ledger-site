@@ -1,0 +1,21 @@
+{
+"appare_in": [],
+"ceppo_dominante": null,
+"created": "2026-09-18",
+"epoca_relativa": 0,
+"estrazione": 118,
+"fatti": [],
+"id": "HAC-REG-trieste",
+"media": [],
+"nome": "Trieste",
+"note": "Porto franco all'incrocio tra Adriatico e Balcani, dove per secoli è passata la merce che non doveva lasciare traccia doganale: chi fa il corriere qui arriva da ogni rotta mediterranea e centroeuropea, nessun ceppo prevale e pochi portano il cognome del mestiere, perché la rotta si eredita per fiducia, non per sangue.",
+"onomastica": "totale",
+"p_cognome_mestiere": 0.1,
+"parent_id": null,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "regione",
+"universo": "hackverse"
+}

@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"cluster": "NEO-INV-0017",
+"created": "2026-09-18",
+"epoca_relativa": 0,
+"estrazione": 117,
+"fatti": [],
+"id": "NEO-SEM-0006",
+"media": [],
+"origine": "arricchimento",
+"ostacolo": "Hasina Mwasimba, che sa inceppare i rulli meglio di chiunque altro, si offre di prendere il suo posto per una notte, ma il suo vizio di giocatrice la spinge a scommettere invece le monete della famiglia sulla combinazione vera, lasciando la Ruota libera di girare senza inganno proprio quando Furaha conta su di lei.",
+"parent_id": null,
+"premessa": "Furaha Nyakaye vuole continuare a ridipingere di notte i simboli sui rulli della Ruota dei Sette Animali, perché ogni combinazione che riesce a \"sbagliare\" è un vicino che non viene convocato a corte, anche se ogni notte insonne lo lascia più sfinito e i suoi solchi storti nei campi fanno vergognare la famiglia.",
+"regione": null,
+"relazione": null,
+"rottura": "Ksenia Zurgin, che ha intagliato di sua mano la cassa della Ruota e la venera in segreto come culto contro il Crollo, riconosce nelle venature \"sbagliate\" dei rulli i tagli di uno scalpello che non è il suo, e capisce che qualcuno sta truccando la macchina che lei stessa ha costruito e predica intoccabile.",
+"schema_version": 1,
+"status": "canon",
+"tipo": "seme",
+"tono": "veglia notturna, colpa che si tramanda",
+"universi": [
+"neofeudal"
+],
+"universo": "neofeudal"
+}

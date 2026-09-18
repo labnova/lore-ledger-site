@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "promesso_per_contratto"
+},
+"appare_in": [],
+"casta": "corrieri",
+"ceppo": "swahili",
+"cognome": "Ndumbumbo",
+"contraddizione": "Ha contribuito a costruire il vano nascosto che porta il rilevatore attraverso i controlli senza fare domande su chi lo userà dopo, ma è troppo protettiva per lasciar correre voci di lenti finite in occhi infiammati, e ha già iniziato a chiedere in giro più di quanto la crew le permetta.",
+"created": "2026-09-18",
+"difetto": "ingenuo",
+"epoca_relativa": 0,
+"estrazione": 118,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "Crede ancora che il cielo tenga i conti di chi fa del male con le mani di un altro, e sta cercando il nome di chi ha ordinato l'ultimo lotto.",
+"id": "HAC-PER-0056",
+"invenzione_id": "HAC-INV-0075",
+"media": [],
+"nome": "Hasina",
+"parent_id": null,
+"rapporto": "costruita",
+"regione": "HAC-REG-trieste",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "acquario",
+"spirituale": {
+"credenza": "il_cielo_amministrato",
+"rapporto": "funzionario_del_culto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "protettivo",
+"universo": "hackverse"
+}

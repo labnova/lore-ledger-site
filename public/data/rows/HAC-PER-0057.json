@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "relazione_segreta"
+},
+"appare_in": [],
+"casta": "funzionari",
+"ceppo": "germanico",
+"cognome": "Kaldoja",
+"contraddizione": "Il funzionario del registro civile che scambia dati di Rilascio Lento con Hülya in cambio di favori è un meticoloso per mestiere, ma davanti alla propria complicità è un codardo che continua a firmare i report che lei ha corretto, convinto che l'unica colpa reale sia quella che finisce scritta.",
+"created": "2026-09-18",
+"difetto": "codardo",
+"epoca_relativa": 1,
+"estrazione": 118,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "Ha già preparato una versione onesta dei registri, pronta a essere depositata il giorno in cui deciderà di smettere di avere paura di lei.",
+"id": "HAC-PER-0057",
+"invenzione_id": "HAC-INV-0037",
+"media": [],
+"nome": "Priit",
+"parent_id": "HAC-PER-0029",
+"rapporto": "teme",
+"regione": "HAC-REG-tallinn",
+"relazione": "espansione",
+"ritratto": null,
+"schema_version": 1,
+"segno": "cancro",
+"spirituale": {
+"credenza": "nessun_dio_solo_registri",
+"rapporto": "praticante_tiepido"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "meticoloso",
+"universo": "hackverse"
+}

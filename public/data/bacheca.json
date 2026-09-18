@@ -3000,6 +3000,197 @@
 },
 {
 "chiusa_il": null,
+"creata": "2026-09-18T06:54:13Z",
+"esito": null,
+"id": "BAC-35316901218-1",
+"payload": {
+"bozza": "Documentary still from a room or a street, 35 mm at eye level, available light, film grain, people mid-gesture, real clutter, nothing staged. Subject: Nadja Kari — broker di dati — bambino — meticoloso. Quella che c'è: luce disponibile, bilanciamento del bianco imperfetto, dominanti di lampada al tungsteno o di finestra grigia. Fotografia documentaria, reportage: scatto rubato o posato senza messa in scena, sfondo reale e ingombro, cavi, tazze, cartacce. ample natural light, prime lens 50mm, minimal editing, authentic unfiltered look, rule of thirds composition --ar 4:3 --no HUD, overlay, scrolling green code, hoodie in shadow, masks, terminal reflections in glasses, coloured LED lights, hacker poster aesthetic, illegible lettering, watermark",
+"chiave": "m1",
+"contesto": "id: HAC-PER-0035\ntipo: personaggio\nuniverso: hackverse\nestrazione: 99\ncreated: '2026-09-17'\nparent_id: null\nrelazione: null\nepoca_relativa: 0\nregione: HAC-REG-singapore\nstatus: canon\nschema_version: 1\nnome: Nadja\ncognome: Kari\nceppo: ibrido\ncasta: broker_di_dati\ninvenzione_id: HAC-INV-0064\nrapporto: falsifica\neta_fascia: bambino\nsegno: toro\ndifetto: insonne\ntratto: meticoloso\naffettivo: null\nspirituale:\n  rapporto: praticante_tiepido\n  credenza: dottrina_del_debito",
+"manifest": {
+"caricato_il": null,
+"creato": "2026-09-18",
+"id": "MED-35316901218-1",
+"note": "oggetto: Nadja Kari; gancio: Ha iniziato a scrivere su un quaderno suo, di nascosto, i nomi che ha cancellato, come se qualcuno dovesse un giorno restituirglieli.; contraddizione: Crede, anche se tiepidamente, nella dottrina del debito che sua nonna le ripete ogni sera, ma è lei, la più meticolosa della famiglia, a cancellare dal registro dell'Hub delle Voci i debiti di richiamo che nessuno deve più pagare.; sref non fissato",
+"parametri": {
+"ar": "4:3",
+"atomi": [
+"ATM-35310512448-30",
+"ATM-35310512448-40",
+"ATM-35310512448-60",
+"ATM-35185545263-2"
+],
+"cref": null,
+"sref": null
+},
+"prompt": "Documentary still from a room or a street, 35 mm at eye level, available light, film grain, people mid-gesture, real clutter, nothing staged. Subject: Nadja Kari — broker di dati — bambino — meticoloso. Quella che c'è: luce disponibile, bilanciamento del bianco imperfetto, dominanti di lampada al tungsteno o di finestra grigia. Fotografia documentaria, reportage: scatto rubato o posato senza messa in scena, sfondo reale e ingombro, cavi, tazze, cartacce. ample natural light, prime lens 50mm, minimal editing, authentic unfiltered look, rule of thirds composition --ar 4:3 --no HUD, overlay, scrolling green code, hoodie in shadow, masks, terminal reflections in glasses, coloured LED lights, hacker poster aesthetic, illegible lettering, watermark",
+"sha256": null,
+"sorgente": {
+"ref": "HAC-PER-0035",
+"tipo": "riga"
+},
+"stato": "proposto",
+"strumento": "midjourney",
+"tipo": "scena",
+"universo": "hackverse",
+"url": null
+},
+"strumento": "midjourney",
+"tipo": "scena"
+},
+"postata_da": "media-random",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"HAC-PER-0035"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "media-random",
+"da": "media-random",
+"quando": "2026-09-18T06:54:13Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_tavola",
+"universi": [
+"hackverse"
+]
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-18T06:54:14Z",
+"esito": null,
+"id": "BAC-35316901218-2",
+"payload": {
+"bozza": "Documentary photograph of an object where it actually sits on a worn desk among cables and cups, available light, film grain, no isolation, no styling, label with illegible product code. Subject: Il Listino delle Marze — Rivendita del dataset di compatibilità marza-organo a cliniche di trapianto non accreditate. Quella che c'è: luce disponibile, bilanciamento del bianco imperfetto, dominanti di lampada al tungsteno o di finestra grigia. Fotografia documentaria, reportage: scatto rubato o posato senza messa in scena, sfondo reale e ingombro, cavi, tazze, cartacce. golden light, full body, wide shot, natural, unedited background --ar 4:3 --no HUD, overlay, scrolling green code, hoodie in shadow, masks, terminal reflections in glasses, coloured LED lights, hacker poster aesthetic, illegible lettering, watermark",
+"chiave": "m2",
+"contesto": "id: HAC-INV-0044\ntipo: invenzione\nuniverso: hackverse\nestrazione: 32\ncreated: '2026-09-13'\nparent_id: HAC-INV-0002\nrelazione: espansione\nepoca_relativa: 1\nregione: null\nstatus: canon\nschema_version: 1\nnome_reale: Rivendita del dataset di compatibilità marza-organo a cliniche di trapianto non accreditate\nnome: Il Listino delle Marze\ndiscipline:\n- agricoltura/irrigazione\n- chirurgia/trapiantologia\npoc: true",
+"manifest": {
+"caricato_il": null,
+"creato": "2026-09-18",
+"id": "MED-35316901218-2",
+"note": "oggetto: Il Listino delle Marze; gancio: Un tecnico di laboratorio nota che due cliniche in città diverse hanno scartato lo stesso donatore nello stesso minuto, prima ancora che l'ospedale comunichi l'esito.; torsione: Un broker copia il database di compatibilità immunologica del software di innesto agricolo e lo rivende, etichettato come \"dataset botanico anonimo\", a una rete di cliniche private senza accesso ai registri ufficiali dei trapianti.; sref non fissato",
+"parametri": {
+"ar": "4:3",
+"atomi": [
+"ATM-35310512448-6",
+"ATM-35310512448-33",
+"ATM-35310512448-59"
+],
+"cref": null,
+"sref": null
+},
+"prompt": "Documentary photograph of an object where it actually sits on a worn desk among cables and cups, available light, film grain, no isolation, no styling, label with illegible product code. Subject: Il Listino delle Marze — Rivendita del dataset di compatibilità marza-organo a cliniche di trapianto non accreditate. Quella che c'è: luce disponibile, bilanciamento del bianco imperfetto, dominanti di lampada al tungsteno o di finestra grigia. Fotografia documentaria, reportage: scatto rubato o posato senza messa in scena, sfondo reale e ingombro, cavi, tazze, cartacce. golden light, full body, wide shot, natural, unedited background --ar 4:3 --no HUD, overlay, scrolling green code, hoodie in shadow, masks, terminal reflections in glasses, coloured LED lights, hacker poster aesthetic, illegible lettering, watermark",
+"sha256": null,
+"sorgente": {
+"ref": "HAC-INV-0044",
+"tipo": "riga"
+},
+"stato": "proposto",
+"strumento": "midjourney",
+"tipo": "tavola",
+"universo": "hackverse",
+"url": null
+},
+"strumento": "midjourney",
+"tipo": "tavola"
+},
+"postata_da": "media-random",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"HAC-INV-0044"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "media-random",
+"da": "media-random",
+"quando": "2026-09-18T06:54:14Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_tavola",
+"universi": [
+"hackverse"
+]
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-18T06:54:14Z",
+"esito": null,
+"id": "BAC-35316901218-3",
+"payload": {
+"bozza": "Documentary photograph of an object where it actually sits on a worn desk among cables and cups, available light, film grain, no isolation, no styling, label with illegible product code. Subject: Presa Istantanea — Smalto gel a fotopolimerizzazione UV. Quella che c'è: luce disponibile, bilanciamento del bianco imperfetto, dominanti di lampada al tungsteno o di finestra grigia. Fotografia documentaria, reportage: scatto rubato o posato senza messa in scena, sfondo reale e ingombro, cavi, tazze, cartacce. natural daylight through a window, full shot profile side view, film grain, analog photograph, candid, unstaged, spontaneous shot --ar 4:3 --no HUD, overlay, scrolling green code, hoodie in shadow, masks, terminal reflections in glasses, coloured LED lights, hacker poster aesthetic, illegible lettering, watermark",
+"chiave": "m3",
+"contesto": "id: HAC-INV-0029\ntipo: invenzione\nuniverso: hackverse\nestrazione: 23\ncreated: '2026-09-13'\nparent_id: null\nrelazione: null\nepoca_relativa: 0\nregione: null\nstatus: canon\nschema_version: 1\nnome_reale: Smalto gel a fotopolimerizzazione UV\nnome: Presa Istantanea\ndiscipline:\n- moda/cosmesi\n- ottica/lenti\npoc: false",
+"manifest": {
+"caricato_il": null,
+"creato": "2026-09-18",
+"id": "MED-35316901218-3",
+"note": "oggetto: Presa Istantanea; gancio: Un salone di bellezza diventa il posto più veloce in città per cambiare colore agli occhi prima di un controllo.; torsione: La resina che indurisce sotto lampada UV in pochi secondi per fissare uno smalto viene colata in stampi per lenti a contatto usa e getta, pronte in cabina in meno di un minuto.; sref non fissato",
+"parametri": {
+"ar": "4:3",
+"atomi": [
+"ATM-35059284514-9",
+"ATM-35310512448-8",
+"ATM-35310512448-31",
+"ATM-35310512448-58"
+],
+"cref": null,
+"sref": null
+},
+"prompt": "Documentary photograph of an object where it actually sits on a worn desk among cables and cups, available light, film grain, no isolation, no styling, label with illegible product code. Subject: Presa Istantanea — Smalto gel a fotopolimerizzazione UV. Quella che c'è: luce disponibile, bilanciamento del bianco imperfetto, dominanti di lampada al tungsteno o di finestra grigia. Fotografia documentaria, reportage: scatto rubato o posato senza messa in scena, sfondo reale e ingombro, cavi, tazze, cartacce. natural daylight through a window, full shot profile side view, film grain, analog photograph, candid, unstaged, spontaneous shot --ar 4:3 --no HUD, overlay, scrolling green code, hoodie in shadow, masks, terminal reflections in glasses, coloured LED lights, hacker poster aesthetic, illegible lettering, watermark",
+"sha256": null,
+"sorgente": {
+"ref": "HAC-INV-0029",
+"tipo": "riga"
+},
+"stato": "proposto",
+"strumento": "midjourney",
+"tipo": "tavola",
+"universo": "hackverse",
+"url": null
+},
+"strumento": "midjourney",
+"tipo": "tavola"
+},
+"postata_da": "media-random",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"HAC-INV-0029"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "media-random",
+"da": "media-random",
+"quando": "2026-09-18T06:54:14Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_tavola",
+"universi": [
+"hackverse"
+]
+},
+{
+"chiusa_il": null,
 "creata": "2026-09-15T23:21:24Z",
 "esito": null,
 "id": "BAC-35034876036-2",

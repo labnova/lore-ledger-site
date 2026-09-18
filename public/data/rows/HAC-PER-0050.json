@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "omosessuale",
+"situazione": "vedovo"
+},
+"appare_in": [],
+"casta": "corrieri",
+"ceppo": "germanico",
+"cognome": "Kremhoff",
+"contraddizione": "Ha aiutato a montare il primo prototipo portatile del rilevatore di tremore in un box container, ma il suo coraggio lo spinge a portarlo scoperto attraverso i controlli invece che smontato in pezzi innocui, convinto che nascondersi sia un'offesa al lavoro fatto.",
+"created": "2026-09-18",
+"difetto": "pedante",
+"epoca_relativa": 0,
+"estrazione": 118,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Crede che tutto torni, prima o poi, compreso il marito che ha perso, e per questo non ha ancora imparato ad avere paura dei posti di blocco.",
+"id": "HAC-PER-0050",
+"invenzione_id": "HAC-INV-0075",
+"media": [],
+"nome": "Thomas",
+"parent_id": null,
+"rapporto": "costruita",
+"regione": "HAC-REG-trieste",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "toro",
+"spirituale": {
+"credenza": "ciclo_del_ritorno",
+"rapporto": "eretico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "coraggioso",
+"universo": "hackverse"
+}

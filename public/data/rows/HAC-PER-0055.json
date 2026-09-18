@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "omosessuale",
+"situazione": "relazione_segreta"
+},
+"appare_in": [],
+"casta": "corrieri",
+"ceppo": "basco",
+"cognome": "Irirrigaray",
+"contraddizione": "Vende unità di scarto del rilevatore di tremore a chi vuole controllarsi in proprio prima di un varco, un traffico che vive di silenzio assoluto, ma i debiti di gioco la costringono a offrirlo sempre più spesso a gente che conosce appena, solo per coprire la puntata della settimana prima.",
+"created": "2026-09-18",
+"difetto": "giocatore",
+"epoca_relativa": 0,
+"estrazione": 118,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Tiene i conti del gioco in un quaderno diverso da quello delle vendite, ma da un mese i due si stanno confondendo.",
+"id": "HAC-PER-0055",
+"invenzione_id": "HAC-INV-0075",
+"media": [],
+"nome": "Naroa",
+"parent_id": null,
+"rapporto": "vende",
+"regione": "HAC-REG-trieste",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "sagittario",
+"spirituale": {
+"credenza": "dottrina_del_debito",
+"rapporto": "scettico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ospitale",
+"universo": "hackverse"
+}

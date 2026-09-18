@@ -291,6 +291,11 @@
 "to": "HAC-INV-0096"
 },
 {
+"from": "HAC-INV-0095",
+"kind": "parent",
+"to": "HAC-INV-0097"
+},
+{
 "from": "NEO-INV-0001",
 "kind": "regione",
 "to": "NEO-REG-calvenna"
@@ -1839,6 +1844,136 @@
 "from": "HAC-PER-0046",
 "kind": "regione",
 "to": "HAC-REG-rotterdam"
+},
+{
+"from": "HAC-PER-0047",
+"kind": "invenzione",
+"to": "HAC-INV-0075"
+},
+{
+"from": "HAC-PER-0047",
+"kind": "regione",
+"to": "HAC-REG-trieste"
+},
+{
+"from": "HAC-PER-0048",
+"kind": "invenzione",
+"to": "HAC-INV-0075"
+},
+{
+"from": "HAC-PER-0048",
+"kind": "regione",
+"to": "HAC-REG-trieste"
+},
+{
+"from": "HAC-PER-0049",
+"kind": "invenzione",
+"to": "HAC-INV-0075"
+},
+{
+"from": "HAC-PER-0049",
+"kind": "regione",
+"to": "HAC-REG-trieste"
+},
+{
+"from": "HAC-PER-0050",
+"kind": "invenzione",
+"to": "HAC-INV-0075"
+},
+{
+"from": "HAC-PER-0050",
+"kind": "regione",
+"to": "HAC-REG-trieste"
+},
+{
+"from": "HAC-PER-0051",
+"kind": "invenzione",
+"to": "HAC-INV-0075"
+},
+{
+"from": "HAC-PER-0051",
+"kind": "regione",
+"to": "HAC-REG-trieste"
+},
+{
+"from": "HAC-PER-0052",
+"kind": "invenzione",
+"to": "HAC-INV-0075"
+},
+{
+"from": "HAC-PER-0052",
+"kind": "regione",
+"to": "HAC-REG-trieste"
+},
+{
+"from": "HAC-PER-0053",
+"kind": "invenzione",
+"to": "HAC-INV-0075"
+},
+{
+"from": "HAC-PER-0053",
+"kind": "regione",
+"to": "HAC-REG-trieste"
+},
+{
+"from": "HAC-PER-0054",
+"kind": "invenzione",
+"to": "HAC-INV-0075"
+},
+{
+"from": "HAC-PER-0054",
+"kind": "regione",
+"to": "HAC-REG-trieste"
+},
+{
+"from": "HAC-PER-0055",
+"kind": "invenzione",
+"to": "HAC-INV-0075"
+},
+{
+"from": "HAC-PER-0055",
+"kind": "regione",
+"to": "HAC-REG-trieste"
+},
+{
+"from": "HAC-PER-0056",
+"kind": "invenzione",
+"to": "HAC-INV-0075"
+},
+{
+"from": "HAC-PER-0056",
+"kind": "regione",
+"to": "HAC-REG-trieste"
+},
+{
+"from": "HAC-PER-0029",
+"kind": "parent",
+"to": "HAC-PER-0057"
+},
+{
+"from": "HAC-PER-0057",
+"kind": "invenzione",
+"to": "HAC-INV-0037"
+},
+{
+"from": "HAC-PER-0057",
+"kind": "regione",
+"to": "HAC-REG-tallinn"
+},
+{
+"from": "HAC-PER-0039",
+"kind": "parent",
+"to": "HAC-PER-0058"
+},
+{
+"from": "HAC-PER-0058",
+"kind": "invenzione",
+"to": "HAC-INV-0064"
+},
+{
+"from": "HAC-PER-0058",
+"kind": "regione",
+"to": "HAC-REG-singapore"
 },
 {
 "from": "NEO-PER-0001",
@@ -6746,6 +6881,11 @@
 "to": "NEO-INV-0044"
 },
 {
+"from": "NEO-SEM-0006",
+"kind": "cluster",
+"to": "NEO-INV-0017"
+},
+{
 "from": "STE-SEM-0001",
 "kind": "cluster",
 "to": "STE-INV-0001"
@@ -10206,6 +10346,12 @@
 "universo": "hackverse"
 },
 {
+"id": "HAC-INV-0097",
+"tipo": "invenzione",
+"titolo": "Il Logger Che Ha Imparato a Mentire",
+"universo": "hackverse"
+},
+{
 "id": "HAC-PER-0001",
 "tipo": "personaggio",
 "titolo": "Misaki Ikaguchi",
@@ -10482,6 +10628,78 @@
 "universo": "hackverse"
 },
 {
+"id": "HAC-PER-0047",
+"tipo": "personaggio",
+"titolo": "Emil Engstad",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0048",
+"tipo": "personaggio",
+"titolo": "Marina Mitoleova",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0049",
+"tipo": "personaggio",
+"titolo": "Daichi Mumura",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0050",
+"tipo": "personaggio",
+"titolo": "Thomas Kremhoff",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0051",
+"tipo": "personaggio",
+"titolo": "Umut Demirteritaş",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0052",
+"tipo": "personaggio",
+"titolo": "Layla Hitsujikai",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0053",
+"tipo": "personaggio",
+"titolo": "Mária Kinyi",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0054",
+"tipo": "personaggio",
+"titolo": "Farid Ramikawi",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0055",
+"tipo": "personaggio",
+"titolo": "Naroa Irirrigaray",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0056",
+"tipo": "personaggio",
+"titolo": "Hasina Ndumbumbo",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0057",
+"tipo": "personaggio",
+"titolo": "Priit Kaldoja",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0058",
+"tipo": "personaggio",
+"titolo": "Mei-Ling Farrokhzad",
+"universo": "hackverse"
+},
+{
 "id": "HAC-REG-rotterdam",
 "tipo": "regione",
 "titolo": "Rotterdam",
@@ -10497,6 +10715,12 @@
 "id": "HAC-REG-tallinn",
 "tipo": "regione",
 "titolo": "Tallinn",
+"universo": "hackverse"
+},
+{
+"id": "HAC-REG-trieste",
+"tipo": "regione",
+"titolo": "Trieste",
 "universo": "hackverse"
 },
 {
@@ -12501,6 +12725,12 @@
 "id": "NEO-SEM-0005",
 "tipo": "seme",
 "titolo": "seme NEO-INV-0044",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-SEM-0006",
+"tipo": "seme",
+"titolo": "seme NEO-INV-0017",
 "universo": "neofeudal"
 },
 {

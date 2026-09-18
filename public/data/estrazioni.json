@@ -4749,5 +4749,82 @@
 "HAC-INV-0095"
 ],
 "universo": "hackverse"
+},
+{
+"campi_forzati": [],
+"chiavi": {
+"cluster": [
+"NEO-INV-0017"
+]
+},
+"created": "2026-09-18",
+"esito": "ok",
+"estrazione": 117,
+"forzata": false,
+"lotto": "lotto-semi",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"NEO-SEM-0006"
+],
+"universi": [
+"neofeudal"
+],
+"universo": "cross"
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"HAC-INV-0075",
+"HAC-INV-0033",
+"HAC-INV-0095",
+"HAC-PER-0029",
+"HAC-PER-0039"
+],
+"chiavi": {
+"casta": "corrieri",
+"invenzione_id": "HAC-INV-0075",
+"personaggi": [
+"HAC-PER-0047",
+"HAC-PER-0048",
+"HAC-PER-0049",
+"HAC-PER-0050",
+"HAC-PER-0051",
+"HAC-PER-0052",
+"HAC-PER-0053",
+"HAC-PER-0054",
+"HAC-PER-0055",
+"HAC-PER-0056"
+],
+"regione": "HAC-REG-trieste",
+"universo": "hackverse"
+},
+"created": "2026-09-18",
+"esito": "ok",
+"espansioni": [
+"HAC-INV-0097",
+"HAC-PER-0057",
+"HAC-PER-0058"
+],
+"estrazione": 118,
+"forzata": false,
+"lotto": "lotto-personaggi",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"HAC-PER-0047",
+"HAC-PER-0048",
+"HAC-PER-0049",
+"HAC-PER-0050",
+"HAC-PER-0051",
+"HAC-PER-0052",
+"HAC-PER-0053",
+"HAC-PER-0054",
+"HAC-PER-0055",
+"HAC-PER-0056",
+"HAC-REG-trieste",
+"HAC-INV-0097",
+"HAC-PER-0057",
+"HAC-PER-0058"
+],
+"universo": "hackverse"
 }
 ]

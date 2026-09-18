@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-18",
+"discipline": [
+"logistica/catena_del_freddo",
+"gioco_azzardo/dadi"
+],
+"epoca_relativa": 1,
+"estrazione": 118,
+"fatti": [],
+"gancio": "Chi ha trovato per caso l'unica prova vera adesso vende, a chi gliel'ha fatta pagare, il modello che la rende inutile per sempre.",
+"id": "HAC-INV-0097",
+"media": [],
+"nome": "Il Logger Che Ha Imparato a Mentire",
+"nome_reale": "Generatore di log reefer falsi addestrato sull'unico logger superstite recuperato da un container compromesso",
+"parent_id": "HAC-INV-0095",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il dato residuo che avrebbe smascherato la sostituzione del carico viene usato a ritroso per addestrare un generatore di log di temperatura falsi indistinguibili dagli originali, e la stessa cooperativa che temeva di essere scoperta finisce per comprarlo per blindare la prossima manomissione.",
+"universo": "hackverse"
+}

@@ -104,7 +104,7 @@
 "ha_prosa": false,
 "nome": "Tallinn",
 "prima_apparizione": 32,
-"ricorrenze": 30,
+"ricorrenze": 31,
 "slug": "tallinn",
 "sopra_soglia": true,
 "tipo": "luogo",
@@ -178,6 +178,20 @@
 },
 {
 "alias": [
+"HAC-REG-rotterdam"
+],
+"descrizione": "Il porto più grande d'Europa smista container, turni di banchina e manifesti doganali ventiquattr'ore su ventiquattro: nessun ceppo prevale perché la manodopera arriva da ogni rotta commerciale, e chi diventa corriere qui porta il cognome della città da cui è partito, non di quella in cui ha attraccato.",
+"ha_prosa": false,
+"nome": "Rotterdam",
+"prima_apparizione": 43,
+"ricorrenze": 22,
+"slug": "rotterdam",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "hackverse"
+},
+{
+"alias": [
 "HAC-REG-singapore"
 ],
 "descrizione": "Città-stato crocevia di capitali e dati tra Asia ed Europa, dove ogni broker arriva già con passaporto e cognome propri: nessun ceppo prevale e pochi portano il cognome del mestiere, perché qui l'identità si compra e si vende, non si eredita.",
@@ -203,20 +217,6 @@
 "sopra_soglia": true,
 "tipo": "luogo",
 "universo": "neofeudal"
-},
-{
-"alias": [
-"HAC-REG-rotterdam"
-],
-"descrizione": "Il porto più grande d'Europa smista container, turni di banchina e manifesti doganali ventiquattr'ore su ventiquattro: nessun ceppo prevale perché la manodopera arriva da ogni rotta commerciale, e chi diventa corriere qui porta il cognome della città da cui è partito, non di quella in cui ha attraccato.",
-"ha_prosa": false,
-"nome": "Rotterdam",
-"prima_apparizione": 43,
-"ricorrenze": 17,
-"slug": "rotterdam",
-"sopra_soglia": true,
-"tipo": "luogo",
-"universo": "hackverse"
 },
 {
 "alias": [],
@@ -320,6 +320,18 @@
 },
 {
 "alias": [],
+"descrizione": "Fondazione di certificazione che audita la continuità del freddo nei container reefer del porto di Rotterdam, emettendo il bollino che permette lo sdoganamento rapido.",
+"ha_prosa": false,
+"nome": "Stichting Koudeketen Rotterdam",
+"prima_apparizione": 116,
+"ricorrenze": 8,
+"slug": "stichting-koudeketen-rotterdam",
+"sopra_soglia": true,
+"tipo": "ente",
+"universo": "hackverse"
+},
+{
+"alias": [],
 "descrizione": "Piazzale coperto di Vasperdine dove tre tamburi di pelle consacrata scandiscono l'apertura delle quote ogni alba, e i pellegrini in attesa ricamano il proprio voto sull'orlo della cassula prima di consegnarlo al banco.",
 "ha_prosa": false,
 "nome": "Il Cortile delle Grancasse Votive",
@@ -341,6 +353,30 @@
 "sopra_soglia": true,
 "tipo": "attore",
 "universo": "neofeudal"
+},
+{
+"alias": [],
+"descrizione": "Il bug di seme condiviso tra i data-logger di temperatura dei container Kryo e le app di dadi truccati usate nei tornei clandestini di banchina, stesso microcontrollore, stesso seme pseudo-casuale legato all'orario di avvio, stessa sequenza prevedibile.",
+"ha_prosa": false,
+"nome": "TICK0",
+"prima_apparizione": 116,
+"ricorrenze": 4,
+"slug": "tick0",
+"sopra_soglia": true,
+"tipo": "anomalia",
+"universo": "hackverse"
+},
+{
+"alias": [],
+"descrizione": "Broker di banchina che smista carichi reefer fuori manifesto, firmware ricondizionato, dadi truccati per i tornei clandestini, partite di farmaci refrigerati rietichettati.",
+"ha_prosa": false,
+"nome": "Dries Okonkwo",
+"prima_apparizione": 116,
+"ricorrenze": 4,
+"slug": "dries-okonkwo",
+"sopra_soglia": true,
+"tipo": "attore",
+"universo": "hackverse"
 },
 {
 "alias": [],

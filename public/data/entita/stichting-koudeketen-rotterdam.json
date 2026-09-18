@@ -1,0 +1,126 @@
+{
+"aggiornata": "2026-09-18",
+"alias": [],
+"descrizione": "Fondazione di certificazione che audita la continuità del freddo nei container reefer del porto di Rotterdam, emettendo il bollino che permette lo sdoganamento rapido.",
+"ha_prosa": false,
+"n_ricorrenze": 8,
+"nome": "Stichting Koudeketen Rotterdam",
+"prima_apparizione": 116,
+"prosa": null,
+"racconti": [],
+"ricorrenze": [
+{
+"estrazione": 116,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 116,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-INV-0076",
+"riga_tipo": "invenzione",
+"riga_titolo": "koudcensor"
+},
+{
+"estrazione": 116,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-INV-0079",
+"riga_tipo": "invenzione",
+"riga_titolo": "seal2dice"
+},
+{
+"estrazione": 116,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-INV-0084",
+"riga_tipo": "invenzione",
+"riga_titolo": "vrijvantick0"
+},
+{
+"estrazione": 116,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-INV-0089",
+"riga_tipo": "invenzione",
+"riga_titolo": "overridekoud"
+},
+{
+"estrazione": 116,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-INV-0090",
+"riga_tipo": "invenzione",
+"riga_titolo": "dobbelclone"
+},
+{
+"estrazione": 116,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-INV-0091",
+"riga_tipo": "invenzione",
+"riga_titolo": "dockdraft"
+},
+{
+"estrazione": 116,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-INV-0095",
+"riga_tipo": "invenzione",
+"riga_titolo": "laatstelog"
+}
+],
+"righe": [
+{
+"id": "HAC-INV-0076",
+"tipo": "invenzione",
+"titolo": "koudcensor"
+},
+{
+"id": "HAC-INV-0079",
+"tipo": "invenzione",
+"titolo": "seal2dice"
+},
+{
+"id": "HAC-INV-0084",
+"tipo": "invenzione",
+"titolo": "vrijvantick0"
+},
+{
+"id": "HAC-INV-0089",
+"tipo": "invenzione",
+"titolo": "overridekoud"
+},
+{
+"id": "HAC-INV-0090",
+"tipo": "invenzione",
+"titolo": "dobbelclone"
+},
+{
+"id": "HAC-INV-0091",
+"tipo": "invenzione",
+"titolo": "dockdraft"
+},
+{
+"id": "HAC-INV-0095",
+"tipo": "invenzione",
+"titolo": "laatstelog"
+}
+],
+"slug": "stichting-koudeketen-rotterdam",
+"sopra_soglia": true,
+"tipo": "ente",
+"universo": "hackverse"
+}

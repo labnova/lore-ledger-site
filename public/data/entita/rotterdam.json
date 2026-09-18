@@ -1,11 +1,11 @@
 {
-"aggiornata": "2026-09-17",
+"aggiornata": "2026-09-18",
 "alias": [
 "HAC-REG-rotterdam"
 ],
 "descrizione": "Il porto più grande d'Europa smista container, turni di banchina e manifesti doganali ventiquattr'ore su ventiquattro: nessun ceppo prevale perché la manodopera arriva da ogni rotta commerciale, e chi diventa corriere qui porta il cognome della città da cui è partito, non di quella in cui ha attraccato.",
 "ha_prosa": false,
-"n_ricorrenze": 17,
+"n_ricorrenze": 22,
 "nome": "Rotterdam",
 "prima_apparizione": 43,
 "prosa": null,
@@ -163,9 +163,69 @@
 "riga_id": "HAC-PER-0044",
 "riga_tipo": "personaggio",
 "riga_titolo": "Zawadi Mwangata"
+},
+{
+"estrazione": 116,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 116,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-INV-0080",
+"riga_tipo": "invenzione",
+"riga_titolo": "farmalabel"
+},
+{
+"estrazione": 116,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-INV-0083",
+"riga_tipo": "invenzione",
+"riga_titolo": "koudroll"
+},
+{
+"estrazione": 116,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-INV-0088",
+"riga_tipo": "invenzione",
+"riga_titolo": "dobbelseal"
+},
+{
+"estrazione": 116,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0046",
+"riga_tipo": "personaggio",
+"riga_titolo": "Furaha Kombo"
 }
 ],
 "righe": [
+{
+"id": "HAC-INV-0080",
+"tipo": "invenzione",
+"titolo": "farmalabel"
+},
+{
+"id": "HAC-INV-0083",
+"tipo": "invenzione",
+"titolo": "koudroll"
+},
+{
+"id": "HAC-INV-0088",
+"tipo": "invenzione",
+"titolo": "dobbelseal"
+},
 {
 "id": "HAC-PER-0011",
 "tipo": "personaggio",
@@ -225,6 +285,11 @@
 "id": "HAC-PER-0044",
 "tipo": "personaggio",
 "titolo": "Zawadi Mwangata"
+},
+{
+"id": "HAC-PER-0046",
+"tipo": "personaggio",
+"titolo": "Furaha Kombo"
 },
 {
 "id": "HAC-REG-rotterdam",
