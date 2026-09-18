@@ -3,7 +3,7 @@
 "alias": [],
 "descrizione": "Un lotto di cera da candela e zucchero bruciato fusi per errore durante la Fiera dei Pellegrini di tre anni fa, ridistribuito dalla Diocesi del Cielo come materiale benedetto senza separare i due; ogni oggetto fatto con questa pasta porta una doppia grazia che nessun prete sa più distinguere.",
 "ha_prosa": false,
-"n_ricorrenze": 4,
+"n_ricorrenze": 9,
 "nome": "La Fusione dei Voti",
 "prima_apparizione": 98,
 "prosa": null,
@@ -44,6 +44,51 @@
 "riga_id": "NEO-INV-0111",
 "riga_tipo": "invenzione",
 "riga_titolo": "La Torta dei Poveri"
+},
+{
+"estrazione": 110,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 110,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0115",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Tamburo del Legato"
+},
+{
+"estrazione": 110,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0117",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Rullo del Turno Perduto"
+},
+{
+"estrazione": 110,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0127",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Telaio Diventato Tamburo"
+},
+{
+"estrazione": 110,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0132",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Tamburo che Nessuno ha Smesso di Suonare"
 }
 ],
 "righe": [
@@ -61,6 +106,26 @@
 "id": "NEO-INV-0111",
 "tipo": "invenzione",
 "titolo": "La Torta dei Poveri"
+},
+{
+"id": "NEO-INV-0115",
+"tipo": "invenzione",
+"titolo": "Il Tamburo del Legato"
+},
+{
+"id": "NEO-INV-0117",
+"tipo": "invenzione",
+"titolo": "Il Rullo del Turno Perduto"
+},
+{
+"id": "NEO-INV-0127",
+"tipo": "invenzione",
+"titolo": "Il Telaio Diventato Tamburo"
+},
+{
+"id": "NEO-INV-0132",
+"tipo": "invenzione",
+"titolo": "Il Tamburo che Nessuno ha Smesso di Suonare"
 }
 ],
 "slug": "la-fusione-dei-voti",

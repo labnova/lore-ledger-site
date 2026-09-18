@@ -1,0 +1,36 @@
+{
+"affettivo": {
+"orientamento": "asessuale",
+"situazione": "sposato"
+},
+"appare_in": [],
+"casta": "contadini",
+"ceppo": "swahili",
+"cognome": "Chalimbura",
+"contraddizione": "Generosa al punto da truccare gratis la Ruota per le famiglie più povere di Calvenna, ma la sua golosità la spinge a farsi pagare in cibo dalle stesse famiglie, che finiscono con meno nella dispensa di quanto avrebbero avuto perdendo onestamente.",
+"created": "2026-09-18",
+"difetto": "goloso",
+"epoca_relativa": 0,
+"estrazione": 112,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "Le famiglie che aiuta non sanno che il prezzo reale dei suoi favori si misura in dispense sempre più vuote, non in monete.",
+"id": "NEO-PER-0089",
+"invenzione_id": "NEO-INV-0017",
+"media": [],
+"nome": "Upendo",
+"parent_id": null,
+"rapporto": "falsifica",
+"regione": "NEO-REG-calvenna",
+"relazione": null,
+"ritratto": null,
+"segno": "capricorno",
+"spirituale": {
+"credenza": "dottrina_del_debito",
+"rapporto": "mistico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "generoso",
+"universo": "neofeudal"
+}

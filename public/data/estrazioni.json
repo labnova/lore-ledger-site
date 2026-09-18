@@ -4485,5 +4485,81 @@
 "NEO-INV-0132"
 ],
 "universo": "neofeudal"
+},
+{
+"campi_forzati": [],
+"chiavi": {
+"cluster": [
+"CYB-INV-0029"
+]
+},
+"created": "2026-09-17",
+"esito": "ok",
+"estrazione": 111,
+"forzata": false,
+"lotto": "lotto-semi",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"CYB-SEM-0003"
+],
+"universi": [
+"cyberverse"
+],
+"universo": "cross"
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"NEO-INV-0017",
+"NEO-REG-calvenna",
+"NEO-PER-0052",
+"NEO-INV-0015",
+"NEO-INV-0123"
+],
+"chiavi": {
+"casta": "contadini",
+"invenzione_id": "NEO-INV-0017",
+"personaggi": [
+"NEO-PER-0081",
+"NEO-PER-0082",
+"NEO-PER-0083",
+"NEO-PER-0084",
+"NEO-PER-0085",
+"NEO-PER-0086",
+"NEO-PER-0087",
+"NEO-PER-0088",
+"NEO-PER-0089",
+"NEO-PER-0090"
+],
+"regione": "NEO-REG-calvenna",
+"universo": "neofeudal"
+},
+"created": "2026-09-18",
+"esito": "ok",
+"espansioni": [
+"NEO-PER-0091",
+"NEO-INV-0134",
+"NEO-INV-0135"
+],
+"estrazione": 112,
+"forzata": false,
+"lotto": "lotto-personaggi",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"NEO-PER-0081",
+"NEO-PER-0082",
+"NEO-PER-0083",
+"NEO-PER-0084",
+"NEO-PER-0085",
+"NEO-PER-0086",
+"NEO-PER-0087",
+"NEO-PER-0088",
+"NEO-PER-0089",
+"NEO-PER-0090",
+"NEO-PER-0091",
+"NEO-INV-0134",
+"NEO-INV-0135"
+],
+"universo": "neofeudal"
 }
 ]

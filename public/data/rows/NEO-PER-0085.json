@@ -1,0 +1,36 @@
+{
+"affettivo": {
+"orientamento": "pansessuale",
+"situazione": "poliamoroso"
+},
+"appare_in": [],
+"casta": "contadini",
+"ceppo": "swahili",
+"cognome": "Seremala",
+"contraddizione": "Leale al punto di rischiare la propria pelle pur di truccare la Ruota per chi ama, ma la sua distrazione le ha fatto scambiare due schede di gioco, e chi è stato convocato a corte al posto del vero vincitore era solo un vicino che le aveva chiesto di badare al suo turno nei campi.",
+"created": "2026-09-18",
+"difetto": "crudele_per_distrazione",
+"epoca_relativa": 0,
+"estrazione": 112,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Il vicino sbagliato non è più tornato da corte, e Shani non ha mai detto a nessuno che l'errore era suo.",
+"id": "NEO-PER-0085",
+"invenzione_id": "NEO-INV-0017",
+"media": [],
+"nome": "Shani",
+"parent_id": null,
+"rapporto": "falsifica",
+"regione": "NEO-REG-calvenna",
+"relazione": null,
+"ritratto": null,
+"segno": "bilancia",
+"spirituale": {
+"credenza": "dottrina_del_debito",
+"rapporto": "indifferente"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "leale",
+"universo": "neofeudal"
+}

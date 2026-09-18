@@ -1,0 +1,36 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "separato"
+},
+"appare_in": [],
+"casta": "contadini",
+"ceppo": "swahili",
+"cognome": "Mwindaji",
+"contraddizione": "Silenzioso al punto che nessuno sospetta di lui, ma la sua invidia per i campi più ricchi del vicino lo spinge a truccare in segreto la Ruota perché quel vicino non vinca mai, un sabotaggio meschino che nessun registro annoterà.",
+"created": "2026-09-18",
+"difetto": "invidioso",
+"epoca_relativa": 0,
+"estrazione": 112,
+"eta_fascia": "adulto",
+"fatti": [],
+"gancio": "Il campo del vicino invidiato rende ogni anno di meno, e nessuno sa che è la mano silenziosa di Mosi sui rulli a spegnere la sua fortuna, non la terra.",
+"id": "NEO-PER-0086",
+"invenzione_id": "NEO-INV-0017",
+"media": [],
+"nome": "Mosi",
+"parent_id": null,
+"rapporto": "falsifica",
+"regione": "NEO-REG-calvenna",
+"relazione": null,
+"ritratto": null,
+"segno": "toro",
+"spirituale": {
+"credenza": "nessun_dio_solo_registri",
+"rapporto": "indifferente"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "silenzioso",
+"universo": "neofeudal"
+}

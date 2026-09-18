@@ -1,0 +1,33 @@
+{
+"affettivo": null,
+"appare_in": [],
+"casta": "contadini",
+"ceppo": "swahili",
+"cognome": "Mwasimba",
+"contraddizione": "Curiosa al punto da capire meglio di chiunque altro come inceppare i rulli della Ruota per salvare chi rischia la convocazione a corte, ma il suo vizio di giocatrice la spinge a scommettere lei stessa le monete della famiglia sulle combinazioni vere, vanificando ogni trucco che ha imparato.",
+"created": "2026-09-18",
+"difetto": "giocatore",
+"epoca_relativa": 0,
+"estrazione": 112,
+"eta_fascia": "adolescente",
+"fatti": [],
+"gancio": "Sa esattamente quale rullo inceppare per salvare chiunque dalla convocazione a corte, ma non è mai riuscita a fermarsi prima di giocarsi lei stessa l'ultima moneta della famiglia.",
+"id": "NEO-PER-0090",
+"invenzione_id": "NEO-INV-0017",
+"media": [],
+"nome": "Hasina",
+"parent_id": null,
+"rapporto": "falsifica",
+"regione": "NEO-REG-calvenna",
+"relazione": null,
+"ritratto": null,
+"segno": "pesci",
+"spirituale": {
+"credenza": "culto_degli_antenati",
+"rapporto": "scettico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "curioso",
+"universo": "neofeudal"
+}

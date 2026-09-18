@@ -1,0 +1,33 @@
+{
+"affettivo": null,
+"appare_in": [],
+"casta": "contadini",
+"ceppo": "swahili",
+"cognome": "Mwatu",
+"contraddizione": "Inventivo al punto da promettere ai vicini leve segrete per la Ruota che garantiscono la vincita, ma la sua incostanza fa sì che nessun marchingegno funzioni mai davvero, e i debiti per le promesse non mantenute pesano più della fatica che dovrebbe dare ai campi.",
+"created": "2026-09-18",
+"difetto": "incostante",
+"epoca_relativa": 0,
+"estrazione": 112,
+"eta_fascia": "bambino",
+"fatti": [],
+"gancio": "Ha già venduto tre volte la stessa \"leva segreta\" mai completata a tre famiglie diverse, e la dottrina del debito a Calvenna dice che ora deve loro tre stagioni di lavoro.",
+"id": "NEO-PER-0087",
+"invenzione_id": "NEO-INV-0017",
+"media": [],
+"nome": "Nuru",
+"parent_id": null,
+"rapporto": "vende",
+"regione": "NEO-REG-calvenna",
+"relazione": null,
+"ritratto": null,
+"segno": "sagittario",
+"spirituale": {
+"credenza": "dottrina_del_debito",
+"rapporto": "mistico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "inventivo",
+"universo": "neofeudal"
+}

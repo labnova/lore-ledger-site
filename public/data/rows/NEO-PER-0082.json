@@ -1,0 +1,36 @@
+{
+"affettivo": {
+"orientamento": "asessuale",
+"situazione": "promesso_per_contratto"
+},
+"appare_in": [],
+"casta": "contadini",
+"ceppo": "scandinavo",
+"cognome": "Nornestrand",
+"contraddizione": "Sognatore che vende ai vicini letture del cielo come garanzia su quali animali usciranno dalla Ruota, mentre il campo che dovrebbe portare in dote al matrimonio combinato resta incolto, perché per lui il cielo conta più della terra.",
+"created": "2026-09-18",
+"difetto": "insonne",
+"epoca_relativa": 0,
+"estrazione": 112,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Chi ha comprato le sue letture ha smesso di uscire nei campi nelle notti di luna nuova, convinto che i rulli della Ruota si allineino secondo un calendario che solo Emil sa leggere.",
+"id": "NEO-PER-0082",
+"invenzione_id": "NEO-INV-0017",
+"media": [],
+"nome": "Emil",
+"parent_id": null,
+"rapporto": "vende",
+"regione": "NEO-REG-calvenna",
+"relazione": null,
+"ritratto": null,
+"segno": "ariete",
+"spirituale": {
+"credenza": "le_stelle_come_registro",
+"rapporto": "mistico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "sognatore",
+"universo": "neofeudal"
+}

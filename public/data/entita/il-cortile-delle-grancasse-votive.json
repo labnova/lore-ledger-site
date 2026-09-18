@@ -1,0 +1,112 @@
+{
+"aggiornata": "2026-09-17",
+"alias": [],
+"descrizione": "Piazzale coperto di Vasperdine dove tre tamburi di pelle consacrata scandiscono l'apertura delle quote ogni alba, e i pellegrini in attesa ricamano il proprio voto sull'orlo della cassula prima di consegnarlo al banco.",
+"ha_prosa": false,
+"n_ricorrenze": 7,
+"nome": "Il Cortile delle Grancasse Votive",
+"prima_apparizione": 110,
+"prosa": null,
+"racconti": [],
+"ricorrenze": [
+{
+"estrazione": 110,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 110,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0113",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Tamburo dei Muli Zoppi"
+},
+{
+"estrazione": 110,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0116",
+"riga_tipo": "invenzione",
+"riga_titolo": "Le Tessere Cucite del Turno"
+},
+{
+"estrazione": 110,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0126",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Tensione che Solo Lei Sa Leggere"
+},
+{
+"estrazione": 110,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0128",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Misura che Ha Zittito le Botteghe"
+},
+{
+"estrazione": 110,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0129",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Colla che Vasperdine non Può Smettere di Fare"
+},
+{
+"estrazione": 110,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0131",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Tamburo Falso che Tutti Vogliono"
+}
+],
+"righe": [
+{
+"id": "NEO-INV-0113",
+"tipo": "invenzione",
+"titolo": "Il Tamburo dei Muli Zoppi"
+},
+{
+"id": "NEO-INV-0116",
+"tipo": "invenzione",
+"titolo": "Le Tessere Cucite del Turno"
+},
+{
+"id": "NEO-INV-0126",
+"tipo": "invenzione",
+"titolo": "La Tensione che Solo Lei Sa Leggere"
+},
+{
+"id": "NEO-INV-0128",
+"tipo": "invenzione",
+"titolo": "La Misura che Ha Zittito le Botteghe"
+},
+{
+"id": "NEO-INV-0129",
+"tipo": "invenzione",
+"titolo": "La Colla che Vasperdine non Può Smettere di Fare"
+},
+{
+"id": "NEO-INV-0131",
+"tipo": "invenzione",
+"titolo": "Il Tamburo Falso che Tutti Vogliono"
+}
+],
+"slug": "il-cortile-delle-grancasse-votive",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "neofeudal"
+}

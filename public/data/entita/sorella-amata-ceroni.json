@@ -3,7 +3,7 @@
 "alias": [],
 "descrizione": "Lay-sorella itinerante che raccoglie mozziconi di candela e ritagli di pasta dai pellegrini di Vasperdine per renderli in cera-zucchero, l'unica a conoscere la giusta proporzione.",
 "ha_prosa": false,
-"n_ricorrenze": 6,
+"n_ricorrenze": 9,
 "nome": "Sorella Amata Ceroni",
 "prima_apparizione": 98,
 "prosa": null,
@@ -62,6 +62,33 @@
 "riga_id": "NEO-INV-0110",
 "riga_tipo": "invenzione",
 "riga_titolo": "Il Quaderno Bruciato"
+},
+{
+"estrazione": 110,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 110,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0118",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Telaio che Gira di Nascosto"
+},
+{
+"estrazione": 110,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0126",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Tensione che Solo Lei Sa Leggere"
 }
 ],
 "righe": [
@@ -89,6 +116,16 @@
 "id": "NEO-INV-0110",
 "tipo": "invenzione",
 "titolo": "Il Quaderno Bruciato"
+},
+{
+"id": "NEO-INV-0118",
+"tipo": "invenzione",
+"titolo": "Il Telaio che Gira di Nascosto"
+},
+{
+"id": "NEO-INV-0126",
+"tipo": "invenzione",
+"titolo": "La Tensione che Solo Lei Sa Leggere"
 }
 ],
 "slug": "sorella-amata-ceroni",

@@ -1,0 +1,33 @@
+{
+"affettivo": null,
+"appare_in": [],
+"casta": "contadini",
+"ceppo": "swahili",
+"cognome": "Rako",
+"contraddizione": "Sognatore scettico che tiene un registro perfetto di ogni combinazione uscita dalla Ruota, convinto di sentirci dentro una voce nella rete, ma dimentica i turni di semina che la sua famiglia contadina gli ripete ogni mattina.",
+"created": "2026-09-18",
+"difetto": "smemorato",
+"epoca_relativa": 0,
+"estrazione": 112,
+"eta_fascia": "adolescente",
+"fatti": [],
+"gancio": "Il suo quaderno di combinazioni è più preciso di qualsiasi registro di corte, ma nessuno gli crede quando dice di sentire un ordine nella sequenza degli animali.",
+"id": "NEO-PER-0084",
+"invenzione_id": "NEO-INV-0017",
+"media": [],
+"nome": "Sefu",
+"parent_id": null,
+"rapporto": "studia",
+"regione": "NEO-REG-calvenna",
+"relazione": null,
+"ritratto": null,
+"segno": "gemelli",
+"spirituale": {
+"credenza": "la_voce_nella_rete",
+"rapporto": "scettico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "sognatore",
+"universo": "neofeudal"
+}

@@ -486,6 +486,26 @@
 "to": "NEO-REG-sarakan"
 },
 {
+"from": "NEO-INV-0015",
+"kind": "parent",
+"to": "NEO-INV-0134"
+},
+{
+"from": "NEO-INV-0134",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-INV-0123",
+"kind": "parent",
+"to": "NEO-INV-0135"
+},
+{
+"from": "NEO-INV-0135",
+"kind": "regione",
+"to": "NEO-REG-vasperdine"
+},
+{
 "from": "STE-INV-0013",
 "kind": "parent",
 "to": "STE-INV-0021"
@@ -2679,6 +2699,121 @@
 "from": "NEO-PER-0080",
 "kind": "regione",
 "to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0081",
+"kind": "invenzione",
+"to": "NEO-INV-0017"
+},
+{
+"from": "NEO-PER-0081",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0082",
+"kind": "invenzione",
+"to": "NEO-INV-0017"
+},
+{
+"from": "NEO-PER-0082",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0083",
+"kind": "invenzione",
+"to": "NEO-INV-0017"
+},
+{
+"from": "NEO-PER-0083",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0084",
+"kind": "invenzione",
+"to": "NEO-INV-0017"
+},
+{
+"from": "NEO-PER-0084",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0085",
+"kind": "invenzione",
+"to": "NEO-INV-0017"
+},
+{
+"from": "NEO-PER-0085",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0086",
+"kind": "invenzione",
+"to": "NEO-INV-0017"
+},
+{
+"from": "NEO-PER-0086",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0087",
+"kind": "invenzione",
+"to": "NEO-INV-0017"
+},
+{
+"from": "NEO-PER-0087",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0088",
+"kind": "invenzione",
+"to": "NEO-INV-0017"
+},
+{
+"from": "NEO-PER-0088",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0089",
+"kind": "invenzione",
+"to": "NEO-INV-0017"
+},
+{
+"from": "NEO-PER-0089",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0090",
+"kind": "invenzione",
+"to": "NEO-INV-0017"
+},
+{
+"from": "NEO-PER-0090",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
+"from": "NEO-PER-0052",
+"kind": "parent",
+"to": "NEO-PER-0091"
+},
+{
+"from": "NEO-PER-0091",
+"kind": "invenzione",
+"to": "NEO-INV-0053"
+},
+{
+"from": "NEO-PER-0091",
+"kind": "regione",
+"to": "NEO-REG-sarakan"
 },
 {
 "from": "STE-PER-0001",
@@ -6286,6 +6421,11 @@
 "to": "CYB-REG-rostkirche"
 },
 {
+"from": "CYB-SEM-0003",
+"kind": "cluster",
+"to": "CYB-INV-0029"
+},
+{
 "from": "ELA-SEM-0001",
 "kind": "cluster",
 "to": "ELA-INV-0005"
@@ -7823,6 +7963,12 @@
 "id": "CYB-SEM-0002",
 "tipo": "seme",
 "titolo": "seme CYB-INV-0035",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-SEM-0003",
+"tipo": "seme",
+"titolo": "seme CYB-INV-0029",
 "universo": "cyberverse"
 },
 {
@@ -11360,6 +11506,18 @@
 "universo": "neofeudal"
 },
 {
+"id": "NEO-INV-0134",
+"tipo": "invenzione",
+"titolo": "Il Balsamo che Addormenta le Stirpi",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-INV-0135",
+"tipo": "invenzione",
+"titolo": "Il Filo che Sa Contare",
+"universo": "neofeudal"
+},
+{
 "id": "NEO-PER-0001",
 "tipo": "personaggio",
 "titolo": "Juma Mwangaza",
@@ -11837,6 +11995,72 @@
 "id": "NEO-PER-0080",
 "tipo": "personaggio",
 "titolo": "Nia Kimambura",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0081",
+"tipo": "personaggio",
+"titolo": "Furaha Nyakaye",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0082",
+"tipo": "personaggio",
+"titolo": "Emil Nornestrand",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0083",
+"tipo": "personaggio",
+"titolo": "Ksenia Zurgin",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0084",
+"tipo": "personaggio",
+"titolo": "Sefu Rako",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0085",
+"tipo": "personaggio",
+"titolo": "Shani Seremala",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0086",
+"tipo": "personaggio",
+"titolo": "Mosi Mwindaji",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0087",
+"tipo": "personaggio",
+"titolo": "Nuru Mwatu",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0088",
+"tipo": "personaggio",
+"titolo": "Yuki Draak",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0089",
+"tipo": "personaggio",
+"titolo": "Upendo Chalimbura",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0090",
+"tipo": "personaggio",
+"titolo": "Hasina Mwasimba",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-PER-0091",
+"tipo": "personaggio",
+"titolo": "Tariq Nassar",
 "universo": "neofeudal"
 },
 {

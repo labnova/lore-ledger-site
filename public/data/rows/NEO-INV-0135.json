@@ -1,0 +1,27 @@
+{
+"appare_in": [],
+"chi_paga": "chi-vuole-prevedere-le-quote",
+"created": "2026-09-18",
+"discipline": [
+"tessile/ricamo",
+"gioco_azzardo"
+],
+"entita_usate": [],
+"epoca_relativa": 1,
+"estrazione": 112,
+"fatti": [],
+"gancio": "Chi sa leggere il Filo può prevedere le quote della Selva un giorno prima che vengano bandite, ma il maestro accetta come pagamento solo cose che nessuno oserebbe chiedere ad alta voce.",
+"id": "NEO-INV-0135",
+"media": [],
+"nome": "Il Filo che Sa Contare",
+"nome_reale": "Chiave di lettura del punto di ricamo che traduce i nodi in quote di scommessa",
+"oggetto": "Chiave di lettura che traduce i nodi del Punto che Passa il Muro del Noviziato nel codice numerico delle quote di scommessa della Selva delle Puntate.",
+"parent_id": "NEO-INV-0123",
+"poc": false,
+"regione": "NEO-REG-vasperdine",
+"relazione": "espansione",
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Un vecchio maestro di ricamo ha scoperto che i nodi del Punto, letti nell'ordine giusto, corrispondono al codice numerico delle quote della Selva delle Puntate; ora insegna a decifrarli a chi può pagare, novizio o scommettitore che sia.",
+"universo": "neofeudal"
+}

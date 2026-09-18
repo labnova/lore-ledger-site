@@ -3,7 +3,7 @@
 "alias": [],
 "descrizione": "Autorità che fissa il turno d'acqua di Sarakan e benedice ogni bonifica prima che la vanga tocchi terra; ciò che non passa dal suo registro delle piogge non è mai davvero successo.",
 "ha_prosa": false,
-"n_ricorrenze": 19,
+"n_ricorrenze": 28,
 "nome": "Diocesi del Cielo",
 "prima_apparizione": 85,
 "prosa": null,
@@ -179,6 +179,87 @@
 "riga_id": "NEO-INV-0112",
 "riga_tipo": "invenzione",
 "riga_titolo": "Il Crisma Falso"
+},
+{
+"estrazione": 110,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 110,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0114",
+"riga_tipo": "invenzione",
+"riga_titolo": "Le Bacchette Cucite nell'Orlo"
+},
+{
+"estrazione": 110,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0115",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Tamburo del Legato"
+},
+{
+"estrazione": 110,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0118",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Telaio che Gira di Nascosto"
+},
+{
+"estrazione": 110,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0120",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Tamburo che si Accordava da Solo"
+},
+{
+"estrazione": 110,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0125",
+"riga_tipo": "invenzione",
+"riga_titolo": "I Tamburi Registrati come Vesti"
+},
+{
+"estrazione": 110,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0128",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Misura che Ha Zittito le Botteghe"
+},
+{
+"estrazione": 110,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0131",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Tamburo Falso che Tutti Vogliono"
+},
+{
+"estrazione": 110,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0132",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Tamburo che Nessuno ha Smesso di Suonare"
 }
 ],
 "righe": [
@@ -266,6 +347,46 @@
 "id": "NEO-INV-0112",
 "tipo": "invenzione",
 "titolo": "Il Crisma Falso"
+},
+{
+"id": "NEO-INV-0114",
+"tipo": "invenzione",
+"titolo": "Le Bacchette Cucite nell'Orlo"
+},
+{
+"id": "NEO-INV-0115",
+"tipo": "invenzione",
+"titolo": "Il Tamburo del Legato"
+},
+{
+"id": "NEO-INV-0118",
+"tipo": "invenzione",
+"titolo": "Il Telaio che Gira di Nascosto"
+},
+{
+"id": "NEO-INV-0120",
+"tipo": "invenzione",
+"titolo": "Il Tamburo che si Accordava da Solo"
+},
+{
+"id": "NEO-INV-0125",
+"tipo": "invenzione",
+"titolo": "I Tamburi Registrati come Vesti"
+},
+{
+"id": "NEO-INV-0128",
+"tipo": "invenzione",
+"titolo": "La Misura che Ha Zittito le Botteghe"
+},
+{
+"id": "NEO-INV-0131",
+"tipo": "invenzione",
+"titolo": "Il Tamburo Falso che Tutti Vogliono"
+},
+{
+"id": "NEO-INV-0132",
+"tipo": "invenzione",
+"titolo": "Il Tamburo che Nessuno ha Smesso di Suonare"
 }
 ],
 "slug": "diocesi-del-cielo",

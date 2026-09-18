@@ -7,7 +7,7 @@
 "ha_prosa": true,
 "nome": "Calvenna",
 "prima_apparizione": 1,
-"ricorrenze": 112,
+"ricorrenze": 113,
 "slug": "calvenna",
 "sopra_soglia": true,
 "tipo": "luogo",
@@ -49,7 +49,7 @@
 "ha_prosa": false,
 "nome": "Sarakan",
 "prima_apparizione": 56,
-"ricorrenze": 50,
+"ricorrenze": 51,
 "slug": "sarakan",
 "sopra_soglia": true,
 "tipo": "luogo",
@@ -111,6 +111,18 @@
 "universo": "hackverse"
 },
 {
+"alias": [],
+"descrizione": "Autorità che fissa il turno d'acqua di Sarakan e benedice ogni bonifica prima che la vanga tocchi terra; ciò che non passa dal suo registro delle piogge non è mai davvero successo.",
+"ha_prosa": false,
+"nome": "Diocesi del Cielo",
+"prima_apparizione": 85,
+"ricorrenze": 28,
+"slug": "diocesi-del-cielo",
+"sopra_soglia": true,
+"tipo": "ente",
+"universo": "neofeudal"
+},
+{
 "alias": [
 "ELA-REG-scafo-zero"
 ],
@@ -164,18 +176,6 @@
 "slug": "vranidol",
 "sopra_soglia": true,
 "tipo": "luogo",
-"universo": "neofeudal"
-},
-{
-"alias": [],
-"descrizione": "Autorità che fissa il turno d'acqua di Sarakan e benedice ogni bonifica prima che la vanga tocchi terra; ciò che non passa dal suo registro delle piogge non è mai davvero successo.",
-"ha_prosa": false,
-"nome": "Diocesi del Cielo",
-"prima_apparizione": 85,
-"ricorrenze": 19,
-"slug": "diocesi-del-cielo",
-"sopra_soglia": true,
-"tipo": "ente",
 "universo": "neofeudal"
 },
 {
@@ -284,6 +284,42 @@
 },
 {
 "alias": [],
+"descrizione": "Un lotto di cera da candela e zucchero bruciato fusi per errore durante la Fiera dei Pellegrini di tre anni fa, ridistribuito dalla Diocesi del Cielo come materiale benedetto senza separare i due; ogni oggetto fatto con questa pasta porta una doppia grazia che nessun prete sa più distinguere.",
+"ha_prosa": false,
+"nome": "La Fusione dei Voti",
+"prima_apparizione": 98,
+"ricorrenze": 9,
+"slug": "la-fusione-dei-voti",
+"sopra_soglia": true,
+"tipo": "anomalia",
+"universo": "neofeudal"
+},
+{
+"alias": [],
+"descrizione": "Lay-sorella itinerante che raccoglie mozziconi di candela e ritagli di pasta dai pellegrini di Vasperdine per renderli in cera-zucchero, l'unica a conoscere la giusta proporzione.",
+"ha_prosa": false,
+"nome": "Sorella Amata Ceroni",
+"prima_apparizione": 98,
+"ricorrenze": 9,
+"slug": "sorella-amata-ceroni",
+"sopra_soglia": true,
+"tipo": "attore",
+"universo": "neofeudal"
+},
+{
+"alias": [],
+"descrizione": "Piazzale coperto di Vasperdine dove tre tamburi di pelle consacrata scandiscono l'apertura delle quote ogni alba, e i pellegrini in attesa ricamano il proprio voto sull'orlo della cassula prima di consegnarlo al banco.",
+"ha_prosa": false,
+"nome": "Il Cortile delle Grancasse Votive",
+"prima_apparizione": 110,
+"ricorrenze": 7,
+"slug": "il-cortile-delle-grancasse-votive",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "neofeudal"
+},
+{
+"alias": [],
 "descrizione": "Ogni sera, all'ora del cambio turno, la luce nelle canne di vetro del telegrafo vacilla per pochi secondi; nessuno ha mai spiegato perché, e ogni scheda del Consorzio lo registra come «normale».",
 "ha_prosa": false,
 "nome": "Lo Sfarfallio delle Nove",
@@ -304,30 +340,6 @@
 "slug": "idris-sabbagh",
 "sopra_soglia": true,
 "tipo": "attore",
-"universo": "neofeudal"
-},
-{
-"alias": [],
-"descrizione": "Lay-sorella itinerante che raccoglie mozziconi di candela e ritagli di pasta dai pellegrini di Vasperdine per renderli in cera-zucchero, l'unica a conoscere la giusta proporzione.",
-"ha_prosa": false,
-"nome": "Sorella Amata Ceroni",
-"prima_apparizione": 98,
-"ricorrenze": 6,
-"slug": "sorella-amata-ceroni",
-"sopra_soglia": true,
-"tipo": "attore",
-"universo": "neofeudal"
-},
-{
-"alias": [],
-"descrizione": "Un lotto di cera da candela e zucchero bruciato fusi per errore durante la Fiera dei Pellegrini di tre anni fa, ridistribuito dalla Diocesi del Cielo come materiale benedetto senza separare i due; ogni oggetto fatto con questa pasta porta una doppia grazia che nessun prete sa più distinguere.",
-"ha_prosa": false,
-"nome": "La Fusione dei Voti",
-"prima_apparizione": 98,
-"ricorrenze": 4,
-"slug": "la-fusione-dei-voti",
-"sopra_soglia": true,
-"tipo": "anomalia",
 "universo": "neofeudal"
 },
 {

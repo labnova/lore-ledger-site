@@ -1,0 +1,36 @@
+{
+"affettivo": {
+"orientamento": "bisessuale",
+"situazione": "separato"
+},
+"appare_in": [],
+"casta": "contadini",
+"ceppo": "ibrido",
+"cognome": "Draak",
+"contraddizione": "Ospitale con chiunque entri nella sala della Ruota, offrendo sempre il primo giro a spese proprie, ma la sua vanità nel vantarsi delle vincite gli ha fatto trascurare il campo, ormai il più povero di raccolto a Calvenna.",
+"created": "2026-09-18",
+"difetto": "vanitoso",
+"epoca_relativa": 0,
+"estrazione": 112,
+"eta_fascia": "adulto",
+"fatti": [],
+"gancio": "Si vanta di aver \"capito\" il ritmo della Ruota leggendo le stelle, ma il suo campo produce meno ogni stagione, e presto qualcuno chiederà conto di quella terra abbandonata.",
+"id": "NEO-PER-0088",
+"invenzione_id": "NEO-INV-0017",
+"media": [],
+"nome": "Yuki",
+"parent_id": null,
+"rapporto": "usa",
+"regione": "NEO-REG-calvenna",
+"relazione": null,
+"ritratto": null,
+"segno": "leone",
+"spirituale": {
+"credenza": "le_stelle_come_registro",
+"rapporto": "indifferente"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ospitale",
+"universo": "neofeudal"
+}

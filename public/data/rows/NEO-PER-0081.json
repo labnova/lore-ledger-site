@@ -1,0 +1,33 @@
+{
+"affettivo": null,
+"appare_in": [],
+"casta": "contadini",
+"ceppo": "swahili",
+"cognome": "Nyakaye",
+"contraddizione": "Leale al punto da rischiare la convocazione a corte pur di ridipingere di notte i simboli sui rulli della Ruota per salvare un vicino da un jackpot, ma la sua insonnia lo lascia troppo sfinito per arare dritto, e la sua fila di solchi è la vergogna della famiglia.",
+"created": "2026-09-18",
+"difetto": "insonne",
+"epoca_relativa": 0,
+"estrazione": 112,
+"eta_fascia": "bambino",
+"fatti": [],
+"gancio": "Nessuno a Calvenna sa che è lui a far apparire \"sbagliate\" le combinazioni vincenti della Ruota dei Sette Animali, tranne Madre Iselda, che lo osserva ogni notte e non lo denuncia.",
+"id": "NEO-PER-0081",
+"invenzione_id": "NEO-INV-0017",
+"media": [],
+"nome": "Furaha",
+"parent_id": null,
+"rapporto": "falsifica",
+"regione": "NEO-REG-calvenna",
+"relazione": null,
+"ritratto": null,
+"segno": "scorpione",
+"spirituale": {
+"credenza": "culto_degli_antenati",
+"rapporto": "apostata"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "leale",
+"universo": "neofeudal"
+}

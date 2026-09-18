@@ -1,0 +1,27 @@
+{
+"appare_in": [],
+"chi_paga": "gli-allevatori-di-calvenna",
+"created": "2026-09-18",
+"discipline": [
+"zoologia",
+"agricoltura/allevamento"
+],
+"entita_usate": [],
+"epoca_relativa": 1,
+"estrazione": 112,
+"fatti": [],
+"gancio": "Un allevatore ha pagato tre raccolti per un balsamo che ha salvato il suo cavallo dal marchio di maledetto per un solo giorno, proprio il giorno dell'ispezione.",
+"id": "NEO-INV-0134",
+"media": [],
+"nome": "Il Balsamo che Addormenta le Stirpi",
+"nome_reale": "Trattamento di mascheramento dei marcatori genetici sul mantello",
+"oggetto": "Balsamo che maschera per una sola lettura i marcatori genetici che il Libro delle Stirpi Benedette legge come stirpe maledetta.",
+"parent_id": "NEO-INV-0015",
+"poc": false,
+"regione": "NEO-REG-calvenna",
+"relazione": "espansione",
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Unguento venduto sottobanco a Calvenna che altera pelo e sangue sotto pelle abbastanza a lungo da far leggere al Libro delle Stirpi Benedette una genealogia pulita; l'effetto dura una sola lettura, poi la stirpe maledetta riappare come se non fosse mai stata nascosta.",
+"universo": "neofeudal"
+}

@@ -1,0 +1,36 @@
+{
+"affettivo": {
+"orientamento": "bisessuale",
+"situazione": "sposato"
+},
+"appare_in": [],
+"casta": "contadini",
+"ceppo": "ibrido",
+"cognome": "Zurgin",
+"contraddizione": "Predica che il Crollo fu il giudizio contro chi tocca strumenti come la Ruota, eppure è stata lei a intagliarne la cassa di legno, e da funzionaria del culto se ne vanta in segreto come della sua opera più riuscita.",
+"created": "2026-09-18",
+"difetto": "vanitoso",
+"epoca_relativa": 0,
+"estrazione": 112,
+"eta_fascia": "adulto",
+"fatti": [],
+"gancio": "Nessuno dei fedeli sa che le venature che dice di leggere come segni del giudizio nel legno della Ruota sono soltanto i tagli del suo scalpello.",
+"id": "NEO-PER-0083",
+"invenzione_id": "NEO-INV-0017",
+"media": [],
+"nome": "Ksenia",
+"parent_id": null,
+"rapporto": "costruita",
+"regione": "NEO-REG-calvenna",
+"relazione": null,
+"ritratto": null,
+"segno": "vergine",
+"spirituale": {
+"credenza": "il_crollo_come_giudizio",
+"rapporto": "funzionario_del_culto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ironico",
+"universo": "neofeudal"
+}

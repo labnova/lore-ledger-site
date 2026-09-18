@@ -2545,6 +2545,63 @@
 ]
 },
 {
+"alternativa_dettaglio": null,
+"alternative": [],
+"auto_riferimento": false,
+"carta_madre": "BAC-35233664104-1",
+"chiusa_il": null,
+"contro_cercato_marcato": [
+{
+"auto_riferimento": false,
+"id": "CYB-INV-0065"
+},
+{
+"auto_riferimento": false,
+"id": "CYB-PER-0011"
+}
+],
+"creata": "2026-09-17T23:15:26Z",
+"esito": null,
+"id": "BAC-35285967081-1",
+"payload": {
+"alternativa_testo": null,
+"artefatto_alternativo": null,
+"carta_madre": "BAC-35233664104-1",
+"contraddizione_id": null,
+"contro_cercato": [
+"CYB-INV-0065",
+"CYB-PER-0011"
+],
+"lacuna": "il seguito del sigillo trovato da ivo",
+"letto_a": "c167738f55c85f43b9800231e0b785c7228c5ab2",
+"posizione": "accolgo",
+"testo": "Accolgo: parent_id null è radice, non lacuna, e il gancio del sigillo nel sestante è davvero senza esito. Ho controllato CYB-INV-0065 e CYB-PER-0011: nessuna contraddizione; la figlia su Thomas è il seguito coerente e l'espansione è la forma giusta."
+},
+"postata_da": "redattore",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"CYB-GAD-0038"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "redattore",
+"da": "redattore",
+"quando": "2026-09-17T23:15:26Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "commento",
+"universi": [
+"cyberverse"
+]
+},
+{
 "chiusa_il": null,
 "creata": "2026-09-15T23:21:24Z",
 "esito": null,

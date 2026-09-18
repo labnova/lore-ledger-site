@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"cluster": "CYB-INV-0029",
+"created": "2026-09-17",
+"epoca_relativa": 0,
+"estrazione": 111,
+"fatti": [],
+"id": "CYB-SEM-0003",
+"media": [],
+"origine": "arricchimento",
+"ostacolo": "Nazlı Akteay, che teme le conseguenze dei modelli di rischio che lei stessa costruisce, scopre per caso una delle liste vendute da Emese e deve scegliere se denunciare la fuga di dati o lasciarla correre, perché il fidanzato lavora proprio nei blocchi segnalati da quella lista.",
+"parent_id": null,
+"premessa": "Emese Nekenevics vende sottobanco ai proprietari i punteggi di rischio della Sentinella Termica, convinta di fare beneficenza quando fa lo sconto a chi dice di averne bisogno, e vuole tenere in piedi il giro abbastanza a lungo da coprire le bollette di due famiglie a cui si è affezionata.",
+"regione": null,
+"relazione": null,
+"rottura": "Una delle inquiline a cui Emese è affezionata compare nell'ultima lista venduta, salvata poco prima da un allarme della Sentinella Termica e sfrattata un mese dopo proprio per quell'episodio registrato; Emese deve decidere se avvisarla o proteggere il proprio giro sottobanco, sapendo che Nazlı ha già visto la lista.",
+"schema_version": 1,
+"status": "canon",
+"tipo": "seme",
+"tono": "noir amministrativo, colpa che si accumula",
+"universi": [
+"cyberverse"
+],
+"universo": "cyberverse"
+}

@@ -1,11 +1,11 @@
 {
-"aggiornata": "2026-09-16",
+"aggiornata": "2026-09-17",
 "alias": [
 "NEO-REG-sarakan"
 ],
 "descrizione": "Terra di canali e cascine ai margini coltivabili del pianeta, dove il turno d'acqua è fissato dalla Diocesi del Cielo e i Cerusici passano una volta l'anno a riaprire i passaggi ostruiti con la stessa manovra che usano sui corpi vivi.",
 "ha_prosa": false,
-"n_ricorrenze": 50,
+"n_ricorrenze": 51,
 "nome": "Sarakan",
 "prima_apparizione": 56,
 "prosa": null,
@@ -460,6 +460,15 @@
 "riga_id": "NEO-INV-0090",
 "riga_tipo": "invenzione",
 "riga_titolo": "La Misura Doppia"
+},
+{
+"estrazione": 110,
+"quando": "2026-09-17",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0133",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Vivaio delle Radici Segrete"
 }
 ],
 "righe": [
@@ -642,6 +651,11 @@
 "id": "NEO-INV-0090",
 "tipo": "invenzione",
 "titolo": "La Misura Doppia"
+},
+{
+"id": "NEO-INV-0133",
+"tipo": "invenzione",
+"titolo": "Il Vivaio delle Radici Segrete"
 },
 {
 "id": "NEO-PER-0052",

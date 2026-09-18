@@ -1,0 +1,36 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "vedovo"
+},
+"appare_in": [],
+"casta": "artigiani_tecno_magi",
+"ceppo": "arabo",
+"cognome": "Nassar",
+"contraddizione": "Rigido al punto da imporre a ogni apprendista i tre inverni pieni prima di toccare l'otre da solo, ma per Rania Saladi ha già piegato la regola quattro volte, riaprendole l'apprendistato ogni volta che lo molla, l'unica eccezione che non ammette di fare.",
+"created": "2026-09-18",
+"difetto": "rigido",
+"epoca_relativa": 0,
+"estrazione": 112,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "Se la Diocesi scoprisse quante volte ha riammesso Rania fuori regola, il varco che lei non ha mai finito di riaprire diventerebbe il problema minore di Tariq.",
+"id": "NEO-PER-0091",
+"invenzione_id": "NEO-INV-0053",
+"media": [],
+"nome": "Tariq",
+"parent_id": "NEO-PER-0052",
+"rapporto": "studia",
+"regione": "NEO-REG-sarakan",
+"relazione": "espansione",
+"ritratto": null,
+"segno": "capricorno",
+"spirituale": {
+"credenza": "ciclo_del_ritorno",
+"rapporto": "devoto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "paziente",
+"universo": "neofeudal"
+}
