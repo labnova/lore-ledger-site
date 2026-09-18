@@ -286,6 +286,11 @@
 "to": "HAC-INV-0075"
 },
 {
+"from": "HAC-INV-0054",
+"kind": "parent",
+"to": "HAC-INV-0096"
+},
+{
 "from": "NEO-INV-0001",
 "kind": "regione",
 "to": "NEO-REG-calvenna"
@@ -1802,6 +1807,36 @@
 },
 {
 "from": "HAC-PER-0044",
+"kind": "regione",
+"to": "HAC-REG-rotterdam"
+},
+{
+"from": "HAC-PER-0043",
+"kind": "parent",
+"to": "HAC-PER-0045"
+},
+{
+"from": "HAC-PER-0045",
+"kind": "invenzione",
+"to": "HAC-INV-0001"
+},
+{
+"from": "HAC-PER-0045",
+"kind": "regione",
+"to": "HAC-REG-tallinn"
+},
+{
+"from": "HAC-PER-0044",
+"kind": "parent",
+"to": "HAC-PER-0046"
+},
+{
+"from": "HAC-PER-0046",
+"kind": "invenzione",
+"to": "HAC-INV-0001"
+},
+{
+"from": "HAC-PER-0046",
 "kind": "regione",
 "to": "HAC-REG-rotterdam"
 },
@@ -5971,6 +6006,21 @@
 "to": "NEO-REG-calvenna"
 },
 {
+"from": "NEO-GAD-0093",
+"kind": "invenzione",
+"to": "NEO-INV-0017"
+},
+{
+"from": "NEO-GAD-0093",
+"kind": "personaggio",
+"to": "NEO-PER-0082"
+},
+{
+"from": "NEO-GAD-0093",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
 "from": "STE-GAD-0001",
 "kind": "invenzione",
 "to": "STE-INV-0001"
@@ -10030,6 +10080,132 @@
 "universo": "hackverse"
 },
 {
+"id": "HAC-INV-0076",
+"tipo": "invenzione",
+"titolo": "koudcensor",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0077",
+"tipo": "invenzione",
+"titolo": "resincurve",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0078",
+"tipo": "invenzione",
+"titolo": "tabletdobbel",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0079",
+"tipo": "invenzione",
+"titolo": "seal2dice",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0080",
+"tipo": "invenzione",
+"titolo": "farmalabel",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0081",
+"tipo": "invenzione",
+"titolo": "tremorsplit",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0082",
+"tipo": "invenzione",
+"titolo": "tarabalans",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0083",
+"tipo": "invenzione",
+"titolo": "koudroll",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0084",
+"tipo": "invenzione",
+"titolo": "vrijvantick0",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0085",
+"tipo": "invenzione",
+"titolo": "bootseed_relay",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0086",
+"tipo": "invenzione",
+"titolo": "legacykoud",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0087",
+"tipo": "invenzione",
+"titolo": "craps_reefer",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0088",
+"tipo": "invenzione",
+"titolo": "dobbelseal",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0089",
+"tipo": "invenzione",
+"titolo": "overridekoud",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0090",
+"tipo": "invenzione",
+"titolo": "dobbelclone",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0091",
+"tipo": "invenzione",
+"titolo": "dockdraft",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0092",
+"tipo": "invenzione",
+"titolo": "ghostroll",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0093",
+"tipo": "invenzione",
+"titolo": "vorstvast",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0094",
+"tipo": "invenzione",
+"titolo": "deurregister",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0095",
+"tipo": "invenzione",
+"titolo": "laatstelog",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0096",
+"tipo": "invenzione",
+"titolo": "Il Coro Che Non Dimentica",
+"universo": "hackverse"
+},
+{
 "id": "HAC-PER-0001",
 "tipo": "personaggio",
 "titolo": "Misaki Ikaguchi",
@@ -10291,6 +10467,18 @@
 "id": "HAC-PER-0044",
 "tipo": "personaggio",
 "titolo": "Zawadi Mwangata",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0045",
+"tipo": "personaggio",
+"titolo": "Kiril Sokolov",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0046",
+"tipo": "personaggio",
+"titolo": "Furaha Kombo",
 "universo": "hackverse"
 },
 {
@@ -10891,6 +11079,12 @@
 "id": "NEO-GAD-0092",
 "tipo": "gadget",
 "titolo": "L'Auricolare Consumato",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-GAD-0093",
+"tipo": "gadget",
+"titolo": "Disco delle Sette Stelle",
 "universo": "neofeudal"
 },
 {

@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "la-comunita",
+"created": "2026-09-18",
+"discipline": [
+"logistica/catena_del_freddo",
+"gioco_azzardo/dadi"
+],
+"entita_usate": [
+"Stichting Koudeketen Rotterdam"
+],
+"epoca_relativa": 0,
+"estrazione": 116,
+"fatti": [],
+"gancio": "Nessuno ha mai brevettato \"l'aria di banchina\", ma chi gioca a dadi vicino al capannone della Stichting sa già in che angolo mettersi.",
+"id": "HAC-INV-0091",
+"media": [],
+"nome": "dockdraft",
+"nome_reale": "Sistema di controllo dell'umidità per container (impianto HVAC industriale)",
+"oggetto": "sistema di controllo dell'umidità dei container reefer, la cui sovrapressione residua rende più prevedibili i lanci di dado nel capannone",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "effetto-collaterale",
+"universo": "hackverse"
+}

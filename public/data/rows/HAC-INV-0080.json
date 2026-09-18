@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "nessuno-apparentemente",
+"created": "2026-09-18",
+"discipline": [
+"logistica/catena_del_freddo",
+"gioco_azzardo/dadi"
+],
+"entita_usate": [
+"Rotterdam"
+],
+"epoca_relativa": 0,
+"estrazione": 116,
+"fatti": [],
+"gancio": "Il codice non è mai stato corretto perché correggerlo aprirebbe il container all'ispezione, e nel frattempo mezzo porto ha imparato a leggere \"farmaceutico\" come \"gettoni\".",
+"id": "HAC-INV-0080",
+"media": [],
+"nome": "farmalabel",
+"nome_reale": "Codice doganale di container (classificazione merci)",
+"oggetto": "container etichettato \"farmaceutico refrigerato\" del porto di Rotterdam, che in realtà trasporta gettoni e dadi certificati per navi da casinò",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "errore-di-etichetta",
+"universo": "hackverse"
+}

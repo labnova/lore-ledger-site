@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-istituzione",
+"created": "2026-09-18",
+"discipline": [
+"logistica/catena_del_freddo",
+"gioco_azzardo/dadi"
+],
+"entita_usate": [
+"Stichting Koudeketen Rotterdam"
+],
+"epoca_relativa": 0,
+"estrazione": 116,
+"fatti": [],
+"gancio": "Alla Stichting Koudeketen Rotterdam arrivano ancora richieste di \"quello vecchio\", quello che si può ingannare, e ogni volta devono spiegare che non lo certificano più senza dire perché lo cercano.",
+"id": "HAC-INV-0089",
+"media": [],
+"nome": "overridekoud",
+"nome_reale": "Vecchio modello di logger reefer con override manuale (dispositivo ritirato dal mercato)",
+"oggetto": "vecchio modello di logger reefer con override manuale della temperatura, ritirato dal mercato ma ancora richiesto da chi nasconde carichi sensibili al caldo",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "versione-precedente",
+"universo": "hackverse"
+}

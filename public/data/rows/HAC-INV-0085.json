@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-inventore-originario",
+"created": "2026-09-18",
+"discipline": [
+"logistica/catena_del_freddo",
+"gioco_azzardo/dadi"
+],
+"entita_usate": [
+"TICK0"
+],
+"epoca_relativa": 0,
+"estrazione": 116,
+"fatti": [],
+"gancio": "Il progettista originario di TICK0 pensava di aver solo risparmiato un chip; ora la sua libreria di boot gira su ogni tavolo clandestino da qui ad Anversa, e nessuno gliene ha mai chiesto il permesso.",
+"id": "HAC-INV-0085",
+"media": [],
+"nome": "bootseed_relay",
+"nome_reale": "Rete di data-logger reefer (infrastruttura IoT portuale)",
+"oggetto": "rete di data-logger reefer usata come canale nascosto per sincronizzare gli esiti di dadi truccati tra bische di banchine diverse",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "contrabbando",
+"universo": "hackverse"
+}

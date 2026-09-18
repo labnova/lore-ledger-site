@@ -1,0 +1,28 @@
+{
+"appare_in": [],
+"chi_paga": "la-comunita",
+"created": "2026-09-18",
+"discipline": [
+"logistica/catena_del_freddo",
+"gioco_azzardo/dadi"
+],
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 116,
+"fatti": [],
+"gancio": "Funziona solo se la tara la imposta lo stesso ispettore che l'ha portata da Anversa; quando è in ferie, tutto il lotto pesato quella settimana passa il controllo con un decimo di grammo di troppo.",
+"id": "HAC-INV-0082",
+"media": [],
+"nome": "tarabalans",
+"nome_reale": "Bilancia di precisione certificata (strumento di taratura)",
+"oggetto": "bilancia di precisione elettronica per certificare dadi da casinò, prestata ai controlli doganali sui campioni prelevati dai container reefer",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "calibrazione",
+"universo": "hackverse"
+}

@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-utente-ultimo",
+"created": "2026-09-18",
+"discipline": [
+"logistica/catena_del_freddo",
+"gioco_azzardo/dadi"
+],
+"entita_usate": [
+"Stichting Koudeketen Rotterdam"
+],
+"epoca_relativa": 0,
+"estrazione": 116,
+"fatti": [],
+"gancio": "Chi lo scarica per ultimo, il magazziniere della cooperativa ittica, non sa di avere in tasca l'unico dato che smentisce l'intera catena di custodia dichiarata dalla Stichting.",
+"id": "HAC-INV-0095",
+"media": [],
+"nome": "laatstelog",
+"nome_reale": "Ultimo logger superstite di un container compromesso (prova digitale residua)",
+"oggetto": "ultimo logger reefer superstite del container che ha trasportato il lotto di dadi contraffatti, l'unica prova che qualcuno ha sostituito il carico dichiarato",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "oggetto-testimone",
+"universo": "hackverse"
+}

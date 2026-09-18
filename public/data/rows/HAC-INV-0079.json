@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_paga": "l-utente-ultimo",
+"created": "2026-09-18",
+"discipline": [
+"logistica/catena_del_freddo",
+"gioco_azzardo/dadi"
+],
+"entita_usate": [
+"Dries Okonkwo",
+"Stichting Koudeketen Rotterdam"
+],
+"epoca_relativa": 0,
+"estrazione": 116,
+"fatti": [],
+"gancio": "Da quando i tavoli clandestini di Dries Okonkwo usano lo stesso sigillo NFC del porto approvato dalla Stichting Koudeketen Rotterdam, ogni lancio è tracciato, e la tracciabilità si scarica sul buy-in di chi gioca per ultimo.",
+"id": "HAC-INV-0079",
+"media": [],
+"nome": "seal2dice",
+"nome_reale": "Sigillo NFC per container (dispositivo antimanomissione doganale)",
+"oggetto": "protocollo NFC per i sigilli dei container reefer, adottato per risparmio anche dagli agitatori elettronici di dadi da casinò",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "standard-imposto",
+"universo": "hackverse"
+}

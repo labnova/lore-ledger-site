@@ -1,0 +1,28 @@
+{
+"appare_in": [],
+"chi_paga": "la-comunita",
+"created": "2026-09-18",
+"discipline": [
+"sanita_pubblica/quarantena",
+"musica/canto"
+],
+"entita_usate": [],
+"epoca_relativa": 1,
+"estrazione": 116,
+"fatti": [],
+"gancio": "Chi salta le prove del coro riceve, invece di una nota di richiamo dal maestro, una telefonata dall'ufficio sanitario che cita un contatto di tre anni prima.",
+"id": "HAC-INV-0096",
+"media": [],
+"nome": "Il Coro Che Non Dimentica",
+"nome_reale": "Archivio vocale e conteggio da drone (nato per il tracciamento dei contatti in quarantena)",
+"oggetto": "archivio vocale dei droni del Cerchio che Canta, che registra da anni chi ha mancato una prova e lo incrocia ancora con i vecchi tabulati di quarantena",
+"parent_id": "HAC-INV-0054",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "sorveglianza-incorporata",
+"universo": "hackverse"
+}

@@ -4650,5 +4650,104 @@
 "ELA-CON-0010"
 ],
 "universo": "elabverse"
+},
+{
+"campi_forzati": [],
+"chiavi": {
+"manca": {
+"gadget": 1,
+"personaggi": 0,
+"regione": true
+},
+"regione": "Calvenna",
+"universo": "neofeudal"
+},
+"cluster_target": "NEO-INV-0017",
+"created": "2026-09-18",
+"esito": "ok",
+"estrazione": 115,
+"forzata": false,
+"lotto": "lotto-maturazione",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"NEO-GAD-0093"
+],
+"universo": "neofeudal"
+},
+{
+"ambientazione": "omaggio-cross-universe",
+"bibbia_pescata": [
+"# Bibbia — Hackverse",
+"Il mondo di oggi, esattamente com'è, visto dall'ecosis"
+],
+"campi_forzati": [],
+"canone_pescato": [
+"HAC-PER-0043",
+"HAC-INV-0054",
+"HAC-PER-0044"
+],
+"chiavi": {
+"discipline": [
+"logistica/catena_del_freddo",
+"gioco_azzardo/dadi"
+],
+"universo": "hackverse"
+},
+"citta": "Rotterdam",
+"created": "2026-09-18",
+"entita": {
+"anomalia": {
+"descrizione": "Il bug di seme condiviso tra i data-logger di temperatura dei container Kryo e le app di dadi truccati usate nei tornei clandestini di banchina, stesso microcontrollore, stesso seme pseudo-casuale legato all'orario di avvio, stessa sequenza prevedibile.",
+"nome": "TICK0"
+},
+"attore": {
+"descrizione": "Broker di banchina che smista carichi reefer fuori manifesto, firmware ricondizionato, dadi truccati per i tornei clandestini, partite di farmaci refrigerati rietichettati.",
+"nome": "Dries Okonkwo"
+},
+"ente": {
+"descrizione": "Fondazione di certificazione che audita la continuità del freddo nei container reefer del porto di Rotterdam, emettendo il bollino che permette lo sdoganamento rapido.",
+"nome": "Stichting Koudeketen Rotterdam"
+},
+"luogo": {
+"descrizione": "Il porto più grande d'Europa smista container, turni di banchina e manifesti doganali ventiquattr'ore su ventiquattro; nessun ceppo prevale perché la manodopera arriva da ogni rotta commerciale, e chi diventa corriere qui porta il cognome della città da cui è partito, non di quella in cui ha attraccato.",
+"nome": "Rotterdam"
+}
+},
+"entita_riusate": [
+"Rotterdam"
+],
+"esito": "ok",
+"espansioni": [
+"HAC-PER-0045",
+"HAC-PER-0046",
+"HAC-INV-0096"
+],
+"estrazione": 116,
+"forzata": false,
+"lotto": "lotto-lore",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"HAC-INV-0076",
+"HAC-INV-0077",
+"HAC-INV-0078",
+"HAC-INV-0079",
+"HAC-INV-0080",
+"HAC-INV-0081",
+"HAC-INV-0082",
+"HAC-INV-0083",
+"HAC-INV-0084",
+"HAC-INV-0085",
+"HAC-INV-0086",
+"HAC-INV-0087",
+"HAC-INV-0088",
+"HAC-INV-0089",
+"HAC-INV-0090",
+"HAC-INV-0091",
+"HAC-INV-0092",
+"HAC-INV-0093",
+"HAC-INV-0094",
+"HAC-INV-0095"
+],
+"universo": "hackverse"
 }
 ]

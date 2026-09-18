@@ -1,0 +1,28 @@
+{
+"appare_in": [],
+"chi_paga": "nessuno-apparentemente",
+"created": "2026-09-18",
+"discipline": [
+"logistica/catena_del_freddo",
+"gioco_azzardo/dadi"
+],
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 116,
+"fatti": [],
+"gancio": "Quando la partita che li importa da Danzica salta, in banchina nessuno lo ammette, ma tre turni di pausa si giocano a carte, storti, in silenzio.",
+"id": "HAC-INV-0093",
+"media": [],
+"nome": "vorstvast",
+"nome_reale": "Dadi certificati per basse temperature (attrezzatura da gioco resistente al freddo)",
+"oggetto": "dadi certificati per basse temperature, gli unici che non si crepano nelle celle frigo dove i portuali giocano in pausa",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "dipendenza",
+"universo": "hackverse"
+}

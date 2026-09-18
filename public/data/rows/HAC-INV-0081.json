@@ -1,0 +1,28 @@
+{
+"appare_in": [],
+"chi_paga": "l-ambiente-gli-animali",
+"created": "2026-09-18",
+"discipline": [
+"logistica/catena_del_freddo",
+"gioco_azzardo/dadi"
+],
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 116,
+"fatti": [],
+"gancio": "Per i portuali di Rotterdam è \"il tremore\", per i corrieri che scaricano è \"kutetemeka\"; quando i due nomi non si sono riconosciuti nello stesso rapporto, la cella con le aragoste vive è rimasta due ore fuori soglia.",
+"id": "HAC-INV-0081",
+"media": [],
+"nome": "tremorsplit",
+"nome_reale": "Sensore di urto per container refrigerati (accelerometro industriale)",
+"oggetto": "sensore di urto per container reefer, usato anche per scovare i dadi elettronici truccati nei controlli doganali",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "malinteso-linguistico",
+"universo": "hackverse"
+}

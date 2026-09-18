@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_paga": "l-inventore-originario",
+"created": "2026-09-18",
+"discipline": [
+"logistica/catena_del_freddo",
+"gioco_azzardo/dadi"
+],
+"entita_usate": [
+"TICK0",
+"Dries Okonkwo"
+],
+"epoca_relativa": 0,
+"estrazione": 116,
+"fatti": [],
+"gancio": "Chi ha progettato TICK0 voleva solo proteggere i vaccini dal caldo; ora quel registro di aperture è la prova che la polizia doganale usa per risalire a Dries Okonkwo.",
+"id": "HAC-INV-0094",
+"media": [],
+"nome": "deurregister",
+"nome_reale": "Logger reefer con rilevamento manomissione (dispositivo di sicurezza logistica)",
+"oggetto": "logger reefer con rilevamento di manomissione che registra ogni apertura del portellone, comprese quelle dei corrieri di dadi truccati",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "sorveglianza-incorporata",
+"universo": "hackverse"
+}

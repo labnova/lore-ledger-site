@@ -1,0 +1,28 @@
+{
+"appare_in": [],
+"chi_paga": "un-terzo-ignaro",
+"created": "2026-09-18",
+"discipline": [
+"logistica/catena_del_freddo",
+"gioco_azzardo/dadi"
+],
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 116,
+"fatti": [],
+"gancio": "Il reparto pediatrico che aspetta il vaccino non saprà mai che l'allarme di temperatura è arrivato con venti minuti di ritardo perché il tablet stava processando una partita a dadi.",
+"id": "HAC-INV-0078",
+"media": [],
+"nome": "tabletdobbel",
+"nome_reale": "Tablet da bordo per il monitoraggio della temperatura (dispositivo IoT logistico)",
+"oggetto": "tablet di bordo per il monitoraggio della catena del freddo, con un'app di dadi vietata installata sotto lo stesso account aziendale",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "divieto-ignorato",
+"universo": "hackverse"
+}

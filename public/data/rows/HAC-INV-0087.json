@@ -1,0 +1,28 @@
+{
+"appare_in": [],
+"chi_paga": "l-ambiente-gli-animali",
+"created": "2026-09-18",
+"discipline": [
+"logistica/catena_del_freddo",
+"gioco_azzardo/dadi"
+],
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 116,
+"fatti": [],
+"gancio": "Le vasche di aragoste vive condividono l'alimentazione con le luci del tavolo da craps che nessuno può staccare, e quando il tavolo si accende il compressore rallenta.",
+"id": "HAC-INV-0087",
+"media": [],
+"nome": "craps_reefer",
+"nome_reale": "Container reefer dismesso (unità di carico refrigerata a fine vita)",
+"oggetto": "container reefer dismesso, ereditato da una cooperativa di pescatori con la clausola di non smontare l'impianto per i tornei di dadi clandestini",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "eredita-lascito",
+"universo": "hackverse"
+}

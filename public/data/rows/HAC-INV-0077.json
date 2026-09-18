@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-inventore-originario",
+"created": "2026-09-18",
+"discipline": [
+"logistica/catena_del_freddo",
+"gioco_azzardo/dadi"
+],
+"entita_usate": [
+"Dries Okonkwo"
+],
+"epoca_relativa": 0,
+"estrazione": 116,
+"fatti": [],
+"gancio": "Dries Okonkwo ha raddrizzato la curva di stagionatura nel log della cella prima che qualcuno la controllasse, e ora i dadi che ne escono pesano un decimo di grammo in più da un lato solo quando fa freddo.",
+"id": "HAC-INV-0077",
+"media": [],
+"nome": "resincurve",
+"nome_reale": "Dado di precisione da casinò (dado calibrato a tolleranze ufficiali)",
+"oggetto": "stampo di resina per dadi di precisione da casinò, con cella di stagionatura a temperatura controllata come un reefer da carico",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "sabotaggio",
+"universo": "hackverse"
+}

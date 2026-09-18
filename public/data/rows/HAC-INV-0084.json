@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_paga": "l-istituzione",
+"created": "2026-09-18",
+"discipline": [
+"logistica/catena_del_freddo",
+"gioco_azzardo/dadi"
+],
+"entita_usate": [
+"Stichting Koudeketen Rotterdam",
+"TICK0"
+],
+"epoca_relativa": 0,
+"estrazione": 116,
+"fatti": [],
+"gancio": "La Stichting deve certificare comunque duecento container con logger di cui non ha più la matricola, e ogni bollino che firma da qui in avanti è una scommessa.",
+"id": "HAC-INV-0084",
+"media": [],
+"nome": "vrijvantick0",
+"nome_reale": "Data-logger di temperatura certificato (dispositivo di monitoraggio reefer)",
+"oggetto": "lotto di data-logger certificati TICK0-free, rubato dal magazzino della Stichting Koudeketen Rotterdam la notte prima dell'audit annuale",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "furto",
+"universo": "hackverse"
+}

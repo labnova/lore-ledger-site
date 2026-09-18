@@ -1,0 +1,28 @@
+{
+"appare_in": [],
+"chi_paga": "l-utente-ultimo",
+"created": "2026-09-18",
+"discipline": [
+"logistica/catena_del_freddo",
+"gioco_azzardo/dadi"
+],
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 116,
+"fatti": [],
+"gancio": "L'autista che scarica l'ultimo container della catena scopre che l'allarme di temperatura non è mai arrivato, il logger vecchio non sa più parlare con i server nuovi, solo con le slot delle navi da casinò.",
+"id": "HAC-INV-0086",
+"media": [],
+"nome": "legacykoud",
+"nome_reale": "Modello obsoleto di logger di temperatura (dispositivo IoT dismesso)",
+"oggetto": "modello di logger reefer di sette anni fa, tenuto in servizio perché compatibile solo col firmware degli agitatori di dadi delle navi da casinò",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "obsolescenza",
+"universo": "hackverse"
+}

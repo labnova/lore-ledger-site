@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "il-futuro",
+"created": "2026-09-18",
+"discipline": [
+"logistica/catena_del_freddo",
+"gioco_azzardo/dadi"
+],
+"entita_usate": [
+"Stichting Koudeketen Rotterdam"
+],
+"epoca_relativa": 0,
+"estrazione": 116,
+"fatti": [],
+"gancio": "Alla Stichting Koudeketen Rotterdam nessuno pronuncia la parola \"dadi\"; la chiamano \"carico secondario\", e il registro la riporta solo come una riga vuota tra due temperature.",
+"id": "HAC-INV-0076",
+"media": [],
+"nome": "koudcensor",
+"nome_reale": "Registro di tracciabilità della catena del freddo (documento di conformità doganale)",
+"oggetto": "registro digitale di continuità del freddo dei container reefer di Rotterdam, redatto a estratti perché la sezione sui carichi doppi resta secretata",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "censura",
+"universo": "hackverse"
+}

@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "vedovo"
+},
+"appare_in": [],
+"casta": "corrieri",
+"ceppo": "swahili",
+"cognome": "Kombo",
+"contraddizione": "Percorre la stessa rotta \"esclusiva\" che Baraka gli ha venduto convinto di essere l'unico a farlo, e ogni volta che trova un turno già scambiato all'ultimo momento lo prende per fortuna, mai per un altro cliente.",
+"created": "2026-09-18",
+"difetto": "superstizioso",
+"epoca_relativa": 0,
+"estrazione": 116,
+"eta_fascia": "adulto",
+"fatti": [],
+"gancio": "Furaha non ha ancora notato che il suo turno di scarico combacia, quasi all'ora, con quello che Zawadi Mwangata segna di nascosto sul proprio quaderno.",
+"id": "HAC-PER-0046",
+"invenzione_id": "HAC-INV-0001",
+"media": [],
+"nome": "Furaha",
+"parent_id": "HAC-PER-0044",
+"rapporto": "usa",
+"regione": "HAC-REG-rotterdam",
+"relazione": "espansione",
+"ritratto": null,
+"schema_version": 1,
+"segno": "capricorno",
+"spirituale": {
+"credenza": "dottrina del debito",
+"rapporto": "praticante_tiepido"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "instancabile",
+"universo": "hackverse"
+}

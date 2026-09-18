@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "il-costruttore",
+"created": "2026-09-18",
+"discipline": [
+"logistica/catena_del_freddo",
+"gioco_azzardo/dadi"
+],
+"entita_usate": [
+"Rotterdam"
+],
+"epoca_relativa": 0,
+"estrazione": 116,
+"fatti": [],
+"gancio": "Il prototipo gira già su tre banchine di Rotterdam mesi prima della presentazione ufficiale, e il costruttore lo scopre da una foto postata da un corriere.",
+"id": "HAC-INV-0088",
+"media": [],
+"nome": "dobbelseal",
+"nome_reale": "Sigillo crittografico per container (dispositivo antimanomissione di nuova generazione)",
+"oggetto": "prototipo non ancora lanciato di sigillo crittografico per container reefer, che genera la chiave da lanci di un dado elettronico interno",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "versione-futura-trapelata",
+"universo": "hackverse"
+}

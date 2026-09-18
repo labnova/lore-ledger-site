@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "un-terzo-ignaro",
+"created": "2026-09-18",
+"discipline": [
+"logistica/catena_del_freddo",
+"gioco_azzardo/dadi"
+],
+"entita_usate": [
+"Stichting Koudeketen Rotterdam"
+],
+"epoca_relativa": 0,
+"estrazione": 116,
+"fatti": [],
+"gancio": "Il turista che li lancia al tavolo di un traghetto per Hoek van Holland non saprà mai che il sette che gli è appena costato la vacanza è stato tarato con i numeri rubati a un container di vaccini.",
+"id": "HAC-INV-0090",
+"media": [],
+"nome": "dobbelclone",
+"nome_reale": "Dadi da casinò contraffatti (copia non certificata)",
+"oggetto": "dadi da casinò contraffatti, calibrati copiando i dati di taratura rubati alla Stichting Koudeketen Rotterdam",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "falsificazione",
+"universo": "hackverse"
+}

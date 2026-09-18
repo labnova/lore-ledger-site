@@ -62,47 +62,6 @@
 ]
 },
 {
-"chiusa_il": null,
-"creata": "2026-09-18T00:58:47Z",
-"esito": null,
-"esito_tipo": null,
-"firma": null,
-"id": "BAC-35293341305-1",
-"nota": null,
-"occorrenze": 1,
-"payload": {
-"errore": "revisione BAC-35233664104-1: TettoSuperato: tetto LLM_MAX_CHIAMATE_RUN superato: 6 >= 6",
-"run_id": "35293341305",
-"step": "revisione",
-"workflow": "riparatore"
-},
-"postata_da": "riparatore",
-"presa_da": null,
-"presa_il": null,
-"priorita": 2,
-"racconto": null,
-"righe": [
-"riparatore#35293341305#revisione"
-],
-"run_coinvolti": [
-"35293341305"
-],
-"scade": null,
-"stato": "aperta",
-"storia": [
-{
-"agente": "riparatore",
-"da": "riparatore",
-"quando": "2026-09-18T00:58:47Z",
-"stato": "aperta"
-}
-],
-"tentativi": 0,
-"tipo": "guasto",
-"universi": [],
-"verifica": null
-},
-{
 "alternativa_dettaglio": null,
 "alternative": [],
 "auto_riferimento": false,
@@ -3456,6 +3415,17 @@
 "CYB-GAD-0038",
 "CYB-INV-0065"
 ]
+},
+{
+"agente": "redattore",
+"auto_riferimento": [],
+"commento": "BAC-35285967081-1",
+"contraddizione_valida": false,
+"posizione": "accolgo",
+"prove_valide": [
+"CYB-INV-0065",
+"CYB-PER-0011"
+]
 }
 ]
 },
@@ -3470,7 +3440,7 @@
 "entita:cyberverse/anomalia/la-deriva-del-meridiano",
 "entita:neofeudal/anomalia/la-fusione-dei-voti"
 ],
-"commenti_visti": 1,
+"commenti_visti": 2,
 "forma": "espansione",
 "lacuna": "il seguito del sigillo trovato da ivo",
 "letto_a": "c167738f55c85f43b9800231e0b785c7228c5ab2",
@@ -3739,6 +3709,51 @@
 "agente": "redattore",
 "da": "redattore",
 "quando": "2026-09-16T19:29:23Z",
+"stato": "attesa_curatore"
+}
+],
+"tentativi": 0,
+"tipo": "nota",
+"universi": []
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-18T05:33:05Z",
+"esito": null,
+"id": "BAC-35310632712-1",
+"payload": {
+"bersaglio": "regolamento",
+"esito_tipo": "non_rimediabile",
+"firma": "fe95b2074c50",
+"guasto_id": "BAC-35293341305-1",
+"modifica_proposta": "Decisione del curatore su `tetti del modello`: il rimedio proposto era «Non rilanciare a vuoto: rilanciare ripartirebbe dallo stesso preventivo di chiamate e ricadrebbe sul tetto.» Non applicato dall'agente: il campo in gioco compare come `tetto`. Carta guasto BAC-35293341305-1, firma fe95b2074c50. Riferimenti: carta guasto `BAC-35293341305-1`, campo `firma` = `fe95b2074c50`, log `logs/guasto-BAC-35293341305-1.md`, `agenti.yaml: rimedi_vietati` → `tetti del modello`.",
+"motivo": "non rimediabile dall'agente",
+"osservazione": "Guasto non rimediabile dall'agente: workflow `riparatore`, step `revisione`, classe `limite_modello`. Errore: revisione BAC-35233664104-1: TettoSuperato: tetto LLM_MAX_CHIAMATE_RUN superato: 6 >= 6 Diagnosi dell'agente: Il run 35293341305 step `revisione` ha toccato LLM_MAX_CHIAMATE_RUN (6 >= 6): il tetto per-run ha fatto esattamente il suo lavoro, fermando la revisione BAC-35233664104-1 prima di ulteriori chiamate al modello. Il rimedio proposto tocca un freno vietato (tetti del modello): alzare il proprio tetto di spesa è rimuovere il freno che contiene l'agente: decide il curatore. La decisione non spetta all'agente: nessun rimedio è stato applicato.",
+"prove": [
+"BAC-35293341305-1",
+"firma:fe95b2074c50",
+"riparatore#35293341305#revisione"
+],
+"vietato": {
+"motivo": "alzare il proprio tetto di spesa è rimuovere il freno che contiene l'agente: decide il curatore",
+"nome": "tetti del modello",
+"pattern": "\\btett[oi]\\b",
+"trovato": "tetto"
+}
+},
+"postata_da": "guardiano",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [],
+"scade": null,
+"stato": "attesa_curatore",
+"storia": [
+{
+"agente": "guardiano",
+"da": "guardiano",
+"quando": "2026-09-18T05:33:05Z",
 "stato": "attesa_curatore"
 }
 ],
@@ -5520,6 +5535,75 @@
 "agente": "guardiano",
 "da": "guardiano",
 "quando": "2026-09-16T00:58:35Z",
+"stato": "in_attesa"
+}
+],
+"tentativi": 1,
+"tipo": "guasto",
+"universi": [],
+"verifica": null
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-18T00:58:47Z",
+"esito": "non_rimediabile: limite_modello: Non rilanciare a vuoto: rilanciare ripartirebbe dallo stesso preventivo di chiamate e ricadrebbe sul tetto. Ispezionare il log per confermare quante chiamate ha (logs/guasto-BAC-35293341305-1.md) (nota BAC-35310632712-1)",
+"esito_tipo": "non_rimediabile",
+"firma": "fe95b2074c50",
+"id": "BAC-35293341305-1",
+"nota": "BAC-35310632712-1",
+"occorrenze": 1,
+"payload": {
+"diagnosi": {
+"classe": "limite_modello",
+"comando": null,
+"diagnosi": "Il run 35293341305 step `revisione` ha toccato LLM_MAX_CHIAMATE_RUN (6 >= 6): il tetto per-run ha fatto esattamente il suo lavoro, fermando la revisione BAC-35233664104-1 prima di ulteriori chiamate al modello. Non è un guasto tecnico né un errore di codice: è un consumo esaurito, e la decisione su come ripartire il lotto spetta al curatore, non a un rilancio. — guardiano",
+"rimedio": "Non rilanciare a vuoto: rilanciare ripartirebbe dallo stesso preventivo di chiamate e ricadrebbe sul tetto. Ispezionare il log per confermare quante chiamate ha consumato il lotto BAC-35233664104-1 e spezzare la revisione in lotti più piccoli (o rimandare il residuo al prossimo run) su nota del curatore. — guardiano",
+"ritenta_automaticamente": false
+},
+"errore": "revisione BAC-35233664104-1: TettoSuperato: tetto LLM_MAX_CHIAMATE_RUN superato: 6 >= 6",
+"esito_tipo": "non_rimediabile",
+"firma": "fe95b2074c50",
+"nota": "BAC-35310632712-1",
+"rimedio_vietato": {
+"motivo": "alzare il proprio tetto di spesa è rimuovere il freno che contiene l'agente: decide il curatore",
+"nome": "tetti del modello",
+"pattern": "\\btett[oi]\\b",
+"trovato": "tetto"
+},
+"run_id": "35293341305",
+"step": "revisione",
+"workflow": "riparatore"
+},
+"postata_da": "riparatore",
+"presa_da": "guardiano",
+"presa_il": "2026-09-18T05:32:58Z",
+"priorita": 2,
+"racconto": null,
+"righe": [
+"riparatore#35293341305#revisione"
+],
+"run_coinvolti": [
+"35293341305"
+],
+"scade": "2026-09-18T11:32:58Z",
+"stato": "in_attesa",
+"storia": [
+{
+"agente": "riparatore",
+"da": "riparatore",
+"quando": "2026-09-18T00:58:47Z",
+"stato": "aperta"
+},
+{
+"agente": "guardiano",
+"da": "guardiano",
+"quando": "2026-09-18T05:32:58Z",
+"stato": "presa"
+},
+{
+"agente": "guardiano",
+"da": "guardiano",
+"quando": "2026-09-18T05:33:05Z",
 "stato": "in_attesa"
 }
 ],

@@ -1,0 +1,28 @@
+{
+"appare_in": [],
+"chi_paga": "il-futuro",
+"created": "2026-09-18",
+"discipline": [
+"logistica/catena_del_freddo",
+"gioco_azzardo/dadi"
+],
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 116,
+"fatti": [],
+"gancio": "Ogni tanto il nuovo logger sputa fuori, invece di un grado Celsius, il residuo di una sequenza di lanci di sette anni fa, mai cancellata da nessuno.",
+"id": "HAC-INV-0092",
+"media": [],
+"nome": "ghostroll",
+"nome_reale": "Agitatore di dadi riciclato (dispositivo elettronico di seconda mano)",
+"oggetto": "agitatore elettronico di dadi riciclato da una nave da casinò dismessa, riconvertito a logger di temperatura senza cancellarne la memoria interna",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "memoria-dell-oggetto",
+"universo": "hackverse"
+}

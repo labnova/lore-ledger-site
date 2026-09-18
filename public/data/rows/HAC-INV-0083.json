@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "il-costruttore",
+"created": "2026-09-18",
+"discipline": [
+"logistica/catena_del_freddo",
+"gioco_azzardo/dadi"
+],
+"entita_usate": [
+"Rotterdam"
+],
+"epoca_relativa": 0,
+"estrazione": 116,
+"fatti": [],
+"gancio": "Il collaudo doveva controllare solo le guarnizioni al freddo, ma i log hanno mostrato che il generatore di numeri casuali dell'agitatore si blocca sempre sulla medesima sequenza sotto i quattro gradi.",
+"id": "HAC-INV-0083",
+"media": [],
+"nome": "koudroll",
+"nome_reale": "Agitatore elettronico di dadi da casinò (dice shaker regolamentato)",
+"oggetto": "prototipo di agitatore elettronico per dadi da casinò, testato nella cella climatica dei container reefer di Rotterdam",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "prova-collaudo",
+"universo": "hackverse"
+}
