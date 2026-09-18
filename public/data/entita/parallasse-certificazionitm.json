@@ -1,9 +1,9 @@
 {
-"aggiornata": "2026-09-17",
+"aggiornata": "2026-09-18",
 "alias": [],
 "descrizione": "Corporazione che rilascia il Bollino di restauro autorizzato a Vetrasca, validando ogni facciata contro l'archivio delle posizioni orbitali registrato al momento della sua ultima ristrutturazione.",
 "ha_prosa": false,
-"n_ricorrenze": 34,
+"n_ricorrenze": 42,
 "nome": "Parallasse Certificazioni™",
 "prima_apparizione": 78,
 "prosa": null,
@@ -314,6 +314,78 @@
 "riga_id": "CYB-INV-0093",
 "riga_tipo": "invenzione",
 "riga_titolo": "Il Bollino Quasi Vero"
+},
+{
+"estrazione": 119,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 119,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0041",
+"riga_tipo": "gadget",
+"riga_titolo": "L'Occhio che Conta"
+},
+{
+"estrazione": 119,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0043",
+"riga_tipo": "gadget",
+"riga_titolo": "Gli Aghi Piccoli"
+},
+{
+"estrazione": 119,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0045",
+"riga_tipo": "gadget",
+"riga_titolo": "Gli Occhiali che Allungano"
+},
+{
+"estrazione": 119,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0046",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Nome Raschiato"
+},
+{
+"estrazione": 119,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0048",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Calibro Cieco"
+},
+{
+"estrazione": 119,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0049",
+"riga_tipo": "gadget",
+"riga_titolo": "Lo Spillo di Mira"
+},
+{
+"estrazione": 119,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0050",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Modello Unico"
 }
 ],
 "righe": [
@@ -361,6 +433,41 @@
 "id": "CYB-GAD-0040",
 "tipo": "gadget",
 "titolo": "Il Bollino Buono"
+},
+{
+"id": "CYB-GAD-0041",
+"tipo": "gadget",
+"titolo": "L'Occhio che Conta"
+},
+{
+"id": "CYB-GAD-0043",
+"tipo": "gadget",
+"titolo": "Gli Aghi Piccoli"
+},
+{
+"id": "CYB-GAD-0045",
+"tipo": "gadget",
+"titolo": "Gli Occhiali che Allungano"
+},
+{
+"id": "CYB-GAD-0046",
+"tipo": "gadget",
+"titolo": "Il Nome Raschiato"
+},
+{
+"id": "CYB-GAD-0048",
+"tipo": "gadget",
+"titolo": "Il Calibro Cieco"
+},
+{
+"id": "CYB-GAD-0049",
+"tipo": "gadget",
+"titolo": "Lo Spillo di Mira"
+},
+{
+"id": "CYB-GAD-0050",
+"tipo": "gadget",
+"titolo": "Il Modello Unico"
 },
 {
 "id": "CYB-INV-0050",

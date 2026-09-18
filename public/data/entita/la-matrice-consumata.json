@@ -1,9 +1,9 @@
 {
-"aggiornata": "2026-09-17",
+"aggiornata": "2026-09-18",
 "alias": [],
 "descrizione": "Piastra da incisione usata da generazioni per stampare tanto il Bollino di Parallasse Certificazioni™ quanto il marchio della gilda dei cappellai di Rostkirche; il rilievo, consumato dall'uso, preme ormai un segno ambiguo che entrambe le autorità rivendicano come proprio.",
 "ha_prosa": false,
-"n_ricorrenze": 2,
+"n_ricorrenze": 5,
 "nome": "La Matrice Consumata",
 "prima_apparizione": 103,
 "prosa": null,
@@ -26,9 +26,46 @@
 "riga_id": "CYB-INV-0078",
 "riga_tipo": "invenzione",
 "riga_titolo": "La Crepa nella Matrice"
+},
+{
+"estrazione": 119,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 119,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0042",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Marchio Doppio"
+},
+{
+"estrazione": 119,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0048",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Calibro Cieco"
 }
 ],
 "righe": [
+{
+"id": "CYB-GAD-0042",
+"tipo": "gadget",
+"titolo": "Il Marchio Doppio"
+},
+{
+"id": "CYB-GAD-0048",
+"tipo": "gadget",
+"titolo": "Il Calibro Cieco"
+},
 {
 "id": "CYB-INV-0078",
 "tipo": "invenzione",
@@ -36,7 +73,7 @@
 }
 ],
 "slug": "la-matrice-consumata",
-"sopra_soglia": false,
+"sopra_soglia": true,
 "tipo": "anomalia",
 "universo": "cyberverse"
 }

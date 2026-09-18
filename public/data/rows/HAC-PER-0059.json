@@ -3,35 +3,7 @@
 "orientamento": "pansessuale",
 "situazione": "promesso_per_contratto"
 },
-"appare_in": [
-"2026-09-16-un-grado-piu-chiaro"
-],
-"casta": "analisti",
-"ceppo": "ibrido",
-"cognome": "Arrizabal",
-"contraddizione": "Ha costruito lui stesso l'algoritmo che rileva il rilascio lento del colorante nelle lenti, un lavoro che dovrebbe restare invisibile come ogni buon strumento OSINT, ma non resiste a firmarlo con uno pseudonimo riconoscibile nei changelog interni, esponendo l'intera cella a chi legge i log.",
-"created": "2026-09-16",
-"difetto": "vanitoso",
-"epoca_relativa": 0,
-"estrazione": 74,
-"eta_fascia": "adulto",
-"fatti": [
-{
-"id": "HAC-FAT-35139219618-1",
-"momento": 1,
-"stabilito_da": "2026-09-16-un-grado-piu-chiaro",
-"testo": "Dmitri Arrizabal firma ogni commit di irisdrift con l'handle machinesdream, che usa in pubblico da nove anni.",
-"tipo_fatto": "stato"
-}
-],
-"gancio": "Il suo promesso per contratto scopre la firma nascosta nel codice e capisce, prima ancora dei colleghi, che Dmitri ha appena reso tracciabile ogni analista che ha usato quello strumento.",
-"id": "HAC-PER-0025",
-"innesti": [
-{
-"affettivo": {
-"orientamento": "pansessuale",
-"situazione": "promesso_per_contratto"
-},
+"appare_in": [],
 "casta": "analisti",
 "ceppo": "ibrido",
 "cognome": "Arrizabal",
@@ -41,34 +13,17 @@
 "epoca_relativa": 0,
 "estrazione": 74,
 "eta_fascia": "adulto",
+"fatti": [],
 "gancio": "Il suo promesso per contratto scopre la firma nascosta nel codice e capisce, prima ancora dei colleghi, che Dmitri ha appena reso tracciabile ogni analista che ha usato quello strumento.",
 "id": "HAC-PER-0059",
 "invenzione_id": "HAC-INV-0037",
+"media": [],
 "nome": "Dmitri",
 "origine": "sospeso",
 "parent_id": "HAC-PER-0025",
 "rapporto": "costruita",
 "regione": "HAC-REG-tallinn",
 "relazione": "innesto",
-"schema_version": 1,
-"segno": "acquario",
-"spirituale": {
-"credenza": "le macchine sognano",
-"rapporto": "praticante_tiepido"
-},
-"status": "canon",
-"tipo": "personaggio",
-"tratto": "coraggioso",
-"universo": "hackverse"
-}
-],
-"invenzione_id": "HAC-INV-0037",
-"media": [],
-"nome": "Dmitri",
-"parent_id": null,
-"rapporto": "costruita",
-"regione": "HAC-REG-tallinn",
-"relazione": null,
 "ritratto": null,
 "schema_version": 1,
 "segno": "acquario",

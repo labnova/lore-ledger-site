@@ -498,6 +498,20 @@
 },
 {
 "appare_in": [],
+"chiavi": "community · patreon · documento_ritrovato",
+"created": "2026-09-18",
+"estrazione": 121,
+"id": "NEO-CON-0003",
+"parent_id": null,
+"regione": "NEO-REG-calvenna",
+"relazione": null,
+"sommario": "Nota di redazione: perché il balsamo dura una sola lettura",
+"tipo": "contenuto",
+"titolo": "Nota di redazione: perché il balsamo dura una sola lettura",
+"universo": "neofeudal"
+},
+{
+"appare_in": [],
 "created": "2026-09-18",
 "estrazione": 118,
 "id": "HAC-REG-trieste",
@@ -5718,6 +5732,9 @@
 "estrazione": 74,
 "gancio": "Il suo promesso per contratto scopre la firma nascosta nel codice e capisce, prima ancora dei colleghi, che Dmitri ha appena reso tracciabile ogni analista che ha usato quello strumento.",
 "id": "HAC-PER-0025",
+"innesti": [
+"HAC-PER-0059"
+],
 "parent_id": null,
 "regione": "HAC-REG-tallinn",
 "relazione": null,

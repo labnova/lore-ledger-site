@@ -3190,6 +3190,63 @@
 ]
 },
 {
+"alternative": [],
+"artefatti_prodotti": [
+"entita:steamverse/luogo/ikerviz"
+],
+"artefatto_dettaglio": null,
+"chiusa_il": null,
+"creata": "2026-09-18T11:22:16Z",
+"esito": null,
+"id": "BAC-35339254089-1",
+"letto_a": "dc9502ad826c817580086b309a75f1adacb3107b",
+"payload": {
+"artefatti_prodotti": [
+"entita:steamverse/luogo/ikerviz"
+],
+"artefatto": "entita:steamverse/luogo/ikerviz",
+"candidati": [
+"CYB-INV-0032",
+"CYB-INV-0061",
+"ELA-CON-0002",
+"entita:steamverse/luogo/ikerviz",
+"entita:neofeudal/anomalia/la-semina-dell-anno-storto"
+],
+"entita": {
+"nome": "Ikervíz",
+"ricorrenze": 25,
+"slug": "ikerviz",
+"tipo": "luogo"
+},
+"forma": "prosa_entita",
+"lacuna": "scheda elenco, prosa mai scritta",
+"letto_a": "dc9502ad826c817580086b309a75f1adacb3107b",
+"motivazione": "Riparatore: cerco campi vuoti, non storie nuove. Ikervíz ha 25 ricorrenze e otto righe che la citano (STE-GAD-0022…STE-GAD-0029), eppure la scheda è un elenco: prosa vuota, nessun capitolo. È la lacuna più grande fra i candidati; CYB-INV-0032 ha già poc: true e CYB-INV-0061 ha entita_usate: [] — vuoto vero, ma senza materiale per una figlia che non inventi. Non riscrivo né riassumo la descrizione: accodo solo canale della gilda, salamoia refrigerante e cognomi-mestiere, che sono già lì. Firmato: riparatore.",
+"scelto": "entita:steamverse/luogo/ikerviz"
+},
+"postata_da": "riparatore",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "riparatore",
+"da": "riparatore",
+"quando": "2026-09-18T11:22:16Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "approfondimento",
+"universi": [
+"steamverse"
+]
+},
+{
 "chiusa_il": null,
 "creata": "2026-09-15T23:21:24Z",
 "esito": null,

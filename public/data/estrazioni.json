@@ -4893,5 +4893,46 @@
 "CYB-PER-0044"
 ],
 "universo": "cyberverse"
+},
+{
+"chiavi": {
+"sospesi": [
+"HAC-SOS-35139219618-1",
+"HAC-SOS-35139219618-2"
+]
+},
+"created": "2026-09-18",
+"esito": "ok",
+"estrazione": 120,
+"lotto": "lotto-innesto",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"HAC-PER-0059"
+],
+"universo": "hackverse"
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"NEO-INV-0134",
+"NEO-INV-0015"
+],
+"chiavi": {
+"canale": "patreon",
+"formato": "documento_ritrovato",
+"medium": "community",
+"sorgente_id": "NEO-INV-0134",
+"veridicita": "making_of"
+},
+"created": "2026-09-18",
+"esito": "ok",
+"estrazione": 121,
+"forzata": false,
+"lotto": "lotto-contenuti",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"NEO-CON-0003"
+],
+"universo": "neofeudal"
 }
 ]

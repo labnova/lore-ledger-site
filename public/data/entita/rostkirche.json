@@ -1,11 +1,11 @@
 {
-"aggiornata": "2026-09-17",
+"aggiornata": "2026-09-18",
 "alias": [
 "CYB-REG-rostkirche"
 ],
 "descrizione": "Accampamento di nomadi urbani cresciuto attorno a uno snodo ferroviario dismesso ai margini del distretto trapianti; i cognomi restano legati ai mestieri di chi ci transitava prima del collasso della linea, e se ne guadagna uno nuovo solo restando abbastanza a lungo.",
 "ha_prosa": false,
-"n_ricorrenze": 101,
+"n_ricorrenze": 108,
 "nome": "Rostkirche",
 "prima_apparizione": 16,
 "prosa": null,
@@ -919,6 +919,69 @@
 "riga_id": "CYB-PER-0033",
 "riga_tipo": "personaggio",
 "riga_titolo": "Marlen Osterholt"
+},
+{
+"estrazione": 119,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 119,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0042",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Marchio Doppio"
+},
+{
+"estrazione": 119,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0044",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Collirio delle Due Botteghe"
+},
+{
+"estrazione": 119,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0046",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Nome Raschiato"
+},
+{
+"estrazione": 119,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0047",
+"riga_tipo": "gadget",
+"riga_titolo": "La Lampada che Non si Cambia"
+},
+{
+"estrazione": 119,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0048",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Calibro Cieco"
+},
+{
+"estrazione": 119,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-GAD-0050",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Modello Unico"
 }
 ],
 "righe": [
@@ -1126,6 +1189,36 @@
 "id": "CYB-GAD-0040",
 "tipo": "gadget",
 "titolo": "Il Bollino Buono"
+},
+{
+"id": "CYB-GAD-0042",
+"tipo": "gadget",
+"titolo": "Il Marchio Doppio"
+},
+{
+"id": "CYB-GAD-0044",
+"tipo": "gadget",
+"titolo": "Il Collirio delle Due Botteghe"
+},
+{
+"id": "CYB-GAD-0046",
+"tipo": "gadget",
+"titolo": "Il Nome Raschiato"
+},
+{
+"id": "CYB-GAD-0047",
+"tipo": "gadget",
+"titolo": "La Lampada che Non si Cambia"
+},
+{
+"id": "CYB-GAD-0048",
+"tipo": "gadget",
+"titolo": "Il Calibro Cieco"
+},
+{
+"id": "CYB-GAD-0050",
+"tipo": "gadget",
+"titolo": "Il Modello Unico"
 },
 {
 "id": "CYB-INV-0052",

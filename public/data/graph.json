@@ -2001,6 +2001,21 @@
 "to": "HAC-REG-singapore"
 },
 {
+"from": "HAC-PER-0025",
+"kind": "parent",
+"to": "HAC-PER-0059"
+},
+{
+"from": "HAC-PER-0059",
+"kind": "invenzione",
+"to": "HAC-INV-0037"
+},
+{
+"from": "HAC-PER-0059",
+"kind": "regione",
+"to": "HAC-REG-tallinn"
+},
+{
 "from": "NEO-PER-0001",
 "kind": "invenzione",
 "to": "NEO-INV-0009"
@@ -6921,6 +6936,16 @@
 "to": "NEO-REG-calvenna"
 },
 {
+"from": "NEO-CON-0003",
+"kind": "sorgente",
+"to": "NEO-INV-0134"
+},
+{
+"from": "NEO-CON-0003",
+"kind": "regione",
+"to": "NEO-REG-calvenna"
+},
+{
 "from": "STE-CON-0001",
 "kind": "sorgente",
 "to": "STE-INV-0008"
@@ -10953,6 +10978,12 @@
 "universo": "hackverse"
 },
 {
+"id": "HAC-PER-0059",
+"tipo": "personaggio",
+"titolo": "Dmitri Arrizabal",
+"universo": "hackverse"
+},
+{
 "id": "HAC-REG-rotterdam",
 "tipo": "regione",
 "titolo": "Rotterdam",
@@ -11004,6 +11035,12 @@
 "id": "NEO-CON-0002",
 "tipo": "contenuto",
 "titolo": "Nota di redazione: perché Yui firma due volte lo stesso verbale",
+"universo": "neofeudal"
+},
+{
+"id": "NEO-CON-0003",
+"tipo": "contenuto",
+"titolo": "Nota di redazione: perché il balsamo dura una sola lettura",
 "universo": "neofeudal"
 },
 {

@@ -21,7 +21,7 @@
 "ha_prosa": false,
 "nome": "Rostkirche",
 "prima_apparizione": 16,
-"ricorrenze": 101,
+"ricorrenze": 108,
 "slug": "rostkirche",
 "sopra_soglia": true,
 "tipo": "luogo",
@@ -56,6 +56,18 @@
 "universo": "neofeudal"
 },
 {
+"alias": [],
+"descrizione": "Corporazione che rilascia il Bollino di restauro autorizzato a Vetrasca, validando ogni facciata contro l'archivio delle posizioni orbitali registrato al momento della sua ultima ristrutturazione.",
+"ha_prosa": false,
+"nome": "Parallasse Certificazioni™",
+"prima_apparizione": 78,
+"ricorrenze": 42,
+"slug": "parallasse-certificazionitm",
+"sopra_soglia": true,
+"tipo": "ente",
+"universo": "cyberverse"
+},
+{
 "alias": [
 "NEO-REG-vasperdine"
 ],
@@ -68,18 +80,6 @@
 "sopra_soglia": true,
 "tipo": "luogo",
 "universo": "neofeudal"
-},
-{
-"alias": [],
-"descrizione": "Corporazione che rilascia il Bollino di restauro autorizzato a Vetrasca, validando ogni facciata contro l'archivio delle posizioni orbitali registrato al momento della sua ultima ristrutturazione.",
-"ha_prosa": false,
-"nome": "Parallasse Certificazioni™",
-"prima_apparizione": 78,
-"ricorrenze": 34,
-"slug": "parallasse-certificazionitm",
-"sopra_soglia": true,
-"tipo": "ente",
-"universo": "cyberverse"
 },
 {
 "alias": [
@@ -104,7 +104,7 @@
 "ha_prosa": false,
 "nome": "Tallinn",
 "prima_apparizione": 32,
-"ricorrenze": 32,
+"ricorrenze": 33,
 "slug": "tallinn",
 "sopra_soglia": true,
 "tipo": "luogo",
@@ -153,7 +153,7 @@
 "STE-REG-ikerviz"
 ],
 "descrizione": "Città posata su un doppio letto fluviale, dove il canale sotterraneo della gilda scorre parallelo al fiume vero portando salamoia refrigerante ai quartieri alti; quasi un cognome su due nasce ancora dal mestiere di chi lo porta.",
-"ha_prosa": false,
+"ha_prosa": true,
 "nome": "Ikervíz",
 "prima_apparizione": 80,
 "ricorrenze": 25,
@@ -175,6 +175,20 @@
 "sopra_soglia": true,
 "tipo": "luogo",
 "universo": "elabverse"
+},
+{
+"alias": [
+"CYB-REG-meridiana-alta"
+],
+"descrizione": "Enclave corporativa costruita sulla quota più alta della città, fuori dalla portata delle ondate di calore che colpiscono i blocchi popolari sottostanti; il personale arriva per contratto da ogni filiale di Parallasse Certificazioni™ nel mondo, così nessun ceppo prevale e i cognomi restano quelli di partenza più spesso del mestiere svolto qui.",
+"ha_prosa": false,
+"nome": "Meridiana Alta",
+"prima_apparizione": 105,
+"ricorrenze": 23,
+"slug": "meridiana-alta",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "cyberverse"
 },
 {
 "alias": [
@@ -231,6 +245,18 @@
 "universo": "steamverse"
 },
 {
+"alias": [],
+"descrizione": "Rigattiere di Rostkirche che smercia sestanti orbitali dismessi e Bollini Parallasse contraffatti a chi non può permettersi un restauro certificato.",
+"ha_prosa": false,
+"nome": "Ivo Reinacher",
+"prima_apparizione": 78,
+"ricorrenze": 13,
+"slug": "ivo-reinacher",
+"sopra_soglia": true,
+"tipo": "attore",
+"universo": "cyberverse"
+},
+{
 "alias": [
 "NEO-REG-zastavena"
 ],
@@ -246,20 +272,6 @@
 },
 {
 "alias": [
-"CYB-REG-meridiana-alta"
-],
-"descrizione": "Enclave corporativa costruita sulla quota più alta della città, fuori dalla portata delle ondate di calore che colpiscono i blocchi popolari sottostanti; il personale arriva per contratto da ogni filiale di Parallasse Certificazioni™ nel mondo, così nessun ceppo prevale e i cognomi restano quelli di partenza più spesso del mestiere svolto qui.",
-"ha_prosa": false,
-"nome": "Meridiana Alta",
-"prima_apparizione": 105,
-"ricorrenze": 12,
-"slug": "meridiana-alta",
-"sopra_soglia": true,
-"tipo": "luogo",
-"universo": "cyberverse"
-},
-{
-"alias": [
 "HAC-REG-trieste"
 ],
 "descrizione": "Porto franco all'incrocio tra Adriatico e Balcani, dove per secoli è passata la merce che non doveva lasciare traccia doganale: chi fa il corriere qui arriva da ogni rotta mediterranea e centroeuropea, nessun ceppo prevale e pochi portano il cognome del mestiere, perché la rotta si eredita per fiducia, non per sangue.",
@@ -271,18 +283,6 @@
 "sopra_soglia": true,
 "tipo": "luogo",
 "universo": "hackverse"
-},
-{
-"alias": [],
-"descrizione": "Rigattiere di Rostkirche che smercia sestanti orbitali dismessi e Bollini Parallasse contraffatti a chi non può permettersi un restauro certificato.",
-"ha_prosa": false,
-"nome": "Ivo Reinacher",
-"prima_apparizione": 78,
-"ricorrenze": 11,
-"slug": "ivo-reinacher",
-"sopra_soglia": true,
-"tipo": "attore",
-"universo": "cyberverse"
 },
 {
 "alias": [],
@@ -370,6 +370,18 @@
 },
 {
 "alias": [],
+"descrizione": "Piastra da incisione usata da generazioni per stampare tanto il Bollino di Parallasse Certificazioni™ quanto il marchio della gilda dei cappellai di Rostkirche; il rilievo, consumato dall'uso, preme ormai un segno ambiguo che entrambe le autorità rivendicano come proprio.",
+"ha_prosa": false,
+"nome": "La Matrice Consumata",
+"prima_apparizione": 103,
+"ricorrenze": 5,
+"slug": "la-matrice-consumata",
+"sopra_soglia": true,
+"tipo": "anomalia",
+"universo": "cyberverse"
+},
+{
+"alias": [],
 "descrizione": "Il bug di seme condiviso tra i data-logger di temperatura dei container Kryo e le app di dadi truccati usate nei tornei clandestini di banchina, stesso microcontrollore, stesso seme pseudo-casuale legato all'orario di avvio, stessa sequenza prevedibile.",
 "ha_prosa": false,
 "nome": "TICK0",
@@ -403,17 +415,5 @@
 "sopra_soglia": true,
 "tipo": "anomalia",
 "universo": "neofeudal"
-},
-{
-"alias": [],
-"descrizione": "Piastra da incisione usata da generazioni per stampare tanto il Bollino di Parallasse Certificazioni™ quanto il marchio della gilda dei cappellai di Rostkirche; il rilievo, consumato dall'uso, preme ormai un segno ambiguo che entrambe le autorità rivendicano come proprio.",
-"ha_prosa": false,
-"nome": "La Matrice Consumata",
-"prima_apparizione": 103,
-"ricorrenze": 2,
-"slug": "la-matrice-consumata",
-"sopra_soglia": false,
-"tipo": "anomalia",
-"universo": "cyberverse"
 }
 ]
