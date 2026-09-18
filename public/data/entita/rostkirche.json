@@ -5,7 +5,7 @@
 ],
 "descrizione": "Accampamento di nomadi urbani cresciuto attorno a uno snodo ferroviario dismesso ai margini del distretto trapianti; i cognomi restano legati ai mestieri di chi ci transitava prima del collasso della linea, e se ne guadagna uno nuovo solo restando abbastanza a lungo.",
 "ha_prosa": false,
-"n_ricorrenze": 108,
+"n_ricorrenze": 119,
 "nome": "Rostkirche",
 "prima_apparizione": 16,
 "prosa": null,
@@ -982,6 +982,105 @@
 "riga_id": "CYB-GAD-0050",
 "riga_tipo": "gadget",
 "riga_titolo": "Il Modello Unico"
+},
+{
+"estrazione": 123,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 123,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0100",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Terzo Giro di Valvola"
+},
+{
+"estrazione": 123,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0102",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Colonna del Commiato"
+},
+{
+"estrazione": 123,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0103",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Schiuma che Non Doveva Toccare i Vivi"
+},
+{
+"estrazione": 123,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0107",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Brevetto Vincolato"
+},
+{
+"estrazione": 123,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0109",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Bollino Gemello"
+},
+{
+"estrazione": 123,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0111",
+"riga_tipo": "invenzione",
+"riga_titolo": "L'Impianto Benedetto"
+},
+{
+"estrazione": 123,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0112",
+"riga_tipo": "invenzione",
+"riga_titolo": "Lo Scarto che Scarica nel Canale"
+},
+{
+"estrazione": 123,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0116",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Registro di Cui Non Si Parla"
+},
+{
+"estrazione": 123,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-PER-0045",
+"riga_tipo": "personaggio",
+"riga_titolo": "Milen Sorokin"
+},
+{
+"estrazione": 123,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-PER-0046",
+"riga_tipo": "personaggio",
+"riga_titolo": "Elke Brandt"
 }
 ],
 "righe": [
@@ -1311,6 +1410,46 @@
 "titolo": "Il Cappello del Censimento"
 },
 {
+"id": "CYB-INV-0100",
+"tipo": "invenzione",
+"titolo": "Il Terzo Giro di Valvola"
+},
+{
+"id": "CYB-INV-0102",
+"tipo": "invenzione",
+"titolo": "La Colonna del Commiato"
+},
+{
+"id": "CYB-INV-0103",
+"tipo": "invenzione",
+"titolo": "La Schiuma che Non Doveva Toccare i Vivi"
+},
+{
+"id": "CYB-INV-0107",
+"tipo": "invenzione",
+"titolo": "Il Brevetto Vincolato"
+},
+{
+"id": "CYB-INV-0109",
+"tipo": "invenzione",
+"titolo": "Il Bollino Gemello"
+},
+{
+"id": "CYB-INV-0111",
+"tipo": "invenzione",
+"titolo": "L'Impianto Benedetto"
+},
+{
+"id": "CYB-INV-0112",
+"tipo": "invenzione",
+"titolo": "Lo Scarto che Scarica nel Canale"
+},
+{
+"id": "CYB-INV-0116",
+"tipo": "invenzione",
+"titolo": "Il Registro di Cui Non Si Parla"
+},
+{
 "id": "CYB-PER-0001",
 "tipo": "personaggio",
 "titolo": "Eszter Etxeondo"
@@ -1474,6 +1613,16 @@
 "id": "CYB-PER-0033",
 "tipo": "personaggio",
 "titolo": "Marlen Osterholt"
+},
+{
+"id": "CYB-PER-0045",
+"tipo": "personaggio",
+"titolo": "Milen Sorokin"
+},
+{
+"id": "CYB-PER-0046",
+"tipo": "personaggio",
+"titolo": "Elke Brandt"
 },
 {
 "id": "CYB-REG-rostkirche",

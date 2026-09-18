@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"cluster": "HAC-INV-0075",
+"created": "2026-09-18",
+"epoca_relativa": 0,
+"estrazione": 124,
+"fatti": [],
+"id": "HAC-SEM-0004",
+"media": [],
+"origine": "arricchimento",
+"ostacolo": "Farid Ramikawi, che falsifica da vent'anni le letture del rilevatore per tenere aperte le rotte di Trieste della crew, sa che una domanda di troppo può far crollare l'accesso che protegge tutti, Hasina compresa, e non ha intenzione di lasciarla scavare.",
+"parent_id": null,
+"premessa": "Hasina Ndumbumbo vuole scoprire chi ha ordinato l'ultimo lotto di lenti che ha lasciato occhi infiammati dietro di sé, perché è stata lei a costruire il vano nascosto che ha fatto passare il rilevatore di micro-tremore attraverso i controlli senza fare domande.",
+"regione": null,
+"relazione": null,
+"rottura": "Le letture che Farid ha falsificato sono proprio quelle che hanno lasciato passare per vive le lenti stampate finite negli occhi che Hasina cerca; quando lo capisce, deve scegliere tra l'uomo che le ha dato vent'anni di lavoro e protezione e il nome che continua a chiedere in giro.",
+"schema_version": 1,
+"status": "canon",
+"tipo": "seme",
+"tono": "colpa sommessa, dogana all'alba",
+"universi": [
+"hackverse"
+],
+"universo": "hackverse"
+}

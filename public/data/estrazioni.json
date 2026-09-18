@@ -5032,5 +5032,72 @@
 "CYB-INV-0119"
 ],
 "universo": "cyberverse"
+},
+{
+"campi_forzati": [],
+"chiavi": {
+"cluster": [
+"HAC-INV-0075"
+]
+},
+"created": "2026-09-18",
+"esito": "ok",
+"estrazione": 124,
+"forzata": false,
+"lotto": "lotto-semi",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"HAC-SEM-0004"
+],
+"universi": [
+"hackverse"
+],
+"universo": "cross"
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"STE-INV-0021",
+"STE-INV-0013"
+],
+"chiavi": {
+"casta": "ingegneri",
+"invenzione_id": "STE-INV-0021",
+"personaggi": [
+"STE-PER-0036",
+"STE-PER-0037",
+"STE-PER-0038",
+"STE-PER-0039",
+"STE-PER-0040",
+"STE-PER-0041",
+"STE-PER-0042",
+"STE-PER-0043",
+"STE-PER-0044",
+"STE-PER-0045"
+],
+"regione": "STE-REG-tuzkaya",
+"universo": "steamverse"
+},
+"created": "2026-09-18",
+"esito": "ok",
+"espansioni": [],
+"estrazione": 125,
+"forzata": false,
+"lotto": "lotto-personaggi",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"STE-REG-tuzkaya",
+"STE-PER-0036",
+"STE-PER-0037",
+"STE-PER-0038",
+"STE-PER-0039",
+"STE-PER-0040",
+"STE-PER-0041",
+"STE-PER-0042",
+"STE-PER-0043",
+"STE-PER-0044",
+"STE-PER-0045"
+],
+"universo": "steamverse"
 }
 ]

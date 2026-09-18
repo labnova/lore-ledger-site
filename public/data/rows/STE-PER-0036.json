@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "omosessuale",
+"situazione": "poliamoroso"
+},
+"appare_in": [],
+"casta": "ingegneri",
+"ceppo": "turco",
+"cognome": "Balderiay",
+"contraddizione": "Da ingegnera che ha costruito con le proprie mani il meccanismo di lettura del Bollo, dovrebbe essere la prima a ripetere ogni doppia calibrazione richiesta dal protocollo della gilda, ma la sua indolenza la spinge a firmare le verifiche senza rifarle, fidandosi della macchina più di quanto la macchina meriti.",
+"created": "2026-09-18",
+"difetto": "indolente",
+"epoca_relativa": 0,
+"estrazione": 125,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Elif tiene nel cassetto tre bolli già timbrati e mai controllati, e sa che prima o poi qualcuno chiederà di vedere il registro delle calibrazioni che non ha mai riaperto.",
+"id": "STE-PER-0036",
+"invenzione_id": "STE-INV-0021",
+"media": [],
+"nome": "Elif",
+"parent_id": null,
+"rapporto": "costruita",
+"regione": "STE-REG-tuzkaya",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "sagittario",
+"spirituale": {
+"credenza": "culto_degli_antenati",
+"rapporto": "apostata"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "devoto_al_lavoro",
+"universo": "steamverse"
+}

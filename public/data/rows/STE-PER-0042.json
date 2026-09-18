@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "promesso_per_contratto"
+},
+"appare_in": [],
+"casta": "ingegneri",
+"ceppo": "turco",
+"cognome": "Çoban",
+"contraddizione": "Sognatrice che ha contribuito a costruire il meccanismo del Bollo immaginando di lasciare un giorno la bottega per la cartografia delle rotte, è troppo codarda per rompere il contratto di promessa che la lega a un altro ingegnere della gilda, e prega ogni crollo del fiume come un giudizio che potrebbe liberarla senza che sia colpa sua.",
+"created": "2026-09-18",
+"difetto": "codardo",
+"epoca_relativa": 0,
+"estrazione": 125,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Fatma ha già disegnato in segreto la rotta che vorrebbe seguire il giorno in cui troverà il coraggio, ma il disegno resta arrotolato nello stesso cassetto del contratto che non ha mai osato aprire.",
+"id": "STE-PER-0042",
+"invenzione_id": "STE-INV-0021",
+"media": [],
+"nome": "Fatma",
+"parent_id": null,
+"rapporto": "costruita",
+"regione": "STE-REG-tuzkaya",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "vergine",
+"spirituale": {
+"credenza": "il_crollo_come_giudizio",
+"rapporto": "devoto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "sognatore",
+"universo": "steamverse"
+}

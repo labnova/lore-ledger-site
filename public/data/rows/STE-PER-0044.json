@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "relazione_segreta"
+},
+"appare_in": [],
+"casta": "ingegneri",
+"ceppo": "turco",
+"cognome": "Çesoy",
+"contraddizione": "Ingegnera anziana e protettiva verso il quartiere basso in cui è cresciuta, falsifica da anni i bolli di purezza per garantire ghiaccio buono a chi il registro della gilda condannerebbe al mercato nero, indifferente alla dottrina del debito che pure predicano tutti intorno a lei.",
+"created": "2026-09-18",
+"difetto": "goloso",
+"epoca_relativa": 0,
+"estrazione": 125,
+"eta_fascia": "anziano",
+"fatti": [],
+"gancio": "Leyla nasconde lo stampo di riserva dentro un vaso di conserve nel retrobottega, e nessun ispettore ha mai pensato di cercarlo lì.",
+"id": "STE-PER-0044",
+"invenzione_id": "STE-INV-0021",
+"media": [],
+"nome": "Leyla",
+"parent_id": null,
+"rapporto": "falsifica",
+"regione": "STE-REG-tuzkaya",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "ariete",
+"spirituale": {
+"credenza": "dottrina_del_debito",
+"rapporto": "indifferente"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "protettivo",
+"universo": "steamverse"
+}

@@ -1,0 +1,56 @@
+{
+"aggiornata": "2026-09-18",
+"alias": [],
+"descrizione": "Ex vigile del fuoco radiato da Rostkirche, ora smercia bombole d'estinguente scadute, Bollini contraffatti e permessi di cremazione falsi a chi non può permettersi il tariffario di Parallasse Certificazioni™.",
+"ha_prosa": false,
+"n_ricorrenze": 3,
+"nome": "Anselm Kroyer",
+"prima_apparizione": 123,
+"prosa": null,
+"racconti": [],
+"ricorrenze": [
+{
+"estrazione": 123,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 123,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0109",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Bollino Gemello"
+},
+{
+"estrazione": 123,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0119",
+"riga_tipo": "invenzione",
+"riga_titolo": "L'Estintore Riconvertito"
+}
+],
+"righe": [
+{
+"id": "CYB-INV-0109",
+"tipo": "invenzione",
+"titolo": "Il Bollino Gemello"
+},
+{
+"id": "CYB-INV-0119",
+"tipo": "invenzione",
+"titolo": "L'Estintore Riconvertito"
+}
+],
+"slug": "anselm-kroyer",
+"sopra_soglia": true,
+"tipo": "attore",
+"universo": "cyberverse"
+}

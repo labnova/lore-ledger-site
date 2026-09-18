@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "poliamoroso"
+},
+"appare_in": [],
+"casta": "ingegneri",
+"ceppo": "magiaro",
+"cognome": "Baborassy",
+"contraddizione": "Ingegnera leale alla gilda che teme il Bollo della Purezza più di quanto un tecnico scettico dovrebbe temere un pezzo di carta timbrata, passa le notti insonne a ricontrollare misurazioni che sa già essere corrette, perché non crede nel sacro ma non riesce a smettere di trattarlo come tale.",
+"created": "2026-09-18",
+"difetto": "insonne",
+"epoca_relativa": 0,
+"estrazione": 125,
+"eta_fascia": "adulto",
+"fatti": [],
+"gancio": "Judit non dorme dalla notte in cui ha firmato un bollo che sapeva sbagliato, e da allora controlla ogni sua firma tre volte prima di lasciarla andare.",
+"id": "STE-PER-0041",
+"invenzione_id": "STE-INV-0021",
+"media": [],
+"nome": "Judit",
+"parent_id": null,
+"rapporto": "teme",
+"regione": "STE-REG-tuzkaya",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "acquario",
+"spirituale": {
+"credenza": "il_sacro_e_una_bugia_utile",
+"rapporto": "scettico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "leale",
+"universo": "steamverse"
+}

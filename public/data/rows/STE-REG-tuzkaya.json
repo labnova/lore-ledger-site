@@ -1,0 +1,21 @@
+{
+"appare_in": [],
+"ceppo_dominante": "turco",
+"created": "2026-09-18",
+"epoca_relativa": 0,
+"estrazione": 125,
+"fatti": [],
+"id": "STE-REG-tuzkaya",
+"media": [],
+"nome": "Tuzkaya",
+"note": "Cittadina di cava adagiata sulle saline dell'entroterra, dove si estrae il salgemma che i chimici della gilda usano per calibrare la purezza del ghiaccio prima del bollo; qui il mestiere cambia spesso di generazione in generazione, così pochi cognomi nascono ancora dal lavoro di chi li porta.",
+"onomastica": "legata",
+"p_cognome_mestiere": 0.21,
+"parent_id": null,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "regione",
+"universo": "steamverse"
+}

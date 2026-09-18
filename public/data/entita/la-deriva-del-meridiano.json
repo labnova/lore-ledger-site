@@ -1,9 +1,9 @@
 {
-"aggiornata": "2026-09-16",
+"aggiornata": "2026-09-18",
 "alias": [],
 "descrizione": "Lo scarto crescente del faro orbitale di riferimento usato da Parallasse Certificazioni™, mai ricalibrato dopo le Faglie Sociali del 3167; ogni misura fatta con lui, dai bollini di restauro agli impianti di localizzazione, eredita lo stesso errore.",
 "ha_prosa": false,
-"n_ricorrenze": 9,
+"n_ricorrenze": 12,
 "nome": "La Deriva del Meridiano",
 "prima_apparizione": 78,
 "prosa": null,
@@ -89,6 +89,33 @@
 "riga_id": "CYB-GAD-0040",
 "riga_tipo": "gadget",
 "riga_titolo": "Il Bollino Buono"
+},
+{
+"estrazione": 123,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 123,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0106",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Protocollo Tarato Storto"
+},
+{
+"estrazione": 123,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0112",
+"riga_tipo": "invenzione",
+"riga_titolo": "Lo Scarto che Scarica nel Canale"
 }
 ],
 "righe": [
@@ -126,6 +153,16 @@
 "id": "CYB-INV-0069",
 "tipo": "invenzione",
 "titolo": "Il Segnale che non Dorme"
+},
+{
+"id": "CYB-INV-0106",
+"tipo": "invenzione",
+"titolo": "Il Protocollo Tarato Storto"
+},
+{
+"id": "CYB-INV-0112",
+"tipo": "invenzione",
+"titolo": "Lo Scarto che Scarica nel Canale"
 }
 ],
 "slug": "la-deriva-del-meridiano",

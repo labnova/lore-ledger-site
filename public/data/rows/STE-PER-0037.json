@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "omosessuale",
+"situazione": "relazione_segreta"
+},
+"appare_in": [],
+"casta": "ingegneri",
+"ceppo": "turco",
+"cognome": "Taşsoy",
+"contraddizione": "Da apprendista che studia il funzionamento del Bollo per diventare un giorno ispettore di gilda, dovrebbe applicare alla lettera la dottrina del debito in cui crede, ma la sua avarizia lo spinge a chiudere un occhio sui bolli falsificati di chi può pagarlo per il silenzio.",
+"created": "2026-09-18",
+"difetto": "avaro",
+"epoca_relativa": 0,
+"estrazione": 125,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Berk non ha mai denunciato un solo bollo falso, e nel suo quaderno segreto tiene il conto esatto di quanto gli deve ciascuno dei quartieri che ha protetto.",
+"id": "STE-PER-0037",
+"invenzione_id": "STE-INV-0021",
+"media": [],
+"nome": "Berk",
+"parent_id": null,
+"rapporto": "studia",
+"regione": "STE-REG-tuzkaya",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "gemelli",
+"spirituale": {
+"credenza": "dottrina_del_debito",
+"rapporto": "devoto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "silenzioso",
+"universo": "steamverse"
+}

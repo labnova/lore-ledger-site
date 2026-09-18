@@ -3,7 +3,7 @@
 "alias": [],
 "descrizione": "Corporazione che rilascia il Bollino di restauro autorizzato a Vetrasca, validando ogni facciata contro l'archivio delle posizioni orbitali registrato al momento della sua ultima ristrutturazione.",
 "ha_prosa": false,
-"n_ricorrenze": 42,
+"n_ricorrenze": 51,
 "nome": "Parallasse Certificazioni™",
 "prima_apparizione": 78,
 "prosa": null,
@@ -386,6 +386,87 @@
 "riga_id": "CYB-GAD-0050",
 "riga_tipo": "gadget",
 "riga_titolo": "Il Modello Unico"
+},
+{
+"estrazione": 123,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 123,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0101",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Build che Non Doveva Uscire"
+},
+{
+"estrazione": 123,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0104",
+"riga_tipo": "invenzione",
+"riga_titolo": "L'Urna a Doppio Guscio"
+},
+{
+"estrazione": 123,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0105",
+"riga_tipo": "invenzione",
+"riga_titolo": "L'Eccedenza di Magazzino"
+},
+{
+"estrazione": 123,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0108",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Collaudo che Ha Visto Troppo"
+},
+{
+"estrazione": 123,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0110",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Dazio sul Fumo"
+},
+{
+"estrazione": 123,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0114",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Sorteggio del Turno"
+},
+{
+"estrazione": 123,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0115",
+"riga_tipo": "invenzione",
+"riga_titolo": "L'Occhio nel Portello"
+},
+{
+"estrazione": 123,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "CYB-INV-0117",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Reagente da Cui Non Si Torna"
 }
 ],
 "righe": [
@@ -578,6 +659,46 @@
 "id": "CYB-INV-0093",
 "tipo": "invenzione",
 "titolo": "Il Bollino Quasi Vero"
+},
+{
+"id": "CYB-INV-0101",
+"tipo": "invenzione",
+"titolo": "La Build che Non Doveva Uscire"
+},
+{
+"id": "CYB-INV-0104",
+"tipo": "invenzione",
+"titolo": "L'Urna a Doppio Guscio"
+},
+{
+"id": "CYB-INV-0105",
+"tipo": "invenzione",
+"titolo": "L'Eccedenza di Magazzino"
+},
+{
+"id": "CYB-INV-0108",
+"tipo": "invenzione",
+"titolo": "Il Collaudo che Ha Visto Troppo"
+},
+{
+"id": "CYB-INV-0110",
+"tipo": "invenzione",
+"titolo": "Il Dazio sul Fumo"
+},
+{
+"id": "CYB-INV-0114",
+"tipo": "invenzione",
+"titolo": "Il Sorteggio del Turno"
+},
+{
+"id": "CYB-INV-0115",
+"tipo": "invenzione",
+"titolo": "L'Occhio nel Portello"
+},
+{
+"id": "CYB-INV-0117",
+"tipo": "invenzione",
+"titolo": "Il Reagente da Cui Non Si Torna"
 }
 ],
 "slug": "parallasse-certificazionitm",

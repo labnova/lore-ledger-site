@@ -21,7 +21,7 @@
 "ha_prosa": false,
 "nome": "Rostkirche",
 "prima_apparizione": 16,
-"ricorrenze": 108,
+"ricorrenze": 119,
 "slug": "rostkirche",
 "sopra_soglia": true,
 "tipo": "luogo",
@@ -61,7 +61,7 @@
 "ha_prosa": false,
 "nome": "Parallasse Certificazioni™",
 "prima_apparizione": 78,
-"ricorrenze": 42,
+"ricorrenze": 51,
 "slug": "parallasse-certificazionitm",
 "sopra_soglia": true,
 "tipo": "ente",
@@ -271,6 +271,18 @@
 "universo": "neofeudal"
 },
 {
+"alias": [],
+"descrizione": "Lo scarto crescente del faro orbitale di riferimento usato da Parallasse Certificazioni™, mai ricalibrato dopo le Faglie Sociali del 3167; ogni misura fatta con lui, dai bollini di restauro agli impianti di localizzazione, eredita lo stesso errore.",
+"ha_prosa": false,
+"nome": "La Deriva del Meridiano",
+"prima_apparizione": 78,
+"ricorrenze": 12,
+"slug": "la-deriva-del-meridiano",
+"sopra_soglia": true,
+"tipo": "anomalia",
+"universo": "cyberverse"
+},
+{
 "alias": [
 "HAC-REG-trieste"
 ],
@@ -283,18 +295,6 @@
 "sopra_soglia": true,
 "tipo": "luogo",
 "universo": "hackverse"
-},
-{
-"alias": [],
-"descrizione": "Lo scarto crescente del faro orbitale di riferimento usato da Parallasse Certificazioni™, mai ricalibrato dopo le Faglie Sociali del 3167; ogni misura fatta con lui, dai bollini di restauro agli impianti di localizzazione, eredita lo stesso errore.",
-"ha_prosa": false,
-"nome": "La Deriva del Meridiano",
-"prima_apparizione": 78,
-"ricorrenze": 9,
-"slug": "la-deriva-del-meridiano",
-"sopra_soglia": true,
-"tipo": "anomalia",
-"universo": "cyberverse"
 },
 {
 "alias": [],
@@ -415,5 +415,17 @@
 "sopra_soglia": true,
 "tipo": "anomalia",
 "universo": "neofeudal"
+},
+{
+"alias": [],
+"descrizione": "Ex vigile del fuoco radiato da Rostkirche, ora smercia bombole d'estinguente scadute, Bollini contraffatti e permessi di cremazione falsi a chi non può permettersi il tariffario di Parallasse Certificazioni™.",
+"ha_prosa": false,
+"nome": "Anselm Kroyer",
+"prima_apparizione": 123,
+"ricorrenze": 3,
+"slug": "anselm-kroyer",
+"sopra_soglia": true,
+"tipo": "attore",
+"universo": "cyberverse"
 }
 ]

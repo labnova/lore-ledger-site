@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "bisessuale",
+"situazione": "separato"
+},
+"appare_in": [],
+"casta": "ingegneri",
+"ceppo": "turco",
+"cognome": "Yalıcı",
+"contraddizione": "Da ingegnera che ogni giorno usa il Bollo della Purezza per decidere chi compra ghiaccio a prezzo di gilda e chi al mercato nero, sa meglio di chiunque altro che il sacro non è che una bugia utile, eppure lo amministra con la stessa faccia grave con cui i notabili lo venerano.",
+"created": "2026-09-18",
+"difetto": "goloso",
+"epoca_relativa": 0,
+"estrazione": 125,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "Merve accetta ancora dolci e conserve come mancia da chi vuole un bollo più rapido, e si dice che il suo ufficio profumi più di miele che di salamoia.",
+"id": "STE-PER-0038",
+"invenzione_id": "STE-INV-0021",
+"media": [],
+"nome": "Merve",
+"parent_id": null,
+"rapporto": "usa",
+"regione": "STE-REG-tuzkaya",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "cancro",
+"spirituale": {
+"credenza": "il_sacro_e_una_bugia_utile",
+"rapporto": "mistico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ironico",
+"universo": "steamverse"
+}

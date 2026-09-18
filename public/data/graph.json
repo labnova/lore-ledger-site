@@ -3441,6 +3441,106 @@
 "to": "STE-REG-ikerviz"
 },
 {
+"from": "STE-PER-0036",
+"kind": "invenzione",
+"to": "STE-INV-0021"
+},
+{
+"from": "STE-PER-0036",
+"kind": "regione",
+"to": "STE-REG-tuzkaya"
+},
+{
+"from": "STE-PER-0037",
+"kind": "invenzione",
+"to": "STE-INV-0021"
+},
+{
+"from": "STE-PER-0037",
+"kind": "regione",
+"to": "STE-REG-tuzkaya"
+},
+{
+"from": "STE-PER-0038",
+"kind": "invenzione",
+"to": "STE-INV-0021"
+},
+{
+"from": "STE-PER-0038",
+"kind": "regione",
+"to": "STE-REG-tuzkaya"
+},
+{
+"from": "STE-PER-0039",
+"kind": "invenzione",
+"to": "STE-INV-0021"
+},
+{
+"from": "STE-PER-0039",
+"kind": "regione",
+"to": "STE-REG-tuzkaya"
+},
+{
+"from": "STE-PER-0040",
+"kind": "invenzione",
+"to": "STE-INV-0021"
+},
+{
+"from": "STE-PER-0040",
+"kind": "regione",
+"to": "STE-REG-tuzkaya"
+},
+{
+"from": "STE-PER-0041",
+"kind": "invenzione",
+"to": "STE-INV-0021"
+},
+{
+"from": "STE-PER-0041",
+"kind": "regione",
+"to": "STE-REG-tuzkaya"
+},
+{
+"from": "STE-PER-0042",
+"kind": "invenzione",
+"to": "STE-INV-0021"
+},
+{
+"from": "STE-PER-0042",
+"kind": "regione",
+"to": "STE-REG-tuzkaya"
+},
+{
+"from": "STE-PER-0043",
+"kind": "invenzione",
+"to": "STE-INV-0021"
+},
+{
+"from": "STE-PER-0043",
+"kind": "regione",
+"to": "STE-REG-tuzkaya"
+},
+{
+"from": "STE-PER-0044",
+"kind": "invenzione",
+"to": "STE-INV-0021"
+},
+{
+"from": "STE-PER-0044",
+"kind": "regione",
+"to": "STE-REG-tuzkaya"
+},
+{
+"from": "STE-PER-0045",
+"kind": "invenzione",
+"to": "STE-INV-0021"
+},
+{
+"from": "STE-PER-0045",
+"kind": "regione",
+"to": "STE-REG-tuzkaya"
+},
+{
 "from": "CYB-GAD-0001",
 "kind": "invenzione",
 "to": "CYB-INV-0013"
@@ -7069,6 +7169,11 @@
 "from": "HAC-SEM-0003",
 "kind": "cluster",
 "to": "HAC-INV-0064"
+},
+{
+"from": "HAC-SEM-0004",
+"kind": "cluster",
+"to": "HAC-INV-0075"
 },
 {
 "from": "NEO-SEM-0001",
@@ -11199,6 +11304,12 @@
 "universo": "hackverse"
 },
 {
+"id": "HAC-SEM-0004",
+"tipo": "seme",
+"titolo": "seme HAC-INV-0075",
+"universo": "hackverse"
+},
+{
 "id": "NEO-CON-0001",
 "tipo": "contenuto",
 "titolo": "Come nasce una che non ci crede: il making-of di Nina Szabó",
@@ -13935,6 +14046,66 @@
 "universo": "steamverse"
 },
 {
+"id": "STE-PER-0036",
+"tipo": "personaggio",
+"titolo": "Elif Balderiay",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0037",
+"tipo": "personaggio",
+"titolo": "Berk Taşsoy",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0038",
+"tipo": "personaggio",
+"titolo": "Merve Yalıcı",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0039",
+"tipo": "personaggio",
+"titolo": "Mustafa Kobasoy",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0040",
+"tipo": "personaggio",
+"titolo": "Márton Bonevárai",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0041",
+"tipo": "personaggio",
+"titolo": "Judit Baborassy",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0042",
+"tipo": "personaggio",
+"titolo": "Fatma Çoban",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0043",
+"tipo": "personaggio",
+"titolo": "Okan Kotaş",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0044",
+"tipo": "personaggio",
+"titolo": "Leyla Çesoy",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0045",
+"tipo": "personaggio",
+"titolo": "Hasan Kayaoğlu",
+"universo": "steamverse"
+},
+{
 "id": "STE-REG-cancello-del-freddo",
 "tipo": "regione",
 "titolo": "Ledoskol",
@@ -13956,6 +14127,12 @@
 "id": "STE-REG-qattoum",
 "tipo": "regione",
 "titolo": "Qattoum",
+"universo": "steamverse"
+},
+{
+"id": "STE-REG-tuzkaya",
+"tipo": "regione",
+"titolo": "Tuzkaya",
 "universo": "steamverse"
 },
 {
