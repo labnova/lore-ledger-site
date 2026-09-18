@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "un-terzo-ignaro",
+"created": "2026-09-18",
+"discipline": [
+"sicurezza/antincendio",
+"funerario/cremazione"
+],
+"entita_usate": [
+"Parallasse Certificazioni™"
+],
+"epoca_relativa": 0,
+"estrazione": 123,
+"fatti": [],
+"gancio": "Le imitazioni vendute fuori porta rilasciano fumi tossici nei cortili sottostanti, dove nessuno ha mai firmato niente con Parallasse Certificazioni™.",
+"id": "CYB-INV-0104",
+"media": [],
+"nome": "L'Urna a Doppio Guscio",
+"nome_reale": "Urna ignifuga a doppio guscio, riservata ai contratti Parallasse dei quartieri alti",
+"oggetto": "urna ignifuga a doppio guscio, certificata solo per i contratti Parallasse dei quartieri alti",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "lusso-proibito",
+"universo": "cyberverse"
+}

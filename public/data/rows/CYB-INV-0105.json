@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "nessuno-apparentemente",
+"created": "2026-09-18",
+"discipline": [
+"sicurezza/antincendio",
+"funerario/cremazione"
+],
+"entita_usate": [
+"Parallasse Certificazioni™"
+],
+"epoca_relativa": 0,
+"estrazione": 123,
+"fatti": [],
+"gancio": "Il furto viene archiviato come eccedenza di magazzino, e il vuoto lasciato nel deposito Parallasse Certificazioni™ resta un numero su un foglio che nessuno controlla più.",
+"id": "CYB-INV-0105",
+"media": [],
+"nome": "L'Eccedenza di Magazzino",
+"nome_reale": "Bombola di gas inerte per spegnimento, sottratta ai depositi Parallasse e ricaricata come accendifuoco per cremazioni abusive",
+"oggetto": "bombola di gas inerte per spegnimento, ricaricata come accendifuoco per cremazioni abusive",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "furto",
+"universo": "cyberverse"
+}

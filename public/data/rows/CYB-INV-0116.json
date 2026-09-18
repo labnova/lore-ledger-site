@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "nessuno-apparentemente",
+"created": "2026-09-18",
+"discipline": [
+"sicurezza/antincendio",
+"funerario/cremazione"
+],
+"entita_usate": [
+"Rostkirche"
+],
+"epoca_relativa": 0,
+"estrazione": 123,
+"fatti": [],
+"gancio": "Il registro esiste, tutti sanno che esiste, ma se ne parla solo per allusioni tra chi lavora ai forni di Rostkirche.",
+"id": "CYB-INV-0116",
+"media": [],
+"nome": "Il Registro di Cui Non Si Parla",
+"nome_reale": "Registro digitale degli incidenti da rogo, che include ogni cremazione abusiva rilevata dai sensori di Rostkirche",
+"oggetto": "registro digitale degli incidenti da rogo, che include ogni cremazione abusiva rilevata dai sensori",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "censura",
+"universo": "cyberverse"
+}

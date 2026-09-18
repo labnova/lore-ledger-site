@@ -1,0 +1,28 @@
+{
+"appare_in": [],
+"chi_paga": "un-terzo-ignaro",
+"created": "2026-09-18",
+"discipline": [
+"religione/teologia",
+"chirurgia/trapiantologia"
+],
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 123,
+"fatti": [],
+"gancio": "L'uomo che non riesce a ritirare il proprio voto scopre che può pagare qualcun altro per prenderlo al posto suo, e il ragazzo che firma non ha idea di cosa significhi davvero \"assumersi un voto di martirio a data da destinarsi.\"",
+"id": "CYB-INV-0120",
+"media": [],
+"nome": "Il Voto in Prestito",
+"nome_reale": "Funzione del registro blockchain che permette di trasferire il proprio voto di martirio a un secondo firmatario disposto ad assumersi l'espianto al posto del titolare, dietro compenso e senza possibilità di revoca per nessuno dei due",
+"oggetto": "funzione del registro blockchain che permette di trasferire il proprio voto di martirio a un secondo firmatario, dietro compenso e senza possibilità di revoca",
+"parent_id": "CYB-INV-0020",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "eredita-lascito",
+"universo": "cyberverse"
+}

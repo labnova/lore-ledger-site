@@ -4934,5 +4934,103 @@
 "NEO-CON-0003"
 ],
 "universo": "neofeudal"
+},
+{
+"campi_forzati": [],
+"chiavi": {
+"manca": {
+"gadget": 0,
+"personaggi": 0,
+"regione": true
+},
+"regione": "Meridiana Alta",
+"universo": "cyberverse"
+},
+"cluster_target": "CYB-INV-0029",
+"created": "2026-09-18",
+"esito": "nessuna riga necessaria — il cluster ha già 11 personaggi (CYB-PER-0034..0044) con 6 rapporti diversi (costruita, falsifica, studia, teme, usa, vende) e gadget collegati tramite CYB-PER-0035 (CYB-GAD-0041..0050), maturo per engine.cluster (personaggi=11 gadget=10). Il \"manca regione\" del piano è lo stesso falso positivo già documentato nelle estrazioni 091 e 109 per HAC-INV-0001: il campo `regione` dei personaggi esistenti riporta l'id della riga regione (CYB-REG-meridiana-alta, scritto così dall'estrazione 105 di lotto-personaggi) invece del nome (Meridiana Alta), quindi il lookup per nome non trova corrispondenza. Le righe esistenti sono già committate e non vengono toccate (append-only); regione_esistente risolta casualmente su Meridiana Alta ma nessun nuovo file scritto perché non c'è alcuna riga personaggio o gadget mancante a cui assegnarla. python3 -m engine.cluster --lista conferma CYB-INV-0029 già fra i maturi (personaggi=11 gadget=10).\n",
+"estrazione": 122,
+"forzata": false,
+"lotto": "lotto-maturazione",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [],
+"universo": "cyberverse"
+},
+{
+"ambientazione": "omaggio-cross-universe",
+"bibbia_pescata": [
+"Le più ricorrenti: [Rostkirche](/entita/rostkirche).",
+"- [luoghi (1)](/entita?universo=cyberverse&tipo=luogo)"
+],
+"campi_forzati": [],
+"canone_pescato": [
+"CYB-INV-0020",
+"CYB-PER-0003",
+"CYB-PER-0030"
+],
+"chiavi": {
+"discipline": [
+"sicurezza/antincendio",
+"funerario/cremazione"
+],
+"universo": "cyberverse"
+},
+"created": "2026-09-18",
+"entita": {
+"anomalia": {
+"descrizione": "Lo scarto crescente del faro orbitale di riferimento usato da Parallasse Certificazioni™, mai ricalibrato dopo le Faglie Sociali del 3167; ogni misura fatta con lui, dai bollini di restauro agli impianti di localizzazione, eredita lo stesso errore.",
+"nome": "La Deriva del Meridiano"
+},
+"attore": {
+"descrizione": "Ex vigile del fuoco radiato da Rostkirche, ora smercia bombole d'estinguente scadute, Bollini contraffatti e permessi di cremazione falsi a chi non può permettersi il tariffario di Parallasse Certificazioni™.",
+"nome": "Anselm Kroyer"
+},
+"ente": {
+"descrizione": "Corporazione che rilascia il Bollino di restauro autorizzato a Vetrasca, validando ogni facciata contro l'archivio delle posizioni orbitali registrato al momento della sua ultima ristrutturazione.",
+"nome": "Parallasse Certificazioni™"
+},
+"luogo": {
+"descrizione": "Accampamento di nomadi urbani cresciuto attorno a uno snodo ferroviario dismesso ai margini del distretto trapianti; i cognomi restano legati ai mestieri di chi ci transitava prima del collasso della linea, e se ne guadagna uno nuovo solo restando abbastanza a lungo.",
+"nome": "Rostkirche"
+}
+},
+"entita_riusate": [
+"Parallasse Certificazioni™",
+"Rostkirche",
+"La Deriva del Meridiano"
+],
+"esito": "ok",
+"espansioni": [
+"CYB-INV-0120",
+"CYB-PER-0045",
+"CYB-PER-0046"
+],
+"estrazione": 123,
+"forzata": false,
+"lotto": "lotto-lore",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"CYB-INV-0100",
+"CYB-INV-0101",
+"CYB-INV-0102",
+"CYB-INV-0103",
+"CYB-INV-0104",
+"CYB-INV-0105",
+"CYB-INV-0106",
+"CYB-INV-0107",
+"CYB-INV-0108",
+"CYB-INV-0109",
+"CYB-INV-0110",
+"CYB-INV-0111",
+"CYB-INV-0112",
+"CYB-INV-0113",
+"CYB-INV-0114",
+"CYB-INV-0115",
+"CYB-INV-0116",
+"CYB-INV-0117",
+"CYB-INV-0118",
+"CYB-INV-0119"
+],
+"universo": "cyberverse"
 }
 ]

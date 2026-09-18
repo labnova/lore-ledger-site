@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "il-futuro",
+"created": "2026-09-18",
+"discipline": [
+"sicurezza/antincendio",
+"funerario/cremazione"
+],
+"entita_usate": [
+"Rostkirche"
+],
+"epoca_relativa": 0,
+"estrazione": 123,
+"fatti": [],
+"gancio": "Funziona meglio di qualunque formalina, dicono i tanatoprattori, ma nessuno ha ancora calcolato cosa resterà nella falda sotto Rostkirche tra trent'anni.",
+"id": "CYB-INV-0103",
+"media": [],
+"nome": "La Schiuma che Non Doveva Toccare i Vivi",
+"nome_reale": "Schiuma antincendio ad alta ritenzione, riusata dai tanatoprattori di Rostkirche come conservante temporaneo dei corpi",
+"oggetto": "schiuma antincendio ad alta ritenzione, riusata come conservante temporaneo per i corpi in attesa di cremazione",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "riuso-improprio",
+"universo": "cyberverse"
+}

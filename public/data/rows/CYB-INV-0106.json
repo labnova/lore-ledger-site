@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "la-comunita",
+"created": "2026-09-18",
+"discipline": [
+"sicurezza/antincendio",
+"funerario/cremazione"
+],
+"entita_usate": [
+"La Deriva del Meridiano"
+],
+"epoca_relativa": 0,
+"estrazione": 123,
+"fatti": [],
+"gancio": "Da quando il protocollo è tarato sulla Deriva del Meridiano ogni cortile paga la stessa cifra per un allarme che scatta sempre con lo stesso scarto, comunità e crematori clandestini compresi.",
+"id": "CYB-INV-0106",
+"media": [],
+"nome": "Il Protocollo Tarato Storto",
+"nome_reale": "Protocollo di rilevamento fumi imposto per legge a ogni forno crematorio del distretto, calibrato sul riferimento orbitale della Deriva del Meridiano",
+"oggetto": "protocollo di rilevamento fumi imposto per legge, calibrato sul riferimento orbitale della Deriva del Meridiano",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "standard-imposto",
+"universo": "cyberverse"
+}

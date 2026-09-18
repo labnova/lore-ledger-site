@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "omosessuale",
+"situazione": "divorziata"
+},
+"appare_in": [],
+"casta": "medici_clandestini",
+"ceppo": "germanico",
+"cognome": "Brandt",
+"contraddizione": "Non crede alla voce nella rete di cui parla Wolfgang, ma nel controllare i suoi log di consegna trova uno schema che nessun software dovrebbe produrre da solo, e non riesce a spiegarlo diversamente.",
+"created": "2026-09-18",
+"difetto": "diffidente",
+"epoca_relativa": 0,
+"estrazione": 123,
+"eta_fascia": "adulto",
+"fatti": [],
+"gancio": "Elke segue di nascosto l'ultima consegna di Wolfgang aspettandosi di trovare un ladro in carne e ossa, e invece trova la carrozza vuota, il sigillo intatto, e un log che segna l'apertura un'ora prima che lui arrivasse.",
+"id": "CYB-PER-0046",
+"invenzione_id": "CYB-INV-0015",
+"media": [],
+"nome": "Elke",
+"parent_id": "CYB-PER-0030",
+"rapporto": "studia",
+"regione": "Rostkirche",
+"relazione": "espansione",
+"ritratto": null,
+"schema_version": 1,
+"segno": "scorpione",
+"spirituale": {
+"credenza": "i_dati_non_mentono",
+"rapporto": "scettica"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "metodica",
+"universo": "cyberverse"
+}

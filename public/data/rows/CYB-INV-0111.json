@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "il-futuro",
+"created": "2026-09-18",
+"discipline": [
+"sicurezza/antincendio",
+"funerario/cremazione"
+],
+"entita_usate": [
+"Rostkirche"
+],
+"epoca_relativa": 0,
+"estrazione": 123,
+"fatti": [],
+"gancio": "Nessuno lo sostituisce perché fu benedetto dal primo prete-operaio di Rostkirche, e chi verrà dopo erediterà tubi che nessuno sa più riparare.",
+"id": "CYB-INV-0111",
+"media": [],
+"nome": "L'Impianto Benedetto",
+"nome_reale": "Impianto antincendio a schiuma degli anni del collasso, ancora attivo nel forno più vecchio di Rostkirche",
+"oggetto": "impianto antincendio a schiuma degli anni del collasso, ancora attivo nel forno più vecchio del distretto",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "obsolescenza",
+"universo": "cyberverse"
+}

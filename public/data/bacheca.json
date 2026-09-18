@@ -3248,6 +3248,132 @@
 },
 {
 "chiusa_il": null,
+"creata": "2026-09-18T12:49:31Z",
+"esito": null,
+"id": "BAC-35346708316-1",
+"payload": {
+"bozza": "Numbered technical plate from an 1880s engineering manual: ink on yellowed paper, exploded or sectioned view with callout numbers linked by thin lines to a margin legend, one brass accent on the working part, label with illegible product code. Subject: Lo Specchio della Nebbia — Specchio-collimatore che concentra la fiamma a olio in un fascio sottile per attraversare la nebbia salina. Inchiostro seppia e nero su carta ingiallita; accento unico in ottone caldo per il pezzo che conta. Tavola tecnica da manuale d'ingegneria del 1880: linee di contorno pulite, tratteggio incrociato per le ombre, sezioni numerate con richiami (1, 2, 3…) collegati da linee sottili a una legenda a margine. golden light, full shot profile side view, simple black line illustration --ar 4:3 --no neon, plastic, coloured glass, polished chrome, saturated blue sky, decorative gears, aviator goggles, corsets, top hats, illegible lettering, watermark",
+"chiave": "m1",
+"contesto": "id: STE-INV-0035\ntipo: invenzione\nuniverso: steamverse\nestrazione: 92\ncreated: '2026-09-16'\nparent_id: null\nrelazione: null\nepoca_relativa: 0\nregione: null\nstatus: canon\nnome_reale: Specchio-collimatore che concentra la fiamma a olio in un fascio sottile per attraversare la nebbia salina\nnome: Lo Specchio della Nebbia\ndiscipline:\n- telecomunicazioni/fibra_ottica\n- illuminazione/lampade_a_olio\npoc: false\noggetto: Specchio-collimatore che concentra la fiamma a olio in un fascio sottile per attraversare la nebbia salina.\nchi_paga: l-ambiente-gli-animali\nentita_usate:\n- Qattoum",
+"manifest": {
+"caricato_il": null,
+"creato": "2026-09-18",
+"id": "MED-35346708316-1",
+"note": "oggetto: Lo Specchio della Nebbia; gancio: Il collaudo si fa puntando il fascio sopra le vasche di Qattoum dove nidificano i fenicotteri; dopo tre prove gli uccelli non tornano più a covare in quel tratto di salina.; torsione: prova-collaudo; sref non fissato",
+"parametri": {
+"ar": "4:3",
+"atomi": [
+"ATM-35310512448-6",
+"ATM-35310512448-8",
+"ATM-35059284514-26"
+],
+"cref": null,
+"sref": null
+},
+"prompt": "Numbered technical plate from an 1880s engineering manual: ink on yellowed paper, exploded or sectioned view with callout numbers linked by thin lines to a margin legend, one brass accent on the working part, label with illegible product code. Subject: Lo Specchio della Nebbia — Specchio-collimatore che concentra la fiamma a olio in un fascio sottile per attraversare la nebbia salina. Inchiostro seppia e nero su carta ingiallita; accento unico in ottone caldo per il pezzo che conta. Tavola tecnica da manuale d'ingegneria del 1880: linee di contorno pulite, tratteggio incrociato per le ombre, sezioni numerate con richiami (1, 2, 3…) collegati da linee sottili a una legenda a margine. golden light, full shot profile side view, simple black line illustration --ar 4:3 --no neon, plastic, coloured glass, polished chrome, saturated blue sky, decorative gears, aviator goggles, corsets, top hats, illegible lettering, watermark",
+"sha256": null,
+"sorgente": {
+"ref": "STE-INV-0035",
+"tipo": "riga"
+},
+"stato": "proposto",
+"strumento": "midjourney",
+"tipo": "tavola",
+"universo": "steamverse",
+"url": null
+},
+"strumento": "midjourney",
+"tipo": "tavola"
+},
+"postata_da": "media-random",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"STE-INV-0035"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "media-random",
+"da": "media-random",
+"quando": "2026-09-18T12:49:31Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_tavola",
+"universi": [
+"steamverse"
+]
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-18T12:49:31Z",
+"esito": null,
+"id": "BAC-35346708316-2",
+"payload": {
+"bozza": "Numbered technical plate from an 1880s engineering manual: ink on yellowed paper, exploded or sectioned view with callout numbers linked by thin lines to a margin legend, one brass accent on the working part, label with illegible product code. Subject: La Chiave Fittizia della Stiva — Chiave di scarto, spuntata, identica nella forma a quelle usate per le stive delle chiatte ma incapace di aprire alcunché. — carried by Zaid la tiene appesa bene in vista al cinturone, come un gioco da bambino.. Inchiostro seppia e nero su carta ingiallita; accento unico in ottone caldo per il pezzo che conta. Tavola tecnica da manuale d'ingegneria del 1880: linee di contorno pulite, tratteggio incrociato per le ombre, sezioni numerate con richiami (1, 2, 3…) collegati da linee sottili a una legenda a margine. golden light, full body, wide shot, clean lines and geometric shapes --ar 4:3 --no neon, plastic, coloured glass, polished chrome, saturated blue sky, decorative gears, aviator goggles, corsets, top hats, illegible lettering, watermark --sref random",
+"chiave": "m2",
+"contesto": "id: STE-GAD-0010\ntipo: gadget\nuniverso: steamverse\nestrazione: 21\ncreated: '2026-09-13'\nparent_id: null\nrelazione: null\nepoca_relativa: 0\nregione: Ledoskol\nstatus: canon\nschema_version: 1\ninvenzione_id: STE-INV-0001\npersonaggio_id: STE-PER-0005\nnome: La Chiave Fittizia della Stiva\ncosa: Chiave di scarto, spuntata, identica nella forma a quelle usate per le stive delle chiatte ma incapace di aprire alcunché.\nchi_lo_porta: Zaid la tiene appesa bene in vista al cinturone, come un gioco da bambino.\ntradimento_tech: Proprio perché è palesemente inutile, nessuno sospetta che la vera chiave sia nascosta cucita nella stessa fettuccia che la tiene appesa.\nprod: false",
+"manifest": {
+"caricato_il": null,
+"creato": "2026-09-18",
+"id": "MED-35346708316-2",
+"note": "oggetto: La Chiave Fittizia della Stiva; gancio: Un ispettore l'ha già esaminata due volte, ridendo della chiave giocattolo del cadetto più giovane del molo.; tradimento_tech: Proprio perché è palesemente inutile, nessuno sospetta che la vera chiave sia nascosta cucita nella stessa fettuccia che la tiene appesa.; sref random — promuovere con media_upload.py --promuovi-sref",
+"parametri": {
+"ar": "4:3",
+"atomi": [
+"ATM-35310512448-6",
+"ATM-35310512448-33",
+"ATM-35185545263-17"
+],
+"cref": null,
+"sref": "random"
+},
+"prompt": "Numbered technical plate from an 1880s engineering manual: ink on yellowed paper, exploded or sectioned view with callout numbers linked by thin lines to a margin legend, one brass accent on the working part, label with illegible product code. Subject: La Chiave Fittizia della Stiva — Chiave di scarto, spuntata, identica nella forma a quelle usate per le stive delle chiatte ma incapace di aprire alcunché. — carried by Zaid la tiene appesa bene in vista al cinturone, come un gioco da bambino.. Inchiostro seppia e nero su carta ingiallita; accento unico in ottone caldo per il pezzo che conta. Tavola tecnica da manuale d'ingegneria del 1880: linee di contorno pulite, tratteggio incrociato per le ombre, sezioni numerate con richiami (1, 2, 3…) collegati da linee sottili a una legenda a margine. golden light, full body, wide shot, clean lines and geometric shapes --ar 4:3 --no neon, plastic, coloured glass, polished chrome, saturated blue sky, decorative gears, aviator goggles, corsets, top hats, illegible lettering, watermark --sref random",
+"sha256": null,
+"sorgente": {
+"ref": "STE-GAD-0010",
+"tipo": "riga"
+},
+"stato": "proposto",
+"strumento": "midjourney",
+"tipo": "tavola",
+"universo": "steamverse",
+"url": null
+},
+"strumento": "midjourney",
+"tipo": "tavola"
+},
+"postata_da": "media-random",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"STE-GAD-0010"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "media-random",
+"da": "media-random",
+"quando": "2026-09-18T12:49:31Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_tavola",
+"universi": [
+"steamverse"
+]
+},
+{
+"chiusa_il": null,
 "creata": "2026-09-15T23:21:24Z",
 "esito": null,
 "id": "BAC-35034876036-2",

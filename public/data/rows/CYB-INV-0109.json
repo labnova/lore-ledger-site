@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_paga": "il-costruttore",
+"created": "2026-09-18",
+"discipline": [
+"sicurezza/antincendio",
+"funerario/cremazione"
+],
+"entita_usate": [
+"Rostkirche",
+"Anselm Kroyer"
+],
+"epoca_relativa": 0,
+"estrazione": 123,
+"fatti": [],
+"gancio": "I crematori di Rostkirche preferiscono il falso; costa un decimo e Anselm Kroyer lo consegna lo stesso giorno, garanzia inclusa.",
+"id": "CYB-INV-0109",
+"media": [],
+"nome": "Il Bollino Gemello",
+"nome_reale": "Bollino di conformità antincendio contraffatto, indistinguibile da quello autentico di Parallasse Certificazioni™",
+"oggetto": "bollino di conformità antincendio contraffatto, indistinguibile dall'originale certificato",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "falsificazione",
+"universo": "cyberverse"
+}

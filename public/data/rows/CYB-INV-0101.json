@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-utente-ultimo",
+"created": "2026-09-18",
+"discipline": [
+"sicurezza/antincendio",
+"funerario/cremazione"
+],
+"entita_usate": [
+"Parallasse Certificazioni™"
+],
+"epoca_relativa": 0,
+"estrazione": 123,
+"fatti": [],
+"gancio": "La build trapelata segna \"rischio zero\" su un corpo che sta per esplodere in camera ardente, e la famiglia lo scopre solo dal fumo sotto la porta.",
+"id": "CYB-INV-0101",
+"media": [],
+"nome": "La Build che Non Doveva Uscire",
+"nome_reale": "Sensore predittivo di autocombustione per bare ignifughe, build beta trapelata prima del lancio commerciale certificato Parallasse",
+"oggetto": "sensore predittivo di autocombustione per bare ignifughe, versione beta trapelata prima del lancio ufficiale",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "versione-futura-trapelata",
+"universo": "cyberverse"
+}

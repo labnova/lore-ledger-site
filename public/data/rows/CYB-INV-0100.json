@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-ambiente-gli-animali",
+"created": "2026-09-18",
+"discipline": [
+"sicurezza/antincendio",
+"funerario/cremazione"
+],
+"entita_usate": [
+"Rostkirche"
+],
+"epoca_relativa": 0,
+"estrazione": 123,
+"fatti": [],
+"gancio": "A ogni cremazione l'operatore la gira tre volte come vuole il rito di Rostkirche, e l'alogenato residuo finisce ancora nel canale dove i bambini pescano i gamberi.",
+"id": "CYB-INV-0100",
+"media": [],
+"nome": "Il Terzo Giro di Valvola",
+"nome_reale": "Valvola di sfiato per estinguente alogenato, murata sui forni crematori di Rostkirche come sfogo cerimoniale a ogni cremazione",
+"oggetto": "valvola di sfiato per estinguente alogenato, murata sui forni crematori come sfogo rituale a ogni cremazione",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "rito",
+"universo": "cyberverse"
+}

@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-inventore-originario",
+"created": "2026-09-18",
+"discipline": [
+"sicurezza/antincendio",
+"funerario/cremazione"
+],
+"entita_usate": [
+"Rostkirche"
+],
+"epoca_relativa": 0,
+"estrazione": 123,
+"fatti": [],
+"gancio": "L'ingegnera che l'aveva brevettata per salvare vite dalle fiamme guarda ora la sua testina accendere pire abusive nei cortili di Rostkirche.",
+"id": "CYB-INV-0102",
+"media": [],
+"nome": "La Colonna del Commiato",
+"nome_reale": "Testina sprinkler antincendio riconvertita per accendere anziché spegnere, rivenduta ai crematori clandestini di Rostkirche",
+"oggetto": "testina sprinkler riconvertita per accendere anziché spegnere, venduta ai crematori clandestini come rito d'accensione",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "inversione-di-funzione",
+"universo": "cyberverse"
+}

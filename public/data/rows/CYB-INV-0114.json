@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-utente-ultimo",
+"created": "2026-09-18",
+"discipline": [
+"sicurezza/antincendio",
+"funerario/cremazione"
+],
+"entita_usate": [
+"Parallasse Certificazioni™"
+],
+"epoca_relativa": 0,
+"estrazione": 123,
+"fatti": [],
+"gancio": "La famiglia che perde il sorteggio aspetta un altro giorno con il corpo in una cella refrigerata presa in prestito da Parallasse Certificazioni™.",
+"id": "CYB-INV-0114",
+"media": [],
+"nome": "Il Sorteggio del Turno",
+"nome_reale": "Turno di cremazione assegnato per sorteggio secondo il tetto giornaliero imposto dal codice antincendio",
+"oggetto": "turno di cremazione assegnato per sorteggio, secondo il tetto giornaliero imposto dal codice antincendio",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "sorte",
+"universo": "cyberverse"
+}

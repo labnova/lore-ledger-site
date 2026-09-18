@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "la-comunita",
+"created": "2026-09-18",
+"discipline": [
+"sicurezza/antincendio",
+"funerario/cremazione"
+],
+"entita_usate": [
+"Parallasse Certificazioni™"
+],
+"epoca_relativa": 0,
+"estrazione": 123,
+"fatti": [],
+"gancio": "Il fumo delle pire vietate cala su tutto il quartiere ogni sera, e l'ispettorato lo sa, ma il dazio versato a Parallasse Certificazioni™ tiene chiuso ogni verbale.",
+"id": "CYB-INV-0110",
+"media": [],
+"nome": "Il Dazio sul Fumo",
+"nome_reale": "Pira a cielo aperto, vietata dal codice antincendio ma tollerata dietro pagamento del dazio a Parallasse Certificazioni™",
+"oggetto": "pira a cielo aperto, vietata dal codice antincendio ma tollerata dietro pagamento di un dazio",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "divieto-ignorato",
+"universo": "cyberverse"
+}

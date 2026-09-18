@@ -5,7 +5,7 @@
 ],
 "descrizione": "borgo chiuso; la bottega mutila e invecchia, i giovani non restano; Madre Iselda tiene registri segreti delle nascite",
 "ha_prosa": true,
-"n_ricorrenze": 127,
+"n_ricorrenze": 128,
 "nome": "Calvenna",
 "prima_apparizione": 1,
 "prosa": "A Calvenna il borgo resta chiuso, ma le sue righe recenti si sono riempite di conti che non tornano: Amani allinea caratteri su versetti mai letti, conta l'acqua invece dei versetti e nasconde un'ampolla che non le appartiene, mentre la chiave del chiusino, una notte, non entra più perché qualcuno l'ha cambiata. Il Notaio non osa rompere la perlina fusa tutta a sinistra, e al Secondo Rilancio non circola moneta ma solo la promessa di un favore da riscuotere quando la Diocesi guarderà altrove. Anche le quote del Bestiario, che Juma smette di contare per sé e segna per Furaha, sembrano opera di Nia più che del cielo: chi le scoprisse non saprebbe se punire o inginocchiarsi.",
@@ -1153,6 +1153,15 @@
 "riga_id": "NEO-GAD-0093",
 "riga_tipo": "gadget",
 "riga_titolo": "Disco delle Sette Stelle"
+},
+{
+"estrazione": 121,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-CON-0003",
+"riga_tipo": "contenuto",
+"riga_titolo": "Nota di redazione: perché il balsamo dura una sola lettura"
 }
 ],
 "righe": [
@@ -1165,6 +1174,11 @@
 "id": "NEO-CON-0002",
 "tipo": "contenuto",
 "titolo": "Nota di redazione: perché Yui firma due volte lo stesso verbale"
+},
+{
+"id": "NEO-CON-0003",
+"tipo": "contenuto",
+"titolo": "Nota di redazione: perché il balsamo dura una sola lettura"
 },
 {
 "id": "NEO-GAD-0001",

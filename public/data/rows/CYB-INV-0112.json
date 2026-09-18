@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_paga": "l-ambiente-gli-animali",
+"created": "2026-09-18",
+"discipline": [
+"sicurezza/antincendio",
+"funerario/cremazione"
+],
+"entita_usate": [
+"La Deriva del Meridiano",
+"Rostkirche"
+],
+"epoca_relativa": 0,
+"estrazione": 123,
+"fatti": [],
+"gancio": "Quando lo scarto della Deriva del Meridiano supera la soglia, il sensore scarica acqua di raffreddamento bollente dritta nel canale, e i gamberi di Rostkirche non sopravvivono alla settimana.",
+"id": "CYB-INV-0112",
+"media": [],
+"nome": "Lo Scarto che Scarica nel Canale",
+"nome_reale": "Sensore di temperatura del forno crematorio, sincronizzato sul riferimento orbitale della Deriva del Meridiano",
+"oggetto": "sensore di temperatura del forno crematorio, sincronizzato sul riferimento orbitale della Deriva del Meridiano",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "guasto",
+"universo": "cyberverse"
+}

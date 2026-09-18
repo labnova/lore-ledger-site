@@ -1,0 +1,28 @@
+{
+"appare_in": [],
+"chi_paga": "un-terzo-ignaro",
+"created": "2026-09-18",
+"discipline": [
+"sicurezza/antincendio",
+"funerario/cremazione"
+],
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 123,
+"fatti": [],
+"gancio": "Suona come se bruciasse un intero blocco, e il vicino del piano di sotto, che non ha mai sentito parlare di quel forno, si sveglia ogni volta con il cuore in gola.",
+"id": "CYB-INV-0113",
+"media": [],
+"nome": "La Sirena Sovradimensionata",
+"nome_reale": "Sirena antincendio da impianto industriale, installata su un forno crematorio domestico",
+"oggetto": "sirena antincendio da impianto industriale, installata su un forno crematorio domestico",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "scala-sbagliata",
+"universo": "cyberverse"
+}

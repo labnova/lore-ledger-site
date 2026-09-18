@@ -7,7 +7,7 @@
 "ha_prosa": true,
 "nome": "Calvenna",
 "prima_apparizione": 1,
-"ricorrenze": 127,
+"ricorrenze": 128,
 "slug": "calvenna",
 "sopra_soglia": true,
 "tipo": "luogo",
@@ -164,6 +164,20 @@
 },
 {
 "alias": [
+"CYB-REG-meridiana-alta"
+],
+"descrizione": "Enclave corporativa costruita sulla quota più alta della città, fuori dalla portata delle ondate di calore che colpiscono i blocchi popolari sottostanti; il personale arriva per contratto da ogni filiale di Parallasse Certificazioni™ nel mondo, così nessun ceppo prevale e i cognomi restano quelli di partenza più spesso del mestiere svolto qui.",
+"ha_prosa": false,
+"nome": "Meridiana Alta",
+"prima_apparizione": 105,
+"ricorrenze": 24,
+"slug": "meridiana-alta",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "cyberverse"
+},
+{
+"alias": [
 "ELA-REG-scafo-zero"
 ],
 "descrizione": "Uno scafo agganciato al convoglio senza mai essere stato registrato in nessun rollo d'imbarco; chi ci vive è arrivato da ogni ceppo e ha perso o rinnegato il cognome di città, così i nomi si mescolano liberamente e nessuno controlla più chi appartiene a chi.",
@@ -175,20 +189,6 @@
 "sopra_soglia": true,
 "tipo": "luogo",
 "universo": "elabverse"
-},
-{
-"alias": [
-"CYB-REG-meridiana-alta"
-],
-"descrizione": "Enclave corporativa costruita sulla quota più alta della città, fuori dalla portata delle ondate di calore che colpiscono i blocchi popolari sottostanti; il personale arriva per contratto da ogni filiale di Parallasse Certificazioni™ nel mondo, così nessun ceppo prevale e i cognomi restano quelli di partenza più spesso del mestiere svolto qui.",
-"ha_prosa": false,
-"nome": "Meridiana Alta",
-"prima_apparizione": 105,
-"ricorrenze": 23,
-"slug": "meridiana-alta",
-"sopra_soglia": true,
-"tipo": "luogo",
-"universo": "cyberverse"
 },
 {
 "alias": [

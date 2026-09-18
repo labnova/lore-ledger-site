@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "il-costruttore",
+"created": "2026-09-18",
+"discipline": [
+"sicurezza/antincendio",
+"funerario/cremazione"
+],
+"entita_usate": [
+"Rostkirche"
+],
+"epoca_relativa": 0,
+"estrazione": 123,
+"fatti": [],
+"gancio": "L'erede non voleva né il brevetto né il vincolo, ma il costruttore l'aveva legato per contratto a restare gratuito per Rostkirche, per sempre.",
+"id": "CYB-INV-0107",
+"media": [],
+"nome": "Il Brevetto Vincolato",
+"nome_reale": "Rilevatore di fumo brevettato, lasciato in eredità al distretto trapianti per segnalare la fine delle cremazioni abusive",
+"oggetto": "rilevatore di fumo brevettato, lasciato in eredità al distretto trapianti con un vincolo di gratuità perpetua",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "eredita-lascito",
+"universo": "cyberverse"
+}

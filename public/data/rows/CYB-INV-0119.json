@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "un-terzo-ignaro",
+"created": "2026-09-18",
+"discipline": [
+"sicurezza/antincendio",
+"funerario/cremazione"
+],
+"entita_usate": [
+"Anselm Kroyer"
+],
+"epoca_relativa": 0,
+"estrazione": 123,
+"fatti": [],
+"gancio": "Chi lo compra di seconda mano da Anselm Kroyer non sa che quella matricola apparteneva a un impianto coinvolto in tre incendi mortali, mai dichiarati.",
+"id": "CYB-INV-0119",
+"media": [],
+"nome": "L'Estintore Riconvertito",
+"nome_reale": "Estintore industriale riconvertito in urna funeraria, che porta ancora incisi matricola e segni di scariche precedenti",
+"oggetto": "estintore industriale riconvertito in urna funeraria, che porta ancora incisi matricola e segni di scariche precedenti",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "memoria-dell-oggetto",
+"universo": "cyberverse"
+}

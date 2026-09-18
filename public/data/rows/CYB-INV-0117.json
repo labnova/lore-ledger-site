@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-istituzione",
+"created": "2026-09-18",
+"discipline": [
+"sicurezza/antincendio",
+"funerario/cremazione"
+],
+"entita_usate": [
+"Parallasse Certificazioni™"
+],
+"epoca_relativa": 0,
+"estrazione": 123,
+"fatti": [],
+"gancio": "Parallasse Certificazioni™ non riesce più a chiudere un solo forno senza quel reagente in scorta, e il fornitore lo sa.",
+"id": "CYB-INV-0117",
+"media": [],
+"nome": "Il Reagente da Cui Non Si Torna",
+"nome_reale": "Reagente ritardante per incendi, usato anche per accelerare la combustione nei forni crematori del distretto",
+"oggetto": "reagente ritardante per incendi, usato anche per accelerare la combustione nei forni crematori",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "dipendenza",
+"universo": "cyberverse"
+}

@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-inventore-originario",
+"created": "2026-09-18",
+"discipline": [
+"sicurezza/antincendio",
+"funerario/cremazione"
+],
+"entita_usate": [
+"Parallasse Certificazioni™"
+],
+"epoca_relativa": 0,
+"estrazione": 123,
+"fatti": [],
+"gancio": "L'ingegnere l'aveva progettata per prevenire incendi, non sapeva che Parallasse Certificazioni™ ne avrebbe letto i filmati per fatturare ogni cremazione non dichiarata.",
+"id": "CYB-INV-0115",
+"media": [],
+"nome": "L'Occhio nel Portello",
+"nome_reale": "Telecamera termica antincendio integrata nel portello del forno crematorio, che registra ogni cremazione eseguita",
+"oggetto": "telecamera termica antincendio integrata nel portello del forno, che registra ogni cremazione eseguita",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "sorveglianza-incorporata",
+"universo": "cyberverse"
+}

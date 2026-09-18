@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-istituzione",
+"created": "2026-09-18",
+"discipline": [
+"sicurezza/antincendio",
+"funerario/cremazione"
+],
+"entita_usate": [
+"Parallasse Certificazioni™"
+],
+"epoca_relativa": 0,
+"estrazione": 123,
+"fatti": [],
+"gancio": "Il collaudo doveva certificare la sicurezza del forno, invece rivela che il Bollino di Parallasse Certificazioni™ viene rinnovato da anni senza controlli reali.",
+"id": "CYB-INV-0108",
+"media": [],
+"nome": "Il Collaudo che Ha Visto Troppo",
+"nome_reale": "Banco di collaudo elettronico per forni ibridi antincendio-crematorio, richiesto da Parallasse Certificazioni™ per il rinnovo del Bollino",
+"oggetto": "banco di collaudo elettronico per forni ibridi antincendio-crematorio, richiesto per il rinnovo del Bollino",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "prova-collaudo",
+"universo": "cyberverse"
+}

@@ -5,7 +5,7 @@
 ],
 "descrizione": "Enclave corporativa costruita sulla quota più alta della città, fuori dalla portata delle ondate di calore che colpiscono i blocchi popolari sottostanti; il personale arriva per contratto da ogni filiale di Parallasse Certificazioni™ nel mondo, così nessun ceppo prevale e i cognomi restano quelli di partenza più spesso del mestiere svolto qui.",
 "ha_prosa": false,
-"n_ricorrenze": 23,
+"n_ricorrenze": 24,
 "nome": "Meridiana Alta",
 "prima_apparizione": 105,
 "prosa": null,
@@ -217,6 +217,15 @@
 "riga_id": "CYB-PER-0044",
 "riga_tipo": "personaggio",
 "riga_titolo": "Brigitte Hallenstein"
+},
+{
+"estrazione": 122,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
 }
 ],
 "righe": [

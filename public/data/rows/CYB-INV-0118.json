@@ -1,0 +1,28 @@
+{
+"appare_in": [],
+"chi_paga": "il-futuro",
+"created": "2026-09-18",
+"discipline": [
+"sicurezza/antincendio",
+"funerario/cremazione"
+],
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 123,
+"fatti": [],
+"gancio": "L'ultimo fabbricante è a un passo dalla chiusura, e il giorno in cui alzerà la saracinesca ogni forno ibrido del distretto si fermerà nello stesso momento; chi verrà dopo lo scoprirà solo allora.",
+"id": "CYB-INV-0118",
+"media": [],
+"nome": "L'Ultimo Fabbricante",
+"nome_reale": "Valvola di ricambio per forni ibridi antincendio-crematorio, prodotta da un solo fornitore rimasto",
+"oggetto": "valvola di ricambio per forni ibridi antincendio-crematorio, prodotta da un solo fornitore rimasto",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "monopolio",
+"universo": "cyberverse"
+}
