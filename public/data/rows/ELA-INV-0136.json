@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-inventore-originario",
+"created": "2026-09-18",
+"discipline": [
+"ludica/giochi_da_tavolo",
+"musica/percussioni"
+],
+"entita_usate": [
+"Kerim Dallendyne"
+],
+"epoca_relativa": 0,
+"estrazione": 129,
+"fatti": [],
+"gancio": "Kerim Dallendyne vende ormai più resina di scarto che tamburi, e l'inventore che gliel'ha insegnato non riconoscerebbe più il proprio mestiere.",
+"id": "ELA-INV-0136",
+"media": [],
+"nome": "La Resina di Scarto",
+"nome_reale": "Resina di scarto della lavorazione delle pelli di tamburo, rivenduta come collante per riparare gli scafi e diventata merce più richiesta dei tamburi che la producono",
+"oggetto": "Resina di scarto della lavorazione delle pelli di tamburo, rivenduta come collante per riparare gli scafi del convoglio.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "effetto-collaterale",
+"universo": "elabverse"
+}

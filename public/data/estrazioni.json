@@ -5189,5 +5189,78 @@
 "CYB-CON-0003"
 ],
 "universo": "cyberverse"
+},
+{
+"ambientazione": "omaggio-cross-universe",
+"bibbia_pescata": [
+"<!-- entita:fine -->",
+"- [luoghi (2)](/entita?universo=elabverse&tipo=luogo)"
+],
+"campi_forzati": [],
+"canone_pescato": [
+"ELA-INV-0068",
+"ELA-CON-0007",
+"ELA-CON-0008"
+],
+"chiavi": {
+"discipline": [
+"ludica/giochi_da_tavolo",
+"musica/percussioni"
+],
+"universo": "elabverse"
+},
+"created": "2026-09-18",
+"entita": {
+"anomalia": {
+"descrizione": "Una battuta in più infilata da tempo immemore in ogni gioco da tavolo e in ogni tamburo del convoglio; nessuno sa dire se sia una regola, un difetto di fabbrica o un'eco arrivata da un altro branch, e nessuno l'ha mai tolta.",
+"nome": "Il Terzo Colpo"
+},
+"attore": {
+"descrizione": "Intagliatore e accordatore ambulante che vende pedine, dadi e pelli di tamburo dalla stessa cassa, perché per lui sono la stessa merce, cose che si consumano a furia di essere toccate a ritmo.",
+"nome": "Kerim Dallendyne"
+},
+"ente": {
+"descrizione": "Consesso itinerante, ramo minore del Banco delle Molte Mani, che amministra i tavoli da gioco del convoglio; ogni disputa tra cabine si chiude a un tavolo, e la partita vale come sentenza scritta.",
+"nome": "Divano dei Tavolieri"
+},
+"luogo": {
+"descrizione": "Uno scafo agganciato al convoglio senza mai essere stato registrato in nessun rollo d'imbarco; chi ci vive è arrivato da ogni ceppo e ha perso o rinnegato il cognome di città, così i nomi si mescolano liberamente e nessuno controlla più chi appartiene a chi.",
+"nome": "Scafo Zero"
+}
+},
+"entita_riusate": [
+"Scafo Zero"
+],
+"esito": "ok",
+"espansioni": [
+"ELA-INV-0138"
+],
+"estrazione": 129,
+"forzata": false,
+"lotto": "lotto-lore",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"ELA-INV-0118",
+"ELA-INV-0119",
+"ELA-INV-0120",
+"ELA-INV-0121",
+"ELA-INV-0122",
+"ELA-INV-0123",
+"ELA-INV-0124",
+"ELA-INV-0125",
+"ELA-INV-0126",
+"ELA-INV-0127",
+"ELA-INV-0128",
+"ELA-INV-0129",
+"ELA-INV-0130",
+"ELA-INV-0131",
+"ELA-INV-0132",
+"ELA-INV-0133",
+"ELA-INV-0134",
+"ELA-INV-0135",
+"ELA-INV-0136",
+"ELA-INV-0137"
+],
+"universo": "elabverse"
 }
 ]

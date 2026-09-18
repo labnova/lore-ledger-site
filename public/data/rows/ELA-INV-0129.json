@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "la-comunita",
+"created": "2026-09-18",
+"discipline": [
+"ludica/giochi_da_tavolo",
+"musica/percussioni"
+],
+"entita_usate": [
+"Scafo Zero"
+],
+"epoca_relativa": 0,
+"estrazione": 129,
+"fatti": [],
+"gancio": "Nessuno a Scafo Zero ricorda più a cosa servissero i sette rulli, ma un torneo che ne salta anche uno viene dichiarato nullo da tutta la comunità.",
+"id": "ELA-INV-0129",
+"media": [],
+"nome": "I Sette Rulli",
+"nome_reale": "Sequenza di sette rulli e sette pedine posate prima di ogni partita ufficiale del tavoliere del giudizio",
+"oggetto": "Sequenza di sette rulli e sette pedine posate prima di ogni partita ufficiale del tavoliere del giudizio.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "rito",
+"universo": "elabverse"
+}

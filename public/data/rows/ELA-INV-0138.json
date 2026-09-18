@@ -1,0 +1,28 @@
+{
+"appare_in": [],
+"chi_paga": "l-istituzione",
+"created": "2026-09-18",
+"discipline": [
+"finanza/valuta",
+"tipografia/calligrafia"
+],
+"entita_usate": [],
+"epoca_relativa": 3,
+"estrazione": 129,
+"fatti": [],
+"gancio": "Tre famiglie di anelli diversi si presentano in una sola mattina allo sportello del Banco delle Molte Mani, ciascuna con un albero genealogico ricalcato riga per riga dal medesimo registro, convinta di essere l'unica erede della donna incisa sulla banconota.",
+"id": "ELA-INV-0138",
+"media": [],
+"nome": "Il Ramo che Nessuno Ha Piantato",
+"nome_reale": "Albero genealogico calligrafato che rivendica discendenza diretta dalla figura incisa sulle banconote del convoglio, presentato come titolo per un'esenzione di debito",
+"oggetto": "Albero genealogico calligrafato che rivendica discendenza diretta dalla figura incisa sulle banconote, presentato come titolo per un'esenzione di debito.",
+"parent_id": "ELA-INV-0068",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "eredita-lascito",
+"universo": "elabverse"
+}

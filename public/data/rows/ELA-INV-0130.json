@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_paga": "l-utente-ultimo",
+"created": "2026-09-18",
+"discipline": [
+"ludica/giochi_da_tavolo",
+"musica/percussioni"
+],
+"entita_usate": [
+"Scafo Zero",
+"Divano dei Tavolieri"
+],
+"epoca_relativa": 0,
+"estrazione": 129,
+"fatti": [],
+"gancio": "Un giocatore di Scafo Zero scopre, molto dopo aver perso una partita truccata, che il Divano dei Tavolieri aveva ascoltato ogni sua esitazione dalla cassa.",
+"id": "ELA-INV-0130",
+"media": [],
+"nome": "Il Tavoliere che Ascolta",
+"nome_reale": "Tavoliere con cassa di risonanza che registra il ritmo di ogni esitazione di chi gioca, leggibile solo da chi sa ascoltare la pelle incorporata",
+"oggetto": "Tavoliere con cassa di risonanza che registra il ritmo di ogni esitazione di chi gioca, leggibile solo da chi sa ascoltarla.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "sorveglianza-incorporata",
+"universo": "elabverse"
+}

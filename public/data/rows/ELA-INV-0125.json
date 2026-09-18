@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-utente-ultimo",
+"created": "2026-09-18",
+"discipline": [
+"ludica/giochi_da_tavolo",
+"musica/percussioni"
+],
+"entita_usate": [
+"Scafo Zero"
+],
+"epoca_relativa": 0,
+"estrazione": 129,
+"fatti": [],
+"gancio": "L'ultimo della fila a Scafo Zero aspetta tre settimane il proprio rullo di turno, e quando arriva gli manca già una battuta rispetto a quella promessa.",
+"id": "ELA-INV-0125",
+"media": [],
+"nome": "La Tessera a Rullo",
+"nome_reale": "Tessera a rullo di tamburo che assegna il turno settimanale al tavoliere del giudizio, una battuta per famiglia, mai due",
+"oggetto": "Tessera a rullo di tamburo che assegna il turno settimanale al tavoliere del giudizio, una battuta per famiglia, mai due.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "razionamento",
+"universo": "elabverse"
+}

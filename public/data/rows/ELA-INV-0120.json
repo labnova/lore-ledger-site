@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_paga": "la-comunita",
+"created": "2026-09-18",
+"discipline": [
+"ludica/giochi_da_tavolo",
+"musica/percussioni"
+],
+"entita_usate": [
+"Scafo Zero",
+"Kerim Dallendyne"
+],
+"epoca_relativa": 0,
+"estrazione": 129,
+"fatti": [],
+"gancio": "Quando l'osso di derelitto scarseggia, mezza Scafo Zero smette di dormire per aspettare il proprio turno davanti alla cassa di Kerim Dallendyne.",
+"id": "ELA-INV-0120",
+"media": [],
+"nome": "Le Pedine che Si Vedono al Buio",
+"nome_reale": "Set di pedine intagliate in osso di derelitto, unico materiale leggibile al buio sulle caselle del tavoliere del giudizio",
+"oggetto": "Set di pedine intagliate in osso di derelitto, l'unico materiale che resta leggibile al buio sul tavoliere del giudizio.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "dipendenza",
+"universo": "elabverse"
+}

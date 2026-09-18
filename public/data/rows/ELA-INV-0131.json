@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "nessuno-apparentemente",
+"created": "2026-09-18",
+"discipline": [
+"ludica/giochi_da_tavolo",
+"musica/percussioni"
+],
+"entita_usate": [
+"Divano dei Tavolieri"
+],
+"epoca_relativa": 0,
+"estrazione": 129,
+"fatti": [],
+"gancio": "Due registri separati, taş e nodo, convivono nel Divano dei Tavolieri finché un arbitro mette a confronto le due pedine e scopre che il taglio dell'incisione combacia perfettamente.",
+"id": "ELA-INV-0131",
+"media": [],
+"nome": "Taş e Nodo",
+"nome_reale": "Pedina snodata chiamata taş da chi discende da Konya e nodo da chi è nato a Scafo Zero, registrata due volte come se fosse due pezzi",
+"oggetto": "Pedina snodata con due nomi: taş per chi discende da Konya, nodo per chi è nato a Scafo Zero.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "malinteso-linguistico",
+"universo": "elabverse"
+}

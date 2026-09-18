@@ -236,6 +236,11 @@
 "to": "ELA-INV-0117"
 },
 {
+"from": "ELA-INV-0068",
+"kind": "parent",
+"to": "ELA-INV-0138"
+},
+{
 "from": "HAC-INV-0002",
 "kind": "parent",
 "to": "HAC-INV-0041"
@@ -10279,6 +10284,132 @@
 "id": "ELA-INV-0117",
 "tipo": "invenzione",
 "titolo": "Il Disegno Sepolto, o la Terra di Sinope",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0118",
+"tipo": "invenzione",
+"titolo": "L'Edizione che Batte Ancora",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0119",
+"tipo": "invenzione",
+"titolo": "Il Tamburo che Doveva Calmare",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0120",
+"tipo": "invenzione",
+"titolo": "Le Pedine che Si Vedono al Buio",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0121",
+"tipo": "invenzione",
+"titolo": "Il Collaudo dei Tre Rulli",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0122",
+"tipo": "invenzione",
+"titolo": "La Pedina Madre",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0123",
+"tipo": "invenzione",
+"titolo": "Il Tavoliere di Lamiera",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0124",
+"tipo": "invenzione",
+"titolo": "Le Pelli di Quarantena",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0125",
+"tipo": "invenzione",
+"titolo": "La Tessera a Rullo",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0126",
+"tipo": "invenzione",
+"titolo": "La Chiave a Doppio Taglio",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0127",
+"tipo": "invenzione",
+"titolo": "La Pedina Incrinata",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0128",
+"tipo": "invenzione",
+"titolo": "Il Metronomo Unico",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0129",
+"tipo": "invenzione",
+"titolo": "I Sette Rulli",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0130",
+"tipo": "invenzione",
+"titolo": "Il Tavoliere che Ascolta",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0131",
+"tipo": "invenzione",
+"titolo": "Taş e Nodo",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0132",
+"tipo": "invenzione",
+"titolo": "Il Difetto Calibrato",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0133",
+"tipo": "invenzione",
+"titolo": "I Due Solchi",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0134",
+"tipo": "invenzione",
+"titolo": "Il Turno che Nessuno Firma",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0135",
+"tipo": "invenzione",
+"titolo": "La Matrice Unica",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0136",
+"tipo": "invenzione",
+"titolo": "La Resina di Scarto",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0137",
+"tipo": "invenzione",
+"titolo": "Il Sorteggio dei Tre Rulli",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0138",
+"tipo": "invenzione",
+"titolo": "Il Ramo che Nessuno Ha Piantato",
 "universo": "elabverse"
 },
 {

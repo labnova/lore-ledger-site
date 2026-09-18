@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_paga": "l-inventore-originario",
+"created": "2026-09-18",
+"discipline": [
+"ludica/giochi_da_tavolo",
+"musica/percussioni"
+],
+"entita_usate": [
+"Kerim Dallendyne",
+"Il Terzo Colpo"
+],
+"epoca_relativa": 0,
+"estrazione": 129,
+"fatti": [],
+"gancio": "Da quando Kerim Dallendyne ha smesso di girare tra gli anelli, nessun tavoliere sonoro riesce più a battere Il Terzo Colpo come lo aveva pensato l'inventore, due generazioni fa.",
+"id": "ELA-INV-0126",
+"media": [],
+"nome": "La Chiave a Doppio Taglio",
+"nome_reale": "Chiave di accordatura del tavoliere sonoro, unico attrezzo che regola insieme la tensione delle pelli e l'inclinazione delle caselle",
+"oggetto": "Chiave di accordatura del tavoliere sonoro, l'unico attrezzo che regola insieme la tensione delle pelli e l'inclinazione delle caselle.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "calibrazione",
+"universo": "elabverse"
+}

@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-istituzione",
+"created": "2026-09-18",
+"discipline": [
+"ludica/giochi_da_tavolo",
+"musica/percussioni"
+],
+"entita_usate": [
+"Divano dei Tavolieri"
+],
+"epoca_relativa": 0,
+"estrazione": 129,
+"fatti": [],
+"gancio": "Il Divano dei Tavolieri riconosce le sentenze del tavoliere di lamiera solo a metà, e da tre stagioni non sa spiegare agli anelli poveri perché la loro giustizia valga meno.",
+"id": "ELA-INV-0123",
+"media": [],
+"nome": "Il Tavoliere di Lamiera",
+"nome_reale": "Tavoliere di fortuna disegnato a gesso su lamiera, con un bidone vuoto al posto del tamburo ufficiale, diffuso negli anelli poveri",
+"oggetto": "Tavoliere disegnato a gesso su lamiera, con un bidone vuoto al posto del tamburo ufficiale, diffuso negli anelli poveri.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "sostituto-povero",
+"universo": "elabverse"
+}

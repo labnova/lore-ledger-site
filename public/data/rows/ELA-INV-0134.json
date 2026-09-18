@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-istituzione",
+"created": "2026-09-18",
+"discipline": [
+"ludica/giochi_da_tavolo",
+"musica/percussioni"
+],
+"entita_usate": [
+"Divano dei Tavolieri"
+],
+"epoca_relativa": 0,
+"estrazione": 129,
+"fatti": [],
+"gancio": "Il Divano dei Tavolieri non ha mai iscritto a registro chi accorda le pelli ogni notte, né che il lavoro le sta lentamente togliendo l'udito da un orecchio solo.",
+"id": "ELA-INV-0134",
+"media": [],
+"nome": "Il Turno che Nessuno Firma",
+"nome_reale": "Turno notturno di accordatura a orecchio di tutte le pelli del Divano dei Tavolieri prima di ogni torneo dell'anello",
+"oggetto": "Turno notturno di accordatura a orecchio di tutte le pelli del Divano dei Tavolieri prima di ogni torneo dell'anello.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "costo-umano-nascosto",
+"universo": "elabverse"
+}

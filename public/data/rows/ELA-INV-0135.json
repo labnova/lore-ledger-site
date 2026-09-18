@@ -1,0 +1,28 @@
+{
+"appare_in": [],
+"chi_paga": "un-terzo-ignaro",
+"created": "2026-09-18",
+"discipline": [
+"ludica/giochi_da_tavolo",
+"musica/percussioni"
+],
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 129,
+"fatti": [],
+"gancio": "Una famiglia dell'anello di coda scopre solo alla sentenza che le proprie pedine, comprate a poco da un venditore ambulante, non sono mai state ufficiali.",
+"id": "ELA-INV-0135",
+"media": [],
+"nome": "La Matrice Unica",
+"nome_reale": "Unica matrice per intagliare le pedine ufficiali del tavoliere del giudizio, custodita da un solo fornitore in tutto il convoglio",
+"oggetto": "Unica matrice per intagliare le pedine ufficiali del tavoliere del giudizio, custodita da un solo fornitore in tutto il convoglio.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "monopolio",
+"universo": "elabverse"
+}

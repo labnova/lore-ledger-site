@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_paga": "l-ambiente-gli-animali",
+"created": "2026-09-18",
+"discipline": [
+"ludica/giochi_da_tavolo",
+"musica/percussioni"
+],
+"entita_usate": [
+"Scafo Zero",
+"Divano dei Tavolieri"
+],
+"epoca_relativa": 0,
+"estrazione": 129,
+"fatti": [],
+"gancio": "Da quando il metronomo unico è obbligatorio, gli insetti d'allevamento delle vasche di Scafo Zero non depongono più uova nei giorni di torneo, e nessuno al Divano dei Tavolieri collega le due cose.",
+"id": "ELA-INV-0128",
+"media": [],
+"nome": "Il Metronomo Unico",
+"nome_reale": "Metronomo a manovella imposto come tempo unico per ogni tavoliere del convoglio, al posto delle decine di cadenze locali",
+"oggetto": "Metronomo a manovella imposto come tempo unico per ogni tavoliere del convoglio, al posto delle cadenze locali.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "standard-imposto",
+"universo": "elabverse"
+}

@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_paga": "il-costruttore",
+"created": "2026-09-18",
+"discipline": [
+"ludica/giochi_da_tavolo",
+"musica/percussioni"
+],
+"entita_usate": [
+"Kerim Dallendyne",
+"Divano dei Tavolieri"
+],
+"epoca_relativa": 0,
+"estrazione": 129,
+"fatti": [],
+"gancio": "Kerim Dallendyne viene convocato dal Divano dei Tavolieri per spiegare perché le sue ultime pelli profumino ancora di quarantena.",
+"id": "ELA-INV-0124",
+"media": [],
+"nome": "Le Pelli di Quarantena",
+"nome_reale": "Pelli di tamburo contrabbandate da un derelitto in quarantena, rivendute come ricambio ufficiale per il tavoliere del giudizio",
+"oggetto": "Pelli di tamburo contrabbandate da un derelitto in quarantena, rivendute come ricambio ufficiale per il tavoliere del giudizio.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "contrabbando",
+"universo": "elabverse"
+}

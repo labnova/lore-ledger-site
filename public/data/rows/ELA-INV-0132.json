@@ -1,0 +1,32 @@
+{
+"appare_in": [],
+"chi_paga": "il-costruttore",
+"created": "2026-09-18",
+"discipline": [
+"ludica/giochi_da_tavolo",
+"musica/percussioni"
+],
+"entita_usate": [
+"Kerim Dallendyne",
+"Divano dei Tavolieri",
+"Il Terzo Colpo"
+],
+"epoca_relativa": 0,
+"estrazione": 129,
+"fatti": [],
+"gancio": "Kerim Dallendyne viene accusato dal Divano dei Tavolieri di aver venduto pelli difettose apposta, ma giura di aver solo consegnato ciò che gli è stato ordinato, imitando fedelmente Il Terzo Colpo.",
+"id": "ELA-INV-0132",
+"media": [],
+"nome": "Il Difetto Calibrato",
+"nome_reale": "Pelle di tamburo tagliata con un difetto calibrato per stonare solo al rullo di chiusura, venduta come pezzo normale",
+"oggetto": "Pelle di tamburo tagliata con un difetto calibrato per stonare solo al rullo di chiusura, venduta come pezzo normale.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "sabotaggio",
+"universo": "elabverse"
+}

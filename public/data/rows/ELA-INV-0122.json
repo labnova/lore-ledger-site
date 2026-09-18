@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "il-futuro",
+"created": "2026-09-18",
+"discipline": [
+"ludica/giochi_da_tavolo",
+"musica/percussioni"
+],
+"entita_usate": [
+"Divano dei Tavolieri"
+],
+"epoca_relativa": 0,
+"estrazione": 129,
+"fatti": [],
+"gancio": "Ogni apprendista del Divano dei Tavolieri giura sulla pedina madre senza sapere che quella sotto teca è già la terza copia.",
+"id": "ELA-INV-0122",
+"media": [],
+"nome": "La Pedina Madre",
+"nome_reale": "Pedina madre del tavoliere del giudizio, la prima mai intagliata, conservata come reliquia e mai più rimessa in gioco",
+"oggetto": "Pedina madre del tavoliere del giudizio, la prima mai intagliata, venerata come reliquia e mai più rimessa in gioco.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "reliquia",
+"universo": "elabverse"
+}

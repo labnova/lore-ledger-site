@@ -56,9 +56,9 @@
 "versioni": []
 },
 {
-"carta_chiusa_il": null,
+"carta_chiusa_il": "2026-09-18T20:38:15Z",
 "carta_id": "BAC-35026555608-1",
-"carta_stato": "aperta",
+"carta_stato": "chiusa",
 "commento": null,
 "created": "2026-09-15",
 "errori_schema": [
@@ -232,7 +232,7 @@
 {
 "carta_chiusa_il": null,
 "carta_id": "BAC-35185664527-1",
-"carta_stato": "attesa_arbitro",
+"carta_stato": "aperta",
 "commento": null,
 "created": "2026-09-17",
 "errori_schema": [],
@@ -363,7 +363,7 @@
 {
 "carta_chiusa_il": null,
 "carta_id": "BAC-35233664104-1",
-"carta_stato": "attesa_arbitro",
+"carta_stato": "aperta",
 "commento": null,
 "created": "2026-09-17",
 "errori_schema": [],
@@ -425,7 +425,7 @@
 {
 "carta_chiusa_il": null,
 "carta_id": "BAC-35373695282-1",
-"carta_stato": "aperta",
+"carta_stato": "attesa_arbitro",
 "commento": null,
 "created": "2026-09-18",
 "errori_schema": [],
@@ -475,6 +475,65 @@
 "tipo": "invenzione",
 "titolo": "La Lista Che Si Riordina Da Sola",
 "universo": "hackverse",
+"versione": 1,
+"versioni": []
+},
+{
+"carta_chiusa_il": null,
+"carta_id": "BAC-35397734349-1",
+"carta_stato": "aperta",
+"commento": null,
+"created": "2026-09-18",
+"errori_schema": [],
+"id": "ELA-GAD-0042",
+"motivazione": "Su ELA-GAD-0033 il gancio è già una scena scritta a metà: il pettine che stride sul volto archiviato, quello firmato dall'inventore del Cifrario. Il mio mestiere non deve inventare nulla per approfondire, gli basta far accadere quel passaggio: Yosuke, il disegno, i denti che sbagliano punto. STE-INV-0014 e ELA-INV-0094 hanno ganci forti ma chiusi (una morte, una bandiera issata); qui invece resta aperto il gesto centrale del gadget — la prova — e la riga non ha figlie, quindi l'espansione è il posto giusto. Non tocco le schede anomalia: sono elenchi a nove ricorrenze, meglio una prosa_entita, ma non è il mio turno.",
+"motivo_respinta": null,
+"postata_da": "redattore",
+"promossa_da": null,
+"promossa_il": null,
+"respinta_il": null,
+"riga": {
+"carta": "BAC-35397734349-1",
+"carta_id": "BAC-35397734349-1",
+"chi_lo_porta": "Yosuke lo prende in prestito ogni volta che finisce una copia del volto che sta cercando di ricostruire per Scafo Zero: nessun disegno esce dalle sue mani prima che il pettine ci sia passato sopra. Se lo porta dietro anche quando scende agli archivi, perché la prova che conta non è sul suo foglio ma sul volto conservato.",
+"chi_paga": "l-inventore-originario",
+"cosa": "Pettine di resina colata con i denti tagliati sulle armoniche esatte di un volto canonico: passato sul foglio verifica al tatto se una copia disegnata a mano è fedele all'originale, e non si lascia ingannare dalla precisione del tratto.",
+"created": "2026-09-18",
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 95,
+"gancio": "Yosuke finisce la copia, ci passa sopra il pettine e i denti scivolano lisci: il disegno tiene. Ma il giorno in cui porta il pettine davanti al volto conservato negli archivi — quello firmato dall'inventore del Cifrario in persona — i denti stridono nel punto sbagliato, in un punto che la sua copia aveva attraversato in silenzio, come se la voce vera non fosse mai stata quella.",
+"id": "ELA-GAD-0042",
+"invenzione_id": "ELA-INV-0070",
+"nome": "Il Pettine di Prova",
+"oggetto": "Pettine di resina i cui denti corrispondono alle armoniche di un volto autentico, usato per testarne le copie al tatto.",
+"origine": "approfondimento",
+"parent_id": "ELA-GAD-0033",
+"personaggio_id": "ELA-PER-0029",
+"prod": false,
+"regione": "Scafo Zero",
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "prova-collaudo",
+"tradimento_tech": "Non certifica la bellezza del disegno ma la sua frequenza: un volto può sembrare perfetto e stridere comunque sotto i denti del pettine; la prova non dice dove sia l'errore, dice solo che c'è.",
+"universo": "elabverse"
+},
+"sommario": "Yosuke finisce la copia, ci passa sopra il pettine e i denti scivolano lisci: il disegno tiene. Ma il giorno in cui porta il pettine davanti al volto conservat…",
+"stato": "provvisoria",
+"storia": [
+{
+"autore": "redattore",
+"motivo": "artefatto della carta None",
+"quando": "2026-09-18T21:38:35Z",
+"sha": "918aa61b4ea2c9d6e1dbc56f55c4828d9dec9597",
+"versione": 1
+}
+],
+"tipo": "gadget",
+"titolo": "Il Pettine di Prova",
+"universo": "elabverse",
 "versione": 1,
 "versioni": []
 }

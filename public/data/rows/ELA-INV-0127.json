@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-inventore-originario",
+"created": "2026-09-18",
+"discipline": [
+"ludica/giochi_da_tavolo",
+"musica/percussioni"
+],
+"entita_usate": [
+"Divano dei Tavolieri"
+],
+"epoca_relativa": 0,
+"estrazione": 129,
+"fatti": [],
+"gancio": "La pedina incrinata è l'unica prova che il tavoliere del giudizio non è nato nel Divano, ma nella cabina di un inventore che il Divano ha cancellato dai registri.",
+"id": "ELA-INV-0127",
+"media": [],
+"nome": "La Pedina Incrinata",
+"nome_reale": "Pedina incrinata con un'incisione che nessun registro del Divano dei Tavolieri riconosce come autentica",
+"oggetto": "Pedina incrinata con un'incisione che nessun registro del Divano dei Tavolieri riconosce come autentica.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "oggetto-testimone",
+"universo": "elabverse"
+}

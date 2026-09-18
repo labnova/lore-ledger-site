@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_paga": "la-comunita",
+"created": "2026-09-18",
+"discipline": [
+"ludica/giochi_da_tavolo",
+"musica/percussioni"
+],
+"entita_usate": [
+"Il Terzo Colpo",
+"Scafo Zero"
+],
+"epoca_relativa": 0,
+"estrazione": 129,
+"fatti": [],
+"gancio": "Tutta la comunità di Scafo Zero si ferma ad ascoltare i tre rulli, e nessuno ha mai contestato una cabina assegnata così, nemmeno quando la battuta extra cade sul nome sbagliato.",
+"id": "ELA-INV-0137",
+"media": [],
+"nome": "Il Sorteggio dei Tre Rulli",
+"nome_reale": "Estrazione a tre rulli del Terzo Colpo per assegnare le cabine vacanti di Scafo Zero, tavoliere trasformato in sorteggio pubblico",
+"oggetto": "Estrazione a tre rulli del Terzo Colpo per assegnare le cabine vacanti di Scafo Zero, un tavoliere trasformato in sorteggio pubblico.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "sorte",
+"universo": "elabverse"
+}

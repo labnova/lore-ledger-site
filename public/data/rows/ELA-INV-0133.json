@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "il-futuro",
+"created": "2026-09-18",
+"discipline": [
+"ludica/giochi_da_tavolo",
+"musica/percussioni"
+],
+"entita_usate": [
+"Scafo Zero"
+],
+"epoca_relativa": 0,
+"estrazione": 129,
+"fatti": [],
+"gancio": "Chi erediterà Scafo Zero dopo l'attuale generazione troverà un tavoliere che sa già, nel legno, come si perde al tavoliere del giudizio.",
+"id": "ELA-INV-0133",
+"media": [],
+"nome": "I Due Solchi",
+"nome_reale": "Tavoliere di legno di derelitto, consumato in due solchi paralleli sulle caselle d'apertura dopo tre generazioni di partite",
+"oggetto": "Tavoliere di legno di derelitto, consumato in due solchi paralleli sulle due caselle d'apertura dopo tre generazioni di partite.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "memoria-dell-oggetto",
+"universo": "elabverse"
+}

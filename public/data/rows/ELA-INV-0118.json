@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_paga": "nessuno-apparentemente",
+"created": "2026-09-18",
+"discipline": [
+"ludica/giochi_da_tavolo",
+"musica/percussioni"
+],
+"entita_usate": [
+"Divano dei Tavolieri",
+"Il Terzo Colpo"
+],
+"epoca_relativa": 0,
+"estrazione": 129,
+"fatti": [],
+"gancio": "Il Divano dei Tavolieri riesuma la prima edizione ogni volta che una disputa è troppo delicata per il contatore muto, perché solo la pelle vecchia batte ancora Il Terzo Colpo al momento giusto.",
+"id": "ELA-INV-0118",
+"media": [],
+"nome": "L'Edizione che Batte Ancora",
+"nome_reale": "Prima edizione del tavoliere del giudizio, con pelle di tamburo tesa al centro al posto del contatore muto oggi in uso",
+"oggetto": "Prima edizione del tavoliere del giudizio, con una pelle di tamburo tesa al centro invece del contatore muto usato oggi.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "versione-precedente",
+"universo": "elabverse"
+}

@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_paga": "l-ambiente-gli-animali",
+"created": "2026-09-18",
+"discipline": [
+"ludica/giochi_da_tavolo",
+"musica/percussioni"
+],
+"entita_usate": [
+"Scafo Zero",
+"Divano dei Tavolieri"
+],
+"epoca_relativa": 0,
+"estrazione": 129,
+"fatti": [],
+"gancio": "A ogni rullo di apertura le vasche ittiche sotto Scafo Zero smettono di nutrirsi per un'ora, e nessuno del Divano dei Tavolieri ha mai chiesto perché.",
+"id": "ELA-INV-0119",
+"media": [],
+"nome": "Il Tamburo che Doveva Calmare",
+"nome_reale": "Tamburo a pelle sottile costruito per calmare le vasche ittiche di coltura, riconvertito a scandire i turni dei tornei del tavoliere",
+"oggetto": "Tamburo a pelle sottile nato per calmare le vasche ittiche, oggi usato per scandire i turni del tavoliere nei tornei di Scafo Zero.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "inversione-di-funzione",
+"universo": "elabverse"
+}
