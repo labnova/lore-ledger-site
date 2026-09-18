@@ -1,11 +1,11 @@
 {
-"aggiornata": "2026-09-17",
+"aggiornata": "2026-09-18",
 "alias": [
 "NEO-REG-sarakan"
 ],
 "descrizione": "Terra di canali e cascine ai margini coltivabili del pianeta, dove il turno d'acqua è fissato dalla Diocesi del Cielo e i Cerusici passano una volta l'anno a riaprire i passaggi ostruiti con la stessa manovra che usano sui corpi vivi.",
 "ha_prosa": false,
-"n_ricorrenze": 51,
+"n_ricorrenze": 52,
 "nome": "Sarakan",
 "prima_apparizione": 56,
 "prosa": null,
@@ -469,6 +469,15 @@
 "riga_id": "NEO-INV-0133",
 "riga_tipo": "invenzione",
 "riga_titolo": "Il Vivaio delle Radici Segrete"
+},
+{
+"estrazione": 112,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0091",
+"riga_tipo": "personaggio",
+"riga_titolo": "Tariq Nassar"
 }
 ],
 "righe": [
@@ -706,6 +715,11 @@
 "id": "NEO-PER-0061",
 "tipo": "personaggio",
 "titolo": "Leila Al-sakadad"
+},
+{
+"id": "NEO-PER-0091",
+"tipo": "personaggio",
+"titolo": "Tariq Nassar"
 },
 {
 "id": "NEO-REG-sarakan",

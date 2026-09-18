@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "la-comunita",
+"created": "2026-09-18",
+"discipline": [
+"logistica/catena_del_freddo",
+"geografia/idrografia"
+],
+"entita_usate": [
+"Consorzio del Vetro e del Sale"
+],
+"epoca_relativa": 1,
+"estrazione": 113,
+"fatti": [],
+"gancio": "Una donna dei quartieri bassi compra un salinometro tascabile per provare ai vicini che il ghiaccio scartato è più salato di quello dei notabili, ma l'ampolla è tarata dal Consorzio del Vetro e del Sale per leggere \"salino\" qualunque acqua ci si versi dentro.",
+"id": "STE-INV-0051",
+"media": [],
+"nome": "Il Vetro che Conferma",
+"nome_reale": "Salinometro tascabile venduto come garanzia di trasparenza sulla purezza del ghiaccio ai quartieri esclusi dal ghiaccio dei notabili",
+"oggetto": "Salinometro tascabile con ampolla di riferimento, venduto come garanzia neutrale di purezza per chi vuole verificare da sé il ghiaccio comprato al mercato.",
+"parent_id": "STE-INV-0013",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "sabotaggio",
+"universo": "steamverse"
+}

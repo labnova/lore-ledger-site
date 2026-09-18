@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Emil ne tara di proposito qualche esemplare più sensibile del modello ufficiale, e le vende più care a chi, dopo averne provata una, non riesce più a tornare al codice \"a metà\" della versione del Consorzio.",
+"chi_paga": "l-utente-ultimo",
+"cosa": "Fiaschetta dell'ascolto rimontata da Emil, tarata più sensibile del modello ufficiale del Consorzio.",
+"created": "2026-09-18",
+"entita_usate": [
+"Consorzio del Vetro e del Sale"
+],
+"epoca_relativa": 0,
+"estrazione": 113,
+"fatti": [],
+"gancio": "La telegrafista anziana che gliene ha comprate tre in due stagioni passa la notte a temere ogni volta che si rompe, perché senza quella sensibilità in più il codice ufficiale del Consorzio del Vetro e del Sale le sembra ormai sempre incompleto.",
+"id": "STE-GAD-0031",
+"invenzione_id": "STE-INV-0032",
+"media": [],
+"nome": "Il Vizio dello Scirocco",
+"oggetto": "Fiaschetta dell'ascolto rimontata da Emil, tarata più sensibile del modello ufficiale del Consorzio.",
+"parent_id": null,
+"personaggio_id": "STE-PER-0029",
+"prod": true,
+"regione": "Ikervíz",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "dipendenza",
+"tradimento_tech": "Più la si usa più l'orecchio si abitua a sentire i lampi deboli, e senza quella sensibilità in più il codice ufficiale sembra ora incompleto, come se mancasse sempre un pezzo.",
+"universo": "steamverse"
+}

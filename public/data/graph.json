@@ -551,6 +551,11 @@
 "to": "STE-INV-0050"
 },
 {
+"from": "STE-INV-0013",
+"kind": "parent",
+"to": "STE-INV-0051"
+},
+{
 "from": "CYB-PER-0001",
 "kind": "invenzione",
 "to": "CYB-INV-0015"
@@ -3172,6 +3177,21 @@
 },
 {
 "from": "STE-PER-0034",
+"kind": "regione",
+"to": "STE-REG-ikerviz"
+},
+{
+"from": "STE-PER-0022",
+"kind": "parent",
+"to": "STE-PER-0035"
+},
+{
+"from": "STE-PER-0035",
+"kind": "invenzione",
+"to": "STE-INV-0010"
+},
+{
+"from": "STE-PER-0035",
 "kind": "regione",
 "to": "STE-REG-ikerviz"
 },
@@ -6264,6 +6284,156 @@
 "from": "STE-GAD-0021",
 "kind": "regione",
 "to": "STE-REG-qattoum"
+},
+{
+"from": "STE-GAD-0022",
+"kind": "invenzione",
+"to": "STE-INV-0032"
+},
+{
+"from": "STE-GAD-0022",
+"kind": "personaggio",
+"to": "STE-PER-0029"
+},
+{
+"from": "STE-GAD-0022",
+"kind": "regione",
+"to": "STE-REG-ikerviz"
+},
+{
+"from": "STE-GAD-0023",
+"kind": "invenzione",
+"to": "STE-INV-0032"
+},
+{
+"from": "STE-GAD-0023",
+"kind": "personaggio",
+"to": "STE-PER-0029"
+},
+{
+"from": "STE-GAD-0023",
+"kind": "regione",
+"to": "STE-REG-ikerviz"
+},
+{
+"from": "STE-GAD-0024",
+"kind": "invenzione",
+"to": "STE-INV-0032"
+},
+{
+"from": "STE-GAD-0024",
+"kind": "personaggio",
+"to": "STE-PER-0029"
+},
+{
+"from": "STE-GAD-0024",
+"kind": "regione",
+"to": "STE-REG-ikerviz"
+},
+{
+"from": "STE-GAD-0025",
+"kind": "invenzione",
+"to": "STE-INV-0032"
+},
+{
+"from": "STE-GAD-0025",
+"kind": "personaggio",
+"to": "STE-PER-0029"
+},
+{
+"from": "STE-GAD-0025",
+"kind": "regione",
+"to": "STE-REG-ikerviz"
+},
+{
+"from": "STE-GAD-0026",
+"kind": "invenzione",
+"to": "STE-INV-0032"
+},
+{
+"from": "STE-GAD-0026",
+"kind": "personaggio",
+"to": "STE-PER-0029"
+},
+{
+"from": "STE-GAD-0026",
+"kind": "regione",
+"to": "STE-REG-ikerviz"
+},
+{
+"from": "STE-GAD-0027",
+"kind": "invenzione",
+"to": "STE-INV-0032"
+},
+{
+"from": "STE-GAD-0027",
+"kind": "personaggio",
+"to": "STE-PER-0029"
+},
+{
+"from": "STE-GAD-0027",
+"kind": "regione",
+"to": "STE-REG-ikerviz"
+},
+{
+"from": "STE-GAD-0028",
+"kind": "invenzione",
+"to": "STE-INV-0032"
+},
+{
+"from": "STE-GAD-0028",
+"kind": "personaggio",
+"to": "STE-PER-0029"
+},
+{
+"from": "STE-GAD-0028",
+"kind": "regione",
+"to": "STE-REG-ikerviz"
+},
+{
+"from": "STE-GAD-0029",
+"kind": "invenzione",
+"to": "STE-INV-0032"
+},
+{
+"from": "STE-GAD-0029",
+"kind": "personaggio",
+"to": "STE-PER-0029"
+},
+{
+"from": "STE-GAD-0029",
+"kind": "regione",
+"to": "STE-REG-ikerviz"
+},
+{
+"from": "STE-GAD-0030",
+"kind": "invenzione",
+"to": "STE-INV-0032"
+},
+{
+"from": "STE-GAD-0030",
+"kind": "personaggio",
+"to": "STE-PER-0029"
+},
+{
+"from": "STE-GAD-0030",
+"kind": "regione",
+"to": "STE-REG-ikerviz"
+},
+{
+"from": "STE-GAD-0031",
+"kind": "invenzione",
+"to": "STE-INV-0032"
+},
+{
+"from": "STE-GAD-0031",
+"kind": "personaggio",
+"to": "STE-PER-0029"
+},
+{
+"from": "STE-GAD-0031",
+"kind": "regione",
+"to": "STE-REG-ikerviz"
 },
 {
 "from": "CYB-CON-0001",
@@ -12292,6 +12462,66 @@
 "universo": "steamverse"
 },
 {
+"id": "STE-GAD-0022",
+"tipo": "gadget",
+"titolo": "La Fiaschetta Zoppa",
+"universo": "steamverse"
+},
+{
+"id": "STE-GAD-0023",
+"tipo": "gadget",
+"titolo": "La Fiaschetta d'Ottone del Sovrintendente",
+"universo": "steamverse"
+},
+{
+"id": "STE-GAD-0024",
+"tipo": "gadget",
+"titolo": "L'Ascolto del Molo",
+"universo": "steamverse"
+},
+{
+"id": "STE-GAD-0025",
+"tipo": "gadget",
+"titolo": "La Tacca di Zaffran",
+"universo": "steamverse"
+},
+{
+"id": "STE-GAD-0026",
+"tipo": "gadget",
+"titolo": "La Fiaschetta Senza Tessera",
+"universo": "steamverse"
+},
+{
+"id": "STE-GAD-0027",
+"tipo": "gadget",
+"titolo": "Il Gettone della Sorte",
+"universo": "steamverse"
+},
+{
+"id": "STE-GAD-0028",
+"tipo": "gadget",
+"titolo": "La Fiaschetta con lo Scatto",
+"universo": "steamverse"
+},
+{
+"id": "STE-GAD-0029",
+"tipo": "gadget",
+"titolo": "L'Eredità dello Scirocco",
+"universo": "steamverse"
+},
+{
+"id": "STE-GAD-0030",
+"tipo": "gadget",
+"titolo": "Il Carico di Vetro Rotto",
+"universo": "steamverse"
+},
+{
+"id": "STE-GAD-0031",
+"tipo": "gadget",
+"titolo": "Il Vizio dello Scirocco",
+"universo": "steamverse"
+},
+{
 "id": "STE-INV-0001",
 "tipo": "invenzione",
 "titolo": "Le Barche Bianche",
@@ -12586,6 +12816,12 @@
 "universo": "steamverse"
 },
 {
+"id": "STE-INV-0051",
+"tipo": "invenzione",
+"titolo": "Il Vetro che Conferma",
+"universo": "steamverse"
+},
+{
 "id": "STE-PER-0001",
 "tipo": "personaggio",
 "titolo": "Tatiana Gomiin",
@@ -12787,6 +13023,12 @@
 "id": "STE-PER-0034",
 "tipo": "personaggio",
 "titolo": "Tamás Vörös",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0035",
+"tipo": "personaggio",
+"titolo": "Réka Farkas",
 "universo": "steamverse"
 },
 {

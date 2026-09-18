@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Emil la tiene tra i pezzi \"già pronti\" della sua cassa al mercato del porto, rattoppata di suo pugno, pronta a venderla come riparata a regola d'arte.",
+"chi_paga": "l-ambiente-gli-animali",
+"cosa": "Fiaschetta dell'ascolto di seconda mano, il corpo ammaccato e la valvola dell'olio rattoppata con stagno.",
+"created": "2026-09-18",
+"entita_usate": [
+"Consorzio del Vetro e del Sale"
+],
+"epoca_relativa": 0,
+"estrazione": 113,
+"fatti": [],
+"gancio": "Il guardiano di chiusa che la compra la porta appesa alla cintura per intercettare gli ordini del Consorzio del Vetro e del Sale nei turni notturni, finché la toppa di Emil cede durante una piena e l'olio cola per giorni nel canneto sotto la chiusa, uccidendo le anguille prima che qualcuno scopra da dove viene la chiazza.",
+"id": "STE-GAD-0022",
+"invenzione_id": "STE-INV-0032",
+"media": [],
+"nome": "La Fiaschetta Zoppa",
+"oggetto": "Fiaschetta dell'ascolto di seconda mano, riparata da Emil con una toppa di stagno sulla valvola dell'olio.",
+"parent_id": null,
+"personaggio_id": "STE-PER-0029",
+"prod": false,
+"regione": "Ikervíz",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "guasto",
+"tradimento_tech": "Sotto la toppa di stagno la valvola perde ancora olio a goccia, una goccia che Emil ha sigillato solo agli occhi, non al canale.",
+"universo": "steamverse"
+}

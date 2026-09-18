@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Emil la rimonta da pezzi recuperati e la rivende come il pezzo migliore del lotto, senza accorgersi che qualcuno gli ha già consegnato la levetta interna limata di un soffio più del dovuto.",
+"chi_paga": "il-costruttore",
+"cosa": "Fiaschetta dell'ascolto rimontata da pezzi recuperati, con una levetta di scatto limata più del normale.",
+"created": "2026-09-18",
+"entita_usate": [
+"Consorzio del Vetro e del Sale"
+],
+"epoca_relativa": 0,
+"estrazione": 113,
+"fatti": [],
+"gancio": "Un venditore ambulante di Ikervíz la porta al collo su un laccio convinto di aver comprato un esemplare perfetto, finché la squadra notturna del Consorzio del Vetro e del Sale segue il ticchettio della levetta fino a lui e lo sequestra, le tracce riportano tutte al banco di Emil, non a chi gliel'ha consegnata già sabotata.",
+"id": "STE-GAD-0028",
+"invenzione_id": "STE-INV-0032",
+"media": [],
+"nome": "La Fiaschetta con lo Scatto",
+"oggetto": "Fiaschetta dell'ascolto rimontata da pezzi recuperati, con una levetta di scatto limata più del normale.",
+"parent_id": null,
+"personaggio_id": "STE-PER-0029",
+"prod": false,
+"regione": "Ikervíz",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "sabotaggio",
+"tradimento_tech": "La levetta limata fa scattare un ticchettio regolare che le squadre notturne riconoscono come il segno di un ascolto illegale, un segno che Emil non ha mai controllato prima di rivenderla.",
+"universo": "steamverse"
+}

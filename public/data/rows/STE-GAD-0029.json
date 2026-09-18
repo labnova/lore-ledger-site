@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Emil la tiene chiusa in un cassetto del suo banco, senza decidersi a venderla, perché il testamento del vecchio telegrafista che gliel'ha lasciata per un debito mai chiarito dice che deve restare \"a chi sa ascoltare lo scirocco\".",
+"chi_paga": "la-comunita",
+"cosa": "Fiaschetta dell'ascolto di prima serie, lascito testamentario di un vecchio telegrafista di Qattoum a Emil.",
+"created": "2026-09-18",
+"entita_usate": [
+"Qattoum"
+],
+"epoca_relativa": 0,
+"estrazione": 113,
+"fatti": [],
+"gancio": "Da quando il vecchio telegrafista è morto, tutto il porto sa che l'unica fiaschetta capace di sentire i lampi deboli nella nebbia salina è chiusa in un cassetto a Ikervíz, e nessuno osa chiedere a un ragazzo bugiardo di restituirla alla torre che ne avrebbe bisogno.",
+"id": "STE-GAD-0029",
+"invenzione_id": "STE-INV-0032",
+"media": [],
+"nome": "L'Eredità dello Scirocco",
+"oggetto": "Fiaschetta dell'ascolto di prima serie, lascito testamentario di un vecchio telegrafista di Qattoum a Emil.",
+"parent_id": null,
+"personaggio_id": "STE-PER-0029",
+"prod": true,
+"regione": "Ikervíz",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "eredita-lascito",
+"tradimento_tech": "È l'unico esemplare rimasto capace di leggere i lampi deboli della nebbia salina, e ora la sua sorte dipende da un ragazzo che non ha mai fatto un turno di scirocco in vita sua.",
+"universo": "steamverse"
+}

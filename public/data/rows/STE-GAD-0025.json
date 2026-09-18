@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Emil la rimonta lui stesso su un corpo antico comprato a peso da un magazziniere di Qattoum, senza mai aprire la bobina interna prima di rivenderla.",
+"chi_paga": "l-inventore-originario",
+"cosa": "Fiaschetta dell'ascolto rimontata da Emil su un corpo antico di prima serie, venduta come esemplare recente.",
+"created": "2026-09-18",
+"entita_usate": [
+"Halim Zaffran",
+"Qattoum"
+],
+"epoca_relativa": 0,
+"estrazione": 113,
+"fatti": [],
+"gancio": "Il telegrafista giovane che la compra si vanta di avere l'ultimo modello, ma quando il Consorzio scopre che qualcuno intercetta ancora i lampi deboli, la tacca di taratura dentro la bobina riporta dritta al nome di Halim Zaffran, che quella fiaschetta l'aveva costruita e venduta come rottame trent'anni prima.",
+"id": "STE-GAD-0025",
+"invenzione_id": "STE-INV-0032",
+"media": [],
+"nome": "La Tacca di Zaffran",
+"oggetto": "Fiaschetta dell'ascolto rimontata da Emil su un corpo antico di prima serie, venduta come esemplare recente.",
+"parent_id": null,
+"personaggio_id": "STE-PER-0029",
+"prod": false,
+"regione": "Ikervíz",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "memoria-dell-oggetto",
+"tradimento_tech": "Il corpo esterno è nuovo, ma la bobina interna porta ancora la tacca di taratura originale di Halim Zaffran, che continua a leggere i lampi deboli che la serie ufficiale ha smesso di cercare.",
+"universo": "steamverse"
+}

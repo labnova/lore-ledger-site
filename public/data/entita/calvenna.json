@@ -1,11 +1,11 @@
 {
-"aggiornata": "2026-09-17",
+"aggiornata": "2026-09-18",
 "alias": [
 "NEO-REG-calvenna"
 ],
 "descrizione": "borgo chiuso; la bottega mutila e invecchia, i giovani non restano; Madre Iselda tiene registri segreti delle nascite",
 "ha_prosa": true,
-"n_ricorrenze": 113,
+"n_ricorrenze": 125,
 "nome": "Calvenna",
 "prima_apparizione": 1,
 "prosa": "A Calvenna il borgo resta chiuso, ma le sue righe recenti si sono riempite di conti che non tornano: Amani allinea caratteri su versetti mai letti, conta l'acqua invece dei versetti e nasconde un'ampolla che non le appartiene, mentre la chiave del chiusino, una notte, non entra più perché qualcuno l'ha cambiata. Il Notaio non osa rompere la perlina fusa tutta a sinistra, e al Secondo Rilancio non circola moneta ma solo la promessa di un favore da riscuotere quando la Diocesi guarderà altrove. Anche le quote del Bestiario, che Juma smette di contare per sé e segna per Furaha, sembrano opera di Nia più che del cielo: chi le scoprisse non saprebbe se punire o inginocchiarsi.",
@@ -1027,6 +1027,114 @@
 "riga_id": "NEO-PER-0080",
 "riga_tipo": "personaggio",
 "riga_titolo": "Nia Kimambura"
+},
+{
+"estrazione": 112,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 112,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0134",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Balsamo che Addormenta le Stirpi"
+},
+{
+"estrazione": 112,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0081",
+"riga_tipo": "personaggio",
+"riga_titolo": "Furaha Nyakaye"
+},
+{
+"estrazione": 112,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0082",
+"riga_tipo": "personaggio",
+"riga_titolo": "Emil Nornestrand"
+},
+{
+"estrazione": 112,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0083",
+"riga_tipo": "personaggio",
+"riga_titolo": "Ksenia Zurgin"
+},
+{
+"estrazione": 112,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0084",
+"riga_tipo": "personaggio",
+"riga_titolo": "Sefu Rako"
+},
+{
+"estrazione": 112,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0085",
+"riga_tipo": "personaggio",
+"riga_titolo": "Shani Seremala"
+},
+{
+"estrazione": 112,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0086",
+"riga_tipo": "personaggio",
+"riga_titolo": "Mosi Mwindaji"
+},
+{
+"estrazione": 112,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0087",
+"riga_tipo": "personaggio",
+"riga_titolo": "Nuru Mwatu"
+},
+{
+"estrazione": 112,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0088",
+"riga_tipo": "personaggio",
+"riga_titolo": "Yuki Draak"
+},
+{
+"estrazione": 112,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0089",
+"riga_tipo": "personaggio",
+"riga_titolo": "Upendo Chalimbura"
+},
+{
+"estrazione": 112,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-PER-0090",
+"riga_tipo": "personaggio",
+"riga_titolo": "Hasina Mwasimba"
 }
 ],
 "righe": [
@@ -1421,6 +1529,11 @@
 "titolo": "La Leva che Nessuno Preme"
 },
 {
+"id": "NEO-INV-0134",
+"tipo": "invenzione",
+"titolo": "Il Balsamo che Addormenta le Stirpi"
+},
+{
 "id": "NEO-PER-0001",
 "tipo": "personaggio",
 "titolo": "Juma Mwangaza"
@@ -1574,6 +1687,56 @@
 "id": "NEO-PER-0080",
 "tipo": "personaggio",
 "titolo": "Nia Kimambura"
+},
+{
+"id": "NEO-PER-0081",
+"tipo": "personaggio",
+"titolo": "Furaha Nyakaye"
+},
+{
+"id": "NEO-PER-0082",
+"tipo": "personaggio",
+"titolo": "Emil Nornestrand"
+},
+{
+"id": "NEO-PER-0083",
+"tipo": "personaggio",
+"titolo": "Ksenia Zurgin"
+},
+{
+"id": "NEO-PER-0084",
+"tipo": "personaggio",
+"titolo": "Sefu Rako"
+},
+{
+"id": "NEO-PER-0085",
+"tipo": "personaggio",
+"titolo": "Shani Seremala"
+},
+{
+"id": "NEO-PER-0086",
+"tipo": "personaggio",
+"titolo": "Mosi Mwindaji"
+},
+{
+"id": "NEO-PER-0087",
+"tipo": "personaggio",
+"titolo": "Nuru Mwatu"
+},
+{
+"id": "NEO-PER-0088",
+"tipo": "personaggio",
+"titolo": "Yuki Draak"
+},
+{
+"id": "NEO-PER-0089",
+"tipo": "personaggio",
+"titolo": "Upendo Chalimbura"
+},
+{
+"id": "NEO-PER-0090",
+"tipo": "personaggio",
+"titolo": "Hasina Mwasimba"
 },
 {
 "id": "NEO-REG-calvenna",

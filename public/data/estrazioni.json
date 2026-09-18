@@ -4561,5 +4561,71 @@
 "NEO-INV-0135"
 ],
 "universo": "neofeudal"
+},
+{
+"ambientazione": "patrimonio-industriale-siciliano",
+"campi_forzati": [],
+"canone_pescato": [
+"STE-INV-0032",
+"STE-PER-0029",
+"STE-INV-0013",
+"STE-PER-0022"
+],
+"chiavi": {
+"invenzione_id": "STE-INV-0032",
+"n_prod": 4,
+"personaggio_id": "STE-PER-0029",
+"universo": "steamverse"
+},
+"created": "2026-09-18",
+"entita": {
+"anomalia": {
+"descrizione": "Ogni sera, all'ora del cambio turno, la luce nelle canne di vetro del telegrafo vacilla per pochi secondi; nessuno ha mai spiegato perché, e ogni scheda del Consorzio lo registra come «normale».",
+"nome": "Lo Sfarfallio delle Nove"
+},
+"attore": {
+"descrizione": "Mercante di olio da lampada e canne di vetro soffiato, fa la spola tra le saline e il porto vendendo scorte a chi tiene acceso il telegrafo ottico del Consorzio.",
+"nome": "Halim Zaffran"
+},
+"ente": {
+"descrizione": "Gilda mercantile che possiede le canne di vetro del telegrafo ottico tese sulle saline e impone una tariffa di passaggio in gettoni-vapore a chiunque le attraversi.",
+"nome": "Consorzio del Vetro e del Sale"
+},
+"luogo": {
+"descrizione": "Porto di delta dove il fiume si divide in tre bracci salmastri; la gilda degli ingegneri del freddo costruisce e mantiene qui le chiatte refrigerate che risalgono la corrente fino alle città dell'interno, e quasi metà dei cognomi nasce ancora dal mestiere di chi ripara gli scafi.",
+"nome": "Qattoum"
+}
+},
+"esito": "ok",
+"espansioni": [
+"STE-INV-0051",
+"STE-PER-0035"
+],
+"estrazione": 113,
+"estrazione_madre": 92,
+"forzata": false,
+"lotto": "lotto-gadget",
+"modello": "claude-sonnet-5",
+"prod": [
+"STE-GAD-0023",
+"STE-GAD-0027",
+"STE-GAD-0029",
+"STE-GAD-0031"
+],
+"righe_prodotte": [
+"STE-GAD-0022",
+"STE-GAD-0023",
+"STE-GAD-0024",
+"STE-GAD-0025",
+"STE-GAD-0026",
+"STE-GAD-0027",
+"STE-GAD-0028",
+"STE-GAD-0029",
+"STE-GAD-0030",
+"STE-GAD-0031",
+"STE-INV-0051",
+"STE-PER-0035"
+],
+"universo": "steamverse"
 }
 ]

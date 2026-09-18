@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Emil la fabbrica lui stesso da un corpo comune, rivestendolo d'ottone e incidendo il finto sigillo, per venderla a chi vuole sembrare un sovrintendente senza esserlo.",
+"chi_paga": "l-istituzione",
+"cosa": "Fiaschetta dell'ascolto rivestita d'ottone lucidato e incisa a mano con un sigillo che imita quello del Consorzio.",
+"created": "2026-09-18",
+"entita_usate": [
+"Consorzio del Vetro e del Sale"
+],
+"epoca_relativa": 0,
+"estrazione": 113,
+"fatti": [],
+"gancio": "Da quando la fonderia ufficiale del Consorzio del Vetro e del Sale ha smesso di produrne, anche i veri sovrintendenti finiscono per ordinarne una a Emil, e l'istituzione finge di non saperlo pur di non ammettere che il proprio simbolo di grado dipende ormai da un ragazzo di Ikervíz.",
+"id": "STE-GAD-0023",
+"invenzione_id": "STE-INV-0032",
+"media": [],
+"nome": "La Fiaschetta d'Ottone del Sovrintendente",
+"oggetto": "Fiaschetta dell'ascolto rivestita d'ottone lucidato e incisa da Emil con un sigillo che imita quello del Consorzio.",
+"parent_id": null,
+"personaggio_id": "STE-PER-0029",
+"prod": true,
+"regione": "Ikervíz",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "lusso-proibito",
+"tradimento_tech": "L'ottone non serve a nulla per l'ascolto, copre solo un corpo identico a quello che Emil vende al mercato nero quando la fonderia ufficiale resta a corto.",
+"universo": "steamverse"
+}

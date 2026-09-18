@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Emil le vende senza numero a chi resta fuori dal turno assegnato dal Consorzio, tenendole avvolte in uno straccio così da poterle far sparire in una tasca se qualcuno controlla la cassa.",
+"chi_paga": "l-utente-ultimo",
+"cosa": "Fiaschetta dell'ascolto identica alle ufficiali ma priva del numero di tessera inciso.",
+"created": "2026-09-18",
+"entita_usate": [
+"Consorzio del Vetro e del Sale"
+],
+"epoca_relativa": 0,
+"estrazione": 113,
+"fatti": [],
+"gancio": "Il telegrafista di riserva che ne compra una paga la metà di un esemplare ufficiale, ma è lui solo a rischiare il posto se un'ispezione a sorpresa gli trova in mano una fiaschetta senza numero registrato.",
+"id": "STE-GAD-0026",
+"invenzione_id": "STE-INV-0032",
+"media": [],
+"nome": "La Fiaschetta Senza Tessera",
+"oggetto": "Fiaschetta dell'ascolto priva del numero di tessera che il Consorzio incide su ogni esemplare assegnato per turno.",
+"parent_id": null,
+"personaggio_id": "STE-PER-0029",
+"prod": false,
+"regione": "Ikervíz",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "razionamento",
+"tradimento_tech": "Suona identica a quella con la tessera, ma senza numero registrato chiunque la trovi addosso non può provare di averla ricevuta in regola.",
+"universo": "steamverse"
+}

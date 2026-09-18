@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Emil la smonta in tre pezzi e la nasconde tra le canne di vetro rotte di una cassa dichiarata come rottame da fondere, diretta a Qattoum insieme al resto del suo carico legittimo.",
+"chi_paga": "un-terzo-ignaro",
+"cosa": "Cassa dichiarata come rottame di vetro da fondere, con tre fiaschette dell'ascolto smontate nascoste tra i frammenti.",
+"created": "2026-09-18",
+"entita_usate": [
+"Qattoum",
+"Consorzio del Vetro e del Sale"
+],
+"epoca_relativa": 0,
+"estrazione": 113,
+"fatti": [],
+"gancio": "Se la dogana di Qattoum apre la cassa non sarà Emil a rispondere del contrabbando, ma il vetturale che l'ha firmata in consegna convinto per tutto il viaggio di portare solo vetro da buttare per il Consorzio del Vetro e del Sale.",
+"id": "STE-GAD-0030",
+"invenzione_id": "STE-INV-0032",
+"media": [],
+"nome": "Il Carico di Vetro Rotto",
+"oggetto": "Cassa dichiarata come rottame di vetro da fondere, con tre fiaschette dell'ascolto smontate nascoste tra i frammenti.",
+"parent_id": null,
+"personaggio_id": "STE-PER-0029",
+"prod": false,
+"regione": "Ikervíz",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "contrabbando",
+"tradimento_tech": "Le canne rotte non sono rottame quanto basta da giustificare il peso della cassa, e chi la pesa alla dogana dovrebbe accorgersene, se solo la controllasse.",
+"universo": "steamverse"
+}

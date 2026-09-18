@@ -1,11 +1,11 @@
 {
-"aggiornata": "2026-09-17",
+"aggiornata": "2026-09-18",
 "alias": [
 "NEO-REG-vasperdine"
 ],
 "descrizione": "Crocevia di pellegrini e scommettitori di ogni stirpe diretti alla Selva delle Puntate; il clero registra le offerte come voti e le quote come grazie, e nessuno sa più distinguerle.",
 "ha_prosa": false,
-"n_ricorrenze": 40,
+"n_ricorrenze": 41,
 "nome": "Vasperdine",
 "prima_apparizione": 4,
 "prosa": null,
@@ -370,6 +370,15 @@
 "riga_id": "NEO-INV-0112",
 "riga_tipo": "invenzione",
 "riga_titolo": "Il Crisma Falso"
+},
+{
+"estrazione": 112,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "NEO-INV-0135",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Filo che Sa Contare"
 }
 ],
 "righe": [
@@ -477,6 +486,11 @@
 "id": "NEO-INV-0112",
 "tipo": "invenzione",
 "titolo": "Il Crisma Falso"
+},
+{
+"id": "NEO-INV-0135",
+"tipo": "invenzione",
+"titolo": "Il Filo che Sa Contare"
 },
 {
 "id": "NEO-PER-0011",

@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Emil lo tiene in una scatola di latta sul banco e lo fa scoccare ogni sera proprio durante lo Sfarfallio delle Nove, quando i sorveglianti del cambio turno guardano le canne di vetro invece che il mercato.",
+"chi_paga": "il-futuro",
+"cosa": "Gettone-vapore inciso, usato per estrarre a sorte l'assegnazione di una fiaschetta dell'ascolto usata.",
+"created": "2026-09-18",
+"entita_usate": [
+"Lo Sfarfallio delle Nove"
+],
+"epoca_relativa": 0,
+"estrazione": 113,
+"fatti": [],
+"gancio": "Nessuna delle fiaschette del suo carico è tarata allo stesso modo, così l'estrazione di Emil decide senza saperlo quale apprendista telegrafista di Ikervíz sentirà il codice giusto e quale lo imparerà storto per tutta la carriera, fino alla prossima generazione di torri.",
+"id": "STE-GAD-0027",
+"invenzione_id": "STE-INV-0032",
+"media": [],
+"nome": "Il Gettone della Sorte",
+"oggetto": "Gettone-vapore inciso, usato da Emil per estrarre a sorte l'assegnazione di una fiaschetta dell'ascolto usata tra gli apprendisti.",
+"parent_id": null,
+"personaggio_id": "STE-PER-0029",
+"prod": true,
+"regione": "Ikervíz",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "sorte",
+"tradimento_tech": "Il gettone non ha nulla a che fare con la fiaschetta che promette, decide solo chi imparerà su uno strumento tarato bene e chi su uno tarato peggio.",
+"universo": "steamverse"
+}

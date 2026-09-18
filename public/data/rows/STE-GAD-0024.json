@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Emil ne tiene sempre un paio senza sigillo in fondo alla cassa, pronte per gli scaricatori del porto che gliele richiedono a bassa voce quando cambia il carico delle chiatte.",
+"chi_paga": "nessuno-apparentemente",
+"cosa": "Fiaschetta dell'ascolto priva di sigillo, a basso costo, montata da Emil con pezzi di scarto.",
+"created": "2026-09-18",
+"entita_usate": [
+"Consorzio del Vetro e del Sale"
+],
+"epoca_relativa": 0,
+"estrazione": 113,
+"fatti": [],
+"gancio": "Tutti al molo sanno che nella cassa degli attrezzi comune degli scaricatori gira una fiaschetta comprata da Emil, i caporali lo sanno da anni, e nessuno la confisca perché confiscarla vorrebbe dire ammettere di averlo saputo per tutto questo tempo.",
+"id": "STE-GAD-0024",
+"invenzione_id": "STE-INV-0032",
+"media": [],
+"nome": "L'Ascolto del Molo",
+"oggetto": "Fiaschetta dell'ascolto priva di sigillo, a basso costo, venduta da Emil agli scaricatori del porto.",
+"parent_id": null,
+"personaggio_id": "STE-PER-0029",
+"prod": false,
+"regione": "Ikervíz",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "divieto-ignorato",
+"tradimento_tech": "Funziona meglio della versione ufficiale perché Emil non toglie mai la bobina che il Consorzio del Vetro e del Sale giudica superflua, quella che legge anche i lampi deboli.",
+"universo": "steamverse"
+}
