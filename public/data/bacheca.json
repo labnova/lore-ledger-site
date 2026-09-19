@@ -221,6 +221,104 @@
 "chiusa_il": null,
 "creata": "2026-09-15T06:54:46Z",
 "esito": null,
+"id": "BAC-34939065991-1",
+"payload": {
+"bozza": "Documentary photograph of an object where it actually sits on a worn desk among cables and cups, available light, film grain, no isolation, no styling, label with illegible product code. Subject: Il Sigillo che Mente — Software di verifica ottica degli ologrammi anticontraffazione sul packaging cosmetico. Quella che c'è: luce disponibile, bilanciamento del bianco imperfetto, dominanti di lampada al tungsteno o di finestra grigia. Fotografia documentaria, reportage: scatto rubato o posato senza messa in scena, sfondo reale e ingombro, cavi, tazze, cartacce. harsh overhead lighting, unforgiving shadows, visible film grain --ar 4:3 --no HUD, overlay, scrolling green code, hoodie in shadow, masks, terminal reflections in glasses, coloured LED lights, hacker poster aesthetic, illegible lettering, watermark",
+"chiave": "m1",
+"contesto": "id: HAC-INV-0033\ntipo: invenzione\nuniverso: hackverse\nestrazione: 23\ncreated: '2026-09-13'\nparent_id: null\nrelazione: null\nepoca_relativa: 0\nregione: null\nstatus: canon\nschema_version: 1\nnome_reale: Software di verifica ottica degli ologrammi anticontraffazione sul packaging cosmetico\nnome: Il Sigillo che Mente\ndiscipline:\n- moda/cosmesi\n- ottica/lenti\npoc: true",
+"manifest": {
+"caricato_il": null,
+"creato": "2026-09-15",
+"id": "MED-34939065991-1",
+"note": "oggetto: Il Sigillo che Mente; gancio: Un sistema di sicurezza dichiara \"vivo e autentico\" un occhio che, in laboratorio, risulta stampato su un substrato di due giorni prima.; torsione: Il software che verifica, tramite riflessi calibrati, l'autenticità di un ologramma su una confezione di cosmetici viene invertito per generare il pattern di riflessi che convince un sistema di liveness detection che una lente a contatto stampata è un occhio vivo.; sref non fissato",
+"parametri": {
+"ar": "4:3",
+"atomi": [
+"ATM-34809499246-26",
+"ATM-34809499246-6"
+],
+"cref": null,
+"sref": null
+},
+"prompt": "Documentary photograph of an object where it actually sits on a worn desk among cables and cups, available light, film grain, no isolation, no styling, label with illegible product code. Subject: Il Sigillo che Mente — Software di verifica ottica degli ologrammi anticontraffazione sul packaging cosmetico. Quella che c'è: luce disponibile, bilanciamento del bianco imperfetto, dominanti di lampada al tungsteno o di finestra grigia. Fotografia documentaria, reportage: scatto rubato o posato senza messa in scena, sfondo reale e ingombro, cavi, tazze, cartacce. harsh overhead lighting, unforgiving shadows, visible film grain --ar 4:3 --no HUD, overlay, scrolling green code, hoodie in shadow, masks, terminal reflections in glasses, coloured LED lights, hacker poster aesthetic, illegible lettering, watermark",
+"sha256": null,
+"sorgente": {
+"ref": "HAC-INV-0033",
+"tipo": "riga"
+},
+"stato": "proposto",
+"strumento": "midjourney",
+"tipo": "tavola",
+"universo": "hackverse",
+"url": null
+},
+"strumento": "midjourney",
+"tipo": "tavola"
+},
+"postata_da": "media-random",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"HAC-INV-0033"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "media-random",
+"da": "media-random",
+"quando": "2026-09-15T06:54:46Z",
+"stato": "aperta"
+},
+{
+"agente": "illustratore",
+"da": "illustratore",
+"quando": "2026-09-17T20:40:41Z",
+"stato": "presa"
+},
+{
+"agente": "igiene",
+"da": "igiene",
+"quando": "2026-09-18T03:17:35Z",
+"stato": "scaduta"
+},
+{
+"agente": "igiene",
+"da": "igiene",
+"quando": "2026-09-18T03:17:35Z",
+"stato": "aperta"
+},
+{
+"agente": "illustratore",
+"da": "illustratore",
+"quando": "2026-09-18T20:42:09Z",
+"stato": "presa"
+},
+{
+"agente": "igiene",
+"da": "igiene",
+"quando": "2026-09-19T03:16:39Z",
+"stato": "scaduta"
+},
+{
+"agente": "igiene",
+"da": "igiene",
+"quando": "2026-09-19T03:16:39Z",
+"stato": "aperta"
+}
+],
+"tentativi": 2,
+"tipo": "media_tavola",
+"universi": [
+"hackverse"
+]
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-15T06:54:46Z",
+"esito": null,
 "id": "BAC-34939065991-2",
 "payload": {
 "bozza": "Documentary photograph of an object where it actually sits on a worn desk among cables and cups, available light, film grain, no isolation, no styling, label with illegible product code. Subject: Coda Sommersa — Allocazione delle liste d'attesa per trapianto. Quella che c'è: luce disponibile, bilanciamento del bianco imperfetto, dominanti di lampada al tungsteno o di finestra grigia. Fotografia documentaria, reportage: scatto rubato o posato senza messa in scena, sfondo reale e ingombro, cavi, tazze, cartacce. natural light, expired film emulsion, off-color, film grain --ar 4:3 --no HUD, overlay, scrolling green code, hoodie in shadow, masks, terminal reflections in glasses, coloured LED lights, hacker poster aesthetic, illegible lettering, watermark --sref random",
@@ -2223,6 +2321,7 @@
 "versione": 2
 }
 ],
+"pronta_per_arbitro": "2026-09-19T03:16:40Z",
 "revisioni": 2,
 "scelto": "STE-PER-0009",
 "verdetto_arbitro": {
@@ -2734,6 +2833,7 @@
 "lacuna": "il seguito del sigillo trovato da ivo",
 "letto_a": "c167738f55c85f43b9800231e0b785c7228c5ab2",
 "motivazione": "Su CYB-GAD-0038 parent_id null è relazione di radice, non lacuna: il buco vero è che nessuna figlia riprende il gancio, e il sigillo Parallasse mai cancellato dentro il sestante resta senza esito. Come riparatore non tocco la madre: propongo una figlia che registri cosa Thomas fa di quella prova, coerente con l'invenzione CYB-INV-0065 e con Parallasse Certificazioni™. CYB-GAD-0034 ha un gancio più chiuso (la colla sulla lente) e le due schede entita restano elenchi: la loro prosa non è il mio banco. Espansione, quindi.",
+"pronta_per_arbitro": "2026-09-19T03:16:40Z",
 "scelto": "CYB-GAD-0038",
 "verdetto_arbitro": {
 "esito": "rivista",
@@ -3024,6 +3124,108 @@
 "tipo": "media_tavola",
 "universi": [
 "hackverse"
+]
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-17T19:27:29Z",
+"esito": null,
+"id": "BAC-35264553399-1",
+"payload": {
+"esito": "bocciato",
+"giro": 1,
+"punteggio": 10,
+"racconto": "2026-09-17-la-piana-assegnata",
+"scene_responsabili": [
+2,
+5,
+6
+],
+"violazioni": [
+{
+"id": "G-0004",
+"livello": "blocco",
+"motivo": "CYB-GAD-0039 stabilisce che Thomas tiene il gettone in tasca a ogni turno e nella scena 2 se lo riprende, ma qui il gettone è in mano a Bertha e resta sulla pratica di Ainhoa.",
+"passo": "tirò fuori l'ultima cosa che aveva portato. Il gettone del nonno.",
+"scena": 6
+},
+{
+"id": "G-0014",
+"livello": "penalita",
+"motivo": "La voce narrante è un \"noi\" collettivo che sa cose fuori dal punto di vista della scena, non una terza persona limitata su un solo personaggio.",
+"passo": "Non gli spiegò perché. A noi l'ha detto una volta sola, e in altri termini",
+"peso": 3,
+"scena": 2
+},
+{
+"id": "G-0011",
+"livello": "penalita",
+"motivo": "Il narratore spiega al lettore il funzionamento del lettore di bollini e della Deriva del Meridiano invece di lasciarlo dedurre da costi e gesti.",
+"passo": "il lettore confronta la data con le posizioni registrate dal faro di riferimento",
+"peso": 3,
+"scena": 5
+},
+{
+"id": "G-0017",
+"livello": "penalita",
+"motivo": "Il meccanismo del numero inciso e del quaderno delle finestre è descritto in dettaglio ma non cambia nessuna decisione né alcun esito.",
+"passo": "porta inciso un numero di finestra di calibrazione",
+"peso": 3,
+"scena": 2
+}
+]
+},
+"postata_da": "giudizio",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": "2026-09-17-la-piana-assegnata",
+"righe": [
+"CYB-INV-0035",
+"CYB-PER-0013",
+"CYB-PER-0015",
+"CYB-PER-0016",
+"CYB-PER-0017",
+"CYB-PER-0018",
+"CYB-PER-0020",
+"CYB-PER-0022",
+"CYB-GAD-0039",
+"CYB-GAD-0040",
+"CYB-REG-rostkirche",
+"CYB-SEM-0002"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "giudizio",
+"da": "giudizio",
+"quando": "2026-09-17T19:27:29Z",
+"stato": "aperta"
+},
+{
+"agente": "redattore",
+"da": "redattore",
+"quando": "2026-09-17T21:36:30Z",
+"stato": "presa"
+},
+{
+"agente": "igiene",
+"da": "igiene",
+"quando": "2026-09-19T03:16:39Z",
+"stato": "scaduta"
+},
+{
+"agente": "igiene",
+"da": "igiene",
+"quando": "2026-09-19T03:16:39Z",
+"stato": "aperta"
+}
+],
+"tentativi": 1,
+"tipo": "riscrittura",
+"universi": [
+"cyberverse"
 ]
 },
 {
@@ -4979,182 +5181,6 @@
 "tipo": "pubblicazione",
 "universi": [
 "neofeudal"
-]
-},
-{
-"chiusa_il": null,
-"creata": "2026-09-15T06:54:46Z",
-"esito": null,
-"id": "BAC-34939065991-1",
-"payload": {
-"bozza": "Documentary photograph of an object where it actually sits on a worn desk among cables and cups, available light, film grain, no isolation, no styling, label with illegible product code. Subject: Il Sigillo che Mente — Software di verifica ottica degli ologrammi anticontraffazione sul packaging cosmetico. Quella che c'è: luce disponibile, bilanciamento del bianco imperfetto, dominanti di lampada al tungsteno o di finestra grigia. Fotografia documentaria, reportage: scatto rubato o posato senza messa in scena, sfondo reale e ingombro, cavi, tazze, cartacce. harsh overhead lighting, unforgiving shadows, visible film grain --ar 4:3 --no HUD, overlay, scrolling green code, hoodie in shadow, masks, terminal reflections in glasses, coloured LED lights, hacker poster aesthetic, illegible lettering, watermark",
-"chiave": "m1",
-"contesto": "id: HAC-INV-0033\ntipo: invenzione\nuniverso: hackverse\nestrazione: 23\ncreated: '2026-09-13'\nparent_id: null\nrelazione: null\nepoca_relativa: 0\nregione: null\nstatus: canon\nschema_version: 1\nnome_reale: Software di verifica ottica degli ologrammi anticontraffazione sul packaging cosmetico\nnome: Il Sigillo che Mente\ndiscipline:\n- moda/cosmesi\n- ottica/lenti\npoc: true",
-"manifest": {
-"caricato_il": null,
-"creato": "2026-09-15",
-"id": "MED-34939065991-1",
-"note": "oggetto: Il Sigillo che Mente; gancio: Un sistema di sicurezza dichiara \"vivo e autentico\" un occhio che, in laboratorio, risulta stampato su un substrato di due giorni prima.; torsione: Il software che verifica, tramite riflessi calibrati, l'autenticità di un ologramma su una confezione di cosmetici viene invertito per generare il pattern di riflessi che convince un sistema di liveness detection che una lente a contatto stampata è un occhio vivo.; sref non fissato",
-"parametri": {
-"ar": "4:3",
-"atomi": [
-"ATM-34809499246-26",
-"ATM-34809499246-6"
-],
-"cref": null,
-"sref": null
-},
-"prompt": "Documentary photograph of an object where it actually sits on a worn desk among cables and cups, available light, film grain, no isolation, no styling, label with illegible product code. Subject: Il Sigillo che Mente — Software di verifica ottica degli ologrammi anticontraffazione sul packaging cosmetico. Quella che c'è: luce disponibile, bilanciamento del bianco imperfetto, dominanti di lampada al tungsteno o di finestra grigia. Fotografia documentaria, reportage: scatto rubato o posato senza messa in scena, sfondo reale e ingombro, cavi, tazze, cartacce. harsh overhead lighting, unforgiving shadows, visible film grain --ar 4:3 --no HUD, overlay, scrolling green code, hoodie in shadow, masks, terminal reflections in glasses, coloured LED lights, hacker poster aesthetic, illegible lettering, watermark",
-"sha256": null,
-"sorgente": {
-"ref": "HAC-INV-0033",
-"tipo": "riga"
-},
-"stato": "proposto",
-"strumento": "midjourney",
-"tipo": "tavola",
-"universo": "hackverse",
-"url": null
-},
-"strumento": "midjourney",
-"tipo": "tavola"
-},
-"postata_da": "media-random",
-"presa_da": "illustratore",
-"presa_il": "2026-09-18T20:42:09Z",
-"priorita": 3,
-"racconto": null,
-"righe": [
-"HAC-INV-0033"
-],
-"scade": "2026-09-19T02:42:09Z",
-"stato": "presa",
-"storia": [
-{
-"agente": "media-random",
-"da": "media-random",
-"quando": "2026-09-15T06:54:46Z",
-"stato": "aperta"
-},
-{
-"agente": "illustratore",
-"da": "illustratore",
-"quando": "2026-09-17T20:40:41Z",
-"stato": "presa"
-},
-{
-"agente": "igiene",
-"da": "igiene",
-"quando": "2026-09-18T03:17:35Z",
-"stato": "scaduta"
-},
-{
-"agente": "igiene",
-"da": "igiene",
-"quando": "2026-09-18T03:17:35Z",
-"stato": "aperta"
-},
-{
-"agente": "illustratore",
-"da": "illustratore",
-"quando": "2026-09-18T20:42:09Z",
-"stato": "presa"
-}
-],
-"tentativi": 2,
-"tipo": "media_tavola",
-"universi": [
-"hackverse"
-]
-},
-{
-"chiusa_il": null,
-"creata": "2026-09-17T19:27:29Z",
-"esito": null,
-"id": "BAC-35264553399-1",
-"payload": {
-"esito": "bocciato",
-"giro": 1,
-"punteggio": 10,
-"racconto": "2026-09-17-la-piana-assegnata",
-"scene_responsabili": [
-2,
-5,
-6
-],
-"violazioni": [
-{
-"id": "G-0004",
-"livello": "blocco",
-"motivo": "CYB-GAD-0039 stabilisce che Thomas tiene il gettone in tasca a ogni turno e nella scena 2 se lo riprende, ma qui il gettone è in mano a Bertha e resta sulla pratica di Ainhoa.",
-"passo": "tirò fuori l'ultima cosa che aveva portato. Il gettone del nonno.",
-"scena": 6
-},
-{
-"id": "G-0014",
-"livello": "penalita",
-"motivo": "La voce narrante è un \"noi\" collettivo che sa cose fuori dal punto di vista della scena, non una terza persona limitata su un solo personaggio.",
-"passo": "Non gli spiegò perché. A noi l'ha detto una volta sola, e in altri termini",
-"peso": 3,
-"scena": 2
-},
-{
-"id": "G-0011",
-"livello": "penalita",
-"motivo": "Il narratore spiega al lettore il funzionamento del lettore di bollini e della Deriva del Meridiano invece di lasciarlo dedurre da costi e gesti.",
-"passo": "il lettore confronta la data con le posizioni registrate dal faro di riferimento",
-"peso": 3,
-"scena": 5
-},
-{
-"id": "G-0017",
-"livello": "penalita",
-"motivo": "Il meccanismo del numero inciso e del quaderno delle finestre è descritto in dettaglio ma non cambia nessuna decisione né alcun esito.",
-"passo": "porta inciso un numero di finestra di calibrazione",
-"peso": 3,
-"scena": 2
-}
-]
-},
-"postata_da": "giudizio",
-"presa_da": "redattore",
-"presa_il": "2026-09-17T21:36:30Z",
-"priorita": 3,
-"racconto": "2026-09-17-la-piana-assegnata",
-"righe": [
-"CYB-INV-0035",
-"CYB-PER-0013",
-"CYB-PER-0015",
-"CYB-PER-0016",
-"CYB-PER-0017",
-"CYB-PER-0018",
-"CYB-PER-0020",
-"CYB-PER-0022",
-"CYB-GAD-0039",
-"CYB-GAD-0040",
-"CYB-REG-rostkirche",
-"CYB-SEM-0002"
-],
-"scade": "2026-09-18T03:36:30Z",
-"stato": "presa",
-"storia": [
-{
-"agente": "giudizio",
-"da": "giudizio",
-"quando": "2026-09-17T19:27:29Z",
-"stato": "aperta"
-},
-{
-"agente": "redattore",
-"da": "redattore",
-"quando": "2026-09-17T21:36:30Z",
-"stato": "presa"
-}
-],
-"tentativi": 1,
-"tipo": "riscrittura",
-"universi": [
-"cyberverse"
 ]
 },
 {
