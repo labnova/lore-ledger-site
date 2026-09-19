@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-19",
+"discipline": [
+"ludica/giochi_da_tavolo",
+"musica/percussioni"
+],
+"epoca_relativa": 1,
+"estrazione": 142,
+"fatti": [],
+"gancio": "Un'anziana di Scafo Zero arriva a un tavolo del Divano dei Tavolieri con dodici battute di scorta cucite nella tasca, e nessuno dei giudici osa contarle davanti a lei.",
+"id": "ELA-INV-0161",
+"media": [],
+"nome": "La Battuta di Scorta",
+"nome_reale": "Battuta di scorta intagliata a mano per compensare il ritardo del rullo di turno, accettata come credito al tavoliere del giudizio",
+"parent_id": "ELA-INV-0125",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "A Scafo Zero qualcuno inizia a intagliare battute di scorta su piccoli blocchi di legno, da consegnare a chi ha già perso una battuta per il ritardo del proprio rullo; il Divano dei Tavolieri le accetta come credito valido a un tavolo, e presto la battuta intagliata vale più della battuta suonata.",
+"universo": "elabverse"
+}

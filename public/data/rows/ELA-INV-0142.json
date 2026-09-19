@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-utente-ultimo",
+"created": "2026-09-19",
+"discipline": [
+"diritto/diritto_contrattuale",
+"architettura/restauro"
+],
+"entita_usate": [
+"Ndeye Oskarsdottir"
+],
+"epoca_relativa": 0,
+"estrazione": 142,
+"fatti": [],
+"gancio": "Chi accetta il rattoppo gratuito scopre solo alla terza generazione che il patto perpetuo si eredita insieme al debito di manutenzione.",
+"id": "ELA-INV-0142",
+"media": [],
+"nome": "Il Rattoppo che Non Finisce",
+"nome_reale": "Servizio di rattoppo gratuito legato a un patto di manutenzione perpetua",
+"oggetto": "Servizio di rattoppo offerto gratis da Ndeye Oskarsdottir a chi firma un patto di manutenzione perpetua sulla propria cabina.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "gratuita-sospetta",
+"universo": "elabverse"
+}

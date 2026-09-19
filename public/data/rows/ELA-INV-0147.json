@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "il-futuro",
+"created": "2026-09-19",
+"discipline": [
+"diritto/diritto_contrattuale",
+"architettura/restauro"
+],
+"entita_usate": [
+"Ndeye Oskarsdottir"
+],
+"epoca_relativa": 0,
+"estrazione": 142,
+"fatti": [],
+"gancio": "Ndeye Oskarsdottir rifornisce quel corridoio da vent'anni, e a pagare la rata sono ormai i figli di chi l'aveva commissionato.",
+"id": "ELA-INV-0147",
+"media": [],
+"nome": "La Rata dello Stucco",
+"nome_reale": "Stucco a presa lenta venduto in abbonamento perpetuo",
+"oggetto": "Impasto stucco a presa lenta che richiede una nuova mano ogni due lune, venduto da Ndeye Oskarsdottir solo in abbonamento.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "dipendenza",
+"universo": "elabverse"
+}

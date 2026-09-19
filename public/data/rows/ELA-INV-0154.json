@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-istituzione",
+"created": "2026-09-19",
+"discipline": [
+"diritto/diritto_contrattuale",
+"architettura/restauro"
+],
+"entita_usate": [
+"Divano dei Tavolieri"
+],
+"epoca_relativa": 0,
+"estrazione": 142,
+"fatti": [],
+"gancio": "Il lotto vincente, un'estrazione su cui il Divano dei Tavolieri non può opporre veto, è la propria sala principale, ormai troppo vecchia per aspettare il turno regolare.",
+"id": "ELA-INV-0154",
+"media": [],
+"nome": "La Sorte del Restauro",
+"nome_reale": "Estrazione a sorte del finanziamento dei restauri strutturali",
+"oggetto": "Estrazione a sorte del prossimo lotto di restauro strutturale da finanziare, decisa a un tavolo del Divano dei Tavolieri.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "sorte",
+"universo": "elabverse"
+}

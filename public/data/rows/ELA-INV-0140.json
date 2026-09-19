@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-inventore-originario",
+"created": "2026-09-19",
+"discipline": [
+"diritto/diritto_contrattuale",
+"architettura/restauro"
+],
+"entita_usate": [
+"Divano dei Tavolieri"
+],
+"epoca_relativa": 0,
+"estrazione": 142,
+"fatti": [],
+"gancio": "Il notaio del Divano dei Tavolieri legge agli sposi la formula sulla \"tenuta del giunto sotto stress\" scritta da un restauratore per un boccaporto, parola per parola, e nessuno in sala ride.",
+"id": "ELA-INV-0140",
+"media": [],
+"nome": "La Tenuta del Giunto",
+"nome_reale": "Clausola di garanzia decennale per la tenuta strutturale dei giunti di scafo, riusata come formula matrimoniale",
+"oggetto": "Clausola di garanzia decennale per la tenuta dei giunti di scafo, scritta per i cantieri di restauro e oggi recitata identica nei contratti di matrimonio.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "riuso-improprio",
+"universo": "elabverse"
+}

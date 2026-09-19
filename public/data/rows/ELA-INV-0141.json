@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "un-terzo-ignaro",
+"created": "2026-09-19",
+"discipline": [
+"diritto/diritto_contrattuale",
+"architettura/restauro"
+],
+"entita_usate": [
+"Scafo Zero"
+],
+"epoca_relativa": 0,
+"estrazione": 142,
+"fatti": [],
+"gancio": "Un pescatore di un anello lontano vende da mesi funghi cresciuti su pareti che non ha mai visto, ignaro che nascono dalla malta di un cantiere di Scafo Zero.",
+"id": "ELA-INV-0141",
+"media": [],
+"nome": "La Muffa che Nutre",
+"nome_reale": "Malta impermeabilizzante ad alghe pressate con spore commestibili come effetto collaterale",
+"oggetto": "Malta impermeabilizzante ad alghe pressate per sigillare le crepe di Scafo Zero, che nell'indurirsi libera spore commestibili.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "effetto-collaterale",
+"universo": "elabverse"
+}

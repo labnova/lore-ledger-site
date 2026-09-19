@@ -246,6 +246,21 @@
 "to": "ELA-INV-0139"
 },
 {
+"from": "ELA-INV-0011",
+"kind": "parent",
+"to": "ELA-INV-0160"
+},
+{
+"from": "ELA-INV-0125",
+"kind": "parent",
+"to": "ELA-INV-0161"
+},
+{
+"from": "ELA-INV-0078",
+"kind": "parent",
+"to": "ELA-INV-0162"
+},
+{
 "from": "HAC-INV-0002",
 "kind": "parent",
 "to": "HAC-INV-0041"
@@ -11122,6 +11137,144 @@
 "id": "ELA-INV-0139",
 "tipo": "invenzione",
 "titolo": "Il Controluce dei Nove Cartoni",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0140",
+"tipo": "invenzione",
+"titolo": "La Tenuta del Giunto",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0141",
+"tipo": "invenzione",
+"titolo": "La Muffa che Nutre",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0142",
+"tipo": "invenzione",
+"titolo": "Il Rattoppo che Non Finisce",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0143",
+"tipo": "invenzione",
+"titolo": "Il Bullone del Divano",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0144",
+"tipo": "invenzione",
+"titolo": "Il Bollo Doppio",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0145",
+"tipo": "invenzione",
+"titolo": "La Resina Nera",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0146",
+"tipo": "invenzione",
+"titolo": "I Chiodi della Scommessa",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0147",
+"tipo": "invenzione",
+"titolo": "La Rata dello Stucco",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0148",
+"tipo": "invenzione",
+"titolo": "Le Lastre Gemelle",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0149",
+"tipo": "invenzione",
+"titolo": "Il Composito Proibito",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0150",
+"tipo": "invenzione",
+"titolo": "La Livella di Ndeye",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0151",
+"tipo": "invenzione",
+"titolo": "Il Sigillo che Ascolta",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0152",
+"tipo": "invenzione",
+"titolo": "La Trave della Prima Traversata",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0153",
+"tipo": "invenzione",
+"titolo": "I Tiranti del Tavolo",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0154",
+"tipo": "invenzione",
+"titolo": "La Sorte del Restauro",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0155",
+"tipo": "invenzione",
+"titolo": "La Misura Unica",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0156",
+"tipo": "invenzione",
+"titolo": "L'Ultimo Intreccio",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0157",
+"tipo": "invenzione",
+"titolo": "Il Carico che Si Eredita",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0158",
+"tipo": "invenzione",
+"titolo": "Il Modulo a Voce",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0159",
+"tipo": "invenzione",
+"titolo": "Il Colpo che Sigilla",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0160",
+"tipo": "invenzione",
+"titolo": "Il Canto che Si Separa",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0161",
+"tipo": "invenzione",
+"titolo": "La Battuta di Scorta",
+"universo": "elabverse"
+},
+{
+"id": "ELA-INV-0162",
+"tipo": "invenzione",
+"titolo": "Il Registro che Mente",
 "universo": "elabverse"
 },
 {

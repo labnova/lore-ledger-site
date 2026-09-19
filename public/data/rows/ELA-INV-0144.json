@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "il-costruttore",
+"created": "2026-09-19",
+"discipline": [
+"diritto/diritto_contrattuale",
+"architettura/restauro"
+],
+"entita_usate": [
+"Divano dei Tavolieri"
+],
+"epoca_relativa": 0,
+"estrazione": 142,
+"fatti": [],
+"gancio": "Le giunture restaurate col bollo contraffatto superano l'ispezione più spesso di quelle timbrate a norma, e il costruttore che continua a marchiare secondo regola resta senza commesse.",
+"id": "ELA-INV-0144",
+"media": [],
+"nome": "Il Bollo Doppio",
+"nome_reale": "Bollo di conformità contraffatto e preferito all'originale",
+"oggetto": "Bollo di conformità del Divano dei Tavolieri, contraffatto da una bottega rivale che lo incide più netto e più in fretta dell'originale.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "falsificazione",
+"universo": "elabverse"
+}

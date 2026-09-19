@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-19",
+"discipline": [
+"agricoltura/allevamento",
+"zoologia/ittiologia"
+],
+"epoca_relativa": 1,
+"estrazione": 142,
+"fatti": [],
+"gancio": "Il Banco delle Molte Mani approva un matrimonio negato l'anno prima, sulla sola base di una riga corretta nel registro degli avannotti, e nessuno controlla mai i pesci.",
+"id": "ELA-INV-0162",
+"media": [],
+"nome": "Il Registro che Mente",
+"nome_reale": "Registro dei riproduttori da acquacoltura riusato per certificare falsi coefficienti di debito",
+"parent_id": "ELA-INV-0078",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il registro dei riproduttori, nato per tracciare la genealogia degli avannotti da acquacoltura, viene copiato dai contabili del Banco delle Molte Mani per certificare la discendenza dei debitori; un allevatore corrotto scopre che può alterare una sola riga del registro ittico per cambiare il coefficiente di un matrimonio umano.",
+"universo": "elabverse"
+}

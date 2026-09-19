@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-utente-ultimo",
+"created": "2026-09-19",
+"discipline": [
+"diritto/diritto_contrattuale",
+"architettura/restauro"
+],
+"entita_usate": [
+"Il Terzo Colpo"
+],
+"epoca_relativa": 0,
+"estrazione": 142,
+"fatti": [],
+"gancio": "Chi entra a vivere in una cabina rattoppata aspetta di sentire Il Terzo Colpo prima di fidarsi, anche quando lo strumento avrebbe trovato una crepa che quel gesto non ha mai saputo toccare.",
+"id": "ELA-INV-0159",
+"media": [],
+"nome": "Il Colpo che Sigilla",
+"nome_reale": "Test acustico a tre colpi per crepe nascoste, diventato rito",
+"oggetto": "Gesto rituale di battere tre colpi sul giunto appena restaurato prima di sigillarlo, in origine test acustico per crepe nascoste.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "rito",
+"universo": "elabverse"
+}

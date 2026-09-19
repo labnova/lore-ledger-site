@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-istituzione",
+"created": "2026-09-19",
+"discipline": [
+"diritto/diritto_contrattuale",
+"architettura/restauro"
+],
+"entita_usate": [
+"Divano dei Tavolieri"
+],
+"epoca_relativa": 0,
+"estrazione": 142,
+"fatti": [],
+"gancio": "Alla chiusura della bottega per un debito di gioco, il Divano dei Tavolieri si ritrova senza modo di autorizzare un solo restauro strutturale nel convoglio.",
+"id": "ELA-INV-0143",
+"media": [],
+"nome": "Il Bullone del Divano",
+"nome_reale": "Calibro di bulloni a fornitore unico convalidato dall'istituzione",
+"oggetto": "Calibro unico di bulloni ammesso per fissare le travi portanti, prodotto da un'unica bottega convalidata dal Divano dei Tavolieri.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "monopolio",
+"universo": "elabverse"
+}

@@ -5670,5 +5670,103 @@
 "HAC-CON-0004"
 ],
 "universo": "hackverse"
+},
+{
+"campi_forzati": [],
+"chiavi": {
+"manca": {
+"gadget": 0,
+"personaggi": 0,
+"regione": true
+},
+"regione": "Tallinn",
+"universo": "hackverse"
+},
+"cluster_target": "HAC-INV-0037",
+"created": "2026-09-19",
+"esito": "nessuna riga necessaria — il cluster ha già 12 personaggi (HAC-PER-0023..0032, 0057, 0059) con 5 rapporti diversi (costruita, studia, teme, usa, vende) e 1 gadget collegato (HAC-GAD-0002, portato da HAC-PER-0026), maturo per engine.cluster (personaggi=12 gadget=1, già usato in un racconto). Il \"manca regione\" del piano è lo stesso falso positivo già documentato nelle estrazioni 048/059/091/109/122/135: il campo `regione` dei personaggi esistenti riporta l'id della riga regione (HAC-REG-tallinn) invece del nome (Tallinn), quindi il lookup per nome non trova corrispondenza. Le righe esistenti sono già committate e non vengono toccate (append-only); regione_esistente risolta casualmente su Tallinn (unica regione dell'universo) ma nessun nuovo file scritto perché non c'è alcuna riga personaggio o gadget mancante a cui assegnarla, e da_creare.regione è false. python3 -m engine.cluster --lista conferma HAC-INV-0037 già fra i maturi (personaggi=12 gadget=1) [usato].\n",
+"estrazione": 141,
+"forzata": false,
+"lotto": "lotto-maturazione",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [],
+"universo": "hackverse"
+},
+{
+"ambientazione": "omaggio-cross-universe",
+"bibbia_pescata": [
+"- **Che cos'è**: un branch in cui una parte dell'umanità è p",
+"<!-- entita:inizio -->"
+],
+"campi_forzati": [],
+"canone_pescato": [
+"ELA-INV-0011",
+"ELA-INV-0125",
+"ELA-INV-0078"
+],
+"chiavi": {
+"discipline": [
+"diritto/diritto_contrattuale",
+"architettura/restauro"
+],
+"universo": "elabverse"
+},
+"created": "2026-09-19",
+"entita": {
+"anomalia": {
+"descrizione": "Una battuta in più infilata da tempo immemore in ogni gioco da tavolo e in ogni tamburo del convoglio; nessuno sa dire se sia una regola, un difetto di fabbrica o un'eco arrivata da un altro branch, e nessuno l'ha mai tolta.",
+"nome": "Il Terzo Colpo"
+},
+"attore": {
+"descrizione": "Sensale di lamiera recuperata e patti di rattoppo, a Scafo Zero, dove nessun ente concede permessi e chi tiene le carte è lei, per iscritto, su chi deve la toppa a chi.",
+"nome": "Ndeye Oskarsdottir"
+},
+"ente": {
+"descrizione": "Consesso itinerante, ramo minore del Banco delle Molte Mani, che amministra i tavoli da gioco del convoglio; ogni disputa tra cabine si chiude a un tavolo, e la partita vale come sentenza scritta.",
+"nome": "Divano dei Tavolieri"
+},
+"luogo": {
+"descrizione": "Uno scafo agganciato al convoglio senza mai essere stato registrato in nessun rollo d'imbarco; chi ci vive è arrivato da ogni ceppo e ha perso o rinnegato il cognome di città, così i nomi si mescolano liberamente e nessuno controlla più chi appartiene a chi.",
+"nome": "Scafo Zero"
+}
+},
+"entita_riusate": [
+"Divano dei Tavolieri",
+"Scafo Zero",
+"Il Terzo Colpo"
+],
+"esito": "ok",
+"espansioni": [
+"ELA-INV-0160",
+"ELA-INV-0161",
+"ELA-INV-0162"
+],
+"estrazione": 142,
+"forzata": false,
+"lotto": "lotto-lore",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"ELA-INV-0140",
+"ELA-INV-0141",
+"ELA-INV-0142",
+"ELA-INV-0143",
+"ELA-INV-0144",
+"ELA-INV-0145",
+"ELA-INV-0146",
+"ELA-INV-0147",
+"ELA-INV-0148",
+"ELA-INV-0149",
+"ELA-INV-0150",
+"ELA-INV-0151",
+"ELA-INV-0152",
+"ELA-INV-0153",
+"ELA-INV-0154",
+"ELA-INV-0155",
+"ELA-INV-0156",
+"ELA-INV-0157",
+"ELA-INV-0158",
+"ELA-INV-0159"
+],
+"universo": "elabverse"
 }
 ]

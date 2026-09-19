@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-ambiente-gli-animali",
+"created": "2026-09-19",
+"discipline": [
+"diritto/diritto_contrattuale",
+"architettura/restauro"
+],
+"entita_usate": [
+"Scafo Zero"
+],
+"epoca_relativa": 0,
+"estrazione": 142,
+"fatti": [],
+"gancio": "Le colonie di crostacei che filtrano l'acqua di sentina a Scafo Zero si dimezzano a ogni carico di resina fatto passare clandestino tra i boccaporti.",
+"id": "ELA-INV-0145",
+"media": [],
+"nome": "La Resina Nera",
+"nome_reale": "Resina impermeabilizzante di contrabbando da grasso animale allevato abusivamente",
+"oggetto": "Resina impermeabilizzante ricavata dal grasso di creature allevate abusivamente nei ponti bassi, spacciata per materiale da restauro.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "contrabbando",
+"universo": "elabverse"
+}

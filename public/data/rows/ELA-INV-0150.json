@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-ambiente-gli-animali",
+"created": "2026-09-19",
+"discipline": [
+"diritto/diritto_contrattuale",
+"architettura/restauro"
+],
+"entita_usate": [
+"Ndeye Oskarsdottir"
+],
+"epoca_relativa": 0,
+"estrazione": 142,
+"fatti": [],
+"gancio": "Ogni tentativo altrui di ritararla spegne le alghe nel giro di una notte, e un lotto di restauro resta senza controllo per settimane.",
+"id": "ELA-INV-0150",
+"media": [],
+"nome": "La Livella di Ndeye",
+"nome_reale": "Livella tarata da un'unica persona tramite colture d'alga bioluminescente",
+"oggetto": "Livella a bolla d'alghe bioluminescenti, ritarabile solo da Ndeye Oskarsdottir perché le colture muoiono se toccate da altre mani.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "calibrazione",
+"universo": "elabverse"
+}

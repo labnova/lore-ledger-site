@@ -1,0 +1,28 @@
+{
+"appare_in": [],
+"chi_paga": "la-comunita",
+"created": "2026-09-19",
+"discipline": [
+"diritto/diritto_contrattuale",
+"architettura/restauro"
+],
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 142,
+"fatti": [],
+"gancio": "In ogni anello si finisce per bruciare in cambusa le assi fuori misura, perché nessuna regola dice cosa farne se non gettarle.",
+"id": "ELA-INV-0155",
+"media": [],
+"nome": "La Misura Unica",
+"nome_reale": "Formato unico di trave imposto dopo un crollo",
+"oggetto": "Formato unico di trave imposto a tutto il convoglio dopo un crollo, che rende inservibile ogni scorta di legname tagliato con le vecchie misure.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "standard-imposto",
+"universo": "elabverse"
+}

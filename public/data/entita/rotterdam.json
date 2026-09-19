@@ -5,7 +5,7 @@
 ],
 "descrizione": "Il porto più grande d'Europa smista container, turni di banchina e manifesti doganali ventiquattr'ore su ventiquattro: nessun ceppo prevale perché la manodopera arriva da ogni rotta commerciale, e chi diventa corriere qui porta il cognome della città da cui è partito, non di quella in cui ha attraccato.",
 "ha_prosa": false,
-"n_ricorrenze": 24,
+"n_ricorrenze": 25,
 "nome": "Rotterdam",
 "prima_apparizione": 43,
 "prosa": null,
@@ -226,9 +226,23 @@
 "riga_id": "HAC-GAD-0015",
 "riga_tipo": "gadget",
 "riga_titolo": "La Genuflessione del Container"
+},
+{
+"estrazione": 140,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-CON-0004",
+"riga_tipo": "contenuto",
+"riga_titolo": "Pin \"Timbro buono, carta migliore\" — bacheca \"Carte di banchina ∙ estetica da collezione\", 340 salvataggi"
 }
 ],
 "righe": [
+{
+"id": "HAC-CON-0004",
+"tipo": "contenuto",
+"titolo": "Pin \"Timbro buono, carta migliore\" — bacheca \"Carte di banchina ∙ estetica da collezione\", 340 salvataggi"
+},
 {
 "id": "HAC-GAD-0015",
 "tipo": "gadget",

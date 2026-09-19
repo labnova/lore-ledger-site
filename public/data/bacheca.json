@@ -4628,6 +4628,134 @@
 },
 {
 "chiusa_il": null,
+"creata": "2026-09-19T12:45:59Z",
+"esito": null,
+"id": "BAC-35443783201-1",
+"payload": {
+"bozza": "Product-sheet photograph: object placed on a seamless white ground, soft cold studio light, light cast shadow, label with illegible product code, corporate-blue detail. Subject: Taccuino di Cera del Nomade — Tavoletta di cera incorniciata in legno, con uno stilo di legno duro legato a un cordino. — carried by Bertha vi incide ogni sera la rata versata, ma la cera si ammorbidisce durante il giorno al calore del corpo, e il mattino dopo trova la tavoletta liscia e deve ricominciare a contare.. Bianchi freddi, grigi perla, blu corporate (un navy freddo) come unico colore d'identità, un arancio di sicurezza solo per etichette e avvertenze. Fotografia pubblicitaria di prodotto o di catalogo aziendale: luce da studio morbida e fredda, fondo continuo, oggetti posati come in una scheda tecnica, etichette con codici prodotto illeggibili. studio lighting highlighting texture, 105mm lens, clean minimalistic lines, high resolution, UHD --ar 4:3 --no postcard neon, rain with signs, smoky alleys, floating holograms, chrome implants, decorative japanese lettering, latex suits, HUD overlay, illegible lettering, watermark",
+"chiave": "m1",
+"contesto": "id: CYB-GAD-0013\ntipo: gadget\nuniverso: cyberverse\nestrazione: 33\ncreated: '2026-09-13'\nparent_id: null\nrelazione: null\nepoca_relativa: 0\nregione: Rostkirche\nstatus: canon\nschema_version: 1\ninvenzione_id: CYB-INV-0011\npersonaggio_id: CYB-PER-0005\nnome: Taccuino di Cera del Nomade\ncosa: Tavoletta di cera incorniciata in legno, con uno stilo di legno duro legato a un cordino.\nchi_lo_porta: Bertha vi incide ogni sera la rata versata, ma la cera si ammorbidisce durante il giorno al calore del corpo, e il mattino dopo trova la tavoletta liscia e deve ricominciare a contare.\ntradimento_tech: La cera non si scioglie per caso, è formulata per restare leggibile solo dal registro clericale che la fotografa ogni notte, e per chiunque altro, Bertha compresa, il conto sparisce sempre entro l'alba.\nprod: false",
+"manifest": {
+"caricato_il": null,
+"creato": "2026-09-19",
+"id": "MED-35443783201-1",
+"note": "oggetto: Taccuino di Cera del Nomade; gancio: Bertha giura di aver segnato la rata di ieri e non ne trova traccia, e comincia a sospettare che la tavoletta sia fatta apposta per farla sembrare più indebitata di quanto sia davvero.; tradimento_tech: La cera non si scioglie per caso, è formulata per restare leggibile solo dal registro clericale che la fotografa ogni notte, e per chiunque altro, Bertha compresa, il conto sparisce sempre entro l'alba.; sref non fissato; variante medium",
+"parametri": {
+"ar": "4:3",
+"atomi": [
+"ATM-35423715749-30",
+"ATM-35310512448-25",
+"ATM-35423715749-57",
+"ATM-34809499246-20"
+],
+"cref": null,
+"sref": null
+},
+"prompt": "Product-sheet photograph: object placed on a seamless white ground, soft cold studio light, light cast shadow, label with illegible product code, corporate-blue detail. Subject: Taccuino di Cera del Nomade — Tavoletta di cera incorniciata in legno, con uno stilo di legno duro legato a un cordino. — carried by Bertha vi incide ogni sera la rata versata, ma la cera si ammorbidisce durante il giorno al calore del corpo, e il mattino dopo trova la tavoletta liscia e deve ricominciare a contare.. Bianchi freddi, grigi perla, blu corporate (un navy freddo) come unico colore d'identità, un arancio di sicurezza solo per etichette e avvertenze. Fotografia pubblicitaria di prodotto o di catalogo aziendale: luce da studio morbida e fredda, fondo continuo, oggetti posati come in una scheda tecnica, etichette con codici prodotto illeggibili. studio lighting highlighting texture, 105mm lens, clean minimalistic lines, high resolution, UHD --ar 4:3 --no postcard neon, rain with signs, smoky alleys, floating holograms, chrome implants, decorative japanese lettering, latex suits, HUD overlay, illegible lettering, watermark",
+"sha256": null,
+"sorgente": {
+"ref": "CYB-GAD-0013",
+"tipo": "riga"
+},
+"stato": "proposto",
+"strumento": "midjourney",
+"tipo": "tavola",
+"universo": "cyberverse",
+"url": null
+},
+"strumento": "midjourney",
+"tipo": "tavola"
+},
+"postata_da": "media-random",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"CYB-GAD-0013"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "media-random",
+"da": "media-random",
+"quando": "2026-09-19T12:45:59Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_tavola",
+"universi": [
+"cyberverse"
+]
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-19T12:45:59Z",
+"esito": null,
+"id": "BAC-35443783201-2",
+"payload": {
+"bozza": "Product-sheet photograph: object placed on a seamless white ground, soft cold studio light, light cast shadow, label with illegible product code, corporate-blue detail. Subject: Le Pile della Fede — Bustina di cuoio cucita con un laccio, con dentro tre batterie di riserva per il bracciale del Voto. — carried by Greta la tiene appesa alla cintura insieme al mazzo di carte, pronta a scambiarla se perde male al tavolo.. Bianchi freddi, grigi perla, blu corporate (un navy freddo) come unico colore d'identità, un arancio di sicurezza solo per etichette e avvertenze. Fotografia pubblicitaria di prodotto o di catalogo aziendale: luce da studio morbida e fredda, fondo continuo, oggetti posati come in una scheda tecnica, etichette con codici prodotto illeggibili. strong studio light, soft shadows, shot on 55mm lens, sharp focus, high resolution, minimal background --ar 4:3 --no postcard neon, rain with signs, smoky alleys, floating holograms, chrome implants, decorative japanese lettering, latex suits, HUD overlay, illegible lettering, watermark",
+"chiave": "m2",
+"contesto": "id: CYB-GAD-0026\ntipo: gadget\nuniverso: cyberverse\nestrazione: 75\ncreated: '2026-09-16'\nparent_id: null\nrelazione: null\nepoca_relativa: 0\nregione: Rostkirche\nstatus: canon\nschema_version: 1\nnome: Le Pile della Fede\ncosa: Bustina di cuoio cucita con un laccio, con dentro tre batterie di riserva per il bracciale del Voto.\nchi_lo_porta: Greta la tiene appesa alla cintura insieme al mazzo di carte, pronta a scambiarla se perde male al tavolo.\ninvenzione_id: CYB-INV-0012\npersonaggio_id: CYB-PER-0010\ntradimento_tech: Le batterie sono tarate sullo stesso protocollo del bracciale e ne registrano il numero di serie una volta installate, così ogni prestito tra vicini lascia una traccia che la clinica può risalire.\noggetto: Una scorta di batterie di ricambio per non restare mai \"muti\" davanti al cappellano.\nchi_paga: l-utente-ultimo\nentita_usate: []\nprod: true",
+"manifest": {
+"caricato_il": null,
+"creato": "2026-09-19",
+"id": "MED-35443783201-2",
+"note": "oggetto: Le Pile della Fede; gancio: Un vicino a cui Greta presta l'ultima pila scopre solo dopo che il suo nome è finito accanto al numero di serie del bracciale di lei, in un registro che non ha mai visto.; torsione: dipendenza; tradimento_tech: Le batterie sono tarate sullo stesso protocollo del bracciale e ne registrano il numero di serie una volta installate, così ogni prestito tra vicini lascia una traccia che la clinica può risalire.; sref non fissato",
+"parametri": {
+"ar": "4:3",
+"atomi": [
+"ATM-35185545263-6",
+"ATM-35059284514-5",
+"ATM-35423715749-35",
+"ATM-35185545263-4"
+],
+"cref": null,
+"sref": null
+},
+"prompt": "Product-sheet photograph: object placed on a seamless white ground, soft cold studio light, light cast shadow, label with illegible product code, corporate-blue detail. Subject: Le Pile della Fede — Bustina di cuoio cucita con un laccio, con dentro tre batterie di riserva per il bracciale del Voto. — carried by Greta la tiene appesa alla cintura insieme al mazzo di carte, pronta a scambiarla se perde male al tavolo.. Bianchi freddi, grigi perla, blu corporate (un navy freddo) come unico colore d'identità, un arancio di sicurezza solo per etichette e avvertenze. Fotografia pubblicitaria di prodotto o di catalogo aziendale: luce da studio morbida e fredda, fondo continuo, oggetti posati come in una scheda tecnica, etichette con codici prodotto illeggibili. strong studio light, soft shadows, shot on 55mm lens, sharp focus, high resolution, minimal background --ar 4:3 --no postcard neon, rain with signs, smoky alleys, floating holograms, chrome implants, decorative japanese lettering, latex suits, HUD overlay, illegible lettering, watermark",
+"sha256": null,
+"sorgente": {
+"ref": "CYB-GAD-0026",
+"tipo": "riga"
+},
+"stato": "proposto",
+"strumento": "midjourney",
+"tipo": "tavola",
+"universo": "cyberverse",
+"url": null
+},
+"strumento": "midjourney",
+"tipo": "tavola"
+},
+"postata_da": "media-random",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"CYB-GAD-0026"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "media-random",
+"da": "media-random",
+"quando": "2026-09-19T12:45:59Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_tavola",
+"universi": [
+"cyberverse"
+]
+},
+{
+"chiusa_il": null,
 "creata": "2026-09-15T23:21:24Z",
 "esito": null,
 "id": "BAC-35034876036-2",

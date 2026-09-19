@@ -129,7 +129,7 @@
 "ha_prosa": false,
 "nome": "Tallinn",
 "prima_apparizione": 32,
-"ricorrenze": 34,
+"ricorrenze": 35,
 "slug": "tallinn",
 "sopra_soglia": true,
 "tipo": "luogo",
@@ -178,6 +178,20 @@
 },
 {
 "alias": [
+"HAC-REG-rotterdam"
+],
+"descrizione": "Il porto più grande d'Europa smista container, turni di banchina e manifesti doganali ventiquattr'ore su ventiquattro: nessun ceppo prevale perché la manodopera arriva da ogni rotta commerciale, e chi diventa corriere qui porta il cognome della città da cui è partito, non di quella in cui ha attraccato.",
+"ha_prosa": false,
+"nome": "Rotterdam",
+"prima_apparizione": 43,
+"ricorrenze": 25,
+"slug": "rotterdam",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "hackverse"
+},
+{
+"alias": [
 "STE-REG-ikerviz"
 ],
 "descrizione": "Città posata su un doppio letto fluviale, dove il canale sotterraneo della gilda scorre parallelo al fiume vero portando salamoia refrigerante ai quartieri alti; quasi un cognome su due nasce ancora dal mestiere di chi lo porta.",
@@ -203,20 +217,6 @@
 "sopra_soglia": true,
 "tipo": "luogo",
 "universo": "cyberverse"
-},
-{
-"alias": [
-"HAC-REG-rotterdam"
-],
-"descrizione": "Il porto più grande d'Europa smista container, turni di banchina e manifesti doganali ventiquattr'ore su ventiquattro: nessun ceppo prevale perché la manodopera arriva da ogni rotta commerciale, e chi diventa corriere qui porta il cognome della città da cui è partito, non di quella in cui ha attraccato.",
-"ha_prosa": false,
-"nome": "Rotterdam",
-"prima_apparizione": 43,
-"ricorrenze": 24,
-"slug": "rotterdam",
-"sopra_soglia": true,
-"tipo": "luogo",
-"universo": "hackverse"
 },
 {
 "alias": [],

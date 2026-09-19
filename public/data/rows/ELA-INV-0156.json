@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "il-costruttore",
+"created": "2026-09-19",
+"discipline": [
+"diritto/diritto_contrattuale",
+"architettura/restauro"
+],
+"entita_usate": [
+"Scafo Zero"
+],
+"epoca_relativa": 0,
+"estrazione": 142,
+"fatti": [],
+"gancio": "Il maestro di Scafo Zero continua a intrecciare funi che nessun cantiere ordina più, perché è l'unico modo che conosce per sentirsi ancora necessario.",
+"id": "ELA-INV-0156",
+"media": [],
+"nome": "L'Ultimo Intreccio",
+"nome_reale": "Tecnica di calafataggio a fune intrecciata insegnata ormai da un solo maestro",
+"oggetto": "Tecnica di calafataggio a fune intrecciata, sostituita ovunque da resine moderne e insegnata ormai da un solo maestro a Scafo Zero.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "obsolescenza",
+"universo": "elabverse"
+}

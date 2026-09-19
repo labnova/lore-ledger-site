@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "la-comunita",
+"created": "2026-09-19",
+"discipline": [
+"diritto/diritto_contrattuale",
+"architettura/restauro"
+],
+"entita_usate": [
+"Divano dei Tavolieri"
+],
+"epoca_relativa": 0,
+"estrazione": 142,
+"fatti": [],
+"gancio": "La debolezza resta invisibile fino alla processione settimanale, quando un intero corridoio dell'anello cede sotto il peso di chi non sapeva nulla del chiodo sbagliato.",
+"id": "ELA-INV-0146",
+"media": [],
+"nome": "I Chiodi della Scommessa",
+"nome_reale": "Lotto di chiodatura sabotata infilato in un appalto di restauro",
+"oggetto": "Lotto di chiodatura difettosa infilato di proposito in un appalto di restauro del Divano dei Tavolieri, per far perdere una scommessa a un tavoliere rivale.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "sabotaggio",
+"universo": "elabverse"
+}

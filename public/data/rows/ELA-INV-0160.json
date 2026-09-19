@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-19",
+"discipline": [
+"acustica/fonetica",
+"ottica/spettroscopia"
+],
+"epoca_relativa": 1,
+"estrazione": 142,
+"fatti": [],
+"gancio": "Durante una sentenza del Divano dei Tavolieri, il filtro isola una voce che nessuno dei due contendenti ha pronunciato, e chi lo ha portato smette di fidarsi dell'apparecchio che aveva costruito con tanta cura.",
+"id": "ELA-INV-0160",
+"media": [],
+"nome": "Il Canto che Si Separa",
+"nome_reale": "Filtro spettrale applicato al rilevatore di armoniche vocali per isolare la voce di un solo interlocutore in una sala affollata",
+"parent_id": "ELA-INV-0011",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "L'ingegnere che aveva nascosto il rilevatore di menzogne ai diplomatici lo perfeziona per isolare una sola voce tra molte, filtrando lo spettro come si filtra la luce di una singola stella in un cielo pieno; al Divano dei Tavolieri qualcuno inizia a portare l'apparecchio sottobanco a ogni giudizio importante.",
+"universo": "elabverse"
+}

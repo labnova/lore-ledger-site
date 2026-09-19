@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-utente-ultimo",
+"created": "2026-09-19",
+"discipline": [
+"diritto/diritto_contrattuale",
+"architettura/restauro"
+],
+"entita_usate": [
+"Divano dei Tavolieri"
+],
+"epoca_relativa": 0,
+"estrazione": 142,
+"fatti": [],
+"gancio": "Dietro quella parete proibita si vive per anni senza saperlo, finché uno shock termico non fa restituire al composito riflessi che nessun materiale dovrebbe avere.",
+"id": "ELA-INV-0149",
+"media": [],
+"nome": "Il Composito Proibito",
+"nome_reale": "Rinforzo strutturale in composito proibito, montato comunque",
+"oggetto": "Rinforzo strutturale in composito d'origine ignota, vietato dal Divano dei Tavolieri e montato comunque in metà delle cabine.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "divieto-ignorato",
+"universo": "elabverse"
+}

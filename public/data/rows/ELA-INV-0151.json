@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "nessuno-apparentemente",
+"created": "2026-09-19",
+"discipline": [
+"diritto/diritto_contrattuale",
+"architettura/restauro"
+],
+"entita_usate": [
+"Divano dei Tavolieri"
+],
+"epoca_relativa": 0,
+"estrazione": 142,
+"fatti": [],
+"gancio": "Nessuno ammette di consultare quei registri, eppure il Divano dei Tavolieri sa sempre chi ha riaperto una parete senza permesso.",
+"id": "ELA-INV-0151",
+"media": [],
+"nome": "Il Sigillo che Ascolta",
+"nome_reale": "Sigillo elettronico di sorveglianza sulle giunture restaurate",
+"oggetto": "Sigillo elettronico da apporre sulle giunture restaurate, che registra ogni apertura successiva e la trasmette al registro del Divano dei Tavolieri.",
+"parent_id": null,
+"poc": true,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "sorveglianza-incorporata",
+"universo": "elabverse"
+}
