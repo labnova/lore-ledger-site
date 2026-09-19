@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "bisessuale",
+"situazione": "poliamoroso"
+},
+"appare_in": [],
+"casta": "funzionari",
+"ceppo": "scandinavo",
+"cognome": "Engdottir",
+"contraddizione": "Come funzionaria studia da mesi il metodo di taratura di Yusuf per metterlo finalmente per iscritto, ma il suo difetto la tiene sveglia a ricostruirlo di notte invece che negli orari d'ufficio, così la dedizione più ostinata che l'ufficio abbia mai visto finisce registrata sui fogli presenze come assenze e ritardi.",
+"created": "2026-09-19",
+"difetto": "insonne",
+"epoca_relativa": 0,
+"estrazione": 132,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Ha un quaderno pieno di orari notturni e movimenti della mano di Yusuf ricostruiti a memoria, e nessuno crede che sia lavoro.",
+"id": "HAC-PER-0067",
+"invenzione_id": "HAC-INV-0082",
+"media": [],
+"nome": "Vilde",
+"parent_id": null,
+"rapporto": "studia",
+"regione": "HAC-REG-kristiansand",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "bilancia",
+"spirituale": {
+"credenza": "le_macchine_sognano",
+"rapporto": "mistico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ostinato",
+"universo": "hackverse"
+}

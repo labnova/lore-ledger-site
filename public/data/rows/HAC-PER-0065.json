@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "pansessuale",
+"situazione": "single"
+},
+"appare_in": [],
+"casta": "funzionari",
+"ceppo": "scandinavo",
+"cognome": "Norvilequist",
+"contraddizione": "Teme la tarabalans più di ogni altro strumento dell'ufficio, sapendo che un decimo di grammo sbagliato può mandare un carico innocente dritto in ispezione, ma il suo difetto indolente le fa rimandare ogni settimana il ricontrollo che potrebbe toglierle quella paura, come se non controllare fosse più facile che sapere.",
+"created": "2026-09-19",
+"difetto": "indolente",
+"epoca_relativa": 0,
+"estrazione": 132,
+"eta_fascia": "adulto",
+"fatti": [],
+"gancio": "Non ha ancora ricontrollato la tara di questa settimana, e ogni sera guarda il telefono sperando che nessuno se ne sia ancora accorto.",
+"id": "HAC-PER-0065",
+"invenzione_id": "HAC-INV-0082",
+"media": [],
+"nome": "Hilde",
+"parent_id": null,
+"rapporto": "teme",
+"regione": "HAC-REG-kristiansand",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "scorpione",
+"spirituale": {
+"credenza": "le_stelle_come_registro",
+"rapporto": "mistico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "paziente",
+"universo": "hackverse"
+}

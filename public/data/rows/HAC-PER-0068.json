@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "asessuale",
+"situazione": "promesso_per_contratto"
+},
+"appare_in": [],
+"casta": "funzionari",
+"ceppo": "scandinavo",
+"cognome": "Skräddare",
+"contraddizione": "Ha costruito da sola il prototipo che sostituirebbe la mano di Yusuf e libererebbe l'ufficio dal suo unico punto di rottura, ma la sua credenza che il crollo sia un giudizio meritato la rende passiva proprio quando dovrebbe insistere di più, così l'invenzione inventiva che ha costruito resta chiusa in un cassetto.",
+"created": "2026-09-19",
+"difetto": "insonne",
+"epoca_relativa": 0,
+"estrazione": 132,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Il prototipo che dovrebbe sostituire la mano di Yusuf è pronto da sei mesi, e una parte di lei crede che, se il sistema deve crollare, sia meglio lasciarlo fare.",
+"id": "HAC-PER-0068",
+"invenzione_id": "HAC-INV-0082",
+"media": [],
+"nome": "Johanna",
+"parent_id": null,
+"rapporto": "costruita",
+"regione": "HAC-REG-kristiansand",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "cancro",
+"spirituale": {
+"credenza": "il_crollo_come_giudizio",
+"rapporto": "praticante_tiepido"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "inventivo",
+"universo": "hackverse"
+}

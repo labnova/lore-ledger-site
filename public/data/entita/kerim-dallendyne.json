@@ -1,0 +1,98 @@
+{
+"aggiornata": "2026-09-18",
+"alias": [],
+"descrizione": "Intagliatore e accordatore ambulante che vende pedine, dadi e pelli di tamburo dalla stessa cassa, perché per lui sono la stessa merce, cose che si consumano a furia di essere toccate a ritmo.",
+"ha_prosa": false,
+"n_ricorrenze": 6,
+"nome": "Kerim Dallendyne",
+"prima_apparizione": 129,
+"prosa": null,
+"racconti": [],
+"ricorrenze": [
+{
+"estrazione": 129,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 129,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-INV-0120",
+"riga_tipo": "invenzione",
+"riga_titolo": "Le Pedine che Si Vedono al Buio"
+},
+{
+"estrazione": 129,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-INV-0124",
+"riga_tipo": "invenzione",
+"riga_titolo": "Le Pelli di Quarantena"
+},
+{
+"estrazione": 129,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-INV-0126",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Chiave a Doppio Taglio"
+},
+{
+"estrazione": 129,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-INV-0132",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Difetto Calibrato"
+},
+{
+"estrazione": 129,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-INV-0136",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Resina di Scarto"
+}
+],
+"righe": [
+{
+"id": "ELA-INV-0120",
+"tipo": "invenzione",
+"titolo": "Le Pedine che Si Vedono al Buio"
+},
+{
+"id": "ELA-INV-0124",
+"tipo": "invenzione",
+"titolo": "Le Pelli di Quarantena"
+},
+{
+"id": "ELA-INV-0126",
+"tipo": "invenzione",
+"titolo": "La Chiave a Doppio Taglio"
+},
+{
+"id": "ELA-INV-0132",
+"tipo": "invenzione",
+"titolo": "Il Difetto Calibrato"
+},
+{
+"id": "ELA-INV-0136",
+"tipo": "invenzione",
+"titolo": "La Resina di Scarto"
+}
+],
+"slug": "kerim-dallendyne",
+"sopra_soglia": true,
+"tipo": "attore",
+"universo": "elabverse"
+}

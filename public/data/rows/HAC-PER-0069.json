@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "bisessuale",
+"situazione": "fidanzato"
+},
+"appare_in": [],
+"casta": "funzionari",
+"ceppo": "scandinavo",
+"cognome": "Bersemaström",
+"contraddizione": "Si dice leale come suo nonno alla vecchia ciurma del molo, ed è proprio per quella lealtà che le vende i giorni buoni della tarabalans — ma il suo difetto avaro lo fa pagare, cash prima di parlare, anche a chi chiama famiglia, tradendo con il prezzo la lealtà che dice di onorare.",
+"created": "2026-09-19",
+"difetto": "avaro",
+"epoca_relativa": 0,
+"estrazione": 132,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Fa pagare pure a suo cugino i giorni in cui la tarabalans sarà \"gentile\", e lo chiama essere seri, non essere avaro.",
+"id": "HAC-PER-0069",
+"invenzione_id": "HAC-INV-0082",
+"media": [],
+"nome": "Sven",
+"parent_id": null,
+"rapporto": "vende",
+"regione": "HAC-REG-kristiansand",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "pesci",
+"spirituale": {
+"credenza": "culto_degli_antenati",
+"rapporto": "scettico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "leale",
+"universo": "hackverse"
+}

@@ -1,12 +1,12 @@
 {
-"aggiornata": "2026-09-16",
+"aggiornata": "2026-09-18",
 "alias": [],
 "descrizione": "Mercante di talee e sementi che segue le squadre di bonifica canale per canale, vendendo piante già acclimatate al fango appena scavato; sa dove passerà l'acqua un anno prima della Diocesi.",
-"ha_prosa": false,
+"ha_prosa": true,
 "n_ricorrenze": 6,
 "nome": "Idris Sabbagh",
 "prima_apparizione": 85,
-"prosa": null,
+"prosa": "Idris Sabbagh, mercante di talee e sementi, segue le squadre di bonifica canale per canale, vende piante acclimatate al fango e sa dove passerà l'acqua prima della Diocesi. Vende germogli solo a chi riapre la paratoia dopo l'alba: un'ora in più li uccide, in meno li secca. Rivende le stesse sementi due valli più in là: Sarakan non bonificherà più i campi bassi con la stessa sicurezza. Chi compra le sue stuoie di resina risparmia una stagione e ne perde una, quando l'acqua filtra dove a valle nessuno l'aspettava. L'erba che vira, selezionata da altri, viaggia di contrabbando senza nome registrato. L'ostruzione sembra naturale, ma Idris riconosce il taglio delle talee, vendute due lune prima a un cliente senza destinazione.",
 "racconti": [],
 "ricorrenze": [
 {

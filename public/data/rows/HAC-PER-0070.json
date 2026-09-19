@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "sposato"
+},
+"appare_in": [],
+"casta": "broker_di_dati",
+"ceppo": "slavo",
+"cognome": "Sivenko",
+"contraddizione": "Si presenta ai bambini prodigio dei forum come il mentore paterno che nessuno di loro ha mai avuto, ma il suo difetto predatorio gli impedisce di lasciare crescere un talento prima di spremerlo, e lo schema del ponte tra valvole e perfusori che Otto gli ha mandato convinto di essere finalmente riconosciuto è già stato rivenduto a tre acquirenti diversi, ognuno certo di essere l'unico.",
+"created": "2026-09-19",
+"difetto": "predatorio",
+"epoca_relativa": 1,
+"estrazione": 132,
+"eta_fascia": "adulto",
+"fatti": [],
+"gancio": "Tiene un elenco di talenti \"promettenti\" pescati nei forum per minori, aggiornato ogni mese, e il nome di Otto è appena stato spuntato come \"riscosso\".",
+"id": "HAC-PER-0070",
+"invenzione_id": "HAC-INV-0001",
+"media": [],
+"nome": "Marek",
+"parent_id": "HAC-PER-0009",
+"rapporto": "vende",
+"regione": "HAC-REG-tallinn",
+"relazione": "espansione",
+"ritratto": null,
+"schema_version": 1,
+"segno": "capricorno",
+"spirituale": {
+"credenza": "il codice non ha padri, solo prezzi",
+"rapporto": "cinico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "paterno",
+"universo": "hackverse"
+}

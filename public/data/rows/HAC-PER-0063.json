@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "omosessuale",
+"situazione": "promesso_per_contratto"
+},
+"appare_in": [],
+"casta": "funzionari",
+"ceppo": "scandinavo",
+"cognome": "Strömvidottir",
+"contraddizione": "Studia per l'ufficio la deriva della tarabalans con il rigore che la sua carriera richiede, ma crede davvero che lo scarto di un decimo di grammo sia la voce della rete che le parla, non un guasto meccanico — e questo la rende curiosa nel modo sbagliato, quello che cerca segni invece di cause.",
+"created": "2026-09-19",
+"difetto": "superstizioso",
+"epoca_relativa": 0,
+"estrazione": 132,
+"eta_fascia": "adulto",
+"fatti": [],
+"gancio": "Ha allegato al suo studio ufficiale sulla bilancia tre pagine che nessun superiore leggerà mai, dove sostiene che lo scarto non è un errore ma un messaggio.",
+"id": "HAC-PER-0063",
+"invenzione_id": "HAC-INV-0082",
+"media": [],
+"nome": "Freja",
+"parent_id": null,
+"rapporto": "studia",
+"regione": "HAC-REG-kristiansand",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "sagittario",
+"spirituale": {
+"credenza": "la_voce_nella_rete",
+"rapporto": "mistico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "curioso",
+"universo": "hackverse"
+}

@@ -5262,5 +5262,81 @@
 "ELA-INV-0137"
 ],
 "universo": "elabverse"
+},
+{
+"campi_forzati": [],
+"chiavi": {
+"cluster": [
+"STE-INV-0021"
+]
+},
+"created": "2026-09-18",
+"esito": "ok",
+"estrazione": 130,
+"forzata": false,
+"lotto": "lotto-semi",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"STE-SEM-0003"
+],
+"universi": [
+"steamverse"
+],
+"universo": "cross"
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"HAC-INV-0082",
+"HAC-INV-0058",
+"HAC-INV-0064",
+"HAC-PER-0009"
+],
+"chiavi": {
+"casta": "funzionari",
+"invenzione_id": "HAC-INV-0082",
+"personaggi": [
+"HAC-PER-0060",
+"HAC-PER-0061",
+"HAC-PER-0062",
+"HAC-PER-0063",
+"HAC-PER-0064",
+"HAC-PER-0065",
+"HAC-PER-0066",
+"HAC-PER-0067",
+"HAC-PER-0068",
+"HAC-PER-0069"
+],
+"regione": "HAC-REG-kristiansand",
+"universo": "hackverse"
+},
+"created": "2026-09-19",
+"esito": "ok",
+"espansioni": [
+"HAC-PER-0070",
+"HAC-INV-0098",
+"HAC-INV-0099"
+],
+"estrazione": 132,
+"forzata": false,
+"lotto": "lotto-personaggi",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"HAC-PER-0060",
+"HAC-PER-0061",
+"HAC-PER-0062",
+"HAC-PER-0063",
+"HAC-PER-0064",
+"HAC-PER-0065",
+"HAC-PER-0066",
+"HAC-PER-0067",
+"HAC-PER-0068",
+"HAC-PER-0069",
+"HAC-REG-kristiansand",
+"HAC-PER-0070",
+"HAC-INV-0098",
+"HAC-INV-0099"
+],
+"universo": "hackverse"
 }
 ]

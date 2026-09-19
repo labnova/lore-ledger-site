@@ -1,0 +1,21 @@
+{
+"appare_in": [],
+"ceppo_dominante": "scandinavo",
+"created": "2026-09-19",
+"epoca_relativa": 0,
+"estrazione": 132,
+"fatti": [],
+"id": "HAC-REG-kristiansand",
+"media": [],
+"nome": "Kristiansand",
+"note": "Capolinea del traghetto per la Danimarca e sede storica della dogana regionale sulla costa sud della Norvegia, dove le famiglie che presidiano il varco non cambiano da generazioni, il ceppo scandinavo resta dominante e un funzionario su tre porta ancora il cognome del mestiere che la sua famiglia svolgeva già al banco dei controlli.",
+"onomastica": "legata",
+"p_cognome_mestiere": 0.31,
+"parent_id": null,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "regione",
+"universo": "hackverse"
+}

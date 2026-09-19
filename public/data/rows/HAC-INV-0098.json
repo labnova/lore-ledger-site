@@ -1,0 +1,28 @@
+{
+"appare_in": [],
+"chi_paga": "un-terzo-ignaro",
+"created": "2026-09-19",
+"discipline": [
+"sanita_pubblica/quarantena",
+"musica/canto"
+],
+"entita_usate": [],
+"epoca_relativa": 1,
+"estrazione": 132,
+"fatti": [],
+"gancio": "Un ex cantante scopre che il bootleg tenuto come ricordo di una notte perfetta è l'allegato numero tre di un'inchiesta epidemiologica, con il suo nome sotto.",
+"id": "HAC-INV-0098",
+"media": [],
+"nome": "Le Prove Che Cantano",
+"nome_reale": "Archivio delle registrazioni di sorveglianza acustica di quarantena, rivenduto come bootleg e poi sequestrato come prova epidemiologica",
+"oggetto": "archivio di bootleg notturni dei microfoni da quarantena, sequestrato come prova in un'inchiesta epidemiologica",
+"parent_id": "HAC-INV-0058",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Le stesse registrazioni notturne che l'etichetta clandestina vendeva come concerti esclusivi finiscono, anni dopo, sequestrate dall'ufficio sanitario come prova che quella sera in zona rossa si era cantato in troppi, proprio mentre un vecchio focolaio viene tracciato a ritroso.",
+"universo": "hackverse"
+}

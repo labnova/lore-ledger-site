@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"cluster": "STE-INV-0021",
+"created": "2026-09-18",
+"epoca_relativa": 0,
+"estrazione": 130,
+"fatti": [],
+"id": "STE-SEM-0003",
+"media": [],
+"origine": "arricchimento",
+"ostacolo": "Berk Taşsoy, che studia il meccanismo del Bollo per diventare ispettore, scopre lo stampo di riserva di Leyla e non la denuncia, ma le chiede una parte dei bolli falsi come pegno di silenzio, tenendone il conto esatto nel suo quaderno.",
+"parent_id": null,
+"premessa": "Leyla Çesoy vuole continuare a falsificare in segreto i bolli di purezza per garantire ghiaccio buono al quartiere basso in cui è cresciuta, prima che la gilda stringa i controlli sulle calibrazioni.",
+"regione": null,
+"relazione": null,
+"rottura": "Quando Okan Kotaş rifiuta di calibrare il suo banco in un giorno che giudica infausto, il controllo slitta a Judit Baborassy, che ricontrolla ogni firma tre volte e trova lo stampo di Leyla identico a uno dei bolli «regolari», un fatto che non può più negare, né a se stessa né alla gilda a cui è leale.",
+"schema_version": 1,
+"status": "canon",
+"tipo": "seme",
+"tono": "sale amaro, lealtà tesa",
+"universi": [
+"steamverse"
+],
+"universo": "steamverse"
+}

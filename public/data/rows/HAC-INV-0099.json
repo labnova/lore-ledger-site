@@ -1,0 +1,28 @@
+{
+"appare_in": [],
+"chi_paga": "l-utente-ultimo",
+"created": "2026-09-19",
+"discipline": [
+"sanita_pubblica/quarantena",
+"musica/canto"
+],
+"entita_usate": [],
+"epoca_relativa": 1,
+"estrazione": 132,
+"fatti": [],
+"gancio": "Una cantante scopre solo al terzo richiamo perché continuano a richiamare sempre lei, e la ragione è nel suo certificato di immunità, letto all'ingresso insieme al pass del vaccino, che dice che non si ammalerà per altri quaranta giorni.",
+"id": "HAC-INV-0099",
+"media": [],
+"nome": "Il Turno Che Non Finisce",
+"nome_reale": "Sistema di prenotazione dell'hub vaccinale riadattato per il casting notturno, incrociato con i dati di immunità per scegliere le voci \"libere\" più a lungo",
+"oggetto": "modulo di scheduling dell'hub vaccinale riadattato per selezionare i cantanti delle audizioni notturne in base ai dati di immunità",
+"parent_id": "HAC-INV-0064",
+"poc": true,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Il sistema che smistava le fasce orarie del vaccino viene affinato per scegliere, tra chi si presenta all'audizione notturna, solo le voci di chi risulterà libero dalla quarantena più a lungo, facendo cantare già oggi il turno che canterà per settimane.",
+"universo": "hackverse"
+}

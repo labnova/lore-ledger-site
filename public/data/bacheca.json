@@ -3899,6 +3899,63 @@
 ]
 },
 {
+"alternative": [],
+"artefatti_prodotti": [
+"entita:neofeudal/attore/idris-sabbagh"
+],
+"artefatto_dettaglio": null,
+"chiusa_il": null,
+"creata": "2026-09-18T23:16:59Z",
+"esito": null,
+"id": "BAC-35405053224-1",
+"letto_a": "50f49e05b94576efa296a831433a84e740bf4c7b",
+"payload": {
+"artefatti_prodotti": [
+"entita:neofeudal/attore/idris-sabbagh"
+],
+"artefatto": "entita:neofeudal/attore/idris-sabbagh",
+"candidati": [
+"HAC-PER-0054",
+"ELA-INV-0051",
+"ELA-GAD-0006",
+"entita:elabverse/luogo/konya",
+"entita:neofeudal/attore/idris-sabbagh"
+],
+"entita": {
+"nome": "Idris Sabbagh",
+"ricorrenze": 6,
+"slug": "idris-sabbagh",
+"tipo": "attore"
+},
+"forma": "prosa_entita",
+"lacuna": "scheda attore priva di prosa",
+"letto_a": "50f49e05b94576efa296a831433a84e740bf4c7b",
+"motivazione": "Sabbagh è citato in NEO-INV-0073, NEO-INV-0082, NEO-INV-0086, NEO-INV-0087, NEO-INV-0092 ma la sua scheda ha il campo prosa vuoto: è un elenco, non un ritratto. Konya, con 62 ricorrenze, regge da sé come sfondo di cabine assegnate per città natale; Sabbagh invece vive di gesto e di anticipo — segue le squadre canale per canale, vende piante già acclimatate al fango appena scavato, sa dove passerà l'acqua un anno prima della Diocesi. Sono tre cose che chiedono un paragrafo, non una riga nuova, e nessuna delle righe che lo citano va toccata. Le righe del ledger candidate hanno i campi pieni o un gancio che non è una lacuna di campo: qui la mancanza è dichiarata dalla scheda stessa.",
+"scelto": "entita:neofeudal/attore/idris-sabbagh"
+},
+"postata_da": "redattore",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "redattore",
+"da": "redattore",
+"quando": "2026-09-18T23:16:59Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "approfondimento",
+"universi": [
+"neofeudal"
+]
+},
+{
 "chiusa_il": null,
 "creata": "2026-09-15T23:21:24Z",
 "esito": null,

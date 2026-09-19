@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "pansessuale",
+"situazione": "single"
+},
+"appare_in": [],
+"casta": "funzionari",
+"ceppo": "turco",
+"cognome": "Taşdesoy",
+"contraddizione": "È l'ispettore che ha portato la tarabalans da Anversa e l'unico le cui mani sanno impostarne davvero la tara; la sua lealtà all'ufficio dovrebbe spingerlo a insegnare il metodo a chiunque altro, ma il difetto di essere sordo ai consigli lo ha fatto restare, per anni, l'unico punto in cui l'intero sistema può rompersi.",
+"created": "2026-09-19",
+"difetto": "sordo_ai_consigli",
+"epoca_relativa": 0,
+"estrazione": 132,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "Quando va in ferie, l'intero carico pesato quella settimana passa con un decimo di grammo in più, e lui lo sa, e non ha mai scritto da nessuna parte come si fa a farlo bene.",
+"id": "HAC-PER-0066",
+"invenzione_id": "HAC-INV-0082",
+"media": [],
+"nome": "Yusuf",
+"parent_id": null,
+"rapporto": "usa",
+"regione": "HAC-REG-kristiansand",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "toro",
+"spirituale": {
+"credenza": "il_sacro_e_una_bugia_utile",
+"rapporto": "devoto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "leale",
+"universo": "hackverse"
+}

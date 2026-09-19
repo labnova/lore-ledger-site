@@ -1,0 +1,38 @@
+{
+"adotta": "HAC-SOS-35139219618-2",
+"affettivo": {
+"orientamento": "pansessuale",
+"situazione": "fidanzato"
+},
+"appare_in": [],
+"casta": "funzionari",
+"ceppo": "scandinavo",
+"cognome": "Halsson",
+"contraddizione": "È leale fino all'osso alla vecchia rete di scaricatori di Anversa che le insegnò a leggere una bilancia, ma è proprio questa lealtà a renderla sorda ai consigli dell'ufficio doganale di Kristiansand, dove falsifica da anni i verbali di taratura della tarabalans per coprire chi di quella rete fa ancora parte.",
+"created": "2026-09-19",
+"difetto": "sordo_ai_consigli",
+"epoca_relativa": 0,
+"estrazione": 132,
+"eta_fascia": "anziano",
+"fatti": [],
+"gancio": "È lei che ha cancellato il nome dell'assegnatario della postazione D nella cella OSINT, tre giorni prima della riconsegna ufficiale, per proteggere un vecchio nome della rete di Anversa — e ha lasciato al suo posto una firma resa illeggibile apposta.",
+"id": "HAC-PER-0060",
+"invenzione_id": "HAC-INV-0082",
+"media": [],
+"nome": "Ingrid",
+"parent_id": null,
+"rapporto": "falsifica",
+"regione": "HAC-REG-kristiansand",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "gemelli",
+"spirituale": {
+"credenza": "ciclo_del_ritorno",
+"rapporto": "eretico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "leale",
+"universo": "hackverse"
+}

@@ -1,0 +1,98 @@
+{
+"aggiornata": "2026-09-18",
+"alias": [],
+"descrizione": "Una battuta in più infilata da tempo immemore in ogni gioco da tavolo e in ogni tamburo del convoglio; nessuno sa dire se sia una regola, un difetto di fabbrica o un'eco arrivata da un altro branch, e nessuno l'ha mai tolta.",
+"ha_prosa": false,
+"n_ricorrenze": 6,
+"nome": "Il Terzo Colpo",
+"prima_apparizione": 129,
+"prosa": null,
+"racconti": [],
+"ricorrenze": [
+{
+"estrazione": 129,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 129,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-INV-0118",
+"riga_tipo": "invenzione",
+"riga_titolo": "L'Edizione che Batte Ancora"
+},
+{
+"estrazione": 129,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-INV-0121",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Collaudo dei Tre Rulli"
+},
+{
+"estrazione": 129,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-INV-0126",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Chiave a Doppio Taglio"
+},
+{
+"estrazione": 129,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-INV-0132",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Difetto Calibrato"
+},
+{
+"estrazione": 129,
+"quando": "2026-09-18",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-INV-0137",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Sorteggio dei Tre Rulli"
+}
+],
+"righe": [
+{
+"id": "ELA-INV-0118",
+"tipo": "invenzione",
+"titolo": "L'Edizione che Batte Ancora"
+},
+{
+"id": "ELA-INV-0121",
+"tipo": "invenzione",
+"titolo": "Il Collaudo dei Tre Rulli"
+},
+{
+"id": "ELA-INV-0126",
+"tipo": "invenzione",
+"titolo": "La Chiave a Doppio Taglio"
+},
+{
+"id": "ELA-INV-0132",
+"tipo": "invenzione",
+"titolo": "Il Difetto Calibrato"
+},
+{
+"id": "ELA-INV-0137",
+"tipo": "invenzione",
+"titolo": "Il Sorteggio dei Tre Rulli"
+}
+],
+"slug": "il-terzo-colpo",
+"sopra_soglia": true,
+"tipo": "anomalia",
+"universo": "elabverse"
+}

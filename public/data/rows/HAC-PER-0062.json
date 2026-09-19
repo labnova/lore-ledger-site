@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "single"
+},
+"appare_in": [],
+"casta": "funzionari",
+"ceppo": "scandinavo",
+"cognome": "Jeger",
+"contraddizione": "È la più vigile del turno, quella che nessun container supera senza un controllo vero, ma il suo difetto superstizioso la porta a fidarsi più dei rituali dei portuali di Anversa che del numero freddo che la tarabalans le mostra sullo schermo, tradendo il compito stesso per cui è pagata.",
+"created": "2026-09-19",
+"difetto": "superstizioso",
+"epoca_relativa": 0,
+"estrazione": 132,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Prima di leggere il display della tarabalans, tocca sempre tre volte il container più vicino, e dice che è per fortuna, non lo scriverà mai nel rapporto.",
+"id": "HAC-PER-0062",
+"invenzione_id": "HAC-INV-0082",
+"media": [],
+"nome": "Pernille",
+"parent_id": null,
+"rapporto": "usa",
+"regione": "HAC-REG-kristiansand",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "leone",
+"spirituale": {
+"credenza": "il_sacro_e_una_bugia_utile",
+"rapporto": "apostata"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "vigile",
+"universo": "hackverse"
+}

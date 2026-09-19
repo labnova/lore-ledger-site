@@ -326,6 +326,16 @@
 "to": "HAC-INV-0097"
 },
 {
+"from": "HAC-INV-0058",
+"kind": "parent",
+"to": "HAC-INV-0098"
+},
+{
+"from": "HAC-INV-0064",
+"kind": "parent",
+"to": "HAC-INV-0099"
+},
+{
 "from": "NEO-INV-0001",
 "kind": "regione",
 "to": "NEO-REG-calvenna"
@@ -2062,6 +2072,121 @@
 },
 {
 "from": "HAC-PER-0059",
+"kind": "regione",
+"to": "HAC-REG-tallinn"
+},
+{
+"from": "HAC-PER-0060",
+"kind": "invenzione",
+"to": "HAC-INV-0082"
+},
+{
+"from": "HAC-PER-0060",
+"kind": "regione",
+"to": "HAC-REG-kristiansand"
+},
+{
+"from": "HAC-PER-0061",
+"kind": "invenzione",
+"to": "HAC-INV-0082"
+},
+{
+"from": "HAC-PER-0061",
+"kind": "regione",
+"to": "HAC-REG-kristiansand"
+},
+{
+"from": "HAC-PER-0062",
+"kind": "invenzione",
+"to": "HAC-INV-0082"
+},
+{
+"from": "HAC-PER-0062",
+"kind": "regione",
+"to": "HAC-REG-kristiansand"
+},
+{
+"from": "HAC-PER-0063",
+"kind": "invenzione",
+"to": "HAC-INV-0082"
+},
+{
+"from": "HAC-PER-0063",
+"kind": "regione",
+"to": "HAC-REG-kristiansand"
+},
+{
+"from": "HAC-PER-0064",
+"kind": "invenzione",
+"to": "HAC-INV-0082"
+},
+{
+"from": "HAC-PER-0064",
+"kind": "regione",
+"to": "HAC-REG-kristiansand"
+},
+{
+"from": "HAC-PER-0065",
+"kind": "invenzione",
+"to": "HAC-INV-0082"
+},
+{
+"from": "HAC-PER-0065",
+"kind": "regione",
+"to": "HAC-REG-kristiansand"
+},
+{
+"from": "HAC-PER-0066",
+"kind": "invenzione",
+"to": "HAC-INV-0082"
+},
+{
+"from": "HAC-PER-0066",
+"kind": "regione",
+"to": "HAC-REG-kristiansand"
+},
+{
+"from": "HAC-PER-0067",
+"kind": "invenzione",
+"to": "HAC-INV-0082"
+},
+{
+"from": "HAC-PER-0067",
+"kind": "regione",
+"to": "HAC-REG-kristiansand"
+},
+{
+"from": "HAC-PER-0068",
+"kind": "invenzione",
+"to": "HAC-INV-0082"
+},
+{
+"from": "HAC-PER-0068",
+"kind": "regione",
+"to": "HAC-REG-kristiansand"
+},
+{
+"from": "HAC-PER-0069",
+"kind": "invenzione",
+"to": "HAC-INV-0082"
+},
+{
+"from": "HAC-PER-0069",
+"kind": "regione",
+"to": "HAC-REG-kristiansand"
+},
+{
+"from": "HAC-PER-0009",
+"kind": "parent",
+"to": "HAC-PER-0070"
+},
+{
+"from": "HAC-PER-0070",
+"kind": "invenzione",
+"to": "HAC-INV-0001"
+},
+{
+"from": "HAC-PER-0070",
 "kind": "regione",
 "to": "HAC-REG-tallinn"
 },
@@ -7406,6 +7531,11 @@
 "to": "STE-INV-0010"
 },
 {
+"from": "STE-SEM-0003",
+"kind": "cluster",
+"to": "STE-INV-0021"
+},
+{
 "from": "CYB-FAT-34885804207-1",
 "kind": "soggetto",
 "to": "CYB-INV-0015"
@@ -11367,6 +11497,18 @@
 "universo": "hackverse"
 },
 {
+"id": "HAC-INV-0098",
+"tipo": "invenzione",
+"titolo": "Le Prove Che Cantano",
+"universo": "hackverse"
+},
+{
+"id": "HAC-INV-0099",
+"tipo": "invenzione",
+"titolo": "Il Turno Che Non Finisce",
+"universo": "hackverse"
+},
+{
 "id": "HAC-PER-0001",
 "tipo": "personaggio",
 "titolo": "Misaki Ikaguchi",
@@ -11718,6 +11860,78 @@
 "id": "HAC-PER-0059",
 "tipo": "personaggio",
 "titolo": "Dmitri Arrizabal",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0060",
+"tipo": "personaggio",
+"titolo": "Ingrid Halsson",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0061",
+"tipo": "personaggio",
+"titolo": "Fatma Dokumacı",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0062",
+"tipo": "personaggio",
+"titolo": "Pernille Jeger",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0063",
+"tipo": "personaggio",
+"titolo": "Freja Strömvidottir",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0064",
+"tipo": "personaggio",
+"titolo": "Rolf Bervistrand",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0065",
+"tipo": "personaggio",
+"titolo": "Hilde Norvilequist",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0066",
+"tipo": "personaggio",
+"titolo": "Yusuf Taşdesoy",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0067",
+"tipo": "personaggio",
+"titolo": "Vilde Engdottir",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0068",
+"tipo": "personaggio",
+"titolo": "Johanna Skräddare",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0069",
+"tipo": "personaggio",
+"titolo": "Sven Bersemaström",
+"universo": "hackverse"
+},
+{
+"id": "HAC-PER-0070",
+"tipo": "personaggio",
+"titolo": "Marek Sivenko",
+"universo": "hackverse"
+},
+{
+"id": "HAC-REG-kristiansand",
+"tipo": "regione",
+"titolo": "Kristiansand",
 "universo": "hackverse"
 },
 {
@@ -14664,6 +14878,12 @@
 "id": "STE-SEM-0002",
 "tipo": "seme",
 "titolo": "seme STE-INV-0010",
+"universo": "steamverse"
+},
+{
+"id": "STE-SEM-0003",
+"tipo": "seme",
+"titolo": "seme STE-INV-0021",
 "universo": "steamverse"
 }
 ]
