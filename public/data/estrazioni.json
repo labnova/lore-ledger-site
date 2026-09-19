@@ -5587,5 +5587,64 @@
 "STE-PER-0058"
 ],
 "universo": "steamverse"
+},
+{
+"ambientazione": "citta-reale-decennio",
+"campi_forzati": [],
+"canone_pescato": [
+"HAC-INV-0095",
+"HAC-PER-0037"
+],
+"chiavi": {
+"invenzione_id": "HAC-INV-0095",
+"n_prod": 3,
+"personaggio_id": "HAC-PER-0037",
+"universo": "hackverse"
+},
+"citta": "Rotterdam",
+"created": "2026-09-19",
+"entita": {
+"anomalia": {
+"descrizione": "Il bug di seme condiviso tra i data-logger di temperatura dei container Kryo e le app di dadi truccati usate nei tornei clandestini di banchina, stesso microcontrollore, stesso seme pseudo-casuale legato all'orario di avvio, stessa sequenza prevedibile.",
+"nome": "TICK0"
+},
+"attore": {
+"descrizione": "Broker di banchina che smista carichi reefer fuori manifesto, firmware ricondizionato, dadi truccati per i tornei clandestini, partite di farmaci refrigerati rietichettati.",
+"nome": "Dries Okonkwo"
+},
+"ente": {
+"descrizione": "Fondazione di certificazione che audita la continuità del freddo nei container reefer del porto di Rotterdam, emettendo il bollino che permette lo sdoganamento rapido.",
+"nome": "Stichting Koudeketen Rotterdam"
+},
+"luogo": {
+"descrizione": "Il porto più grande d'Europa smista container, turni di banchina e manifesti doganali ventiquattr'ore su ventiquattro; nessun ceppo prevale perché la manodopera arriva da ogni rotta commerciale, e chi diventa corriere qui porta il cognome della città da cui è partito, non di quella in cui ha attraccato.",
+"nome": "Rotterdam"
+}
+},
+"esito": "ok",
+"espansioni": [],
+"estrazione": 139,
+"estrazione_madre": 116,
+"forzata": false,
+"lotto": "lotto-gadget",
+"modello": "claude-sonnet-5",
+"prod": [
+"HAC-GAD-0014",
+"HAC-GAD-0017",
+"HAC-GAD-0019"
+],
+"righe_prodotte": [
+"HAC-GAD-0014",
+"HAC-GAD-0015",
+"HAC-GAD-0016",
+"HAC-GAD-0017",
+"HAC-GAD-0018",
+"HAC-GAD-0019",
+"HAC-GAD-0020",
+"HAC-GAD-0021",
+"HAC-GAD-0022",
+"HAC-GAD-0023"
+],
+"universo": "hackverse"
 }
 ]

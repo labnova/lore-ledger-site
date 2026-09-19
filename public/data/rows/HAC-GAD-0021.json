@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Bogdan deve rivolgersi sempre allo stesso fornitore ogni volta che un logger va ricalibrato, pagando il prezzo che il monopolista decide.",
+"chi_paga": "l-inventore-originario",
+"cosa": "Connettore proprietario per la porta di calibrazione dei logger Stichting, prodotto da un solo fornitore di Rotterdam che ne detiene lo stampo.",
+"created": "2026-09-19",
+"entita_usate": [
+"Stichting Koudeketen Rotterdam"
+],
+"epoca_relativa": 0,
+"estrazione": 139,
+"fatti": [],
+"gancio": "Il tecnico che aveva ideato il connettore per renderlo compatibile con qualunque officina del porto oggi non riesce più a ripararne uno con le proprie mani.",
+"id": "HAC-GAD-0021",
+"invenzione_id": "HAC-INV-0095",
+"media": [],
+"nome": "Il Pezzo Unico",
+"oggetto": "Connettore proprietario per ricalibrare i logger reefer, prodotto da un solo fornitore che ne detiene lo stampo originale.",
+"parent_id": null,
+"personaggio_id": "HAC-PER-0037",
+"prod": false,
+"regione": "Singapore",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "monopolio",
+"tradimento_tech": "Il fornitore ha modificato leggermente lo stampo originale per rendere incompatibili i vecchi connettori, cancellando il lavoro del tecnico che aveva progettato il sistema per essere universale.",
+"universo": "hackverse"
+}

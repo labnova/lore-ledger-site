@@ -115,7 +115,7 @@
 "ha_prosa": false,
 "nome": "Qattoum",
 "prima_apparizione": 68,
-"ricorrenze": 36,
+"ricorrenze": 38,
 "slug": "qattoum",
 "sopra_soglia": true,
 "tipo": "luogo",
@@ -346,6 +346,20 @@
 "slug": "lo-sfarfallio-delle-nove",
 "sopra_soglia": true,
 "tipo": "anomalia",
+"universo": "steamverse"
+},
+{
+"alias": [
+"STE-REG-alkervoy"
+],
+"descrizione": "Crocevia sui ghiacci dove tre rotte fluviali si incrociano prima di diramarsi verso le città della catena del freddo; qui gli esploratori di ogni ceppo si fermano a confrontare le proprie tavole di marea prima di ripartire, e nessuna stirpe vi è mai rimasta abbastanza a lungo da imporre i propri nomi; quasi un cognome su due nasce ancora dal mestiere di chi lo porta.",
+"ha_prosa": false,
+"nome": "Alkervoy",
+"prima_apparizione": 138,
+"ricorrenze": 12,
+"slug": "alkervoy",
+"sopra_soglia": true,
+"tipo": "luogo",
 "universo": "steamverse"
 },
 {

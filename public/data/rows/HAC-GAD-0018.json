@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Bogdan ne conserva uno funzionante in ufficio e lo presta ai tecnici di banchina che vogliono leggere un carico senza lasciare traccia nel sistema.",
+"chi_paga": "la-comunita",
+"cosa": "Vecchio modello di data-logger reefer, l'ultimo con la porta seriale esposta invece del solo bluetooth gestito dall'app della Stichting.",
+"created": "2026-09-19",
+"entita_usate": [
+"Stichting Koudeketen Rotterdam"
+],
+"epoca_relativa": 0,
+"estrazione": 139,
+"fatti": [],
+"gancio": "I tecnici di banchina si passano il logger muto di turno in turno, come un attrezzo comune, perché è l'unico modo rimasto per leggere un container senza chiedere il permesso a nessuno.",
+"id": "HAC-GAD-0018",
+"invenzione_id": "HAC-INV-0095",
+"media": [],
+"nome": "Il Logger Muto",
+"oggetto": "Vecchio modello di data-logger reefer con porta seriale esposta, ormai fuori produzione.",
+"parent_id": null,
+"personaggio_id": "HAC-PER-0037",
+"prod": false,
+"regione": "Singapore",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "versione-precedente",
+"tradimento_tech": "La porta seriale del vecchio logger legge gli stessi dati del laatstelog senza passare dal server della Stichting, così chi lo prende in prestito scopre discrepanze che l'app ufficiale nasconde.",
+"universo": "hackverse"
+}

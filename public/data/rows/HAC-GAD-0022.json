@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Bogdan ne ha visto passare uno in un retrobottega e ora lo cerca, convinto sia l'unica prova che la Stichting sapeva del bug da mesi.",
+"chi_paga": "nessuno-apparentemente",
+"cosa": "Prototipo trapelato del prossimo logger della Stichting, in circolazione sul mercato nero del porto mesi prima del lancio ufficiale.",
+"created": "2026-09-19",
+"entita_usate": [
+"Stichting Koudeketen Rotterdam",
+"TICK0"
+],
+"epoca_relativa": 0,
+"estrazione": 139,
+"fatti": [],
+"gancio": "In un retrobottega vicino al molo qualcuno vende già il \"logger del futuro\" a chi sa cosa chiedere, mentre l'azienda giura in pubblico che il progetto è ancora in fase di test.",
+"id": "HAC-GAD-0022",
+"invenzione_id": "HAC-INV-0095",
+"media": [],
+"nome": "Il Prototipo TICK1",
+"oggetto": "Prototipo trapelato del logger che dovrebbe sostituire i moduli affetti da TICK0, circolante mesi prima del lancio ufficiale.",
+"parent_id": null,
+"personaggio_id": "HAC-PER-0037",
+"prod": false,
+"regione": "Singapore",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "versione-futura-trapelata",
+"tradimento_tech": "Il prototipo corregge il seme prevedibile solo nei log ufficiali, ma nella build trapelata resta un canale di debug che permette di leggere ancora i vecchi container con TICK0.",
+"universo": "hackverse"
+}

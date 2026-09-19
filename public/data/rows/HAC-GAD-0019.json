@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Bogdan ne ha confiscato uno durante un controllo casuale e lo porta ancora in tasca, come esempio di quanto sia facile ingannare un audit visivo.",
+"chi_paga": "il-costruttore",
+"cosa": "Cilindro di cera colorata modellato a mano per sembrare identico al modulo di temperatura originale della Stichting.",
+"created": "2026-09-19",
+"entita_usate": [
+"Stichting Koudeketen Rotterdam"
+],
+"epoca_relativa": 0,
+"estrazione": 139,
+"fatti": [],
+"gancio": "Il fornitore che stampa questi sensori di cera per chi non può pagare il ricambio originale finisce lui stesso rovinato quando un cliente scopre il trucco e lo denuncia alla Stichting.",
+"id": "HAC-GAD-0019",
+"invenzione_id": "HAC-INV-0095",
+"media": [],
+"nome": "Il Sensore di Cera",
+"oggetto": "Sensore di temperatura fasullo in cera colorata, modellato per imitare il modulo originale della Stichting.",
+"parent_id": null,
+"personaggio_id": "HAC-PER-0037",
+"prod": true,
+"regione": "Singapore",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "sostituto-povero",
+"tradimento_tech": "Il cilindro di cera imita solo l'aspetto esterno del modulo della Stichting, dentro non c'è nessun sensore, e chi lo installa scopre il trucco solo quando il carico marcisce.",
+"universo": "hackverse"
+}

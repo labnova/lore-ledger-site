@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Bogdan ne ha una intera cassetta in ufficio, confiscate durante un controllo, che tiene come prova di quanto valgano davvero i sigilli della cooperativa ittica.",
+"chi_paga": "l-ambiente-gli-animali",
+"cosa": "Graffa ricavata dal guscio riciclato di un logger reefer sabotato, fissata alle casse di pesce come sigillo di controllo qualità.",
+"created": "2026-09-19",
+"entita_usate": [
+"Dries Okonkwo",
+"TICK0"
+],
+"epoca_relativa": 0,
+"estrazione": 139,
+"fatti": [],
+"gancio": "Le casse escono dal porto con la graffa verde intatta e il pesce già marcio dentro, e nessuno se ne accorge finché non arriva al banco del mercato.",
+"id": "HAC-GAD-0016",
+"invenzione_id": "HAC-INV-0095",
+"media": [],
+"nome": "La Graffa della Cooperativa",
+"oggetto": "Graffa ricavata dal guscio di un logger reefer, fissata alle casse di pesce della cooperativa come sigillo di garanzia.",
+"parent_id": null,
+"personaggio_id": "HAC-PER-0037",
+"prod": false,
+"regione": "Singapore",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "sabotaggio",
+"tradimento_tech": "Dries Okonkwo ha fatto tarare la graffa sullo stesso seme prevedibile di TICK0, così segnala sempre temperatura corretta anche quando la cella si guasta davvero.",
+"universo": "hackverse"
+}

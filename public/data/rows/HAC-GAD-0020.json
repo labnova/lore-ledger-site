@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Bogdan l'ha ereditata da un contatto che gli doveva un favore, con la clausola di non aprirla mai davanti a testimoni.",
+"chi_paga": "l-utente-ultimo",
+"cosa": "Scatola di metallo dove Dries Okonkwo conservava i logger recuperati dai container \"caduti dal manifesto\", passata di mano in mano nel porto.",
+"created": "2026-09-19",
+"entita_usate": [
+"Dries Okonkwo"
+],
+"epoca_relativa": 0,
+"estrazione": 139,
+"fatti": [],
+"gancio": "Bogdan la tiene chiusa in un armadietto, sapendo che il giorno in cui qualcuno gliela chiederà indietro sarà lui a dover spiegare perché l'ha aperta.",
+"id": "HAC-GAD-0020",
+"invenzione_id": "HAC-INV-0095",
+"media": [],
+"nome": "La Scatola di Dries",
+"oggetto": "Scatola di metallo con logger reefer recuperati, tramandata con la clausola di non aprirla mai davanti a testimoni.",
+"parent_id": null,
+"personaggio_id": "HAC-PER-0037",
+"prod": false,
+"regione": "Singapore",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "eredita-lascito",
+"tradimento_tech": "Dentro la scatola i logger continuano a trasmettere dati sui vecchi container, e chiunque la tenga in casa diventa automaticamente l'ultimo nodo tracciabile di spedizioni mai esistite sulla carta.",
+"universo": "hackverse"
+}

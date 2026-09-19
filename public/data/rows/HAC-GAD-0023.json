@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Bogdan lo riconosce a colpo d'occhio sui documenti che gli passano davanti e sa che dietro quel sigillo c'è sempre lo stesso problema mai nominato.",
+"chi_paga": "l-istituzione",
+"cosa": "Francobollo di ceralacca che i doganieri applicano sui fascicoli che menzionano TICK0, sostituendo il riferimento scritto con un simbolo neutro.",
+"created": "2026-09-19",
+"entita_usate": [
+"Stichting Koudeketen Rotterdam",
+"TICK0"
+],
+"epoca_relativa": 0,
+"estrazione": 139,
+"fatti": [],
+"gancio": "Ogni volta che un funzionario prova a scrivere per esteso cosa significhi il sigillo, il fascicolo torna indietro corretto, e la Stichting resta prigioniera del proprio stesso segreto.",
+"id": "HAC-GAD-0023",
+"invenzione_id": "HAC-INV-0095",
+"media": [],
+"nome": "Il Sigillo Senza Nome",
+"oggetto": "Sigillo di ceralacca usato per sostituire ogni riferimento scritto a TICK0 nei fascicoli doganali.",
+"parent_id": null,
+"personaggio_id": "HAC-PER-0037",
+"prod": false,
+"regione": "Singapore",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "censura",
+"tradimento_tech": "Il sigillo esiste perché la Stichting non può ammettere per iscritto che i suoi logger condividono lo stesso bug di seme delle app di dadi truccati; il simbolo la rende riconoscibile proprio a chi sa leggerlo.",
+"universo": "hackverse"
+}

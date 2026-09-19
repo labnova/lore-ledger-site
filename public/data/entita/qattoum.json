@@ -5,7 +5,7 @@
 ],
 "descrizione": "Porto di delta dove il fiume si divide in tre bracci salmastri; la gilda degli ingegneri del freddo costruisce e mantiene qui le chiatte refrigerate che risalgono la corrente fino alle città dell'interno, e quasi metà dei cognomi nasce ancora dal mestiere di chi ripara gli scafi.",
 "ha_prosa": false,
-"n_ricorrenze": 36,
+"n_ricorrenze": 38,
 "nome": "Qattoum",
 "prima_apparizione": 68,
 "prosa": null,
@@ -334,6 +334,24 @@
 "riga_id": "STE-INV-0071",
 "riga_tipo": "invenzione",
 "riga_titolo": "Il Distributore delle Nove"
+},
+{
+"estrazione": 138,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0057",
+"riga_tipo": "personaggio",
+"riga_titolo": "Tariq Nassar"
+},
+{
+"estrazione": 138,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0058",
+"riga_tipo": "personaggio",
+"riga_titolo": "Rashid Isa"
 }
 ],
 "righe": [
@@ -486,6 +504,16 @@
 "id": "STE-PER-0033",
 "tipo": "personaggio",
 "titolo": "Fatima al-Rashidi"
+},
+{
+"id": "STE-PER-0057",
+"tipo": "personaggio",
+"titolo": "Tariq Nassar"
+},
+{
+"id": "STE-PER-0058",
+"tipo": "personaggio",
+"titolo": "Rashid Isa"
 },
 {
 "id": "STE-REG-qattoum",

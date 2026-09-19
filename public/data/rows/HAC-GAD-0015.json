@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Bogdan la esegue anche a distanza, davanti al monitor, ogni volta che apre da remoto il registro di un container che sta per ispezionare.",
+"chi_paga": "il-futuro",
+"cosa": "Sequenza di tre inchini verso il molo, eseguita toccando ogni volta lo stesso punto del proprio badge, prima di aprire un container reefer.",
+"created": "2026-09-19",
+"entita_usate": [
+"Rotterdam"
+],
+"epoca_relativa": 0,
+"estrazione": 139,
+"fatti": [],
+"gancio": "I magazzinieri più giovani di Rotterdam imitano il gesto di Bogdan senza sapere da dove viene, e tra vent'anni qualcuno lo insegnerà come buona prassi in un manuale che nessuno ha mai scritto.",
+"id": "HAC-GAD-0015",
+"invenzione_id": "HAC-INV-0095",
+"media": [],
+"nome": "La Genuflessione del Container",
+"oggetto": "Rituale di tre inchini e un tocco al badge, eseguito prima di aprire qualunque container reefer o il suo registro digitale.",
+"parent_id": null,
+"personaggio_id": "HAC-PER-0037",
+"prod": false,
+"regione": "Singapore",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "rito",
+"tradimento_tech": "Il gesto nasce dal protocollo reale con cui i magazzinieri di Rotterdam sincronizzavano manualmente i logger prima che diventassero automatici; ora la sincronizzazione non serve più a nulla, ma il rito resta, e nessuno sa che i logger di oggi si sincronizzano da soli con lo stesso seme prevedibile di TICK0.",
+"universo": "hackverse"
+}

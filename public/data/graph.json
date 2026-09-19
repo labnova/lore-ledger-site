@@ -5716,6 +5716,156 @@
 "to": "HAC-REG-kristiansand"
 },
 {
+"from": "HAC-GAD-0014",
+"kind": "invenzione",
+"to": "HAC-INV-0095"
+},
+{
+"from": "HAC-GAD-0014",
+"kind": "personaggio",
+"to": "HAC-PER-0037"
+},
+{
+"from": "HAC-GAD-0014",
+"kind": "regione",
+"to": "HAC-REG-singapore"
+},
+{
+"from": "HAC-GAD-0015",
+"kind": "invenzione",
+"to": "HAC-INV-0095"
+},
+{
+"from": "HAC-GAD-0015",
+"kind": "personaggio",
+"to": "HAC-PER-0037"
+},
+{
+"from": "HAC-GAD-0015",
+"kind": "regione",
+"to": "HAC-REG-singapore"
+},
+{
+"from": "HAC-GAD-0016",
+"kind": "invenzione",
+"to": "HAC-INV-0095"
+},
+{
+"from": "HAC-GAD-0016",
+"kind": "personaggio",
+"to": "HAC-PER-0037"
+},
+{
+"from": "HAC-GAD-0016",
+"kind": "regione",
+"to": "HAC-REG-singapore"
+},
+{
+"from": "HAC-GAD-0017",
+"kind": "invenzione",
+"to": "HAC-INV-0095"
+},
+{
+"from": "HAC-GAD-0017",
+"kind": "personaggio",
+"to": "HAC-PER-0037"
+},
+{
+"from": "HAC-GAD-0017",
+"kind": "regione",
+"to": "HAC-REG-singapore"
+},
+{
+"from": "HAC-GAD-0018",
+"kind": "invenzione",
+"to": "HAC-INV-0095"
+},
+{
+"from": "HAC-GAD-0018",
+"kind": "personaggio",
+"to": "HAC-PER-0037"
+},
+{
+"from": "HAC-GAD-0018",
+"kind": "regione",
+"to": "HAC-REG-singapore"
+},
+{
+"from": "HAC-GAD-0019",
+"kind": "invenzione",
+"to": "HAC-INV-0095"
+},
+{
+"from": "HAC-GAD-0019",
+"kind": "personaggio",
+"to": "HAC-PER-0037"
+},
+{
+"from": "HAC-GAD-0019",
+"kind": "regione",
+"to": "HAC-REG-singapore"
+},
+{
+"from": "HAC-GAD-0020",
+"kind": "invenzione",
+"to": "HAC-INV-0095"
+},
+{
+"from": "HAC-GAD-0020",
+"kind": "personaggio",
+"to": "HAC-PER-0037"
+},
+{
+"from": "HAC-GAD-0020",
+"kind": "regione",
+"to": "HAC-REG-singapore"
+},
+{
+"from": "HAC-GAD-0021",
+"kind": "invenzione",
+"to": "HAC-INV-0095"
+},
+{
+"from": "HAC-GAD-0021",
+"kind": "personaggio",
+"to": "HAC-PER-0037"
+},
+{
+"from": "HAC-GAD-0021",
+"kind": "regione",
+"to": "HAC-REG-singapore"
+},
+{
+"from": "HAC-GAD-0022",
+"kind": "invenzione",
+"to": "HAC-INV-0095"
+},
+{
+"from": "HAC-GAD-0022",
+"kind": "personaggio",
+"to": "HAC-PER-0037"
+},
+{
+"from": "HAC-GAD-0022",
+"kind": "regione",
+"to": "HAC-REG-singapore"
+},
+{
+"from": "HAC-GAD-0023",
+"kind": "invenzione",
+"to": "HAC-INV-0095"
+},
+{
+"from": "HAC-GAD-0023",
+"kind": "personaggio",
+"to": "HAC-PER-0037"
+},
+{
+"from": "HAC-GAD-0023",
+"kind": "regione",
+"to": "HAC-REG-singapore"
+},
+{
 "from": "NEO-GAD-0001",
 "kind": "invenzione",
 "to": "NEO-INV-0011"
@@ -11346,6 +11496,66 @@
 "id": "HAC-GAD-0013",
 "tipo": "gadget",
 "titolo": "TaraFix",
+"universo": "hackverse"
+},
+{
+"id": "HAC-GAD-0014",
+"tipo": "gadget",
+"titolo": "Il Logger della Sorte",
+"universo": "hackverse"
+},
+{
+"id": "HAC-GAD-0015",
+"tipo": "gadget",
+"titolo": "La Genuflessione del Container",
+"universo": "hackverse"
+},
+{
+"id": "HAC-GAD-0016",
+"tipo": "gadget",
+"titolo": "La Graffa della Cooperativa",
+"universo": "hackverse"
+},
+{
+"id": "HAC-GAD-0017",
+"tipo": "gadget",
+"titolo": "L'Etichetta Scambiata",
+"universo": "hackverse"
+},
+{
+"id": "HAC-GAD-0018",
+"tipo": "gadget",
+"titolo": "Il Logger Muto",
+"universo": "hackverse"
+},
+{
+"id": "HAC-GAD-0019",
+"tipo": "gadget",
+"titolo": "Il Sensore di Cera",
+"universo": "hackverse"
+},
+{
+"id": "HAC-GAD-0020",
+"tipo": "gadget",
+"titolo": "La Scatola di Dries",
+"universo": "hackverse"
+},
+{
+"id": "HAC-GAD-0021",
+"tipo": "gadget",
+"titolo": "Il Pezzo Unico",
+"universo": "hackverse"
+},
+{
+"id": "HAC-GAD-0022",
+"tipo": "gadget",
+"titolo": "Il Prototipo TICK1",
+"universo": "hackverse"
+},
+{
+"id": "HAC-GAD-0023",
+"tipo": "gadget",
+"titolo": "Il Sigillo Senza Nome",
 "universo": "hackverse"
 },
 {

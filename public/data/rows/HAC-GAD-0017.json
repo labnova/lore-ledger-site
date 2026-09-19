@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Bogdan la tiene infilata nel taccuino, prova fisica di quanto poco valgano gli audit trail della Stichting quando li controlla lui stesso.",
+"chi_paga": "un-terzo-ignaro",
+"cosa": "Etichetta adesiva con il codice a barre del logger laatstelog, finita per errore di stampa su una scatola di ricambi per biciclette.",
+"created": "2026-09-19",
+"entita_usate": [
+"Stichting Koudeketen Rotterdam",
+"TICK0"
+],
+"epoca_relativa": 0,
+"estrazione": 139,
+"fatti": [],
+"gancio": "A Delft un rivenditore di biciclette apre una scatola aspettandosi freni e trova un modulo di refrigerazione bruciato, con l'etichetta della Stichting ancora attaccata sopra.",
+"id": "HAC-GAD-0017",
+"invenzione_id": "HAC-INV-0095",
+"media": [],
+"nome": "L'Etichetta Scambiata",
+"oggetto": "Etichetta adesiva con codice a barre duplicato dal logger laatstelog, finita per errore su una scatola di ricambi per biciclette.",
+"parent_id": null,
+"personaggio_id": "HAC-PER-0037",
+"prod": true,
+"regione": "Singapore",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "errore-di-etichetta",
+"tradimento_tech": "Il codice a barre duplicato è generato dallo stesso seme difettoso di TICK0, quindi l'errore di stampa non è casuale ma ereditato dal bug del container compromesso.",
+"universo": "hackverse"
+}

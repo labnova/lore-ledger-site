@@ -1,0 +1,184 @@
+{
+"aggiornata": "2026-09-19",
+"alias": [
+"STE-REG-alkervoy"
+],
+"descrizione": "Crocevia sui ghiacci dove tre rotte fluviali si incrociano prima di diramarsi verso le città della catena del freddo; qui gli esploratori di ogni ceppo si fermano a confrontare le proprie tavole di marea prima di ripartire, e nessuna stirpe vi è mai rimasta abbastanza a lungo da imporre i propri nomi; quasi un cognome su due nasce ancora dal mestiere di chi lo porta.",
+"ha_prosa": false,
+"n_ricorrenze": 12,
+"nome": "Alkervoy",
+"prima_apparizione": 138,
+"prosa": null,
+"racconti": [],
+"ricorrenze": [
+{
+"estrazione": 138,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 138,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0047",
+"riga_tipo": "personaggio",
+"riga_titolo": "Unai Larrakozagaray"
+},
+{
+"estrazione": 138,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0048",
+"riga_tipo": "personaggio",
+"riga_titolo": "Amina Haddad"
+},
+{
+"estrazione": 138,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0049",
+"riga_tipo": "personaggio",
+"riga_titolo": "Makoto Panya"
+},
+{
+"estrazione": 138,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0050",
+"riga_tipo": "personaggio",
+"riga_titolo": "Kito Mkokoteni"
+},
+{
+"estrazione": 138,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0051",
+"riga_tipo": "personaggio",
+"riga_titolo": "Emre Değirmenci"
+},
+{
+"estrazione": 138,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0052",
+"riga_tipo": "personaggio",
+"riga_titolo": "Thomas Zimmermann"
+},
+{
+"estrazione": 138,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0053",
+"riga_tipo": "personaggio",
+"riga_titolo": "Yuto Dawi"
+},
+{
+"estrazione": 138,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0054",
+"riga_tipo": "personaggio",
+"riga_titolo": "Jelena Vlasaev"
+},
+{
+"estrazione": 138,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0055",
+"riga_tipo": "personaggio",
+"riga_titolo": "István Kovács"
+},
+{
+"estrazione": 138,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-PER-0056",
+"riga_tipo": "personaggio",
+"riga_titolo": "Kjell Hallund"
+},
+{
+"estrazione": 138,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-REG-alkervoy",
+"riga_tipo": "regione",
+"riga_titolo": "Alkervoy"
+}
+],
+"righe": [
+{
+"id": "STE-PER-0047",
+"tipo": "personaggio",
+"titolo": "Unai Larrakozagaray"
+},
+{
+"id": "STE-PER-0048",
+"tipo": "personaggio",
+"titolo": "Amina Haddad"
+},
+{
+"id": "STE-PER-0049",
+"tipo": "personaggio",
+"titolo": "Makoto Panya"
+},
+{
+"id": "STE-PER-0050",
+"tipo": "personaggio",
+"titolo": "Kito Mkokoteni"
+},
+{
+"id": "STE-PER-0051",
+"tipo": "personaggio",
+"titolo": "Emre Değirmenci"
+},
+{
+"id": "STE-PER-0052",
+"tipo": "personaggio",
+"titolo": "Thomas Zimmermann"
+},
+{
+"id": "STE-PER-0053",
+"tipo": "personaggio",
+"titolo": "Yuto Dawi"
+},
+{
+"id": "STE-PER-0054",
+"tipo": "personaggio",
+"titolo": "Jelena Vlasaev"
+},
+{
+"id": "STE-PER-0055",
+"tipo": "personaggio",
+"titolo": "István Kovács"
+},
+{
+"id": "STE-PER-0056",
+"tipo": "personaggio",
+"titolo": "Kjell Hallund"
+},
+{
+"id": "STE-REG-alkervoy",
+"tipo": "regione",
+"titolo": "Alkervoy"
+}
+],
+"slug": "alkervoy",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "steamverse"
+}

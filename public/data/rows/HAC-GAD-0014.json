@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_lo_porta": "Bogdan lo tiene chiuso in un cassetto dell'ufficio e lo apre solo quando due broker litigano su chi debba prendere in carico un lotto sospetto, perché a quel punto si estrae un dado e non si discute più.",
+"chi_paga": "l-istituzione",
+"cosa": "Alloggiamento di un data-logger reefer, svuotato dell'elettronica originale e riempito con dadi da torneo clandestino incastrati nella resina.",
+"created": "2026-09-19",
+"entita_usate": [
+"Stichting Koudeketen Rotterdam"
+],
+"epoca_relativa": 0,
+"estrazione": 139,
+"fatti": [],
+"gancio": "Quando l'ufficio di Bogdan deve decidere chi si prende la responsabilità di un container \"caldo\" e nessuno alza la mano, si scuote il guscio e la sorte, truccata da anni senza che nessuno lo sappia, sceglie per loro.",
+"id": "HAC-GAD-0014",
+"invenzione_id": "HAC-INV-0095",
+"media": [],
+"nome": "Il Logger della Sorte",
+"oggetto": "Guscio di logger reefer svuotato, riempito di dadi da torneo e usato come urna per estrazioni informali tra broker.",
+"parent_id": null,
+"personaggio_id": "HAC-PER-0037",
+"prod": true,
+"regione": "Singapore",
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "sorte",
+"tradimento_tech": "Il guscio grigio con il logo della Stichting fa credere che la decisione sia certificata e tracciabile, ma dentro non c'è alcun sensore, solo dadi truccati con lo stesso seme di TICK0.",
+"universo": "hackverse"
+}
