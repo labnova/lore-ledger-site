@@ -7426,6 +7426,11 @@
 "to": "CYB-INV-0093"
 },
 {
+"from": "CYB-CON-0004",
+"kind": "sorgente",
+"to": "CYB-INV-0074"
+},
+{
 "from": "ELA-CON-0001",
 "kind": "sorgente",
 "to": "ELA-INV-0002"
@@ -8058,6 +8063,12 @@
 "id": "CYB-CON-0003",
 "tipo": "contenuto",
 "titolo": "Podcast \"Il Bollino Quasi Vero\": il copione dietro la puntata",
+"universo": "cyberverse"
+},
+{
+"id": "CYB-CON-0004",
+"tipo": "contenuto",
+"titolo": "astrometro-di-quartiere: \"come leggersi una lettura bollinata senza farsi fregare (thread)\"",
 "universo": "cyberverse"
 },
 {

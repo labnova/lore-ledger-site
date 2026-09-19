@@ -439,6 +439,20 @@
 },
 {
 "appare_in": [],
+"chiavi": "testo_breve · tumblr · thread_5",
+"created": "2026-09-19",
+"estrazione": 134,
+"id": "CYB-CON-0004",
+"parent_id": null,
+"regione": null,
+"relazione": null,
+"sommario": "astrometro-di-quartiere: \"come leggersi una lettura bollinata senza farsi fregare (thread)\"",
+"tipo": "contenuto",
+"titolo": "astrometro-di-quartiere: \"come leggersi una lettura bollinata senza farsi fregare (thread)\"",
+"universo": "cyberverse"
+},
+{
+"appare_in": [],
 "cluster": "STE-INV-0021",
 "created": "2026-09-18",
 "estrazione": 130,

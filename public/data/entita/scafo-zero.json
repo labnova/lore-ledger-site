@@ -1,11 +1,11 @@
 {
-"aggiornata": "2026-09-18",
+"aggiornata": "2026-09-19",
 "alias": [
 "ELA-REG-scafo-zero"
 ],
 "descrizione": "Uno scafo agganciato al convoglio senza mai essere stato registrato in nessun rollo d'imbarco; chi ci vive è arrivato da ogni ceppo e ha perso o rinnegato il cognome di città, così i nomi si mescolano liberamente e nessuno controlla più chi appartiene a chi.",
 "ha_prosa": false,
-"n_ricorrenze": 33,
+"n_ricorrenze": 43,
 "nome": "Scafo Zero",
 "prima_apparizione": 50,
 "prosa": null,
@@ -307,6 +307,96 @@
 "riga_id": "ELA-INV-0137",
 "riga_tipo": "invenzione",
 "riga_titolo": "Il Sorteggio dei Tre Rulli"
+},
+{
+"estrazione": 133,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0042",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Vetro Ambrato"
+},
+{
+"estrazione": 133,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0043",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Cuneo di Ceralacca"
+},
+{
+"estrazione": 133,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0044",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Cartiglio dei Due Lampi"
+},
+{
+"estrazione": 133,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0045",
+"riga_tipo": "gadget",
+"riga_titolo": "La Lente Incrinata"
+},
+{
+"estrazione": 133,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0046",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Grano di Conta"
+},
+{
+"estrazione": 133,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0047",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Sigillo di Resina"
+},
+{
+"estrazione": 133,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0048",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Campanello da Anello"
+},
+{
+"estrazione": 133,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0049",
+"riga_tipo": "gadget",
+"riga_titolo": "L'Olio di Segnale"
+},
+{
+"estrazione": 133,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0050",
+"riga_tipo": "gadget",
+"riga_titolo": "Lo Specchio Muto"
+},
+{
+"estrazione": 133,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "ELA-GAD-0051",
+"riga_tipo": "gadget",
+"riga_titolo": "La Lanterna di Scafo Zero"
 }
 ],
 "righe": [
@@ -364,6 +454,56 @@
 "id": "ELA-GAD-0041",
 "tipo": "gadget",
 "titolo": "La Punta di Ricambio"
+},
+{
+"id": "ELA-GAD-0042",
+"tipo": "gadget",
+"titolo": "Il Vetro Ambrato"
+},
+{
+"id": "ELA-GAD-0043",
+"tipo": "gadget",
+"titolo": "Il Cuneo di Ceralacca"
+},
+{
+"id": "ELA-GAD-0044",
+"tipo": "gadget",
+"titolo": "Il Cartiglio dei Due Lampi"
+},
+{
+"id": "ELA-GAD-0045",
+"tipo": "gadget",
+"titolo": "La Lente Incrinata"
+},
+{
+"id": "ELA-GAD-0046",
+"tipo": "gadget",
+"titolo": "Il Grano di Conta"
+},
+{
+"id": "ELA-GAD-0047",
+"tipo": "gadget",
+"titolo": "Il Sigillo di Resina"
+},
+{
+"id": "ELA-GAD-0048",
+"tipo": "gadget",
+"titolo": "Il Campanello da Anello"
+},
+{
+"id": "ELA-GAD-0049",
+"tipo": "gadget",
+"titolo": "L'Olio di Segnale"
+},
+{
+"id": "ELA-GAD-0050",
+"tipo": "gadget",
+"titolo": "Lo Specchio Muto"
+},
+{
+"id": "ELA-GAD-0051",
+"tipo": "gadget",
+"titolo": "La Lanterna di Scafo Zero"
 },
 {
 "id": "ELA-INV-0119",

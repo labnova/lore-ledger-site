@@ -35,7 +35,7 @@
 "ha_prosa": false,
 "nome": "Konya",
 "prima_apparizione": 8,
-"ricorrenze": 62,
+"ricorrenze": 63,
 "slug": "konya",
 "sopra_soglia": true,
 "tipo": "luogo",
@@ -66,6 +66,20 @@
 "sopra_soglia": true,
 "tipo": "luogo",
 "universo": "neofeudal"
+},
+{
+"alias": [
+"ELA-REG-scafo-zero"
+],
+"descrizione": "Uno scafo agganciato al convoglio senza mai essere stato registrato in nessun rollo d'imbarco; chi ci vive è arrivato da ogni ceppo e ha perso o rinnegato il cognome di città, così i nomi si mescolano liberamente e nessuno controlla più chi appartiene a chi.",
+"ha_prosa": false,
+"nome": "Scafo Zero",
+"prima_apparizione": 50,
+"ricorrenze": 43,
+"slug": "scafo-zero",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "elabverse"
 },
 {
 "alias": [
@@ -109,20 +123,6 @@
 "sopra_soglia": true,
 "tipo": "luogo",
 "universo": "steamverse"
-},
-{
-"alias": [
-"ELA-REG-scafo-zero"
-],
-"descrizione": "Uno scafo agganciato al convoglio senza mai essere stato registrato in nessun rollo d'imbarco; chi ci vive è arrivato da ogni ceppo e ha perso o rinnegato il cognome di città, così i nomi si mescolano liberamente e nessuno controlla più chi appartiene a chi.",
-"ha_prosa": false,
-"nome": "Scafo Zero",
-"prima_apparizione": 50,
-"ricorrenze": 33,
-"slug": "scafo-zero",
-"sopra_soglia": true,
-"tipo": "luogo",
-"universo": "elabverse"
 },
 {
 "alias": [],

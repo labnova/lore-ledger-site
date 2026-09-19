@@ -5388,5 +5388,29 @@
 "ELA-PER-0034"
 ],
 "universo": "elabverse"
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"CYB-INV-0074",
+"CYB-INV-0050"
+],
+"chiavi": {
+"canale": "tumblr",
+"formato": "thread_5",
+"medium": "testo_breve",
+"sorgente_id": "CYB-INV-0074",
+"veridicita": "in_universe"
+},
+"created": "2026-09-19",
+"esito": "ok",
+"estrazione": 134,
+"forzata": false,
+"lotto": "lotto-contenuti",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"CYB-CON-0004"
+],
+"universo": "cyberverse"
 }
 ]
