@@ -83,6 +83,20 @@
 },
 {
 "alias": [
+"HAC-REG-tallinn"
+],
+"descrizione": "Hub baltico dell'e-residency e dei registri digitali statali, attira broker di dati da ogni continente: nessun ceppo prevale, i cognomi restano quelli d'origine perché qui si arriva già adulti, con una identità digitale costruita altrove.",
+"ha_prosa": false,
+"nome": "Tallinn",
+"prima_apparizione": 32,
+"ricorrenze": 34,
+"slug": "tallinn",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "hackverse"
+},
+{
+"alias": [
 "STE-REG-cancello-del-freddo",
 "STE-REG-ledoskol"
 ],
@@ -109,20 +123,6 @@
 "sopra_soglia": true,
 "tipo": "luogo",
 "universo": "elabverse"
-},
-{
-"alias": [
-"HAC-REG-tallinn"
-],
-"descrizione": "Hub baltico dell'e-residency e dei registri digitali statali, attira broker di dati da ogni continente: nessun ceppo prevale, i cognomi restano quelli d'origine perché qui si arriva già adulti, con una identità digitale costruita altrove.",
-"ha_prosa": false,
-"nome": "Tallinn",
-"prima_apparizione": 32,
-"ricorrenze": 33,
-"slug": "tallinn",
-"sopra_soglia": true,
-"tipo": "luogo",
-"universo": "hackverse"
 },
 {
 "alias": [],
@@ -293,6 +293,20 @@
 "sopra_soglia": true,
 "tipo": "luogo",
 "universo": "neofeudal"
+},
+{
+"alias": [
+"HAC-REG-kristiansand"
+],
+"descrizione": "Capolinea del traghetto per la Danimarca e sede storica della dogana regionale sulla costa sud della Norvegia, dove le famiglie che presidiano il varco non cambiano da generazioni, il ceppo scandinavo resta dominante e un funzionario su tre porta ancora il cognome del mestiere che la sua famiglia svolgeva già al banco dei controlli.",
+"ha_prosa": false,
+"nome": "Kristiansand",
+"prima_apparizione": 132,
+"ricorrenze": 12,
+"slug": "kristiansand",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "hackverse"
 },
 {
 "alias": [

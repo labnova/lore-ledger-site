@@ -1,0 +1,184 @@
+{
+"aggiornata": "2026-09-19",
+"alias": [
+"HAC-REG-kristiansand"
+],
+"descrizione": "Capolinea del traghetto per la Danimarca e sede storica della dogana regionale sulla costa sud della Norvegia, dove le famiglie che presidiano il varco non cambiano da generazioni, il ceppo scandinavo resta dominante e un funzionario su tre porta ancora il cognome del mestiere che la sua famiglia svolgeva già al banco dei controlli.",
+"ha_prosa": false,
+"n_ricorrenze": 12,
+"nome": "Kristiansand",
+"prima_apparizione": 132,
+"prosa": null,
+"racconti": [],
+"ricorrenze": [
+{
+"estrazione": 132,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 132,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0060",
+"riga_tipo": "personaggio",
+"riga_titolo": "Ingrid Halsson"
+},
+{
+"estrazione": 132,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0061",
+"riga_tipo": "personaggio",
+"riga_titolo": "Fatma Dokumacı"
+},
+{
+"estrazione": 132,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0062",
+"riga_tipo": "personaggio",
+"riga_titolo": "Pernille Jeger"
+},
+{
+"estrazione": 132,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0063",
+"riga_tipo": "personaggio",
+"riga_titolo": "Freja Strömvidottir"
+},
+{
+"estrazione": 132,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0064",
+"riga_tipo": "personaggio",
+"riga_titolo": "Rolf Bervistrand"
+},
+{
+"estrazione": 132,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0065",
+"riga_tipo": "personaggio",
+"riga_titolo": "Hilde Norvilequist"
+},
+{
+"estrazione": 132,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0066",
+"riga_tipo": "personaggio",
+"riga_titolo": "Yusuf Taşdesoy"
+},
+{
+"estrazione": 132,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0067",
+"riga_tipo": "personaggio",
+"riga_titolo": "Vilde Engdottir"
+},
+{
+"estrazione": 132,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0068",
+"riga_tipo": "personaggio",
+"riga_titolo": "Johanna Skräddare"
+},
+{
+"estrazione": 132,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-PER-0069",
+"riga_tipo": "personaggio",
+"riga_titolo": "Sven Bersemaström"
+},
+{
+"estrazione": 132,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-REG-kristiansand",
+"riga_tipo": "regione",
+"riga_titolo": "Kristiansand"
+}
+],
+"righe": [
+{
+"id": "HAC-PER-0060",
+"tipo": "personaggio",
+"titolo": "Ingrid Halsson"
+},
+{
+"id": "HAC-PER-0061",
+"tipo": "personaggio",
+"titolo": "Fatma Dokumacı"
+},
+{
+"id": "HAC-PER-0062",
+"tipo": "personaggio",
+"titolo": "Pernille Jeger"
+},
+{
+"id": "HAC-PER-0063",
+"tipo": "personaggio",
+"titolo": "Freja Strömvidottir"
+},
+{
+"id": "HAC-PER-0064",
+"tipo": "personaggio",
+"titolo": "Rolf Bervistrand"
+},
+{
+"id": "HAC-PER-0065",
+"tipo": "personaggio",
+"titolo": "Hilde Norvilequist"
+},
+{
+"id": "HAC-PER-0066",
+"tipo": "personaggio",
+"titolo": "Yusuf Taşdesoy"
+},
+{
+"id": "HAC-PER-0067",
+"tipo": "personaggio",
+"titolo": "Vilde Engdottir"
+},
+{
+"id": "HAC-PER-0068",
+"tipo": "personaggio",
+"titolo": "Johanna Skräddare"
+},
+{
+"id": "HAC-PER-0069",
+"tipo": "personaggio",
+"titolo": "Sven Bersemaström"
+},
+{
+"id": "HAC-REG-kristiansand",
+"tipo": "regione",
+"titolo": "Kristiansand"
+}
+],
+"slug": "kristiansand",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "hackverse"
+}

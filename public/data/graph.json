@@ -241,6 +241,11 @@
 "to": "ELA-INV-0138"
 },
 {
+"from": "ELA-INV-0023",
+"kind": "parent",
+"to": "ELA-INV-0139"
+},
+{
 "from": "HAC-INV-0002",
 "kind": "parent",
 "to": "HAC-INV-0041"
@@ -1439,6 +1444,21 @@
 "from": "ELA-PER-0033",
 "kind": "regione",
 "to": "ELA-REG-scafo-zero"
+},
+{
+"from": "ELA-PER-0016",
+"kind": "parent",
+"to": "ELA-PER-0034"
+},
+{
+"from": "ELA-PER-0034",
+"kind": "invenzione",
+"to": "ELA-INV-0030"
+},
+{
+"from": "ELA-PER-0034",
+"kind": "regione",
+"to": "ELA-REG-konya"
 },
 {
 "from": "HAC-PER-0001",
@@ -5192,6 +5212,156 @@
 },
 {
 "from": "ELA-GAD-0041",
+"kind": "regione",
+"to": "ELA-REG-scafo-zero"
+},
+{
+"from": "ELA-GAD-0042",
+"kind": "invenzione",
+"to": "ELA-INV-0099"
+},
+{
+"from": "ELA-GAD-0042",
+"kind": "personaggio",
+"to": "ELA-PER-0031"
+},
+{
+"from": "ELA-GAD-0042",
+"kind": "regione",
+"to": "ELA-REG-scafo-zero"
+},
+{
+"from": "ELA-GAD-0043",
+"kind": "invenzione",
+"to": "ELA-INV-0099"
+},
+{
+"from": "ELA-GAD-0043",
+"kind": "personaggio",
+"to": "ELA-PER-0031"
+},
+{
+"from": "ELA-GAD-0043",
+"kind": "regione",
+"to": "ELA-REG-scafo-zero"
+},
+{
+"from": "ELA-GAD-0044",
+"kind": "invenzione",
+"to": "ELA-INV-0099"
+},
+{
+"from": "ELA-GAD-0044",
+"kind": "personaggio",
+"to": "ELA-PER-0031"
+},
+{
+"from": "ELA-GAD-0044",
+"kind": "regione",
+"to": "ELA-REG-scafo-zero"
+},
+{
+"from": "ELA-GAD-0045",
+"kind": "invenzione",
+"to": "ELA-INV-0099"
+},
+{
+"from": "ELA-GAD-0045",
+"kind": "personaggio",
+"to": "ELA-PER-0031"
+},
+{
+"from": "ELA-GAD-0045",
+"kind": "regione",
+"to": "ELA-REG-scafo-zero"
+},
+{
+"from": "ELA-GAD-0046",
+"kind": "invenzione",
+"to": "ELA-INV-0099"
+},
+{
+"from": "ELA-GAD-0046",
+"kind": "personaggio",
+"to": "ELA-PER-0031"
+},
+{
+"from": "ELA-GAD-0046",
+"kind": "regione",
+"to": "ELA-REG-scafo-zero"
+},
+{
+"from": "ELA-GAD-0047",
+"kind": "invenzione",
+"to": "ELA-INV-0099"
+},
+{
+"from": "ELA-GAD-0047",
+"kind": "personaggio",
+"to": "ELA-PER-0031"
+},
+{
+"from": "ELA-GAD-0047",
+"kind": "regione",
+"to": "ELA-REG-scafo-zero"
+},
+{
+"from": "ELA-GAD-0048",
+"kind": "invenzione",
+"to": "ELA-INV-0099"
+},
+{
+"from": "ELA-GAD-0048",
+"kind": "personaggio",
+"to": "ELA-PER-0031"
+},
+{
+"from": "ELA-GAD-0048",
+"kind": "regione",
+"to": "ELA-REG-scafo-zero"
+},
+{
+"from": "ELA-GAD-0049",
+"kind": "invenzione",
+"to": "ELA-INV-0099"
+},
+{
+"from": "ELA-GAD-0049",
+"kind": "personaggio",
+"to": "ELA-PER-0031"
+},
+{
+"from": "ELA-GAD-0049",
+"kind": "regione",
+"to": "ELA-REG-scafo-zero"
+},
+{
+"from": "ELA-GAD-0050",
+"kind": "invenzione",
+"to": "ELA-INV-0099"
+},
+{
+"from": "ELA-GAD-0050",
+"kind": "personaggio",
+"to": "ELA-PER-0031"
+},
+{
+"from": "ELA-GAD-0050",
+"kind": "regione",
+"to": "ELA-REG-scafo-zero"
+},
+{
+"from": "ELA-GAD-0051",
+"kind": "invenzione",
+"to": "ELA-INV-0099"
+},
+{
+"from": "ELA-GAD-0051",
+"kind": "personaggio",
+"to": "ELA-PER-0031"
+},
+{
+"from": "ELA-GAD-0051",
 "kind": "regione",
 "to": "ELA-REG-scafo-zero"
 },
@@ -9715,6 +9885,66 @@
 "universo": "elabverse"
 },
 {
+"id": "ELA-GAD-0042",
+"tipo": "gadget",
+"titolo": "Il Vetro Ambrato",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0043",
+"tipo": "gadget",
+"titolo": "Il Cuneo di Ceralacca",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0044",
+"tipo": "gadget",
+"titolo": "Il Cartiglio dei Due Lampi",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0045",
+"tipo": "gadget",
+"titolo": "La Lente Incrinata",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0046",
+"tipo": "gadget",
+"titolo": "Il Grano di Conta",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0047",
+"tipo": "gadget",
+"titolo": "Il Sigillo di Resina",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0048",
+"tipo": "gadget",
+"titolo": "Il Campanello da Anello",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0049",
+"tipo": "gadget",
+"titolo": "L'Olio di Segnale",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0050",
+"tipo": "gadget",
+"titolo": "Lo Specchio Muto",
+"universo": "elabverse"
+},
+{
+"id": "ELA-GAD-0051",
+"tipo": "gadget",
+"titolo": "La Lanterna di Scafo Zero",
+"universo": "elabverse"
+},
+{
 "id": "ELA-INV-0001",
 "tipo": "invenzione",
 "titolo": "Lettura delle Righe Nere",
@@ -10543,6 +10773,12 @@
 "universo": "elabverse"
 },
 {
+"id": "ELA-INV-0139",
+"tipo": "invenzione",
+"titolo": "Il Controluce dei Nove Cartoni",
+"universo": "elabverse"
+},
+{
 "id": "ELA-PER-0001",
 "tipo": "personaggio",
 "titolo": "Orsolya Pék",
@@ -10738,6 +10974,12 @@
 "id": "ELA-PER-0033",
 "tipo": "personaggio",
 "titolo": "Petra Wagner",
+"universo": "elabverse"
+},
+{
+"id": "ELA-PER-0034",
+"tipo": "personaggio",
+"titolo": "Baran Aydemir",
 "universo": "elabverse"
 },
 {

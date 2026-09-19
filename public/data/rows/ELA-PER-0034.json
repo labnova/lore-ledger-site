@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "fidanzato"
+},
+"appare_in": [],
+"casta": "navigatori",
+"ceppo": "turco",
+"cognome": "Aydemir",
+"contraddizione": "È lui il collega più giovane con cui Meltem scommette in segreto ogni mese, convinto di essere l'unico a conoscere i registri abbastanza bene da batterla, senza sapere che è stata lei stessa a scrivere l'errore su cui ha appena vinto.",
+"created": "2026-09-19",
+"difetto": "smanioso",
+"epoca_relativa": 0,
+"estrazione": 133,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Ha appena intascato la scommessa vinta contro Meltem sull'errore di trent'anni fa, e non ha ancora sfogliato il registro abbastanza indietro da scoprire che la mano che sbagliò l'intonaco è la stessa che gli ha appena pagato il conto.",
+"id": "ELA-PER-0034",
+"invenzione_id": "ELA-INV-0030",
+"media": [],
+"nome": "Baran",
+"parent_id": "ELA-PER-0016",
+"rapporto": "usa",
+"regione": "Konya",
+"relazione": "espansione",
+"ritratto": null,
+"schema_version": 1,
+"segno": "capricorno",
+"spirituale": {
+"credenza": "nessun_dio_solo_registri",
+"rapporto": "devoto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "spericolato",
+"universo": "elabverse"
+}

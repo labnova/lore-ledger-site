@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"created": "2026-09-19",
+"discipline": [
+"arte_visiva/affresco",
+"cartografia/proiezioni"
+],
+"epoca_relativa": 1,
+"estrazione": 133,
+"fatti": [],
+"gancio": "All'ultima sovrapposizione restano tre fori che non corrispondono a nessuna stella né a nessun altro cartone, e nessuno degli anziani accetta di dire da quale mano vengano.",
+"id": "ELA-INV-0139",
+"media": [],
+"nome": "Il Controluce dei Nove Cartoni",
+"nome_reale": "Tecnica di sovrapposizione controluce dei cartoni per individuare fori aggiunti da mani precedenti",
+"parent_id": "ELA-INV-0023",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "Un cartografo del Convoglio comincia a sovrapporre alla luce di una lanterna i nove cartoni sopravvissuti del proprio anello, cercando i fori che non coincidono in nessun altro; scopre che ogni generazione ne ha aggiunto uno diverso, e che il cielo dipinto sulle chiglie non è mai stato lo stesso cielo due volte.",
+"universo": "elabverse"
+}

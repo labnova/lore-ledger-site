@@ -1,5 +1,46 @@
 [
 {
+"chiusa_il": null,
+"creata": "2026-09-19T00:57:47Z",
+"esito": null,
+"esito_tipo": null,
+"firma": null,
+"id": "BAC-35410989434-2",
+"nota": null,
+"occorrenze": 1,
+"payload": {
+"errore": "revisione BAC-35233664104-1: TettoSuperato: tetto LLM_MAX_CHIAMATE_RUN superato: 6 >= 6",
+"run_id": "35410989434",
+"step": "revisione",
+"workflow": "riparatore"
+},
+"postata_da": "riparatore",
+"presa_da": null,
+"presa_il": null,
+"priorita": 2,
+"racconto": null,
+"righe": [
+"riparatore#35410989434#revisione"
+],
+"run_coinvolti": [
+"35410989434"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "riparatore",
+"da": "riparatore",
+"quando": "2026-09-19T00:57:47Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "guasto",
+"universi": [],
+"verifica": null
+},
+{
 "alternativa_dettaglio": null,
 "alternative": [],
 "auto_riferimento": false,
@@ -1153,18 +1194,18 @@
 "commento": null,
 "errori_schema": [],
 "id": "CYB-GAD-0031",
-"motivazione": "Come riparatore scelgo CYB-GAD-0019: radice (parent_id/relazione null per schema), campi pieni, e un gancio che apre un vuoto operativo reale — la sparizione dal doppio fondo. Il tradimento_tech enuncia l'effetto della fodera, non la specifica; la figlia espande materiale e limiti del vano schermato e la meccanica della perdita dei documenti, senza toccare la madre né chiudere il gancio. CYB-PER-0005 (protettiva e smemorata) e CYB-INV-0011 fanno da cornice coerente. Unica correzione richiesta dall'arbitro: sostituire l'id collidente CYB-GAD-0031 con uno nuovo, riservandolo anche rispetto a proposte/righe/.",
+"motivazione": "Come riparatore scelgo CYB-GAD-0019: radice (parent_id/relazione null per schema), campi pieni, gancio che apre un vuoto operativo reale — la sparizione dal doppio fondo; il tradimento_tech enuncia l'effetto della fodera, non la specifica. La figlia espande materiale e limiti del vano schermato e la meccanica della perdita dei documenti, senza toccare la madre né chiudere il gancio; CYB-PER-0005 (protettiva e smemorata) e CYB-INV-0011 fanno da cornice coerente. Unica correzione: sostituire l'id collidente CYB-GAD-0031 con CYB-GAD-0061 (max attuale in ledger/gadget/: 0060), riservandolo anche rispetto a proposte/righe/ per evitare nuove collisioni.",
 "promossa_da": null,
 "promossa_il": null,
 "respinta_il": null,
 "riga": {
 "carta_id": "BAC-35108427138-1",
-"chi_lo_porta": "Bertha vi tiene i documenti di indulgenza di tutto il campo, non solo i propri, perché \"è la più protettiva e nessuno controlla se lei dimentica qualcosa\". Li tiene piegati in tre nel vano, ordinati come li riceve, e li porta addosso anche quando dorme; allo sportello li consegna uno per volta, quelli degli altri prima dei suoi.",
-"cosa": "Bisaccia di cuoio spesso, cucita a filo doppio e consumata sui bordi dalla tracolla; il fondo è rialzato di pochi dita e sotto il rialzo resta un vano piatto, profondo quanto basta a un fascio di documenti piegati in tre. Il vano non è largo come la borsa: è un rettangolo ritagliato al centro, con i margini in cuoio semplice, e la fodera schermata riveste soltanto l'interno del rettangolo, non le pareti della borsa.",
+"chi_lo_porta": "Bertha lo tiene a tracolla anche quando dorme, o almeno così dicono le famiglie del campo che le consegnano i documenti in blocco, senza ricevuta, perché \"è la più protettiva e nessuno controlla se lei dimentica qualcosa\". Il giro è sempre lo stesso: ritira, custodisce, e scende allo sportello della curia con la borsa chiusa.",
+"cosa": "Bisaccia di cuoio spesso con un fondo rialzato: il rialzo è un coperchio rigido che si solleva con l'unghia e scopre un vano piatto, alto quanto basta a un fascio di documenti piegati in due. La fodera è cucita dentro, non incollata: per controllarla bisogna rigirare il fondo, e una volta rigirato il cuoio non torna mai a posto come prima. Nel vano non entra altro che carta: nessun impianto, nessuna lamina, nessun ricambio.",
 "created": "2026-09-16",
 "epoca_relativa": 0,
 "estrazione": 33,
-"gancio": "Bertha si accorge che i documenti di un nipote sono spariti dal fondo doppio, e non ricorda se li ha consegnati lei stessa o se qualcuno li ha presi mentre dormiva. Il vano è integro, la patta era ancora allacciata, gli altri documenti del campo sono al loro posto e nell'ordine in cui li aveva riposti: manca solo quello, e nella sua memoria della giornata c'è un buco che non sa se attribuire allo sportello, al sonno o a qualcuno che conosce il doppio fondo.",
+"gancio": "Bertha si accorge che i documenti di un nipote sono spariti dal fondo doppio, e non ricorda se li ha consegnati lei stessa o se qualcuno li ha presi mentre dormiva. Il registro della curia non può dirle niente: non li ha mai letti a distanza, e allo sportello il debito non risulta ancora saldato.",
 "id": "CYB-GAD-0031",
 "invenzione_id": "CYB-INV-0011",
 "nome": "Borsa da Nomade a Doppio Fondo",
@@ -1177,7 +1218,7 @@
 "schema_version": 1,
 "status": "canon",
 "tipo": "gadget",
-"tradimento_tech": "Il vano nascosto è foderato di un materiale che impedisce al registro della curia di leggere a distanza i documenti che contiene, così i debiti di chi Bertha protegge restano invisibili al sistema finché non li porta lei stessa allo sportello. La schermatura vale solo a vano chiuso, cioè con la patta allacciata sopra il rialzo: se la patta resta aperta, o se i documenti vengono tolti dal fondo e appoggiati accanto alla borsa, il registro li legge come qualunque altra carta. La fodera non accompagna il documento fuori dalla borsa: davanti allo sportello Bertha è leggibile come chiunque altro.",
+"tradimento_tech": "La fodera non cancella e non altera nulla: rende solo il contenuto illeggibile a distanza al registro della curia finché il lembo del fondo resta chiuso. Aperto il vano, i documenti tornano leggibili come qualunque altro. Non regge una perquisizione fatta a mano e non copre il momento dello sportello, dove è Bertha stessa a consegnarli. Con l'uso il cuoio del lembo si segna e la chiusura tiene meno: la schermatura vale quanto vale quella piega.",
 "universo": "cyberverse"
 },
 "scartata_per": null,
@@ -1196,9 +1237,16 @@
 "quando": "2026-09-18T00:58:19Z",
 "sha": "66f2e0f8dc70f53d9d71b72f7abceaf2cfa73763",
 "versione": 2
+},
+{
+"autore": "riparatore",
+"motivo": "risposta al commento BAC-35127611249-1: L'arbitro ha dato `rivista` e la collisione resta: proposte/righe/CYB-GAD-0031.yaml usa CYB-GAD-0031, id già assegnato in ledger a 'Il Gettone di Turno'. Serve riassegnare a un id libero (es. CYB-GAD-0061) e verificare che non collida con proposte/righe/ in sospeso.",
+"quando": "2026-09-19T00:57:21Z",
+"sha": "3c96a4ec89f98c77868775eb703e32d7dc89b60f",
+"versione": 3
 }
 ],
-"versione": 2,
+"versione": 3,
 "versioni": [
 {
 "errori_schema": null,
@@ -1237,6 +1285,13 @@
 "quando": "2026-09-18T00:58:19Z",
 "sha": "66f2e0f8dc70f53d9d71b72f7abceaf2cfa73763",
 "versione": 2
+},
+{
+"autore": "riparatore",
+"motivo": "risposta al commento BAC-35127611249-1: L'arbitro ha dato `rivista` e la collisione resta: proposte/righe/CYB-GAD-0031.yaml usa CYB-GAD-0031, id già assegnato in ledger a 'Il Gettone di Turno'. Serve riassegnare a un id libero (es. CYB-GAD-0061) e verificare che non collida con proposte/righe/ in sospeso.",
+"quando": "2026-09-19T00:57:21Z",
+"sha": "3c96a4ec89f98c77868775eb703e32d7dc89b60f",
+"versione": 3
 }
 ],
 "tipo": "gadget",
@@ -1244,6 +1299,58 @@
 "universo": "cyberverse"
 },
 "versione": 1
+},
+{
+"errori_schema": null,
+"motivazione": "Come riparatore scelgo CYB-GAD-0019: radice (parent_id/relazione null per schema), campi pieni, e un gancio che apre un vuoto operativo reale — la sparizione dal doppio fondo. Il tradimento_tech enuncia l'effetto della fodera, non la specifica; la figlia espande materiale e limiti del vano schermato e la meccanica della perdita dei documenti, senza toccare la madre né chiudere il gancio. CYB-PER-0005 (protettiva e smemorata) e CYB-INV-0011 fanno da cornice coerente. Unica correzione richiesta dall'arbitro: sostituire l'id collidente CYB-GAD-0031 con uno nuovo, riservandolo anche rispetto a proposte/righe/.",
+"riga": {
+"carta": "BAC-35108427138-1",
+"carta_id": "BAC-35108427138-1",
+"chi_lo_porta": "Bertha vi tiene i documenti di indulgenza di tutto il campo, non solo i propri, perché \"è la più protettiva e nessuno controlla se lei dimentica qualcosa\". Li tiene piegati in tre nel vano, ordinati come li riceve, e li porta addosso anche quando dorme; allo sportello li consegna uno per volta, quelli degli altri prima dei suoi.",
+"cosa": "Bisaccia di cuoio spesso, cucita a filo doppio e consumata sui bordi dalla tracolla; il fondo è rialzato di pochi dita e sotto il rialzo resta un vano piatto, profondo quanto basta a un fascio di documenti piegati in tre. Il vano non è largo come la borsa: è un rettangolo ritagliato al centro, con i margini in cuoio semplice, e la fodera schermata riveste soltanto l'interno del rettangolo, non le pareti della borsa.",
+"created": "2026-09-16",
+"epoca_relativa": 0,
+"estrazione": 33,
+"gancio": "Bertha si accorge che i documenti di un nipote sono spariti dal fondo doppio, e non ricorda se li ha consegnati lei stessa o se qualcuno li ha presi mentre dormiva. Il vano è integro, la patta era ancora allacciata, gli altri documenti del campo sono al loro posto e nell'ordine in cui li aveva riposti: manca solo quello, e nella sua memoria della giornata c'è un buco che non sa se attribuire allo sportello, al sonno o a qualcuno che conosce il doppio fondo.",
+"id": "CYB-GAD-0031",
+"invenzione_id": "CYB-INV-0011",
+"nome": "Borsa da Nomade a Doppio Fondo",
+"origine": "approfondimento",
+"parent_id": "CYB-GAD-0019",
+"personaggio_id": "CYB-PER-0005",
+"prod": true,
+"regione": "Rostkirche",
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"storia": [
+{
+"autore": "riparatore",
+"motivo": "artefatto della carta None",
+"quando": "2026-09-16T14:26:12Z",
+"sha": "85e015103a1be955022e350a57b442d6d318ee60",
+"versione": 1
+},
+{
+"autore": "riparatore",
+"motivo": "risposta al commento BAC-35127611249-1: L'arbitro ha detto rivista: l'id CYB-GAD-0031 è già occupato in ledger/gadget/ (Il Gettone di Turno) e collide, quindi la figlia non è promuovibile com'è. Il contenuto è accolto da tutti e tre: serve solo un id nuovo, la forma resta espansione.",
+"quando": "2026-09-18T00:58:19Z",
+"sha": "66f2e0f8dc70f53d9d71b72f7abceaf2cfa73763",
+"versione": 2
+},
+{
+"autore": "riparatore",
+"motivo": "risposta al commento BAC-35127611249-1: L'arbitro ha dato `rivista` e la collisione resta: proposte/righe/CYB-GAD-0031.yaml usa CYB-GAD-0031, id già assegnato in ledger a 'Il Gettone di Turno'. Serve riassegnare a un id libero (es. CYB-GAD-0061) e verificare che non collida con proposte/righe/ in sospeso.",
+"quando": "2026-09-19T00:57:21Z",
+"sha": "3c96a4ec89f98c77868775eb703e32d7dc89b60f",
+"versione": 3
+}
+],
+"tipo": "gadget",
+"tradimento_tech": "Il vano nascosto è foderato di un materiale che impedisce al registro della curia di leggere a distanza i documenti che contiene, così i debiti di chi Bertha protegge restano invisibili al sistema finché non li porta lei stessa allo sportello. La schermatura vale solo a vano chiuso, cioè con la patta allacciata sopra il rialzo: se la patta resta aperta, o se i documenti vengono tolti dal fondo e appoggiati accanto alla borsa, il registro li legge come qualunque altra carta. La fodera non accompagna il documento fuori dalla borsa: davanti allo sportello Bertha è leggibile come chiunque altro.",
+"universo": "cyberverse"
+},
+"versione": 2
 }
 ]
 },
@@ -1314,22 +1421,27 @@
 "forma": "espansione",
 "lacuna": "specifica del vano schermato e sua perdita",
 "letto_a": "85e015103a1be955022e350a57b442d6d318ee60",
-"motivazione": "Come riparatore scelgo CYB-GAD-0019: radice (parent_id/relazione null per schema), campi pieni, e un gancio che apre un vuoto operativo reale — la sparizione dal doppio fondo. Il tradimento_tech enuncia l'effetto della fodera, non la specifica; la figlia espande materiale e limiti del vano schermato e la meccanica della perdita dei documenti, senza toccare la madre né chiudere il gancio. CYB-PER-0005 (protettiva e smemorata) e CYB-INV-0011 fanno da cornice coerente. Unica correzione richiesta dall'arbitro: sostituire l'id collidente CYB-GAD-0031 con uno nuovo, riservandolo anche rispetto a proposte/righe/.",
+"motivazione": "Come riparatore scelgo CYB-GAD-0019: radice (parent_id/relazione null per schema), campi pieni, gancio che apre un vuoto operativo reale — la sparizione dal doppio fondo; il tradimento_tech enuncia l'effetto della fodera, non la specifica. La figlia espande materiale e limiti del vano schermato e la meccanica della perdita dei documenti, senza toccare la madre né chiudere il gancio; CYB-PER-0005 (protettiva e smemorata) e CYB-INV-0011 fanno da cornice coerente. Unica correzione: sostituire l'id collidente CYB-GAD-0031 con CYB-GAD-0061 (max attuale in ledger/gadget/: 0060), riservandolo anche rispetto a proposte/righe/ per evitare nuove collisioni.",
 "motivazioni_precedenti": [
 {
 "motivazione": "Come riparatore scelgo CYB-GAD-0019: è l'unica riga con campi tutti pieni ma con un gancio che apre un vuoto operativo — la sparizione dal doppio fondo. CYB-INV-0043 e HAC-INV-0052 hanno già gancio e torsione chiusi su di sé; le due schede entità sono elenchi senza prosa, ma il loro mondo è già coperto da otto righe ciascuna. Qui invenzione_id e personaggio_id puntano a righe esterne e il vano schermato resta senza specifica tecnica: posso espanderlo senza toccare la madre. Nessuna figlia non è lacuna: lacuna è il funzionamento del fondo schermato.",
 "versione": 1
+},
+{
+"motivazione": "Come riparatore scelgo CYB-GAD-0019: radice (parent_id/relazione null per schema), campi pieni, e un gancio che apre un vuoto operativo reale — la sparizione dal doppio fondo. Il tradimento_tech enuncia l'effetto della fodera, non la specifica; la figlia espande materiale e limiti del vano schermato e la meccanica della perdita dei documenti, senza toccare la madre né chiudere il gancio. CYB-PER-0005 (protettiva e smemorata) e CYB-INV-0011 fanno da cornice coerente. Unica correzione richiesta dall'arbitro: sostituire l'id collidente CYB-GAD-0031 con uno nuovo, riservandolo anche rispetto a proposte/righe/.",
+"versione": 2
 }
 ],
 "pronta_per_arbitro": "2026-09-18T03:17:35Z",
-"revisioni": 1,
+"revisioni": 2,
 "scelto": "CYB-GAD-0019",
 "verdetto_arbitro": {
 "esito": "rivista",
 "motivo": "Contenuto accolto all'unanimità (guardiano, editore, redattore), ma la v2 non ha risolto la collisione: proposte/righe/CYB-GAD-0031.yaml usa ancora id CYB-GAD-0031, che nel frattempo è stato assegnato in ledger a 'Il Gettone di Turno'. Riassegnare a un id libero, es. CYB-GAD-0061 (max attuale in ledger/gadget/: 0060), e verificare che non collida anche con proposte/righe/ in sospeso.",
 "quando": "2026-09-18T20:38:20Z"
 },
-"versione": 2
+"verdetto_risposto": true,
+"versione": 3
 },
 "postata_da": "riparatore",
 "presa_da": null,
@@ -1374,6 +1486,13 @@
 "motivo": "verdetto rivista: Contenuto accolto all'unanimità (guardiano, editore, redattore), ma la v2 non ha risolto la collisione: proposte/righe/CYB-GAD-0031.yaml usa ancora id CYB-GAD-0031, che nel frattempo è stato assegnato in ledger a 'Il Gettone di Turno'. Riassegnare a un id libero, es. CYB-GAD-0061 (",
 "quando": "2026-09-18T20:38:20Z",
 "stato": "aperta"
+},
+{
+"agente": "riparatore",
+"da": "riparatore",
+"motivo": "L'arbitro ha dato `rivista` e la collisione resta: proposte/righe/CYB-GAD-0031.yaml usa CYB-GAD-0031, id già assegnato in ledger a 'Il Gettone di Turno'. Serve riassegnare a un id libero (es. CYB-GAD-0061) e verificare che non collida con proposte/righe/ in sospeso.",
+"quando": "2026-09-19T00:57:04Z",
+"stato": "rivista"
 }
 ],
 "tentativi": 0,
@@ -1837,14 +1956,14 @@
 "commento": null,
 "errori_schema": [],
 "id": "STE-PER-0032",
-"motivazione": "In STE-PER-0001 `affettivo` contiene {orientamento, situazione}: è attributo di Layla, non un terzo su cui appoggiarsi, quindi la figlia STE-PER-0032 non chiude il campo null di STE-PER-0009 e la motivazione va rifatta. STE-PER-0007, adolescente come lei e in null senza danno, conferma che il null non è di per sé lacuna: il confronto con STE-PER-0001 serve a dire che il campo è di Layla, non a dedurne una relazione mancante. Resta una figlia di espansione, ma sull'`affettivo` di Layla così come il gancio lo implica, senza toccare la madre.",
+"motivazione": "STE-PER-0001 non offre un terzo: `affettivo` = {orientamento, situazione} è attributo di Layla. La figlia (già STE-PER-0032, da riassegnare a STE-PER-0046 per collisione in ledger) espande quindi l'affettivo di Layla implicato dal gancio di STE-PER-0009; il null di STE-PER-0009 resta e non va toccato. STE-PER-0007 conferma che un adolescente può stare in null senza danno, quindi non è coppia di confronto. Forma espansione confermata.",
 "promossa_da": null,
 "promossa_il": null,
 "respinta_il": null,
 "riga": {
 "affettivo": {
-"orientamento": "vigilanza_oltre_il_proprio_turno",
-"situazione": "non_creduta_dopo_il_grande_allagamento"
+"orientamento": "non dichiarato",
+"situazione": "nessun legame affettivo registrato; il rancore verso il collega che ignorò il suo primo allarme sul Barometro resta il rapporto più intenso e irrisolto"
 },
 "carta_id": "BAC-35185664527-1",
 "casta": "aeronauti",
@@ -1892,9 +2011,16 @@
 "quando": "2026-09-18T00:58:45Z",
 "sha": "66f2e0f8dc70f53d9d71b72f7abceaf2cfa73763",
 "versione": 2
+},
+{
+"autore": "riparatore",
+"motivo": "risposta al commento BAC-35215389221-1: Arbitro ha detto rivista: STE-PER-0032 ora appartiene a Tamás Vörös; riassegnare a STE-PER-0046, stessa forma espansione.",
+"quando": "2026-09-19T00:57:45Z",
+"sha": "3c96a4ec89f98c77868775eb703e32d7dc89b60f",
+"versione": 3
 }
 ],
-"versione": 2,
+"versione": 3,
 "versioni": [
 {
 "errori_schema": [
@@ -1944,6 +2070,13 @@
 "quando": "2026-09-18T00:58:45Z",
 "sha": "66f2e0f8dc70f53d9d71b72f7abceaf2cfa73763",
 "versione": 2
+},
+{
+"autore": "riparatore",
+"motivo": "risposta al commento BAC-35215389221-1: Arbitro ha detto rivista: STE-PER-0032 ora appartiene a Tamás Vörös; riassegnare a STE-PER-0046, stessa forma espansione.",
+"quando": "2026-09-19T00:57:45Z",
+"sha": "3c96a4ec89f98c77868775eb703e32d7dc89b60f",
+"versione": 3
 }
 ],
 "tipo": "personaggio",
@@ -1951,6 +2084,70 @@
 "universo": "steamverse"
 },
 "versione": 1
+},
+{
+"errori_schema": null,
+"motivazione": "In STE-PER-0001 `affettivo` contiene {orientamento, situazione}: è attributo di Layla, non un terzo su cui appoggiarsi, quindi la figlia STE-PER-0032 non chiude il campo null di STE-PER-0009 e la motivazione va rifatta. STE-PER-0007, adolescente come lei e in null senza danno, conferma che il null non è di per sé lacuna: il confronto con STE-PER-0001 serve a dire che il campo è di Layla, non a dedurne una relazione mancante. Resta una figlia di espansione, ma sull'`affettivo` di Layla così come il gancio lo implica, senza toccare la madre.",
+"riga": {
+"affettivo": {
+"orientamento": "vigilanza_oltre_il_proprio_turno",
+"situazione": "non_creduta_dopo_il_grande_allagamento"
+},
+"carta": "BAC-35185664527-1",
+"carta_id": "BAC-35185664527-1",
+"casta": "aeronauti",
+"ceppo": "arabo",
+"cognome": "Iskafi",
+"contraddizione": "Ostinata a restare di vedetta anche oltre il proprio turno, non dimentica un torto nemmeno tra le nuvole, e porta ancora rancore al collega che una volta ignorò il suo primo allarme sul Barometro.",
+"created": "2026-09-17",
+"difetto": "rancoroso",
+"epoca_relativa": 0,
+"estrazione": 20,
+"eta_fascia": "adolescente",
+"gancio": "Teme lo strumento perché fu lei a suonarlo per prima l'anno del grande allagamento, e nessuno le crede più quando dice che stavolta il pericolo è reale.",
+"id": "STE-PER-0032",
+"invenzione_id": "STE-INV-0012",
+"nome": "Layla",
+"origine": "approfondimento",
+"parent_id": "STE-PER-0009",
+"rapporto": "teme",
+"regione": "Ledoskol",
+"relazione": "espansione",
+"schema_version": 1,
+"segno": "pesci",
+"spirituale": {
+"credenza": "il_cielo_amministrato",
+"rapporto": "praticante_tiepido"
+},
+"status": "canon",
+"storia": [
+{
+"autore": "riparatore",
+"motivo": "artefatto della carta None",
+"quando": "2026-09-17T05:34:41Z",
+"sha": "533cdbd2d891fdc8df103ba23cdb389ba20922f9",
+"versione": 1
+},
+{
+"autore": "riparatore",
+"motivo": "risposta al commento BAC-35215389221-1: Regge l'obiezione del redattore: in STE-PER-0001 `affettivo` è {orientamento, situazione} di Layla, non un terzo; STE-PER-0032 così com'è non chiude il null di STE-PER-0009. E STE-PER-0007, pari età, sta null senza danno: il null da solo non è lacuna.",
+"quando": "2026-09-18T00:58:45Z",
+"sha": "66f2e0f8dc70f53d9d71b72f7abceaf2cfa73763",
+"versione": 2
+},
+{
+"autore": "riparatore",
+"motivo": "risposta al commento BAC-35215389221-1: Arbitro ha detto rivista: STE-PER-0032 ora appartiene a Tamás Vörös; riassegnare a STE-PER-0046, stessa forma espansione.",
+"quando": "2026-09-19T00:57:45Z",
+"sha": "3c96a4ec89f98c77868775eb703e32d7dc89b60f",
+"versione": 3
+}
+],
+"tipo": "personaggio",
+"tratto": "ostinato",
+"universo": "steamverse"
+},
+"versione": 2
 }
 ]
 },
@@ -2015,21 +2212,26 @@
 "forma": "espansione",
 "lacuna": "affettivo vuoto: nessun legame dichiarato",
 "letto_a": "533cdbd2d891fdc8df103ba23cdb389ba20922f9",
-"motivazione": "In STE-PER-0001 `affettivo` contiene {orientamento, situazione}: è attributo di Layla, non un terzo su cui appoggiarsi, quindi la figlia STE-PER-0032 non chiude il campo null di STE-PER-0009 e la motivazione va rifatta. STE-PER-0007, adolescente come lei e in null senza danno, conferma che il null non è di per sé lacuna: il confronto con STE-PER-0001 serve a dire che il campo è di Layla, non a dedurne una relazione mancante. Resta una figlia di espansione, ma sull'`affettivo` di Layla così come il gancio lo implica, senza toccare la madre.",
+"motivazione": "STE-PER-0001 non offre un terzo: `affettivo` = {orientamento, situazione} è attributo di Layla. La figlia (già STE-PER-0032, da riassegnare a STE-PER-0046 per collisione in ledger) espande quindi l'affettivo di Layla implicato dal gancio di STE-PER-0009; il null di STE-PER-0009 resta e non va toccato. STE-PER-0007 conferma che un adolescente può stare in null senza danno, quindi non è coppia di confronto. Forma espansione confermata.",
 "motivazioni_precedenti": [
 {
 "motivazione": "STE-PER-0009 ha `affettivo: null`, mentre STE-PER-0001 — stessa invenzione STE-INV-0012, stesso `rapporto: teme` — ce l'ha compilato: la lacuna è di Layla, non della coppia. `parent_id: null` con `relazione: null` è radice per schema, non le manca la madre. Una figlia di espansione può registrare su chi si appoggia la vedetta che nessuno crede più, restando dentro il gancio già scritto. Nessuna figlia oggi non è una lacuna: è sviluppo fermo.",
 "versione": 1
+},
+{
+"motivazione": "In STE-PER-0001 `affettivo` contiene {orientamento, situazione}: è attributo di Layla, non un terzo su cui appoggiarsi, quindi la figlia STE-PER-0032 non chiude il campo null di STE-PER-0009 e la motivazione va rifatta. STE-PER-0007, adolescente come lei e in null senza danno, conferma che il null non è di per sé lacuna: il confronto con STE-PER-0001 serve a dire che il campo è di Layla, non a dedurne una relazione mancante. Resta una figlia di espansione, ma sull'`affettivo` di Layla così come il gancio lo implica, senza toccare la madre.",
+"versione": 2
 }
 ],
-"revisioni": 1,
+"revisioni": 2,
 "scelto": "STE-PER-0009",
 "verdetto_arbitro": {
 "esito": "rivista",
 "motivo": "Contenuto risolve l'obiezione del redattore (affettivo ora {orientamento, situazione} valido di Layla), ma l'id STE-PER-0032 nel frattempo è stato assegnato in ledger a un altro personaggio (Tamás Vörös). Riassegnare a un id libero, es. STE-PER-0046 (max attuale in ledger/personaggi/: 0045).",
 "quando": "2026-09-18T20:38:38Z"
 },
-"versione": 2
+"verdetto_risposto": true,
+"versione": 3
 },
 "postata_da": "riparatore",
 "presa_da": null,
@@ -2068,6 +2270,13 @@
 "motivo": "verdetto rivista: Contenuto risolve l'obiezione del redattore (affettivo ora {orientamento, situazione} valido di Layla), ma l'id STE-PER-0032 nel frattempo è stato assegnato in ledger a un altro personaggio (Tamás Vörös). Riassegnare a un id libero, es. STE-PER-0046 (max attuale in ledger/personagg",
 "quando": "2026-09-18T20:38:38Z",
 "stato": "aperta"
+},
+{
+"agente": "riparatore",
+"da": "riparatore",
+"motivo": "Arbitro ha detto rivista: STE-PER-0032 ora appartiene a Tamás Vörös; riassegnare a STE-PER-0046, stessa forma espansione.",
+"quando": "2026-09-19T00:57:31Z",
+"stato": "rivista"
 }
 ],
 "tentativi": 0,
@@ -3956,6 +4165,146 @@
 ]
 },
 {
+"alternativa_dettaglio": null,
+"alternative": [
+{
+"autore": "guardiano",
+"quando": "2026-09-19T00:56:10Z",
+"testo": "snippet su HAC-INV-0072: valorizzare `regione` con il territorio già indicato (p.es. sarakan o il-cortile-delle-grancasse-votive), lasciando torsione e poc invariati. Nessuna nuova riga HAC-INV-0098; la madre HAC-INV-0002 resta intatta."
+}
+],
+"auto_riferimento": false,
+"carta_madre": "BAC-35373695282-1",
+"chiusa_il": null,
+"contro_cercato_marcato": [
+{
+"auto_riferimento": false,
+"id": "HAC-INV-0002"
+},
+{
+"auto_riferimento": false,
+"id": "HAC-INV-0004"
+},
+{
+"auto_riferimento": false,
+"id": "HAC-INV-0011"
+}
+],
+"creata": "2026-09-19T00:56:10Z",
+"esito": null,
+"id": "BAC-35410989434-1",
+"payload": {
+"alternativa_testo": "snippet su HAC-INV-0072: valorizzare `regione` con il territorio già indicato (p.es. sarakan o il-cortile-delle-grancasse-votive), lasciando torsione e poc invariati. Nessuna nuova riga HAC-INV-0098; la madre HAC-INV-0002 resta intatta.",
+"alternative": [
+{
+"autore": "guardiano",
+"quando": "2026-09-19T00:56:10Z",
+"testo": "snippet su HAC-INV-0072: valorizzare `regione` con il territorio già indicato (p.es. sarakan o il-cortile-delle-grancasse-votive), lasciando torsione e poc invariati. Nessuna nuova riga HAC-INV-0098; la madre HAC-INV-0002 resta intatta."
+}
+],
+"artefatto_alternativo": "snippet",
+"carta_madre": "BAC-35373695282-1",
+"contraddizione_id": null,
+"contro_cercato": [
+"HAC-INV-0002",
+"HAC-INV-0004",
+"HAC-INV-0011"
+],
+"forma_alternativa": "snippet",
+"lacuna": "regione vuota su hac-inv-0072",
+"letto_a": "07faaa3e40bda6cede1ef0420b31ed7c7fc3f29d",
+"posizione": "forma_diversa",
+"testo": "La lacuna è `regione` su HAC-INV-0072: la figlia HAC-INV-0098 non la chiude, la sposta. Il rimedio più economico è snippet sulla riga; HAC-INV-0002 e HAC-INV-0004 non contraddicono, ma non giustificano una seconda espansione. Firmato guardiano."
+},
+"postata_da": "guardiano",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"HAC-INV-0072"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "guardiano",
+"da": "guardiano",
+"quando": "2026-09-19T00:56:10Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "commento",
+"universi": [
+"hackverse"
+]
+},
+{
+"chiusa_il": null,
+"creata": "2026-09-19T01:07:24Z",
+"esito": null,
+"id": "BAC-35411621216-1",
+"payload": {
+"bozza": "Numbered technical plate from an 1880s engineering manual: ink on yellowed paper, exploded or sectioned view with callout numbers linked by thin lines to a margin legend, one brass accent on the working part, label with illegible product code. Subject: Il Polmone di Rame — Compressori a vapore per la produzione di ghiaccio installati su battelli fluviali. Inchiostro seppia e nero su carta ingiallita; accento unico in ottone caldo per il pezzo che conta. Tavola tecnica da manuale d'ingegneria del 1880: linee di contorno pulite, tratteggio incrociato per le ombre, sezioni numerate con richiami (1, 2, 3…) collegati da linee sottili a una legenda a margine. golden light, closeup shot, simple black line illustration, high resolution, UHD --ar 4:3 --no neon, plastic, coloured glass, polished chrome, saturated blue sky, decorative gears, aviator goggles, corsets, top hats, illegible lettering, watermark",
+"chiave": "m1",
+"contesto": "id: STE-INV-0003\ntipo: invenzione\nuniverso: steamverse\nestrazione: 19\ncreated: '2026-09-13'\nparent_id: null\nrelazione: null\nepoca_relativa: 0\nregione: null\nstatus: canon\nschema_version: 1\nnome_reale: Compressori a vapore per la produzione di ghiaccio installati su battelli fluviali\nnome: Il Polmone di Rame\ndiscipline:\n- logistica/catena_del_freddo\n- geografia/idrografia\npoc: false",
+"manifest": {
+"caricato_il": null,
+"creato": "2026-09-19",
+"id": "MED-35411621216-1",
+"note": "oggetto: Il Polmone di Rame; gancio: Un giovane fuochista comincia a segnare di nascosto il peso reale, convinto che qualcuno stia rubando acqua dal fiume un litro alla volta.; torsione: Il ghiaccio prodotto a bordo pesa sistematicamente più di quanto la fisica preveda, e nessun ingegnere ammette di aver ritarato le bilance.; sref non fissato; variante medium",
+"parametri": {
+"ar": "4:3",
+"atomi": [
+"ATM-35310512448-6",
+"ATM-35310512448-12",
+"ATM-35059284514-26",
+"ATM-34809499246-20"
+],
+"cref": null,
+"sref": null
+},
+"prompt": "Numbered technical plate from an 1880s engineering manual: ink on yellowed paper, exploded or sectioned view with callout numbers linked by thin lines to a margin legend, one brass accent on the working part, label with illegible product code. Subject: Il Polmone di Rame — Compressori a vapore per la produzione di ghiaccio installati su battelli fluviali. Inchiostro seppia e nero su carta ingiallita; accento unico in ottone caldo per il pezzo che conta. Tavola tecnica da manuale d'ingegneria del 1880: linee di contorno pulite, tratteggio incrociato per le ombre, sezioni numerate con richiami (1, 2, 3…) collegati da linee sottili a una legenda a margine. golden light, closeup shot, simple black line illustration, high resolution, UHD --ar 4:3 --no neon, plastic, coloured glass, polished chrome, saturated blue sky, decorative gears, aviator goggles, corsets, top hats, illegible lettering, watermark",
+"sha256": null,
+"sorgente": {
+"ref": "STE-INV-0003",
+"tipo": "riga"
+},
+"stato": "proposto",
+"strumento": "midjourney",
+"tipo": "tavola",
+"universo": "steamverse",
+"url": null
+},
+"strumento": "midjourney",
+"tipo": "tavola"
+},
+"postata_da": "media-random",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"STE-INV-0003"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "media-random",
+"da": "media-random",
+"quando": "2026-09-19T01:07:24Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_tavola",
+"universi": [
+"steamverse"
+]
+},
+{
 "chiusa_il": null,
 "creata": "2026-09-15T23:21:24Z",
 "esito": null,
@@ -4182,7 +4531,15 @@
 ]
 },
 {
-"alternative": [],
+"alternative": [
+{
+"agente": "guardiano",
+"commento": "BAC-35410989434-1",
+"forma": "snippet",
+"quando": "2026-09-19T00:56:10Z",
+"testo": "snippet su HAC-INV-0072: valorizzare `regione` con il territorio già indicato (p.es. sarakan o il-cortile-delle-grancasse-votive), lasciando torsione e poc invariati. Nessuna nuova riga HAC-INV-0098; la madre HAC-INV-0002 resta intatta."
+}
+],
 "artefatti_prodotti": [
 "HAC-INV-0098"
 ],
