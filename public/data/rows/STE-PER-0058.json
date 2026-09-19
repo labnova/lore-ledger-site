@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "vedovo"
+},
+"appare_in": [],
+"casta": "ingegneri",
+"ceppo": "arabo",
+"cognome": "Isa",
+"contraddizione": "Da capobarca dovrebbe fidarsi dei manifesti firmati e pesati prima della partenza, ma da quando una bara non segnata ha pesato più del corpo che conteneva è diventato talmente superstizioso da risalire da solo ogni cassa sulla bilancia, ritardando la chiatta a ogni turno.",
+"created": "2026-09-19",
+"difetto": "superstizioso",
+"epoca_relativa": 0,
+"estrazione": 138,
+"eta_fascia": "maturo",
+"fatti": [],
+"gancio": "Rashid ha smesso di fidarsi dei manifesti di Layla anche dopo che li hanno corretti, e ora pesa personalmente ogni bara due volte, la seconda sempre di notte, quando pensa che nessuno lo veda contare.",
+"id": "STE-PER-0058",
+"invenzione_id": "STE-INV-0001",
+"media": [],
+"nome": "Rashid",
+"parent_id": "STE-PER-0013",
+"rapporto": "teme",
+"regione": "STE-REG-qattoum",
+"relazione": "espansione",
+"ritratto": null,
+"schema_version": 1,
+"segno": "pesci",
+"spirituale": {
+"credenza": "le_bare_non_mentono",
+"rapporto": "devoto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "scrupoloso",
+"universo": "steamverse"
+}

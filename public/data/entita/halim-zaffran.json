@@ -1,9 +1,9 @@
 {
-"aggiornata": "2026-09-18",
+"aggiornata": "2026-09-19",
 "alias": [],
 "descrizione": "Mercante di olio da lampada e canne di vetro soffiato, fa la spola tra le saline e il porto vendendo scorte a chi tiene acceso il telegrafo ottico del Consorzio.",
 "ha_prosa": false,
-"n_ricorrenze": 17,
+"n_ricorrenze": 22,
 "nome": "Halim Zaffran",
 "prima_apparizione": 92,
 "prosa": null,
@@ -161,6 +161,51 @@
 "riga_id": "STE-GAD-0025",
 "riga_tipo": "gadget",
 "riga_titolo": "La Tacca di Zaffran"
+},
+{
+"estrazione": 136,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 136,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-INV-0054",
+"riga_tipo": "invenzione",
+"riga_titolo": "Lo Stampo Scomparso"
+},
+{
+"estrazione": 136,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-INV-0062",
+"riga_tipo": "invenzione",
+"riga_titolo": "L'Affettatrice del Patrono"
+},
+{
+"estrazione": 136,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-INV-0067",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Confettiere Fuori Stagione"
+},
+{
+"estrazione": 136,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-INV-0070",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Bambola Cava"
 }
 ],
 "righe": [
@@ -233,6 +278,26 @@
 "id": "STE-INV-0046",
 "tipo": "invenzione",
 "titolo": "La Chiave di Zaffran"
+},
+{
+"id": "STE-INV-0054",
+"tipo": "invenzione",
+"titolo": "Lo Stampo Scomparso"
+},
+{
+"id": "STE-INV-0062",
+"tipo": "invenzione",
+"titolo": "L'Affettatrice del Patrono"
+},
+{
+"id": "STE-INV-0067",
+"tipo": "invenzione",
+"titolo": "Il Confettiere Fuori Stagione"
+},
+{
+"id": "STE-INV-0070",
+"tipo": "invenzione",
+"titolo": "La Bambola Cava"
 }
 ],
 "slug": "halim-zaffran",

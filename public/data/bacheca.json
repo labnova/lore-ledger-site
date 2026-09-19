@@ -4543,6 +4543,69 @@
 },
 {
 "chiusa_il": null,
+"creata": "2026-09-19T06:50:53Z",
+"esito": null,
+"id": "BAC-35427693983-1",
+"payload": {
+"bozza": "Site drawing under revision: axonometric view of a place in graphite on tracing paper, one part redrawn over another and misaligned, a detail box enlarged, differences in revision red, bottle-green current layer. Subject: Meltem Marangoz — navigatori — anziano — diplomatico — event: La stima della fascia successiva consegnata in ritardo da Edurne Larraberri è stata dichiarata verificata da Meltem Marangoz sulla quota del tavolo delle carte e non su una misura presa alla parete.. Carta da lucido bianca-azzurra, grafite, un rosso di revisione per le differenze, verde bottiglia per la versione \"corrente\". Stile unico per tutto l'universo, branch compreso: diagrammi e disegni tecnici sovrapposti, la stessa immagine in due stati (prima/dopo, v1/v2) con le differenze marcate in rosso, annotazioni a margine, strati semitrasparenti che non combaciano di qualche millimetro. full body, wide shot, sharp focus, high resolution, high resolution, UHD --ar 4:3 --no digital glitch, pixels, scanlines, green matrix, terminal aesthetic, photographic realism, chrome futurism, illegible lettering, watermark",
+"chiave": "m1",
+"contesto": "id: ELA-PER-0016\ntipo: personaggio\nuniverso: elabverse\nestrazione: 37\ncreated: '2026-09-14'\nparent_id: null\nrelazione: null\nepoca_relativa: 0\nregione: Konya\nstatus: canon\nschema_version: 1\nnome: Meltem\ncognome: Marangoz\nceppo: turco\ncasta: navigatori\ninvenzione_id: ELA-INV-0030\nrapporto: costruita\neta_fascia: anziano\nsegno: ariete\ntratto: diplomatico\ndifetto: giocatore\naffettivo:\n  orientamento: eterosessuale\n  situazione: poliamoroso\nspirituale:\n  rapporto: devoto\n  credenza: nessun_dio_solo_registri",
+"manifest": {
+"caricato_il": null,
+"creato": "2026-09-19",
+"id": "MED-35427693983-1",
+"note": "oggetto: Meltem Marangoz; gancio: Ha appena vinto una scommessa su un errore di intonacatura che, controllando i registri, risulta essere stato commesso da lei stessa trent'anni prima.; contraddizione: Ha costruito con le proprie mani il primo cono che il convoglio abbia mai usato per dipingere solo la fascia sicura, ma da anziana scommette in segreto, con i colleghi più giovani, su quanto ci vorrà prima che qualcuno intonachi oltre il limite per errore.; sref non fissato; variante medium",
+"parametri": {
+"ar": "4:3",
+"atomi": [
+"ATM-35310512448-33",
+"ATM-35423715749-35",
+"ATM-34809499246-20"
+],
+"cref": null,
+"sref": null
+},
+"prompt": "Site drawing under revision: axonometric view of a place in graphite on tracing paper, one part redrawn over another and misaligned, a detail box enlarged, differences in revision red, bottle-green current layer. Subject: Meltem Marangoz — navigatori — anziano — diplomatico — event: La stima della fascia successiva consegnata in ritardo da Edurne Larraberri è stata dichiarata verificata da Meltem Marangoz sulla quota del tavolo delle carte e non su una misura presa alla parete.. Carta da lucido bianca-azzurra, grafite, un rosso di revisione per le differenze, verde bottiglia per la versione \"corrente\". Stile unico per tutto l'universo, branch compreso: diagrammi e disegni tecnici sovrapposti, la stessa immagine in due stati (prima/dopo, v1/v2) con le differenze marcate in rosso, annotazioni a margine, strati semitrasparenti che non combaciano di qualche millimetro. full body, wide shot, sharp focus, high resolution, high resolution, UHD --ar 4:3 --no digital glitch, pixels, scanlines, green matrix, terminal aesthetic, photographic realism, chrome futurism, illegible lettering, watermark",
+"sha256": null,
+"sorgente": {
+"ref": "ELA-PER-0016",
+"tipo": "riga"
+},
+"stato": "proposto",
+"strumento": "midjourney",
+"tipo": "scena",
+"universo": "elabverse",
+"url": null
+},
+"strumento": "midjourney",
+"tipo": "scena"
+},
+"postata_da": "media-random",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"ELA-PER-0016"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "media-random",
+"da": "media-random",
+"quando": "2026-09-19T06:50:53Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "media_tavola",
+"universi": [
+"elabverse"
+]
+},
+{
+"chiusa_il": null,
 "creata": "2026-09-15T23:21:24Z",
 "esito": null,
 "id": "BAC-35034876036-2",

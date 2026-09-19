@@ -5511,5 +5511,81 @@
 "STE-INV-0071"
 ],
 "universo": "steamverse"
+},
+{
+"campi_forzati": [],
+"chiavi": {
+"cluster": [
+"HAC-INV-0082"
+]
+},
+"created": "2026-09-19",
+"esito": "ok",
+"estrazione": 137,
+"forzata": false,
+"lotto": "lotto-semi",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"HAC-SEM-0005"
+],
+"universi": [
+"hackverse"
+],
+"universo": "cross"
+},
+{
+"campi_forzati": [],
+"canone_pescato": [
+"STE-INV-0005",
+"STE-PER-0031",
+"STE-INV-0040",
+"STE-PER-0013"
+],
+"chiavi": {
+"casta": "esploratori",
+"invenzione_id": "STE-INV-0005",
+"personaggi": [
+"STE-PER-0047",
+"STE-PER-0048",
+"STE-PER-0049",
+"STE-PER-0050",
+"STE-PER-0051",
+"STE-PER-0052",
+"STE-PER-0053",
+"STE-PER-0054",
+"STE-PER-0055",
+"STE-PER-0056"
+],
+"regione": "STE-REG-alkervoy",
+"universo": "steamverse"
+},
+"created": "2026-09-19",
+"esito": "ok",
+"espansioni": [
+"STE-PER-0057",
+"STE-INV-0073",
+"STE-PER-0058"
+],
+"estrazione": 138,
+"forzata": false,
+"lotto": "lotto-personaggi",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"STE-PER-0047",
+"STE-PER-0048",
+"STE-PER-0049",
+"STE-PER-0050",
+"STE-PER-0051",
+"STE-PER-0052",
+"STE-PER-0053",
+"STE-PER-0054",
+"STE-PER-0055",
+"STE-PER-0056",
+"STE-REG-alkervoy",
+"STE-PER-0057",
+"STE-INV-0073",
+"STE-PER-0058"
+],
+"universo": "steamverse"
 }
 ]

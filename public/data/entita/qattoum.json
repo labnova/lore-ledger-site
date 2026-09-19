@@ -1,11 +1,11 @@
 {
-"aggiornata": "2026-09-18",
+"aggiornata": "2026-09-19",
 "alias": [
 "STE-REG-qattoum"
 ],
 "descrizione": "Porto di delta dove il fiume si divide in tre bracci salmastri; la gilda degli ingegneri del freddo costruisce e mantiene qui le chiatte refrigerate che risalgono la corrente fino alle città dell'interno, e quasi metà dei cognomi nasce ancora dal mestiere di chi ripara gli scafi.",
 "ha_prosa": false,
-"n_ricorrenze": 28,
+"n_ricorrenze": 36,
 "nome": "Qattoum",
 "prima_apparizione": 68,
 "prosa": null,
@@ -262,6 +262,78 @@
 "riga_id": "STE-GAD-0030",
 "riga_tipo": "gadget",
 "riga_titolo": "Il Carico di Vetro Rotto"
+},
+{
+"estrazione": 136,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 136,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-INV-0053",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Sorella Povera"
+},
+{
+"estrazione": 136,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-INV-0055",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Canarino di Prima Serie"
+},
+{
+"estrazione": 136,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-INV-0060",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Treno da Tavola"
+},
+{
+"estrazione": 136,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-INV-0062",
+"riga_tipo": "invenzione",
+"riga_titolo": "L'Affettatrice del Patrono"
+},
+{
+"estrazione": 136,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-INV-0066",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Versatore da Notabili"
+},
+{
+"estrazione": 136,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-INV-0070",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Bambola Cava"
+},
+{
+"estrazione": 136,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-INV-0071",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Distributore delle Nove"
 }
 ],
 "righe": [
@@ -319,6 +391,41 @@
 "id": "STE-INV-0046",
 "tipo": "invenzione",
 "titolo": "La Chiave di Zaffran"
+},
+{
+"id": "STE-INV-0053",
+"tipo": "invenzione",
+"titolo": "La Sorella Povera"
+},
+{
+"id": "STE-INV-0055",
+"tipo": "invenzione",
+"titolo": "Il Canarino di Prima Serie"
+},
+{
+"id": "STE-INV-0060",
+"tipo": "invenzione",
+"titolo": "Il Treno da Tavola"
+},
+{
+"id": "STE-INV-0062",
+"tipo": "invenzione",
+"titolo": "L'Affettatrice del Patrono"
+},
+{
+"id": "STE-INV-0066",
+"tipo": "invenzione",
+"titolo": "Il Versatore da Notabili"
+},
+{
+"id": "STE-INV-0070",
+"tipo": "invenzione",
+"titolo": "La Bambola Cava"
+},
+{
+"id": "STE-INV-0071",
+"tipo": "invenzione",
+"titolo": "Il Distributore delle Nove"
 },
 {
 "id": "STE-PER-0011",

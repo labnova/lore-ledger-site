@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "sposato"
+},
+"appare_in": [],
+"casta": "esploratori",
+"ceppo": "basco",
+"cognome": "Larrakozagaray",
+"contraddizione": "Da esploratore dovrebbe arrivare riposato a ogni spedizione sul ghiaccio nuovo, ma la sua insonnia lo tiene sveglio fino all'alba a ricontrollare a mente le Tavole della Sete, convinto che un solo margine sbagliato basti a mandarlo sotto la crosta che sta per attraversare.",
+"created": "2026-09-19",
+"difetto": "insonne",
+"epoca_relativa": 0,
+"estrazione": 138,
+"eta_fascia": "adulto",
+"fatti": [],
+"gancio": "Unai è partito questa mattina per la terza notte di fila senza aver chiuso occhio, e la sua squadra ha imparato a lasciargli ripetere ad alta voce ogni cifra delle tavole prima di mettere piede sul ghiaccio, come fosse una preghiera.",
+"id": "STE-PER-0047",
+"invenzione_id": "STE-INV-0005",
+"media": [],
+"nome": "Unai",
+"parent_id": null,
+"rapporto": "teme",
+"regione": "STE-REG-alkervoy",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "leone",
+"spirituale": {
+"credenza": "nessun_dio_solo_registri",
+"rapporto": "indifferente"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "devoto_al_lavoro",
+"universo": "steamverse"
+}

@@ -1,0 +1,21 @@
+{
+"appare_in": [],
+"ceppo_dominante": null,
+"created": "2026-09-19",
+"epoca_relativa": 0,
+"estrazione": 138,
+"fatti": [],
+"id": "STE-REG-alkervoy",
+"media": [],
+"nome": "Alkervoy",
+"note": "Crocevia sui ghiacci dove tre rotte fluviali si incrociano prima di diramarsi verso le città della catena del freddo; qui gli esploratori di ogni ceppo si fermano a confrontare le proprie tavole di marea prima di ripartire, e nessuna stirpe vi è mai rimasta abbastanza a lungo da imporre i propri nomi; quasi un cognome su due nasce ancora dal mestiere di chi lo porta.",
+"onomastica": "totale",
+"p_cognome_mestiere": 0.41,
+"parent_id": null,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "regione",
+"universo": "steamverse"
+}

@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "sposato"
+},
+"appare_in": [],
+"casta": "esploratori",
+"ceppo": "arabo",
+"cognome": "Haddad",
+"contraddizione": "Studia le Tavole della Sete con una pazienza che i colleghi le invidiano, ma è abbastanza vanitosa da togliersi i guanti sul ghiaccio per controllare i capelli nel riflesso di un canale gelato, e le screpolature che si porta dietro da settimane sono il prezzo di quei pochi secondi.",
+"created": "2026-09-19",
+"difetto": "vanitoso",
+"epoca_relativa": 0,
+"estrazione": 138,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Amina tiene uno specchietto d'ottone cucito nella fodera del cappotto, proibito dal capo-spedizione, e lo usa ogni volta che pensa che nessuno stia contando le sue pause.",
+"id": "STE-PER-0048",
+"invenzione_id": "STE-INV-0005",
+"media": [],
+"nome": "Amina",
+"parent_id": null,
+"rapporto": "studia",
+"regione": "STE-REG-alkervoy",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "vergine",
+"spirituale": {
+"credenza": "dottrina_del_debito",
+"rapporto": "eretico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "paziente",
+"universo": "steamverse"
+}

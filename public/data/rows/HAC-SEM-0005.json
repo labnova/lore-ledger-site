@@ -1,0 +1,25 @@
+{
+"appare_in": [],
+"cluster": "HAC-INV-0082",
+"created": "2026-09-19",
+"epoca_relativa": 0,
+"estrazione": 137,
+"fatti": [],
+"id": "HAC-SEM-0005",
+"media": [],
+"origine": "arricchimento",
+"ostacolo": "Ingrid Halsson, che con la macro TaraFix ripristina in segreto i vecchi valori di Yusuf ogni volta che lui è in ferie per coprire la vecchia rete di scaricatori di Anversa, teme che il quaderno di Vilde faccia emergere lo scarto che lei falsifica da anni.",
+"parent_id": null,
+"premessa": "Vilde Engdottir vuole mettere finalmente per iscritto, di nascosto e fuori orario, il metodo con cui Yusuf Taşdesoy impone la tara della tarabalans, per liberare l'ufficio doganale di Kristiansand dal fatto che tutto dipenda dalle sue mani.",
+"regione": null,
+"relazione": null,
+"rottura": "quando l'ufficio passa a un sistema che archivia i metadati invece di sovrascriverli, la cronologia di TaraFix mostra che le tarature \"vere\" firmate da Ingrid durante le ferie di Yusuf non sono mai state fatte davvero — un fatto che il quaderno di Vilde, pronto da mesi, non può più lasciare non detto.",
+"schema_version": 1,
+"status": "canon",
+"tipo": "seme",
+"tono": "freddo nordico, tensione da porto",
+"universi": [
+"hackverse"
+],
+"universo": "hackverse"
+}

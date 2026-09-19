@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "omosessuale",
+"situazione": "sposato"
+},
+"appare_in": [],
+"casta": "esploratori",
+"ceppo": "ibrido",
+"cognome": "Dawi",
+"contraddizione": "Teme le Tavole della Sete abbastanza da nasconderlo dietro battute a ogni turno, ma la sua smemoratezza lo porta a rilevare due volte lo stesso canale già sicuro mentre dimentica quello nuovo, e la sua ironia si spegne ogni volta che deve ammetterlo al capo-spedizione.",
+"created": "2026-09-19",
+"difetto": "smemorato",
+"epoca_relativa": 0,
+"estrazione": 138,
+"eta_fascia": "giovane",
+"fatti": [],
+"gancio": "Yuto ha ridisegnato la mappa del terzo canale identica a quella di due settimane fa, e solo il fango secco sugli stivali gli ha detto che non l'aveva davvero percorsa.",
+"id": "STE-PER-0053",
+"invenzione_id": "STE-INV-0005",
+"media": [],
+"nome": "Yuto",
+"parent_id": null,
+"rapporto": "teme",
+"regione": "STE-REG-alkervoy",
+"relazione": null,
+"ritratto": null,
+"schema_version": 1,
+"segno": "capricorno",
+"spirituale": {
+"credenza": "la_voce_nella_rete",
+"rapporto": "funzionario_del_culto"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "ironico",
+"universo": "steamverse"
+}

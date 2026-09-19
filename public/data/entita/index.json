@@ -96,6 +96,32 @@
 "universo": "neofeudal"
 },
 {
+"alias": [],
+"descrizione": "Gilda mercantile che possiede le canne di vetro del telegrafo ottico tese sulle saline e impone una tariffa di passaggio in gettoni-vapore a chiunque le attraversi.",
+"ha_prosa": false,
+"nome": "Consorzio del Vetro e del Sale",
+"prima_apparizione": 92,
+"ricorrenze": 39,
+"slug": "consorzio-del-vetro-e-del-sale",
+"sopra_soglia": true,
+"tipo": "ente",
+"universo": "steamverse"
+},
+{
+"alias": [
+"STE-REG-qattoum"
+],
+"descrizione": "Porto di delta dove il fiume si divide in tre bracci salmastri; la gilda degli ingegneri del freddo costruisce e mantiene qui le chiatte refrigerate che risalgono la corrente fino alle città dell'interno, e quasi metà dei cognomi nasce ancora dal mestiere di chi ripara gli scafi.",
+"ha_prosa": false,
+"nome": "Qattoum",
+"prima_apparizione": 68,
+"ricorrenze": 36,
+"slug": "qattoum",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "steamverse"
+},
+{
 "alias": [
 "HAC-REG-tallinn"
 ],
@@ -135,32 +161,6 @@
 "sopra_soglia": true,
 "tipo": "ente",
 "universo": "neofeudal"
-},
-{
-"alias": [],
-"descrizione": "Gilda mercantile che possiede le canne di vetro del telegrafo ottico tese sulle saline e impone una tariffa di passaggio in gettoni-vapore a chiunque le attraversi.",
-"ha_prosa": false,
-"nome": "Consorzio del Vetro e del Sale",
-"prima_apparizione": 92,
-"ricorrenze": 28,
-"slug": "consorzio-del-vetro-e-del-sale",
-"sopra_soglia": true,
-"tipo": "ente",
-"universo": "steamverse"
-},
-{
-"alias": [
-"STE-REG-qattoum"
-],
-"descrizione": "Porto di delta dove il fiume si divide in tre bracci salmastri; la gilda degli ingegneri del freddo costruisce e mantiene qui le chiatte refrigerate che risalgono la corrente fino alle città dell'interno, e quasi metà dei cognomi nasce ancora dal mestiere di chi ripara gli scafi.",
-"ha_prosa": false,
-"nome": "Qattoum",
-"prima_apparizione": 68,
-"ricorrenze": 28,
-"slug": "qattoum",
-"sopra_soglia": true,
-"tipo": "luogo",
-"universo": "steamverse"
 },
 {
 "alias": [
@@ -219,6 +219,18 @@
 "universo": "hackverse"
 },
 {
+"alias": [],
+"descrizione": "Mercante di olio da lampada e canne di vetro soffiato, fa la spola tra le saline e il porto vendendo scorte a chi tiene acceso il telegrafo ottico del Consorzio.",
+"ha_prosa": false,
+"nome": "Halim Zaffran",
+"prima_apparizione": 92,
+"ricorrenze": 22,
+"slug": "halim-zaffran",
+"sopra_soglia": true,
+"tipo": "attore",
+"universo": "steamverse"
+},
+{
 "alias": [
 "NEO-REG-vranidol"
 ],
@@ -231,18 +243,6 @@
 "sopra_soglia": true,
 "tipo": "luogo",
 "universo": "neofeudal"
-},
-{
-"alias": [],
-"descrizione": "Mercante di olio da lampada e canne di vetro soffiato, fa la spola tra le saline e il porto vendendo scorte a chi tiene acceso il telegrafo ottico del Consorzio.",
-"ha_prosa": false,
-"nome": "Halim Zaffran",
-"prima_apparizione": 92,
-"ricorrenze": 17,
-"slug": "halim-zaffran",
-"sopra_soglia": true,
-"tipo": "attore",
-"universo": "steamverse"
 },
 {
 "alias": [],
@@ -330,10 +330,22 @@
 "ha_prosa": false,
 "nome": "Tuzkaya",
 "prima_apparizione": 125,
-"ricorrenze": 12,
+"ricorrenze": 13,
 "slug": "tuzkaya",
 "sopra_soglia": true,
 "tipo": "luogo",
+"universo": "steamverse"
+},
+{
+"alias": [],
+"descrizione": "Ogni sera, all'ora del cambio turno, la luce nelle canne di vetro del telegrafo vacilla per pochi secondi; nessuno ha mai spiegato perché, e ogni scheda del Consorzio lo registra come «normale».",
+"ha_prosa": false,
+"nome": "Lo Sfarfallio delle Nove",
+"prima_apparizione": 92,
+"ricorrenze": 12,
+"slug": "lo-sfarfallio-delle-nove",
+"sopra_soglia": true,
+"tipo": "anomalia",
 "universo": "steamverse"
 },
 {
@@ -359,18 +371,6 @@
 "sopra_soglia": true,
 "tipo": "attore",
 "universo": "neofeudal"
-},
-{
-"alias": [],
-"descrizione": "Ogni sera, all'ora del cambio turno, la luce nelle canne di vetro del telegrafo vacilla per pochi secondi; nessuno ha mai spiegato perché, e ogni scheda del Consorzio lo registra come «normale».",
-"ha_prosa": false,
-"nome": "Lo Sfarfallio delle Nove",
-"prima_apparizione": 92,
-"ricorrenze": 9,
-"slug": "lo-sfarfallio-delle-nove",
-"sopra_soglia": true,
-"tipo": "anomalia",
-"universo": "steamverse"
 },
 {
 "alias": [],

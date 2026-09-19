@@ -1,0 +1,28 @@
+{
+"appare_in": [],
+"chi_paga": "un-terzo-ignaro",
+"created": "2026-09-19",
+"discipline": [
+"telecomunicazioni/fibra_ottica",
+"illuminazione/lampade_a_olio"
+],
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 138,
+"fatti": [],
+"gancio": "Un ispettore di passaggio chiede di vedere il registro proprio la notte in cui la fiamma si è spenta per un'ora intera, e il guardiano di turno ha solo il tempo di ricopiare i trattini prima che bussi alla porta della torre.",
+"id": "STE-INV-0073",
+"media": [],
+"nome": "Il Quaderno del Buio",
+"nome_reale": "Registro cifrato che i guardiani della Torre di Qattoum tengono accanto alla Lampada di Veglia, dove segnano in trattini l'ora reale in cui la fiamma si è spenta, contro l'ora ufficiale del turno",
+"oggetto": "Registro cifrato dove i guardiani segnano l'ora reale in cui la fiamma si è spenta, contro l'ora ufficiale del turno.",
+"parent_id": "STE-INV-0040",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "falsificazione",
+"universo": "steamverse"
+}

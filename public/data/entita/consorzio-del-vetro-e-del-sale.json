@@ -1,9 +1,9 @@
 {
-"aggiornata": "2026-09-18",
+"aggiornata": "2026-09-19",
 "alias": [],
 "descrizione": "Gilda mercantile che possiede le canne di vetro del telegrafo ottico tese sulle saline e impone una tariffa di passaggio in gettoni-vapore a chiunque le attraversi.",
 "ha_prosa": false,
-"n_ricorrenze": 28,
+"n_ricorrenze": 39,
 "nome": "Consorzio del Vetro e del Sale",
 "prima_apparizione": 92,
 "prosa": null,
@@ -260,6 +260,105 @@
 "riga_id": "STE-INV-0051",
 "riga_tipo": "invenzione",
 "riga_titolo": "Il Vetro che Conferma"
+},
+{
+"estrazione": 136,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 136,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-INV-0052",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Ruota di Candelora"
+},
+{
+"estrazione": 136,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-INV-0053",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Sorella Povera"
+},
+{
+"estrazione": 136,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-INV-0056",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Torchio dei Nastri"
+},
+{
+"estrazione": 136,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-INV-0057",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Dente di Vetro"
+},
+{
+"estrazione": 136,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-INV-0059",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Teatrino del Collaudo"
+},
+{
+"estrazione": 136,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-INV-0063",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Grattachecca a Turni"
+},
+{
+"estrazione": 136,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-INV-0065",
+"riga_tipo": "invenzione",
+"riga_titolo": "La Cera degli Stampi"
+},
+{
+"estrazione": 136,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-INV-0066",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Versatore da Notabili"
+},
+{
+"estrazione": 136,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-INV-0069",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Calibro Unico"
+},
+{
+"estrazione": 136,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "STE-INV-0071",
+"riga_tipo": "invenzione",
+"riga_titolo": "Il Distributore delle Nove"
 }
 ],
 "righe": [
@@ -387,6 +486,56 @@
 "id": "STE-INV-0051",
 "tipo": "invenzione",
 "titolo": "Il Vetro che Conferma"
+},
+{
+"id": "STE-INV-0052",
+"tipo": "invenzione",
+"titolo": "La Ruota di Candelora"
+},
+{
+"id": "STE-INV-0053",
+"tipo": "invenzione",
+"titolo": "La Sorella Povera"
+},
+{
+"id": "STE-INV-0056",
+"tipo": "invenzione",
+"titolo": "Il Torchio dei Nastri"
+},
+{
+"id": "STE-INV-0057",
+"tipo": "invenzione",
+"titolo": "Il Dente di Vetro"
+},
+{
+"id": "STE-INV-0059",
+"tipo": "invenzione",
+"titolo": "Il Teatrino del Collaudo"
+},
+{
+"id": "STE-INV-0063",
+"tipo": "invenzione",
+"titolo": "La Grattachecca a Turni"
+},
+{
+"id": "STE-INV-0065",
+"tipo": "invenzione",
+"titolo": "La Cera degli Stampi"
+},
+{
+"id": "STE-INV-0066",
+"tipo": "invenzione",
+"titolo": "Il Versatore da Notabili"
+},
+{
+"id": "STE-INV-0069",
+"tipo": "invenzione",
+"titolo": "Il Calibro Unico"
+},
+{
+"id": "STE-INV-0071",
+"tipo": "invenzione",
+"titolo": "Il Distributore delle Nove"
 }
 ],
 "slug": "consorzio-del-vetro-e-del-sale",

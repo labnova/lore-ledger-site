@@ -616,6 +616,11 @@
 "to": "STE-INV-0072"
 },
 {
+"from": "STE-INV-0040",
+"kind": "parent",
+"to": "STE-INV-0073"
+},
+{
 "from": "CYB-PER-0001",
 "kind": "invenzione",
 "to": "CYB-INV-0015"
@@ -3719,6 +3724,136 @@
 "from": "STE-PER-0046",
 "kind": "regione",
 "to": "STE-REG-tuzkaya"
+},
+{
+"from": "STE-PER-0047",
+"kind": "invenzione",
+"to": "STE-INV-0005"
+},
+{
+"from": "STE-PER-0047",
+"kind": "regione",
+"to": "STE-REG-alkervoy"
+},
+{
+"from": "STE-PER-0048",
+"kind": "invenzione",
+"to": "STE-INV-0005"
+},
+{
+"from": "STE-PER-0048",
+"kind": "regione",
+"to": "STE-REG-alkervoy"
+},
+{
+"from": "STE-PER-0049",
+"kind": "invenzione",
+"to": "STE-INV-0005"
+},
+{
+"from": "STE-PER-0049",
+"kind": "regione",
+"to": "STE-REG-alkervoy"
+},
+{
+"from": "STE-PER-0050",
+"kind": "invenzione",
+"to": "STE-INV-0005"
+},
+{
+"from": "STE-PER-0050",
+"kind": "regione",
+"to": "STE-REG-alkervoy"
+},
+{
+"from": "STE-PER-0051",
+"kind": "invenzione",
+"to": "STE-INV-0005"
+},
+{
+"from": "STE-PER-0051",
+"kind": "regione",
+"to": "STE-REG-alkervoy"
+},
+{
+"from": "STE-PER-0052",
+"kind": "invenzione",
+"to": "STE-INV-0005"
+},
+{
+"from": "STE-PER-0052",
+"kind": "regione",
+"to": "STE-REG-alkervoy"
+},
+{
+"from": "STE-PER-0053",
+"kind": "invenzione",
+"to": "STE-INV-0005"
+},
+{
+"from": "STE-PER-0053",
+"kind": "regione",
+"to": "STE-REG-alkervoy"
+},
+{
+"from": "STE-PER-0054",
+"kind": "invenzione",
+"to": "STE-INV-0005"
+},
+{
+"from": "STE-PER-0054",
+"kind": "regione",
+"to": "STE-REG-alkervoy"
+},
+{
+"from": "STE-PER-0055",
+"kind": "invenzione",
+"to": "STE-INV-0005"
+},
+{
+"from": "STE-PER-0055",
+"kind": "regione",
+"to": "STE-REG-alkervoy"
+},
+{
+"from": "STE-PER-0056",
+"kind": "invenzione",
+"to": "STE-INV-0005"
+},
+{
+"from": "STE-PER-0056",
+"kind": "regione",
+"to": "STE-REG-alkervoy"
+},
+{
+"from": "STE-PER-0031",
+"kind": "parent",
+"to": "STE-PER-0057"
+},
+{
+"from": "STE-PER-0057",
+"kind": "invenzione",
+"to": "STE-INV-0001"
+},
+{
+"from": "STE-PER-0057",
+"kind": "regione",
+"to": "STE-REG-qattoum"
+},
+{
+"from": "STE-PER-0013",
+"kind": "parent",
+"to": "STE-PER-0058"
+},
+{
+"from": "STE-PER-0058",
+"kind": "invenzione",
+"to": "STE-INV-0001"
+},
+{
+"from": "STE-PER-0058",
+"kind": "regione",
+"to": "STE-REG-qattoum"
 },
 {
 "from": "CYB-GAD-0001",
@@ -7679,6 +7814,11 @@
 "from": "HAC-SEM-0004",
 "kind": "cluster",
 "to": "HAC-INV-0075"
+},
+{
+"from": "HAC-SEM-0005",
+"kind": "cluster",
+"to": "HAC-INV-0082"
 },
 {
 "from": "NEO-SEM-0001",
@@ -12277,6 +12417,12 @@
 "universo": "hackverse"
 },
 {
+"id": "HAC-SEM-0005",
+"tipo": "seme",
+"titolo": "seme HAC-INV-0082",
+"universo": "hackverse"
+},
+{
 "id": "NEO-CON-0001",
 "tipo": "contenuto",
 "titolo": "Come nasce una che non ci crede: il making-of di Nina Szabó",
@@ -14989,6 +15135,12 @@
 "universo": "steamverse"
 },
 {
+"id": "STE-INV-0073",
+"tipo": "invenzione",
+"titolo": "Il Quaderno del Buio",
+"universo": "steamverse"
+},
+{
 "id": "STE-PER-0001",
 "tipo": "personaggio",
 "titolo": "Tatiana Gomiin",
@@ -15262,6 +15414,84 @@
 "id": "STE-PER-0046",
 "tipo": "personaggio",
 "titolo": "Yusuf Demirci",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0047",
+"tipo": "personaggio",
+"titolo": "Unai Larrakozagaray",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0048",
+"tipo": "personaggio",
+"titolo": "Amina Haddad",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0049",
+"tipo": "personaggio",
+"titolo": "Makoto Panya",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0050",
+"tipo": "personaggio",
+"titolo": "Kito Mkokoteni",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0051",
+"tipo": "personaggio",
+"titolo": "Emre Değirmenci",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0052",
+"tipo": "personaggio",
+"titolo": "Thomas Zimmermann",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0053",
+"tipo": "personaggio",
+"titolo": "Yuto Dawi",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0054",
+"tipo": "personaggio",
+"titolo": "Jelena Vlasaev",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0055",
+"tipo": "personaggio",
+"titolo": "István Kovács",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0056",
+"tipo": "personaggio",
+"titolo": "Kjell Hallund",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0057",
+"tipo": "personaggio",
+"titolo": "Tariq Nassar",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0058",
+"tipo": "personaggio",
+"titolo": "Rashid Isa",
+"universo": "steamverse"
+},
+{
+"id": "STE-REG-alkervoy",
+"tipo": "regione",
+"titolo": "Alkervoy",
 "universo": "steamverse"
 },
 {
