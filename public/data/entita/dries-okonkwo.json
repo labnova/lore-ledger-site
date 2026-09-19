@@ -1,9 +1,9 @@
 {
-"aggiornata": "2026-09-18",
+"aggiornata": "2026-09-19",
 "alias": [],
 "descrizione": "Broker di banchina che smista carichi reefer fuori manifesto, firmware ricondizionato, dadi truccati per i tornei clandestini, partite di farmaci refrigerati rietichettati.",
 "ha_prosa": false,
-"n_ricorrenze": 4,
+"n_ricorrenze": 7,
 "nome": "Dries Okonkwo",
 "prima_apparizione": 116,
 "prosa": null,
@@ -44,9 +44,46 @@
 "riga_id": "HAC-INV-0094",
 "riga_tipo": "invenzione",
 "riga_titolo": "deurregister"
+},
+{
+"estrazione": 139,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 139,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-GAD-0016",
+"riga_tipo": "gadget",
+"riga_titolo": "La Graffa della Cooperativa"
+},
+{
+"estrazione": 139,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-GAD-0020",
+"riga_tipo": "gadget",
+"riga_titolo": "La Scatola di Dries"
 }
 ],
 "righe": [
+{
+"id": "HAC-GAD-0016",
+"tipo": "gadget",
+"titolo": "La Graffa della Cooperativa"
+},
+{
+"id": "HAC-GAD-0020",
+"tipo": "gadget",
+"titolo": "La Scatola di Dries"
+},
 {
 "id": "HAC-INV-0077",
 "tipo": "invenzione",

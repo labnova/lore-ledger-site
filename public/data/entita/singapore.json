@@ -1,11 +1,11 @@
 {
-"aggiornata": "2026-09-18",
+"aggiornata": "2026-09-19",
 "alias": [
 "HAC-REG-singapore"
 ],
 "descrizione": "Città-stato crocevia di capitali e dati tra Asia ed Europa, dove ogni broker arriva già con passaporto e cognome propri: nessun ceppo prevale e pochi portano il cognome del mestiere, perché qui l'identità si compra e si vende, non si eredita.",
 "ha_prosa": false,
-"n_ricorrenze": 23,
+"n_ricorrenze": 33,
 "nome": "Singapore",
 "prima_apparizione": 99,
 "prosa": null,
@@ -217,6 +217,96 @@
 "riga_id": "HAC-PER-0058",
 "riga_tipo": "personaggio",
 "riga_titolo": "Mei-Ling Farrokhzad"
+},
+{
+"estrazione": 139,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-GAD-0014",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Logger della Sorte"
+},
+{
+"estrazione": 139,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-GAD-0015",
+"riga_tipo": "gadget",
+"riga_titolo": "La Genuflessione del Container"
+},
+{
+"estrazione": 139,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-GAD-0016",
+"riga_tipo": "gadget",
+"riga_titolo": "La Graffa della Cooperativa"
+},
+{
+"estrazione": 139,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-GAD-0017",
+"riga_tipo": "gadget",
+"riga_titolo": "L'Etichetta Scambiata"
+},
+{
+"estrazione": 139,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-GAD-0018",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Logger Muto"
+},
+{
+"estrazione": 139,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-GAD-0019",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Sensore di Cera"
+},
+{
+"estrazione": 139,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-GAD-0020",
+"riga_tipo": "gadget",
+"riga_titolo": "La Scatola di Dries"
+},
+{
+"estrazione": 139,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-GAD-0021",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Pezzo Unico"
+},
+{
+"estrazione": 139,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-GAD-0022",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Prototipo TICK1"
+},
+{
+"estrazione": 139,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-GAD-0023",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Sigillo Senza Nome"
 }
 ],
 "righe": [
@@ -269,6 +359,56 @@
 "id": "HAC-GAD-0012",
 "tipo": "gadget",
 "titolo": "La Doppia Etichetta"
+},
+{
+"id": "HAC-GAD-0014",
+"tipo": "gadget",
+"titolo": "Il Logger della Sorte"
+},
+{
+"id": "HAC-GAD-0015",
+"tipo": "gadget",
+"titolo": "La Genuflessione del Container"
+},
+{
+"id": "HAC-GAD-0016",
+"tipo": "gadget",
+"titolo": "La Graffa della Cooperativa"
+},
+{
+"id": "HAC-GAD-0017",
+"tipo": "gadget",
+"titolo": "L'Etichetta Scambiata"
+},
+{
+"id": "HAC-GAD-0018",
+"tipo": "gadget",
+"titolo": "Il Logger Muto"
+},
+{
+"id": "HAC-GAD-0019",
+"tipo": "gadget",
+"titolo": "Il Sensore di Cera"
+},
+{
+"id": "HAC-GAD-0020",
+"tipo": "gadget",
+"titolo": "La Scatola di Dries"
+},
+{
+"id": "HAC-GAD-0021",
+"tipo": "gadget",
+"titolo": "Il Pezzo Unico"
+},
+{
+"id": "HAC-GAD-0022",
+"tipo": "gadget",
+"titolo": "Il Prototipo TICK1"
+},
+{
+"id": "HAC-GAD-0023",
+"tipo": "gadget",
+"titolo": "Il Sigillo Senza Nome"
 },
 {
 "id": "HAC-PER-0033",

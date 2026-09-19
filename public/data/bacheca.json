@@ -4171,108 +4171,6 @@
 ]
 },
 {
-"alternative": [],
-"artefatti_prodotti": [
-"ELA-GAD-0042"
-],
-"artefatto_dettaglio": {
-"carta": "BAC-35397734349-1",
-"commento": null,
-"errori_schema": [],
-"id": "ELA-GAD-0042",
-"motivazione": "Su ELA-GAD-0033 il gancio è già una scena scritta a metà: il pettine che stride sul volto archiviato, quello firmato dall'inventore del Cifrario. Il mio mestiere non deve inventare nulla per approfondire, gli basta far accadere quel passaggio: Yosuke, il disegno, i denti che sbagliano punto. STE-INV-0014 e ELA-INV-0094 hanno ganci forti ma chiusi (una morte, una bandiera issata); qui invece resta aperto il gesto centrale del gadget — la prova — e la riga non ha figlie, quindi l'espansione è il posto giusto. Non tocco le schede anomalia: sono elenchi a nove ricorrenze, meglio una prosa_entita, ma non è il mio turno.",
-"promossa_da": null,
-"promossa_il": null,
-"respinta_il": null,
-"riga": {
-"carta_id": "BAC-35397734349-1",
-"chi_lo_porta": "Yosuke lo prende in prestito ogni volta che finisce una copia del volto che sta cercando di ricostruire per Scafo Zero: nessun disegno esce dalle sue mani prima che il pettine ci sia passato sopra. Se lo porta dietro anche quando scende agli archivi, perché la prova che conta non è sul suo foglio ma sul volto conservato.",
-"chi_paga": "l-inventore-originario",
-"cosa": "Pettine di resina colata con i denti tagliati sulle armoniche esatte di un volto canonico: passato sul foglio verifica al tatto se una copia disegnata a mano è fedele all'originale, e non si lascia ingannare dalla precisione del tratto.",
-"created": "2026-09-18",
-"entita_usate": [],
-"epoca_relativa": 0,
-"estrazione": 95,
-"gancio": "Yosuke finisce la copia, ci passa sopra il pettine e i denti scivolano lisci: il disegno tiene. Ma il giorno in cui porta il pettine davanti al volto conservato negli archivi — quello firmato dall'inventore del Cifrario in persona — i denti stridono nel punto sbagliato, in un punto che la sua copia aveva attraversato in silenzio, come se la voce vera non fosse mai stata quella.",
-"id": "ELA-GAD-0042",
-"invenzione_id": "ELA-INV-0070",
-"nome": "Il Pettine di Prova",
-"oggetto": "Pettine di resina i cui denti corrispondono alle armoniche di un volto autentico, usato per testarne le copie al tatto.",
-"origine": "approfondimento",
-"parent_id": "ELA-GAD-0033",
-"personaggio_id": "ELA-PER-0029",
-"prod": false,
-"regione": "Scafo Zero",
-"relazione": "espansione",
-"schema_version": 1,
-"status": "canon",
-"tipo": "gadget",
-"torsione": "prova-collaudo",
-"tradimento_tech": "Non certifica la bellezza del disegno ma la sua frequenza: un volto può sembrare perfetto e stridere comunque sotto i denti del pettine; la prova non dice dove sia l'errore, dice solo che c'è.",
-"universo": "elabverse"
-},
-"scartata_per": null,
-"stato": "provvisoria",
-"storia": [
-{
-"autore": "redattore",
-"motivo": "artefatto della carta None",
-"quando": "2026-09-18T21:38:35Z",
-"sha": "918aa61b4ea2c9d6e1dbc56f55c4828d9dec9597",
-"versione": 1
-}
-],
-"versione": 1,
-"versioni": []
-},
-"chiusa_il": null,
-"creata": "2026-09-18T21:38:14Z",
-"esito": null,
-"id": "BAC-35397734349-1",
-"letto_a": "918aa61b4ea2c9d6e1dbc56f55c4828d9dec9597",
-"payload": {
-"artefatti_prodotti": [
-"ELA-GAD-0042"
-],
-"artefatto": "proposte/righe/ELA-GAD-0042.yaml",
-"candidati": [
-"ELA-GAD-0033",
-"STE-INV-0014",
-"ELA-INV-0094",
-"entita:neofeudal/anomalia/la-fusione-dei-voti",
-"entita:neofeudal/anomalia/la-semina-dell-anno-storto"
-],
-"forma": "espansione",
-"lacuna": "la scena della prima prova sul volto archiviato",
-"letto_a": "918aa61b4ea2c9d6e1dbc56f55c4828d9dec9597",
-"motivazione": "Su ELA-GAD-0033 il gancio è già una scena scritta a metà: il pettine che stride sul volto archiviato, quello firmato dall'inventore del Cifrario. Il mio mestiere non deve inventare nulla per approfondire, gli basta far accadere quel passaggio: Yosuke, il disegno, i denti che sbagliano punto. STE-INV-0014 e ELA-INV-0094 hanno ganci forti ma chiusi (una morte, una bandiera issata); qui invece resta aperto il gesto centrale del gadget — la prova — e la riga non ha figlie, quindi l'espansione è il posto giusto. Non tocco le schede anomalia: sono elenchi a nove ricorrenze, meglio una prosa_entita, ma non è il mio turno.",
-"scelto": "ELA-GAD-0033"
-},
-"postata_da": "redattore",
-"presa_da": null,
-"presa_il": null,
-"priorita": 3,
-"racconto": null,
-"righe": [
-"ELA-GAD-0033"
-],
-"scade": null,
-"stato": "aperta",
-"storia": [
-{
-"agente": "redattore",
-"da": "redattore",
-"quando": "2026-09-18T21:38:14Z",
-"stato": "aperta"
-}
-],
-"tentativi": 0,
-"tipo": "approfondimento",
-"universi": [
-"elabverse"
-]
-},
-{
 "alternativa_dettaglio": null,
 "alternative": [],
 "auto_riferimento": false,
@@ -4600,6 +4498,130 @@
 ],
 "tentativi": 0,
 "tipo": "media_tavola",
+"universi": [
+"elabverse"
+]
+},
+{
+"alternativa_dettaglio": null,
+"alternative": [],
+"auto_riferimento": false,
+"carta_madre": "BAC-35397734349-1",
+"chiusa_il": null,
+"contro_cercato_marcato": [
+{
+"auto_riferimento": false,
+"id": "ELA-INV-0070"
+},
+{
+"auto_riferimento": false,
+"id": "ELA-PER-0029"
+},
+{
+"auto_riferimento": false,
+"id": "ELA-GAD-0031"
+}
+],
+"creata": "2026-09-19T11:20:17Z",
+"esito": null,
+"id": "BAC-35439812590-1",
+"payload": {
+"alternativa_testo": null,
+"artefatto_alternativo": null,
+"carta_madre": "BAC-35397734349-1",
+"contraddizione_id": null,
+"contro_cercato": [
+"ELA-INV-0070",
+"ELA-PER-0029",
+"ELA-GAD-0031"
+],
+"lacuna": "scena della prima prova sul volto archiviato",
+"letto_a": "918aa61b4ea2c9d6e1dbc56f55c4828d9dec9597",
+"posizione": "accolgo",
+"testo": "Accolgo: a letto_a ELA-GAD-0033 ha il gancio che nomina il pettine che stride, non la scena — l'espansione chiude proprio quel buco, e ELA-INV-0070 (armoniche del volto-voce) con ELA-PER-0029 la sostengono. Paletto mio: «nessuna figlia» è scelta di sviluppo, non lacuna; l'artefatto ELA-GAD-0042 regga il confronto col fratello ELA-GAD-0031."
+},
+"postata_da": "guardiano",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"ELA-GAD-0033"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "guardiano",
+"da": "guardiano",
+"quando": "2026-09-19T11:20:17Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "commento",
+"universi": [
+"elabverse"
+]
+},
+{
+"alternativa_dettaglio": null,
+"alternative": [],
+"auto_riferimento": false,
+"carta_madre": "BAC-35397734349-1",
+"chiusa_il": null,
+"contro_cercato_marcato": [
+{
+"auto_riferimento": false,
+"id": "ELA-GAD-0033"
+},
+{
+"auto_riferimento": false,
+"id": "ELA-INV-0070"
+},
+{
+"auto_riferimento": false,
+"id": "ELA-PER-0029"
+}
+],
+"creata": "2026-09-19T11:21:17Z",
+"esito": null,
+"id": "BAC-35439812590-2",
+"payload": {
+"alternativa_testo": null,
+"artefatto_alternativo": null,
+"carta_madre": "BAC-35397734349-1",
+"contraddizione_id": "ELA-GAD-0033",
+"contro_cercato": [
+"ELA-GAD-0033",
+"ELA-INV-0070",
+"ELA-PER-0029"
+],
+"lacuna": "nessuna lacuna di scena: il gancio già la contiene",
+"letto_a": "918aa61b4ea2c9d6e1dbc56f55c4828d9dec9597",
+"posizione": "obietto",
+"testo": "Obietto: in ELA-GAD-0033 il gancio contiene già la prima passata e lo stridere ('i denti stridono nel punto sbagliato'); non è campo vuoto ma scena scritta. 'Nessuna figlia' è scelta di sviluppo, non lacuna. L'espansione racconta ciò che la madre già dice."
+},
+"postata_da": "riparatore",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"ELA-GAD-0033"
+],
+"scade": null,
+"stato": "aperta",
+"storia": [
+{
+"agente": "riparatore",
+"da": "riparatore",
+"quando": "2026-09-19T11:21:17Z",
+"stato": "aperta"
+}
+],
+"tentativi": 0,
+"tipo": "commento",
 "universi": [
 "elabverse"
 ]
@@ -4975,6 +4997,115 @@
 "tipo": "approfondimento",
 "universi": [
 "hackverse"
+]
+},
+{
+"alternative": [],
+"artefatti_prodotti": [
+"ELA-GAD-0042"
+],
+"artefatto_dettaglio": {
+"carta": "BAC-35397734349-1",
+"commento": null,
+"errori_schema": [],
+"id": "ELA-GAD-0042",
+"motivazione": "Su ELA-GAD-0033 il gancio è già una scena scritta a metà: il pettine che stride sul volto archiviato, quello firmato dall'inventore del Cifrario. Il mio mestiere non deve inventare nulla per approfondire, gli basta far accadere quel passaggio: Yosuke, il disegno, i denti che sbagliano punto. STE-INV-0014 e ELA-INV-0094 hanno ganci forti ma chiusi (una morte, una bandiera issata); qui invece resta aperto il gesto centrale del gadget — la prova — e la riga non ha figlie, quindi l'espansione è il posto giusto. Non tocco le schede anomalia: sono elenchi a nove ricorrenze, meglio una prosa_entita, ma non è il mio turno.",
+"promossa_da": null,
+"promossa_il": null,
+"respinta_il": null,
+"riga": {
+"carta_id": "BAC-35397734349-1",
+"chi_lo_porta": "Yosuke lo prende in prestito ogni volta che finisce una copia del volto che sta cercando di ricostruire per Scafo Zero: nessun disegno esce dalle sue mani prima che il pettine ci sia passato sopra. Se lo porta dietro anche quando scende agli archivi, perché la prova che conta non è sul suo foglio ma sul volto conservato.",
+"chi_paga": "l-inventore-originario",
+"cosa": "Pettine di resina colata con i denti tagliati sulle armoniche esatte di un volto canonico: passato sul foglio verifica al tatto se una copia disegnata a mano è fedele all'originale, e non si lascia ingannare dalla precisione del tratto.",
+"created": "2026-09-18",
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 95,
+"gancio": "Yosuke finisce la copia, ci passa sopra il pettine e i denti scivolano lisci: il disegno tiene. Ma il giorno in cui porta il pettine davanti al volto conservato negli archivi — quello firmato dall'inventore del Cifrario in persona — i denti stridono nel punto sbagliato, in un punto che la sua copia aveva attraversato in silenzio, come se la voce vera non fosse mai stata quella.",
+"id": "ELA-GAD-0042",
+"invenzione_id": "ELA-INV-0070",
+"nome": "Il Pettine di Prova",
+"oggetto": "Pettine di resina i cui denti corrispondono alle armoniche di un volto autentico, usato per testarne le copie al tatto.",
+"origine": "approfondimento",
+"parent_id": "ELA-GAD-0033",
+"personaggio_id": "ELA-PER-0029",
+"prod": false,
+"regione": "Scafo Zero",
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "gadget",
+"torsione": "prova-collaudo",
+"tradimento_tech": "Non certifica la bellezza del disegno ma la sua frequenza: un volto può sembrare perfetto e stridere comunque sotto i denti del pettine; la prova non dice dove sia l'errore, dice solo che c'è.",
+"universo": "elabverse"
+},
+"scartata_per": null,
+"stato": "provvisoria",
+"storia": [
+{
+"autore": "redattore",
+"motivo": "artefatto della carta None",
+"quando": "2026-09-18T21:38:35Z",
+"sha": "918aa61b4ea2c9d6e1dbc56f55c4828d9dec9597",
+"versione": 1
+}
+],
+"versione": 1,
+"versioni": []
+},
+"chiusa_il": null,
+"creata": "2026-09-18T21:38:14Z",
+"esito": null,
+"id": "BAC-35397734349-1",
+"letto_a": "918aa61b4ea2c9d6e1dbc56f55c4828d9dec9597",
+"payload": {
+"artefatti_prodotti": [
+"ELA-GAD-0042"
+],
+"artefatto": "proposte/righe/ELA-GAD-0042.yaml",
+"candidati": [
+"ELA-GAD-0033",
+"STE-INV-0014",
+"ELA-INV-0094",
+"entita:neofeudal/anomalia/la-fusione-dei-voti",
+"entita:neofeudal/anomalia/la-semina-dell-anno-storto"
+],
+"forma": "espansione",
+"lacuna": "la scena della prima prova sul volto archiviato",
+"letto_a": "918aa61b4ea2c9d6e1dbc56f55c4828d9dec9597",
+"motivazione": "Su ELA-GAD-0033 il gancio è già una scena scritta a metà: il pettine che stride sul volto archiviato, quello firmato dall'inventore del Cifrario. Il mio mestiere non deve inventare nulla per approfondire, gli basta far accadere quel passaggio: Yosuke, il disegno, i denti che sbagliano punto. STE-INV-0014 e ELA-INV-0094 hanno ganci forti ma chiusi (una morte, una bandiera issata); qui invece resta aperto il gesto centrale del gadget — la prova — e la riga non ha figlie, quindi l'espansione è il posto giusto. Non tocco le schede anomalia: sono elenchi a nove ricorrenze, meglio una prosa_entita, ma non è il mio turno.",
+"scelto": "ELA-GAD-0033"
+},
+"postata_da": "redattore",
+"presa_da": null,
+"presa_il": null,
+"priorita": 3,
+"racconto": null,
+"righe": [
+"ELA-GAD-0033"
+],
+"scade": null,
+"stato": "attesa_arbitro",
+"storia": [
+{
+"agente": "redattore",
+"da": "redattore",
+"quando": "2026-09-18T21:38:14Z",
+"stato": "aperta"
+},
+{
+"agente": "guardiano",
+"da": "guardiano",
+"motivo": "primo commento: decide l'arbitro",
+"quando": "2026-09-19T11:20:17Z",
+"stato": "attesa_arbitro"
+}
+],
+"tentativi": 0,
+"tipo": "approfondimento",
+"universi": [
+"elabverse"
 ]
 },
 {

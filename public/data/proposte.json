@@ -685,7 +685,7 @@
 {
 "carta_chiusa_il": null,
 "carta_id": "BAC-35397734349-1",
-"carta_stato": "aperta",
+"carta_stato": "attesa_arbitro",
 "commento": null,
 "created": "2026-09-18",
 "errori_schema": [],

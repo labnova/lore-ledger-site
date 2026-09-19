@@ -1,9 +1,9 @@
 {
-"aggiornata": "2026-09-18",
+"aggiornata": "2026-09-19",
 "alias": [],
 "descrizione": "Fondazione di certificazione che audita la continuità del freddo nei container reefer del porto di Rotterdam, emettendo il bollino che permette lo sdoganamento rapido.",
 "ha_prosa": false,
-"n_ricorrenze": 8,
+"n_ricorrenze": 16,
 "nome": "Stichting Koudeketen Rotterdam",
 "prima_apparizione": 116,
 "prosa": null,
@@ -80,9 +80,116 @@
 "riga_id": "HAC-INV-0095",
 "riga_tipo": "invenzione",
 "riga_titolo": "laatstelog"
+},
+{
+"estrazione": 139,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": null,
+"riga_tipo": null,
+"riga_titolo": null
+},
+{
+"estrazione": 139,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-GAD-0014",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Logger della Sorte"
+},
+{
+"estrazione": 139,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-GAD-0017",
+"riga_tipo": "gadget",
+"riga_titolo": "L'Etichetta Scambiata"
+},
+{
+"estrazione": 139,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-GAD-0018",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Logger Muto"
+},
+{
+"estrazione": 139,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-GAD-0019",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Sensore di Cera"
+},
+{
+"estrazione": 139,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-GAD-0021",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Pezzo Unico"
+},
+{
+"estrazione": 139,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-GAD-0022",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Prototipo TICK1"
+},
+{
+"estrazione": 139,
+"quando": "2026-09-19",
+"racconto": null,
+"racconto_titolo": null,
+"riga_id": "HAC-GAD-0023",
+"riga_tipo": "gadget",
+"riga_titolo": "Il Sigillo Senza Nome"
 }
 ],
 "righe": [
+{
+"id": "HAC-GAD-0014",
+"tipo": "gadget",
+"titolo": "Il Logger della Sorte"
+},
+{
+"id": "HAC-GAD-0017",
+"tipo": "gadget",
+"titolo": "L'Etichetta Scambiata"
+},
+{
+"id": "HAC-GAD-0018",
+"tipo": "gadget",
+"titolo": "Il Logger Muto"
+},
+{
+"id": "HAC-GAD-0019",
+"tipo": "gadget",
+"titolo": "Il Sensore di Cera"
+},
+{
+"id": "HAC-GAD-0021",
+"tipo": "gadget",
+"titolo": "Il Pezzo Unico"
+},
+{
+"id": "HAC-GAD-0022",
+"tipo": "gadget",
+"titolo": "Il Prototipo TICK1"
+},
+{
+"id": "HAC-GAD-0023",
+"tipo": "gadget",
+"titolo": "Il Sigillo Senza Nome"
+},
 {
 "id": "HAC-INV-0076",
 "tipo": "invenzione",

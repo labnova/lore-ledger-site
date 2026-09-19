@@ -7841,6 +7841,16 @@
 "to": "HAC-INV-0046"
 },
 {
+"from": "HAC-CON-0004",
+"kind": "sorgente",
+"to": "HAC-PER-0017"
+},
+{
+"from": "HAC-CON-0004",
+"kind": "regione",
+"to": "HAC-REG-rotterdam"
+},
+{
 "from": "NEO-CON-0001",
 "kind": "sorgente",
 "to": "NEO-PER-0010"
@@ -11364,6 +11374,12 @@
 "id": "HAC-CON-0003",
 "tipo": "contenuto",
 "titolo": "Reel promozionale \"Notte Piena\" — account @agroterm.notturno, 20s",
+"universo": "hackverse"
+},
+{
+"id": "HAC-CON-0004",
+"tipo": "contenuto",
+"titolo": "Pin \"Timbro buono, carta migliore\" — bacheca \"Carte di banchina ∙ estetica da collezione\", 340 salvataggi",
 "universo": "hackverse"
 },
 {
