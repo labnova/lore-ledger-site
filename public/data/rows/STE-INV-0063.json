@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-utente-ultimo",
+"created": "2026-09-19",
+"discipline": [
+"cucina/pasticceria",
+"ludica/giocattoli_meccanici"
+],
+"entita_usate": [
+"Consorzio del Vetro e del Sale"
+],
+"epoca_relativa": 0,
+"estrazione": 136,
+"fatti": [],
+"gancio": "Il Consorzio del Vetro e del Sale distribuisce i gettoni per famiglia e per giorno della settimana; chi perde il proprio turno aspetta fino al successivo, anche se il ghiaccio nella vasca si sta sciogliendo davanti a lui.",
+"id": "STE-INV-0063",
+"media": [],
+"nome": "La Grattachecca a Turni",
+"nome_reale": "Grattachecca a tessera, che eroga una porzione di ghiaccio aromatizzato solo se si inserisce il gettone-vapore del proprio turno",
+"oggetto": "Grattachecca a manovella che eroga una porzione di ghiaccio aromatizzato solo con il gettone-vapore del turno assegnato.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "razionamento",
+"universo": "steamverse"
+}

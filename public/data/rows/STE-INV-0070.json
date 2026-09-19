@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_paga": "il-costruttore",
+"created": "2026-09-19",
+"discipline": [
+"cucina/pasticceria",
+"ludica/giocattoli_meccanici"
+],
+"entita_usate": [
+"Halim Zaffran",
+"Qattoum"
+],
+"epoca_relativa": 0,
+"estrazione": 136,
+"fatti": [],
+"gancio": "Halim Zaffran le carica sui battelli in partenza da Qattoum insieme ai balocchi veri, e quando i doganieri ne rompono una per sbaglio è sempre lui a doverne rispondere, mai chi gliele ha commissionate.",
+"id": "STE-INV-0070",
+"media": [],
+"nome": "La Bambola Cava",
+"nome_reale": "Bambola di zucchero cava, riempita di cannella di contrabbando e venduta come giocattolo da Halim Zaffran ai battelli in partenza",
+"oggetto": "Bambola di zucchero cava, venduta come giocattolo ma riempita di spezie di contrabbando.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "contrabbando",
+"universo": "steamverse"
+}

@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_paga": "il-futuro",
+"created": "2026-09-19",
+"discipline": [
+"cucina/pasticceria",
+"ludica/giocattoli_meccanici"
+],
+"entita_usate": [
+"Qattoum",
+"Consorzio del Vetro e del Sale"
+],
+"epoca_relativa": 0,
+"estrazione": 136,
+"fatti": [],
+"gancio": "A Qattoum tre forni su quattro lavorano con la Sorella Povera; i denti di legno si consumano in due stagioni e chi erediterà il forno dovrà ricomprarla, o tornare a impastare a mano.",
+"id": "STE-INV-0053",
+"media": [],
+"nome": "La Sorella Povera",
+"nome_reale": "Impastatrice a manovella con ingranaggi di legno di limone al posto dell'ottone, venduta ai forni che non possono permettersi il modello del Consorzio",
+"oggetto": "Impastatrice a manovella con ingranaggi di legno al posto dell'ottone, per i forni che non possono comprare il modello del Consorzio.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "sostituto-povero",
+"universo": "steamverse"
+}

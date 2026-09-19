@@ -1,0 +1,28 @@
+{
+"appare_in": [],
+"chi_paga": "un-terzo-ignaro",
+"created": "2026-09-19",
+"discipline": [
+"logistica/catena_del_freddo",
+"geografia/idrografia"
+],
+"entita_usate": [],
+"epoca_relativa": 1,
+"estrazione": 136,
+"fatti": [],
+"gancio": "Imre lo installa per inchiodare Sándor con una prova che nessuno possa più contestare, ma il nastro perforato esce dalla cabina prima ancora che lui lo legga, e i nuovi scommettitori del porto ormai lo consultano più in fretta di lui.",
+"id": "STE-INV-0072",
+"media": [],
+"nome": "Il Contachiuse di Imre",
+"nome_reale": "Contachiuse a nastro perforato che Imre Tathy monta per registrare al minuto ogni apertura delle chiuse del Fiume Secondo e portarne finalmente prova ai capisquadra",
+"oggetto": "Contachiuse a nastro perforato che registra al minuto ogni apertura delle chiuse del Fiume Secondo.",
+"parent_id": "STE-INV-0010",
+"poc": false,
+"regione": null,
+"relazione": "espansione",
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "effetto-collaterale",
+"universo": "steamverse"
+}

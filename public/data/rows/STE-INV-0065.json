@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "la-comunita",
+"created": "2026-09-19",
+"discipline": [
+"cucina/pasticceria",
+"ludica/giocattoli_meccanici"
+],
+"entita_usate": [
+"Consorzio del Vetro e del Sale"
+],
+"epoca_relativa": 0,
+"estrazione": 136,
+"fatti": [],
+"gancio": "I forni vicini alla bottega di stampi hanno smesso di comprare legna e bruciano solo la cera di scarto; quando il Consorzio del Vetro e del Sale ha cambiato la ricetta della cera, mezzo quartiere è rimasto senza fuoco per una settimana.",
+"id": "STE-INV-0065",
+"media": [],
+"nome": "La Cera degli Stampi",
+"nome_reale": "Stampo a pressione per frutta di marzapane, che nel raffreddarsi rilascia un residuo di cera dolce riutilizzato come combustibile dai forni vicini",
+"oggetto": "Stampo a pressione per frutta di marzapane che, raffreddandosi, rilascia un residuo di cera dolce.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "effetto-collaterale",
+"universo": "steamverse"
+}

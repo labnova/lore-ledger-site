@@ -1,0 +1,28 @@
+{
+"appare_in": [],
+"chi_paga": "nessuno-apparentemente",
+"created": "2026-09-19",
+"discipline": [
+"cucina/pasticceria",
+"ludica/giocattoli_meccanici"
+],
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 136,
+"fatti": [],
+"gancio": "Il fabbro che lo ripara ogni mese giura che è normale usura; nessuno ha mai contato che il dente cede sempre alla dodicesima noce, la stessa quantità che il proprietario rivende extra al mercato nero quando il negozio \"è rotto\".",
+"id": "STE-INV-0064",
+"media": [],
+"nome": "Il Dente Che Cede",
+"nome_reale": "Schiaccianoci automatico a leva, il cui dente centrale si spezza sempre alla dodicesima noce",
+"oggetto": "Schiaccianoci automatico a leva che si inceppa regolarmente dopo un numero fisso di noci.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "sabotaggio",
+"universo": "steamverse"
+}

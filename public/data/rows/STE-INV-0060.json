@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-utente-ultimo",
+"created": "2026-09-19",
+"discipline": [
+"cucina/pasticceria",
+"ludica/giocattoli_meccanici"
+],
+"entita_usate": [
+"Qattoum"
+],
+"epoca_relativa": 0,
+"estrazione": 136,
+"fatti": [],
+"gancio": "La famiglia che l'ha comprato deve ricaricarlo ogni due minuti perché il meccanismo è tarato per un percorso lungo un molo, non per il giro di un tavolo di Qattoum.",
+"id": "STE-INV-0060",
+"media": [],
+"nome": "Il Treno da Tavola",
+"nome_reale": "Trenino di latta per la consegna dei dolci lungo l'intero porto di Qattoum, comprato in miniatura da una famiglia per servire i dolci in tavola",
+"oggetto": "Trenino di latta pensato per consegnare dolci lungo tutto il porto, usato in miniatura per servire a tavola.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "scala-sbagliata",
+"universo": "steamverse"
+}

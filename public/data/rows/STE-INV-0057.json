@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "il-costruttore",
+"created": "2026-09-19",
+"discipline": [
+"cucina/pasticceria",
+"ludica/giocattoli_meccanici"
+],
+"entita_usate": [
+"Consorzio del Vetro e del Sale"
+],
+"epoca_relativa": 0,
+"estrazione": 136,
+"fatti": [],
+"gancio": "Chi ripara una manovella deve comprare il Dente di Vetro dal Consorzio del Vetro e del Sale a prezzo di monopolio; l'artigiano che l'aveva inventato ora lo assembla soltanto, e il suo nome non compare più sul marchio.",
+"id": "STE-INV-0057",
+"media": [],
+"nome": "Il Dente di Vetro",
+"nome_reale": "Ingranaggio calibrato in vetro temprato per le manovelle delle grattachecche, fuso solo nelle fornaci del Consorzio del Vetro e del Sale",
+"oggetto": "Ingranaggio in vetro temprato per le manovelle delle grattachecche, fuso solo dal Consorzio.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "monopolio",
+"universo": "steamverse"
+}

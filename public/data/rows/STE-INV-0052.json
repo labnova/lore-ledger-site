@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-inventore-originario",
+"created": "2026-09-19",
+"discipline": [
+"cucina/pasticceria",
+"ludica/giocattoli_meccanici"
+],
+"entita_usate": [
+"Consorzio del Vetro e del Sale"
+],
+"epoca_relativa": 0,
+"estrazione": 136,
+"fatti": [],
+"gancio": "La costruì il primo mastro per togliere ai figli la tentazione di litigare sull'eredità del forno; oggi il Consorzio del Vetro e del Sale lima sempre lo stesso dente dell'ingranaggio, e la sorte cade sempre sul candidato giusto.",
+"id": "STE-INV-0052",
+"media": [],
+"nome": "La Ruota di Candelora",
+"nome_reale": "Ruota di zucchero temprato, azionata da un automa a orologeria, che ogni Candelora estrae a sorte il nuovo mastro pasticciere del Consorzio del Vetro e del Sale",
+"oggetto": "Ruota di zucchero temprato che un automa a orologeria fa girare ogni Candelora per estrarre a sorte il nuovo mastro pasticciere del Consorzio.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "sorte",
+"universo": "steamverse"
+}

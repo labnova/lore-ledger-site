@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "nessuno-apparentemente",
+"created": "2026-09-19",
+"discipline": [
+"cucina/pasticceria",
+"ludica/giocattoli_meccanici"
+],
+"entita_usate": [
+"Halim Zaffran"
+],
+"epoca_relativa": 0,
+"estrazione": 136,
+"fatti": [],
+"gancio": "Halim Zaffran giura di non essersi accorto del furto per settimane, perché in magazzino continuava a comparire un pesce spada di marzapane identico, fatto da uno stampo che nessuno sapeva chi avesse.",
+"id": "STE-INV-0054",
+"media": [],
+"nome": "Lo Stampo Scomparso",
+"nome_reale": "Stampo in ottone per marzapane a forma di pesce spada, inciso su misura per una sola bottega e scomparso dal magazzino di Halim Zaffran",
+"oggetto": "Stampo in ottone per marzapane a forma di pesce spada, inciso su misura per una sola bottega.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "furto",
+"universo": "steamverse"
+}

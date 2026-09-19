@@ -1,0 +1,32 @@
+{
+"appare_in": [],
+"chi_paga": "il-futuro",
+"created": "2026-09-19",
+"discipline": [
+"cucina/pasticceria",
+"ludica/giocattoli_meccanici"
+],
+"entita_usate": [
+"Lo Sfarfallio delle Nove",
+"Qattoum",
+"Consorzio del Vetro e del Sale"
+],
+"epoca_relativa": 0,
+"estrazione": 136,
+"fatti": [],
+"gancio": "I bambini di Qattoum si organizzano ogni sera intorno al distributore prima ancora che la luce vacilli; quando il Consorzio del Vetro e del Sale ne ha tolto uno per manutenzione, hanno continuato ad aspettare comunque, alla stessa ora, davanti al muro vuoto.",
+"id": "STE-INV-0071",
+"media": [],
+"nome": "Il Distributore delle Nove",
+"nome_reale": "Distributore a molla di dolcetti allo zucchero d'orzo, tarato per erogare un pezzo esattamente allo Sfarfallio delle Nove",
+"oggetto": "Distributore a molla che eroga un dolcetto allo zucchero d'orzo esattamente allo Sfarfallio delle Nove.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "dipendenza",
+"universo": "steamverse"
+}

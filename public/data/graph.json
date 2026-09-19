@@ -611,6 +611,11 @@
 "to": "STE-INV-0051"
 },
 {
+"from": "STE-INV-0010",
+"kind": "parent",
+"to": "STE-INV-0072"
+},
+{
 "from": "CYB-PER-0001",
 "kind": "invenzione",
 "to": "CYB-INV-0015"
@@ -3701,6 +3706,21 @@
 "to": "STE-REG-tuzkaya"
 },
 {
+"from": "STE-PER-0038",
+"kind": "parent",
+"to": "STE-PER-0046"
+},
+{
+"from": "STE-PER-0046",
+"kind": "invenzione",
+"to": "STE-INV-0021"
+},
+{
+"from": "STE-PER-0046",
+"kind": "regione",
+"to": "STE-REG-tuzkaya"
+},
+{
 "from": "CYB-GAD-0001",
 "kind": "invenzione",
 "to": "CYB-INV-0013"
@@ -5544,6 +5564,21 @@
 "from": "HAC-GAD-0012",
 "kind": "regione",
 "to": "HAC-REG-singapore"
+},
+{
+"from": "HAC-GAD-0013",
+"kind": "invenzione",
+"to": "HAC-INV-0082"
+},
+{
+"from": "HAC-GAD-0013",
+"kind": "personaggio",
+"to": "HAC-PER-0060"
+},
+{
+"from": "HAC-GAD-0013",
+"kind": "regione",
+"to": "HAC-REG-kristiansand"
 },
 {
 "from": "NEO-GAD-0001",
@@ -11168,6 +11203,12 @@
 "universo": "hackverse"
 },
 {
+"id": "HAC-GAD-0013",
+"tipo": "gadget",
+"titolo": "TaraFix",
+"universo": "hackverse"
+},
+{
 "id": "HAC-INV-0001",
 "tipo": "invenzione",
 "titolo": "Goccia Cieca",
@@ -14822,6 +14863,132 @@
 "universo": "steamverse"
 },
 {
+"id": "STE-INV-0052",
+"tipo": "invenzione",
+"titolo": "La Ruota di Candelora",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0053",
+"tipo": "invenzione",
+"titolo": "La Sorella Povera",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0054",
+"tipo": "invenzione",
+"titolo": "Lo Stampo Scomparso",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0055",
+"tipo": "invenzione",
+"titolo": "Il Canarino di Prima Serie",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0056",
+"tipo": "invenzione",
+"titolo": "Il Torchio dei Nastri",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0057",
+"tipo": "invenzione",
+"titolo": "Il Dente di Vetro",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0058",
+"tipo": "invenzione",
+"titolo": "La Colomba del Raffreddamento",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0059",
+"tipo": "invenzione",
+"titolo": "Il Teatrino del Collaudo",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0060",
+"tipo": "invenzione",
+"titolo": "Il Treno da Tavola",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0061",
+"tipo": "invenzione",
+"titolo": "Il Battitore Doppio",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0062",
+"tipo": "invenzione",
+"titolo": "L'Affettatrice del Patrono",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0063",
+"tipo": "invenzione",
+"titolo": "La Grattachecca a Turni",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0064",
+"tipo": "invenzione",
+"titolo": "Il Dente Che Cede",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0065",
+"tipo": "invenzione",
+"titolo": "La Cera degli Stampi",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0066",
+"tipo": "invenzione",
+"titolo": "Il Versatore da Notabili",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0067",
+"tipo": "invenzione",
+"titolo": "Il Confettiere Fuori Stagione",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0068",
+"tipo": "invenzione",
+"titolo": "Il Carillon delle Nove",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0069",
+"tipo": "invenzione",
+"titolo": "Il Calibro Unico",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0070",
+"tipo": "invenzione",
+"titolo": "La Bambola Cava",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0071",
+"tipo": "invenzione",
+"titolo": "Il Distributore delle Nove",
+"universo": "steamverse"
+},
+{
+"id": "STE-INV-0072",
+"tipo": "invenzione",
+"titolo": "Il Contachiuse di Imre",
+"universo": "steamverse"
+},
+{
 "id": "STE-PER-0001",
 "tipo": "personaggio",
 "titolo": "Tatiana Gomiin",
@@ -15089,6 +15256,12 @@
 "id": "STE-PER-0045",
 "tipo": "personaggio",
 "titolo": "Hasan Kayaoğlu",
+"universo": "steamverse"
+},
+{
+"id": "STE-PER-0046",
+"tipo": "personaggio",
+"titolo": "Yusuf Demirci",
 "universo": "steamverse"
 },
 {

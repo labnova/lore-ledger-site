@@ -1,0 +1,37 @@
+{
+"affettivo": {
+"orientamento": "eterosessuale",
+"situazione": "single"
+},
+"appare_in": [],
+"casta": "operai_di_fabbrica",
+"ceppo": "turco",
+"cognome": "Demirci",
+"contraddizione": "Cava salgemma per il Consorzio tutto il giorno e ne conosce la grana meglio di chiunque, ma di notte usa proprio quella polvere per far sembrare autentico un Bollo della Purezza che il Consorzio non gli concederebbe mai; odia un sistema che lo esclude eppure ne replica fedelmente ogni sigillo, convinto che copiarlo alla perfezione sia l'unica giustizia che può permettersi.",
+"created": "2026-09-19",
+"difetto": "bugiardo",
+"epoca_relativa": 0,
+"estrazione": 136,
+"eta_fascia": "adulto",
+"fatti": [],
+"gancio": "Conserva in una scatola di latta i timbri consumati che gli operai buttano via a fine turno, e ogni bollo che stampa con quelli ha lo stesso margine di usura di uno vero, tanto che nessun ispettore, finora, ha mai saputo dire quale dei due gli hanno messo in mano.",
+"id": "STE-PER-0046",
+"invenzione_id": "STE-INV-0021",
+"media": [],
+"nome": "Yusuf",
+"parent_id": "STE-PER-0038",
+"rapporto": "falsifica",
+"regione": "STE-REG-tuzkaya",
+"relazione": "espansione",
+"ritratto": null,
+"schema_version": 1,
+"segno": "capricorno",
+"spirituale": {
+"credenza": "dottrina_del_debito",
+"rapporto": "scettico"
+},
+"status": "canon",
+"tipo": "personaggio",
+"tratto": "diffidente",
+"universo": "steamverse"
+}

@@ -282,27 +282,13 @@
 },
 {
 "alias": [
-"NEO-REG-zastavena"
-],
-"descrizione": "Avamposto oltre il Passo di Vermasca dove i custodi dell'era precedente vivono asserragliati attorno ai relitti del vecchio sistema, tramandando a memoria gli ordini di un sergente che forse non esiste più.",
-"ha_prosa": false,
-"nome": "Zastavena",
-"prima_apparizione": 62,
-"ricorrenze": 13,
-"slug": "zastavena",
-"sopra_soglia": true,
-"tipo": "luogo",
-"universo": "neofeudal"
-},
-{
-"alias": [
 "HAC-REG-kristiansand"
 ],
 "descrizione": "Capolinea del traghetto per la Danimarca e sede storica della dogana regionale sulla costa sud della Norvegia, dove le famiglie che presidiano il varco non cambiano da generazioni, il ceppo scandinavo resta dominante e un funzionario su tre porta ancora il cognome del mestiere che la sua famiglia svolgeva già al banco dei controlli.",
 "ha_prosa": false,
 "nome": "Kristiansand",
 "prima_apparizione": 132,
-"ricorrenze": 12,
+"ricorrenze": 13,
 "slug": "kristiansand",
 "sopra_soglia": true,
 "tipo": "luogo",
@@ -316,11 +302,25 @@
 "ha_prosa": false,
 "nome": "Trieste",
 "prima_apparizione": 118,
-"ricorrenze": 12,
+"ricorrenze": 13,
 "slug": "trieste",
 "sopra_soglia": true,
 "tipo": "luogo",
 "universo": "hackverse"
+},
+{
+"alias": [
+"NEO-REG-zastavena"
+],
+"descrizione": "Avamposto oltre il Passo di Vermasca dove i custodi dell'era precedente vivono asserragliati attorno ai relitti del vecchio sistema, tramandando a memoria gli ordini di un sergente che forse non esiste più.",
+"ha_prosa": false,
+"nome": "Zastavena",
+"prima_apparizione": 62,
+"ricorrenze": 13,
+"slug": "zastavena",
+"sopra_soglia": true,
+"tipo": "luogo",
+"universo": "neofeudal"
 },
 {
 "alias": [

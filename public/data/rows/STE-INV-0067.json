@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "un-terzo-ignaro",
+"created": "2026-09-19",
+"discipline": [
+"cucina/pasticceria",
+"ludica/giocattoli_meccanici"
+],
+"entita_usate": [
+"Halim Zaffran"
+],
+"epoca_relativa": 0,
+"estrazione": 136,
+"fatti": [],
+"gancio": "Halim Zaffran lo vende avvolto in carta da giocattolo, così i doganieri del porto lo lasciano passare come balocco; a pagarne il prezzo, quando arriva la sanzione, è sempre il bottegaio che lo espone in vetrina senza saperne la provenienza.",
+"id": "STE-INV-0067",
+"media": [],
+"nome": "Il Confettiere Fuori Stagione",
+"nome_reale": "Pupazzo a molla che distribuisce confetti proibiti fuori stagione, venduto sottobanco da Halim Zaffran durante il digiuno",
+"oggetto": "Pupazzo a molla che distribuisce confetti, venduto anche fuori dalla stagione in cui sono permessi.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "divieto-ignorato",
+"universo": "steamverse"
+}

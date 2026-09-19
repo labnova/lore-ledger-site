@@ -1,0 +1,28 @@
+{
+"appare_in": [],
+"chi_paga": "il-costruttore",
+"created": "2026-09-19",
+"discipline": [
+"cucina/pasticceria",
+"ludica/giocattoli_meccanici"
+],
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 136,
+"fatti": [],
+"gancio": "Un ceppo lo chiama \"u tuppuliaturi\", l'altro \"il battitore\"; l'artigiano che lo costruisce ha ricevuto due ordini identici con nomi diversi e ha consegnato il doppio, convinto fossero due oggetti.",
+"id": "STE-INV-0061",
+"media": [],
+"nome": "Il Battitore Doppio",
+"nome_reale": "Timer a molla per i cannoli, chiamato \"u tuppuliaturi\" da un ceppo e \"il battitore\" dall'altro, spedito in due lotti separati per lo stesso oggetto",
+"oggetto": "Timer a molla che batte un colpo quando i cannoli sono pronti da sfornare.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "malinteso-linguistico",
+"universo": "steamverse"
+}

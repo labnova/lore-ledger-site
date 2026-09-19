@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_paga": "il-futuro",
+"created": "2026-09-19",
+"discipline": [
+"cucina/pasticceria",
+"ludica/giocattoli_meccanici"
+],
+"entita_usate": [
+"Halim Zaffran",
+"Qattoum"
+],
+"epoca_relativa": 0,
+"estrazione": 136,
+"fatti": [],
+"gancio": "Halim Zaffran la porta ancora ogni anno alla festa patronale perché il taglio che fa lei, un po' storto, è quello che i vecchi di Qattoum riconoscono come \"quello giusto\"; i giovani impareranno solo quel taglio, non quello nuovo.",
+"id": "STE-INV-0062",
+"media": [],
+"nome": "L'Affettatrice del Patrono",
+"nome_reale": "Affettatrice meccanica per il torrone a manovella singola, superata dai modelli a doppia manovella ma tenuta in vita per la festa patronale",
+"oggetto": "Affettatrice meccanica per il torrone a manovella singola, più lenta dei modelli nuovi a doppia manovella.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "obsolescenza",
+"universo": "steamverse"
+}

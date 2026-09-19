@@ -5412,5 +5412,104 @@
 "CYB-CON-0004"
 ],
 "universo": "cyberverse"
+},
+{
+"campi_forzati": [],
+"chiavi": {
+"manca": {
+"gadget": 1,
+"personaggi": 0,
+"regione": true
+},
+"regione": "Trieste",
+"universo": "hackverse"
+},
+"cluster_target": "HAC-INV-0082",
+"created": "2026-09-19",
+"esito": "creato solo il gadget mancante (HAC-GAD-0013, portato da HAC-PER-0060 / Ingrid Halsson). Il cluster aveva già 10 personaggi con 6 rapporti diversi; manca.regione era un falso positivo, stesso caso già documentato nelle estrazioni 048/059/091/109/122: il campo `regione` dei 10 personaggi esistenti riporta l'id della riga regione (HAC-REG-kristiansand) invece del nome (Kristiansand), quindi il lookup per nome non trova corrispondenza. Il piano aveva risolto a caso su un'altra regione esistente (Trieste), ma usarla avrebbe contraddetto le righe esistenti del cluster (più personaggi citano esplicitamente l'ufficio doganale di Kristiansand nella loro contraddizione/gancio): il campo `regione` del nuovo gadget è stato quindi impostato su Kristiansand, non su Trieste, per coerenza con il canone già scritto. Nessuna riga esistente toccata (append-only), nessun nuovo file regione scritto. python3 -m engine.cluster --lista conferma HAC-INV-0082 fra i maturi (personaggi=10 gadget=1); il regione=None mostrato è lo stesso falso positivo, non un blocco reale (cluster_maturi non filtra per corrispondenza di regione).\n",
+"estrazione": 135,
+"forzata": false,
+"lotto": "lotto-maturazione",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"HAC-GAD-0013"
+],
+"universo": "hackverse"
+},
+{
+"ambientazione": "patrimonio-industriale-siciliano",
+"bibbia_pescata": [
+"*(blocco generato da `engine/bibliotecario.py` il 2026-09-15: fuori da q"
+],
+"campi_forzati": [],
+"canone_pescato": [
+"STE-FAT-m20260913-3",
+"STE-INV-0010",
+"STE-PER-0038"
+],
+"chiavi": {
+"discipline": [
+"cucina/pasticceria",
+"ludica/giocattoli_meccanici"
+],
+"universo": "steamverse"
+},
+"created": "2026-09-19",
+"entita": {
+"anomalia": {
+"descrizione": "Ogni sera, all'ora del cambio turno, la luce nelle canne di vetro del telegrafo vacilla per pochi secondi; nessuno ha mai spiegato perché, e ogni scheda del Consorzio lo registra come «normale».",
+"nome": "Lo Sfarfallio delle Nove"
+},
+"attore": {
+"descrizione": "Mercante di olio da lampada e canne di vetro soffiato, fa la spola tra le saline e il porto vendendo scorte a chi tiene acceso il telegrafo ottico del Consorzio.",
+"nome": "Halim Zaffran"
+},
+"ente": {
+"descrizione": "Gilda mercantile che possiede le canne di vetro del telegrafo ottico tese sulle saline e impone una tariffa di passaggio in gettoni-vapore a chiunque le attraversi.",
+"nome": "Consorzio del Vetro e del Sale"
+},
+"luogo": {
+"descrizione": "Porto di delta dove il fiume si divide in tre bracci salmastri; la gilda degli ingegneri del freddo costruisce e mantiene qui le chiatte refrigerate che risalgono la corrente fino alle città dell'interno, e quasi metà dei cognomi nasce ancora dal mestiere di chi ripara gli scafi.",
+"nome": "Qattoum"
+}
+},
+"entita_riusate": [
+"Consorzio del Vetro e del Sale",
+"Qattoum",
+"Halim Zaffran",
+"Lo Sfarfallio delle Nove"
+],
+"esito": "ok",
+"espansioni": [
+"STE-INV-0072",
+"STE-PER-0046"
+],
+"estrazione": 136,
+"forzata": false,
+"lotto": "lotto-lore",
+"modello": "claude-sonnet-5",
+"righe_prodotte": [
+"STE-INV-0052",
+"STE-INV-0053",
+"STE-INV-0054",
+"STE-INV-0055",
+"STE-INV-0056",
+"STE-INV-0057",
+"STE-INV-0058",
+"STE-INV-0059",
+"STE-INV-0060",
+"STE-INV-0061",
+"STE-INV-0062",
+"STE-INV-0063",
+"STE-INV-0064",
+"STE-INV-0065",
+"STE-INV-0066",
+"STE-INV-0067",
+"STE-INV-0068",
+"STE-INV-0069",
+"STE-INV-0070",
+"STE-INV-0071"
+],
+"universo": "steamverse"
 }
 ]

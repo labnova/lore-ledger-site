@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-istituzione",
+"created": "2026-09-19",
+"discipline": [
+"cucina/pasticceria",
+"ludica/giocattoli_meccanici"
+],
+"entita_usate": [
+"Consorzio del Vetro e del Sale"
+],
+"epoca_relativa": 0,
+"estrazione": 136,
+"fatti": [],
+"gancio": "Durante un collaudo il pupo del fondatore si è inceppato proprio nella scena in cui dichiara di aver pagato tutti i debiti della gilda; il Consorzio del Vetro e del Sale ha fatto smontare il teatrino \"per manutenzione\" e non l'ha più rimontato.",
+"id": "STE-INV-0059",
+"media": [],
+"nome": "Il Teatrino del Collaudo",
+"nome_reale": "Teatrino di automi che recita la storia del Consorzio del Vetro e del Sale davanti alla bottega, usato come collaudo pubblico dei nuovi meccanismi",
+"oggetto": "Teatrino di automi che recita la storia del Consorzio davanti alla bottega, usato per collaudare in pubblico i nuovi meccanismi.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "prova-collaudo",
+"universo": "steamverse"
+}

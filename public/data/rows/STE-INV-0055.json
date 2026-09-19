@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "la-comunita",
+"created": "2026-09-19",
+"discipline": [
+"cucina/pasticceria",
+"ludica/giocattoli_meccanici"
+],
+"entita_usate": [
+"Qattoum"
+],
+"epoca_relativa": 0,
+"estrazione": 136,
+"fatti": [],
+"gancio": "Il canarino nuovo fischia una sola nota, sempre la stessa; a Qattoum i vecchi fornai continuano a cercare gli esemplari di prima serie nei mercatini, perché solo quelli distinguevano il pane dal biscotto bruciato.",
+"id": "STE-INV-0055",
+"media": [],
+"nome": "Il Canarino di Prima Serie",
+"nome_reale": "Uccellino di latta a molla che fischiava tre note diverse a seconda della temperatura del forno",
+"oggetto": "Uccellino di latta a molla che fischia tre note diverse secondo la temperatura del forno.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "versione-precedente",
+"universo": "steamverse"
+}

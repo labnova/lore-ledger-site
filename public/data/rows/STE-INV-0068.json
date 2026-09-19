@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-ambiente-gli-animali",
+"created": "2026-09-19",
+"discipline": [
+"cucina/pasticceria",
+"ludica/giocattoli_meccanici"
+],
+"entita_usate": [
+"Lo Sfarfallio delle Nove"
+],
+"epoca_relativa": 0,
+"estrazione": 136,
+"fatti": [],
+"gancio": "Nessuno ha mai vietato per iscritto la melodia dello Sfarfallio delle Nove, ma i pasticcieri hanno smesso di venderla; i veri uccelli addestrati a imitarla, quando li sentono cantare in gabbia, vengono venduti altrove entro la settimana.",
+"id": "STE-INV-0068",
+"media": [],
+"nome": "Il Carillon delle Nove",
+"nome_reale": "Carillon a forma di uccello che suona una melodia diversa durante lo Sfarfallio delle Nove, mai trascritta né vietata apertamente",
+"oggetto": "Carillon a forma di uccello che suona una melodia diversa ogni sera, proprio durante lo Sfarfallio delle Nove.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "censura",
+"universo": "steamverse"
+}

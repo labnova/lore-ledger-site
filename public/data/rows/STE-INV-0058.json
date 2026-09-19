@@ -1,0 +1,28 @@
+{
+"appare_in": [],
+"chi_paga": "l-ambiente-gli-animali",
+"created": "2026-09-19",
+"discipline": [
+"cucina/pasticceria",
+"ludica/giocattoli_meccanici"
+],
+"entita_usate": [],
+"epoca_relativa": 0,
+"estrazione": 136,
+"fatti": [],
+"gancio": "Quando la colomba è tarata male segna la temperatura in ritardo, e il mastro pasticciere tiene colombe vere legate accanto allo stampo per controllo; quelle che si addormentano prima del tempo, le scarta.",
+"id": "STE-INV-0058",
+"media": [],
+"nome": "La Colomba del Raffreddamento",
+"nome_reale": "Colomba automatica che, se ben tarata, abbassa il becco sul torrone alla temperatura esatta di raffreddamento",
+"oggetto": "Colomba automatica che abbassa il becco sul torrone quando raggiunge la temperatura esatta di raffreddamento.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "calibrazione",
+"universo": "steamverse"
+}

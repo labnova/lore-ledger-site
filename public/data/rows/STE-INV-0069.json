@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "l-inventore-originario",
+"created": "2026-09-19",
+"discipline": [
+"cucina/pasticceria",
+"ludica/giocattoli_meccanici"
+],
+"entita_usate": [
+"Consorzio del Vetro e del Sale"
+],
+"epoca_relativa": 0,
+"estrazione": 136,
+"fatti": [],
+"gancio": "L'artigiana che aveva inventato il primo ingranaggio a misura propria ora deve limarlo per farlo entrare nel Calibro Unico del Consorzio del Vetro e del Sale, e il suo modello originale non passa più il collaudo.",
+"id": "STE-INV-0069",
+"media": [],
+"nome": "Il Calibro Unico",
+"nome_reale": "Misura standard di ottone per gli ingranaggi dei giocattoli da pasticceria, imposta dal Consorzio del Vetro e del Sale su tutte le botteghe",
+"oggetto": "Misura standard di ottone per gli ingranaggi dei giocattoli da pasticceria, imposta a tutte le botteghe.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "standard-imposto",
+"universo": "steamverse"
+}

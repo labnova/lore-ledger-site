@@ -1,0 +1,31 @@
+{
+"appare_in": [],
+"chi_paga": "l-istituzione",
+"created": "2026-09-19",
+"discipline": [
+"cucina/pasticceria",
+"ludica/giocattoli_meccanici"
+],
+"entita_usate": [
+"Qattoum",
+"Consorzio del Vetro e del Sale"
+],
+"epoca_relativa": 0,
+"estrazione": 136,
+"fatti": [],
+"gancio": "Le famiglie di pescatori ne fabbricano copie di legno che non versano niente, solo per tenerle in vetrina; il Consorzio del Vetro e del Sale, che aveva imposto il divieto per proteggere il prestigio dell'originale, si ritrova a difendere un oggetto che ormai tutti imitano e nessuno desidera più davvero.",
+"id": "STE-INV-0066",
+"media": [],
+"nome": "Il Versatore da Notabili",
+"nome_reale": "Automa da tavola che versa granita in coppe di vetro soffiato, riservato alle case notabili di Qattoum e vietato alle famiglie di pescatori",
+"oggetto": "Automa da tavola che versa granita in coppe di vetro soffiato, riservato alle famiglie notabili.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "lusso-proibito",
+"universo": "steamverse"
+}

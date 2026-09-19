@@ -1,0 +1,30 @@
+{
+"appare_in": [],
+"chi_paga": "un-terzo-ignaro",
+"created": "2026-09-19",
+"discipline": [
+"cucina/pasticceria",
+"ludica/giocattoli_meccanici"
+],
+"entita_usate": [
+"Consorzio del Vetro e del Sale"
+],
+"epoca_relativa": 0,
+"estrazione": 136,
+"fatti": [],
+"gancio": "Il Consorzio del Vetro e del Sale vende i nastri come \"lavorati a mano d'artista\"; la mano è quella di bambini che reggono il rocchetto finché lo zucchero non smette di fumare, e nessun cliente lo chiede mai.",
+"id": "STE-INV-0056",
+"media": [],
+"nome": "Il Torchio dei Nastri",
+"nome_reale": "Torchio a cremagliera che stira lo zucchero filato in nastri sottili, azionato da bambini che ne reggono il rocchetto per ore",
+"oggetto": "Torchio a cremagliera che stira lo zucchero filato in nastri sottili per le decorazioni di bottega.",
+"parent_id": null,
+"poc": false,
+"regione": null,
+"relazione": null,
+"schema_version": 1,
+"status": "canon",
+"tipo": "invenzione",
+"torsione": "costo-umano-nascosto",
+"universo": "steamverse"
+}
